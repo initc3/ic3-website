@@ -1,0 +1,189 @@
+{% macro people_item(link, pic, name, title, bio, email) %}
+    <div class="item">
+        <div class="content">
+            <img class="left floated small ui image" src="images/people/{{ pic }}">
+            {% if link %}
+              <a class="header" href=link>{{ name }}</a>
+            {% else %}
+              <a class="header" href={{ "mailto:" + email }}>{{ name }}</a>
+            {% endif %}
+            <div class="meta"><span>{{ title }}</span></div>
+            <div class="description"><p>{{ bio }}</p></div>
+            <div class="extra"></div>
+        </div>
+    </div>
+{% endmacro %}
+
+<div class="ui people divided items">
+
+<h1 class="ui header">Faculty / Scientists / Directors</h1>
+    {{ people_item('http://www.arijuels.com',
+         'ari2.jpg',
+         'Ari Juels',
+         'IC3 Co-Director',
+         'Ari Juels is a professor at the Jacobs Technion-Cornell Institute at Cornell Tech in NYC. He was previously Chief Scientist of RSA, The Security Division of EMC.',
+         'juels@cornell.edu') }}
+
+    {{ people_item('http://elaineshi.com',
+         'elaine2.jpg',
+         'Elaine Shi',
+         'IC3 Co-Director',
+         'Elaine Shi is an Associate Professor at Cornell University. 99% of programmers in the real world are not cryptography experts, and it is dangerous for them to cook up their own cryptographic protocols. Elaine\'s research creates platforms and tools that aids non-expert programmers in creating systems that are "secure by design" and "secure by default".',
+         'runting@gmail.com') }}
+
+    {{ people_item('http://www.cs.cornell.edu/people/egs/',
+         'gun.jpg',
+         'Emin G&uuml;n Sirer',
+         'IC3 Co-Director',
+         'Emin G&uumln Sirer is an Associate Professor of Computer Science at Cornell University. His research interests span distributed systems, cryptocurrencies, and software infrastructure for large scale services.',
+         'egs@systems.cs.cornell.edu') }}
+
+    {{ people_item('http://www.cs.cornell.edu/~ie53/',
+         'ittay.jpg',
+         'Ittay Eyal',
+         'IC3 Associate Director',
+         'Ittay Eyal is a post-doctoral associate in the Cornell Computer Science Department. His research focuses on distributed systems, particularly the security and scalability of cryptocurrency technologies.',
+         'ie53@cornell.edu') }}
+
+    {{ people_item('http://cs.umd.edu/~amiller',
+         'miller.jpg',
+         'Andrew Miller',
+         'IC3 Associate Director',
+         'Andrew Miller is a graduate student at University of Maryland. His research interests include all facets of cryptocurrency science, from measurement and simulation to theory and formal modelling. His lectures can be found in the first cryptocurrency textbook and MOOC.',
+         'amiller@cs.umd.edu') }}
+
+    {{ people_item('http://www.cs.utexas.edu/~lorenzo/',
+         'lorenzo.jpg',
+         'Lorenzo Alvisi',
+         '',
+         'Lorenzo Alvisi holds an Endowed Professorship in Computer Science at the
+     University of Texas at Austin.  He will join Cornell as a Professor of
+     Computer Science in Fall 2016. His research interests are in the theory and
+     practice of distributed computing, with a particular focus on
+     dependability. He is a Fellow of the ACM, IEEE, and Alfred P. Sloan
+     Foundation, and the recipient of a Humboldt Research Award.  He serves on
+     the editorial boards of ACM Transactions on Computer Systems and Springer’s
+     Distributed Computing, and on the council of CRA’s Computing Community
+     Consortium.',
+         'lorenzo@cs.utexas.edu') }}
+
+    {{ people_item('https://www.johnson.cornell.edu/Faculty-And-Research/Profile/id/rm34',
+         'roni.jpg',
+         'Roni Michaely',
+         '',
+         'Roni Michaely is the Rudd Family professor of finance at the Johnson Graduate School of Management at Cornell University and also affiliated with the Interdisciplinary Center. His research is in the areas of corporate finance, capital markets, and valuation. Currently, his research is focused on conflict of interest in capital markets, corporate payout policy, and securities\' valuation. He was recently recognized as one of the most cited people in finance, and serves an associate editor for the Journal of Finance',
+         'rm34@cornell.edu') }}
+
+    {{ people_item('http://www.cs.cornell.edu/andru/',
+         'myers.jpg',
+         'Andrew Myers',
+         '',
+         'Andrew Myers is a Professor in the Department of Computer Science at Cornell University in Ithaca, NY. His research interests include computer security, programming languages, and distributed and persistent programming systems. His work has focused on practical, sound, expressive languages and systems for enforcing information security by construction. The Jif programming language makes it possible to write programs which the compiler ensures are secure, and the Fabric system extends this approach to distributed programming. Myers is an ACM Fellow and co-Editor-in-Chief for the Journal of Computer Security.',
+         'andru@cs.cornell.edu') }}
+
+    {{ people_item('http://www.cs.cornell.edu/~rafael',
+         'rafael.jpg',
+         'Rafael Pass',
+         '',
+         'Rafael Pass is an Associate Professor of Computer Science at Cornell University (Cornell Tech). His research focuses on Cryptography and Game Theory and their interplay with Computational Complexity. He is a recipient of the NSF Career Award, the AFOSR Young Investigator Award, and the Google Faculty Award and was named a Alfred P Sloan Fellow, a Microsoft Faculty Fellow, and a Wallenberg Academy Fellow.',
+         'pass@cs.cornell.edu') }}
+
+    {{ people_item('http://www.cs.cornell.edu/home/rvr',
+         'rvr.jpg',
+         'Robbert van Renesse',
+         '',
+         'Robbert van Renesse is a Principal Research Scientist in the Department of Computer Science at Cornell University.  His research is in the area of the theory and practice of scalable fault tolerant distributed systems.  Van Renesse is Chair of ACM SIGOPS, an ACM Fellow, and Associate Editor of ACM Computing Surveys.',
+         'rvr@cs.cornell.edu') }}
+
+    {{ people_item('http://www.cs.berkeley.edu/~dawnsong/',
+         'dawn.jpg',
+         'Dawn Song',
+         '',
+         'Dawn Song is Professor of Computer Science at UC Berkeley. Prior to joining UC Berkeley, she was an Assistant Professor at Carnegie Mellon University from 2002 to 2007. Her research interest lies in security and privacy issues in computer systems. She is the recipient of many prestigious awards including the MacArthur Fellowship, the Guggenheim Fellowship, the NSF CAREER Award, the Alfred P. Sloan Research Fellowship, the MIT Technology Review TR-35 Award, and Best Paper Awards from top conferences. She is the founder of Ensighta Security Inc., which was acquired by FireEye Inc.',
+         '') }}
+
+<!-- END FACULTY> -->
+
+<h2 class="pplheader">POSTDOCS</h2>
+
+
+
+{{ people_item('http://www.cs.cornell.edu/~liujed/',
+    'jed.png',
+    'Jed Liu',
+    '',
+    'Jed Liu is a post-doctoral associate in the Cornell Computer Science Department. His research spans distributed systems, security, and programming languages.',
+    'liujed@cs.cornell.edu') }}
+
+{{ people_item('',
+    'qiang.jpg',
+    'Qiang Tang',
+    '',
+    'Qiang Tang is a post-doctoral associate in the Cornell Computer Science Department. His research focuses on applied and theoretical cryptography, particularly the intersection of accountability, cryptocurrency and post-Snowden crypto.',
+    '') }}
+
+
+
+<!-- END POSTDOCS -->
+
+<h2 class="pplheader">Ph.D. and Master's Students</h2>
+
+
+
+{{ people_item('http://www.cs.cornell.edu/~owen', 'owen.jpg', 'Owen Arden', '', 'Owen Arden is a Ph.D. candidate at Cornell University. His research uses language-based approaches to build scalable distributed systems with strong end-to-end security guarantees.', '') }}
+
+{{ people_item('', 'soumya.jpg', 'Soumya Basu', '', 'Soumya Basu is a first year graduate student at Cornell University. His research interests include the areas of distributed systems and security.', '') }}
+
+{{ people_item('http://www.cs.cornell.edu/~ethan/', 'ethan.png', 'Ethan Cecchetti', '', 'Ethan Cecchetti is a graduate student at Cornell University. He is interested in a wide range of research related to security and cryptography.', '') }}
+
+{{ people_item('', 'kyle.png', 'Kyle Croman', '', 'Kyle Croman is a graduate student at Cornell University. His research interests include security and distributed systems with a focus on cryptocurrency systems in particular.', '') }}
+
+{{ people_item('https://pdaian.com/', 'phil.jpg', 'Philip Daian', '', 'Philip Daian is a Computer Science graduate student at Cornell University. He brings experience in the formal verification and automotive domains, and looks forward to building the next generation of efficient and open financial cryptosystems.', '') }}
+
+{{ people_item('http://ayushdubey.com/', 'ayush.jpg', 'Ayush Dubey', '', 'Ayush Dubey is a graduate student at Cornell University.  His research aims to bridge the gap between strong guarantees and high performance in large-scale distributed systems.  His current project is <a href="http://weaver.systems/">Weaver</a>, a high-performance, transactional graph store.', '') }}
+
+{{ people_item('http://www.cs.cornell.edu/~gencer/', 'efe.jpg', 'Adem Efe Gencer', '', 'Adem Efe Gencer is a PhD candidate at Cornell University Computer Science Department. His recent research focuses on configuring large distributed computations and developing the Bitcoin-NG scalable blockchain protocol.', '') }}
+
+{{ people_item ('http://www.cs.umd.edu/~akosba', 'ahmed.png', 'Ahmed Kosba', '', 'Ahmed Kosba is a graduate student at University of Maryland. He is interested in security and applied cryptography research, with a focus on verifiable computation and cryptocurrency.', '') }}
+
+{{ people_item('http://billmarino2.github.io/', 'william.jpg', 'William Marino', '', 'William Marino is a Computer Science graduate student at Cornell Tech. He is also a JD and practicing attorney.', '') }}
+
+{{ people_item('http://kai-mast.de/', 'kai.png', 'Kai Mast', '', 'Kai Mast is a student at Cornell\'s Ithaca campus. His research focus covers distributed database systems and peer-to-peer applications.', '') }}
+
+{{ people_item('', 'yi.jpg', 'Yi Qian', '', 'Yi Qian is a graduate student at Cornell Computer Science Department. His research interests are security and applied cryptography, particularly the security and privacy of cryptocurrency systems.', '') }}
+
+{{ people_item('https://www.johnson.cornell.edu/PHD-Program/Current-Students?id=ev99', 'ekaterina.jpg', 'Ekaterina Volkova', '', 'Ekaterina is a finance Ph.D. student in the Johson School of Management, Cornell University. Prior to joining the program in 2012, Ekaterina graduated from Moscow State University with MA in Mathematics and from New Economic School with MA in Economics. Her main research focus is empirical corporate finance and  text-mining.', '') }}
+
+{{ people_item('http://zikaiwen.wordpress.com/', 'zikai.jpg', 'Zikai Alex Wen', '', 'Zikai Alex Wen is a graduate student at Cornell University. He focuses on interdisciplinary research that enhances usability, addresses major threats and prevents disruptive forms in new digital finance.', '') }}
+
+{{ people_item('http://www.cs.cornell.edu/~fanz/', 'fan.jpg', 'Fan Zhang', '', 'Fan Zhang is a second year PhD student Cornell University. His research interest spans systems security, trusted hardware, cryptocurrencies and their intersection.', '') }}
+
+
+
+<!-- END GRAD STUDENTS -->
+
+<h2 class="pplheader">Undergraduate Students</h2>
+
+{{ people_item('http://mitchellarnett.me/', 'mitchell.jpg', 'Mitchell Arnett', '', 'Mitchell Arnett is an undergraduate senior at the University of Maryland, College Park. He is interested in provably fair Ethereum casinos and all things tech.', '') }}
+
+{{ people_item('', 'kevinD.jpg', 'Kevin Delmolino', '', 'Kevin Delmolino is a senior undergraduate student studying computer science and economics at the University of Maryland, College Park. His main research focuses are cryptocurrencies and smart contracts.', '') }}
+
+
+<!-- END UNDERGRAD STUDENTS -->
+
+    </div>
+
+<h2 class="pplheader">Governing Board</h2>
+
+<div class="row pplgovboard">
+    <div class="col-md-10 col-md-offset-1">
+        <ul class="govboardul">
+            <li class="govboardli">Ari Juels</li>
+            <li class="govboardli">Roni Michaely</li>
+            <li class="govboardli">Andrew Miller</li>
+            <li class="govboardli">Elaine Shi</li>
+            <li class="govboardli">Emin G&uumln Sirer</li>
+            <li class="govboardli">Dawn Song</li>
+        </ul>
+    </div>
+</div>

@@ -1,0 +1,14 @@
+/*******************************
+     User Global Variables
+*******************************/
+
+// @fontName: 'Roboto+Condensed'
+@fontName: 'Roboto Condensed';
+@headerFont: 'BenchNine';
+@googleFontRequest : 'BenchNine:400,700|Roboto+Condensed:400,700';
+
+@emSize: 18px;
+@fontSize: 18px;
+
+@primaryColor: #9c2a4c;
+@linkColor: #9c2a4c;

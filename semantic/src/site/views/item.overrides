@@ -1,0 +1,36 @@
+/*******************************
+    User Variable Overrides
+*******************************/
+
+/* Tablet Only */
+@media only screen and (min-width: @tabletBreakpoint) and (max-width: @largestTabletScreen) {
+  .ui.items > .item {
+  margin: @tabletItemSpacing 0em;
+  }
+  /*
+  .ui.items > .item > .image:not(.ui),
+  .ui.items > .item > .content > .image {
+    width: @tabletImageWidth;
+  }
+  */
+  .ui.items > .item > .image + .content {
+    display: block;
+    padding: 0em 0em 0em @tabletContentImageDistance;
+  }
+}
+
+/* Mobile Only */
+@media only screen and (max-width: @largestMobileScreen) {
+  .ui.items > .item {
+    margin: @mobileItemSpacing 0em;
+  }
+  .ui.items > .item > .image,
+  .ui.items > .item > .content > .image {
+    width: @mobileImageWidth !important;
+  }
+  .ui.items > .item > .image + .content {
+    display: block;
+    padding: 0em 0em 0em @mobileContentImageDistance;
+  }
+
+}
