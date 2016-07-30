@@ -1,0 +1,54 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="ui main container">
+
+<h1 class="ui header">The Five Grand Challenges</h1>
+
+<p>
+IC3 has several projects underway to address what we identify as five
+“Grand Challenges” to widespread blockchain adoption.
+</p>
+
+<ul>
+{% for c in challenges %}
+  <li>
+    <div class='ui {{ c.color }} label'>{{ c.name }}</div>: {{ c.description }}
+  </li>
+{% endfor %}
+</ul>
+
+<div class="ui info message">
+  The five Grand Challenges outlined above serve as a motivation and a project map for the following IC3 projects.
+</div>
+
+<h1>Projects</h1>
+
+<div class="ui divided items">
+{% for project in projects %}
+  <div class="item">
+  <div class="content">
+      <div class="header">{{ project.name }}</div>
+      <div class="meta">
+        Support Grand Challenges:
+        {% for c in project.challenges %}
+          <div class='ui {{ c.color }} label'>{{ c.name }}</div>
+        {% endfor %}
+      </div>
+      <div class="description">
+          <button class="ui compact basic icon mini showmore button">
+              Read On<i class="double angle down icon"></i>
+          </button>
+          <p class="more"> {{ project.description }}
+              <button class="ui compact basic mini showless icon button">
+                  Show Less<i class="double angle up icon"></i>
+              </button>
+          </p>
+      </div>
+  </div>
+  </div>
+{% endfor %}
+</div>
+
+</div>
+{% endblock %}
