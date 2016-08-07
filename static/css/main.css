@@ -50,11 +50,15 @@ div#ic3-moto.item {
   padding-bottom: 0;
 }
 
-.vertical.navbar.segment .menu{
+.navbar.segment {
+  background-image: url(../images/bg/escheresque_ste.png) !important;
+}
+
+.navbar.segment .menu{
   margin-left: 0;
-  margin-right: 0;
-  padding-top: .5rem;
-  padding-bottom: .5rem;
+  margin-right: .5rem;
+  padding-top: 5px;
+  padding-bottom: 5px;
   font-family: 'BenchNine';
 }
 
@@ -74,11 +78,11 @@ div#ic3-moto.item {
 }
 
 
-/*landing*/
+/* landing: big text block on the index page */
 .landing.segment {
   padding-top: 3rem !important;
   padding-bottom: 4rem !important;
-  background-image: url(../images/bg/dark_embroidery.png) !important;
+  background-image: url(../images/bg/escheresque_ste.png) !important;
 }
 
 .landing.segment h1.header {

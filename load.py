@@ -4,72 +4,80 @@ import os
 import codecs
 import markdown
 
-env = Environment(loader=FileSystemLoader('./templates/'))
-temp = env.get_template('index.html')
 
 CWD = os.path.dirname(__file__)
 OUTPUT_DIR = os.path.join(CWD, 'output')
 
 
-def index():
-    output = os.path.join(OUTPUT_DIR, 'index.html')
-    with open('content/news.yaml', 'r') as c:
-        news = yaml.load(c)
+from base import Engine
 
-    with open('content/blogs.yaml', 'r') as c, open(output, 'w') as t:
-        blogs = yaml.load_all(c)
-        html = temp.render(news=news, blogs=blogs)
-        t.write(html.encode('utf-8'))
+e = Engine()
+
+from os.path import join, exists
+
+
+def index():
+    news_f = open('content/news.yaml', 'r')
+    news = yaml.load_all(news_f)
+
+    blogs_f = open('content/blogs.yaml', 'r')
+    blogs = yaml.load_all(blogs_f)
+
+    temp = e.env.get_template('index.html')
+    output_fn = e.get_root_fn('index.html')
+    e.render_and_write(temp, dict(news=news, blogs=blogs), output_fn)
+
+    news_f.close()
+    blogs_f.close()
 
 def about():
-    output = os.path.join(OUTPUT_DIR, 'about.html')
-    temp = env.get_template('page.html')
+    temp = e.env.get_template('page.html')
 
-    with codecs.open('./content/about.md', 'r', encoding='utf-8') as f:
+    with codecs.open('content/about.md', 'r', encoding='utf-8') as f:
         content = f.read()
         content = markdown.markdown(content)
 
-    with open(output, 'w') as f:
-        html = temp.render(title='About IC3', content=content)
-        f.write(html.encode('utf-8'))
+    output = join(OUTPUT_DIR, 'about.html')
+    e.render_and_write(temp, dict(title='About IC3', content=content), output)
+
 
 def people():
-    output = os.path.join(OUTPUT_DIR, 'people.html')
-    temp = env.get_template('people.html')
-    page_temp = env.get_template('page.html')
-    with open(output, 'w') as f:
-        html = temp.render()
-        page_html = page_temp.render(title='People', content=html)
-        f.write(page_html.encode('utf-8'))
+    output = join(OUTPUT_DIR, 'people.html')
+    temp = e.env.get_template('people.html')
+    html = temp.render()
+
+    page_temp = e.env.get_template('page.html')
+    e.render_and_write(page_temp, dict(title='People', content=html), output)
 
 def partners():
     output = os.path.join(OUTPUT_DIR, 'partners.html')
-    temp = env.get_template('page.html')
+    temp = e.env.get_template('page.html')
 
     with codecs.open('./content/partners.md', 'r', encoding='utf-8') as f:
         content = f.read()
         content = markdown.markdown(content)
 
-    with open(output, 'w') as f:
-        html = temp.render(title='About IC3', content=content)
-        f.write(html.encode('utf-8'))
+    e.render_and_write(temp, dict(title='Partners', content=content), output)
 
 def projects():
     output = os.path.join(OUTPUT_DIR, 'projects.html')
     with open('./content/projects.yaml', 'r') as c:
         data = yaml.load(c)
 
-    temp = env.get_template('projects.html')
-    with open(output, 'w') as f:
-        html = temp.render(challenges=data['challenges'], projects=data['projects'])
-        f.write(html.encode('utf-8'))
+    temp = e.env.get_template('projects.html')
+    e.render_and_write(temp, dict(
+        title='Projects',
+        challenges=data['challenges'],
+        projects=data['projects']),
+        output)
 
 import os
 import shutil
 import errno
 
 if __name__ == '__main__':
-    if not os.path.exists(OUTPUT_DIR):
+    if exists(OUTPUT_DIR):
+        shutil.rmtree(OUTPUT_DIR)
         os.mkdir(OUTPUT_DIR)
 
     index()
@@ -79,8 +87,8 @@ if __name__ == '__main__':
     projects()
 
     try:
-        shutil.copytree('static', os.path.join(OUTPUT_DIR, 'static'))
-        shutil.copytree('images', os.path.join(OUTPUT_DIR, 'images'))
+        shutil.copytree('static', join(OUTPUT_DIR, 'static'))
+        shutil.copytree('images', join(OUTPUT_DIR, 'images'))
     except OSError as e:
         if e.errno == errno.EEXIST:
             pass
