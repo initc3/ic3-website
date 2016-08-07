@@ -86,7 +86,8 @@ div#ic3-moto.item {
 }
 
 .landing.segment h1.header {
-  font-size: 3.2rem;
+  font-size: 3rem;
+  font-family: 'Roboto Condensed';
 }
 
 
