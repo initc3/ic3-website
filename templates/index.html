@@ -10,65 +10,64 @@
 </div>
 
 <div class="ui vertical stripe second segment">
-<div class="ui container">
-<div class="ui stackable internally celled grid">
-    <div class="row">
-        <!-- FEATURE PROJECTS-->
-        <div class="ten wide column">
-          {% include "index/_featured_projects.html" %}
-        </div>
+    <div class="ui container">
+        <div class="ui stackable internally celled grid">
+            <div class="row">
+                <!-- FEATURE PROJECTS-->
+                <div class="ten wide column">
+                    {% include "index/_featured_projects.html" %}
+                </div>
 
-        <!-- NEWS AND EVENTS-->
-        <div class="six wide column">
-            <h1 class="ui header">
+                <!-- NEWS AND EVENTS-->
+                <div class="six wide column">
+                    <h1 class="ui header">
                 <i class="fa fa-newspaper-o" aria-hidden="true"></i> <div class="content ic3-color">News & Events</div>
             </h1>
 
-            <div class="ui divided items">
+                    <div class="ui divided items">
 
-              {% for n in news %}
-                <div class="item">
-                    <div class="content">
-                        <div class="header">{{ n.title }}</div>
-                        <div class="meta"> <span><i class="calendar icon"></i>{{ n.date }}</span> </div>
-                        <div class="description">{{ n.description }}</div>
-                      </div>
-                </div>
-              {% endfor %}
+                        {% for n in news %}
+                        <div class="item">
+                            <div class="content">
+                                <div class="header">{{ n.title }}</div>
+                                <div class="meta"> <span><i class="calendar icon"></i>{{ n.date }}</span> </div>
+                                <div class="description">{{ n.description }}</div>
+                            </div>
+                        </div>
+                        {% endfor %}
 
-            </div>
-        </div>
-    </div>
-
-    <div class="row">
-        <!-- BLOGS-->
-        <div class="ten wide column">
-            <h1 class="ui header"> <i class="fa fa-rss-square" aria-hidden="true"></i>
-              <div class="content ic3-color">Latest on Blog</div>
-            </h1>
-
-            <div class="ui items">
-              {% for b in blogs %}
-                <div class="item">
-                    <div class="content">
-                        <div class="left floated ui tiny image"><img src={{ b.img }} alt="" /> </div>
-                        <div class="header">{{ b.date }}</div>
-                        <div class="description">{{ b.author }}: <a href={{ b.url }}>{{ b.title }}</a></div>
                     </div>
                 </div>
-              {% endfor %}
+            </div>
+
+            <div class="row">
+                <!-- BLOGS-->
+                <div class="ten wide column">
+                    <h1 class="ui header"> <i class="fa fa-rss-square" aria-hidden="true"></i>
+                      <div class="content ic3-color">Latest on Blog</div>
+                    </h1>
+
+                    <div class="ui items">
+                        {% for b in blogs %}
+                        <div class="item">
+                            <div class="content">
+                                <div class="left floated ui tiny image"><img src={{ b.img }} alt="" /> </div>
+                                <div class="header">{{ b.date }}</div>
+                                <div class="description">{{ b.author }}: <a href={{ b.url }}>{{ b.title }}</a></div>
+                            </div>
+                        </div>
+                        {% endfor %}
+                    </div>
+                </div>
+
+                <!--        JOB AND FOLLOW US-->
+                <div class="six wide column">
+                    {% include "index/_job_board.html" %} {% include "index/_followus.html" %}
+                </div>
             </div>
         </div>
-
-<!--        JOB AND FOLLOW US-->
-        <div class="six wide column">
-          {% include "index/_job_board.html" %}
-          {% include "index/_followus.html" %}
-        </div>
+        <!-- end of grid -->
     </div>
-</div>
-    <!-- end of grid -->
-</div>
 </div>
 
 {% endblock %}

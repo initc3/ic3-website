@@ -172,16 +172,9 @@ div#ic3-moto.item {
   /*margin: 3rem 0rem;*/
 }
 
-.followus.stripe.segment {
-  padding: 0rem;
-}
-
-.followus.stripe.segment .container {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
-}
 .footer.segment {
   padding: 2rem 0rem;
+  background-image: url(../images/bg/escheresque_ste.png) !important;
 }
 
 /*mobile screen*/
