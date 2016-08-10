@@ -71,6 +71,33 @@ def projects():
         projects=data['projects']),
         output)
 
+
+def publications():
+    output = e.get_root_fn('publications.html')
+    temp = e.env.get_template('page.html')
+
+    # TODO: Use real markdown instead of html here
+    with open('./content/publications.md', 'r') as c:
+        content = c.read()
+
+    e.render_and_write(temp, dict(
+        title='Publications',
+        content=content),
+        output)
+
+def press():
+    output = e.get_root_fn('press.html')
+    temp = e.env.get_template('page.html')
+
+    # TODO: Use real markdown instead of html here
+    with codecs.open('./content/press.md', 'r', encoding='utf-8') as c:
+        content = c.read()
+
+    e.render_and_write(temp, dict(
+        title='Press',
+        content=content),
+        output)
+
 import os
 import shutil
 import errno
@@ -85,6 +112,8 @@ if __name__ == '__main__':
     people()
     partners()
     projects()
+    publications()
+    press()
 
     try:
         shutil.copytree('static', join(OUTPUT_DIR, 'static'))
