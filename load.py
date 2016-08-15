@@ -79,6 +79,7 @@ def publications():
     # TODO: Use real markdown instead of html here
     with open('./content/publications.md', 'r') as c:
         content = c.read()
+        content = markdown.markdown(content)
 
     e.render_and_write(temp, dict(
         title='Publications',
@@ -92,6 +93,7 @@ def press():
     # TODO: Use real markdown instead of html here
     with codecs.open('./content/press.md', 'r', encoding='utf-8') as c:
         content = c.read()
+        content = markdown.markdown(content)
 
     e.render_and_write(temp, dict(
         title='Press',
