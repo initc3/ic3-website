@@ -15,10 +15,12 @@ e = Engine()
 
 from os.path import join, exists
 
+N_NEWS_ON_INDEX = 3
 
 def index():
     news_f = open('content/news.yaml', 'r')
     news = yaml.load_all(news_f)
+    news = list(news)[:N_NEWS_ON_INDEX]
 
     blogs_f = open('content/blogs.yaml', 'r')
     blogs = yaml.load_all(blogs_f)
