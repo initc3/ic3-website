@@ -2,13 +2,18 @@
 
 <div class="ui center aligned container">
 
-<a href="http://ibm.com/" class="ui medium image">
-    <img src="images/partners/IBM-logo-blue.png">
+<a href="http://chain.com/" class="ui medium image">
+    <img src="images/partners/chain-logo.png">
 </a>
 
 <a href="http://digitalasset.com/" class="ui medium image">
     <img src="images/partners/DAH2.png">
 </a>
+
+<a href="http://ibm.com/" class="ui medium image">
+    <img src="images/partners/IBM-logo-blue.png">
+</a>
+
 
 </div>
 
