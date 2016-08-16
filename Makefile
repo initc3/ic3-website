@@ -1,3 +1,2 @@
 all:
-	python load.py
-	python event.py
+	python main.py

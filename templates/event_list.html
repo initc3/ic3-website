@@ -1,5 +1,20 @@
 {% extends "base.html" %}
 
+{% macro event_item(event) %}
+<li>{{ event.start }}{% if event.end != event.start %} to {{ event.end }}{% endif %},
+  {% if event.url %}
+    <a href="{{ event.url }}">{{ event.name }}</a>
+  {% else %}
+    {{ event.name }}
+  {% endif %}
+
+  {% if event.location %}
+    at {{ event.location }}.
+  {% endif %}
+  {{ event.summary }}
+</li>
+{% endmacro %}
+
 {% block content %}
 
 <div class="ui main container">
@@ -8,17 +23,18 @@
 
 <ul>
 {% for event in ongoing %}
-<li>{{ event.start }}{% if event.end != event.start %} to {{ event.end }}{% endif %},
-  <a href="{{ event.url }}">{{ event.name }}</a> at {{ event.location }}</li>
+{{ event_item(event) }}
 {% endfor %}
+{% if ongoing | length == 0 %}
+<li>The next exciting event is around the corner!</li>  
+{% endif %}
 </ul>
 
 <h1 class="ui header">Past Events</h1>
 
 <ul>
 {% for event in past %}
-<li>{{ event.start }}{% if event.end != event.start %} to {{ event.end }}{% endif %},
-  <a href="{{ event.url }}">{{ event.name }}</a> at {{ event.location }}</li>
+{{ event_item(event) }}
 {% endfor %}
 </ul>
 

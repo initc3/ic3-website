@@ -20,18 +20,20 @@
 
                 <!-- NEWS -->
                 <div class="six wide column">
-                    <h1 class="ui header">
-                <i class="fa fa-newspaper-o" aria-hidden="true"></i> <div class="content ic3-color">News</div>
-            </h1>
+                    <h1 class="ui header"> <i class="fa fa-newspaper-o" aria-hidden="true"></i> <div class="content ic3-color">News</div> </h1>
 
                     <div class="ui divided items">
 
                         {% for n in news %}
                         <div class="item">
                             <div class="content">
-                                <div class="header">{{ n.title }}</div>
-                                <div class="meta"> <span><i class="calendar icon"></i>{{ n.date }}</span> </div>
-                                <div class="description">{{ n.description }}</div>
+                                <div class="meta"> <span><i class="calendar icon"></i>{{ n.start }}</span> </div>
+                                {% if n.url %}
+                                  <div class="header"><a href="{{ n.url }}">{{ n.name }}</a></div>
+                                {% else %}
+                                  {{ n.name }}
+                                {% endif %}
+                                <!-- <div class="description">{{ n.summary }}</div> -->
                             </div>
                         </div>
                         {% endfor %}
@@ -53,9 +55,10 @@
                         {% for b in blogs %}
                         <div class="item">
                             <div class="content">
-                                <div class="left floated ui tiny image"><img src={{ b.img }} alt="" /> </div>
-                                <div class="header">{{ b.date }}</div>
-                                <div class="description">{{ b.author }}: <a href={{ b.url }}>{{ b.title }}</a></div>
+                                <div class="left floated ui tiny image"><img src={{ SITE_ROOT }}/{{ b.imgsrc }} alt="" /> </div>
+                                <div class="header"><a href="{{ b.url }}">{{ b.title}}</a></div>
+                                <div class="meta">by {{ b.authors }} on {{ b.date }}</div>
+                                <div class="description">{{ b.summary }}</div>
                             </div>
                         </div>
                         {% endfor %}

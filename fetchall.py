@@ -21,11 +21,12 @@ exclude_urls = set([
     "http://hackingdistributed.com/2013/06/20/virtual-notary-intro/",
 ])
 
-
 results=[]
-for argurl in sys.argv[1:]:
+
+target = ["http://hackingdistributed.com/tag/bitcoin/", "http://hackingdistributed.com/tag/ethereum/"]
+
+for argurl in target:
     d = pq(url=argurl)
-    print d
 
     for elem in d.find("h2.post-title a"):
         url = pq(elem).attr["href"]
@@ -46,43 +47,39 @@ for argurl in sys.argv[1:]:
             results.append((date_object, url, title, date, authors, summary, '<div class="panel panel-default blogpost"><div class="panel-header"><a class="blogtitle" href="' + url + '">' + title + '</a>' + '<div class="blogdate">' + date + '</div><div class="blogauthors">' + authors.encode('utf-8') + '</div></div><div class="panel-body blogbody">' + summary.encode('utf-8') + '</div></div>'))
 
 results.sort(reverse=True)
+
+posts = []
 for date, url, title, date, authors, summary, elem in results:
-    print elem
+    posts.append(dict(date=date, url=url, title=title, authors=authors,
+        summary=summary))
 
-import sys
-sys.exit()
-with open("recent.php", "w") as file:
-    file.write("<?php\n")
-    for date, url, title, date, authors, summary, elem in results[:3]:
-        d = pq(url=url)
+recent = []
+for date, url, title, date, authors, summary, elem in results[:3]:
+    d = pq(url=url)
 
-        img = d.find("div.figure img")
+    img = d.find("div.figure img")
+    imgsrc = pq(img).attr["src"]
+    title = title.replace("'", "\\'")
+    summary = summary.replace("'", "\\'")
+    # try to get the first author's pic
+    if imgsrc is None:
+        img = d.find("div.pull-right img")
         imgsrc = pq(img).attr["src"]
-        title = title.replace("'", "\\'")
-        summary = summary.replace("'", "\\'")
-        # try to get the first author's pic
-        if imgsrc is None:
-            img = d.find("div.pull-right img")
-            imgsrc = pq(img).attr["src"]
-        if imgsrc == "http://hackingdistributed.com/images/dinomark.png":
-           imgsrc = "http://hackingdistributed.com/images/vzamfir.jpg"
-        # go with the ic3 default
-        if imgsrc is not None:
-            response = urllib2.urlopen(imgsrc)
-            imagecontents = response.read()
-            _, imageext = os.path.splitext(imgsrc)
-            imagehash = hashlib.sha256()
-            imagehash.update(imagecontents)
-            imagename = imagehash.hexdigest()
-            imgsrc = "images/hotlinks/" + imagename + imageext
-            with open(imgsrc, "w") as img:
-                img.write(imagecontents)
-        else:
-            imgsrc="http://initc3.org/images/news/ic3_image.jpg"
-        summary = "blogentry_mainpage('" + imgsrc + "', '" + date + " by " + authors + "', '" + url + "', '" + title + "', '" + summary + "');\n\n"
-        file.write(summary.encode("utf-8"))
-    file.write("?>\n")
-
-
-
-
+    if imgsrc == "http://hackingdistributed.com/images/dinomark.png":
+        imgsrc = "http://hackingdistributed.com/images/vzamfir.jpg"
+    # go with the ic3 default
+    if imgsrc is not None:
+        response = urllib2.urlopen(imgsrc)
+        imagecontents = response.read()
+        _, imageext = os.path.splitext(imgsrc)
+        imagehash = hashlib.sha256()
+        imagehash.update(imagecontents)
+        imagename = imagehash.hexdigest()
+        imgsrc = "images/hotlinks/" + imagename + imageext
+        with open(imgsrc, "w") as img:
+            img.write(imagecontents)
+    else:
+        imgsrc="http://initc3.org/images/news/ic3_image.jpg"
+    recent.append(dict(date=date, url=url, title=title, authors=authors,
+        imgsrc=imgsrc,
+        summary=summary))

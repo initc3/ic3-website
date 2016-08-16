@@ -3,34 +3,40 @@ from jinja2 import FileSystemLoader, Environment
 import os
 import codecs
 import markdown
-
+from os.path import join, exists
+from base import Engine
 
 CWD = os.path.dirname(__file__)
 OUTPUT_DIR = os.path.join(CWD, 'output')
 
-
-from base import Engine
-
 e = Engine()
+e.init()
 
-from os.path import join, exists
+# event has to be imported after init
+import event
+import fetchall
 
-N_NEWS_ON_INDEX = 3
+N_NEWS_ON_INDEX = 4
 
 def index():
-    news_f = open('content/news.yaml', 'r')
-    news = yaml.load_all(news_f)
-    news = list(news)[:N_NEWS_ON_INDEX]
+    # news_f = open('content/news.yaml', 'r')
+    # news = yaml.load_all(news_f)
+    # news = list(news)[:N_NEWS_ON_INDEX]
 
-    blogs_f = open('content/blogs.yaml', 'r')
-    blogs = yaml.load_all(blogs_f)
+    news = event.event_list[:N_NEWS_ON_INDEX]
+
+    # blogs_f = open('content/blogs.yaml', 'r')
+    # blogs = yaml.load_all(blogs_f)
+
+    blogs = fetchall.recent
 
     temp = e.env.get_template('index.html')
     output_fn = e.get_root_fn('index.html')
     e.render_and_write(temp, dict(news=news, blogs=blogs), output_fn)
 
-    news_f.close()
-    blogs_f.close()
+    # news_f.close()
+    # blogs_f.close()
+
 
 def about():
     temp = e.env.get_template('page.html')
@@ -73,7 +79,6 @@ def projects():
         projects=data['projects']),
         output)
 
-
 def publications():
     output = e.get_root_fn('publications.html')
     temp = e.env.get_template('page.html')
@@ -87,6 +92,11 @@ def publications():
         title='Publications',
         content=content),
         output)
+
+def blogs():
+    output = e.get_root_fn("blogs.html")
+    temp = e.env.get_template('blogs.html')
+    e.render_and_write(temp, dict(title='IC3 - Blogs', blogs=fetchall.posts), output)
 
 def press():
     output = e.get_root_fn('press.html')
@@ -107,17 +117,17 @@ import shutil
 import errno
 
 if __name__ == '__main__':
-    if exists(OUTPUT_DIR):
-        shutil.rmtree(OUTPUT_DIR)
-        os.mkdir(OUTPUT_DIR)
 
     index()
     about()
     people()
     partners()
     projects()
+    blogs()
     publications()
     press()
+
+    event.gen()
 
     try:
         shutil.copytree('static', join(OUTPUT_DIR, 'static'))

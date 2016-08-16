@@ -7,6 +7,9 @@ import markdown
 
 import copy
 
+from os.path import exists
+import shutil
+
 
 CWD = os.path.dirname(__file__)
 OUTPUT_DIR = os.path.join(CWD, 'output')
@@ -18,6 +21,12 @@ class Engine (object):
     def_cntx = dict(
             SITE_ROOT=OUTPUT_DIR,
             )
+
+    def init(self):
+        if exists(OUTPUT_DIR):
+            shutil.rmtree(OUTPUT_DIR)
+        os.mkdir(OUTPUT_DIR)
+
 
     def render(self, temp, cntx):
         x = copy.copy(cntx)
