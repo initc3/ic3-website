@@ -35,7 +35,7 @@
 
 <h1 class="ui header">Upcoming Events</h1>
 
-<div class="ui items">
+<div class="ui divided items">
 {% for event in ongoing %}
 {{ event_item(event) }}
 {% endfor %}
@@ -48,7 +48,7 @@
 
 <h1 class="ui header">Past Events</h1>
 
-<div class="ui items">
+<div class="ui divided items">
 {% for event in past %}
 {{ event_item(event) }}
 {% endfor %}

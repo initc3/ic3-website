@@ -21,10 +21,6 @@ class Engine (object):
     env = Environment(loader=FileSystemLoader('./templates/'))
     output_dir = OUTPUT_DIR
 
-    def_cntx = dict(
-            SITE_ROOT=OUTPUT_DIR,
-            )
-
     def __init__(self, deploy=False):
         if deploy:
             SITE_ROOT='http://initc3.org.s3-website-us-east-1.amazonaws.com'

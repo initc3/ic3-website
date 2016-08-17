@@ -9,7 +9,8 @@ from os.path import join, exists
 import frontmatter
 import datetime
 
-e = Engine()
+# XXX: inherit deploy from main.py
+e = Engine(deploy=True)
 
 BASE_DIR = './content/events'
 
@@ -66,7 +67,6 @@ past = filter(lambda x: x['end'] < datetime.date.today(), event_list)
 
 
 def gen():
-
     cntx = e.get_def_cntx()
     cntx['ongoing'] = ongoing
     cntx['past'] = past
