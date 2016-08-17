@@ -14,6 +14,9 @@ import shutil
 CWD = os.path.dirname(__file__)
 OUTPUT_DIR = os.path.join(CWD, 'output')
 
+def dateformat(value, format='%b %d, %Y'):
+    return value.strftime(format)
+
 class Engine (object):
     env = Environment(loader=FileSystemLoader('./templates/'))
     output_dir = OUTPUT_DIR
@@ -22,10 +25,17 @@ class Engine (object):
             SITE_ROOT=OUTPUT_DIR,
             )
 
-    def init(self):
+    def __init__(self, deploy=False):
+        if deploy:
+            SITE_ROOT='http://initc3.org.s3-website-us-east-1.amazonaws.com'
+            self.def_cntx = dict(SITE_ROOT=SITE_ROOT)
+        else:
+            self.def_cntx = dict(SITE_ROOT=OUTPUT_DIR)
         if exists(OUTPUT_DIR):
             shutil.rmtree(OUTPUT_DIR)
         os.mkdir(OUTPUT_DIR)
+
+        self.env.filters['dateformat'] = dateformat
 
 
     def render(self, temp, cntx):

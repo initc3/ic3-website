@@ -6,11 +6,16 @@ import markdown
 from os.path import join, exists
 from base import Engine
 
+from optparse import OptionParser
+
+parser = OptionParser()
+parser.add_option("-d", "--deploy", action="store_true", dest="deploy", default=False)
+(options, args) = parser.parse_args()
+
 CWD = os.path.dirname(__file__)
 OUTPUT_DIR = os.path.join(CWD, 'output')
 
-e = Engine()
-e.init()
+e = Engine(deploy=options.deploy)
 
 # event has to be imported after init
 import event
