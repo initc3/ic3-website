@@ -31,8 +31,15 @@ div.ic3-moto.item {
 @media only screen and (max-width: 768px) {
   .navbar > .menu > div.ic3-moto {
     display: block !important;
-    width: auto;
+    width: 100%;
     padding-left: 0 !important;
+  }
+}
+
+/*on really small screen*/
+@media only screen and (max-width: 440px) {
+  .navbar > .menu > div.ic3-moto {
+    width: 13rem;
   }
 }
 
@@ -72,6 +79,8 @@ div.ic3-moto.item {
 - 992px
 - 1200px
 */
+
+/*------------------------- END OF MENU ----------------------*/
 
 /*mobile screen*/
 /*> 768px*/
@@ -123,6 +132,18 @@ div.ic3-moto.item {
 .landing.segment h1.header {
   font-size: 3rem;
   font-family: 'Roboto Condensed';
+}
+
+.slogan.segment > h2 {
+  text-align: center;
+  margin: 2rem;
+  /*line-height: 1.5rem;*/
+  font-size: 1.5rem;
+  font-family: 'Roboto Condensed';
+  text-transform: uppercase;
+  /*text-transform: capitalize;*/
+  font-weight: 300;
+  width: 90%;
 }
 
 

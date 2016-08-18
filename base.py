@@ -23,7 +23,7 @@ class Engine (object):
 
     def __init__(self, deploy=False):
         if deploy:
-            SITE_ROOT='http://initc3.org.s3-website-us-east-1.amazonaws.com'
+            SITE_ROOT='http://www.initc3.org.s3-website-us-east-1.amazonaws.com'
             self.def_cntx = dict(SITE_ROOT=SITE_ROOT)
         else:
             self.def_cntx = dict(SITE_ROOT=OUTPUT_DIR)
