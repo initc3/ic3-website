@@ -1,4 +1,4 @@
-test:
-	python main.py
 deploy:
 	python main.py -d
+test:
+	python main.py

@@ -27,6 +27,7 @@ class Engine (object):
             self.def_cntx = dict(SITE_ROOT=SITE_ROOT)
         else:
             self.def_cntx = dict(SITE_ROOT=OUTPUT_DIR)
+        print 'deploy: ' + str(deploy)
         if exists(OUTPUT_DIR):
             shutil.rmtree(OUTPUT_DIR)
         os.mkdir(OUTPUT_DIR)

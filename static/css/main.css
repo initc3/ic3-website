@@ -1,11 +1,7 @@
-.hidden.menu {
-  display: none;
-}
-
+/*IC3 LOGO IS ALWAYS DISPLAYED*/
 #ic3-logo {
-  padding-top: 0;
-  padding-bottom: 0;
-  padding-right: 0;
+  padding: 0;
+  margin-left: 1.5rem;
 
   font-size: 2.5rem;
   font-weight: bold;
@@ -13,35 +9,79 @@
   color: #9c2a4c;
 }
 
-#ic3-moto {
-  font-size: 1.2rem;
+/*MOTO IS DISPLAYED ON LARGER SCREEN (>992px)*/
+.ic3-moto {
+  font-size: 1.2rem !important;
 }
 
-div#ic3-moto.item {
-  display: none;
+div.ic3-moto.item {
+  display: none !important;
+  width: 13rem;
+  word-wrap: break-word;
 }
 
+/*display on larger screen*/
 @media only screen and (min-width: 992px) {
-  div#ic3-moto.item {
+  .navbar > .menu > div.ic3-moto {
+    display: block !important;
+  }
+}
+
+/*display on mobile as well*/
+@media only screen and (max-width: 768px) {
+  .navbar > .menu > div.ic3-moto {
+    display: block !important;
+    width: auto;
+    padding-left: 0 !important;
+  }
+}
+
+/* < 1110: a slightly more compact menu */
+@media only screen and (max-width: 1110px) {
+  .navbar .menu > a.item {
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+  }
+}
+
+/* > 992px*/
+@media only screen and (min-width: 992px) {
+  div.ic3-moto.item {
     display: block;
   }
 }
 
-/* menu */
-.toc.item {
-  display: none;
+/* second nav */
+.second-nav {
+  margin-top: .8rem;
+  margin-bottom: .0rem;
 }
+
+.second-nav .list .item {
+  font-size: .9rem !important;
+}
+
+.second-nav > .horizontal.divider {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+/* break points */
+/*
+- 768px
+- 992px
+- 1200px
+*/
 
 /*mobile screen*/
-@media only screen and (max-width: 768px) {
-  .toc.item {
-    display: block;
-    position: absolute;
-    margin-top: 1rem;
-    margin-left: .5rem;
-    z-index: 1;
+/*> 768px*/
+@media only screen and (min-width: 768px) {
+  .mobile-only {
+    display: none !important;
   }
 }
+
+
 
 /*reset vertical segments*/
 
@@ -54,6 +94,7 @@ div#ic3-moto.item {
   background-image: url(../images/bg/escheresque_ste.png) !important;
 }
 
+/*---- MENU ----*/
 .navbar.segment .menu{
   margin-left: 0;
   margin-right: .5rem;
@@ -62,21 +103,15 @@ div#ic3-moto.item {
   font-family: 'BenchNine';
 }
 
-.vertical.navbar.segment .menu a {
+.navbar.segment .menu a {
   text-transform: uppercase;
 }
 
-.secondary.pointing.menu {
-  margin-top: 0;
+@media only screen and (max-width: 768px) {
+  .navbar > .menu > .right.menu {
+    display: none !important;
+  }
 }
-
-.secondary.pointing.menu a {
-  font-family: 'BenchNine';
-  text-transform: uppercase;
-  font-size: 1rem;
-  /*font-size: 1.3rem;*/
-}
-
 
 /* landing: big text block on the index page */
 .landing.segment {
@@ -90,74 +125,6 @@ div#ic3-moto.item {
   font-family: 'Roboto Condensed';
 }
 
-
-/* hero */
-.vertical.hero.segment {
-  border-bottom: none;
-}
-
-.hero.segment {
-  padding: 0;
-  padding-top: 2rem;
-}
-
-.hero.segment {
-  font-size: .9rem;
-}
-
-.hero.segment .container {
-  padding-left: .8rem;
-  padding-right: .8rem;
-}
-
-.hero .primary.button {
-  margin-top: .5rem;
-  font-size: .8rem;
-  font-weight: normal;
-}
-
-.hero h1.header {
-  padding-bottom: 0;
-}
-
-/*hide one column on small screen*/
-.hero div.column.full-width-only {
-  display: none !important;
-}
-
-.hero p.summary {
-    display: none !important;
-}
-
-@media only screen and (min-width: 992px) {
-  .hero p.summary {
-      display: block !important;
-  }
-}
-
-.hero .sub.header {
-  margin-bottom: .5rem !important;
-}
-
-.hero nav.unslider-nav {
-  padding: .5rem;
-}
-
-.hero a.unslider-arrow {
-  top: 50%;
-  -webkit-transform: translateY(-50%);
-  -ms-transform: translateY(-50%);
-  transform: translateY(-50%);
-  font-size: 2rem;
-}
-
-.hero a.unslider-arrow.prev {
-  left: 0.1rem !important;
-}
-
-.hero a.unslider-arrow.next {
-  right: 0.1rem !important;
-}
 
 /*major content segment*/
 .second.stripe.segment {
@@ -178,30 +145,9 @@ div#ic3-moto.item {
   background-image: url(../images/bg/escheresque_ste.png) !important;
 }
 
-/*mobile screen*/
-@media only screen and (max-width: 768px) {
-  .navbar.segment .right.menu {
-    display: none !important;
-  }
-  .hero.segment {
-    margin-top: 1rem;
-    min-height: 200px;
-  }
-}
-
-/*bigger screen*/
-@media only screen and (min-width: 768px) {
-  .hero div.column.full-width-only {
-    display: block !important;
-  }
-}
 
 .ic3-color {
   color: #9c2a4c !important;
-}
-
-@media only screen and (max-width: 1200px) {
-
 }
 
 .ui.main.container {
@@ -209,6 +155,11 @@ div#ic3-moto.item {
     margin-bottom: 2rem;
 }
 
+@media screen and (max-width: 768px) {
+  .ui.main.container {
+    margin-top: .5rem;
+  }
+}
 
 blockquote {
   background: #f9f9f9;

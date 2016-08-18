@@ -9,9 +9,7 @@
 
     <!-- Site Properties -->
     <title>
-        {% block title %}
-          IC3 - The Initiative For Cryptocurrencies & Contracts
-        {% endblock %}
+        {% block title %} IC3 - The Initiative For Cryptocurrencies & Contracts {% endblock %}
     </title>
 
     <link rel="stylesheet" href="{{ SITE_ROOT }}/static/css/semantic/semantic.css">
@@ -40,59 +38,54 @@
 
 <body>
 
-    <!-- Sidebar Menu -->
-    <div class="ui compact vertical sidebar menu">
-        <a class="item" href="{{ SITE_ROOT }}/index.html">Home</a>
-        <a class="item" href="{{ SITE_ROOT }}/about.html">About</a>
-        <a class="item" href="{{ SITE_ROOT }}/people.html">People</a>
-        <a class="item" href="{{ SITE_ROOT }}/partners.html">Partners</a>
-        <a class="item" href="{{ SITE_ROOT }}/projects.html">Projects</a>
-        <a class="item" href="{{ SITE_ROOT }}/publications.html">Publications</a>
-        <a class="item" href="{{ SITE_ROOT }}/blogs.html">Blog</a>
-        <a class="item" href="{{ SITE_ROOT }}/press.html">Press</a>
-        <a class="item" href="{{ SITE_ROOT }}/events.html">Events</a>
+    <div class="ui vertical navbar inverted segment">
+        <div class="ui secondary inverted menu">
+            <div class="item" id="ic3-logo">
+                <a href="{{ SITE_ROOT }}/index.html" class="ic3-color">IC3</a></div>
+            <div class="item ic3-moto">The Initiative For CryptoCurrencies & Contracts</div>
+
+            <div class="right menu">
+                <a class="item" href="{{ SITE_ROOT }}/index.html">Home</a>
+                <div class="ui dropdown item">
+                    ABOUT<i class="dropdown icon"></i>
+                    <div class="menu">
+                        <a class="item" href="{{ SITE_ROOT }}/about.html">Our Initiative</a>
+                        <a class="item" href="{{ SITE_ROOT }}/people.html">People</a>
+                    </div>
+                </div>
+                <a class="item" href="{{ SITE_ROOT }}/partners.html">Partners</a>
+                <a class="item" href="{{ SITE_ROOT }}/projects.html">Projects</a>
+                <a class="item" href="{{ SITE_ROOT }}/publications.html">Publications</a>
+                <a class="item" href="{{ SITE_ROOT }}/blogs.html">Blogs</a>
+                <a class="item" href="{{ SITE_ROOT }}/press.html">Press</a>
+                <a class="item" href="{{ SITE_ROOT }}/events.html">Events</a>
+            </div>
+        </div>
     </div>
 
+<div class="ui mobile-only center aligned container second-nav">
+    <div class="ui horizontal celled list">
+        <div class="item"><a href="{{ SITE_ROOT }}/index.html">Home</a></div>
+        <div class="item"><a href="{{ SITE_ROOT }}/about.html">Our Initiative</a></div>
+        <div class="item"><a href="{{ SITE_ROOT }}/people.html">People</a></div>
+        <div class="item"><a href="{{ SITE_ROOT }}/partners.html">Partners</a></div>
+        <div class="item"><a href="{{ SITE_ROOT }}/projects.html">Projects</a></div>
+        <div class="item"><a href="{{ SITE_ROOT }}/publications.html">Publications</a></div>
+        <div class="item"><a href="{{ SITE_ROOT }}/blogs.html">Blogs</a></div>
+        <div class="item"><a href="{{ SITE_ROOT }}/press.html">Press</a></div>
+        <div class="item"><a href="{{ SITE_ROOT }}/events.html">Events</a></div>
+    </div>
 
-    <!-- Page Contents -->
-    <div class="pusher">
-        <!--    sidebar trigger-->
-        <button class="toc inverted item ui tiny basic icon button">
-            <i class="sidebar icon"></i>
-        </button>
+    <!-- <div class="ui horizontal divider"> i </div> -->
+</div>
 
-        <div class="ui vertical navbar inverted segment">
-            <div class="ui secondary inverted menu">
-                <div class="item" id="ic3-logo">
-                    <a href="{{ SITE_ROOT }}/index.html" class="ic3-color">IC3</a></div>
-                <div class="item" id="ic3-moto">The Initiative For Crypto-</br>Currencies & Contracts</div>
+    {% block content %} {% endblock %}
 
-                <div class="right menu">
-                    <a class="item" href="{{ SITE_ROOT }}/index.html">Home</a>
-                    <div class="ui dropdown item">
-                        ABOUT<i class="dropdown icon"></i>
-                        <div class="menu">
-                            <a class="item" href="{{ SITE_ROOT }}/about.html">Our Initiative</a>
-                            <a class="item" href="{{ SITE_ROOT }}/people.html">People</a>
-                        </div>
-                    </div>
-                    <a class="item" href="{{ SITE_ROOT }}/partners.html">Partners</a>
-                    <a class="item" href="{{ SITE_ROOT }}/projects.html">Projects</a>
-                    <a class="item" href="{{ SITE_ROOT }}/publications.html">Publications</a>
-                    <a class="item" href="{{ SITE_ROOT }}/blogs.html">Blogs</a>
-                    <a class="item" href="{{ SITE_ROOT }}/press.html">Press</a>
-                    <a class="item" href="{{ SITE_ROOT }}/events.html">Events</a>
-                </div>
-            </div>
+    <div class="ui inverted vertical footer segment">
+        <div class="ui center aligned container">
+            <p>&copy2016 All rights reserved</p>
         </div>
-
-        {% block content %} {% endblock %}
-
-        <div class="ui inverted vertical footer segment">
-            <div class="ui center aligned container">
-                <p>&copy2016 All rights reserved</p>
-            </div>
-        </div>
+    </div>
     </div>
 
     <script src="{{ SITE_ROOT }}/static/js/unslider-min.js"></script>
@@ -106,7 +99,6 @@
             });
         });
     </script>
-    </div>
 </body>
 
 </html>

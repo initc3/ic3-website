@@ -120,8 +120,18 @@ def press():
 import os
 import shutil
 import errno
+import sys
 
 if __name__ == '__main__':
+
+    try:
+        shutil.copytree('static', join(OUTPUT_DIR, 'static'))
+        shutil.copytree('images', join(OUTPUT_DIR, 'images'))
+    except OSError as e:
+        if e.errno == errno.EEXIST:
+            pass
+        else:
+            raise
 
     index()
     about()
@@ -134,11 +144,3 @@ if __name__ == '__main__':
 
     event.gen()
 
-    try:
-        shutil.copytree('static', join(OUTPUT_DIR, 'static'))
-        shutil.copytree('images', join(OUTPUT_DIR, 'images'))
-    except OSError as e:
-        if e.errno == errno.EEXIST:
-            pass
-        else:
-            raise

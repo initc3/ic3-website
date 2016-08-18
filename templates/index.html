@@ -28,7 +28,7 @@
                         <div class="item">
                             <div class="content">
                                 <div class="meta">
-                                  <span><i class="calendar icon"></i>{{ n.start }}</span>
+                                  <span><i class="calendar icon"></i> {{ n.start | dateformat }}</span>
                                 </div>
                                 {% if n.url %}
                                   <div class=""><a href="{{ n.url }}">{{ n.name }}</a></div>
