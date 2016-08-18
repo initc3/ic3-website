@@ -1,16 +1,16 @@
 # Industry Partners
 
-<div class="ui container">
+<div class="ui container" style="width:750px; margin: 1rem;">
 <div class="ui three column centered stackable grid">
 <div class="row">
   <div class="column">
-      <a href="http://chain.com/" class="ui medium image"> <img src="images/partners/chain-logo.png"> </a>
+      <a href="http://chain.com/" class="ui small image"> <img src="images/partners/chain-logo.png"> </a>
   </div>
   <div class="column">
-      <a href="http://digitalasset.com/" class="ui medium image"> <img src="images/partners/DAH2.png"> </a>
+      <a href="http://digitalasset.com/" class="ui small image"> <img src="images/partners/da.png"> </a>
   </div>
   <div class="column">
-      <a href="http://ibm.com/" class="ui medium image"> <img src="images/partners/IBM-logo-blue.png"> </a>
+      <a href="http://ibm.com/" class="ui small image"> <img src="images/partners/ibm.png"> </a>
   </div>
 </div>
 </div>
