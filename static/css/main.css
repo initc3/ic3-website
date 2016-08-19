@@ -84,7 +84,9 @@ div.ic3-moto.item {
 
 /*mobile screen*/
 /*> 768px*/
-@media only screen and (min-width: 768px) {
+/* XXX NOTE: iPad Air has a width of 768px, we want mobile-only
+to appear at that point */
+@media only screen and (min-width: 769px) {
   .mobile-only {
     display: none !important;
   }
