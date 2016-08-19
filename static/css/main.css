@@ -28,7 +28,8 @@ div.ic3-moto.item {
 }
 
 /*display on mobile as well*/
-@media only screen and (max-width: 768px) {
+/*no display on iPad*/
+@media only screen and (max-width: 767px) {
   .navbar > .menu > div.ic3-moto {
     display: block !important;
     width: 100%;
@@ -60,7 +61,7 @@ div.ic3-moto.item {
 
 /* second nav */
 .second-nav {
-  margin-top: .8rem;
+  margin-top: .3rem;
   margin-bottom: .0rem;
 }
 
@@ -86,7 +87,7 @@ div.ic3-moto.item {
 /*> 768px*/
 /* XXX NOTE: iPad Air has a width of 768px, we want mobile-only
 to appear at that point */
-@media only screen and (min-width: 769px) {
+@media only screen and (min-width: 768px) {
   .mobile-only {
     display: none !important;
   }
@@ -118,7 +119,8 @@ to appear at that point */
   text-transform: uppercase;
 }
 
-@media only screen and (max-width: 768px) {
+/*appear on iPad*/
+@media only screen and (max-width: 767px) {
   .navbar > .menu > .right.menu {
     display: none !important;
   }
