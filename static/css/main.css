@@ -138,9 +138,11 @@ to appear at that point */
   font-family: 'Roboto Condensed';
 }
 
+/* SLOGAN -------- */
+
 .slogan.segment > h2 {
   text-align: center;
-  margin: 2rem;
+  margin: 2rem auto;
   /*line-height: 1.5rem;*/
   font-size: 1.5rem;
   font-family: 'Roboto Condensed';
@@ -150,16 +152,39 @@ to appear at that point */
   width: 90%;
 }
 
+/*slogan on smaller screen*/
+@media screen and (max-width: 768px) {
+  .slogan.segment {
+    margin-bottom: .8rem !important;
+  }
+  .slogan.segment > h2 {
+    font-size: 1.3rem;
+    margin-top: .8rem;
+    margin-bottom: .6rem;
+  }
+}
+
 
 /*major content segment*/
+
+/*on smaller screen*/
+@media screen and (max-width: 768px) {
+  .second.segment > .container > .grid > .row > div.column {
+    padding-top: 1rem !important;
+    padding-bottom: 1rem !important;
+  }
+
+}
+
+
 .second.stripe.segment {
   padding-top: 0;
   padding-bottom: 0;
 }
-.second.stripe.segment .grid .row .column {
+/*.second.stripe.segment .grid .row .column {
   padding-top: 2rem;
   padding-bottom: 2rem;
-}
+}*/
 
 .ui.vertical.stripe .horizontal.divider {
   /*margin: 3rem 0rem;*/
