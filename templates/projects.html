@@ -13,7 +13,7 @@ IC3 has several projects underway to address what we identify as five
 <ul>
 {% for c in challenges %}
   <li>
-    <div class='ui {{ c.color }} label'>{{ c.name }}</div>: {{ c.description }}
+    <div class='ui {{ c.color }} label challenge'>{{ c.name }}</div>: {{ c.description }}
   </li>
 {% endfor %}
 </ul>
@@ -32,7 +32,7 @@ IC3 has several projects underway to address what we identify as five
       <div class="meta">
         Support Grand Challenges:
         {% for c in project.challenges %}
-          <div class='ui {{ c.color }} label'>{{ c.name }}</div>
+          <div class='ui {{ c.color }} label challenge'>{{ c.name }}</div>
         {% endfor %}
       </div>
       <div class="description">

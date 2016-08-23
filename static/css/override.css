@@ -1,0 +1,7 @@
+.ui.label.challenge {
+  font-family: 'Roboto Condensed' !important;
+  /*font-family: 'BenchNine' !important;*/
+  padding: .4rem .3rem .3rem;
+  font-size: .8rem;
+  font-weight: normal;
+}

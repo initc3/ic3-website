@@ -135,6 +135,7 @@ if __name__ == '__main__':
     try:
         shutil.copytree('static', join(OUTPUT_DIR, 'static'))
         shutil.copytree('images', join(OUTPUT_DIR, 'images'))
+        shutil.copytree('files', join(OUTPUT_DIR, 'files'))
     except OSError as e:
         if e.errno == errno.EEXIST:
             pass
