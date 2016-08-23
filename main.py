@@ -125,6 +125,20 @@ def press():
         content=content),
         output)
 
+
+def page_not_found():
+    output = e.get_root_fn('404.html')
+    temp = e.env.get_template('page.html')
+
+    # TODO: Use real markdown instead of html here
+    with open('./content/404.html', 'r') as c:
+        content = c.read()
+
+    e.render_and_write(temp, dict(
+        title='Publications',
+        content=content),
+        output)
+
 import os
 import shutil
 import errno
@@ -150,6 +164,7 @@ if __name__ == '__main__':
     blogs()
     publications()
     press()
+    page_not_found()
 
     event.gen(e)
 
