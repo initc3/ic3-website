@@ -61,7 +61,7 @@ div.ic3-moto.item {
 
 /* second nav */
 .second-nav {
-  margin-top: .3rem;
+  margin-top: .8rem;
   margin-bottom: .0rem;
 }
 
@@ -214,9 +214,10 @@ to appear at that point */
 blockquote {
   background: #f9f9f9;
   border-left: 10px solid #ccc;
-  margin: 1.5em 10px;
+  margin: 1.5em auto;
   padding: 0.5em 10px;
   quotes: "\201C""\201D""\2018""\2019";
+  max-width: 768px;
 }
 blockquote:before {
   color: #ccc;

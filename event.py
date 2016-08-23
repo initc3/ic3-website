@@ -9,18 +9,14 @@ from os.path import join, exists
 import frontmatter
 import datetime
 
-# XXX: inherit deploy from main.py
-e = Engine(deploy=True)
+from operator import itemgetter
 
 BASE_DIR = './content/events'
 
 DATE_FORMAT = '%Y-%m-%d'
 
-output_dir = join(e.output_dir, 'events')
-if not exists(output_dir):
-    os.mkdir(output_dir)
 
-def process(filename):
+def process(e, filename):
     if not exists(filename):
         print filename, ' does not exists'
         raise
@@ -32,7 +28,7 @@ def process(filename):
     post = frontmatter.load(filename)
 
     front = post.metadata
-    content = markdown.markdown(post.content)
+    content = markdown.markdown(post.content, extensions=['markdown.extensions.tables'])
 
     # if front has external url, then no file will be generated
     if front.has_key('url') or front.has_key('external'):
@@ -54,19 +50,24 @@ def process(filename):
 
     return front
 
-event_list = []
-for f in glob.glob(join(BASE_DIR, '*.md')):
-    event_list.append(process(f))
+def gen_event_list(e):
+    output_dir = join(e.output_dir, 'events')
+    if not exists(output_dir):
+        os.mkdir(output_dir)
 
-from operator import itemgetter
+    event_list = []
+    for f in glob.glob(join(BASE_DIR, '*.md')):
+        event_list.append(process(e, f))
 
-event_list = sorted(event_list, key=itemgetter('start'), reverse=True)
-
-ongoing = filter(lambda x: x['end'] >= datetime.date.today(), event_list)
-past = filter(lambda x: x['end'] < datetime.date.today(), event_list)
+    event_list = sorted(event_list, key=itemgetter('start'), reverse=True)
+    return event_list
 
 
-def gen():
+def gen(e):
+    event_list = gen_event_list(e)
+    ongoing = filter(lambda x: x['end'] >= datetime.date.today(), event_list)
+    past = filter(lambda x: x['end'] < datetime.date.today(), event_list)
+
     cntx = e.get_def_cntx()
     cntx['ongoing'] = ongoing
     cntx['past'] = past

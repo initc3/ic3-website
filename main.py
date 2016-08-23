@@ -28,12 +28,16 @@ def index():
     # news = yaml.load_all(news_f)
     # news = list(news)[:N_NEWS_ON_INDEX]
 
-    news = event.event_list[:N_NEWS_ON_INDEX]
+    event_list = event.gen_event_list(e)
+    news = event_list[:N_NEWS_ON_INDEX]
 
     # blogs_f = open('content/blogs.yaml', 'r')
     # blogs = yaml.load_all(blogs_f)
 
-    blogs = fetchall.recent
+    if options.deploy:
+        blogs, _ = fetchall.fetchall()
+    else:
+        blogs = []
 
     temp = e.env.get_template('index.html')
     output_fn = e.get_root_fn('index.html')
@@ -101,7 +105,11 @@ def publications():
 def blogs():
     output = e.get_root_fn("blogs.html")
     temp = e.env.get_template('blogs.html')
-    e.render_and_write(temp, dict(title='IC3 - Blogs', blogs=fetchall.posts), output)
+    if options.deploy:
+        _, posts = fetchall.fetchall()
+    else:
+        posts = []
+    e.render_and_write(temp, dict(title='IC3 - Blogs', blogs=posts), output)
 
 def press():
     output = e.get_root_fn('press.html')
@@ -142,5 +150,5 @@ if __name__ == '__main__':
     publications()
     press()
 
-    event.gen()
+    event.gen(e)
 
