@@ -39,7 +39,7 @@ IC3 uniquely meets the blockchain community&#39;s urgent need for world-class ex
 
 IC3 faculty are the recipients of a $3M 3-year National Science Foundation grant awarded in 2015. We invite
     partners in industry, law and commerce to sponsor and collaborate with us in our mission to deliver powerful,
-    principled, and practical innovations. Please see our <a href="http://www.initc3.org/partners">Partners page</a>
+    principled, and practical innovations. Please see our <a href="http://www.initc3.org/partners.html">Partners page</a>
     for how to get involved.
 
 ## Outcomes
@@ -49,7 +49,7 @@ Expected outcomes of our work include new cryptocurrency and smart contract solu
     reliability. These include financially enforceable cryptographic protocols whose security properties are backed
     by enforceable payments in case of a breach, as well as high-assurance, high performance systems for storing and
     handling high-value cryptocurrencies and confidential transactions. Please see our <a
-        href="http://www.initc3.org/projects">Projects page</a> for more info.
+        href="http://www.initc3.org/projects.html">Projects page</a> for more info.
 
 ## Contact
 
