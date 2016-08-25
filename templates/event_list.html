@@ -1,4 +1,4 @@
-{% extends "base.html" %}
+{% extends "page.html" %}
 
 {% macro event_item(event) %}
 <div class="item">
@@ -29,9 +29,11 @@
 </li>
 {% endmacro %}
 
-{% block content %}
+{% block breadcrumb %}
 
-<div class="ui main container">
+{% endblock %}
+
+{% block content %}
 
 <h1 class="ui header">Upcoming Events</h1>
 
@@ -52,8 +54,6 @@
 {% for event in past %}
 {{ event_item(event) }}
 {% endfor %}
-</div>
-
 </div>
 
 {% endblock %}

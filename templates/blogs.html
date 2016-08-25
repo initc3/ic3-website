@@ -1,4 +1,4 @@
-{% extends "base.html" %}
+{% extends "page.html" %}
 
 {% block title %}
 
@@ -8,12 +8,10 @@ IC3 - Blogs
 
 {% block content %}
 
-<div class="ui main container">
-
 <div class="ui divided items">
 
   <h1>Blogs</h1>
-  
+
     {% for b in blogs %}
     <div class="item">
         <div class="content">
@@ -23,8 +21,6 @@ IC3 - Blogs
         </div>
     </div>
     {% endfor %}
-</div>
-
 </div>
 
 {% endblock %}

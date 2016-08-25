@@ -1,10 +1,3 @@
-<div class="ui breadcrumb">
-  <a class="section" href="{{ SITE_ROOT }}/index.html">IC3</a>
-  <i class="right angle icon divider"></i>
-  <div class="active section">Job Board</div>
-</div>
-
-
 # Cornell/CornellTech and Ethereum Foundation Research Group
 
 1 joint postdoc position available, co-hosted by Cornell/CornellTech’s Initiative for Cryptocurrency and Contracts (IC3) and Ethereum Foundation Research Group.

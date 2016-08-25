@@ -68,10 +68,14 @@ def gen(e):
     ongoing = filter(lambda x: x['end'] >= datetime.date.today(), event_list)
     past = filter(lambda x: x['end'] < datetime.date.today(), event_list)
 
-    cntx = e.get_def_cntx()
-    cntx['ongoing'] = ongoing
-    cntx['past'] = past
-
     event_index_temp = e.env.get_template('event_list.html')
-    html = event_index_temp.render(cntx)
-    e.write(html.encode('utf-8'), e.get_root_fn('events.html'))
+    output = e.get_root_fn('events.html')
+
+    breadcrumb = [{'name': 'Events', 'url': 'events.html'}]
+
+    e.render_and_write(event_index_temp,
+            dict(title='Events',
+                ongoing=ongoing,
+                past=past,
+                breadcrumb=breadcrumb),
+            output)
