@@ -196,7 +196,7 @@ if __name__ == '__main__':
     event.gen(e)
 
     u = u"ü"
-    with open('output/index.html', 'w+') as t:
+    with open('output/test.html', 'w+') as t:
         t.write(u.encode('utf-8'))
 
     try:
