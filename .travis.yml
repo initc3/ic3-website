@@ -2,7 +2,9 @@ language: python
 cache: pip
 python: 2.7.10
 install: pip install -r requirements.txt
-script: python main.py -d
+script: 
+    - python main.py -d
+    - python fetchone.py
 # after_success:
 #     - pip install awscli
 #     - aws s3 sync output s3://www.initc3.org --delete
