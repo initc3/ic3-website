@@ -89,4 +89,7 @@ def fetchall():
             imgsrc=imgsrc,
             summary=summary))
 
+    with open('output/test-recent.html', 'w') as f:
+        for date, url, title, date, authors, summary in recent:
+            f.write(authors.encode('utf-8'))
     return recent, posts
