@@ -35,11 +35,12 @@ def fetchall():
             if url not in exclude_urls:
                 title = pq(elem).text()
 
-                print 'getting blog: ', title
+                print 'Blog: ', title
 
                 pubinfo = pq(elem).parent().parent().find(".post-metadata .post-published")
                 date = pq(pubinfo).find(".post-date").html().strip()
                 authors = pq(pubinfo).find(".post-authors").html().strip()
+                print authors
                 summary = pq(elem).parent().parent().parent().find(".post-summary").text()
 
                 date_components = date.split()
