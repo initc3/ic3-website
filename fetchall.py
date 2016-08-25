@@ -27,12 +27,16 @@ def fetchall():
     target = ["http://hackingdistributed.com/tag/bitcoin/", "http://hackingdistributed.com/tag/ethereum/"]
 
     for argurl in target:
+        print 'Fetching: ', argurl
         d = pq(url=argurl)
 
         for elem in d.find("h2.post-title a"):
             url = pq(elem).attr["href"]
             if url not in exclude_urls:
                 title = pq(elem).text()
+
+                print 'getting blog: ', title
+
                 pubinfo = pq(elem).parent().parent().find(".post-metadata .post-published")
                 date = pq(pubinfo).find(".post-date").html().strip()
                 authors = pq(pubinfo).find(".post-authors").html().strip()
@@ -54,13 +58,15 @@ def fetchall():
         posts.append(dict(date=date, url=url, title=title, authors=authors,
             summary=summary))
 
+
     recent = []
-    for date, url, title, date, authors, summary, elem in results[:3]:
+    for date, url, title, date, authors, summary, elem in results[:4]:
         d = pq(url=url)
 
         img = d.find("div.figure img")
         imgsrc = pq(img).attr["src"]
         title = title.replace("'", "\\'")
+        print 'Generating preview for: ', title
         summary = summary.replace("'", "\\'")
         # try to get the first author's pic
         if imgsrc is None:

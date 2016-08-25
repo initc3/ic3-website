@@ -10,6 +10,7 @@ from optparse import OptionParser
 
 parser = OptionParser()
 parser.add_option("-d", "--deploy", action="store_true", dest="deploy", default=False)
+parser.add_option("-f", "--fetchall", action="store_true", dest="fetchall", default=False)
 (options, args) = parser.parse_args()
 
 CWD = os.path.dirname(__file__)
@@ -27,7 +28,7 @@ def index():
     event_list = event.gen_event_list(e)
     news = event_list[:N_NEWS_ON_INDEX]
 
-    if options.deploy:
+    if options.deploy or options.fetchall:
         blogs, _ = fetchall.fetchall()
     else:
         blogs = []
@@ -118,7 +119,7 @@ def blogs():
 
     breadcrumb = [{'name': 'Blogs', 'url': 'blogs.html'}]
 
-    if options.deploy:
+    if options.deploy or options.fetchall:
         _, posts = fetchall.fetchall()
     else:
         posts = []
@@ -180,6 +181,17 @@ import errno
 import sys
 
 if __name__ == '__main__':
+    index()
+    about()
+    people()
+    partners()
+    projects()
+    blogs()
+    publications()
+    press()
+    page_not_found()
+    jobs()
+    event.gen(e)
 
     try:
         shutil.copytree('static', join(OUTPUT_DIR, 'static'))
@@ -190,18 +202,3 @@ if __name__ == '__main__':
             pass
         else:
             raise
-
-    index()
-    about()
-    people()
-    partners()
-    projects()
-    blogs()
-    publications()
-    press()
-    page_not_found()
-
-    jobs()
-
-    event.gen(e)
-

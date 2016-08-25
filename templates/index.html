@@ -14,14 +14,34 @@
     <div class="ui container">
         <div class="ui stackable internally celled grid">
             <div class="row">
-                <!-- FEATURE PROJECTS-->
+                <!-- BLOGS-->
                 <div class="ten wide column">
-                    {% include "index/_featured_projects.html" %}
+                    <h1 class="ui header"> <i class="fa fa-rss-square" aria-hidden="true"></i>
+                      <div class="content ic3-color">Latest on Blog</div>
+                    </h1>
+
+                    <div class="ui items">
+                        {% for b in blogs %}
+                        <div class="item">
+                            <div class="content">
+                                <div class="left floated ui tiny image"><img src={{ SITE_ROOT }}/{{ b.imgsrc }} alt="" /> </div>
+                                <div class="header"><a href="{{ b.url }}">{{ b.title}}</a></div>
+                                <div class="meta">by {{ b.authors }} on {{ b.date }}</div>
+                                <div class="description">{{ b.summary }}</div>
+                            </div>
+                        </div>
+                        {% endfor %}
+                    </div>
+
+                    <a href="blogs.html">older blogs...</a>
                 </div>
 
                 <!-- NEWS -->
                 <div class="six wide column">
-                    <h1 class="ui header"> <i class="fa fa-newspaper-o" aria-hidden="true"></i> <div class="content ic3-color">News</div> </h1>
+                    <h1 class="ui header">
+                      <i class="fa fa-newspaper-o" aria-hidden="true"></i>
+                      <div class="content ic3-color">Events</div>
+                    </h1>
 
                     <div class="ui divided items">
 
@@ -48,24 +68,9 @@
             </div>
 
             <div class="row">
-                <!-- BLOGS-->
+                <!-- FEATURE PROJECTS-->
                 <div class="ten wide column">
-                    <h1 class="ui header"> <i class="fa fa-rss-square" aria-hidden="true"></i>
-                      <div class="content ic3-color">Latest on Blog</div>
-                    </h1>
-
-                    <div class="ui items">
-                        {% for b in blogs %}
-                        <div class="item">
-                            <div class="content">
-                                <div class="left floated ui tiny image"><img src={{ SITE_ROOT }}/{{ b.imgsrc }} alt="" /> </div>
-                                <div class="header"><a href="{{ b.url }}">{{ b.title}}</a></div>
-                                <div class="meta">by {{ b.authors }} on {{ b.date }}</div>
-                                <div class="description">{{ b.summary }}</div>
-                            </div>
-                        </div>
-                        {% endfor %}
-                    </div>
+                    {% include "index/_featured_projects.html" %}
                 </div>
 
                 <!--        JOB AND FOLLOW US-->
