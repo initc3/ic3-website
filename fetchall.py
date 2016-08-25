@@ -40,7 +40,7 @@ def fetchall():
                 pubinfo = pq(elem).parent().parent().find(".post-metadata .post-published")
                 date = pq(pubinfo).find(".post-date").html().strip()
                 authors = pq(pubinfo).find(".post-authors").html().strip()
-                print authors
+                print authors.encode('utf-8')
                 summary = pq(elem).parent().parent().parent().find(".post-summary").text()
 
                 date_components = date.split()
