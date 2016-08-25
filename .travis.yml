@@ -1,5 +1,5 @@
 language: python
-python: 2.7
+python: 2.7.10
 install: pip install -r requirements.txt
 script: python main.py -d
 deploy:
@@ -9,6 +9,6 @@ deploy:
     secure: fmNXJR/QrHshEVOpcGnh+/rWk8ICyWUuXMjsMPls7tbpru2ghnPqeOFJ6UffPFNU9HvC+o0ock3B4B6JssVPL3fcV9uvlsZiztIFxNCL/qDQSRNJuhgt0pr3IxeW9+4B63OA+N+ykqAU0gu+mJoRWoTp+aXkqALS+iTaUzRJHVwOKs9rVD4QpMZ2NlyEf92Jn2cb2TBSeEQ4ZrRes0xcN8QPfB8X45Mdr76ocS+PKekxaVwTdmY8sWa1G/NNl28eBIYDXHMaiutvGF3WqbPLIfQ/wK/9U9J2RF5zexsed/sOf6ZmZjPTKKtVzJYyLLCcGOxeA/7WBxZqsqF6uZJGk+rOar4DBQAj930kJVJ7jpdW9bxEUXiiWf/woe/eEzL6SuW2Jg5J2vPJIU3Nce6g0f4xMZK8kMF32V/aAZskG031SgV/fCHind712AzGcOqdqy/Pycfr1IIyo6BzRoVL0F9D0f17BJq3QaNZEcYrZZBy0TtJ6vKHPiTthg5rdMWPukqrHLmah6Z9pDXOI1pgPfawhwoJbIp8H6oA5PcR/pPD+rqJXFnpjsjENYNNBWw6IY5mRkbeSDDrS7gTMO75+/8S1lM05GNYmaDNtuPeaAnN0fvVW/E4ZHb9y9h3HwyvyF9NUMvILvsWb1IxS+yvb9/VmLSNHPakDHXAj0/k4Fw=
   bucket: www.initc3.org
   region: us-east-1
-#  skip_cleanup: true
+  skip_cleanup: true
 #  default_text_charset: 'utf-8'
   local-dir: output
