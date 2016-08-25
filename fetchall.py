@@ -56,7 +56,6 @@ def fetchall():
         posts.append(dict(date=date, url=url, title=title, authors=authors,
             summary=summary))
 
-
     recent = []
     for date, url, title, date, authors, summary in results[:4]:
         d = pq(url=url)
