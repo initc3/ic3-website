@@ -130,7 +130,6 @@ def page_not_found():
     output = e.get_root_fn('404.html')
     temp = e.env.get_template('page.html')
 
-    # TODO: Use real markdown instead of html here
     with open('./content/404.html', 'r') as c:
         content = c.read()
 
@@ -138,6 +137,20 @@ def page_not_found():
         title='Publications',
         content=content),
         output)
+
+def jobs():
+    output = e.get_root_fn('jobs.html')
+    temp = e.env.get_template('page.html')
+
+    with codecs.open('./content/jobs/postdoc.md', 'r', encoding='utf-8') as c:
+        content = c.read()
+        content = markdown.markdown(content)
+
+    e.render_and_write(temp, dict(
+        title='Jobs',
+        content=content),
+        output)
+
 
 import os
 import shutil
@@ -165,6 +178,8 @@ if __name__ == '__main__':
     publications()
     press()
     page_not_found()
+
+    jobs()
 
     event.gen(e)
 
