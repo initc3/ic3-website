@@ -1,3 +1,5 @@
+# encoding: utf-8
+
 import yaml
 from jinja2 import FileSystemLoader, Environment
 import os
@@ -192,6 +194,10 @@ if __name__ == '__main__':
     page_not_found()
     jobs()
     event.gen(e)
+
+    u = u"ü"
+    with open('output/test.html', 'w') as t:
+        t.write(u.encode('utf-8'))
 
     try:
         shutil.copytree('static', join(OUTPUT_DIR, 'static'))
