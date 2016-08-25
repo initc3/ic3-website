@@ -89,6 +89,8 @@ def fetchall():
             summary=summary))
 
     with open('output/test-recent.html', 'w') as f:
-        for date, url, title, date, authors, summary in recent:
-            f.write(authors.encode('utf-8'))
+        for r in recent:
+            a = r['authors']
+            print a
+            f.write(a.encode('utf-8'))
     return recent, posts
