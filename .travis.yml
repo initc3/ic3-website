@@ -10,5 +10,5 @@ deploy:
   bucket: www.initc3.org
   region: us-east-1
   skip_cleanup: true
-#  default_text_charset: 'utf-8'
+  default_text_charset: 'utf-8'
   local-dir: output

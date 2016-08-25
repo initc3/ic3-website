@@ -40,7 +40,6 @@ def fetchall():
                 pubinfo = pq(elem).parent().parent().find(".post-metadata .post-published")
                 date = pq(pubinfo).find(".post-date").html().strip()
                 authors = pq(pubinfo).find(".post-authors").html().strip()
-                print authors.encode('utf-8')
                 summary = pq(elem).parent().parent().parent().find(".post-summary").text()
 
                 date_components = date.split()
@@ -50,24 +49,25 @@ def fetchall():
                     date_object = time.strptime(date, '%A %B %d, %Y at %I:%M %p')
                 else:
                     print "cannot parse date"
-                results.append((date_object, url, title, date, authors, summary, '<div class="panel panel-default blogpost"><div class="panel-header"><a class="blogtitle" href="' + url + '">' + title + '</a>' + '<div class="blogdate">' + date + '</div><div class="blogauthors">' + authors.encode('utf-8') + '</div></div><div class="panel-body blogbody">' + summary.encode('utf-8') + '</div></div>'))
+                results.append((date_object, url, title, date, authors, summary))
 
     results.sort(reverse=True)
 
     posts = []
-    for date, url, title, date, authors, summary, elem in results:
+    for date, url, title, date, authors, summary in results:
         posts.append(dict(date=date, url=url, title=title, authors=authors,
             summary=summary))
 
 
     recent = []
-    for date, url, title, date, authors, summary, elem in results[:4]:
+    for date, url, title, date, authors, summary in results[:4]:
         d = pq(url=url)
 
         img = d.find("div.figure img")
         imgsrc = pq(img).attr["src"]
         title = title.replace("'", "\\'")
         print 'Generating preview for: ', title
+        print 'Authors: ', authors.encode('utf-8')
         summary = summary.replace("'", "\\'")
         # try to get the first author's pic
         if imgsrc is None:
