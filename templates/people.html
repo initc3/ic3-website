@@ -1,15 +1,23 @@
-{% macro people_item(link, pic, name, title, bio, email) %}
+{% macro people_item(weburl, pic, name, title, bio, email) %}
     <div class="item">
         <div class="content">
             <img class="left floated small ui image" src="images/people/{{ pic }}">
-            {% if link %}
-              <a class="header" href={{ link }}>{{ name }}</a>
+            {% if weburl %}
+              <div class="header" >{{ name }}
+
+              </div>
             {% else %}
               <a class="header" href={{ "mailto:" + email }}>{{ name }}</a>
             {% endif %}
-            <div class="meta"><span>{{ title }}</span></div>
+            <div class="meta"><span>{{ title }}</span>
+              <button class="ui mini compact basic icon button"><a href={{ "mailto:" + email }}><i class="mail icon"></i>Email</a></button>
+              {% if weburl != '' %}
+              <button class="ui mini compact basic icon button"><a href="{{ weburl }}"><i class="home icon"></i>Website</a></button>
+              {% endif %}
+            </div>
             <div class="description"><p>{{ bio }}</p></div>
-            <div class="extra"></div>
+            <div class="extra">
+            </div>
         </div>
     </div>
 {% endmacro %}

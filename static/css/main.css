@@ -181,10 +181,11 @@ to appear at that point */
   padding-top: 0;
   padding-bottom: 0;
 }
-/*.second.stripe.segment .grid .row .column {
+
+.second.stripe.segment .grid .row .column {
   padding-top: 2rem;
   padding-bottom: 2rem;
-}*/
+}
 
 .ui.vertical.stripe .horizontal.divider {
   /*margin: 3rem 0rem;*/
