@@ -35,8 +35,6 @@ def fetchall():
             if url not in exclude_urls:
                 title = pq(elem).text()
 
-                print 'Blog: ', title
-
                 pubinfo = pq(elem).parent().parent().find(".post-metadata .post-published")
                 date = pq(pubinfo).find(".post-date").html().strip()
                 authors = pq(pubinfo).find(".post-authors").html().strip()
@@ -67,10 +65,6 @@ def fetchall():
         imgsrc = pq(img).attr["src"]
         title = title.replace("'", "\\'")
         print 'Generating preview for: ', title
-        print 'Authors: ', authors.encode('utf-8')
-        for c in authors:
-            print ord(c),
-        print ''
         summary = summary.replace("'", "\\'")
         # try to get the first author's pic
         if imgsrc is None:
