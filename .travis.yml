@@ -3,7 +3,7 @@ cache: pip
 python: 2.7.10
 install: pip install -r requirements.txt
 script: python main.py -d
-after-success:
+after_success:
     - pip install --user awscli
     - aws s3 sync output s3://www.initc3.org --delete
 # deploy:
