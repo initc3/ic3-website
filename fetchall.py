@@ -68,6 +68,9 @@ def fetchall():
         title = title.replace("'", "\\'")
         print 'Generating preview for: ', title
         print 'Authors: ', authors.encode('utf-8')
+        for c in authors:
+            print ord(c),
+        print ''
         summary = summary.replace("'", "\\'")
         # try to get the first author's pic
         if imgsrc is None:
