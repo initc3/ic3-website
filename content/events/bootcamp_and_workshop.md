@@ -11,7 +11,13 @@ summary: IC3 and the Ethereum Foundation conducted an immersive 9-day coding and
 <i class="checked calendar icon"></i>July 20-28, 2016
 <i class="marker icon"></i>Gates Hall, Cornell University, Ithaca, NY
 
-> "One of the most productive hackathons I have ever attended!" - Vitalik Buterin, Ethereum Foundation
+<blockquote>
+<p>One of the most productive hackathons I have ever attended!</p>
+<footer>
+<p>- Vitalik Buterin, <em>Ethereum Foundation</em></p>
+</footer>
+</blockquote>
+
 
 IC3 and the Ethereum Foundation Conducted an Immersive 9-day Coding and Learning
 Experience in Blockchains and Smart Contracts with World-leading Professors,
