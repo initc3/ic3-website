@@ -11,6 +11,10 @@ for elem in d.find("h2.post-title a"):
     print type(author)
     authors.append(author)
 
+import os
+
+os.mkdir('output')
+
 with open('output/test.html', 'w') as f:
     f.write(u'\ufeff'.encode('utf-8'))
     f.write(': '.join(authors).encode('utf-8'))
