@@ -12,8 +12,14 @@ for elem in d.find("h2.post-title a"):
     authors.append(author)
 
 import os
+import errno
 
-os.mkdir('output')
+try:
+    os.mkdir('output')
+except OSError as e:
+    if e.errno == errno.EEXIST:
+        pass
+
 
 with open('output/test.html', 'w') as f:
     f.write(u'\ufeff'.encode('utf-8'))
