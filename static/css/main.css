@@ -45,12 +45,12 @@ div.ic3-moto.item {
 }
 
 /* < 1110: a slightly more compact menu */
-@media only screen and (max-width: 1110px) {
+/*@media only screen and (max-width: 1110px) {*/
   .navbar .menu > a.item {
     padding-left: 10px !important;
     padding-right: 10px !important;
   }
-}
+/*}*/
 
 /* > 992px*/
 @media only screen and (min-width: 992px) {
