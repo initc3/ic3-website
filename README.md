@@ -19,6 +19,7 @@ Adding Events
 2. Pop the first few lines of the markdown file you just created with a YAML
    header like this:
 
+    ```
     ---
     name: 'IC3 NYC Blockchain Meetup - "Town Crier: An Authenticated Data Feed for Smart Contracts" - Prof. Ari Juels'
     location: New York City, NY
@@ -27,6 +28,7 @@ Adding Events
     url: ''
     summary: blahblah.
     ---
+      ```
 
     A fews things to note here:
     - if the content after the first `:` contains one or more `:`, they need
