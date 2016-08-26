@@ -4,7 +4,7 @@ python: "2.7"
 install: 
     - pip install -r requirements.txt
 script: 
-    - python fetchone.py
+    - python -d main.py 
 # after_success:
 #     - pip install awscli
 #     - aws s3 sync output s3://www.initc3.org --delete

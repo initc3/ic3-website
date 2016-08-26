@@ -6,6 +6,7 @@ import time
 from pyquery import PyQuery as pq
 import os
 import hashlib
+import requests
 
 def fetchall():
     exclude_urls = set([
@@ -28,7 +29,10 @@ def fetchall():
 
     for argurl in target:
         print 'Fetching: ', argurl
-        d = pq(url=argurl)
+
+        r = requests.request('GET', argurl)
+        r.encoding = 'utf-8'
+        d = pq(r.text)
 
         for elem in d.find("h2.post-title a"):
             url = pq(elem).attr["href"]
@@ -58,7 +62,9 @@ def fetchall():
 
     recent = []
     for date, url, title, date, authors, summary in results[:4]:
-        d = pq(url=url)
+        r = requests.request('GET', argurl)
+        r.encoding = 'utf-8'
+        d = pq(r.text)
 
         img = d.find("div.figure img")
         imgsrc = pq(img).attr["src"]
