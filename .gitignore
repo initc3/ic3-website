@@ -1,4 +1,6 @@
 .DS_Store
+
+images/hotlinks
 env
 venv/
 output

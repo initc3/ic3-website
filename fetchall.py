@@ -8,6 +8,9 @@ import os
 import hashlib
 import requests
 
+from os.path import exists, dirname
+import errno
+
 def fetchall():
     exclude_urls = set([
         "http://hackingdistributed.com/2015/08/17/coin-needs-a-board/",
@@ -61,11 +64,11 @@ def fetchall():
             summary=summary))
 
     recent = []
+
     for date, url, title, date, authors, summary in results[:4]:
-        r = requests.request('GET', argurl)
+        r = requests.request('GET', url)
         r.encoding = 'utf-8'
         d = pq(r.text)
-
         img = d.find("div.figure img")
         imgsrc = pq(img).attr["src"]
         title = title.replace("'", "\\'")
@@ -86,6 +89,13 @@ def fetchall():
             imagehash.update(imagecontents)
             imagename = imagehash.hexdigest()
             imgsrc = "images/hotlinks/" + imagename + imageext
+
+            if not exists(dirname(imgsrc)):
+                try:
+                    os.makedirs(dirname(imgsrc))
+                except OSError as e:
+                    if e.errno != errno.EEXIST:
+                        rase
             with open(imgsrc, "w") as img:
                 img.write(imagecontents)
         else:
