@@ -12,4 +12,5 @@ for elem in d.find("h2.post-title a"):
     authors.append(author)
 
 with open('output/test.html', 'w') as f:
+    f.write(u'\ufeff'.encode('utf-8'))
     f.write(': '.join(authors).encode('utf-8'))
