@@ -45,18 +45,17 @@
 
                     <div class="ui divided items">
 
-                        {% for n in news %}
+                        {% for n in events %}
                         <div class="item">
                             <div class="content">
                                 <div class="meta">
-                                  <span><i class="calendar icon"></i> {{ n.start | dateformat }}</span>
+                                  <span>{{ n.date_str }}</span>
                                 </div>
                                 {% if n.url %}
                                   <div class=""><a href="{{ n.url }}">{{ n.name }}</a></div>
                                 {% else %}
                                   <div class="">{{ n.name }}</div>
                                 {% endif %}
-                                <!-- <div class="description">{{ n.summary }}</div> -->
                             </div>
                         </div>
                         {% endfor %}

@@ -2,7 +2,6 @@
 
 {% macro event_item(event) %}
 <div class="item">
-    <!-- <div class="image"></div> -->
     <div class="content">
       {% if event.url %}
         <div class="header"> <a href="{{ event.url }}">{{ event.name }}</a> </div>
@@ -10,10 +9,7 @@
         <div class="header ic3-color"> {{ event.name }} </div>
       {% endif %}
       <div class="meta">
-        <span>
-          <i class="checked calendar icon"></i>{{ event.start | dateformat }}
-          {% if event.end != event.start %} to {{ event.end | dateformat }}{% endif %}
-        </span>
+        <span> {{ event.date_str }} </span>
         {% if event.location %}
         <span>
           <i class="marker icon"></i>{{ event.location }}
@@ -25,8 +21,6 @@
       </div>
     </div>
   </div>
-
-</li>
 {% endmacro %}
 
 {% block breadcrumb %}

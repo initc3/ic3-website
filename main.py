@@ -28,7 +28,7 @@ N_NEWS_ON_INDEX = 4
 
 def index():
     event_list = event.gen_event_list(e)
-    news = event_list[:N_NEWS_ON_INDEX]
+    recent_events = event_list[:N_NEWS_ON_INDEX]
 
     if options.deploy or options.fetchall:
         blogs, _ = fetchall.fetchall()
@@ -37,7 +37,7 @@ def index():
 
     temp = e.env.get_template('index.html')
     output_fn = e.get_root_fn('index.html')
-    e.render_and_write(temp, dict(news=news, blogs=blogs), output_fn)
+    e.render_and_write(temp, dict(events=recent_events, blogs=blogs), output_fn)
 
 def about():
     output = join(OUTPUT_DIR, 'about.html')
