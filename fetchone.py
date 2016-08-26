@@ -8,7 +8,7 @@ authors = []
 for elem in d.find("h2.post-title a"):
     pubinfo = pq(elem).parent().parent().find(".post-metadata .post-published")
     author = pq(pubinfo).find(".post-authors").html().strip()
-    print type(author)
+    print(type(author))
     authors.append(author)
 
 import os
@@ -21,6 +21,5 @@ except OSError as e:
         pass
 
 
-with open('output/test.html', 'w') as f:
-    f.write(u'\ufeff'.encode('utf-8'))
-    f.write(': '.join(authors).encode('utf-8'))
+with open('output/test.html', 'w', encoding='utf-8') as f:
+    f.write(': '.join(authors))
