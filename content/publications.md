@@ -1,4 +1,4 @@
-PREPRINTS
+Preprints
 =========
 
 -   B. Marino and A. Juels. [Setting Standards for Altering and Undoing Smart Contracts](http://www.arijuels.com/wp-content/uploads/2016/06/Setting-Standards-for-Altering-and-Undoing-Smart-Contracts.docx). Rule ML, 2016. To appear.
@@ -11,7 +11,7 @@ PREPRINTS
 -   K. Nayak, S. Kumar, A. Miller, E. Shi. [Stubborn Mining: Generalizing Selfish Mining and Combining with an Eclipse Attack.](https://eprint.iacr.org/2015/796) 2015.
 -   R. Pass and a. shelat. [Micropayments for Decentralized Currencies](files/micropay2.pdf). ACM CCS, 2015. To appear.
 
-PUBLISHED PAPERS
+Published Papers
 ================
 
 -   K. Croman, C. Decker, I. Eyal, A.E. Gencer, A. Juels, A. Kosba, A. Miller, P. Saxena, E. Shi, E. G. Sirer, D. Song, and R. Wattenhofer. [On Scaling Decentralized Blockchains (A Position Paper)](http://fc16.ifca.ai/bitcoin/papers/CDE+16.pdf). BITCOIN'16. (Full version [here](scalingblockchain))

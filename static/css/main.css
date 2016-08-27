@@ -154,9 +154,6 @@ to appear at that point */
 
 /*slogan on smaller screen*/
 @media screen and (max-width: 768px) {
-  .slogan.segment {
-    margin-bottom: .8rem !important;
-  }
   .slogan.segment > h2 {
     font-size: 1.3rem;
     margin-top: .8rem;
@@ -168,6 +165,7 @@ to appear at that point */
 /*major content segment*/
 
 /*on smaller screen*/
+/*
 @media screen and (max-width: 768px) {
   .second.segment > .container > .grid > .row > div.column {
     padding-top: 1rem !important;
@@ -175,6 +173,7 @@ to appear at that point */
   }
 
 }
+*/
 
 
 .second.stripe.segment {
@@ -208,7 +207,8 @@ to appear at that point */
 
 @media screen and (max-width: 768px) {
   .ui.main.container {
-    margin-top: .5rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
   }
 }
 
