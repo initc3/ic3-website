@@ -6,7 +6,7 @@ One of the major motivation for revamping the website is to separate the content
 How it works
 -------------
 
-The actual contents (e.g. people, publications) are documented in a writer-friendly format, mostly in **Markdown**. A Python script has been written to parse the content and generate the final website. [Travis-CI](travis-ci.com) is used to build automatically on every git push.
+The actual contents (e.g. people, publications) are documented in a writer-friendly format, mostly in **Markdown**. A Python script has been written to parse the content and generate the final website. [Travis-CI](http://travis-ci.com) is used to build automatically on every git push.
 
 
 Before Start
@@ -42,7 +42,7 @@ You don't have to generate a local preview but you can:
 2. Run `python main.py` to generate a `output` directory and `output/index.html` is the homepage.
 
 
-**Note that** when a local preview is generated, blogs will be left blank by default (since curling the blogs takes some time and generate unnecessary network traffic). If you do want to generate them as well, please use `python main.py -f`, which tells the script to download the latest blogs from the source.
+**Note that** when a local preview is generated, blogs will be left blank by default (since curling the blogs takes some time and generate unnecessary network traffic). If you do want the script to download the latest blogs from the source, please use `python main.py -f`.
 
 **Don't forget to push** to make the editing effective.
 
