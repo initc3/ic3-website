@@ -1,6 +1,9 @@
 Selected highlights from the press
 ==================================
 
+- [Chain Joins Industry-Academia Blockchain Initiative to Solve Interoperability
+  and Scalability
+  Issues](https://bitcoinmagazine.com/articles/chain-joins-industry-academia-blockchain-initiative-to-solve-interoperability-and-scalability-issues-1471882821) by **Bitcoin Magazine** on August 22, 2016
 -   [Cornell Professor Calls for 'DAO 2.0' Movement](http://www.coindesk.com/cornell-prof-discovered-dao-vulnerability-reveals-10-exploits/) by **Coindesk** on June 21, 2016
 -   [The Satoshi Affair](http://www.lrb.co.uk/v38/n13/andrew-ohagan/the-satoshi-affair) by **London Review of Books** on June 30, 2016
 -   [Theft is Property](http://www.economist.com/news/finance-and-economics/21701136-cyber-attacker-outsmarts-smart-contract-theft-property) by **The Economist** on June 25, 2016

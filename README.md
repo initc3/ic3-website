@@ -24,9 +24,10 @@ You can find a Markdown cheat sheet [here](https://github.com/adam-p/markdown-he
 Updating contents -- the easy way
 ----------------------
 
-1. clone the repository
-2. apply whatever editing you want to files under the `content` directory (note that renaming files or creating new files are not supported yet, and would fail the building)
-3. commit the changes and `git push` (Give Travis-CI 2 minutes to finish deployment.)
+1. Clone the repository
+2. Apply whatever editing you want to files under the `content` directory (note that renaming files or creating new files are yet supported, and would fail the building.)
+3. Commit the changes and `git push`
+4. Give Travis-CI 2 minutes to finish deployment and you should find the website updated.
 
 __Note that__ your editing will take effect as soon as your push is accepted by GitHub. So please double check before pushing. If you'd like to generate a local preview first, please read the next section.
 
