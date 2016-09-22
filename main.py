@@ -24,9 +24,9 @@ e = Engine(deploy=options.deploy)
 import event
 import fetchall
 
-N_NEWS_ON_INDEX = 4
 
 def index():
+    N_NEWS_ON_INDEX = 3
     event_list = event.gen_event_list(e)
     recent_events = event_list[:N_NEWS_ON_INDEX]
 

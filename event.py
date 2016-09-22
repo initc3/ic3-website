@@ -57,8 +57,8 @@ def format_date(event, icon='<i class="calendar icon"></i>'):
     s = event['start']
     t = event['end']
 
-    full_format = '%A %B, %e %Y '
-    short_full_format = '%B, %e %Y '
+    full_format = '%A %B %e, %Y '
+    short_full_format = '%B %e, %Y '
     if s == t:
         date = '%s%s' % (icon, s.strftime(full_format))
         return date
