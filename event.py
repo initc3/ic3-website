@@ -82,6 +82,8 @@ def gen_event_list(e):
 
     event_list = []
     for f in glob.glob(join(BASE_DIR, '*.md')):
+        if f.endswith('template.md'):
+            pass
         event_list.append(process(e, f))
 
     event_list = sorted(event_list, key=itemgetter('start'), reverse=True)
