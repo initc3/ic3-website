@@ -1,5 +1,5 @@
 ---
-name: "Blockchain for Wall Street" in NYC
+name: '"Blockchain for Wall Street" in NYC'
 location: New York City, NY
 start: 2016-11-29
 end: 2016-11-29
