@@ -22,7 +22,7 @@ The National Science Foundation awarded IC3 a $3M 3-year grant in 2015. We seek 
 
 ## Annual Membership Program Fees and Benefits
 
-IC3 offers two levels of membership: Sponsor Members and Regular Members. Sponsor Members pay $450k per year and Regular members pay $150k per year. All fees are unrestricted gifts.
+IC3 offers two levels of membership: Sponsor Members and Regular Members. Sponsor Members pay $450k per year and Regular members pay $150k per year.
 
 The membership program is designed to foster the relationship between IC3 and industry. These funds support research and facilitate the exploration of new innovative ideas and prototypes.
 
