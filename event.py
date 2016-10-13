@@ -17,6 +17,7 @@ DATE_FORMAT = '%Y-%m-%d'
 
 
 def process(e, filename):
+    print 'processing %s' % filename
     if not exists(filename):
         print filename, ' does not exists'
         raise
@@ -83,7 +84,7 @@ def gen_event_list(e):
     event_list = []
     for f in glob.glob(join(BASE_DIR, '*.md')):
         if f.endswith('template.md'):
-            pass
+            continue
         event_list.append(process(e, f))
 
     event_list = sorted(event_list, key=itemgetter('start'), reverse=True)
