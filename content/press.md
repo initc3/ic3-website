@@ -1,6 +1,8 @@
 Selected highlights from the press
 ==================================
 
+- [Chain Launches Open Source Developer
+  Platform: Includes Test Network Operated by Chain, Microsoft, and IC3](https://chain.com/press-releases/chain-launches-open-source-developer-platform/) by **Chain** on October 24, 2016
 - [Chain Joins Industry-Academia Blockchain Initiative to Solve Interoperability
   and Scalability
   Issues](https://bitcoinmagazine.com/articles/chain-joins-industry-academia-blockchain-initiative-to-solve-interoperability-and-scalability-issues-1471882821) by **Bitcoin Magazine** on August 22, 2016
