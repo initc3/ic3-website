@@ -34,7 +34,7 @@ projects:
   -
     name: "Miniature World: A Test Bed for Simulating Real World Blockchain"
     challenges: [*scaling]
-    description: Miniature World is a large blockchain emulation test bed at Cornell University consisting of ~1000 nodes. This test bed enables us to run experiments on different blockchains, and a variety of use cases, using realistic internet latencies to evaluate real world scenarios (as referenced above for Bitcoin-NG). We make Miniature World available for our Industry Sponsors to evaluate various block chains and their use cases. For more info about becoming an IC3 Industry Sponsor, please see <a href="http://www.initc3.org/partners">http://www.initc3.org/partners.html</a>.
+    description: Miniature World is a large blockchain emulation test bed at Cornell University consisting of ~1000 nodes. This test bed enables us to run experiments on different blockchains, and a variety of use cases, using realistic internet latencies to evaluate real world scenarios (as referenced above for Bitcoin-NG). We make Miniature World available for our Industry Sponsors to evaluate various block chains and their use cases. For more info about becoming an IC3 Industry Sponsor, please see <a href="http://www.initc3.org/partners.html">http://www.initc3.org/partners.html</a>.
 
   -
     name: "Fruitchain: A new Approach for Incentive Compatible Blockchains"
