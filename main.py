@@ -26,7 +26,7 @@ import fetchall
 
 
 def index():
-    N_NEWS_ON_INDEX = 3
+    N_NEWS_ON_INDEX = 2
     event_list = event.gen_event_list(e)
     recent_events = event_list[:N_NEWS_ON_INDEX]
 
