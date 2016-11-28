@@ -1,11 +1,9 @@
 all: pressroll-all.csv pressroll-featured.csv
 
 pressroll-all.csv: pressroll.csv Makefile
-	# 	cat pressroll.csv | sed 1,2d | grep IC3 | python genpage.py >pressroll.csv
 	@cat pressroll.csv | sed 1,2d | grep IC3 > pressroll-all.csv
 
 pressroll-featured.csv: pressroll.csv Makefile
-	# 	cat pressroll.csv | sed 1,2d | grep IC3 | grep feature | python genpage.py >pressroll-featured.csv
 	@cat pressroll.csv | sed 1,2d | grep IC3 | grep feature > pressroll-featured.csv
 
 pressroll.csv: pressroll.ods
