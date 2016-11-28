@@ -36,7 +36,7 @@
                     <a href="blogs.html">Older blogs...</a>
                 </div>
 
-                <!-- NEWS -->
+                <!-- NEWS and EVENTS -->
                 <div class="six wide column">
                     <h1 class="ui header">
                       <i class="fa fa-newspaper-o" aria-hidden="true"></i>
@@ -52,15 +52,25 @@
                                   <span>{{ n.date_str }}</span>
                                 </div>
                                 {% if n.url %}
-                                  <div class=""><a href="{{ n.url }}">{{ n.name }}</a></div>
+                                  <div class=""><a href="{{ n.url }}"><strong>Event: </strong>{{ n.name }}</a></div>
                                 {% else %}
-                                  <div class="">{{ n.name }}</div>
+                                  <div class=""><strong>Event: </strong>{{ n.name }}</div>
                                 {% endif %}
                             </div>
                         </div>
                         {% endfor %}
 
+                        {% for p in featured_press %}
                         <div class="item">
+                            <div class="content">
+                                <div class="meta"><span><i class="calendar icon"></i>{{ p.date_str }}</span> </div>
+                                <div class="">
+                                    <a href="{{ p.url }}"><strong>{{ p.venue }}</strong>: {{ p.title }}</a>                                  </a>
+                                </div>
+                            </div>
+                        </div>
+                        {% endfor %}
+                        <!-- <div class="item">
                             <div class="content">
                                 <div class="meta"><span><i class="calendar icon"></i>Monday October 24, 2016</span> </div>
                                 <div class="">
@@ -80,9 +90,9 @@
                                         Chain Joins Industry-Academia Blockchain Initiative to Solve Interoperability and Scalability Issues </a>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
 
-                        More <a href="{{ SITE_ROOT }}/press.html">News</a> and 
+                        <i class="arrow circle right icon"></i>More <a href="{{ SITE_ROOT }}/press.html">News</a> and
                         <a href="{{ SITE_ROOT }}/events.html">Events</a>
 
                     </div>

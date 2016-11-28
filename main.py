@@ -23,12 +23,13 @@ e = Engine(deploy=options.deploy)
 # event has to be imported after init
 import event
 import fetchall
-
+import press as ic3press
 
 def index():
-    N_NEWS_ON_INDEX = 2
     event_list = event.gen_event_list(e)
-    recent_events = event_list[:N_NEWS_ON_INDEX]
+    recent_events = event_list[:1]
+
+    featured_press = ic3press.get_featured_press()[:3]
 
     if options.deploy or options.fetchall:
         blogs, _ = fetchall.fetchall()
@@ -37,7 +38,8 @@ def index():
 
     temp = e.env.get_template('index.html')
     output_fn = e.get_root_fn('index.html')
-    e.render_and_write(temp, dict(events=recent_events, blogs=blogs), output_fn)
+    e.render_and_write(temp, dict(events=recent_events, featured_press=featured_press, blogs=blogs),
+        output_fn)
 
 def about():
     output = join(OUTPUT_DIR, 'about.html')
@@ -53,7 +55,6 @@ def about():
         content=content,
         breadcrumb=breadcrumb),
         output)
-
 
 def people():
     output = join(OUTPUT_DIR, 'people.html')
@@ -133,17 +134,17 @@ def blogs():
 
 def press():
     output = e.get_root_fn('press.html')
-    temp = e.env.get_template('page.html')
+    temp = e.env.get_template('press.html')
 
-    with codecs.open('./content/press.md', 'r', encoding='utf-8') as c:
-        content = c.read()
-        content = markdown.markdown(content)
+    all_press = ic3press.get_all_press()
+    featured_press = ic3press.get_featured_press()
 
     breadcrumb = [{'name': 'Press', 'url': 'press.html'}]
 
     e.render_and_write(temp, dict(
         title='Press',
-        content=content,
+        all_press=all_press,
+        featured_press=featured_press,
         breadcrumb=breadcrumb),
         output)
 

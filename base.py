@@ -47,7 +47,6 @@ class Engine (object):
     def write_utf8(self, utf8, filename):
         try:
             out = utf8.encode('utf-8')
-            # out = utf8.encode('ascii', 'xmlcharrefreplace')
         except:
             raise
 

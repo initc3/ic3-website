@@ -1,0 +1,26 @@
+{% extends "page.html" %}
+
+{% block breadcrumb %}
+
+{% endblock %}
+
+{% block content %}
+
+<h1 class="ui header">Selected highlights from the press</h1>
+
+<!-- <ul>
+  {% for p in featured_press %}
+  <li><a href="{{ p.url }}">{{ p.title }}</a> by <strong>{{ p.venue }}</strong> on {{ p.date_str }}</li>
+  {% endfor %}
+</ul>
+
+
+<h1 class="ui header">Selected highlights from the press</h1> -->
+
+<ul>
+  {% for p in all_press %}
+  <li><a href="{{ p.url }}">{{ p.title }}</a> by <strong>{{ p.venue }}</strong> on {{ p.date_str }}</li>
+  {% endfor %}
+</ul>
+
+{% endblock %}
