@@ -1,15 +1,10 @@
 ---
-name: IC3 held IC3-Ethereum Crypto Boot Camp and Workshop at Cornell University
-location: Ithaca, NY
+name: IC3-Ethereum Crypto Boot Camp and Workshop at Cornell University
+location: Gates Hall, Cornell University, Ithaca, NY
 start: 2016-07-20
 end: 2016-07-29
 summary: IC3 and the Ethereum Foundation conducted an immersive 9-day coding and learning experience in blockchains and smart contracts with world-leading researchers, open source developers, and students.
 ---
-
-# IC3-Ethereum Crypto Boot Camp and Workshop
-
-<i class="checked calendar icon"></i>July 20-28, 2016
-<i class="marker icon"></i>Gates Hall, Cornell University, Ithaca, NY
 
 <blockquote>
 <p>One of the most productive hackathons I have ever attended!</p>

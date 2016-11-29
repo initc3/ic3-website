@@ -1,0 +1,27 @@
+{% extends "page.html" %}
+
+{% block content %}
+
+<div class="ui breadcrumb">
+  <a class="section" href="{{ SITE_ROOT }}/index.html">IC3</a>
+  <i class="right angle icon divider"></i>
+  <a class="section" href="{{ SITE_ROOT }}/events.html">Events</a>
+  <i class="right angle icon divider"></i>
+  <div class="active section">{{  title }}</div>
+</div>
+
+<h1 class="ui header">
+  <div class="content">
+    {{ metadata.name }}
+    <div class="sub header">
+        <span> {{ metadata.date_str }} </span>
+        {% if metadata.location %}
+            <i class="marker icon"></i>{{ metadata.location }}
+        {% endif %}
+    </div>
+  </div>
+</h1>
+
+{{ content }}
+
+{% endblock %}

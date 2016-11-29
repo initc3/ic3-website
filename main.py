@@ -1,12 +1,13 @@
 # encoding: utf-8
 
 import yaml
-from jinja2 import FileSystemLoader, Environment
-import os
 import codecs
 import markdown
-from os.path import join, exists
+from os.path import join
 from base import Engine
+import os
+import shutil
+import errno
 
 from optparse import OptionParser
 
@@ -25,9 +26,11 @@ import event
 import fetchall
 import press as ic3press
 
+
 def index():
-    event_list = event.gen_event_list(e)
-    recent_events = event_list[:1]
+    upcoming_events = event.get_upcoming_events(e)
+    if len(upcoming_events) > 2:
+        upcoming_events = upcoming_events[:2]
 
     featured_press = ic3press.get_featured_press()[:3]
 
@@ -37,9 +40,9 @@ def index():
         blogs = []
 
     temp = e.env.get_template('index.html')
-    output_fn = e.get_root_fn('index.html')
-    e.render_and_write(temp, dict(events=recent_events, featured_press=featured_press, blogs=blogs),
-        output_fn)
+    output_fn = e.output_path('index.html')
+    e.render_and_write(temp, dict(events=upcoming_events, featured_press=featured_press, blogs=blogs), output_fn)
+
 
 def about():
     output = join(OUTPUT_DIR, 'about.html')
@@ -56,6 +59,7 @@ def about():
         breadcrumb=breadcrumb),
         output)
 
+
 def people():
     output = join(OUTPUT_DIR, 'people.html')
     temp = e.env.get_template('people.html')
@@ -69,6 +73,7 @@ def people():
                 content=html,
                 breadcrumb=breadcrumb),
             output)
+
 
 def partners():
     output = join(OUTPUT_DIR, 'partners.html')
@@ -85,6 +90,7 @@ def partners():
                 breadcrumb=breadcrumb),
             output)
 
+
 def projects():
     output = os.path.join(OUTPUT_DIR, 'projects.html')
     with open('./content/projects.yaml', 'r') as c:
@@ -100,8 +106,9 @@ def projects():
         projects=data['projects']),
         output)
 
+
 def publications():
-    output = e.get_root_fn('publications.html')
+    output = e.output_path('publications.html')
     temp = e.env.get_template('page.html')
 
     breadcrumb = [{'name': 'Publications', 'url': 'publications.html'}]
@@ -116,8 +123,9 @@ def publications():
         breadcrumb=breadcrumb),
         output)
 
+
 def blogs():
-    output = e.get_root_fn("blogs.html")
+    output = e.output_path("blogs.html")
     temp = e.env.get_template('blogs.html')
 
     breadcrumb = [{'name': 'Blogs', 'url': 'blogs.html'}]
@@ -132,8 +140,9 @@ def blogs():
         breadcrumb=breadcrumb),
         output)
 
+
 def press():
-    output = e.get_root_fn('press.html')
+    output = e.output_path('press.html')
     temp = e.env.get_template('press.html')
 
     all_press = ic3press.get_all_press()
@@ -150,7 +159,7 @@ def press():
 
 
 def page_not_found():
-    output = e.get_root_fn('404.html')
+    output = e.output_path('404.html')
     temp = e.env.get_template('page.html')
 
     with open('./content/404.html', 'r') as c:
@@ -161,8 +170,9 @@ def page_not_found():
         content=content),
         output)
 
+
 def jobs():
-    output = e.get_root_fn('jobs.html')
+    output = e.output_path('jobs.html')
     temp = e.env.get_template('page.html')
 
     breadcrumb = [{'name': 'Jobs', 'url': 'jobs.html'}]
@@ -177,12 +187,6 @@ def jobs():
         breadcrumb=breadcrumb),
         output)
 
-
-import os
-import shutil
-import errno
-import sys
-
 if __name__ == '__main__':
     index()
     about()
@@ -194,11 +198,7 @@ if __name__ == '__main__':
     press()
     page_not_found()
     jobs()
-    event.gen(e)
-
-    u = u"ü"
-    with open('output/test.html', 'w+') as t:
-        t.write(u.encode('utf-8'))
+    event.output(e)
 
     try:
         shutil.copytree('static', join(OUTPUT_DIR, 'static'))

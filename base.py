@@ -1,9 +1,6 @@
-import yaml
 import re
 from jinja2 import FileSystemLoader, Environment
 import os
-import codecs
-import markdown
 
 import copy
 
@@ -11,29 +8,25 @@ from os.path import exists
 import shutil
 
 
-CWD = os.path.dirname(__file__)
-OUTPUT_DIR = os.path.join(CWD, 'output')
-
 def dateformat(value, format='%b %d, %Y'):
     return value.strftime(format)
 
+
 class Engine (object):
     env = Environment(loader=FileSystemLoader('./templates/'))
-    output_dir = OUTPUT_DIR
+    output_dir = os.path.join(os.path.dirname(__file__), 'output')
 
     def __init__(self, deploy=False):
         if deploy:
-            SITE_ROOT='http://www.initc3.org'
-            self.def_cntx = dict(SITE_ROOT=SITE_ROOT)
+            self.def_cntx = dict(SITE_ROOT='http://www.initc3.org')
         else:
-            self.def_cntx = dict(SITE_ROOT=OUTPUT_DIR)
+            self.def_cntx = dict(SITE_ROOT=Engine.output_dir)
         print 'deploy: ' + str(deploy)
-        if exists(OUTPUT_DIR):
-            shutil.rmtree(OUTPUT_DIR)
-        os.mkdir(OUTPUT_DIR)
+        if exists(Engine.output_dir):
+            shutil.rmtree(Engine.output_dir)
+        os.mkdir(Engine.output_dir)
 
         self.env.filters['dateformat'] = dateformat
-
 
     def render(self, temp, cntx):
         x = copy.copy(cntx)
@@ -55,12 +48,12 @@ class Engine (object):
     def render_and_write(self, template, cntx, path):
         self.write_utf8(self.render(template, cntx), path)
 
-    def get_def_cntx(self):
+    def default_cntx(self):
         return copy.copy(self.def_cntx)
 
-    def get_root_fn(self, fn):
+    def output_path(self, fn):
         return os.path.join(self.output_dir, fn)
 
-    def fn_sanitize(self, fn):
+    def filename_sanitize(self, fn):
         s = re.sub('\s', '-', fn)
         return re.sub('[^0-9a-zA-Z-]', '', s)

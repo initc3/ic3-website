@@ -22,9 +22,7 @@ def process(e, filename):
         print filename, ' does not exists'
         raise
 
-    front = ''
-    content = ''
-    temp = e.env.get_template('event.html')
+    temp = e.env.get_template('event_details.html')
 
     post = frontmatter.load(filename)
 
@@ -35,16 +33,17 @@ def process(e, filename):
     if front.has_key('url') or front.has_key('external'):
         return front
 
-    output_fn = front['start'].strftime(DATE_FORMAT) + '-' + e.fn_sanitize(front['name']) + '.html'
-
+    output_fn = front['start'].strftime(DATE_FORMAT) + '-' + e.filename_sanitize(front['name']) + '.html'
     url = join('events', output_fn)
-    front['url'] = url
-
     output_fn = join(e.output_dir, url)
 
-    cntx = e.get_def_cntx()
+    front['url'] = url
+    front['date_str'] = format_date(front)
+
+    cntx = e.default_cntx()
     cntx['title'] = front['name']
     cntx['content'] = content
+    cntx['metadata'] = front
 
     html = temp.render(cntx)
     e.write(html.encode('utf-8'), output_fn)
@@ -52,9 +51,7 @@ def process(e, filename):
     return front
 
 
-
 def format_date(event, icon='<i class="calendar icon"></i>'):
-    date = ''
     s = event['start']
     t = event['end']
 
@@ -76,38 +73,54 @@ def format_date(event, icon='<i class="calendar icon"></i>'):
     return '%s%s-%s' % (icon, s.strftime(short_full_format),
             t.strftime(short_full_format))
 
-def gen_event_list(e):
-    output_dir = join(e.output_dir, 'events')
+
+def get_event_list(env, icon=None):
+    output_dir = join(env.output_dir, 'events')
     if not exists(output_dir):
         os.mkdir(output_dir)
 
-    event_list = []
+    event_metadata = []
     for f in glob.glob(join(BASE_DIR, '*.md')):
         if f.endswith('template.md'):
             continue
-        event_list.append(process(e, f))
+        event_metadata.append(process(env, f))
 
-    event_list = sorted(event_list, key=itemgetter('start'), reverse=True)
+    event_metadata = sorted(event_metadata, key=itemgetter('start'), reverse=True)
 
-    for ev in event_list:
-        ev['date_str'] = format_date(ev)
+    for ev in event_metadata:
+        if icon:
+            ev['date_str'] = format_date(ev, icon)
+        else:
+            ev['date_str'] = format_date(ev)
 
-    return event_list
+    return event_metadata
 
-def gen(e):
-    event_list = gen_event_list(e)
+
+def get_upcoming_events(e):
+    event_list = get_event_list(e, icon='<i class="add to calendar icon"></i>')
+    ongoing = filter(lambda x: x['end'] >= datetime.date.today(), event_list)
+
+    return ongoing
+
+
+def get_featured_events():
+    return []
+
+
+def output(e):
+    event_list = get_event_list(e)
 
     ongoing = filter(lambda x: x['end'] >= datetime.date.today(), event_list)
     past = filter(lambda x: x['end'] < datetime.date.today(), event_list)
 
     event_index_temp = e.env.get_template('event_list.html')
-    output = e.get_root_fn('events.html')
+    output = e.output_path('events.html')
 
     breadcrumb = [{'name': 'Events', 'url': 'events.html'}]
 
     e.render_and_write(event_index_temp,
-            dict(title='Events',
-                ongoing=ongoing,
-                past=past,
-                breadcrumb=breadcrumb),
-            output)
+                       dict(title='Events',
+                            ongoing=ongoing,
+                            past=past,
+                            breadcrumb=breadcrumb),
+                       output)

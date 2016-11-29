@@ -6,7 +6,6 @@ end: 2016-05-18
 summary: Our first IC3 retreat in NYC on May 17, 2016 was a great success, with more than 80 attendees from industry and academia. The slides and video from the retreat are now available at the link above.
 ---
 
-# IC3 retreat 2016
 
 <img class="ui centered bordered big image" src="../images/retreat/logo.png">
 
