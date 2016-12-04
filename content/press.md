@@ -1,6 +1,8 @@
 Selected highlights from the press
 ==================================
 
+-[Blockchain Pros Debate 'Looming Challenges' for Smart Contracts](http://www.coindesk.com/blockchain-smart-contracts-looming-challenges/) by **CoinDesk* on November 30, 2016
+-[Blockchain bandits hit crypto start-ups](http://www.bbc.com/news/technology-37307826) by **BBC News** on October 25, 2016
 - [Chain Launches Open Source Developer
   Platform: Includes Test Network Operated by Chain, Microsoft, and IC3](https://chain.com/press-releases/chain-launches-open-source-developer-platform/) by **Chain** on October 24, 2016
 - [Chain Joins Industry-Academia Blockchain Initiative to Solve Interoperability
@@ -59,6 +61,7 @@ Selected highlights from the press
 News about IC3
 ==============
 
+-   [Chain Joins Industry-Academia Blockchain Initiative to Solve Interoperability and Scalability Issues](https://bitcoinmagazine.com/articles/chain-joins-industry-academia-blockchain-initiative-to-solve-interoperability-and-scalability-issues-1471882821) by **Bitcoin Magzine** on August 22, 2016
 -   [Financial and Tech Titans Form Open-Source Blockchain Project](http://www.eweek.com/cloud/financial-and-tech-titans-form-open-source-blockchain-project.html) by **eWeek.com** on Dec 17, 2015
 -   [National Science Foundation Awards Research Grants on the Science and Applications of Cryptocurrency](https://bitcoinmagazine.com/articles/national-science-foundation-awards-research-grants-science-applications-cryptocurrency-1438296576) by **Bitcoin Magazine** on Jul 30, 2015
 
