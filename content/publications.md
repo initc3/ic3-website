@@ -2,21 +2,23 @@ Preprints
 =========
 
 -   F. Tramer, F. Zhang, H. Lin, J.P. Hubaux, A. Juels and E. Shi. [Sealed-Glass Proofs: Using Transparent Enclaves to Prove and Sell Knowledge](https://eprint.iacr.org/2016/635). Under submission. May 2016.
--   I. Eyal and E. G. Sirer. [Bitcoin-NG: A Scalable Blockchain Protocol](http://arxiv.org/abs/1510.02037). Under submission. 7 October 2015.
--   A. Miller, J. Litton, A. Pachulski, N. Gupta, D. Levin, N. Spring, and B. Bhattacharjee. [Discovering bitcoin's public topology and influential nodes](http://cs.umd.edu/projects/coinscope/coinscope.pdf). 2015.
--   K. Nayak, S. Kumar, A. Miller, E. Shi. [Stubborn Mining: Generalizing Selfish Mining and Combining with an Eclipse Attack.](https://eprint.iacr.org/2015/796) 2015.
+
 
 Published Papers
 ================
 
+-   K. Nayak, S. Kumar, A. Miller, E. Shi. [Stubborn Mining: Generalizing Selfish Mining and Combining with an Eclipse Attack.](https://eprint.iacr.org/2015/796), IEEE Euro S&P, 2016
 -   F. Zhang, E. Cecchetti, K. Croman, A. Juels and E. Shi. [Town Crier: An Authenticated Data Feed for Smart Contracts](https://eprint.iacr.org/2016/168.pdf). ACM CCS, 2016.
+-   A. Miller, Y. Xia, K. Croman, E. Shi, and D. Song. [The Honey Badger of BFT Protocols](https://eprint.iacr.org/2016/199). ACM CCS, 2016.
 -   A. Juels, A. Kosba, and E. Shi. [The Ring of Gyges: Investigating the Future of Criminal Smart Contracts](files/Gyges.pdf). ACM CCS, 2016.
+-   I. Eyal and E. G. Sirer. [Bitcoin-NG: A Scalable Blockchain Protocol](http://arxiv.org/abs/1510.02037). NSDI, 2016.
 -   B. Marino and A. Juels. [Setting Standards for Altering and Undoing Smart Contracts](http://www.arijuels.com/wp-content/uploads/2016/06/Setting-Standards-for-Altering-and-Undoing-Smart-Contracts.docx). Rule ML, 2016. 
 -   K. Croman, C. Decker, I. Eyal, A.E. Gencer, A. Juels, A. Kosba, A. Miller, P. Saxena, E. Shi, E. G. Sirer, D. Song, and R. Wattenhofer. [On Scaling Decentralized Blockchains (A Position Paper)](http://fc16.ifca.ai/bitcoin/papers/CDE+16.pdf). BITCOIN'16. (Full version [here](scalingblockchain))
 -   A. Kosba, A. Miller, E. Shi, Z. Wen, and C. Papamanthou. [Hawk: The Blockchain Model of Cryptography and Privacy-Preserving Smart Contracts.](https://eprint.iacr.org/2015/675.pdf) IEEE S&P, 2015.
 -   A. Miller, A. Kosba, J. Katz, E. Shi. [Nonoutsourceable Scratch-Off Puzzles to Discourage Bitcoin Mining Coalitions.](https://cs.umd.edu/~amiller/nonoutsourceable_full.pdf) ACM CCS 2015.
 -   A. Kiayias, Q.Tang. Traitor-deterring Schemes: Using Bitcoin as Collateral for Digital Contents. ACM CCS, 2015
--   R. Pass and a. shelat. [Micropayments for Decentralized Currencies](files/micropay2.pdf). ACM CCS, 2015. To appear.
+-   R. Pass and a. shelat. [Micropayments for Decentralized Currencies](files/micropay2.pdf). ACM CCS, 2015. 
+-   A. Miller, J. Litton, A. Pachulski, N. Gupta, D. Levin, N. Spring, and B. Bhattacharjee. [Discovering bitcoin's public topology and influential nodes](http://cs.umd.edu/projects/coinscope/coinscope.pdf). Whitepaper, 2015.
 -   I. Eyal. [The Miner's Dilemma](http://arxiv.org/abs/1411.7099). IEEE S&P, 2015.
 -   J. Bonneau, A. Miller, J. Clark, A. Narayanan, J. A. Kroll, E. W. Felten. [SoK: Research Perspectives and Challenges for Bitcoin and Cryptocurrencies](http://www.ieee-security.org/TC/SP2015/papers-archived/6949a104.pdf), IEEE S&P, 2015.
 -   A. Everspaugh, R. Chatterjee, S. Scott, A. Juels, and T. Ristenpart. [The Pythia PRF Service](http://eprint.iacr.org/2015/644.pdf). USENIX Security, 2015. (Proposes a password-hardening system; securing Bitcoin brainwallets is one application.)
