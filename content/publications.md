@@ -1,7 +1,6 @@
 Preprints
 =========
 
--   B. Marino and A. Juels. [Setting Standards for Altering and Undoing Smart Contracts](http://www.arijuels.com/wp-content/uploads/2016/06/Setting-Standards-for-Altering-and-Undoing-Smart-Contracts.docx). Rule ML, 2016. To appear.
 -   F. Tramer, F. Zhang, H. Lin, J.P. Hubaux, A. Juels and E. Shi. [Sealed-Glass Proofs: Using Transparent Enclaves to Prove and Sell Knowledge](https://eprint.iacr.org/2016/635). Under submission. May 2016.
 -   F. Zhang, E. Cecchetti, K. Croman, A. Juels and E. Shi. [Town Crier: An Authenticated Data Feed for Smart Contracts](https://eprint.iacr.org/2016/168.pdf). Under submission. May 2016.
 -   A. Juels, A. Kosba, and E. Shi. [The Ring of Gyges: Investigating the Future of Criminal Smart Contracts](files/Gyges.pdf). Under submission. 2015.
@@ -14,6 +13,7 @@ Preprints
 Published Papers
 ================
 
+-   B. Marino and A. Juels. [Setting Standards for Altering and Undoing Smart Contracts](http://www.arijuels.com/wp-content/uploads/2016/06/Setting-Standards-for-Altering-and-Undoing-Smart-Contracts.docx). Rule ML, 2016. To appear.
 -   K. Croman, C. Decker, I. Eyal, A.E. Gencer, A. Juels, A. Kosba, A. Miller, P. Saxena, E. Shi, E. G. Sirer, D. Song, and R. Wattenhofer. [On Scaling Decentralized Blockchains (A Position Paper)](http://fc16.ifca.ai/bitcoin/papers/CDE+16.pdf). BITCOIN'16. (Full version [here](scalingblockchain))
 -   A. Miller, A. Kosba, J. Katz, E. Shi. [Nonoutsourceable Scratch-Off Puzzles to Discourage Bitcoin Mining Coalitions.](https://cs.umd.edu/~amiller/nonoutsourceable_full.pdf) ACM CCS 2015.
 -   A. Kiayias, Q.Tang. Traitor-deterring Schemes: Using Bitcoin as Collateral for Digital Contents. ACM CCS 2015
