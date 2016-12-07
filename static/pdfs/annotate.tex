@@ -1,0 +1,19 @@
+\documentclass[12pt]{article}
+\usepackage[top=1in,bottom=1in,left=.75in,right=.75in]{geometry}
+\usepackage{fancyhdr}
+\usepackage{fontspec}
+\usepackage{pdfpages}
+\usepackage{color}
+
+\begin{document}
+\pagestyle{fancy}
+\renewcommand{\headrulewidth}{.5pt}
+
+\definecolor{ic3color}{RGB}{154, 44, 77}
+
+\newfontfamily{\roboto}{Roboto Condensed}
+\newfontfamily{\benchnine}{BenchNine}
+\includepdf[pages=-, 
+  pagecommand={\chead{\large {\roboto \textcolor{ic3color}{IC3}}$~|~${\benchnine Initiative For Cryptocurrencies \& Contracts 
+}}\thispagestyle{fancy}}]{./Projects.pdf}
+\end{document}
