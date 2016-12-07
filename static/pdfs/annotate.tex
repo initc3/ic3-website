@@ -4,6 +4,7 @@
 \usepackage{fontspec}
 \usepackage{pdfpages}
 \usepackage{color}
+\AtEndDocument{\cfoot{haha}}
 
 \begin{document}
 \pagestyle{fancy}
@@ -14,6 +15,6 @@
 \newfontfamily{\roboto}{Roboto Condensed}
 \newfontfamily{\benchnine}{BenchNine}
 \includepdf[pages=-, 
-  pagecommand={\chead{\large {\roboto \textcolor{ic3color}{IC3}}$~|~${\benchnine Initiative For Cryptocurrencies \& Contracts 
-}}\thispagestyle{fancy}}]{./Projects.pdf}
+  pagecommand={\chead{\Large {\roboto \textcolor{ic3color}{IC3}}$~|~${\benchnine Initiative For Cryptocurrencies \& Contracts 
+}}\cfoot{-~\thepage~-}\thispagestyle{fancy}}]{./Projects.pdf}
 \end{document}
