@@ -2,6 +2,7 @@ Preprints
 =========
 
 -   F. Tramer, F. Zhang, H. Lin, J.P. Hubaux, A. Juels and E. Shi. [Sealed-Glass Proofs: Using Transparent Enclaves to Prove and Sell Knowledge](https://eprint.iacr.org/2016/635). Under submission. May 2016.
+-   A. E. Gencer, R. V. Renesse, and E. G. Sirer, [Service-Oriented Sharding with Aspen](http://arxiv.org/pdf/1611.06816v1).
 
 
 Published Papers
