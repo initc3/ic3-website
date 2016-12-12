@@ -113,7 +113,7 @@ def publications():
 
     breadcrumb = [{'name': 'Publications', 'url': 'publications.html'}]
 
-    with open('./content/publications.md', 'r') as c:
+    with codecs.open('./content/publications.md', 'r', encoding='utf-8') as c:
         content = c.read()
         content = markdown.markdown(content)
 
