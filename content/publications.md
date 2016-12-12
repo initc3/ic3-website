@@ -11,7 +11,7 @@ Published Papers
 -   F. Zhang, E. Cecchetti, K. Croman, A. Juels and E. Shi. [Town Crier: An Authenticated Data Feed for Smart Contracts](https://eprint.iacr.org/2016/168.pdf). ACM CCS, 2016.
 -   A. Miller, Y. Xia, K. Croman, E. Shi, and D. Song. [The Honey Badger of BFT Protocols](https://eprint.iacr.org/2016/199). ACM CCS, 2016.
 -   A. Juels, A. Kosba, and E. Shi. [The Ring of Gyges: Investigating the Future of Criminal Smart Contracts](files/Gyges.pdf). ACM CCS, 2016.
--   I. Eyal and E. G. Sirer. [Bitcoin-NG: A Scalable Blockchain Protocol](http://arxiv.org/abs/1510.02037). NSDI, 2016.
+-   I. Eyal, A. E. Gencer, E. G. Sirer and R. V. Renesse. [Bitcoin-NG: A Scalable Blockchain Protocol](http://arxiv.org/abs/1510.02037). NSDI, 2016.
 -   B. Marino and A. Juels. [Setting Standards for Altering and Undoing Smart Contracts](http://www.arijuels.com/wp-content/uploads/2016/06/Setting-Standards-for-Altering-and-Undoing-Smart-Contracts.docx). Rule ML, 2016. 
 -   K. Croman, C. Decker, I. Eyal, A.E. Gencer, A. Juels, A. Kosba, A. Miller, P. Saxena, E. Shi, E. G. Sirer, D. Song, and R. Wattenhofer. [On Scaling Decentralized Blockchains (A Position Paper)](http://fc16.ifca.ai/bitcoin/papers/CDE+16.pdf). BITCOIN'16. (Full version [here](scalingblockchain))
 -   A. Kosba, A. Miller, E. Shi, Z. Wen, and C. Papamanthou. [Hawk: The Blockchain Model of Cryptography and Privacy-Preserving Smart Contracts.](https://eprint.iacr.org/2015/675.pdf) IEEE S&P, 2015.
