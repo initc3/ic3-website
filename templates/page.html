@@ -7,25 +7,22 @@
 
 {% block content_base %}
 <div class="ui main container">
-
   {% if breadcrumb %}
     <div class="ui breadcrumb">
       <a class="section" href="{{ SITE_ROOT }}/index.html">IC3</a>
       <i class="right angle icon divider"></i>
-  {% endif %}
-  {% for b in breadcrumb if breadcrumb %}
-  {% if loop.last %}
-    <div class="active section">{{ b.name }}</div>
-  {% else %}
-    <a class="section" href="{{ b.url }}">{{ b.name }}</a>
-    <i class="right angle icon divider"></i>
-  {% endif %}
-  {% endfor %}
-
-  {% if breadcrumb %}
+      {% for b in breadcrumb if breadcrumb %}
+        {% if loop.last %}
+          <div class="active section">{{ b.name }}</div>
+        {% else %}
+          <a class="section" href="{{ b.url }}">{{ b.name }}</a>
+          <i class="right angle icon divider"></i>
+        {% endif %}
+      {% endfor %}
     </div>
   {% endif %}
-
-  {% block content %} {{ content }} {% endblock %}
+  {% block content %}
+    {{ content }}
+  {% endblock %}
 </div>
 {% endblock %}
