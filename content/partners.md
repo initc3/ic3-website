@@ -12,6 +12,9 @@
   <div class="column">
       <a href="http://ibm.com/" class="ui small image"> <img src="images/partners/ibm.png"> </a>
   </div>
+  <div class="column">
+      <a href="http://intel.com/" class="ui small image"> <img src="images/partners/intel.png"> </a>
+  </div>
 </div>
 </div>
 </div>
