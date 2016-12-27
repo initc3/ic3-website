@@ -40,6 +40,7 @@ Membership is effective when the company pays its first annual contribution, and
 
 ### Benefits of Regular Membership
 
+- Company can send up to two Visiting Researchers and Embedded Developers to IC3 (additional fees per person may apply per Cornell University policies).
 - Company can send up to two (2) representatives to annual review meetings with opportunities for an informal
         exchange of ideas among industry representatives and IC3 researchers and students.
 - Company can participate in monthly IC3 webinars, receive regular updates on IC3 projects, receive early
