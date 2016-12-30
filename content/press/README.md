@@ -5,7 +5,7 @@ The rest of the system only cares about `pressroll-all.csv` and `pressroll-featu
 updated by editing `pressroll.ods`. 
 
 Each row of `pressroll.ods` is of the form 
-    URL | Name of Source | Date of Publication | Title of Story | Who is Mentioned | Category | feature flag.
+    ```URL | Name of Source | Date of Publication | Title of Story | Who is Mentioned | Category | feature flag```.
 
 See `pressroll.ods` for examples for the last three columns; `Who is Mentioned` can be set to `all`, for general IC3-related news.
 
