@@ -1,7 +1,7 @@
 # Industry Partners
 
 <div class="ui container" style="width:750px; margin: 1rem;">
-<div class="ui three column centered stackable grid">
+<div class="ui four column centered stackable grid">
 <div class="row">
   <div class="column">
       <a href="http://chain.com/" class="ui small image"> <img src="images/partners/chain-logo.png"> </a>
