@@ -11,6 +11,7 @@ import requests
 from os.path import exists, dirname
 import errno
 
+
 def fetchall():
     exclude_urls = set([
         "http://hackingdistributed.com/2015/08/17/coin-needs-a-board/",
@@ -26,7 +27,7 @@ def fetchall():
         "http://hackingdistributed.com/2013/06/20/virtual-notary-intro/",
     ])
 
-    results=[]
+    results = []
 
     target = ["http://hackingdistributed.com/tag/bitcoin/", "http://hackingdistributed.com/tag/ethereum/"]
 
@@ -95,13 +96,11 @@ def fetchall():
                     os.makedirs(dirname(imgsrc))
                 except OSError as e:
                     if e.errno != errno.EEXIST:
-                        rase
+                        raise
             with open(imgsrc, "w") as img:
                 img.write(imagecontents)
         else:
             imgsrc="http://initc3.org/images/news/ic3_image.jpg"
-        recent.append(dict(date=date, url=url, title=title, authors=authors,
-            imgsrc=imgsrc,
-            summary=summary))
+        recent.append(dict(date=date, url=url, title=title, authors=authors, imgsrc=imgsrc, summary=summary))
 
     return recent, posts

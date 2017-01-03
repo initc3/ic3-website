@@ -14,8 +14,8 @@ import errno
 from optparse import OptionParser
 
 parser = OptionParser()
-parser.add_option("-d", "--deploy", action="store_true", dest="deploy", default=False)
-parser.add_option("-f", "--fetchall", action="store_true", dest="fetchall", default=False)
+parser.add_option("-d", "--deploy", action="store_true", dest="deploy", help="will compress stuff", default=False)
+parser.add_option("-f", "--fetchall", action="store_true", dest="fetchall", help="will fetch blogs from Gun's blog", default=False)
 (options, args) = parser.parse_args()
 
 CWD = os.path.dirname(__file__)
@@ -189,6 +189,22 @@ def jobs():
         breadcrumb=breadcrumb),
         output)
 
+
+def compress_image(dir='images/hotlinks', size=(80, 80)):
+    for root, dirname, filenames in os.walk(dir):
+        for filename in fnmatch.filter(filenames, '*.jpg') + \
+                fnmatch.filter(filenames, '*.jpeg') + \
+                fnmatch.filter(filenames, '*.png'):
+            src = os.path.join(root, filename)
+            dest = os.path.join(OUTPUT_DIR, src)
+            if not os.path.exists(os.path.dirname(dest)):
+                os.makedirs(os.path.dirname(dest))
+
+            img = Image.open(src)
+            img.thumbnail(size)
+            img.save(dest)
+            print 'Compressing %s' % dest
+
 if __name__ == '__main__':
     index()
     about()
@@ -215,9 +231,15 @@ if __name__ == '__main__':
                         os.makedirs(os.path.dirname(dest))
                     with open(src, 'rb') as f_in, gzip.open(dest, 'wb') as f_out:
                         shutil.copyfileobj(f_in, f_out)
-                        print 'written to %s' % dest
+                        print 'Compressing %s' % dest
 
         shutil.copytree('images', join(OUTPUT_DIR, 'images'))
+        # compress images
+        if options.deploy:
+            from PIL import Image
+            compress_image('images/hotlinks', (100, 100))
+            compress_image('images/people', (200, 200))
+
         shutil.copytree('files', join(OUTPUT_DIR, 'files'))
     except OSError as e:
         if e.errno == errno.EEXIST:
