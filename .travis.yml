@@ -2,21 +2,10 @@ language: python
 cache: pip
 python: "2.7.10"
 
-addons:
-  apt:
-    packages:
-    - unoconv
-
 install:
     - pip install -r requirements.txt
-
-script:
-    - make -BC content/press
-    - python main.py -d
-
 before_deploy:
     - chmod u+x compress.sh && ./compress.sh
-
 deploy:
   provider: s3
   access_key_id: AKIAJJUWMWYDBSKNLCDA

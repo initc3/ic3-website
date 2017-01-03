@@ -75,18 +75,22 @@
 
 
     <link rel="stylesheet" href="{{ SITE_ROOT }}/static/css/font-awesome.min.css">
-    <script src="{{ SITE_ROOT }}/static/js/jquery-2.2.1.min.js"></script>
-    <script src="{{ SITE_ROOT }}/static/css/semantic/semantic.min.js"></script>
-    <script src="{{ SITE_ROOT }}/static/js/main.js"></script>
+    <script async src="{{ SITE_ROOT }}/static/js/jquery-2.2.1.min.js"></script>
+    <script async src="{{ SITE_ROOT }}/static/css/semantic/semantic.min.js"></script>
     <script>
-        $(document)
-            .ready(function() {
-                $('.dropdown')
-                    .dropdown({
-                        // you can use any ui transition
-                        transition: 'drop'
-                    });
+        $(document).ready(function () {
+            $('.more').css('display', 'none');
+
+            $('.showmore').click(function () {
+                $(this).hide();
+                $(this).siblings('.more').transition('slide down');
             });
+
+            $('.showless').click(function () {
+                $(this).parents('.more').transition('slide down');
+                $(this).parents('.more').siblings('.showmore').show();
+            })
+        });
     </script>
 	<script>
 	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
