@@ -1,10 +1,10 @@
 language: python
 cache: pip
 python: "2.7.10"
-install: 
+install:
     - pip install -r requirements.txt
-script: 
-    - python main.py -d 
+script:
+    - python main.py -d
 deploy:
   provider: s3
   access_key_id: AKIAJJUWMWYDBSKNLCDA
@@ -14,6 +14,7 @@ deploy:
   region: us-east-1
   skip_cleanup: true
   default_text_charset: 'utf-8'
+  cache_control: "max-age=604800"
   local-dir: output
   detect_encoding: true
   on:
@@ -22,6 +23,6 @@ deploy:
 notifications:
     email:
         recipients:
-            - fan.us@icloud.com
+            - fanz@linux.com
         on_success: always
         on_failure: always
