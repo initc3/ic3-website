@@ -1,5 +1,7 @@
 # encoding: utf-8
 
+import fnmatch
+import gzip
 import yaml
 import codecs
 import markdown
@@ -200,19 +202,20 @@ if __name__ == '__main__':
     jobs()
     event.output(e)
 
-    import fnmatch
-    import gzip
+
     try:
         shutil.copytree('static', join(OUTPUT_DIR, 'static'))
-        for root, dirname, filenames in os.walk('static/css'):
-            for filename in fnmatch.filter(filenames, '*.css'):
-                src = os.path.join(root, filename)
-                dest = os.path.join(OUTPUT_DIR, src)
-                if not os.path.exists(os.path.dirname(dest)):
-                    os.makedirs(os.path.dirname(dest))
-                with open(src, 'rb') as f_in, gzip.open(dest, 'wb') as f_out:
-                    shutil.copyfileobj(f_in, f_out)
-                    print 'written to %s' % dest
+        # compress before deploying
+        if options.deploy:
+            for root, dirname, filenames in os.walk('static'):
+                for filename in fnmatch.filter(filenames, '*.css') + fnmatch.filter(filenames, '*.js'):
+                    src = os.path.join(root, filename)
+                    dest = os.path.join(OUTPUT_DIR, src)
+                    if not os.path.exists(os.path.dirname(dest)):
+                        os.makedirs(os.path.dirname(dest))
+                    with open(src, 'rb') as f_in, gzip.open(dest, 'wb') as f_out:
+                        shutil.copyfileobj(f_in, f_out)
+                        print 'written to %s' % dest
 
         shutil.copytree('images', join(OUTPUT_DIR, 'images'))
         shutil.copytree('files', join(OUTPUT_DIR, 'files'))
