@@ -5,6 +5,8 @@ install:
     - pip install -r requirements.txt
 script:
     - python main.py -d
+before_deploy:
+    - chmod u+x compress.sh && ./compress.sh
 deploy:
   provider: s3
   access_key_id: AKIAJJUWMWYDBSKNLCDA
