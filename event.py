@@ -19,8 +19,7 @@ DATE_FORMAT = '%Y-%m-%d'
 def process(e, filename):
     print 'processing %s' % filename
     if not exists(filename):
-        print filename, ' does not exists'
-        raise
+        raise Exception('%s does not exist' % filename)
 
     temp = e.env.get_template('event_details.html')
 
@@ -60,10 +59,6 @@ def format_date(event, icon='<i class="calendar icon"></i>'):
     if s == t:
         date = '%s%s' % (icon, s.strftime(full_format))
         return date
-
-    if s.year != t.year:
-        print 'Error?: year-long event'
-        raise
 
     if s.month == s.month:
         date = '%s%s %d-%d, %d' % (icon, s.strftime("%B"),
