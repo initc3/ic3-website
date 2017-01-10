@@ -12,7 +12,7 @@ from os.path import exists, dirname
 import errno
 
 
-def fetchall():
+def fetchall(num_recent_blogs=4):
     exclude_urls = set([
         "http://hackingdistributed.com/2015/08/17/coin-needs-a-board/",
         "http://hackingdistributed.com/2014/12/17/changetip-must-die/",
@@ -66,7 +66,7 @@ def fetchall():
 
     recent = []
 
-    for date, url, title, date, authors, summary in results[:4]:
+    for date, url, title, date, authors, summary in results[:num_recent_blogs]:
         r = requests.request('GET', url)
         r.encoding = 'utf-8'
         d = pq(r.text)

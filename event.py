@@ -98,8 +98,10 @@ def get_upcoming_events(e):
     return ongoing
 
 
-def get_featured_events():
-    return []
+def get_featured_events(e):
+    event_list = get_event_list(e)
+    featured = filter(lambda x: x.has_key('tags') and 'featured' in x['tags'], event_list)
+    return featured
 
 
 def output(e):

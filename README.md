@@ -1,7 +1,7 @@
 Guidelines For Editors
 =======================
 
-One of the major motivation for revamping the website is to separate the content from implementation and to present a streamlined process for editors to update the content with ease. Now this feature is available. 
+One of the major motivation for revamping the website is to separate the content from implementation and to present a streamlined process for editors to update the content with ease. Now this feature is available.
 
 How it works
 -------------
@@ -37,9 +37,9 @@ Generating local preview
 You don't have to generate a local preview but you can:
 
 1. Install the required dependencies indicated in requirements.txt, e.g.
-     
+
         pip install -r requirements.txt
-     
+
 2. Run `python main.py` to generate a `output` directory and `output/index.html` is the homepage.
 
 
@@ -58,7 +58,7 @@ It takes some extra steps to add new events.
 3. Following the YAML header, please add more content in Markdown.
 
 A short example is:
-    
+
     ---
     name: 'blah: b'
     location: New York City, NY
@@ -67,8 +67,10 @@ A short example is:
     url: ''
     external: true
     summary: blahblah.
+    tags:
+      - featured
     ---
-        
+
     # Markdown starts here
 
 Unless specified (see below), each event contributes two types of output: 1) the metadata is used to generate an entry on the [events page](www.initc3.org/events.html), and 2) the markdown part is transformed to a dedicated event page such as [this one](http://www.initc3.org/events/2016-07-20-IC3-Ethereum-Crypto-Boot-Camp-and-Workshop.html).
@@ -77,11 +79,12 @@ More notes on the YAML header:
 
 - If the value string after the first colon (`:`) has one or more colons in it, it needs
 to be quoted within a pair of `'`. See `name` above.
-- `url` and `external` is optional. But should any of them set, 
-NO event page for that event will be generated (but an entry on the events page will still be generated). Usually, you want to 
+- `url` and `external` is optional. But should any of them set,
+NO event page for that event will be generated (but an entry on the events page will still be generated). Usually, you want to
 specify an `url` (such as a link to meetup.com) to which the entry on the events page will link to.
+- `tags` are optional. If marked as `featured`, a event will be displayed on the home page regardless of the space constraint (TODO: _maybe we want to change this later_).
 
-Documents for Developer 
+Documents for Developer
 =======================
 
 A few random notes for internal use.

@@ -34,16 +34,17 @@ def index():
     if len(upcoming_events) > 2:
         upcoming_events = upcoming_events[:2]
 
+    featured_events = event.get_featured_events(e)
     featured_press = ic3press.get_featured_press()[:3]
 
     if options.deploy or options.fetchall:
-        blogs, _ = fetchall.fetchall()
+        blogs, _ = fetchall.fetchall(5)
     else:
         blogs = []
 
     temp = e.env.get_template('index.html')
     output_fn = e.output_path('index.html')
-    e.render_and_write(temp, dict(events=upcoming_events, featured_press=featured_press, blogs=blogs), output_fn)
+    e.render_and_write(temp, dict(events=upcoming_events + featured_events, featured_press=featured_press, blogs=blogs), output_fn)
 
 
 def about():
