@@ -14,7 +14,7 @@ Our first IC3 retreat in NYC on May 17, 2016 was a great success, with more than
 ## Schedule
 
 
-<table class="ui celled unstackable table">
+<table class="ui striped unstackable table">
 <tbody>
 <tr> <td><b>Session</b></td> <td><b>Speaker</b></td> <td><b>Time</b></td> </tr>
 

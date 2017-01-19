@@ -231,3 +231,13 @@ blockquote:before {
 blockquote p {
   display: inline;
 }
+
+
+/* events page */
+.ui.event.header {
+    font-size: 2.5rem;
+}
+.ui.event.header .sub.header {
+    margin-top: .8rem;
+    font-family: 'Roboto Condensed';
+}
