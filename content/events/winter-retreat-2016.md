@@ -27,7 +27,7 @@ We are opening the Day 1 Technical Program and Reception to prospective IC3 memb
 
 - IC3 Staff and Members Only
 
-The agenda is posted below. Check back later for potential updates.  Apply for registration [here](https://docs.google.com/forms/d/e/1FAIpQLSeIfMTOK5OWF1Y0zTfIzTzVgkpRtrwURcCCBs-TxmCwsgR3dw/viewform).
+The agenda is posted below. Check back later for potential updates.  Apply for registration [here](https://docs.google.com/forms/d/e/1FAIpQLSexQulQPLmGbdIvzm2K-bYRyqJSPI1HkxgeZuJLRSkE15SH3w/viewform).
 
 # Schedule
 
