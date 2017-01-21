@@ -132,8 +132,8 @@ The agenda is posted below. Check back later for potential updates.  Apply for r
 <td></td>
 </tr>
 <tr>
-<td>Verifying information security of code in dynamic systems</td>
-<td>Andrew Myers</td>
+<td>The Bosco Permissioned Blockchain: Simple Code, High Throughput</td>
+<td>Robbert van Renesse</td>
 <td>9:30 – 9:50 a.m.</td>
 </tr>
 <tr>
