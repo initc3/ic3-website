@@ -74,7 +74,7 @@ The agenda is posted below. Check back later for potential updates.  Apply for r
 <td>2:25 – 2:45 p.m.</td>
 </tr>
 <tr>
-<td>Rethinking Large-scale Consensus</td>
+<td>Internet-Scale Consensus and the All New CAP Theorem</td>
 <td>Elaine Shi</td>
 <td>2:45 – 3:15 p.m.</td>
 </tr>
