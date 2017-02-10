@@ -8,7 +8,7 @@ summary: IC3 staff and members gather twice per year to discuss the major techni
 
 IC3 staff and members gather twice per year to discuss the major technical challenges and innovative solutions to widespread blockchain adoption. Our Sponsor Member Chain is hosting this 2-day Retreat at their offices in SF. 
 
-We are opening the Day 1 Technical Program and Reception to prospective IC3 members and students, by invitation: 
+We are opening the Day 1 Technical Program and Reception to non-members and students, by invitation.  **Please note that pre-registration is required**.  Apply to attend [here](https://docs.google.com/forms/d/e/1FAIpQLSexQulQPLmGbdIvzm2K-bYRyqJSPI1HkxgeZuJLRSkE15SH3w/viewform).
 
 **Day 1 Technical Program: Thursday, February 23**
 
@@ -27,7 +27,7 @@ We are opening the Day 1 Technical Program and Reception to prospective IC3 memb
 
 - IC3 Staff and Members Only
 
-The agenda is posted below. Check back later for potential updates.  Apply for registration [here](https://docs.google.com/forms/d/e/1FAIpQLSexQulQPLmGbdIvzm2K-bYRyqJSPI1HkxgeZuJLRSkE15SH3w/viewform).
+The agenda is posted below. Check back later for potential updates.
 
 # Schedule
 
