@@ -45,7 +45,7 @@ The agenda is posted below. Check back later for potential updates.
 </tr>
 <tr>
 <td>Registration</td>
-<td></td>
+<td> </td>
 <td>1:00 – 1:30 p.m.</td>
 </tr>
 <tr>
@@ -54,9 +54,9 @@ The agenda is posted below. Check back later for potential updates.
 <td>1:30 – 1:45 p.m.</td>
 </tr>
 <tr>
-<td>Session: Scaling and Consensus</td>
+<td>Session: Scaling and Consensus  </td>
 <td>(Chair: Emin Gun Sirer)</td>
-<td></td>
+<td> </td>
 </tr>
 <tr>
 <td>Teechan - Overview and Demo</td>
@@ -74,7 +74,7 @@ The agenda is posted below. Check back later for potential updates.
 <td>2:25 – 2:45 p.m.</td>
 </tr>
 <tr>
-<td>Internet-Scale Consensus and the All New CAP Theorem</td>
+<td>Rethinking Large-scale Consensus</td>
 <td>Elaine Shi</td>
 <td>2:45 – 3:15 p.m.</td>
 </tr>
@@ -85,17 +85,17 @@ The agenda is posted below. Check back later for potential updates.
 </tr>
 <tr>
 <td>Break</td>
-<td></td>
+<td> </td>
 <td>3:25 – 3:55 p.m.</td>
 </tr>
 <tr>
 <td>Session: Smart Contracts and Confidentiality</td>
 <td>(Chair: Ittay Eyal)</td>
-<td></td>
+<td> </td>
 </tr>
 <tr>
 <td>Smart Contracts on Chain - Overview and Demo</td>
-<td>Adam/Dan/Ryan</td>
+<td>Ryan Smith and Dan Robinson</td>
 <td>3:55 – 4:20 p.m.</td>
 </tr>
 <tr>
@@ -109,27 +109,37 @@ The agenda is posted below. Check back later for potential updates.
 <td>4:45 – 5:10 p.m.</td>
 </tr>
 <tr>
+<td>Confidentiality Solutions</td>
+<td>Dan Robinson</td>
+<td>5:10 – 5:30 p.m.</td>
+</tr>
+<tr>
 <td>Smart Contract Problems and Escape Hatches</td>
 <td>Emin Gun Sirer</td>
-<td>5:10 – 5:35 p.m.</td>
+<td>5:30 – 5:50 p.m.</td>
+</tr>
+<tr>
+<td>Wrap up</td>
+<td>Ari Juels </td>
+<td>5:50 - 6:00 p.m.</td>
 </tr>
 <tr>
 <td>Reception</td>
 <td>Hosted by Chain</td>
-<td>5:35 – 7:00 p.m.</td>
+<td>6:00 – 7:00 p.m.</td>
 </tr>
 <tr>
 <td colspan="3" style="text-align:center"><strong>Friday Feb 24 - IC3 Staff and Members-only</strong></td>
 </tr>
 <tr>
 <td>Breakfast</td>
-<td></td>
+<td> </td>
 <td>9:00 – 9:30 a.m.</td>
 </tr>
 <tr>
 <td>Session: Smart Contracts II</td>
 <td>(Chair: Elaine Shi)</td>
-<td></td>
+<td> </td>
 </tr>
 <tr>
 <td>The Bosco Permissioned Blockchain: Simple Code, High Throughput</td>
@@ -142,8 +152,8 @@ The agenda is posted below. Check back later for potential updates.
 <td>9:50 – 10:10 a.m.</td>
 </tr>
 <tr>
-<td>Hawk: Confidential Smart Contracts - Overview and Demo</td>
-<td>Andrew Miller</td>
+<td>Anonymous Voting on the Ethereum Blockchain</td>
+<td>Patrick McCorry</td>
 <td>10:10 – 10:30 a.m.</td>
 </tr>
 <tr>
@@ -168,43 +178,43 @@ The agenda is posted below. Check back later for potential updates.
 </tr>
 <tr>
 <td>Lunch</td>
-<td></td>
+<td> </td>
 <td>11:30 – 12:30 p.m.</td>
 </tr>
 <tr>
 <td>Session: Industry perspectives - Blockchain Opportunity Areas</td>
 <td>(Chair: Andrew Miller)</td>
-<td></td>
+<td> </td>
 </tr>
 <tr>
-<td>Blockchain opportunity areas (placeholder for title)</td>
-<td>IBM</td>
+<td>Hyperledger Fabric Architecture</td>
+<td>Binh Nguyen and Marko Vukolic, IBM</td>
 <td>12:30 – 1:00 p.m.</td>
 </tr>
 <tr>
-<td>Blockchain opportunity areas</td>
-<td>Digital Asset</td>
+<td>Semantically Rich Segmented Blockchains</td>
+<td>James Litsios, Digital Asset</td>
 <td>1:00 – 1:30 p.m.</td>
 </tr>
 <tr>
-<td>Blockchain opportunity areas</td>
-<td>Intel</td>
+<td>Software Guard Extentions (SGX) Update</td>
+<td>Vinay Phegade, Intel</td>
 <td>1:30 – 2:00 p.m.</td>
 </tr>
 <tr>
-<td>Blockchain opportunity areas</td>
-<td>Chain</td>
+<td>Blockchain Opportunity Areas</td>
+<td>Ryan Smith and Dan Robinson, Chain</td>
 <td>2:00 – 2:30 p.m.</td>
 </tr>
 <tr>
-<td>Break</td>
-<td></td>
+<td>Break </td>
+<td> </td>
 <td>2:30 – 3:00 p.m.</td>
 </tr>
 <tr>
 <td>Session: Blockchains in action</td>
-<td>(Chair: Ari Juels)</td>
-<td></td>
+<td>(Ari Juels)</td>
+<td> </td>
 </tr>
 <tr>
 <td>Analysis of Blockchains</td>
@@ -228,7 +238,7 @@ The agenda is posted below. Check back later for potential updates.
 </tr>
 <tr>
 <td>Fruitchain Demo</td>
-<td>Iddo Bentov</td>
+<td>Elaine Shi</td>
 <td>4:25 – 4:35 p.m.</td>
 </tr>
 <tr>
@@ -242,8 +252,8 @@ The agenda is posted below. Check back later for potential updates.
 <td>5:00 – 5:10 p.m.</td>
 </tr>
 <tr>
-<td>Retreat dinner</td>
-<td></td>
+<td>Retreat Dinner</td>
+<td> </td>
 <td>6:00 p.m. – drinks run out</td>
 </tr>
 </tbody>
