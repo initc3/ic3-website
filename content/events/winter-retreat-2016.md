@@ -147,7 +147,7 @@ The agenda is posted below. Check back later for potential updates.
 <td>9:30 – 9:50 a.m.</td>
 </tr>
 <tr>
-<td>SGX and Smart Contracts - Overview and Demo</td>
+<td>Proof of Luck SGX Blockchain - Overview and Demo</td>
 <td>Warren He, Mitar Milutinovic and Dawn Song</td>
 <td>9:50 – 10:10 a.m.</td>
 </tr>
