@@ -64,7 +64,7 @@ The agenda is posted below. Check back later for potential updates.
 <td>1:45 – 2:05 p.m.</td>
 </tr>
 <tr>
-<td>REM: SGX for Consensus - Overview and Demo</td>
+<td>REM: Resource Efficient Mining for Blockchain - Overview and Demo</td>
 <td>Fan Zhang</td>
 <td>2:05 – 2:25 p.m.</td>
 </tr>
