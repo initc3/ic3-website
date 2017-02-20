@@ -12,6 +12,7 @@ Preprints
 Published Papers
 ================
 
+-   F. Tramer, F. Zhang, H. Lin, J.P. Hubaux, A. Juels and E. Shi. [Sealed-Glass Proofs: Using Transparent Enclaves to Prove and Sell Knowledge.](https://eprint.iacr.org/2016/635), IEEE Euro S&P, 2017. 
 -   K. Nayak, S. Kumar, A. Miller, E. Shi. [Stubborn Mining: Generalizing Selfish Mining and Combining with an Eclipse Attack.](https://eprint.iacr.org/2015/796), IEEE Euro S&P, 2016
 -   F. Zhang, E. Cecchetti, K. Croman, A. Juels and E. Shi. [Town Crier: An Authenticated Data Feed for Smart Contracts](https://eprint.iacr.org/2016/168.pdf). ACM CCS, 2016.
 -   A. Miller, Y. Xia, K. Croman, E. Shi, and D. Song. [The Honey Badger of BFT Protocols](https://eprint.iacr.org/2016/199). ACM CCS, 2016.
