@@ -13,6 +13,7 @@ Published Papers
 ================
 
 -   F. Tramer, F. Zhang, H. Lin, J.P. Hubaux, A. Juels and E. Shi. [Sealed-Glass Proofs: Using Transparent Enclaves to Prove and Sell Knowledge.](https://eprint.iacr.org/2016/635), IEEE Euro S&P, 2017. 
+-   M. Milutinovic, W. He, H. Wu, and M. Kanwal. 2016. [Proof of Luck: an Efficient Blockchain Consensus Protocol.](http://dl.acm.org/citation.cfm?doid=3007788.3007790) In Proceedings of the 1st Workshop on System Software for Trusted Execution (SysTEX '16).
 -   K. Nayak, S. Kumar, A. Miller, E. Shi. [Stubborn Mining: Generalizing Selfish Mining and Combining with an Eclipse Attack.](https://eprint.iacr.org/2015/796), IEEE Euro S&P, 2016
 -   F. Zhang, E. Cecchetti, K. Croman, A. Juels and E. Shi. [Town Crier: An Authenticated Data Feed for Smart Contracts](https://eprint.iacr.org/2016/168.pdf). ACM CCS, 2016.
 -   A. Miller, Y. Xia, K. Croman, E. Shi, and D. Song. [The Honey Badger of BFT Protocols](https://eprint.iacr.org/2016/199). ACM CCS, 2016.
