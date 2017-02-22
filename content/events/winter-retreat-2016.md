@@ -41,7 +41,7 @@ The agenda is posted below. Check back later for potential updates.
 </thead>
 <tbody>
 <tr>
-<td colspan="3" style="text-align:center"><strong>Thursday Feb 23 - Open to Non-members and Press - by Invitation Only</strong></td>
+<td colspan="3" style="text-align:center"><strong>Thursday February 23 – IC3 Open House</strong></td>
 </tr>
 <tr>
 <td>Registration</td>
@@ -54,7 +54,7 @@ The agenda is posted below. Check back later for potential updates.
 <td>1:30 – 1:45 p.m.</td>
 </tr>
 <tr>
-<td>Session: Scaling and Consensus  </td>
+<td>Session 1: Scaling and Consensus  </td>
 <td>(Chair: Emin Gun Sirer)</td>
 <td> </td>
 </tr>
@@ -64,7 +64,7 @@ The agenda is posted below. Check back later for potential updates.
 <td>1:45 – 2:05 p.m.</td>
 </tr>
 <tr>
-<td>REM: Resource Efficient Mining for Blockchain - Overview and Demo</td>
+<td>REM: SGX for Consensus</td>
 <td>Fan Zhang</td>
 <td>2:05 – 2:25 p.m.</td>
 </tr>
@@ -74,8 +74,8 @@ The agenda is posted below. Check back later for potential updates.
 <td>2:25 – 2:45 p.m.</td>
 </tr>
 <tr>
-<td>Rethinking Large-scale Consensus</td>
-<td>Elaine Shi</td>
+<td>Sleepy Consensus and Applications</td>
+<td>Rafael Pass</td>
 <td>2:45 – 3:15 p.m.</td>
 </tr>
 <tr>
@@ -89,13 +89,13 @@ The agenda is posted below. Check back later for potential updates.
 <td>3:25 – 3:55 p.m.</td>
 </tr>
 <tr>
-<td>Session: Smart Contracts and Confidentiality</td>
+<td>Session 2: Smart Contracts and Confidentiality</td>
 <td>(Chair: Ittay Eyal)</td>
 <td> </td>
 </tr>
 <tr>
-<td>Smart Contracts on Chain - Overview and Demo</td>
-<td>Ryan Smith and Dan Robinson</td>
+<td>Ivy: A Predicate Language for Smart Contracts</td>
+<td>Dan Robinson</td>
 <td>3:55 – 4:20 p.m.</td>
 </tr>
 <tr>
@@ -105,22 +105,22 @@ The agenda is posted below. Check back later for potential updates.
 </tr>
 <tr>
 <td>Solidus: Confidential Transactions Reimagined - Overview and Demo</td>
-<td>Ari Juels and students</td>
+<td>Ethan Cecchetti</td>
 <td>4:45 – 5:10 p.m.</td>
 </tr>
 <tr>
-<td>Confidentiality Solutions</td>
+<td>Confidentiality Assets</td>
 <td>Dan Robinson</td>
 <td>5:10 – 5:30 p.m.</td>
 </tr>
 <tr>
-<td>Smart Contract Problems and Escape Hatches</td>
-<td>Emin Gun Sirer</td>
+<td>Gyges: Criminal Smart Contracts</td>
+<td>Ari Juels</td>
 <td>5:30 – 5:50 p.m.</td>
 </tr>
 <tr>
-<td>Wrap up</td>
-<td>Ari Juels </td>
+<td>Open House Wrap up</td>
+<td>Emin Gun Sirer</td>
 <td>5:50 - 6:00 p.m.</td>
 </tr>
 <tr>
@@ -137,7 +137,7 @@ The agenda is posted below. Check back later for potential updates.
 <td>9:00 – 9:30 a.m.</td>
 </tr>
 <tr>
-<td>Session: Smart Contracts II</td>
+<td>Session 3: Blockchains in Action I</td>
 <td>(Chair: Elaine Shi)</td>
 <td> </td>
 </tr>
@@ -157,24 +157,19 @@ The agenda is posted below. Check back later for potential updates.
 <td>10:10 – 10:30 a.m.</td>
 </tr>
 <tr>
-<td>Gyges: Criminal Smart Contracts</td>
-<td>Ari Juels</td>
-<td>10:30 – 10:45 a.m.</td>
+<td>Correct and Secure Smart Contracts</td>
+<td>Phil Daian</td>
+<td>10:30 – 10:50 a.m.</td>
 </tr>
 <tr>
 <td>Zero-Collateral Lotteries in Ethereum and Bitcoin</td>
 <td>Andrew Miller</td>
-<td>10:45 – 11:00 a.m.</td>
+<td>10:50 – 11:10 a.m.</td>
 </tr>
 <tr>
 <td>Sealed-Glass Proofs: Using Transparent Enclaves to Prove and Sell Knowledge</td>
 <td>Ari Juels</td>
-<td>11:00 – 11:15 a.m.</td>
-</tr>
-<tr>
-<td>Correct and Secure Smart Contracts</td>
-<td>Phil Daian</td>
-<td>11:15 – 11:30 p.m.</td>
+<td>11:10 – 11:30 a.m.</td>
 </tr>
 <tr>
 <td>Lunch</td>
@@ -182,7 +177,7 @@ The agenda is posted below. Check back later for potential updates.
 <td>11:30 – 12:30 p.m.</td>
 </tr>
 <tr>
-<td>Session: Industry perspectives - Blockchain Opportunity Areas</td>
+<td>Session 4: Industry perspectives - Blockchain Opportunity Areas</td>
 <td>(Chair: Andrew Miller)</td>
 <td> </td>
 </tr>
@@ -203,7 +198,7 @@ The agenda is posted below. Check back later for potential updates.
 </tr>
 <tr>
 <td>Blockchain Opportunity Areas</td>
-<td>Ryan Smith and Dan Robinson, Chain</td>
+<td>Ryan Smith, Chain</td>
 <td>2:00 – 2:30 p.m.</td>
 </tr>
 <tr>
@@ -212,7 +207,7 @@ The agenda is posted below. Check back later for potential updates.
 <td>2:30 – 3:00 p.m.</td>
 </tr>
 <tr>
-<td>Session: Blockchains in action</td>
+<td>Session 5: Blockchains in Action II</td>
 <td>(Ari Juels)</td>
 <td> </td>
 </tr>
@@ -227,27 +222,27 @@ The agenda is posted below. Check back later for potential updates.
 <td>3:20 – 3:45 p.m.</td>
 </tr>
 <tr>
-<td>Aspen: Service Oriented Sharding</td>
-<td>Adem Efe Gencer</td>
-<td>3:45 – 4:05 p.m.</td>
+<td>Hybrid Consensus: Efficient Permissionless Consensus</td>
+<td>Elaine Shi</td>
+<td>3:45 – 4:10 p.m.</td>
 </tr>
 <tr>
 <td>Fruitchains: An Incentive Compatible Blockchain</td>
 <td>Rafael Pass</td>
-<td>4:05 – 4:25 p.m.</td>
+<td>4:10 – 4:30 p.m.</td>
 </tr>
 <tr>
 <td>Fruitchain Demo</td>
 <td>Elaine Shi</td>
-<td>4:25 – 4:35 p.m.</td>
+<td>4:30 – 4:40 p.m.</td>
 </tr>
 <tr>
-<td>Hybrid Consensus: Efficient Permissionless Consensus</td>
-<td>Elaine Shi</td>
-<td>4:35 – 5:00 p.m.</td>
+<td>Aspen: Service Oriented Sharding</td>
+<td>Adem Efe Gencer</td>
+<td>4:40 – 5:00 p.m.</td>
 </tr>
 <tr>
-<td>Wrap-up</td>
+<td>Day 2 Wrap up</td>
 <td>Ari Juels</td>
 <td>5:00 – 5:10 p.m.</td>
 </tr>
