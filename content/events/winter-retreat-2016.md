@@ -109,7 +109,7 @@ The agenda is posted below. Check back later for potential updates.
 <td>4:45 – 5:10 p.m.</td>
 </tr>
 <tr>
-<td>Confidentiality Assets</td>
+<td>Confidential Assets</td>
 <td>Dan Robinson</td>
 <td>5:10 – 5:30 p.m.</td>
 </tr>
@@ -198,7 +198,7 @@ The agenda is posted below. Check back later for potential updates.
 </tr>
 <tr>
 <td>Blockchain Opportunity Areas</td>
-<td>Ryan Smith, Chain</td>
+<td>Adam Ludwin, Chain</td>
 <td>2:00 – 2:30 p.m.</td>
 </tr>
 <tr>
