@@ -1,12 +1,13 @@
 Preprints
 =========
 
--   F. Zhang, I. Eyal, R. Escriva, A. Juels and R. V. Renesse, [REM: Resource-Efficient Mining for Blockchains](files/rem.pdf)
--   R. Pass and E. Shi, [FruitChains: A Fair Blockchain](https://ia.cr/2016/916)
--   R. Pass and E. Shi, [Hybrid Consensus: Efficient Consensus in the Permissionless Model](https://ia.cr/2016/917)
--   I. Bentov, R. Pass and E. Shi, [The Sleepy Model of Consensus](https://ia.cr/2016/918)
--   I. Bentov, R. Pass and E. Shi, [Snow White: Provably Secure Proofs of Stake](https://ia.cr/2016/919)
--   A. E. Gencer, R. V. Renesse, and E. G. Sirer, [Service-Oriented Sharding with Aspen](http://arxiv.org/pdf/1611.06816v1).
+-   E. Cecchetti, F. Zhang, Y. Ji, A. Kosba, A. Juels and E. Shi. [Solidus: Confidential Distributed Ledger Transactions via PVORM](files/solidus.pdf)
+-   F. Zhang, I. Eyal, R. Escriva, A. Juels and R. V. Renesse. [REM: Resource-Efficient Mining for Blockchains](files/rem.pdf)
+-   R. Pass and E. Shi. [FruitChains: A Fair Blockchain](https://ia.cr/2016/916)
+-   R. Pass and E. Shi. [Hybrid Consensus: Efficient Consensus in the Permissionless Model](https://ia.cr/2016/917)
+-   I. Bentov, R. Pass and E. Shi. [The Sleepy Model of Consensus](https://ia.cr/2016/918)
+-   I. Bentov, R. Pass and E. Shi. [Snow White: Provably Secure Proofs of Stake](https://ia.cr/2016/919)
+-   A. E. Gencer, R. V. Renesse, and E. G. Sirer. [Service-Oriented Sharding with Aspen](http://arxiv.org/pdf/1611.06816v1).
 
 
 Published Papers
