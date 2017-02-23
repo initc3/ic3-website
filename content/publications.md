@@ -13,6 +13,7 @@ Preprints
 Published Papers
 ================
 
+-   P. Daian, I. Eyal, A. Juels, and G. Sirer. [PieceWork: Generalized Outsourcing Control for Proofs of Work](files/PieceWork.pdf) BITCOIN, 2017. To appear.
 -   F. Tramer, F. Zhang, H. Lin, J.P. Hubaux, A. Juels and E. Shi. [Sealed-Glass Proofs: Using Transparent Enclaves to Prove and Sell Knowledge.](https://eprint.iacr.org/2016/635), IEEE Euro S&P, 2017. 
 -   M. Milutinovic, W. He, H. Wu, and M. Kanwal. 2016. [Proof of Luck: an Efficient Blockchain Consensus Protocol.](http://dl.acm.org/citation.cfm?doid=3007788.3007790) In Proceedings of the 1st Workshop on System Software for Trusted Execution (SysTEX '16).
 -   K. Nayak, S. Kumar, A. Miller, E. Shi. [Stubborn Mining: Generalizing Selfish Mining and Combining with an Eclipse Attack.](https://eprint.iacr.org/2015/796), IEEE Euro S&P, 2016
