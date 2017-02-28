@@ -72,9 +72,9 @@ def fetchall(num_recent_blogs=4):
         d = pq(r.text)
         img = d.find("div.figure img")
         imgsrc = pq(img).attr["src"]
-        title = title.replace("'", "\\'")
+        # title = title.replace("'", "\\'")
         print 'Generating preview for: ', title
-        summary = summary.replace("'", "\\'")
+        # summary = summary.replace("'", "\\'")
         # try to get the first author's pic
         if imgsrc is None:
             img = d.find("div.pull-right img")
