@@ -26,6 +26,6 @@ deploy:
 notifications:
   email:
     recipients:
-      - fanz@linux.com
+      - fz84@cornell.edu
     on_success: always
     on_failure: always
