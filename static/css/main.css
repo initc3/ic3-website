@@ -241,3 +241,8 @@ blockquote p {
     margin-top: .8rem;
     font-family: 'Roboto Condensed';
 }
+
+/* partner page */
+.sponsor.image > img {
+  height: 50px !important;
+}
