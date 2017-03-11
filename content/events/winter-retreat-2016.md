@@ -6,28 +6,52 @@ end: 2017-02-24
 summary: IC3 staff and members gather twice per year to discuss the major technical challenges and innovative solutions to widespread blockchain adoption. Our Sponsor Member Chain is hosting this 2-day Retreat at their offices in SF.
 ---
 
-IC3 staff and members gather twice per year to discuss the major technical challenges and innovative solutions to widespread blockchain adoption. Our Sponsor Member Chain is hosting this 2-day Retreat at their offices in SF. 
+IC3 staff and members gather twice per year to discuss the major technical challenges and innovative solutions to widespread blockchain adoption.
+Our Sponsor Member Chain is hosting this 2-day Retreat at their offices in SF.
+Note: IC3 offers two levels of membership: Sponsor Member fees are $450k per year. Regular members fees are $150k per year.
+We opened Day 1 to non-members and students as an Open House with a Reception hosted by Chain.
 
-We are opening the Day 1 Technical Program and Reception to non-members and students, by invitation.  **Please note that pre-registration is required**.  Apply to attend [here](https://docs.google.com/forms/d/e/1FAIpQLSexQulQPLmGbdIvzm2K-bYRyqJSPI1HkxgeZuJLRSkE15SH3w/viewform).
+<div class="ui press-picture basic left floated segment">
+    <img src="../images/events/retreat-SF-2017/image001.jpg" alt="" class="ui image"/>
+    <div class="ui bottom attached message">
+      Adam Ludwin, CEO Chain, addresses the audience in his presentation on “Blockchain Opportunity Areas”.
+    </div>
+</div>
 
-**Day 1 Technical Program: Thursday, February 23**
+<div class="ui press-picture basic left floated segment">
+    <img src="../images/events/retreat-SF-2017/image002.jpg" alt="" class="ui image"/>
+    <div class="ui bottom attached message">
+      James Litsios, Head of Development at Digital Asset, describes “Semantically Rich Segmented Blockchains”.
+    </div>
+</div>
 
-- For IC3 Members and Prospective IC3 Members (by Invitation)
-- Full-time students with an interest to pursue graduate studies with IC3 in cryptocurrencies and contracts are also welcome to apply for Day 1
+<div class="ui press-picture basic left floated segment">
+    <img src="../images/events/retreat-SF-2017/image005.jpg" alt="" class="ui image"/>
+    <div class="ui bottom attached message">
+      Professors Andrew Miller and Emin Gün Sirer assist Vinay Phegade to set up for his talk.
+    </div>
+</div>
 
-**Day 1 Reception: Thursday, February 23**
+<div class="ui press-picture basic left floated segment">
+    <img src="../images/events/retreat-SF-2017/image006.jpg" alt="" class="ui image"/>
+    <div class="ui bottom attached message">
+      Vinay Phegade, Chief Security Solution Architect, Intel, provides a detailed update on Intel Software Guard Extentions (SGX).
+    </div>
+</div>
 
-- Hosted by Chain for Technical Program Attendees
+<div class="ui press-picture-2 compact basic left floated segment">
+  <div class="ui medium images">
+    <img src="../images/events/retreat-SF-2017/image003.jpg" alt=""/>
+    <img src="../images/events/retreat-SF-2017/image004.jpg" alt=""/>
+  </div>
+  <div class="ui bottom attached message">
+    Binh Nguyen, Blockchain Chief Architect IBM (left) and Marko Vukolic, Research Staff Member, IBM Zurich (right), provide details on the Hyperledger Fabric Architecture.
+  </div>
+</div>
 
-**Day 2 Technical Program: Friday, February 24**
-
-- IC3 Staff and Members Only
-
-**Day 2 Retreat Dinner: Friday, February 24**
-
-- IC3 Staff and Members Only
-
-The agenda is posted below. Check back later for potential updates.
+<div class="ui clearing horizontal divider">
+  <i class="certificate icon"></i>
+</div>
 
 # Schedule
 
@@ -253,4 +277,3 @@ The agenda is posted below. Check back later for potential updates.
 </tr>
 </tbody>
 </table>
-

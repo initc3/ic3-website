@@ -246,3 +246,23 @@ blockquote p {
 .sponsor.image > img {
   height: 50px !important;
 }
+
+.press-picture {
+  width: 300px !important;
+}
+
+.press-picture-2 {
+  width: 650px !important;
+}
+
+.press-picture-2 .images {
+  line-height: 1;
+}
+
+.press-picture-2 .images img, .press-picture-2 .images .image {
+  margin-bottom: 0px;
+}
+
+.press-picture img {
+  width: 300px !important;
+}
