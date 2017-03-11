@@ -41,7 +41,12 @@ def index():
 
     temp = e.env.get_template('index.html')
     output_fn = e.output_path('index.html')
-    e.render_and_write(temp, dict(events=upcoming_events + featured_events, featured_press=featured_press, blogs=blogs), output_fn)
+    e.render_and_write(temp,
+            dict(featured_events=featured_events,
+                 upcoming_events=upcoming_events,
+                 featured_press=featured_press,
+                 blogs=blogs),
+            output_fn)
 
 
 def about():
