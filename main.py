@@ -30,10 +30,7 @@ import press as ic3press
 
 
 def index():
-    upcoming_events = event.get_upcoming_events(e)
-    if len(upcoming_events) > 2:
-        upcoming_events = upcoming_events[:2]
-
+    upcoming_events = event.get_upcoming_events(e)[:2]
     featured_events = event.get_featured_events(e)
     featured_press = ic3press.get_featured_press()[:3]
 
