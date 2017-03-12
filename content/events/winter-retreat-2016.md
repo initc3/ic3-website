@@ -9,7 +9,7 @@ tags:
 ---
 
 IC3 staff and members gather twice per year to discuss the major technical challenges and innovative solutions to widespread blockchain adoption.
-Our Sponsor Member Chain is hosting this 2-day Retreat at their offices in SF.
+Our Sponsor Member Chain hosted this 2-day Retreat at their offices in SF.
 Note: IC3 offers two levels of membership: Sponsor Member fees are $450k per year. Regular members fees are $150k per year.
 We opened Day 1 to non-members and students as an Open House with a Reception hosted by Chain.
 
@@ -234,7 +234,7 @@ We opened Day 1 to non-members and students as an Open House with a Reception ho
 </tr>
 <tr>
 <td>Session 5: Blockchains in Action II</td>
-<td>(Ari Juels)</td>
+<td>(Chair: Ari Juels)</td>
 <td> </td>
 </tr>
 <tr>
@@ -274,7 +274,7 @@ We opened Day 1 to non-members and students as an Open House with a Reception ho
 </tr>
 <tr>
 <td>Retreat Dinner</td>
-<td> </td>
+<td>Hosted by Chain at Papito</td>
 <td>6:00 p.m. – drinks run out</td>
 </tr>
 </tbody>
