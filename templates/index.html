@@ -50,10 +50,17 @@
                                 <div class="meta">
                                   <span>{{ n.date_str }}</span>
                                 </div>
+                                {% set event_name %}
+                                  {% if n.subtitle %}
+                                    <b>{{ n.name }}</b>: {{ n.subtitle }}
+                                  {% else %}
+                                    {{ n.name }}
+                                  {% endif %}
+                                {% endset %}
                                 {% if n.url %}
-                                  <div class=""><a href="{{ n.url }}">{{ n.name }}</a></div>
+                                  <div class=""><a href="{{ n.url }}">{{ event_name }}</a></div>
                                 {% else %}
-                                  <div class="">{{ n.name }}</div>
+                                  <div class="">{{ event_name }}</div>
                                 {% endif %}
                             </div>
                         </div>
