@@ -6,11 +6,12 @@
 </div>
 <div class="ui center aligned basic segment">
   <div class="ui horizontal divider"> Regular Members </div>
-  <div class="ui three column centered stackable grid">
+  <div class="ui four column centered stackable grid">
   <div class="row">
     <div class="column"> <a href="http://digitalasset.com/" class="sponsor image"> <img src="images/partners/da.png"> </a> </div>
     <div class="column"> <a href="http://ibm.com/" class="sponsor image"> <img src="images/partners/ibm.png"> </a> </div>
     <div class="column"> <a href="http://intel.com/" class="sponsor image"> <img src="images/partners/intel.png"> </a> </div>
+    <div class="column"> <a href="https://www.fidelity.com/" class="sponsor image"> <img src="images/partners/fidelity.png"> </a> </div>
   </div>
   </div>
 </div>

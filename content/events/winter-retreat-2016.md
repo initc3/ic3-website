@@ -1,5 +1,6 @@
 ---
 name: IC3 Winter Retreat in SF
+subtitle: Hosted by IC3 Sponsor Member Chain
 location: San Francisco, CA
 start: 2017-02-23
 end: 2017-02-24

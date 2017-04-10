@@ -10,7 +10,7 @@ from base import Engine
 import os
 import shutil
 import errno
-
+from operator import itemgetter
 from optparse import OptionParser
 
 parser = OptionParser()
@@ -30,8 +30,9 @@ import press as ic3press
 
 
 def index():
-    upcoming_events = event.get_upcoming_events(e)[:2]
-    featured_events = event.get_featured_events(e)
+    events_toshow = event.get_featured_events(e)
+    events_toshow = sorted(events_toshow, key=itemgetter('start'), reverse=True)
+
     featured_press = ic3press.get_featured_press()[:3]
 
     if options.deploy or options.fetchall:
@@ -42,8 +43,7 @@ def index():
     temp = e.env.get_template('index.html')
     output_fn = e.output_path('index.html')
     e.render_and_write(temp,
-            dict(featured_events=featured_events,
-                 upcoming_events=upcoming_events,
+            dict(events_toshow=events_toshow,
                  featured_press=featured_press,
                  blogs=blogs),
             output_fn)
