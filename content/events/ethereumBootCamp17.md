@@ -4,7 +4,9 @@ subtitle: Registration is Open for Experienced Developers. Collaborate to Advanc
 location: Gates Hall, Cornell University. Ithaca, New York
 start: 2017-07-13
 end: 2017-07-19
-summary: IC3 and the Ethereum Foundation are Conducting our Second Immersive Weeklong Coding and Learning Experience in Blockchains and Smart Contracts with World-leading Professors, Open Source Developers and Students.
+summary: IC3 and the Ethereum Foundation will conduct our second annual Boot Camp, an immersive coding and learning experience in blockchains and smart contracts with world-leading researchers, open source developers, and students. Collaborate to Advance Blockchain Applications.
+tags:
+  - featured
 ---
 
 IC3 and the Ethereum Foundation are Conducting our Second Immersive Weeklong Coding and Learning Experience in Blockchains and Smart Contracts with World-leading Professors, Open Source Developers and Students. [See a summary of the 2016 Boot Camp here](http://www.initc3.org/events/2016-07-20-IC3-Ethereum-Crypto-Boot-Camp-and-Workshop-at-Cornell-University.html).

@@ -95,7 +95,8 @@ def get_upcoming_events(e):
     event_list = get_event_list(e, icon='<i class="add to calendar icon"></i>')
     ongoing = filter(lambda x: x['end'] >= datetime.date.today(), event_list)
 
-    return ongoing
+    featured = filter(lambda x: x.has_key('tags') and 'featured' in x['tags'], ongoing)
+    return featured
 
 
 def get_featured_events(e):
@@ -103,11 +104,15 @@ def get_featured_events(e):
     featured = filter(lambda x: x.has_key('tags') and 'featured' in x['tags'], event_list)
     return featured
 
+def has_tag(event, tag):
+    if not event.has_key('tags'):
+        return False
+    return tag in event['tags']
 
 def output(e):
     event_list = get_event_list(e)
 
-    ongoing = filter(lambda x: x['end'] >= datetime.date.today(), event_list)
+    ongoing = filter(lambda x: x['end'] >= datetime.date.today() and (not has_tag(x, 'nolist')), event_list)
     past = filter(lambda x: x['end'] < datetime.date.today(), event_list)
 
     event_index_temp = e.env.get_template('event_list.html')

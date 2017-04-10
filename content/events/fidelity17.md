@@ -6,4 +6,6 @@ start: 2017-04-10
 end: 2017-04-10
 tags:
   - nopage
+  - featured
+  - nolist
 ---
