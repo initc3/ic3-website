@@ -29,7 +29,7 @@ def process(e, filename):
     content = markdown.markdown(post.content, extensions=['markdown.extensions.tables'])
 
     # if front has external url, then no file will be generated
-    if front.has_key('url') or front.has_key('external'):
+    if front.has_key('url') or front.has_key('external') or (front.has_key('tags') and 'nopage' in front['tags']):
         return front
 
     output_fn = front['start'].strftime(DATE_FORMAT) + '-' + e.filename_sanitize(front['name']) + '.html'

@@ -15,7 +15,7 @@
         <div class="ui stackable internally celled grid">
             <div class="row">
                 <!-- BLOGS-->
-                <div class="ten wide column">
+                <div class="eight wide column">
                     <h1 class="ui header"> <i class="fa fa-rss-square" aria-hidden="true"></i>
                       <div class="content ic3-color">Latest on Blog</div>
                     </h1>
@@ -37,43 +37,27 @@
                 </div>
 
                 <!-- NEWS and EVENTS -->
-                <div class="six wide column">
+                <div class="eight wide column">
                     <h1 class="ui header">
                       <i class="fa fa-newspaper-o" aria-hidden="true"></i>
                       <div class="content ic3-color">News & Events</div>
                     </h1>
 
                     <div class="ui divided items">
-                        {% for n in featured_events %}
+                        {% for n in events_toshow %}
                         <div class="item">
                             <div class="content">
                                 <div class="meta">
                                   <span>{{ n.date_str }}</span>
                                 </div>
                                 {% if n.url %}
-                                  <div class=""><a href="{{ n.url }}"><strong>Feature Event: </strong>{{ n.name }}</a></div>
+                                  <div class=""><a href="{{ n.url }}">{{ n.name }}</a></div>
                                 {% else %}
-                                  <div class=""><strong>Event: </strong>{{ n.name }}</div>
+                                  <div class="">{{ n.name }}</div>
                                 {% endif %}
                             </div>
                         </div>
                         {% endfor %}
-
-                        {% for n in upcoming_events %}
-                        <div class="item">
-                            <div class="content">
-                                <div class="meta">
-                                  <span>{{ n.date_str }}</span>
-                                </div>
-                                {% if n.url %}
-                                  <div class=""><a href="{{ n.url }}"><strong>Upcoming Event: </strong>{{ n.name }}</a></div>
-                                {% else %}
-                                  <div class=""><strong>Event: </strong>{{ n.name }}</div>
-                                {% endif %}
-                            </div>
-                        </div>
-                        {% endfor %}
-
                         {% for p in featured_press %}
                         <div class="item">
                             <div class="content">
