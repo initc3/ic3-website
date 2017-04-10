@@ -30,16 +30,15 @@ Vitalik Buterin, Ethereum Foundation Chief Scientist and IC3 Directors Ittay Eya
 
 **INDUSTRY/PROFESSIONAL PARTICIPANTS**:  All must be affiliated with an IC3 Member or a Boot Camp Donor (see details below).
 
-BOOT CAMP DONOR – $12.5k US
+- __BOOT CAMP DONOR – $12.5k US__
+    - Donations support the Boot Camp and on-going IC3 research.
+    - Includes Donor Brand logo on the IC3 website, and social media outreach.
+    - Includes Participation for up to Two Developers for the full week of Hacking and Learning, plus participation in the Celebration Dinner on July 19.
+    - Includes Periodic Fun Activities.
 
-- Donations support the Boot Camp and on-going IC3 research.
-- Includes Donor Brand logo on the IC3 website, and social media outreach.
-- Includes Participation for up to Two Developers for the full week of Hacking and Learning, plus participation in the Celebration Dinner on July 19.
-- Includes Periodic Fun Activities.
 
-IC3 MEMBERS
-
-- IC3 Sponsor Members may participate at no charge.
-- IC3 Regular Members may participate at $5k per developer.
+- __IC3 MEMBERS__
+    - IC3 Sponsor Members may participate at no charge.
+    - IC3 Regular Members may participate at $5k per developer.
 
 All Industry/Professional participants, please [apply here](https://docs.google.com/forms/d/e/1FAIpQLSfBq37rmPlBS0k8zuRwa8DltVYq7RcpkdOT15vPOd80HmR2aQ/viewform).
