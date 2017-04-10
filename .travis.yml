@@ -32,6 +32,7 @@ deploy:
       default_text_charset: 'utf-8'
       local-dir: output
       detect_encoding: true
+      all_branches: true
 
 notifications:
   email:
