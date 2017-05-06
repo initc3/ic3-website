@@ -53,6 +53,8 @@
                                 {% set event_name %}
                                   {% if n.subtitle %}
                                     <b>{{ n.name }}</b>: {{ n.subtitle }}
+                                  {% elif n.summary %}
+                                    <b>{{ n.name }}</b>: {{ n.summary }}
                                   {% else %}
                                     {{ n.name }}
                                   {% endif %}
