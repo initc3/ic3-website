@@ -5,8 +5,6 @@ location: San Francisco, CA
 start: 2017-02-23
 end: 2017-02-24
 summary: IC3 staff and members gather twice per year to discuss the major technical challenges and innovative solutions to widespread blockchain adoption. Our Sponsor Member Chain is hosting this 2-day Retreat at their offices in SF.
-tags:
-  - featured
 ---
 
 IC3 staff and members gather twice per year to discuss the major technical challenges and innovative solutions to widespread blockchain adoption.
