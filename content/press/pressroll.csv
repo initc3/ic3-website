@@ -1,7 +1,3 @@
-"http://news.bbc.co.uk/2/hi/technology/4954208.stm";"BBC";04/28/06;"Big holes in net's heart revealed";"sirer,rama";"dns";
-"https://www.technologyreview.com/s/407715/how-to-speed-up-movie-downloads/";"MIT Technology Review";04/19/07;"How to Speed Up Movie Downloads";"sirer,peterson";"cdn";
-"http://arstechnica.com/uncategorized/2008/06/cubit-p2p-search-protocol-could-one-day-sink-the-pirate-bay/";"Ars Technica";06/17/08;"Cubit P2P search protocol could one day sink The Pirate Bay";"sirer,wong";"cdn";
-"http://www.sfgate.com/technology/businessinsider/article/The-17-Year-Old-Whom-Yahoo-Paid-30-Million-Was-4388011.php";"SF Gate";03/27/13;"The 17-Year-Old Whom Yahoo Paid $30 Million Was Licensing His Startup's Core Technology";"sirer";"cdn";
 "http://bits.blogs.nytimes.com/2013/04/07/how-deal-makers-put-a-value-on-start-ups-disruptions/";"New York Times";04/07/13;"How Deal Makers Put a Value on Start-Ups";"sirer,eyal";"IC3";"feature"
 "http://tech.slashdot.org/story/13/06/20/1747249/cornell-researchers-unveil-a-virtual-notary";"Slashdot";06/20/13;"Cornell Researchers Unveil a Virtual Notary";"sirer,eyal";"IC3";
 "http://money.cnn.com/2013/11/04/technology/bitcoin-flaw/";"CNN";11/04/13;"Bitcoin flaw could let group take control of currency";"sirer,eyal";"IC3";"feature"
@@ -239,3 +235,6 @@
 "http://www.reuters.com/article/fidelity-blockchain-idUSL1N1HH0N7";"Reuters";04/10/17;"Fidelity becomes first asset manager to join blockchain group IC3";"sirer,all";"IC3";"feature"
 "http://www.coindesk.com/ic3-researchers-propose-solidus-protocol-private-transactions/";"CoinDesk";04/20/17;"IC3 Researchers Propose ‘Solidus’ Protocol for Private Transactions";"all";"IC3";"feature"
 "https://cointelegraph.com/news/monero-transactions-history-can-be-revealed-and-exposed-research";"Coin Telegraph";04/15/17;"Monero Transactions History Can Be Revealed and Exposed: Research";"miller";"IC3";
+"http://www.coindesk.com/trust-your-oracle-cornell-launches-tool-for-confidential-blockchain-queries/";"CoinDesk";05/17/17;"Trust Your Oracle? Cornell Launches Tool for Confidential Blockchain Queries";"juels";"IC3";
+"https://www.ethnews.com/town-crier-service-delivers-solid-data-to-coders";"ETHNews";05/11/17;"Town Crier Service Delivers Solid Data To Coders";"juels,fanz";"IC3";
+"https://www.technologyreview.com/s/604336/how-encrypted-weather-data-could-help-corporate-blockchain-dreams-come-true/";"MIT Technology Review";05/11/17;"How Encrypted Weather Data Could Help Corporate Blockchain Dreams Come True";"juels";"IC3";"feature"
