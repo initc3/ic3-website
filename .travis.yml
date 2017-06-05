@@ -37,6 +37,5 @@ deploy:
 notifications:
   email:
     recipients:
-      - fz84@cornell.edu
-    on_success: always
+      - bl4ck5unxx@gmail.com
     on_failure: always
