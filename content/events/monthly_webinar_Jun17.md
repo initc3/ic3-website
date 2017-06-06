@@ -4,6 +4,8 @@ location: Interactive Video Broadcast from Gates Hall, Cornell University, Ithac
 start: 2017-06-20
 end: 2017-06-20
 summary: Dr. Ittay Eyal, IC3 Associate Director will present “From Cryptocurrencies to FinTech Blockchains”.  Registration is open for IC3 members.
+tags:
+  - featured
 ---
 
 The requirements and guarantees of cryptocurrency blockchains do not match those of the FinTech world, from transaction throughput, through security primitives, to privacy. Ittay will discuss how blockchain research is closing these gaps and some of the challenges that remain open.
