@@ -20,7 +20,8 @@ IC3 and the Ethereum Foundation are Conducting our Second Immersive Weeklong Cod
 
 - Ethereum Foundation (Vitalik Buterin, Chief Scientist, Ming Chan Executive Director)
 - IC3 Directors (Ittay Eyal, Ari Juels, Andrew Miller and Elaine Shi)
-- Ethereum researchers (Alex Van de Sande, Casey Detrio, Vlad Zamfir, Alex Beregszaszi, Loi Luu, Chang-Wu Chen, Yoichi Hirai)
+- Ethereum researchers (Alex Van de Sande, Martin Becze, Casey Detrio, Vlad Zamfir, Jan Xie, Alex Beregszaszi, Loi Luu, Chang-Wu Chen, Nick Johnson, Yoichi Hirai, Christian Reitweissner)
+
 
 
 ## PROJECTS (please check back later for updates)
