@@ -7,3 +7,4 @@ output
 node_modules
 
 *.pyc
+.idea

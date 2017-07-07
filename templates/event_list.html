@@ -1,12 +1,21 @@
 {% extends "page.html" %}
 
 {% macro event_item(event) %}
+
+{% set event_name %}
+  {% if event.subtitle %}
+    {{ event.name }}
+    <div class="sub header"> {{ event.subtitle }} </div>
+  {% else %}
+    {{ event.name }}
+  {% endif %}
+{% endset %}
 <div class="item">
     <div class="content">
       {% if event.url %}
-        <div class="header"> <a href="{{ event.url }}">{{ event.name }}</a> </div>
+        <div class="ui header"> <a href="{{ event.url }}"> {{ event_name }}</a> </div>
       {% else %}
-        <div class="header ic3-color"> {{ event.name }} </div>
+        <div class="ui header ic3-color"> {{ event_name }}</div>
       {% endif %}
       <div class="meta">
         <span> {{ event.date_str }} </span>
@@ -16,9 +25,11 @@
         </span>
         {% endif %}
       </div>
+      {% if event.summary %}
       <div class="description">
         {{ event.summary }}
       </div>
+      {% endif %}
     </div>
   </div>
 {% endmacro %}

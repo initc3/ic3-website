@@ -10,7 +10,7 @@ from base import Engine
 import os
 import shutil
 import errno
-
+from operator import itemgetter
 from optparse import OptionParser
 
 parser = OptionParser()
@@ -30,11 +30,9 @@ import press as ic3press
 
 
 def index():
-    upcoming_events = event.get_upcoming_events(e)
-    if len(upcoming_events) > 2:
-        upcoming_events = upcoming_events[:2]
+    events_toshow = event.get_featured_events(e)
+    events_toshow = sorted(events_toshow, key=itemgetter('start'), reverse=True)
 
-    featured_events = event.get_featured_events(e)
     featured_press = ic3press.get_featured_press()[:3]
 
     if options.deploy or options.fetchall:
@@ -44,7 +42,11 @@ def index():
 
     temp = e.env.get_template('index.html')
     output_fn = e.output_path('index.html')
-    e.render_and_write(temp, dict(events=upcoming_events + featured_events, featured_press=featured_press, blogs=blogs), output_fn)
+    e.render_and_write(temp,
+            dict(events_toshow=events_toshow,
+                 featured_press=featured_press,
+                 blogs=blogs),
+            output_fn)
 
 
 def about():
@@ -57,7 +59,7 @@ def about():
 
     breadcrumb = [{'name': 'About', 'url': 'about.html'}]
     e.render_and_write(temp, dict(
-        title='About IC3',
+        title='IC3 - About IC3',
         content=content,
         breadcrumb=breadcrumb),
         output)
@@ -72,7 +74,7 @@ def people():
 
     breadcrumb = [{'name': 'People', 'url': 'people.html'}]
     e.render_and_write(page_temp,
-            dict(title='People',
+            dict(title='IC3 - People',
                 content=html,
                 breadcrumb=breadcrumb),
             output)
@@ -88,7 +90,7 @@ def partners():
 
     breadcrumb = [{'name': 'Partners', 'url': 'partners.html'}]
     e.render_and_write(temp,
-            dict(title='Partners',
+            dict(title='IC3 - Partners',
                 content=content,
                 breadcrumb=breadcrumb),
             output)
@@ -103,7 +105,7 @@ def projects():
 
     temp = e.env.get_template('projects.html')
     e.render_and_write(temp, dict(
-        title='Projects',
+        title='IC3 - Projects',
         breadcrumb=breadcrumb,
         challenges=data['challenges'],
         projects=data['projects']),
@@ -121,7 +123,7 @@ def publications():
         content = markdown.markdown(content)
 
     e.render_and_write(temp, dict(
-        title='Publications',
+        title='IC3 - Publications',
         content=content,
         breadcrumb=breadcrumb),
         output)
@@ -154,7 +156,7 @@ def press():
     breadcrumb = [{'name': 'Press', 'url': 'press.html'}]
 
     e.render_and_write(temp, dict(
-        title='Press',
+        title='IC3 - Press',
         all_press=all_press,
         featured_press=featured_press,
         breadcrumb=breadcrumb),
@@ -169,7 +171,7 @@ def page_not_found():
         content = c.read()
 
     e.render_and_write(temp, dict(
-        title='Publications',
+        title='IC3 - Publications',
         content=content),
         output)
 
@@ -184,7 +186,7 @@ def jobs():
         content = markdown.markdown(content)
 
     e.render_and_write(temp, dict(
-        title='Postdoc Positions',
+        title='IC3 - Postdoc Positions',
         content=content,
         breadcrumb=breadcrumb),
         output)
@@ -196,7 +198,7 @@ def jobs():
         content = markdown.markdown(content)
 
     e.render_and_write(temp, dict(
-        title='PhD Positions',
+        title='IC3 - PhD Positions',
         content=content,
         breadcrumb=breadcrumb),
         output)

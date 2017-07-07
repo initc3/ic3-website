@@ -15,7 +15,7 @@
         <div class="ui stackable internally celled grid">
             <div class="row">
                 <!-- BLOGS-->
-                <div class="ten wide column">
+                <div class="eight wide column">
                     <h1 class="ui header"> <i class="fa fa-rss-square" aria-hidden="true"></i>
                       <div class="content ic3-color">Latest on Blog</div>
                     </h1>
@@ -37,28 +37,36 @@
                 </div>
 
                 <!-- NEWS and EVENTS -->
-                <div class="six wide column">
+                <div class="eight wide column">
                     <h1 class="ui header">
                       <i class="fa fa-newspaper-o" aria-hidden="true"></i>
                       <div class="content ic3-color">News & Events</div>
                     </h1>
 
                     <div class="ui divided items">
-                        {% for n in events %}
+                        {% for n in events_toshow %}
                         <div class="item">
                             <div class="content">
                                 <div class="meta">
                                   <span>{{ n.date_str }}</span>
                                 </div>
+                                {% set event_name %}
+                                  {% if n.subtitle %}
+                                    <b>{{ n.name }}</b>: {{ n.subtitle }}
+                                  {% elif n.summary %}
+                                    <b>{{ n.name }}</b>: {{ n.summary }}
+                                  {% else %}
+                                    {{ n.name }}
+                                  {% endif %}
+                                {% endset %}
                                 {% if n.url %}
-                                  <div class=""><a href="{{ n.url }}"><strong>Event: </strong>{{ n.name }}</a></div>
+                                  <div class=""><a href="{{ n.url }}">{{ event_name }}</a></div>
                                 {% else %}
-                                  <div class=""><strong>Event: </strong>{{ n.name }}</div>
+                                  <div class="">{{ event_name }}</div>
                                 {% endif %}
                             </div>
                         </div>
                         {% endfor %}
-
                         {% for p in featured_press %}
                         <div class="item">
                             <div class="content">
@@ -69,28 +77,6 @@
                             </div>
                         </div>
                         {% endfor %}
-                        <!-- <div class="item">
-                            <div class="content">
-                                <div class="meta"><span><i class="calendar icon"></i>Monday October 24, 2016</span> </div>
-                                <div class="">
-                                    <a href="https://chain.com/press-releases/chain-launches-open-source-developer-platform/">
-                                        Chain Launches Open Source Developer Platform:
-                                        Includes Test Network Operated by Chain, Microsoft, and IC3
-                                        </a>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="item">
-                            <div class="content">
-                                <div class="meta"><span><i class="calendar icon"></i> Monday August 22, 2016</span> </div>
-                                <div class="">
-                                    <a href="https://bitcoinmagazine.com/articles/chain-joins-industry-academia-blockchain-initiative-to-solve-interoperability-and-scalability-issues-1471882821">
-                                        Chain Joins Industry-Academia Blockchain Initiative to Solve Interoperability and Scalability Issues </a>
-                                </div>
-                            </div>
-                        </div> -->
-
                         <i class="arrow circle right icon"></i>More <a href="{{ SITE_ROOT }}/press.html">News</a> and
                         <a href="{{ SITE_ROOT }}/events.html">Events</a>
 

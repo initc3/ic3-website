@@ -1,24 +1,20 @@
 # Industry Partners
 
-<div class="ui container" style="width:750px; margin: 1rem;">
-<div class="ui four column centered stackable grid">
-<div class="row">
-  <div class="column">
-      <a href="http://chain.com/" class="ui small image"> <img src="images/partners/chain-logo.png"> </a>
+<div class="ui center aligned basic segment">
+  <div class="ui horizontal divider"> Sponsor Members </div>
+  <a href="http://chain.com/" class="sponsor image"> <img src="images/partners/chain-logo.png"> </a>
+</div>
+<div class="ui center aligned basic segment">
+  <div class="ui horizontal divider"> Regular Members </div>
+  <div class="ui four column centered stackable grid">
+  <div class="row">
+    <div class="column"> <a href="http://digitalasset.com/" class="sponsor image"> <img src="images/partners/da.png"> </a> </div>
+    <div class="column"> <a href="http://ibm.com/" class="sponsor image"> <img src="images/partners/ibm.png"> </a> </div>
+    <div class="column"> <a href="http://intel.com/" class="sponsor image"> <img src="images/partners/intel.png"> </a> </div>
+    <div class="column"> <a href="https://www.fidelity.com/" class="sponsor image"> <img src="images/partners/fidelity.png"> </a> </div>
   </div>
-  <div class="column">
-      <a href="http://digitalasset.com/" class="ui small image"> <img src="images/partners/da.png"> </a>
-  </div>
-  <div class="column">
-      <a href="http://ibm.com/" class="ui small image"> <img src="images/partners/ibm.png"> </a>
-  </div>
-  <div class="column">
-      <a href="http://intel.com/" class="ui small image"> <img src="images/partners/intel.png"> </a>
   </div>
 </div>
-</div>
-</div>
-
 
 The National Science Foundation awarded IC3 a $3M 3-year grant in 2015. We seek partners in industry, law and commerce to sponsor and collaborate with us in our mission to deliver powerful, principled, and practical innovations.
 

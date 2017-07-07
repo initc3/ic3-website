@@ -29,7 +29,7 @@ def process(e, filename):
     content = markdown.markdown(post.content, extensions=['markdown.extensions.tables'])
 
     # if front has external url, then no file will be generated
-    if front.has_key('url') or front.has_key('external'):
+    if front.has_key('url') or front.has_key('external') or (front.has_key('tags') and ('nopage' in front['tags'])):
         return front
 
     output_fn = front['start'].strftime(DATE_FORMAT) + '-' + e.filename_sanitize(front['name']) + '.html'
@@ -103,11 +103,15 @@ def get_featured_events(e):
     featured = filter(lambda x: x.has_key('tags') and 'featured' in x['tags'], event_list)
     return featured
 
+def has_tag(event, tag):
+    if not event.has_key('tags'):
+        return False
+    return tag in event['tags']
 
 def output(e):
     event_list = get_event_list(e)
 
-    ongoing = filter(lambda x: x['end'] >= datetime.date.today(), event_list)
+    ongoing = filter(lambda x: x['end'] >= datetime.date.today() and (not has_tag(x, 'nolist')), event_list)
     past = filter(lambda x: x['end'] < datetime.date.today(), event_list)
 
     event_index_temp = e.env.get_template('event_list.html')
