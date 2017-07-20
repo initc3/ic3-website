@@ -13,6 +13,6 @@ clean:
 	rm -f *~
 
 clobber: clean
-	rm -f pressroll-all.csv pressroll-featured.csv
+	rm -f pressroll.csv pressroll-all.csv pressroll-featured.csv
 
 
