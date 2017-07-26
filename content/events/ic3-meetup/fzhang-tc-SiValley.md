@@ -1,6 +1,6 @@
 ---
 name: 'IC3 NYC Blockchain Meetup Comes to Si Valley - "Town Crier Authenticated Data for Smart Contracts"'
-location: New York City, NY
+location: Santa Clara, CA
 start: 2017-08-13
 end: 2017-08-13
 summary: Fan Zhang, a PhD student in CS at Cornell, will speak on Town Crier <a href="https://www.meetup.com/EthereumSiliconValley/events/241517216/?eventId=241517216"><i class="external icon"></i></a>.
