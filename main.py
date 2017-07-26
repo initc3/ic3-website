@@ -1,7 +1,6 @@
 # encoding: utf-8
 
 import fnmatch
-import gzip
 import yaml
 import codecs
 import markdown
@@ -10,12 +9,15 @@ from base import Engine
 import os
 import shutil
 import errno
-from operator import itemgetter
 from optparse import OptionParser
+import event
+import fetchall
+import press as ic3press
 
 parser = OptionParser()
 parser.add_option("-d", "--deploy", action="store_true", dest="deploy", help="will compress stuff", default=False)
-parser.add_option("-f", "--fetchall", action="store_true", dest="fetchall", help="will fetch blogs from Gun's blog", default=False)
+parser.add_option("-f", "--fetchall", action="store_true", dest="fetchall", help="will fetch blogs from Gun's blog",
+                  default=False)
 (options, args) = parser.parse_args()
 
 CWD = os.path.dirname(__file__)
@@ -23,15 +25,9 @@ OUTPUT_DIR = os.path.join(CWD, 'output')
 
 e = Engine(deploy=options.deploy)
 
-# event has to be imported after init
-import event
-import fetchall
-import press as ic3press
-
 
 def index():
     events_toshow = event.get_featured_events(e)
-    events_toshow = sorted(events_toshow, key=itemgetter('start'), reverse=True)
 
     featured_press = ic3press.get_featured_press()[:3]
 
@@ -40,13 +36,14 @@ def index():
     else:
         blogs = []
 
-    temp = e.env.get_template('index.html')
-    output_fn = e.output_path('index.html')
-    e.render_and_write(temp,
-            dict(events_toshow=events_toshow,
-                 featured_press=featured_press,
-                 blogs=blogs),
-            output_fn)
+    for ev in events_toshow:
+        ev.write_file(e)
+
+    e.render_and_write(e.env.get_template('index.html'),
+                       dict(events_toshow=events_toshow,
+                            featured_press=featured_press,
+                            blogs=blogs),
+                       e.calc_output_fullpath('index.html'))
 
 
 def about():
@@ -62,7 +59,7 @@ def about():
         title='IC3 - About IC3',
         content=content,
         breadcrumb=breadcrumb),
-        output)
+                       output)
 
 
 def people():
@@ -74,10 +71,10 @@ def people():
 
     breadcrumb = [{'name': 'People', 'url': 'people.html'}]
     e.render_and_write(page_temp,
-            dict(title='IC3 - People',
-                content=html,
-                breadcrumb=breadcrumb),
-            output)
+                       dict(title='IC3 - People',
+                            content=html,
+                            breadcrumb=breadcrumb),
+                       output)
 
 
 def partners():
@@ -90,10 +87,10 @@ def partners():
 
     breadcrumb = [{'name': 'Partners', 'url': 'partners.html'}]
     e.render_and_write(temp,
-            dict(title='IC3 - Partners',
-                content=content,
-                breadcrumb=breadcrumb),
-            output)
+                       dict(title='IC3 - Partners',
+                            content=content,
+                            breadcrumb=breadcrumb),
+                       output)
 
 
 def projects():
@@ -109,11 +106,11 @@ def projects():
         breadcrumb=breadcrumb,
         challenges=data['challenges'],
         projects=data['projects']),
-        output)
+                       output)
 
 
 def publications():
-    output = e.output_path('publications.html')
+    output = e.calc_output_fullpath('publications.html')
     temp = e.env.get_template('page.html')
 
     breadcrumb = [{'name': 'Publications', 'url': 'publications.html'}]
@@ -126,11 +123,11 @@ def publications():
         title='IC3 - Publications',
         content=content,
         breadcrumb=breadcrumb),
-        output)
+                       output)
 
 
 def blogs():
-    output = e.output_path("blogs.html")
+    output = e.calc_output_fullpath("blogs.html")
     temp = e.env.get_template('blogs.html')
 
     breadcrumb = [{'name': 'Blogs', 'url': 'blogs.html'}]
@@ -143,11 +140,11 @@ def blogs():
         title='IC3 - Blogs',
         blogs=posts,
         breadcrumb=breadcrumb),
-        output)
+                       output)
 
 
 def press():
-    output = e.output_path('press.html')
+    output = e.calc_output_fullpath('press.html')
     temp = e.env.get_template('press.html')
 
     all_press = ic3press.get_all_press()
@@ -160,11 +157,11 @@ def press():
         all_press=all_press,
         featured_press=featured_press,
         breadcrumb=breadcrumb),
-        output)
+                       output)
 
 
 def page_not_found():
-    output = e.output_path('404.html')
+    output = e.calc_output_fullpath('404.html')
     temp = e.env.get_template('page.html')
 
     with open('./content/404.html', 'r') as c:
@@ -173,14 +170,14 @@ def page_not_found():
     e.render_and_write(temp, dict(
         title='IC3 - Publications',
         content=content),
-        output)
+                       output)
 
 
 def jobs():
     temp = e.env.get_template('page.html')
 
-    output = e.output_path('postdoc.html')
-    breadcrumb = [{'name': 'Jobs', 'url': ''},{'name': 'Postdoc', 'url': 'postdoc.html'}]
+    output = e.calc_output_fullpath('postdoc.html')
+    breadcrumb = [{'name': 'Jobs', 'url': ''}, {'name': 'Postdoc', 'url': 'postdoc.html'}]
     with codecs.open('./content/jobs/postdoc.md', 'r', encoding='utf-8') as c:
         content = c.read()
         content = markdown.markdown(content)
@@ -189,9 +186,9 @@ def jobs():
         title='IC3 - Postdoc Positions',
         content=content,
         breadcrumb=breadcrumb),
-        output)
+                       output)
 
-    output = e.output_path('phd.html')
+    output = e.calc_output_fullpath('phd.html')
     breadcrumb = [{'name': 'Jobs', 'url': ''}, {'name': 'PhD', 'url': 'phd.html'}]
     with codecs.open('./content/jobs/phd.md', 'r', encoding='utf-8') as c:
         content = c.read()
@@ -201,7 +198,7 @@ def jobs():
         title='IC3 - PhD Positions',
         content=content,
         breadcrumb=breadcrumb),
-        output)
+                       output)
 
 
 def compress_image(dir='images/hotlinks', size=(80, 80)):
@@ -219,6 +216,7 @@ def compress_image(dir='images/hotlinks', size=(80, 80)):
             img.save(dest)
             print 'Compressing %s' % dest
 
+
 if __name__ == '__main__':
     index()
     about()
@@ -230,8 +228,7 @@ if __name__ == '__main__':
     press()
     page_not_found()
     jobs()
-    event.output(e)
-
+    event.write_event_page(e)
 
     try:
         shutil.copytree('static', join(OUTPUT_DIR, 'static'))
@@ -239,6 +236,7 @@ if __name__ == '__main__':
         # compress images
         if options.deploy:
             from PIL import Image
+
             compress_image('images/hotlinks', (100, 100))
             compress_image('images/people', (200, 200))
 

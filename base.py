@@ -1,9 +1,7 @@
 import re
 from jinja2 import FileSystemLoader, Environment
 import os
-
 import copy
-
 from os.path import exists
 import shutil
 
@@ -37,9 +35,9 @@ class Engine (object):
         with open(filename, 'w') as f:
             f.write(content)
 
-    def write_utf8(self, utf8, filename):
+    def write_utf8(self, content, filename):
         try:
-            out = utf8.encode('utf-8')
+            out = content.encode('utf-8')
         except:
             raise
 
@@ -48,12 +46,12 @@ class Engine (object):
     def render_and_write(self, template, cntx, path):
         self.write_utf8(self.render(template, cntx), path)
 
-    def default_cntx(self):
+    def default_context(self):
         return copy.copy(self.def_cntx)
 
-    def output_path(self, fn):
+    def calc_output_fullpath(self, fn):
         return os.path.join(self.output_dir, fn)
 
-    def filename_sanitize(self, fn):
+    def sanitize_filename(self, fn):
         s = re.sub('\s', '-', fn)
         return re.sub('[^0-9a-zA-Z-]', '', s)

@@ -1,121 +1,225 @@
 import markdown
-import yaml
-import glob
-
-from base import Engine
 import os
 from os.path import join, exists
-
 import frontmatter
 import datetime
+from operator import attrgetter
+import fnmatch
 
-from operator import itemgetter
+from base import Engine
 
-BASE_DIR = './content/events'
-
-DATE_FORMAT = '%Y-%m-%d'
-
-
-def process(e, filename):
-    print 'processing %s' % filename
-    if not exists(filename):
-        raise Exception('%s does not exist' % filename)
-
-    temp = e.env.get_template('event_details.html')
-
-    post = frontmatter.load(filename)
-
-    front = post.metadata
-    content = markdown.markdown(post.content, extensions=['markdown.extensions.tables'])
-
-    # if front has external url, then no file will be generated
-    if front.has_key('url') or front.has_key('external') or (front.has_key('tags') and ('nopage' in front['tags'])):
-        return front
-
-    output_fn = front['start'].strftime(DATE_FORMAT) + '-' + e.filename_sanitize(front['name']) + '.html'
-    url = join('events', output_fn)
-    output_fn = join(e.output_dir, url)
-
-    front['url'] = url
-    front['date_str'] = format_date(front)
-
-    cntx = e.default_cntx()
-    cntx['title'] = front['name']
-    cntx['content'] = content
-    cntx['metadata'] = front
-
-    html = temp.render(cntx)
-    e.write(html.encode('utf-8'), output_fn)
-
-    return front
+CONTENT_DIR = './content/events'
+DEFAULT_DATE_FORMAT = '%Y-%m-%d'
 
 
-def format_date(event, icon='<i class="calendar icon"></i>'):
-    s = event['start']
-    t = event['end']
+def _recursive_glob(rootdir='.', pattern='*'):
+    matches = []
+    for root, dirnames, filenames in os.walk(rootdir):
+      for filename in fnmatch.filter(filenames, pattern):
+          matches.append(os.path.join(root, filename))
 
-    full_format = '%A %B %e, %Y '
-    short_full_format = '%B %e, %Y '
-    if s == t:
-        date = '%s%s' % (icon, s.strftime(full_format))
-        return date
-
-    if s.month == s.month:
-        date = '%s%s %d-%d, %d' % (icon, s.strftime("%B"),
-                s.day, t.day, t.year)
-        return date
-
-    return '%s%s-%s' % (icon, s.strftime(short_full_format),
-            t.strftime(short_full_format))
+    return matches
 
 
-def get_event_list(env, icon=None):
-    output_dir = join(env.output_dir, 'events')
-    if not exists(output_dir):
-        os.mkdir(output_dir)
+class Tags:
+    NOPAGE = 'nopage'
+    NOLIST = 'nolist'
+    LONGLIVE = 'longlive'
+    FEATURED = 'featured'
+    DRAFT = 'draft'
 
-    event_metadata = []
-    for f in glob.glob(join(BASE_DIR, '*.md')):
+
+class Metadata:
+    NAME = "name"
+    START = "start"
+    END = "end"
+
+    LOCATION = "location"
+    SUBTITLE = "subtitle"
+    SUMMARY = "summary"
+    URL = "url"
+    TAGS = "tags"
+
+class Event:
+    @staticmethod
+    def REQUIRED_FIELDS():
+        return Metadata.NAME, Metadata.START, Metadata.END
+
+    @staticmethod
+    def OPTIONAL_FIELDS():
+        return Metadata.LOCATION, Metadata.SUBTITLE, Metadata.SUMMARY, Metadata.URL, Metadata.TAGS
+
+    @staticmethod
+    def ALL_FIELDS():
+        return Event.REQUIRED_FIELDS() + Event.OPTIONAL_FIELDS()
+
+    @staticmethod
+    def VALID_TAGS():
+        return Tags.NOPAGE, Tags.NOLIST, Tags.LONGLIVE, Tags.FEATURED, Tags.DRAFT
+
+    def __init__(self):
+        # front matter fields
+        for f in Event.ALL_FIELDS():
+            setattr(self, f, None)
+
+        # generated
+        self.date_str = None
+        self.output_path = None
+
+    def _parse_metadata(self, front_matter):
+        # mandatory fields
+        for mf in Event.REQUIRED_FIELDS():
+            setattr(self, mf, front_matter[mf])
+
+        # optional fields
+        for of in Event.OPTIONAL_FIELDS():
+            setattr(self, of, front_matter.get(of, ""))
+
+        if front_matter.has_key('external'):
+            print 'Warning: deprecated tags used'
+
+        self.url = None
+        self.tags = None
+
+        if "url" in front_matter and front_matter[Metadata.URL] != '':
+            self.url = front_matter[Metadata.URL]
+
+        if "tags" in front_matter and len(front_matter[Metadata.TAGS]) > 0:
+            self.tags = front_matter[Metadata.TAGS]
+
+        self.date_str = self._format_date()
+
+    def _format_date(self):
+        s = self.start
+        t = self.end
+
+        if self.end >= datetime.date.today():
+            cal_icon = '<i class="add to calendar icon"></i>'
+        else:
+            cal_icon = '<i class="calendar icon"></i>'
+
+        full_format = '%A %B %e, %Y '
+        short_full_format = '%B %e, %Y '
+        if s == t:
+            date = '%s%s' % (cal_icon, s.strftime(full_format))
+            return date
+
+        if s.month == s.month:
+            date = '%s%s %d-%d, %d' % (cal_icon, s.strftime("%B"), s.day, t.day, t.year)
+            return date
+
+        return '%s%s-%s' % (cal_icon, s.strftime(short_full_format), t.strftime(short_full_format))
+
+    def _start_date_str(self):
+        return self.start.strftime(DEFAULT_DATE_FORMAT)
+
+    def _end_date_str(self):
+        return self.end.strftime(DEFAULT_DATE_FORMAT)
+
+    def parse_md(self, ssg_engine, md_src):
+        print 'processing %s' % md_src
+        if not exists(md_src):
+            raise Exception('%s does not exist' % md_src)
+
+        post = frontmatter.load(md_src)
+
+        front = post.metadata
+        content = markdown.markdown(post.content, extensions=['markdown.extensions.tables'])
+
+        self._parse_metadata(front)
+
+        output_fn = self._start_date_str() + '-' + ssg_engine.sanitize_filename(self.name) + '.html'
+        relative_path = join('events', output_fn)
+
+        if self.url or self.has_tag(Tags.NOPAGE):
+            self.output_path = None
+        else:
+            self.url = relative_path
+            self.output_path = join(ssg_engine.output_dir, relative_path)
+
+            self.render_cntx = ssg_engine.default_context()
+            self.render_cntx['title'] = self.name
+            self.render_cntx['metadata'] = self.to_dict()
+            self.render_cntx['content'] = content
+
+    def write_file(self, ssg_engine):
+        if not self.output_path:
+            return
+
+        output_dir = join(ssg_engine.output_dir, 'events')
+        if not exists(output_dir):
+            os.mkdir(output_dir)
+
+        if not self.render_cntx:
+            raise Exception("render context not ready")
+
+        temp = ssg_engine.env.get_template('event_details.html')
+        html = temp.render(self.render_cntx)
+        ssg_engine.write(html.encode('utf-8'), self.output_path)
+
+    def has_tag(self, tag):
+        if tag not in Event.VALID_TAGS():
+            raise Exception("invalid tag: %s" % tag)
+        return self.tags and tag in self.tags
+
+    def has_expired(self):
+        if self.has_tag(Tags.LONGLIVE):
+            return False
+
+        today = datetime.datetime.now().date()
+        tdiff = today - self.end
+        return tdiff.days >= 7
+
+    def to_dict(self):
+        r = {}
+        for f in Event.ALL_FIELDS():
+            r[f] = getattr(self, f)
+
+        return r
+
+
+def get_event_list(env, include_expired=False):
+    events = []
+
+    markdown_files = _recursive_glob(CONTENT_DIR, '*.md')
+    for f in markdown_files:
         if f.endswith('template.md'):
             continue
-        event_metadata.append(process(env, f))
+        e = Event()
+        e.parse_md(env, f)
+        events.append(e)
 
-    event_metadata = sorted(event_metadata, key=itemgetter('start'), reverse=True)
+    if not include_expired:
+        events = filter(lambda ev: not ev.has_expired(), events)
 
-    for ev in event_metadata:
-        if icon:
-            ev['date_str'] = format_date(ev, icon)
-        else:
-            ev['date_str'] = format_date(ev)
+    event_metadata = sorted(events, key=attrgetter('start'), reverse=True)
 
     return event_metadata
 
 
 def get_upcoming_events(e):
-    event_list = get_event_list(e, icon='<i class="add to calendar icon"></i>')
-    ongoing = filter(lambda x: x['end'] >= datetime.date.today(), event_list)
+    print 'Getting upcoming events'
+    event_list = get_event_list(e)
+    ongoing = filter(lambda x: x.end >= datetime.date.today(), event_list)
 
     return ongoing
 
 
 def get_featured_events(e):
+    print 'Getting featured events'
     event_list = get_event_list(e)
-    featured = filter(lambda x: x.has_key('tags') and 'featured' in x['tags'], event_list)
+    featured = filter(lambda ev: ev.has_tag('featured'), event_list)
     return featured
 
-def has_tag(event, tag):
-    if not event.has_key('tags'):
-        return False
-    return tag in event['tags']
 
-def output(e):
-    event_list = get_event_list(e)
+def write_event_page(e):
+    event_list = get_event_list(e, include_expired=True)
 
-    ongoing = filter(lambda x: x['end'] >= datetime.date.today() and (not has_tag(x, 'nolist')), event_list)
-    past = filter(lambda x: x['end'] < datetime.date.today(), event_list)
+    ongoing = filter(lambda x: x.end >= datetime.date.today() and (not x.has_tag(Tags.NOLIST)), event_list)
+    past = filter(lambda x: x.end < datetime.date.today(), event_list)
 
     event_index_temp = e.env.get_template('event_list.html')
-    output = e.output_path('events.html')
+    output = e.calc_output_fullpath('events.html')
 
     breadcrumb = [{'name': 'Events', 'url': 'events.html'}]
 
