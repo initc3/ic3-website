@@ -51,19 +51,15 @@
                                   <span>{{ n.date_str }}</span>
                                 </div>
                                 {% set event_name %}
-                                  {% if n.subtitle %}
-                                    <b>{{ n.name }}</b>: {{ n.subtitle }}
-                                  {% elif n.summary %}
-                                    <b>{{ n.name }}</b>: {{ n.summary }}
-                                  {% else %}
-                                    {{ n.name }}
-                                  {% endif %}
+                                  <b>{{ n.name }}</b><i class="caret right icon"></i>
+                                {% if n.subtitle %}{{ n.subtitle }}{% endif %}
                                 {% endset %}
                                 {% if n.url %}
                                   <div class=""><a href="{{ n.url }}">{{ event_name }}</a></div>
                                 {% else %}
                                   <div class="">{{ event_name }}</div>
                                 {% endif %}
+                                {% if n.summary %}{{ n.summary }}{% endif %}
                             </div>
                         </div>
                         {% endfor %}
