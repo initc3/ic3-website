@@ -166,7 +166,7 @@ class Event:
         if self.has_tag(Tags.LONGLIVE):
             return False
 
-        today = datetime.datetime.now().date()
+        today = datetime.date.today()
         tdiff = today - self.end
         return tdiff.days >= 7
 
@@ -208,7 +208,7 @@ def get_upcoming_events(e):
 def get_featured_events(e):
     print 'Getting featured events'
     event_list = get_event_list(e)
-    featured = filter(lambda ev: ev.has_tag('featured'), event_list)
+    featured = filter(lambda ev: ev.has_tag('featured') or ev.end >= datetime.date.today(), event_list)
     return featured
 
 
