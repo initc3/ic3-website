@@ -35,6 +35,13 @@ We are thankful for the generous sponsorship of this Boot Camp by Chain, Cisco, 
   </div>
 </div>
 
+## COMMENTS from PARTICIPANTS
+
+"The Boot Camp was excellent! It was a unique and awesome experience to spend the week working alongside, and learning from, renowned blockchain researchers and so many experts from the Ethereum community." – Brian Schroeder, Blockchain Engineer, J.P. Morgan
+
+
+"Writing secure smart contracts in Solidity, finding ERC20 token exploits, and learning new professional security auditing techniques were all very insightful activities. I wish we had extra time in the day to work on more than one project! The Boot Camp was great!" – Mark Barrasso, Software Engineer, Cisco
+
 
 ## PHOTOS from the AWARDS CELEBRATION DINNER
 
@@ -43,7 +50,7 @@ We are thankful for the generous sponsorship of this Boot Camp by Chain, Cisco, 
 <div class="ui piled segment">
     <img class="ui centered image" src="../images/events/eth-bootcamp-17/1.png" alt="" />
     <div class="ui bottom attached message">
-    Everett Hildenbrandt (left), UIUC PhD student accepts first place award for the project he led “Analysis Tools on K Semantics of EVM”.  Presenting the award, left to right, are Prof. Andrew Miller, IC3 Associate Director, Ming Chan, Ethereum Foundation Executive Director, and Vitalik Buterin, Ethereum Chief Scientist.  Jonathan Levin, Hyperledger Foundation, (in the background between Ming and Vitalik) enjoys Andrew’s humor, along with the rest of the crowd.
+    Everett Hildenbrandt (left), UIUC PhD student accepts first place award for the project he led “Analysis Tools on K Semantics of EVM”.  Presenting the award, left to right, are Prof. Andrew Miller, IC3 Associate Director, Ming Chan, Ethereum Foundation Executive Director, and Vitalik Buterin, Ethereum Chief Scientist. Jonathan Levi, the creator of Hacera, (in the background between Ming and Vitalik) enjoys Andrew’s humor, along with the rest of the crowd.
     </div>  
 </div>
 
@@ -77,7 +84,7 @@ We are thankful for the generous sponsorship of this Boot Camp by Chain, Cisco, 
 - 3rd prize:  Undisclosed quantity of UET (Useless Ethereum Tokens). “ETH-ETC Peace Relay” - Loi Luu (NUS) and Nate Rush (Berkeley).
 - Honorable Mention: Undisclosed quantity of UET (Useless Ethereum Tokens). “Frontrunning Bancor” - Haseeb Qureshi and Preethi Kasireddy.
 
-One team member from each of these four teams receives a conference pass and travel grant to present at DevCon3 in Cancun!
+__One team member from each of these four teams receives a conference pass and travel grant to present at DevCon3 in Cancun!__
 
 ## OTHER BOOT CAMP PROJECTS
 
