@@ -4,5 +4,5 @@ site:
 test:
 	python main.py
 
-deploy: site 
+deploy: site
 	aws s3 sync output s3://www.initc3.org --delete

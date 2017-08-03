@@ -2,17 +2,16 @@
 
 <div class="ui center aligned basic segment">
   <div class="ui horizontal divider"> Sponsor Members </div>
-  <a href="http://chain.com/" class="sponsor image"> <img src="images/partners/chain-logo.png"> </a>
-</div>
-<div class="ui center aligned basic segment">
-  <div class="ui horizontal divider"> Regular Members </div>
-  <div class="ui four column centered stackable grid">
-  <div class="row">
-    <div class="column"> <a href="http://digitalasset.com/" class="sponsor image"> <img src="images/partners/da.png"> </a> </div>
-    <div class="column"> <a href="http://ibm.com/" class="sponsor image"> <img src="images/partners/ibm.png"> </a> </div>
-    <div class="column"> <a href="http://intel.com/" class="sponsor image"> <img src="images/partners/intel.png"> </a> </div>
-    <div class="column"> <a href="https://www.fidelity.com/" class="sponsor image"> <img src="images/partners/fidelity.png"> </a> </div>
+  <div class="ui small images">
+    <img class="ui image sponsor logo" id="chain" src="images/partners/chain-logo.png">
   </div>
+
+  <div class="ui horizontal divider"> Regular Members </div>
+  <div class="ui small images">
+    <img class="ui image sponsor logo" id="digitalasset" src="images/partners/da.png">
+    <img class="ui image sponsor logo" id="ibm" src="images/partners/ibm.png">
+    <img class="ui image sponsor logo" id="intel" src="images/partners/intel.svg">
+    <img class="ui image sponsor logo" id="fidelitylabs" src="images/partners/fidelity.png">
   </div>
 </div>
 

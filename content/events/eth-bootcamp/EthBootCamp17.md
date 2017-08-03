@@ -10,13 +10,31 @@ tags:
   - longlive
 ---
 
-IC3 and the Ethereum Foundation Conducted our Second Immersive Weeklong Coding and Learning Experience in Blockchains and Smart Contracts with World-leading Professors, Open Source Developers and Students. [See a summary of the 2016 Boot Camp here]((http://www.initc3.org/events/2016-07-20-IC3-Ethereum-Crypto-Boot-Camp-and-Workshop-at-Cornell-University.html)).
+IC3 and the Ethereum Foundation Conducted our Second Immersive Weeklong Coding and Learning Experience in Blockchains and Smart Contracts with World-leading Professors, Open Source Developers and Students. [See a summary of the 2016 Boot Camp here](http://www.initc3.org/events/2016-07-20-IC3-Ethereum-Crypto-Boot-Camp-and-Workshop-at-Cornell-University.html).
 
 ## SPONSORS
 
 We are thankful for the generous sponsorship of this Boot Camp by Chain, Cisco, Fidelity Labs, JP Morgan & Chase, Microsoft, Neural Capital, Tendermint, 21.co and Yellowstone Pathology.
 
-<img class="ui centered big image" src="../images/events/eth-bootcamp-17/sponsors.png" alt="" />
+<div class="ui center aligned basic segment">
+  <div class="ui medium images">
+    <img class="ui image logo" id="chain" src="../images/events/eth-bootcamp-17/Chain.png" />
+    <img class="ui image logo" id="fidelitylabs" src="../images/events/eth-bootcamp-17/FidelityLabs.jpg" />
+  </div>
+
+  <div class="ui medium images">
+    <img class="ui image logo" id="microsoft" src="../images/events/eth-bootcamp-17/Microsoft.jpg" />
+    <img class="ui image logo" id="jpmorganchase" src="../images/events/eth-bootcamp-17/JPMorgan.jpg" />
+  </div>
+
+  <div class="ui small images">
+    <img class="ui image logo" id="cisco" src="../images/events/eth-bootcamp-17/CISCO.jpg" />
+    <img class="ui image logo" id="tendermint" src="../images/events/eth-bootcamp-17/Tendermint.png" />
+    <img class="ui image logo" id="21co" src="../images/events/eth-bootcamp-17/21.co.png" />
+    <img class="ui image logo" id="neuralcapital" src="../images/events/eth-bootcamp-17/neuralcapital.png" />
+  </div>
+</div>
+
 
 ## PHOTOS from the AWARDS CELEBRATION DINNER
 
@@ -39,7 +57,7 @@ We are thankful for the generous sponsorship of this Boot Camp by Chain, Cisco, 
 <div class="ui piled segment">
     <img class="ui centered image" src="../images/events/eth-bootcamp-17/3.png" alt="" />
     <div class="ui bottom attached message">
-    Jim Ballingall, IC3 Executive Director and Prof. Andrew Miller, IC3 Associate Director thank the Ethereum Foundation, the Industry Sponsors, and the fantastic students from around the world who attended the 2017 Boot Camp.
+    Jim Ballingall, IC3 Executive Director and Prof. Andrew Miller, IC3 Associate Director thank the Ethereum Foundation, the Industry Sponsors, and the amazing blockchain engineers, developers, architects and students from around the world who attended the 2017 Boot Camp.
     </div>  
 </div>
 

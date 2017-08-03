@@ -243,8 +243,9 @@ blockquote p {
 }
 
 /* partner page */
-.sponsor.image > img {
+img.sponsor {
   height: 50px !important;
+  width: auto !important;
 }
 
 .press-picture {
