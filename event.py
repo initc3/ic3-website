@@ -5,6 +5,7 @@ import frontmatter
 import datetime
 from operator import attrgetter
 import fnmatch
+from dateutil import parser as dateparser
 
 from base import Engine
 
@@ -87,6 +88,15 @@ class Event:
         if "tags" in front_matter and len(front_matter[Metadata.TAGS]) > 0:
             self.tags = front_matter[Metadata.TAGS]
 
+        # validate date format
+        def parse_if_not_date_obj(obj):
+            if not isinstance(obj, datetime.date):
+                return dateparser.parse(obj).date()
+            else:
+                return obj
+        self.start = parse_if_not_date_obj(self.start)
+        self.end = parse_if_not_date_obj(self.end)
+
         self.date_str = self._format_date()
 
     def _format_date(self):
@@ -104,7 +114,7 @@ class Event:
             date = '%s%s' % (cal_icon, s.strftime(full_format))
             return date
 
-        if s.month == s.month:
+        if s.month == t.month and s.year == t.year:
             date = '%s%s %d-%d, %d' % (cal_icon, s.strftime("%B"), s.day, t.day, t.year)
             return date
 
@@ -174,6 +184,8 @@ class Event:
         r = {}
         for f in Event.ALL_FIELDS():
             r[f] = getattr(self, f)
+
+        r['date_str'] = getattr(self, 'date_str')
 
         return r
 
