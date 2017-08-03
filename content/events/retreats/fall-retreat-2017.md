@@ -16,7 +16,7 @@ There will be ample time for networking and informal discussions. The day will c
 
 The agenda is posted below. Please check back later for presentation info and other updates.  
 
-IC3 faculty, students and [Industry Members](initc3.org/partners.html) are invited to [apply for registration](https://docs.google.com/forms/d/e/1FAIpQLSc3HkzbjmObtFTv9EhAx2Q-CIFruWrhzs3t080tYXSFp9L5Ew/viewform) here for the Retreat on October 5, as well as for the Cornell Tech [Blockchains Workshop](http://events.cornell.edu/event/Cornell-Tech-Blockchains-Workshop) on October 6.
+IC3 faculty, students and [Industry Members](http://initc3.org/partners.html) are invited to [apply for registration](https://docs.google.com/forms/d/e/1FAIpQLSc3HkzbjmObtFTv9EhAx2Q-CIFruWrhzs3t080tYXSFp9L5Ew/viewform) here for the Retreat on October 5, as well as for the Cornell Tech [Blockchains Workshop](http://events.cornell.edu/event/Cornell-Tech-Blockchains-Workshop) on October 6.
 
 ## Fall Retreat Schedule – Thursday October 5
 
