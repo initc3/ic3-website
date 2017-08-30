@@ -246,6 +246,7 @@ blockquote p {
 img.sponsor {
   height: 50px !important;
   width: auto !important;
+  margin: 10px 20px !important;
 }
 
 .press-picture {

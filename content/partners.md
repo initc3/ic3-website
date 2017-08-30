@@ -7,12 +7,12 @@
   </div>
 
   <div class="ui horizontal divider"> Regular Members </div>
-  <div class="ui medium images">
+  <div class="ui small images">
     <img class="ui image sponsor logo" id="microsoft" src="images/partners/ms.png">
-    <img class="ui image sponsor logo" id="intel" src="images/partners/intel.png">
+    <img class="ui image sponsor logo" style="height:70px !important;" id="intel" src="images/partners/intel.png">
     <img class="ui image sponsor logo" id="fidelitylabs" src="images/partners/fidelity.png">
   </div>
-  <div class="ui medium images">
+  <div class="ui small images">
   <img class="ui image sponsor logo" id="digitalasset" src="images/partners/da.png">
   <img class="ui image sponsor logo" id="ibm" src="images/partners/ibm.png">
   </div>
