@@ -7,16 +7,18 @@
   </div>
 
   <div class="ui horizontal divider"> Regular Members </div>
-  <div class="ui small images">
-    <img class="ui image sponsor logo" id="digitalasset" src="images/partners/da.png">
-    <img class="ui image sponsor logo" id="ibm" src="images/partners/ibm.png">
+  <div class="ui medium images">
+    <img class="ui image sponsor logo" id="microsoft" src="images/partners/ms.png">
     <img class="ui image sponsor logo" id="intel" src="images/partners/intel.png">
     <img class="ui image sponsor logo" id="fidelitylabs" src="images/partners/fidelity.png">
+  </div>
+  <div class="ui medium images">
+  <img class="ui image sponsor logo" id="digitalasset" src="images/partners/da.png">
+  <img class="ui image sponsor logo" id="ibm" src="images/partners/ibm.png">
   </div>
 </div>
 
 The National Science Foundation awarded IC3 a $3M 3-year grant in 2015. We seek partners in industry, law and commerce to sponsor and collaborate with us in our mission to deliver powerful, principled, and practical innovations.
-
 
 ## Annual Membership Program Fees and Benefits
 
