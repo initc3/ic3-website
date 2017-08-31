@@ -1,4 +1,7 @@
-# Industry Partners
+# Industry Partners and Donors
+
+IC3 acknowledges and appreciates a generous gift from the VMware
+Foundation to advance the science and technology of blockchains.
 
 <div class="ui center aligned basic segment">
   <div class="ui horizontal divider"> Sponsor Members </div>
