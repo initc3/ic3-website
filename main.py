@@ -29,7 +29,7 @@ e = Engine(deploy=options.deploy)
 def index():
     events_toshow = event.get_featured_events(e)
 
-    featured_press = ic3press.get_featured_press()[:3]
+    featured_press = ic3press.get_featured_press()
 
     if options.deploy or options.fetchall:
         blogs, _ = fetchall.fetchall(5)

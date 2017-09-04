@@ -218,6 +218,10 @@ def get_upcoming_events(e):
 
 
 def get_featured_events(e):
+    """
+    :param e: template engine needed here [why? I forgot]
+    :return: a list of upcoming or featured events
+    """
     print 'Getting featured events'
     event_list = get_event_list(e)
     featured = filter(lambda ev: ev.has_tag('featured') or ev.end >= datetime.date.today(), event_list)
