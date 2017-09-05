@@ -172,13 +172,14 @@ class Event:
             raise Exception("invalid tag: %s" % tag)
         return self.tags and tag in self.tags
 
-    def has_expired(self):
+    def has_expired(self, expire_in_days=15):
         if self.has_tag(Tags.LONGLIVE):
-            return False
+            # extend the life time by a week
+            expire_in_days += 7
 
         today = datetime.date.today()
         tdiff = today - self.end
-        return tdiff.days >= 7
+        return tdiff.days >= expire_in_days
 
     def to_dict(self):
         r = {}
@@ -217,14 +218,16 @@ def get_upcoming_events(e):
     return ongoing
 
 
-def get_featured_events(e):
+def get_featured_events(e, expire_in_days=15):
     """
     :param e: template engine needed here [why? I forgot]
     :return: a list of upcoming or featured events
     """
     print 'Getting featured events'
     event_list = get_event_list(e)
-    featured = filter(lambda ev: ev.has_tag('featured') or ev.end >= datetime.date.today(), event_list)
+
+    today = datetime.datetime.today()
+    featured = filter(lambda ev: ev.has_tag('featured') or ev.end >= today, event_list)
     return featured
 
 

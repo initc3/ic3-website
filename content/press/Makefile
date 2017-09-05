@@ -1,13 +1,13 @@
 all: pressroll-all.csv pressroll-featured.csv
 
 pressroll-all.csv: pressroll.csv Makefile
-	cat pressroll.csv | sed 1,2d | grep IC3 > pressroll-all.csv
+	cat pressroll.csv | sed 1,2d > pressroll-all.csv
 
 pressroll-featured.csv: pressroll.csv Makefile
-	cat pressroll.csv | sed 1,2d | grep IC3 | grep feature > pressroll-featured.csv
+	cat pressroll.csv | sed 1,2d | grep feature > pressroll-featured.csv
 
 pressroll.csv: pressroll.ods Makefile
-	unoconv -f csv -e FilterOptions="59,34,0,1" $< 
+	unoconv -f csv -e FilterOptions="59,34,0,1" $<
 
 clean:
 	rm -f *~
