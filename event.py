@@ -226,7 +226,7 @@ def get_featured_events(e, expire_in_days=15):
     print 'Getting featured events'
     event_list = get_event_list(e)
 
-    today = datetime.datetime.today()
+    today = datetime.date.today()
     featured = filter(lambda ev: ev.has_tag('featured') or ev.end >= today, event_list)
     return featured
 
