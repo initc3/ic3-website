@@ -4,8 +4,6 @@ location: Interactive Video Broadcast from Cornell Tech, Roosevelt Island, NYC
 start: 2017-08-22
 end: 2017-08-22
 summary: 'Professor Ari Juels, IC3 co-Director will present "Solidus: Confidential Distributed Ledger Transactions via PVORM". Registration is open for IC3 members.'
-tags:
-  - featured
 ---
 
 Time: Aug 22, 2017, 2-3pm EDT. IC3 members [apply here](https://docs.google.com/forms/d/e/1FAIpQLSdYwvouF4V6hoocwzdpRjoxQm2NH1ab7e3HyWmkcAQMsVqIlg/viewform).
