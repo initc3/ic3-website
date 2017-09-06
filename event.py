@@ -41,6 +41,7 @@ class Metadata:
     URL = "url"
     TAGS = "tags"
 
+
 class Event:
     @staticmethod
     def REQUIRED_FIELDS():
@@ -66,6 +67,9 @@ class Event:
         # generated
         self.date_str = None
         self.output_path = None
+
+        # XXX: hardcoded :/
+        self.type = 'event'
 
     def _parse_metadata(self, front_matter):
         # mandatory fields
@@ -172,7 +176,7 @@ class Event:
             raise Exception("invalid tag: %s" % tag)
         return self.tags and tag in self.tags
 
-    def has_expired(self, expire_in_days=15):
+    def has_expired(self, expire_in_days):
         if self.has_tag(Tags.LONGLIVE):
             # extend the life time by a week
             expire_in_days += 7
@@ -191,7 +195,7 @@ class Event:
         return r
 
 
-def get_event_list(env, include_expired=False):
+def get_event_list(env, expire_in_days, include_expired=False):
     events = []
 
     markdown_files = _recursive_glob(CONTENT_DIR, '*.md')
@@ -203,36 +207,36 @@ def get_event_list(env, include_expired=False):
         events.append(e)
 
     if not include_expired:
-        events = filter(lambda ev: not ev.has_expired(), events)
+        events = filter(lambda ev: not ev.has_expired(expire_in_days=expire_in_days), events)
 
     event_metadata = sorted(events, key=attrgetter('start'), reverse=True)
 
     return event_metadata
 
 
-def get_upcoming_events(e):
+def get_upcoming_events(e, expire_in_days):
     print 'Getting upcoming events'
-    event_list = get_event_list(e)
+    event_list = get_event_list(e, expire_in_days=expire_in_days, include_expired=False)
     ongoing = filter(lambda x: x.end >= datetime.date.today(), event_list)
 
     return ongoing
 
 
-def get_featured_events(e, expire_in_days=15):
+def get_featured_events(e, expire_in_days):
     """
     :param e: template engine needed here [why? I forgot]
     :return: a list of upcoming or featured events
     """
     print 'Getting featured events'
-    event_list = get_event_list(e)
+    event_list = get_event_list(e, expire_in_days)
 
     today = datetime.date.today()
     featured = filter(lambda ev: ev.has_tag('featured') or ev.end >= today, event_list)
     return featured
 
 
-def write_event_page(e):
-    event_list = get_event_list(e, include_expired=True)
+def write_event_list_page(e, expire_in_days):
+    event_list = get_event_list(e, expire_in_days, include_expired=True)
 
     ongoing = filter(lambda x: x.end >= datetime.date.today() and (not x.has_tag(Tags.NOLIST)), event_list)
     past = filter(lambda x: x.end < datetime.date.today(), event_list)

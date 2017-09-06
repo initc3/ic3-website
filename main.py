@@ -26,9 +26,25 @@ OUTPUT_DIR = os.path.join(CWD, 'output')
 e = Engine(deploy=options.deploy)
 
 
+EVENT_EXPIRE_IN_DAYS = 20
+PRESS_EXPIRE_IN_DAYS = 45
+
+
 def index():
-    events_toshow = event.get_featured_events(e)
-    featured_press = ic3press.get_featured_press(expire_in_days=45)
+    events_toshow = event.get_featured_events(e, expire_in_days=EVENT_EXPIRE_IN_DAYS)
+    featured_press = ic3press.get_featured_press(expire_in_days=PRESS_EXPIRE_IN_DAYS)
+
+    items = events_toshow + featured_press
+
+    def _get_date(item):
+        if hasattr(item, 'date'):
+            return item.date
+        elif hasattr(item, 'end'):
+            return item.end
+        else:
+            raise Exception('wrong item')
+
+    items = sorted(items, key=_get_date, reverse=True)
 
     if options.deploy or options.fetchall:
         blogs, _ = fetchall.fetchall(5)
@@ -39,8 +55,7 @@ def index():
         ev.write_file(e)
 
     e.render_and_write(e.env.get_template('index.html'),
-                       dict(events_toshow=events_toshow,
-                            featured_press=featured_press,
+                       dict(items=items,
                             blogs=blogs),
                        e.calc_output_fullpath('index.html'))
 
@@ -147,7 +162,7 @@ def press():
     temp = e.env.get_template('press.html')
 
     all_press = ic3press.get_all_press()
-    featured_press = ic3press.get_featured_press()
+    featured_press = ic3press.get_featured_press(expire_in_days=PRESS_EXPIRE_IN_DAYS)
 
     breadcrumb = [{'name': 'Press', 'url': 'press.html'}]
 
@@ -227,7 +242,7 @@ if __name__ == '__main__':
     press()
     page_not_found()
     jobs()
-    event.write_event_page(e)
+    event.write_event_list_page(e, EVENT_EXPIRE_IN_DAYS)
 
     try:
         shutil.copytree('static', join(OUTPUT_DIR, 'static'))
