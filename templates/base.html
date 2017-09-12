@@ -79,22 +79,8 @@
     <!-- <link rel="stylesheet" href="{{ SITE_ROOT }}/static/css/font-awesome.min.css"> -->
     <script src="https://use.fontawesome.com/6fa26d500f.js"></script>
     <script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+    <script src="{{ SITE_ROOT }}/static/js/main.js"></script>
     <script async src="{{ SITE_ROOT }}/static/css/semantic/semantic.min.js"></script>
-    <script>
-        $(document).ready(function () {
-            $('.more').css('display', 'none');
-
-            $('.showmore').click(function () {
-                $(this).hide();
-                $(this).siblings('.more').transition('slide down');
-            });
-
-            $('.showless').click(function () {
-                $(this).parents('.more').transition('slide down');
-                $(this).parents('.more').siblings('.showmore').show();
-            })
-        });
-    </script>
 	<script>
 	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
