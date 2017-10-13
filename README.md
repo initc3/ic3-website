@@ -25,7 +25,7 @@ Updating contents -- the easy way
 ----------------------
 
 1. Clone the repository
-2. Apply whatever editing you want to files under the `content` directory (note that renaming files or creating new files are yet supported, and would fail the building.)
+2. Apply whatever editing you want to files under the `content` directory (note that renaming files or creating new files are not yet supported, and would fail the building.)
 3. Commit the changes and `git push`
 4. Give Travis-CI 2 minutes to finish deployment and you should find the website updated.
 
