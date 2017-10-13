@@ -1,6 +1,6 @@
 Preprints
 =========
-
+-	E. Hildenbrandt, M. Saxena, X. Zhu, N. Rodrigues, P. Daian, D. Guth and G. Rosu. [KEVM: A Complete Semantics of the Ethereum Virtual Machine](https://www.ideals.illinois.edu/bitstream/handle/2142/97207/hildenbrandt-saxena-zhu-rodrigues-guth-daian-rosu-2017-tr_0818.pdf).
 -   R. Pass and E. Shi. [FruitChains: A Fair Blockchain](https://ia.cr/2016/916)
 -   R. Pass and E. Shi. [Hybrid Consensus: Efficient Consensus in the Permissionless Model](https://ia.cr/2016/917)
 -   R. Pass and E. Shi. [The Sleepy Model of Consensus](https://ia.cr/2016/918)
