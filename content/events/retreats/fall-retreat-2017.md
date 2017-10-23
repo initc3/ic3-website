@@ -10,7 +10,7 @@ tags:
 
 IC3 faculty, students and industry members gather twice per year to discuss the major technical challenges and innovative solutions to widespread blockchain adoption.
 
-![IC3 group photo](../../../images/events/retreat-NYC-2017/ic3_group_photo_oct_6.jpg)
+![IC3 group photo](../images/events/retreat-NYC-2017/ic3_group_photo_oct_6.jpg)
 
 Several of the attendees gathered for a group photo long after the event ended on Oct 6. Photo includes 
 speakers Jonathan Levin, Chainanalysis (center of back row), Prof. Emin Gun Sirer, and Prof.
@@ -23,12 +23,12 @@ Oct 6 was open to the public, part of a series of inaugural Cornell Tech events 
 
 Oct 5 was for IC3 members only. Note: [IC3 offers two levels of membership](http://www.initc3.org/partners.html): Sponsor Member fees are $450k per year. Regular members fees are $150k per year. 
 
-![Aerial photo of Cornell Tech campus](../../../images/events/retreat-NYC-2017/cornell_tech_campus.jpg)
+![Aerial photo of Cornell Tech campus](../images/events/retreat-NYC-2017/cornell_tech_campus.jpg)
 Aerial photo of Cornell Tech campus by Iwan Baan.
 
-![Retreat Fall 2017 Juels](../../../images/events/retreat-NYC-2017/retreat_fall_2017_juels.jpg)
+![Retreat Fall 2017 Juels](../images/events/retreat-NYC-2017/retreat_fall_2017_juels.jpg)
 
-![Aerial photo of Cornell Tech campus](../../../images/events/retreat-NYC-2017/retreat_fall_2017_industry.jpg)
+![Aerial photo of Cornell Tech campus](../images/events/retreat-NYC-2017/retreat_fall_2017_industry.jpg)
 
 Prof. Ari Juels opens the Retreat on October 5.           Dan Middleton, Intel, shares perspectives on
       Professors Ittay Eyal and Andrew Miller are in           new directions and opportunities in academic 
