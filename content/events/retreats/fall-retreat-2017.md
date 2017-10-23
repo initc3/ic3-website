@@ -10,12 +10,16 @@ tags:
 
 IC3 faculty, students and industry members gather twice per year to discuss the major technical challenges and innovative solutions to widespread blockchain adoption.
 
-<img class="ui centered large image" src="../images/events/retreat-NYC-2017/ic3_group_photo_oct_6.jpg"></img>
+<div class="ui segments">
+	<div class="ui piled segment">
+	    <img class="ui centered image" src="../images/events/retreat-NYC-2017/ic3_group_photo_oct_6.jpg" alt="" />
+	    <div class="ui bottom attached message">
+	    Several of the attendees gathered for a group photo long after the event ended on Oct 6. Photo includes speakers Jonathan Levin, Chainanalysis (center of back row), Prof. Emin Gun Sirer, and Prof. Andrew Miller (both to Jonathan’s left). Other speakers are Prof. Joe Bonneau (second from the right in back row), and Brian Schroeder, JP Morgan (front row, between Professors Sirer and Miller). 
+	    </div>  
+	</div>
+</div> <!-- end of segments -->
 
-Several of the attendees gathered for a group photo long after the event ended on Oct 6. Photo includes 
-speakers Jonathan Levin, Chainanalysis (center of back row), Prof. Emin Gun Sirer, and Prof.
-Andrew Miller (both to Jonathan’s left). Other speakers are Prof. Joe Bonneau (second from the right in 
-back row), and Brian Schroeder, JP Morgan (front row, between Professors Sirer and Miller). 
+
 
 The events were conducted in Cornell Tech’s new campus on Roosevelt Island, just recently opening its doors in August 2017.  
 
@@ -23,19 +27,21 @@ Oct 6 was open to the public, part of a series of inaugural Cornell Tech events 
 
 Oct 5 was for IC3 members only. Note: [IC3 offers two levels of membership](http://www.initc3.org/partners.html): Sponsor Member fees are $450k per year. Regular members fees are $150k per year. 
 
-<img class="ui centered large image" src="../images/events/retreat-NYC-2017/cornell_tech_campus.jpg"></img>
-
-Aerial photo of Cornell Tech campus by Iwan Baan.
-
-<img class="ui centered large image" src="../images/events/retreat-NYC-2017/retreat_fall_2017_juels.jpg"></img>
-
-<img class="ui centered large image" src="../images/events/retreat-NYC-2017/retreat_fall_2017_industry.jpg"></img>
-
-Prof. Ari Juels opens the Retreat on October 5.           Dan Middleton, Intel, shares perspectives on
-      Professors Ittay Eyal and Andrew Miller are in           new directions and opportunities in academic 
-      the second and third row respectively in the               research in cryprocurrencies and contracts.
-      upper right of photo.
-
+<div class="ui segments">
+	<div class="ui piled segment">
+	    <img class="ui centered image" src="../images/events/retreat-NYC-2017/cornell_tech_campus.jpg" alt="" />
+	    <div class="ui bottom attached message">
+	    	Aerial photo of Cornell Tech campus by Iwan Baan. 
+	    </div>  
+	</div>
+	<div class="ui piled segment">
+	    <img class="ui centered image" src="../images/events/retreat-NYC-2017/retreat_fall_2017_juels.jpg" alt="" />
+	    <img class="ui centered image" src="../images/events/retreat-NYC-2017/retreat_fall_2017_industry.jpg" alt="" />
+	    <div class="ui bottom attached message">
+	    Prof. Ari Juels opens the Retreat on October 5. Dan Middleton, Intel, shares perspectives on Professors Ittay Eyal and Andrew Miller are in new directions and opportunities in academic the second and third row respectively in the research in cryprocurrencies and contracts. Upper right of photo. 
+	    </div>  
+	</div>
+</div> 
 
 
 # Schedule
