@@ -18,6 +18,7 @@ Foundation to advance the science and technology of blockchains.
   <div class="ui small images">
   <img class="ui image sponsor logo" id="digitalasset" src="images/partners/da.png">
   <img class="ui image sponsor logo" id="ibm" src="images/partners/ibm.png">
+  <img class="ui image sponsor logo" id="jpm" src="images/partners/jpm.png">
   </div>
 </div>
 
