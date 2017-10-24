@@ -36,9 +36,12 @@ Oct 5 was for IC3 members only. Note: [IC3 offers two levels of membership](http
 	</div>
 	<div class="ui piled segment">
 	    <img class="ui centered image" src="../images/events/retreat-NYC-2017/retreat_fall_2017_juels.jpg" alt="" />
+	    <div class="ui bottom attached message">
+	    Prof. Ari Juels, IC3 co-Director opens the Retreat on October 5. Professors Ittay Eyal and Andrew Miller are in the second and third row respectively in the upper right of the photo.
+	    </div> 
 	    <img class="ui centered image" src="../images/events/retreat-NYC-2017/retreat_fall_2017_industry.jpg" alt="" />
 	    <div class="ui bottom attached message">
-	    Prof. Ari Juels opens the Retreat on October 5. Dan Middleton, Intel, shares perspectives on Professors Ittay Eyal and Andrew Miller are in new directions and opportunities in academic the second and third row respectively in the research in cryprocurrencies and contracts. Upper right of photo. 
+	    Dan Middleton, Intel, shares perspectives on new directions and opportunities in academic research for cryprocurrencies and contracts, during the Industry partner section. After Dan, we heard from Hadley Stern (Fidelity), Shaul Kfir (Digital Asset) Nik Gupta (IBM), Patrick Nielsen (JP Morgan), Michael DiPetrillo (VMware), and Shaz Qadeer (Microsoft).
 	    </div>  
 	</div>
 </div> 

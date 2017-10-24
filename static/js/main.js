@@ -14,7 +14,8 @@
    'neuralcapital': 'http://www.neuralcapital.com/',
    'digitalasset': 'http://digitalasset.com/',
    'intel': 'http://intel.com',
-   'ibm': 'http://ibm.com'
+   'ibm': 'http://ibm.com',
+   'jpm': 'https://www.jpmorgan.com/country/US/en/jpmorgan'
  };
 
 $(document).ready(function() {
