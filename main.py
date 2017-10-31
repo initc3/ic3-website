@@ -15,8 +15,8 @@ import fetchall
 import press as ic3press
 
 parser = OptionParser()
-parser.add_option("-d", "--deploy", action="store_true", dest="deploy", help="will compress stuff", default=False)
-parser.add_option("-f", "--fetchall", action="store_true", dest="fetchall", help="will fetch blogs from Gun's blog",
+parser.add_option("-d", "--deploy", action="store_true", dest="deploy", help="trigger compression of images", default=False)
+parser.add_option("-f", "--fetchall", action="store_true", dest="fetchall", help="trigger fetching blogs from HD",
                   default=False)
 (options, args) = parser.parse_args()
 
@@ -35,7 +35,7 @@ def index():
 
     if len(events_toshow) < 5:
         # if we don't have enought events, fill the space with news
-        news_expire_in_days = 180
+        news_expire_in_days = 90
     else:
         news_expire_in_days = PRESS_EXPIRE_IN_DAYS
 
