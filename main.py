@@ -39,7 +39,8 @@ def index():
     else:
         news_expire_in_days = PRESS_EXPIRE_IN_DAYS
 
-    featured_press = ic3press.get_featured_press(expire_in_days=news_expire_in_days)
+    # only display first five
+    featured_press = ic3press.get_featured_press(expire_in_days=news_expire_in_days)[:5]
 
     items = events_toshow + featured_press
 
