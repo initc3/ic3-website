@@ -26,13 +26,20 @@ OUTPUT_DIR = os.path.join(CWD, 'output')
 e = Engine(deploy=options.deploy)
 
 
-EVENT_EXPIRE_IN_DAYS = 20
+EVENT_EXPIRE_IN_DAYS = 45
 PRESS_EXPIRE_IN_DAYS = 45
 
 
 def index():
     events_toshow = event.get_featured_events(e, expire_in_days=EVENT_EXPIRE_IN_DAYS)
-    featured_press = ic3press.get_featured_press(expire_in_days=PRESS_EXPIRE_IN_DAYS)
+
+    if len(events_toshow) < 5:
+        # if we don't have enought events, fill the space with news
+        news_expire_in_days = 180
+    else:
+        news_expire_in_days = PRESS_EXPIRE_IN_DAYS
+
+    featured_press = ic3press.get_featured_press(expire_in_days=news_expire_in_days)
 
     items = events_toshow + featured_press
 
@@ -162,7 +169,7 @@ def press():
     temp = e.env.get_template('press.html')
 
     all_press = ic3press.get_all_press()
-    featured_press = ic3press.get_featured_press(expire_in_days=PRESS_EXPIRE_IN_DAYS)
+    featured_press = ic3press.get_featured_press(expire_in_days=180)
 
     breadcrumb = [{'name': 'Press', 'url': 'press.html'}]
 
