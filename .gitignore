@@ -6,5 +6,6 @@ venv/
 output
 node_modules
 
+*.pages
 *.pyc
 .idea
