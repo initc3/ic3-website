@@ -32,18 +32,9 @@ PRESS_EXPIRE_IN_DAYS = 45
 
 def index():
     events_toshow = event.get_featured_events(e, expire_in_days=EVENT_EXPIRE_IN_DAYS)
-
-    if len(events_toshow) < 5:
-        # if we don't have enought events, fill the space with news
-        news_expire_in_days = 90
-    else:
-        news_expire_in_days = PRESS_EXPIRE_IN_DAYS
-
-    # only display first five
-    featured_press = ic3press.get_featured_press(expire_in_days=news_expire_in_days)[:5]
+    featured_press = ic3press.get_featured_press(expire_in_days=PRESS_EXPIRE_IN_DAYS)
 
     items = events_toshow + featured_press
-
     def _get_date(item):
         if hasattr(item, 'date'):
             return item.date
@@ -52,7 +43,9 @@ def index():
         else:
             raise Exception('wrong item')
 
-    items = sorted(items, key=_get_date, reverse=True)
+    # sort events and press together by date
+    # only display first eight items
+    items = sorted(items, key=_get_date, reverse=True)[:6]
 
     if options.deploy or options.fetchall:
         blogs, _ = fetchall.fetchall(5)
