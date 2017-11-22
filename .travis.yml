@@ -2,17 +2,17 @@ language: python
 cache: pip
 python: 2.7.10
 install:
-- pip install -r requirements.txt
+  - 'pip install -r requirements.txt'
 script:
-- python main.py -d
+  - 'python main.py -d'
 after_success:
-- chmod u+x compress.sh && ./compress.sh
+  - 'chmod u+x compress.sh && ./compress.sh'
 deploy:
-  matrix:
-  - provider: s3
+  -
+    provider: s3
     access_key_id: AKIAJFO2A5GIJJW2A5SA
     secret_access_key:
-        secure: TSgdIAfScqjM7GpDE81rrgz3d1pOPdC4m6lSDrfKbzqfS68GsCquZBDLr5xgjpkWIFB6EmR02WE71svPs6+9OmH2AViVm4Hbv/ygmZJusBaOSMRsxJc+I9csZwsSOEZHBCZeS2JWyi/wPL18Xar3g4laNDn033OBOsc/IgyBScnRPbbfRI2j/yZYpdw4jkfNDk/FH9TdXMMSK3cbrenR0MHyGTgTLzHngIHX7Mnzp+y/CzqNkLdaHqhbP6x7H3CyEz5dqiJ9fvrbiR5miEI1LgBZ/eqyEB/qztGn6/e6ziEWiEWeVLJaCqM3i6xg5lbidqgnurnThQXLCtwxUWUEbHPLtOZASEgax+M14NaT83qwLAPxWrkHuI7vwjzUtTTwpcGhosxd0jsvwkQ+aORnpXixrSeFJw4leL55E/GfoFjHL5q8Pp7uo+4WdscU4yDi74mPvFmaauqptvitzhRMa2fc9ZXyLTMGk5mFJdJp41EcITJgyj71aH18TsZopQbBjA9O3UZGZ1vamcrcdWGECI93KSJukK90xN2bo9Bxk6yWIUinP9UKWrUWcXHiZqKOUOGiyGDXnm+/rucvyoCx27oHBXh0EqI5i7v1cFQsDotC87ehhQsDzhSPYfWv58gnsTyZziv6punnL+K14WMi2O3a3qfK1Atq7/YJ4WTzdCM=
+      secure: TSgdIAfScqjM7GpDE81rrgz3d1pOPdC4m6lSDrfKbzqfS68GsCquZBDLr5xgjpkWIFB6EmR02WE71svPs6+9OmH2AViVm4Hbv/ygmZJusBaOSMRsxJc+I9csZwsSOEZHBCZeS2JWyi/wPL18Xar3g4laNDn033OBOsc/IgyBScnRPbbfRI2j/yZYpdw4jkfNDk/FH9TdXMMSK3cbrenR0MHyGTgTLzHngIHX7Mnzp+y/CzqNkLdaHqhbP6x7H3CyEz5dqiJ9fvrbiR5miEI1LgBZ/eqyEB/qztGn6/e6ziEWiEWeVLJaCqM3i6xg5lbidqgnurnThQXLCtwxUWUEbHPLtOZASEgax+M14NaT83qwLAPxWrkHuI7vwjzUtTTwpcGhosxd0jsvwkQ+aORnpXixrSeFJw4leL55E/GfoFjHL5q8Pp7uo+4WdscU4yDi74mPvFmaauqptvitzhRMa2fc9ZXyLTMGk5mFJdJp41EcITJgyj71aH18TsZopQbBjA9O3UZGZ1vamcrcdWGECI93KSJukK90xN2bo9Bxk6yWIUinP9UKWrUWcXHiZqKOUOGiyGDXnm+/rucvyoCx27oHBXh0EqI5i7v1cFQsDotC87ehhQsDzhSPYfWv58gnsTyZziv6punnL+K14WMi2O3a3qfK1Atq7/YJ4WTzdCM=
     bucket: www.initc3.org
     region: us-east-1
     skip_cleanup: true
@@ -25,5 +25,5 @@ deploy:
 notifications:
   email:
     recipients:
-    - bl4ck5unxx@gmail.com
+      - bl4ck5unxx@gmail.com
     on_failure: always
