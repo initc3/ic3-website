@@ -71,6 +71,13 @@ class Event:
         # XXX: hardcoded :/
         self.type = 'event'
 
+    def __str__(self):
+        return self.__unicode__()
+
+    def __unicode__(self):
+        s = u"- Event: [%s] (%s): " % (self.name, self._format_date(False))
+        return s.encode('utf-8')
+
     def _parse_metadata(self, front_matter):
         # mandatory fields
         for mf in Event.REQUIRED_FIELDS():
@@ -103,26 +110,30 @@ class Event:
 
         self.date_str = self._format_date()
 
-    def _format_date(self):
+    def _format_date(self, attach_icon=True):
         s = self.start
         t = self.end
 
-        if self.end >= datetime.date.today():
-            cal_icon = '<i class="add to calendar icon"></i>'
+        if attach_icon:
+            if self.end >= datetime.date.today():
+                cal_icon = '<i class="add to calendar icon"></i>'
+            else:
+                cal_icon = '<i class="calendar icon"></i>'
         else:
-            cal_icon = '<i class="calendar icon"></i>'
+            cal_icon = ''
 
         full_format = '%A %B %e, %Y '
         short_full_format = '%B %e, %Y '
         if s == t:
             date = '%s%s' % (cal_icon, s.strftime(full_format))
-            return date
+            return date.strip()
 
         if s.month == t.month and s.year == t.year:
             date = '%s%s %d-%d, %d' % (cal_icon, s.strftime("%B"), s.day, t.day, t.year)
-            return date
+            return date.strip()
 
-        return '%s%s-%s' % (cal_icon, s.strftime(short_full_format), t.strftime(short_full_format))
+        r = '%s%s-%s' % (cal_icon, s.strftime(short_full_format), t.strftime(short_full_format))
+        return r.strip()
 
     def _start_date_str(self):
         return self.start.strftime(DEFAULT_DATE_FORMAT)
