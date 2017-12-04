@@ -5,7 +5,7 @@ import yaml
 import codecs
 import markdown
 from os.path import join
-from base import Engine
+from base import StaticSiteGenerator
 import os
 import shutil
 import errno
@@ -23,8 +23,7 @@ parser.add_option("-f", "--fetchall", action="store_true", dest="fetchall", help
 CWD = os.path.dirname(__file__)
 OUTPUT_DIR = os.path.join(CWD, 'output')
 
-e = Engine(deploy=options.deploy)
-
+e = StaticSiteGenerator(deploy=options.deploy)
 
 EVENT_EXPIRE_IN_DAYS = 45
 PRESS_EXPIRE_IN_DAYS = 45
@@ -216,6 +215,20 @@ def jobs():
                        output)
 
 
+def video():
+    output = e.calc_output_fullpath('video.html')
+    temp = e.env.get_template('video_list.html')
+
+    breadcrumb = [{'name': 'Video', 'url': 'video.html'}]
+
+    context = dict(
+        title='IC3 - Video',
+        breadcrumb=breadcrumb,
+    )
+
+    e.render_and_write(temp, context, output)
+
+
 def compress_image(dir='images/hotlinks', size=(80, 80)):
     for root, dirname, filenames in os.walk(dir):
         for filename in fnmatch.filter(filenames, '*.jpg') + \
@@ -244,6 +257,8 @@ if __name__ == '__main__':
     page_not_found()
     jobs()
     event.write_event_list_page(e, EVENT_EXPIRE_IN_DAYS)
+
+    video()
 
     try:
         shutil.copytree('static', join(OUTPUT_DIR, 'static'))

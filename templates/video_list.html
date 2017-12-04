@@ -1,0 +1,64 @@
+{% extends "page.html" %}
+
+{% macro event_item(event) %}
+
+{% set event_name %}
+  {% if event.subtitle %}
+    {{ event.name }}
+    <div class="sub header"> {{ event.subtitle }} </div>
+  {% else %}
+    {{ event.name }}
+  {% endif %}
+{% endset %}
+<div class="item">
+    <div class="content">
+      {% if event.url %}
+        <div class="ui header"> <a href="{{ event.url }}"> {{ event_name }}</a> </div>
+      {% else %}
+        <div class="ui header ic3-color"> {{ event_name }}</div>
+      {% endif %}
+      <div class="meta">
+        <span> {{ event.date_str }} </span>
+        {% if event.location %}
+        <span>
+          <i class="marker icon"></i>{{ event.location }}
+        </span>
+        {% endif %}
+      </div>
+      {% if event.summary %}
+      <div class="description">
+        {{ event.summary }}
+      </div>
+      {% endif %}
+    </div>
+  </div>
+{% endmacro %}
+
+{% block breadcrumb %}
+
+{% endblock %}
+
+{% block content %}
+
+<h1 class="ui header">Upcoming Events</h1>
+
+<div class="ui divided items">
+{% for event in ongoing %}
+{{ event_item(event) }}
+{% endfor %}
+{% if ongoing | length == 0 %}
+<div class="ui info message">
+  The next exciting event is around the corner!
+</div>
+{% endif %}
+</div>
+
+<h1 class="ui header">Past Events</h1>
+
+<div class="ui divided items">
+{% for event in past %}
+{{ event_item(event) }}
+{% endfor %}
+</div>
+
+{% endblock %}

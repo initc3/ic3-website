@@ -10,7 +10,7 @@ def dateformat(value, format='%b %d, %Y'):
     return value.strftime(format)
 
 
-class Engine (object):
+class StaticSiteGenerator (object):
     env = Environment(loader=FileSystemLoader('./templates/'))
     output_dir = os.path.join(os.path.dirname(__file__), 'output')
 
@@ -18,11 +18,11 @@ class Engine (object):
         if deploy:
             self.def_cntx = dict(SITE_ROOT='http://www.initc3.org')
         else:
-            self.def_cntx = dict(SITE_ROOT=Engine.output_dir)
+            self.def_cntx = dict(SITE_ROOT=StaticSiteGenerator.output_dir)
         print 'deploy: ' + str(deploy)
-        if exists(Engine.output_dir):
-            shutil.rmtree(Engine.output_dir)
-        os.mkdir(Engine.output_dir)
+        if exists(StaticSiteGenerator.output_dir):
+            shutil.rmtree(StaticSiteGenerator.output_dir)
+        os.mkdir(StaticSiteGenerator.output_dir)
 
         self.env.filters['dateformat'] = dateformat
 

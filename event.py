@@ -7,7 +7,7 @@ from operator import attrgetter
 import fnmatch
 from dateutil import parser as dateparser
 
-from base import Engine
+from base import StaticSiteGenerator
 
 CONTENT_DIR = './content/events'
 DEFAULT_DATE_FORMAT = '%Y-%m-%d'
