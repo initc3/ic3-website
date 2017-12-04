@@ -222,12 +222,15 @@ def jobs():
 def video():
     output = e.calc_output_fullpath('video.html')
     temp = e.env.get_template('video_list.html')
-
     breadcrumb = [{'name': 'Video', 'url': 'video.html'}]
+
+    with open('./content/videos/list.yaml', 'r') as c:
+        video_list = yaml.load(c)
 
     context = dict(
         title='IC3 - Video',
         breadcrumb=breadcrumb,
+        video_list=video_list,
     )
 
     e.render_and_write(temp, context, output)

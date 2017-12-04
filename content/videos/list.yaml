@@ -1,0 +1,6 @@
+- name: Sample
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tincidunt quis nulla eget ornare. Suspendisse eros ligula, cursus id nisi in, ultricies porta nisl. Sed id ex ut velit tristique placerat. Phasellus elementum turpis ut finibus consectetur. Sed massa massa, sodales vitae magna nec, efficitur porta neque. Vestibulum lacinia faucibus sem eu imperdiet. Nam at odio lacinia ligula auctor faucibus non in dui. Morbi imperdiet dolor sed ex lobortis, sed lacinia nulla volutpat. Mauris at viverra risus. Aenean dictum massa a odio bibendum tincidunt.
+  date: 2017-10-10
+  snapshot: 'http://lorempixel.com/200/200'
+  meta: meta
+  additional: additional details
