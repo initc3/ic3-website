@@ -25,8 +25,8 @@ OUTPUT_DIR = os.path.join(CWD, 'output')
 
 e = StaticSiteGenerator(deploy=options.deploy)
 
-EVENT_EXPIRE_IN_DAYS = 45
-PRESS_EXPIRE_IN_DAYS = 45
+EVENT_EXPIRE_IN_DAYS = 60
+PRESS_EXPIRE_IN_DAYS = 60
 
 
 def index():
@@ -34,6 +34,10 @@ def index():
     featured_press = ic3press.get_featured_press(expire_in_days=PRESS_EXPIRE_IN_DAYS)
 
     items = events_toshow + featured_press
+    print 'collected %d events and news' % len(items)
+    for d in items:
+        print d
+
     def _get_date(item):
         if hasattr(item, 'date'):
             return item.date

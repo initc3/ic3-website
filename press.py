@@ -21,7 +21,8 @@ class Press(object):
         return self.__unicode__()
 
     def __unicode__(self):
-        return '- [%s](%s) by **%s** on %s' % (self.title, self.url, self.venue, self.date_str)
+        s = u'- Press: [%s](%s) by **%s** on %s' % (self.title, self.url, self.venue, self.date_str)
+        return s.encode('utf-8')
 
 
 def _read_events_from_csv(filename):
