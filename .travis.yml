@@ -27,3 +27,4 @@ notifications:
     recipients:
       - bl4ck5unxx@gmail.com
     on_failure: always
+    on_success: always
