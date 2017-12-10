@@ -367,7 +367,7 @@
 "http://nationalpost.com/pmn/news-pmn/ap-explains-threat-of-a-bitcoin-split-avoided-for-now";"National Post";07/31/17;"AP Explains: Threat of a bitcoin split avoided, for now";"sirer";
 "http://www.abc.net.au/news/2017-08-01/bitcoin-changes-explained/8763980";"ABC News";08/01/17;"Bitcoin: What's going on with the digital currency?";"sirer";
 "https://www.wired.com/story/bitcoin-is-splitting-in-two-now-what/";"Wired";08/01/17;"Bitcon is Splitting in Two. Now What?";"sirer";"feature"
-"http://www.newsmax.com/Finance/StreetTalk/bitcoin-currency-digital-virtual/2017/08/01/id/805020/";"News Max";08/01/17;"Threat of a Bitcoin Split Avoide for Now";"sirer";
+"http://www.newsmax.com/Finance/StreetTalk/bitcoin-currency-digital-virtual/2017/08/01/id/805020/";"News Max";08/01/17;"Threat of a Bitcoin Split Avoided for Now";"sirer";
 "https://www.technologyreview.com/s/608483/wait-bitcoin-just-did-what/";"MIT Technology Review";08/01/17;"Wait, Bitcoin Just Did What";"sirer";"feature"
 "http://jamaica-gleaner.com/article/business/20170801/threat-bitcoin-split-averted-now";"The Gleaner";08/01/17;"Threat Of A Bitcoin Split Averted, For Now";"sirer";
 "http://www.news.com.au/technology/innovation/design/threat-of-a-split-from-bitcoins-civil-war-avoided-for-now/news-story/287555c7e6a67d7367fe6e4dca7d4875";"News.com.au";08/01/17;"Threat of a split from Bitcoin’s civil war avoided, for now";"sirer";
@@ -398,10 +398,47 @@
 "https://www.coindesk.com/microsoft-joins-cornell-blockchain-research-group/";"Coin Desk";09/01/17;"Microsoft Joins IC3: Membership Underscores Long-Term Commitment to Blockchain-based Solutions for Business";"all";"feature"
 "http://gearsofbiz.com/burger-king-launches-a-whopper-of-a-loyalty-programme/40259";"Gears of Biz";09/02/17;"Burger King launches a ‘whopper’ of a loyalty programme";"sirer";
 "http://news.sys-con.com/node/4151236";"Sys-Con Media";09/06/17;"The Economist Events’ Finance Disrupted Conference To Explore Fintech’s ‘Coming of Age’";"sirer";
-"http://cornellsun.com/2017/09/11/cornell-researchers-highlight-ethical-lapses-in-recent-cybersecurity-failures/";"Cornell Sun";09/11/17;"Cornell Researchers Highlight Ethical Lapses in Recent Cybersecurity Failures";;
+"http://cornellsun.com/2017/09/11/cornell-researchers-highlight-ethical-lapses-in-recent-cybersecurity-failures/";"Cornell Sun";09/11/17;"Cornell Researchers Highlight Ethical Lapses in Recent Cybersecurity Failures";"sirer";
 "https://spectrum.ieee.org/computing/networks/blockchains-how-they-work-and-why-theyll-change-the-world";"IEEE Spectrum";09/28/17;"Blockchains: How They Work and Why They’ll Change the World";"sirer,juels";"feature"
+"https://www.gfmag.com/topics/capital-markets-and-corporate-finance/more-rules-expected-icos-after-china-ban";"Global Finance";09/13/17;"More Rules Expected for ICOs After China Ban";"sirer";
+"http://markets.businessinsider.com/news/stocks/Cypherium-s-talented-team-is-building-a-double-chained-infrastructure-for-the-future-1002686040";"Business Insider";09/27/17;"Cypherium’s talented team is building a double-chained infrastructure for the future";"sirer";
 "https://spectrum.ieee.org/energy/policy/the-ridiculous-amount-of-energy-it-takes-to-run-bitcoin";"IEEE Spectrum";09/28/17;"The Ridiculous Amount of Energy It Takes to Run Bitcoin";"eyal";"feature"
 "https://www.salon.com/2017/10/01/by-concealing-identities-cryptocurrencies-fuel-cybercrime/";"Salon";10/01/17;"By concealing identities, cryptocurrencies fuel cybercrime";"juels,eyal,bentov";
+"https://www.bloombergquint.com/business/2017/10/05/-mind-boggling-math-could-make-blockchain-work-for-wall-street";"Bloomberg";10/05/17;"'Mind-Boggling' Math Could Make Blockchain Work for Wall Street";"sirer";"feature"
+"https://www.wired.com/story/social-security-number-replacement/";"Wired";10/13/17;"Replacing Social Security Numbers Won’t Be Easy, But It’s Worth It";"sirer";"feature"
+"https://www.wired.com/story/krack-wi-fi-meltdown-open-standards/";"Wired";10/17/17;"The Flawed System Behind the KRACK Wi-Fi Meltdown";"sirer";"feature"
 "https://www.mansionglobal.com/articles/77889-bitcoin-and-the-blockchain-are-disruptors-in-global-real-estate";"Mansion Global";10/20/17;"Bitcoin and the Blockchain Are Disruptors in Global Real Estate";"sirer";
 "http://www.businessinsider.com/ibm-azure-aws-blockchain-service-2017-10";"Business Insider";10/24/17;"IBM, Amazon & Microsoft are offering their blockchain technology as a service";"all";
+"https://themerkle.com/10-universities-that-offer-blockchain-courses/";"The Merkle";10/29/17;"10 Universities That Offer Blockchain Courses";"sirer";
 "https://www.coindesk.com/ic3-blockchain-initiative-expands-research-team-europe/";"Coin Desk";10/31/17;"IC3 Blockchain Initiative Expands Research Team to Europe";"sirer,all";"feature"
+"https://www.theverge.com/2017/10/31/16387042/russia-putin-bitcoin-regulation-ethereum-blockchain-technology";"The Verge";10/31/17;"Inside Russia’s Love-Hate Relationship with Bitcoin";"sirer";
+"https://www.bloomberg.com/news/articles/2017-11-01/shining-star-of-initial-coin-offerings-crashing-back-to-earth";"Bloomberg";11/01/17;"One of the Most High-Profile Initial Coin Offerings Has Crashed 50%";"sirer";"feature"
+"https://bravenewcoin.com/news/go-nowhere-icos-testing-investor-confidence/";"Brave New Coin";11/02/17;"Go nowhere ICOs testing investor confidence";"sirer";
+"http://blocktribune.com/ic3-blockchain-initiative-adds-european-researchers/";"Blocktribune";11/02/17;"IC3 Blockchain Initiative Adds European Researchers";"sirer,all";
+"https://www.coindesk.com/shifting-changing-ethereums-casper-code-takes-shape/";"Coin Desk";11/03/17;"Shifting and Changing: Ethereum's Casper Code Takes Shape";"sirer";
+"https://cryptovest.com/news/bancors-taken-a-turn-for-the-worse-observer-says-i-told-you-so/";"Cryptovest";11/05/17;"Bancor's Taken a Turn for the Worse; Observer Says I Told You So";"sirer";
+"https://www.wired.com/story/how-to-keep-bitcoin-safe-and-secure/";"Wired";11/05/17;"How To Keep Your Bitcoin Safe and Secure";"sirer";"feature"
+"https://venturebeat.com/2017/11/08/waves-says-its-launched-the-fastest-blockchain-platform-in-the-world/";"Venture Beat";11/08/17;"Waves says it’s launched the ‘fastest blockchain platform in the world’";"sirer";
+"https://www.crowdfundinsider.com/2017/11/124324-waves-implement-new-technology-become-fastest-blockchain-platform-world/";"CrowdFund Insider";11/08/17;"Waves to Implement New Technology to Become Fastest Blockchain Platform in the World";"sirer";
+"http://www.the-blockchain.com/2017/11/13/waves-claims-will-become-fastest-blockchain-platform-world/";"The Blockchain";11/13/17;"Waves Claims it Will Become the Fastest Blockchain Platform in the World";"sirer";
+"https://cointelegraph.com/news/waves-platform-launches-new-technology-aims-to-become-faster";"Coin Telegraph";11/14/17;"Waves Platform Launches New Technology, Aims To Become Faster";"sirer";
+"https://cointelegraph.com/news/waves-platform-launches-new-technology-aims-to-become-faster";"Coin Telegraph";11/14/17;"Waves Platform Launches New Technology, Aims To Become Faster";"sirer";
+"https://koinbulteni.com/waves-platformu-daha-hizli-hale-gelecek-4409.html";"Koin Bulteni";11/15/17;"Waves Platformu Daha Hizli Hale Gelecek";"sirer";
+"https://www.bitsonline.com/russia-bitcoin-mining-cryptoruble/";"Bits Online";11/18/17;"Russia Picks Prime Bitcoin Mining Territory as CryptoRuble Launch Nears";"sirer";
+"https://www.nytimes.com/2017/11/21/technology/bitcoin-bitfinex-tether.html?_r=0";"New York Times";11/21/17;"Warning Signs About Another Giant Bitcoin Exchange";"sirer";"feature"
+"https://www.newscientist.com/article/mg23631534-600-how-do-you-link-the-worlds-blockchains-with-another-blockchain/";"New Scientist";11/22/17;"How do you link the world’s blockchains? With another blockchain";"sirer";"feature"
+"https://btcmanager.com/tethers-31-million-theft-ignites-criticism-centralized-blockchains/";"BTC Manager";11/23/17;"Tether’s $31 Million Theft Ignites Criticism on Centralized Blockchains";"sirer";
+"https://www.technologyreview.com/s/609481/why-americas-biggest-bank-digs-anonymous-cryptocurrency/";"MIT Technology Review";11/24/17;"Why America’s Biggest Bank Digs Anonymous Cryptocurrency";"sirer";"feature"
+"https://www.thestar.com/business/wealth/2017/11/25/another-large-bitcoin-exchange-draws-warnings.html";"Toronto Star";11/25/17;"Another Large Bitcoin Exchange Draws Warnings";"sirer";"feature"
+"https://motherboard.vice.com/en_us/article/kz34ay/net-neutrality-repeal-affect-cryptocurrency-bitcoin-ethereum";"Vice";11/27/17;"The End of Net Neutrality Means ISPs Could Crack Down on Cryptocurrencies";"sirer";
+"https://www.cryptoninjas.net/2017/11/28/cypherium-partners-bloxroute-tackle-blockchain-scalability/";"Crypto Ninjas";11/28/17;"Cypherium Partners with bloXroute to Tackle Blockchain Scalability";"sirer";
+"https://motherboard.vice.com/en_us/article/43nk9b/cryptocurrency-are-not-crypto-bitcoin";"Vice";11/28/17;"Cryptocurrencies Aren't 'Crypto'";"sirer";
+"https://themerkle.com/votem-welcomes-dr-emin-gun-sirer-to-board-of-advisors/";"The Merkle";11/30/17;"Votem Welcomes Dr. Emin Gün Sirer to Board of Advisors";"sirer";
+"http://www.afr.com/markets/warning-is-bitcoins-biggest-exchange-unreliable-20171130-gzvvwy";"Australian Financial Review";12/01/17;"Is Bitcoin's biggest exchange Bitfinex unreliable?";"sirer";
+"https://btcmanager.com/proving-worth-tether-controversial-narrative/";"BTC Manager";12/02/17;"Proving the Worth of Tether: A Controversial Narrative";"sirer";
+"http://blocktribune.com/scalable-blockchain-hybrid-works-former-google-microsoft-devs/";"Blocktribune";12/04/17;"Scalable Blockchain Hybrid In Works By Former Google and Microsoft Devs";"sirer";
+"http://mashable.com/2017/12/05/bitcoin-2018/#uw3fVHg1tiqs";"Mashable";12/05/17;"Where Does Bitcoin Go From Here?";"sirer";
+"https://bitcoinmagazine.com/articles/quant-network-launches-overledger-cross-blockchain-data-interoperability/";"Bitcoin Magazine";12/07/17;"Quant Network Launches Overledger for Cross-Blockchain Data Interoperability";"sirer";
+"https://www.cryptoninjas.net/2017/12/07/news-waves-ng-protocol-launches-mainnet/";"Crypto Ninjas";12/07/17;"New Waves-NG Protocol Launches on Mainnet";"sirer";
+"http://www.smh.com.au/business/markets/bitcoin-prices-diverge-wildly-as-demand-overwhelms-exchanges-20171208-h018ta.html";"Sydney Morning Herald";12/08/17;"Bitcoin prices diverge wildly as demand overwhelms exchanges";"sirer";
+"https://www.criptonoticias.com/mineria/waves-pretende-realizar-1000-transacciones-minutos-hardfork/";"Criptonoticias";12/08/17;"Waves pretende realizar 1.000 transacciones en 1.3 minutos tras su HardFork";"sirer";
