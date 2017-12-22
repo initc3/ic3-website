@@ -19,6 +19,10 @@ challenges :
     name : 'Safety and Compliance'
     description : 'Enabling techniques and protocols for effective monitoring and targeted intervention in blockchains, informed by evaluations of traditional contract law and risks of crime in smart contracts.'
     color : 'violet'
+  - &migration
+    name: 'Sound Migration'
+    description: 'Formulating practical migration paths to production blockchain deployments and enabling integration of new blockchain systems with legacy systems.'
+    color: 'orange'
 
 projects:
   -
@@ -68,7 +72,7 @@ projects:
 
   -
      name: "Town Crier: Authenticated Data Feeds for Smart Contracts"
-     challenges: [*confidentiality, *adf]
+     challenges: [*confidentiality, *adf, *migration]
      description: In order to reason about the real world, smart contracts in cryptocurrency systems will rely on informational input from what we call authenticated data feeds (ADFs); such information can include stock prices, meteorological reports, news, and other current events. It is therefore important that an ADF be trustworthy, in the sense of providing security against manipulation by an attacker attempting to influence the outcome of a contract. By utilizing trusted hardware to provide reliable, digitally signed attestations on data to client contracts, the Town Crier system can serve as a trustworthy ADF under minimal trust assumptions about its operator. For further details, please see our <a href="http://www.initc3.org/files/tc.pdf">paper (http://www.initc3.org/files/tc.pdf)</a>.
 
   -
