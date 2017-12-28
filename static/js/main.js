@@ -15,7 +15,8 @@
    'digitalasset': 'http://digitalasset.com/',
    'intel': 'http://intel.com',
    'ibm': 'http://ibm.com',
-   'jpm': 'https://www.jpmorgan.com/country/US/en/jpmorgan'
+   'jpm': 'https://www.jpmorgan.com/country/US/en/jpmorgan',
+   'cypherium': 'https://www.cypherium.io/'
  };
 
 $(document).ready(function() {
