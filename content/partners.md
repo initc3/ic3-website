@@ -4,16 +4,14 @@ IC3 acknowledges and appreciates a generous gift from the VMware
 Foundation to advance the science and technology of blockchains.
 
 <div class="ui small images" align="center">
-
 	<img class="ui image sponsor logo" id="chain" src="images/partners/chain-logo.png">
 	<img class="ui image sponsor logo" id="cypherium" src="images/partners/cypherium.png">
-  	<img class="ui image sponsor logo" id="digitalasset" src="images/partners/da.png">
+  <img class="ui image sponsor logo" id="digitalasset" src="images/partners/da.png">
  	<img class="ui image sponsor logo" id="fidelitylabs" src="images/partners/fidelity.png">
  	<img class="ui image sponsor logo" id="ibm" src="images/partners/ibm.png">
  	<img class="ui image sponsor logo" style="height:70px !important;" id="intel" src="images/partners/intel.png">
  	<img class="ui image sponsor logo" id="jpm" src="images/partners/jpm.png">
  	<img class="ui image sponsor logo" id="microsoft" src="images/partners/ms.png">
-
 </div>
 
 
