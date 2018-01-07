@@ -1,0 +1,452 @@
+directors:
+  -
+    name: 'Ari Juels'
+    pic: ari2.jpg
+    title: 'IC3 Co-Director'
+    email: juels@cornell.edu
+    weburl: 'http://www.arijuels.com'
+    bio: 'Ari Juels is a Professor at the Jacobs Technion-Cornell Institute at Cornell Tech in NYC. He was previously Chief Scientist of RSA, The Security Division of EMC.'
+  -
+    name: 'Emin G&uuml;n Sirer'
+    pic: gun.jpg
+    title: 'IC3 Co-Director'
+    email: egs@systems.cs.cornell.edu
+    weburl: 'http://www.cs.cornell.edu/people/egs/'
+    bio: 'Emin G&uumln Sirer is an Associate Professor of Computer Science at Cornell University. His research interests span distributed systems, cryptocurrencies, and software infrastructure for large scale services.'
+  -
+    name: 'Dawn Song'
+    pic: dawn.jpg
+    title:
+    email:
+    weburl: 'http://www.cs.berkeley.edu/~dawnsong/'
+    bio: 'Dawn Song is Professor of Computer Science at UC Berkeley. Prior to joining UC Berkeley, she was an Assistant Professor at Carnegie Mellon University from 2002 to 2007. Her research interest lies in security and privacy issues in computer systems. She is the recipient of many prestigious awards including the MacArthur Fellowship, the Guggenheim Fellowship, the NSF CAREER Award, the Alfred P. Sloan Research Fellowship, the MIT Technology Review TR-35 Award, and Best Paper Awards from top conferences. She is the founder of Ensighta Security Inc., which was acquired by FireEye Inc.'
+  -
+    name: 'Elaine Shi'
+    pic: elaine2.jpg
+    title: 'IC3 Co-Director'
+    email: runting@gmail.com
+    weburl: 'http://elaineshi.com'
+    bio: "Elaine Shi is an Associate Professor at Cornell University. 99% of programmers in the real world are not cryptography experts, and it is dangerous for them to cook up their own cryptographic protocols. Elaine's research creates platforms and tools that aids non-expert programmers in creating systems that are \"secure by design\" and \"secure by default\".\n"
+
+associate_directors:
+  -
+    name: 'Ittay Eyal'
+    pic: ittay.jpg
+    title: 'IC3 Associate Director'
+    email: ittay@technion.ac.il
+    weburl: 'http://webee.technion.ac.il/people/ittay/'
+    bio: 'Ittay Eyal is a senior lecturer (Assistant Professor) of Electrical Engineering at the Technion. His research focuses on distributed systems, particularly the security and scalability of cryptocurrency technologies.'
+  -
+    name: 'Andrew Miller'
+    pic: miller.jpg
+    title: 'IC3 Associate Director'
+    email: amiller@cs.umd.edu
+    weburl: 'http://cs.umd.edu/~amiller'
+    bio: 'Andrew Miller is a professor at the University of Illinois at Urbana-Champaign. His research interests include all facets of cryptocurrency science, from measurement and simulation to theory and formal modelling. His lectures can be found in the first cryptocurrency textbook and MOOC.'
+
+edirectors:
+  -
+    name: 'Jim Ballingall'
+    pic: jim.png
+    title: 'IC3 Executive Director'
+    email:
+    weburl: 'http://www.meetup.com/IC3-NYC-Blockchain-Meetup/members/206306789/'
+    bio: "Jim Ballingall is the IC3 Executive Director, responsible for community     outreach, engagement, and support of the IC3 partners and ecosystem. Jim\n    earned a Ph.D. in Applied Physics from Cornell, and a B.S. in\n    Engineering Physics from U.C. Berkeley. Jim also directs the\n    Industry-Academia Partnership, a consortium founded by Cornell with\n    other top universities and leading companies pursuing next generation\n    computing technologies. At a recent IC3 NYC Meetup, he stated, \"The\n    summer of 2016 saw $50M+ security breaches in both Ethereum and Bitcoin;\n    these underscore the urgent need for fast and reliable blockchain\n    solutions rooted in truly rigorous cryptography, game theory and\n    computer science...IC3 is committed to collaborate with its partners to\n    fulfill that need, with practical open source solutions that overcome\n    the greatest challenges to widespread blockchain adoption.\"\n"
+
+faculty:
+  -
+    name: 'Lorenzo Alvisi'
+    pic: lorenzo.jpg
+    title:
+    email: lorenzo@cs.utexas.edu
+    weburl: 'http://www.cs.utexas.edu/~lorenzo/'
+    bio: "Lorenzo Alvisi holds an Endowed Professorship in Computer Science at      the University of Texas at Austin.  He will join Cornell as a Professor\n     of Computer Science in Fall 2016. His research interests are in the\n     theory and practice of distributed computing, with a particular focus\n     on dependability. He is a Fellow of the ACM, IEEE, and Alfred P. Sloan\n     Foundation, and the recipient of a Humboldt Research Award.  He serves\n     on the editorial boards of ACM Transactions on Computer Systems and\n     Springer’s Distributed Computing, and on the council of CRA’s Computing\n     Community Consortium.\n"
+  -
+    name: 'James Grimmelmann'
+    pic: james.jpg
+    title:
+    email: james.grimmelmann@cornell.edu
+    weburl: 'http://james.grimmelmann.net/'
+    bio: "James Grimmelmann is a professor of law at Cornell Tech and Cornell Law School. He studies how laws regulating software affect freedom, wealth, and power. He helps lawyers and technologists understand each other, applying ideas from computer science to problems in law and vice versa. He is the author of the casebook Internet Law: Cases and Problems and of over forty scholarly articles and essays on digital copyright, search engine regulation, privacy on social networks, online governance, and other topics in computer and Internet law. He teaches courses in property, intellectual property, and Internet law.\n"
+  -
+    name: 'Roni Michaely'
+    pic: roni.jpg
+    title:
+    email: rm34@cornell.edu
+    weburl: 'https://www.johnson.cornell.edu/Faculty-And-Research/Profile/id/rm34'
+    bio: "Roni Michaely is the Rudd Family professor of finance at the Johnson Graduate School of Management at Cornell University and also affiliated with the Interdisciplinary Center. His research is in the areas of corporate finance, capital markets, and valuation. Currently, his research is focused on conflict of interest in capital markets, corporate payout policy, and securities' valuation. He was recently recognized as one of the most cited people in finance, and serves an associate editor for the Journal of Finance\n"
+  -
+    name: 'Andrew Myers'
+    pic: myers.jpg
+    title:
+    email: andru@cs.cornell.edu
+    weburl: 'http://www.cs.cornell.edu/andru/'
+    bio: "Andrew Myers is a Professor in the Department of Computer Science at Cornell University in Ithaca, NY. His research interests include computer security, programming languages, and distributed and persistent programming systems. His work has focused on practical, sound, expressive languages and systems for enforcing information security by construction. The Jif programming language makes it possible to write programs which the compiler ensures are secure, and the Fabric system extends this approach to distributed programming. Myers is an ACM Fellow and co-Editor-in-Chief for the Journal of Computer Security.\n"
+  -
+    name: 'Rafael Pass'
+    pic: rafael.jpg
+    title:
+    email: pass@cs.cornell.edu
+    weburl: 'http://www.cs.cornell.edu/~rafael'
+    bio: "Rafael Pass is an Associate Professor of Computer Science at Cornell University (Cornell Tech). His research focuses on Cryptography and Game Theory and their interplay with Computational Complexity. He is a recipient of the NSF Career Award, the AFOSR Young Investigator Award, and the Google Faculty Award and was named a Alfred P Sloan Fellow, a Microsoft Faculty Fellow, and a Wallenberg Academy Fellow.\n"
+  -
+    name: 'Robbert van Renesse'
+    pic: rvr.jpg
+    title:
+    email: rvr@cs.cornell.edu
+    weburl: 'http://www.cs.cornell.edu/home/rvr'
+    bio: "Robbert van Renesse is a Principal Research Scientist in the Department of Computer Science at Cornell University.  His research is in the area of the theory and practice of scalable fault tolerant distributed systems.  Van Renesse is Chair of ACM SIGOPS, an ACM Fellow, and Associate Editor of ACM Computing Surveys.\n"
+  -
+    name: 'Srdjan Capkun'
+    pic: scapkun.jpg
+    title:
+    email: srdjan.capkun@inf.ethz.ch
+    weburl:
+    bio: "Srdjan Capkun, is a Full Professor in the Department of Computer Science, ETH Zurich and Director of the Zurich Information Security and Privacy Center (ZISC). His research interests are in system and network security.\n"
+  -
+    name: 'Bryan Ford'
+    pic: bford.jpg
+    title:
+    email: bryan.ford@epfl.ch
+    weburl:
+    bio: "Prof. Bryan Ford leads the Decentralized/Distributed Systems (DEDIS) lab at the Swiss Federal Institute of Technology in Lausanne (EPFL). Ford focuses broadly on building secure decentralized systems, touching on topics including private and anonymous communication technologies, Internet architecture, and secure operating systems.\n"
+  -
+    name: 'Sarah Meiklejohn'
+    pic: smeiklejohn.jpg
+    title:
+    email: s.meiklejohn@ucl.ac.uk
+    weburl: 'http://www0.cs.ucl.ac.uk/staff/S.Meiklejohn/'
+    bio: "Sarah Meiklejohn is a Reader (Associate Professor) in Cryptography and Security at University College London.  She has broad research interests in computer security and cryptography, and works on topics such as anonymity and criminal abuses in cryptocurrencies and privacy-enhancing technologies.\n"
+  -
+    name: 'Maureen O''Hara'
+    pic: mohara.jpg
+    title:
+    email: maureen.ohara@cornell.edu
+    weburl:
+    bio: "Maureen O'Hara is the Robert W. Purcell Professor of Finance at the Johnson Graduate School of Management, Cornell University, and she also holds a Professorship at the University of Technology Sydney. Professor O'Hara's research focuses on issues in market microstructure, and she is the author of numerous journal articles as well as the classic book Market Microstructure Theory (Blackwell: 1995). Recent research looks at the how ETFs affect market stability, liquidity issues in corporate bond markets, and corporate governance problems in banks.\n"
+
+postdocs:
+  -
+    name: 'Shehar Bano'
+    pic: sbano.jpg
+    title:
+    email: s.bano@ucl.ac.uk
+    weburl: 'http://www0.cs.ucl.ac.uk/staff/S.Bano'
+    bio: "Shehar Bano is a postdoctoral researcher in the Information Security Research Group at University College London. Her research interests centre on networked systems, particularly in the context of security and measurement. She works on the design, scalability and applications of blockchains. She received her PhD from the University of Cambridge in 2017 where she was an Honorary Cambridge Trust Scholar, and was awarded the Mary Bradburn Scholarship for her research work.\n"
+  -
+    name: 'Iddo Bentov'
+    pic: iddobentov.jpg
+    title:
+    email:
+    weburl:
+    bio: "Iddo Bentov is a postdoc at Cornell University, and author of a number of academic papers on cryptography and cryptocurrency. He has been involved in the Bitcoin space since mid-2011, and also works on succinct zero-knowledge proofs at SCIPR Lab.\n"
+  -
+    name: 'Philipp Jovanovic'
+    pic: pjovanovic.jpg
+    title:
+    email: philipp.jovanovic@epfl.ch
+    weburl: 'https://zerobyte.io/'
+    bio: "Philipp Jovanovic is a cryptographer and post-doctoral researcher at EPFL’s Decentralized and Distributed Systems lab. His research interests broadly include applied cryptography, information security, and decentralized systems.\n"
+  -
+    name: 'Jed Liu'
+    pic: jed.png
+    title:
+    email: liujed@cs.cornell.edu
+    weburl: 'http://www.cs.cornell.edu/~liujed/'
+    bio: "Jed Liu is a post-doctoral associate in the Cornell Computer Science Department. His research spans distributed systems, security, and programming languages.\n"
+  -
+    name: 'Patrick McCorry'
+    pic: pmcorry.jpg
+    title:
+    email: p.mccorry@ucl.ac.uk
+    weburl: 'http://www0.cs.ucl.ac.uk/staff/P.McCorry/'
+    bio: "Patrick McCorry is a Research Associate at University College London working with Sarah Meiklejohn. He is the UK's first PhD graduate in cryptocurrencies advised by Feng Hao at Newcastle University. He previously worked at IBM and visited Andrew Miller at University of Illinois at Urbana-Champaign.\n"
+  -
+    name: 'Ian Miers'
+    pic: imiers.jpg
+    title:
+    email: imiers@cs.jhu.edu
+    weburl:
+    bio: "Ian Miers is a postdoc at Cornell Tech working with Thomas Ristenpart and Ari Juels on computer security and applied cryptography. He earned his Ph.D. from Johns Hopkins University under Matthew Green. His work has been featured in The Washington Post, The New York Times, Wired, The Economist, and denounced in at least 2 op-eds. He is one of the founders of Zcash, a privacy preserving cryptocurrency based on Zerocash.\n"
+  -
+    name: 'Qiang Tang'
+    pic: qiang.jpg
+    title:
+    email:
+    weburl:
+    bio: "Qiang Tang is a post-doctoral associate in the Cornell Computer Science Department. His research focuses on applied and theoretical cryptography, particularly the intersection of accountability, cryptocurrency and post-Snowden crypto.\n"
+
+students:
+  -
+    name: 'Mustafa Al-Bassam'
+    pic: mabassam.jpg
+    title:
+    email: mustafa.al-bassam.16@ucl.ac.uk
+    weburl: 'http://www0.cs.ucl.ac.uk/staff/M.AlBassam/'
+    bio: "Mustafa is a PhD student at the Information Security Research Group of the Department of Computer Science at University College London. His research interests include the intersections of peer-to-peer systems, distributed ledgers and information security.\n"
+  -
+    name: 'Sarah Azouvi'
+    pic: sazouvi.jpg
+    title:
+    email: ucahsck@ucl.ac.uk
+    weburl: 'http://www0.cs.ucl.ac.uk/staff/S.Azouvi/'
+    bio: "Sarah is a PhD student at University College London in the Information Security group. Her research interest are in Applied Cryptography and Game Theory, in the context of cryptocurrencies.\n"
+  -
+    name: 'Soumya Basu'
+    pic: soumya.jpg
+    title:
+    email:
+    weburl:
+    bio: "Soumya Basu is a first year graduate student at Cornell University. His research interests include the areas of distributed systems and security.\n"
+  -
+    name: 'Lorenz Breidenbach'
+    pic: lorenz.jpg
+    title:
+    email:
+    weburl:
+    bio: "Lorenz is a master’s student from ETH Zürich visiting Cornell Tech as a participant in the ETH Studio New York program. His research interests include applied cryptography, security, and machine learning.\n"
+  -
+    name: 'Ethan Cecchetti'
+    pic: ethan.png
+    title:
+    email:
+    weburl: 'http://www.cs.cornell.edu/~ethan/'
+    bio: "Ethan Cecchetti is a graduate student at Cornell University. He is interested in a wide range of research related to security and cryptography.\n"
+  -
+    name: 'Enis Ceyhun Alp'
+    pic: eceyhun.jpg
+    title:
+    email: enis.alp@epfl.ch
+    weburl:
+    bio: "Ceyhun is a first year PhD student at EPFL. His research interests span distributed systems, networking and security.\n"
+  -
+    name: 'Sergi Delgado Segura'
+    pic: sdelgado.jpg
+    title:
+    email: sdelgado@deic.uab.cat
+    weburl: 'http://srgi.me'
+    bio: "Sergi is a third year PhD student at the Autonomous University of Barcelona (UAB) advised by Jordi Herrera-Joancomart&iacute;. Currently he is on a research stay at UIUC advised by Andrew Miller. His research interests lies on privacy and cryptocurrencies, specially focussed on Bitcoin.\n"
+  -
+    name: 'Philip Daian'
+    pic: phil.jpg
+    title:
+    email:
+    weburl: 'https://pdaian.com/'
+    bio: "Philip Daian is a Computer Science graduate student at Cornell University. He brings experience in the formal verification and automotive domains, and looks forward to building the next generation of efficient and open financial cryptosystems.\n"
+  -
+    name: 'Ayush Dubey'
+    pic: ayush.jpg
+    title:
+    email:
+    weburl: 'http://ayushdubey.com/'
+    bio: "Ayush Dubey is a graduate student at Cornell University.  His research aims to bridge the gap between strong guarantees and high performance in large-scale distributed systems.  His current project is <a href=\"http://weaver.systems/\">Weaver</a>, a high-performance, transactional graph store.\n"
+  -
+    name: 'Naomi Ephraim'
+    pic: naomi.jpg
+    title:
+    email:
+    weburl:
+    bio: "Naomi Ephraim is a first year graduate student at Cornell University. Her research interests span the areas of cryptography and game theory.\n"
+  -
+    name: 'Kasra Edalat Nejad'
+    pic: kedalat.jpg
+    title:
+    email: kasra.edalat@epfl.ch
+    weburl: 'http://ce.sharif.edu/~kedalat/'
+    bio: "Kasra Edalat Nejad is a Ph.D. student at EPFL. His research interests span the areas of privacy and security.\n"
+  -
+    name: 'Nicolas Gailly'
+    pic: ngailly.jpg
+    title:
+    email: nicolas.gailly@epfl.ch
+    weburl:
+    bio: "Nicolas was a software engineer before enrolling as a doctoral student at EPFL working in the decentralized systems group DEDIS. His research interests are decentralized systems & applied cryptography.\n"
+  -
+    name: 'Joshua Gancher'
+    pic: josh.png
+    title:
+    email: jrg358@cornell.edu
+    weburl:
+    bio: "Joshua Gancher is a graduate student at Cornell University. He is interested in cryptography and programming languages.\n"
+  -
+    name: 'Linus Gasser'
+    pic: lgasser.jpg
+    title:
+    email: linus.gasser@epfl.ch
+    weburl:
+    bio: "Linus is working with his team of engineers to interface between PhD-students from Bryan Ford’s lab and industry partners. He likes to work with semester students, too, and help them to understand the implication of decentralised, distributed systems, and how ECC fits into that picture. His long-term goal is to build software for scalable, self-organizing communities. The current effort is at <a href=\"https://github.com/dedis/cothority\">Cothority</a>\n"
+  -
+    name: 'Adem Efe Gencer'
+    pic: efe.jpg
+    title:
+    email:
+    weburl: 'http://www.cs.cornell.edu/~gencer/'
+    bio: "Adem Efe Gencer is a PhD candidate at Cornell University Computer Science Department. His recent research focuses on configuring large distributed computations and developing the Bitcoin-NG scalable blockchain protocol.\n"
+  -
+    name: 'Yue Guo'
+    pic: yguo.jpg
+    title:
+    email:
+    weburl:
+    bio: "Yue Guo is a first year PhD student at Cornell University Computer Science Department. She is interested in cryptography and system security.\n"
+  -
+    name: 'Alexander Hicks'
+    pic: ahicks.jpg
+    title:
+    email: alexander.hicks.16@ucl.ac.uk
+    weburl: 'https://alexanderlhicks.com/'
+    bio: "Alexander Hicks is a PhD student at University College London. His research interests broadly revolve around cryptography and machine learning in the context of privacy and security.\n"
+  -
+    name: 'Yan Ji'
+    pic: yanji.jpg
+    title:
+    email:
+    weburl:
+    bio: "Yan Ji is an undergraduate student from Shanghai Jiao Tong University and currently an intern at Cornell. She is interested in blockchain technologies and other areas intersecting security, applied cryptography and distributed systems.\n"
+  -
+    name: 'Lefteris Kokoris Kogias'
+    pic: lkokoris.jpg
+    title:
+    email: eleftherios.kokoriskogias@epfl.ch
+    weburl:
+    bio: "Lefteris is a PhD researcher at EPFL, advised by Prof. Bryan Ford. His research lies in-between computer systems, computer security and applied cryptography. He is particularly interested in decentralized trust systems, that increase robustness and transparency of today's Internet.\n"
+  -
+    name: 'Ahmed Kosba'
+    pic: ahmed.png
+    title:
+    email:
+    weburl: 'http://www.cs.umd.edu/~akosba'
+    bio: "Ahmed Kosba is a graduate student at University of Maryland. He is interested in security and applied cryptography research, with a focus on verifiable computation and cryptocurrency.\n"
+  -
+    name: 'Abhiram Kothapalli'
+    pic: akothapalli.jpg
+    title:
+    email: kothapa2@illinois.edu
+    weburl: 'http://abhiram.me/'
+    bio: "Abhiram Kothapalli is an undergraduate student at the University of Illinois working with professor Andrew Miller and professor Nikita Borisov. Broadly, Abhiram works on building secure distributed applications using cryptography and economic incentives. Abhiram is currently working on designing formal verification tools for cryptographic protocols.\n"
+  -
+    name: 'Kevin Lee'
+    pic: klee.jpg
+    title:
+    email: klee160@illinois.edu
+    weburl:
+    bio: "Kevin Lee is an undergraduate student at the University of Illinois working with Professor Andrew Miller. He is interested in applied cryptography, distributed systems, and privacy.\n"
+  -
+    name: 'Kevin Liao'
+    pic: kliao.jpg
+    title:
+    email: kliao6@illinois.edu
+    weburl: 'http://www.kevinliao.me'
+    bio: "Kevin Liao is a first year PhD student at UIUC. He is interested in cryptography, distributed systems, and programming languages.\n"
+  -
+    name: 'Kai Mast'
+    pic: kai.png
+    title:
+    email:
+    weburl: 'http://kai-mast.de/'
+    bio: "Kai Mast is a student at Cornell's Ithaca campus. His research focus covers distributed database systems and peer-to-peer applications.\n"
+  -
+    name: 'Amani Moin'
+    pic: amoin.jpg
+    title:
+    email: aum4@cornell.edu
+    weburl:
+    bio: "Amani is a Economics PhD student at Cornell.  Her research interests are in empirical corporate finance, machine learning, and cryptocurrencies.\n"
+  -
+    name: 'Kirill Nikitin'
+    pic: knikitin.jpg
+    title:
+    email: kirill.nikitin@epfl.ch
+    weburl: 'https://nikirill.com/'
+    bio: "Kirill Nikitin is a Ph.D. candidate at École polytechnique fédérale de Lausanne. His research interests revolve around the topics in system security, network security, and distributed systems. His current focus is on building secure and privacy-preserving decentralized systems.\n"
+  -
+    name: 'Oded Naor'
+    pic: oded.jpg
+    title:
+    email:
+    weburl:
+    bio: "Oded is a graduate student at the Technion. His research includes scaling cryptocurrencies, offline payment channels, and Trusted Execution Environments.\n"
+  -
+    name: 'Yi Qian'
+    pic: yi.jpg
+    title:
+    email:
+    weburl:
+    bio: "Yi Qian is a graduate student at Cornell Computer Science Department. His research interests are security and applied cryptography, particularly the security and privacy of cryptocurrency systems.\n"
+  -
+    name: 'Sandra Siby'
+    pic: ssiby.jpg
+    title:
+    email: sandra.siby@epfl.ch
+    weburl:
+    bio: "Sandra is a first year graduate student at EPFL. She is interested in network security, distributed systems and privacy.\n"
+  -
+    name: 'Isaac Sheff'
+    pic: isaac.jpg
+    title:
+    email:
+    weburl:
+    bio: "Isaac Sheff is a Computer Science Ph.D. candidate at Cornell working with Andrew Myers and Robbert van Renesse at the intersection of distributed systems and programming languages. He works with decentralized trust, atomic transactions, and consensus protocols.\n"
+  -
+    name: 'Itay Tsabary'
+    pic: itay.jpg
+    title:
+    email:
+    weburl:
+    bio: "Itay Tsabary is a graduate student at the Technion. He is interested in distributed systems, cryptocurrencies and game theory.\n"
+  -
+    name: 'Ekaterina Volkova'
+    pic: ekaterina.jpg
+    title:
+    email:
+    weburl: 'https://www.johnson.cornell.edu/PHD-Program/Current-Students?id=ev99'
+    bio: "Ekaterina is a finance Ph.D. student in the Johson School of Management, Cornell University. Prior to joining the program in 2012, Ekaterina graduated from Moscow State University with MA in Mathematics and from New Economic School with MA in Economics. Her main research focus is empirical corporate finance and  text-mining.\n"
+  -
+    name: 'Zikai Alex Wen'
+    pic: zikai.jpg
+    title:
+    email:
+    weburl: 'http://zikaiwen.wordpress.com/'
+    bio: "Zikai Alex Wen is a graduate student at Cornell University. He focuses on interdisciplinary research that enhances usability, addresses major threats and prevents disruptive forms in new digital finance.\n"
+  -
+    name: 'Karl W&uuml;st'
+    pic: kwuest.jpg
+    title:
+    email: karl.wuest@inf.ethz.ch
+    weburl: 'http://www.syssec.ethz.ch/people/kwuest.html'
+    bio: "Karl is a PhD student in the System Security Group at ETH Zurich. His main research interest is blockchain technology with a focus on security and privacy.\n"
+  -
+    name: 'Hanyun Xu'
+    pic: hxu.jpg
+    title:
+    email: hanyunx2@illinois.edu
+    weburl: 'http://hanyunxu.github.io'
+    bio: "Hanyun Xu is a graduate student at University of Illinois at Urbana-Champaign. She is interested in applied cryptography and distributed systems, particularly cryptocurrencies.\n"
+  -
+    name: 'Haaroon Yousaf'
+    pic: hyousaf.jpg
+    title:
+    email: h.yousaf@ucl.ac.uk
+    weburl: 'http://www.haaroonyousaf.com/'
+    bio: "Haaroon is a first year Computer Science Ph.D student at University College London working with Sarah Meiklejohn and Jens Groth. He is researching Security, Cryptocurrencies and Underground Markets.\n"
+  -
+    name: 'Tom Yurek'
+    pic: tyurek.jpg
+    title:
+    email: yurek2@illinois.edu
+    weburl:
+    bio: "Tom Yurek is a PhD student at UIUC working with Andrew Miller. He is interested in Privacy and Applied Cryptography.\n"
+  -
+    name: 'Oscar Zegarra'
+    pic: oscar.png
+    title:
+    email:
+    weburl:
+    bio: "Oscar is a senior studying Computer Science and Physics at Cornell University. He is interested in applications of block chain technologies as well as distributed systems and programming languages.\n"
+  -
+    name: 'Fan Zhang'
+    pic: fan.jpg
+    title:
+    email: fanz@linux.com
+    weburl: 'http://www.cs.cornell.edu/~fanz/'
+    bio: "Fan Zhang is a second year PhD student Cornell University. His research interest spans systems security, trusted hardware, cryptocurrencies and their intersection.\n"

@@ -35,8 +35,6 @@ def index():
 
     items = events_toshow + featured_press
     print 'collected %d events and news' % len(items)
-    for d in items:
-        print d
 
     def _get_date(item):
         if hasattr(item, 'date'):
@@ -79,20 +77,28 @@ def about():
         breadcrumb=breadcrumb),
                        output)
 
-
 def people():
-    output = join(OUTPUT_DIR, 'people.html')
-    temp = e.env.get_template('people.html')
-    html = temp.render()
+    output = os.path.join(OUTPUT_DIR, 'people.html')
+    with open('./content/people.yaml', 'r') as c:
+        data = yaml.load(c)
 
-    page_temp = e.env.get_template('page.html')
+    def _get_last_name(ppl_item):
+        return ppl_item['name'].split(' ')[-1]
+
+    for k, v in data.items():
+        print k
+        data[k] = sorted(v, key=_get_last_name)
 
     breadcrumb = [{'name': 'People', 'url': 'people.html'}]
-    e.render_and_write(page_temp,
-                       dict(title='IC3 - People',
-                            content=html,
-                            breadcrumb=breadcrumb),
-                       output)
+
+
+
+    temp = e.env.get_template('people.html')
+    e.render_and_write(temp, dict(
+        title='IC3 - Projects',
+        breadcrumb=breadcrumb,
+        people=data),
+        output)
 
 
 def partners():
