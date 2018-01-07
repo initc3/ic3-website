@@ -1,28 +1,5 @@
 {% extends "page.html" %}
 
-{% macro people_item(weburl, pic, name, title, bio, email) %}
-<div class="item">
-    <div class="content">
-        <img class="left floated small ui image" src="images/people/{{ pic }}">
-        <div class="header" >{{ name }} </div>
-        <div class="meta">
-            {% if title %}
-            <span>{{ title }}</span>
-            {% endif %}
-            {% if email %}
-            <button class="ui mini compact basic icon button"><a href={{ "mailto:" + email }}><i class="mail icon"></i>Email</a></button>
-            {% endif %}
-            {% if weburl %}
-            <button class="ui mini compact basic icon button"><a href="{{ weburl }}"><i class="home icon"></i>Website</a></button>
-            {% endif %}
-        </div>
-        <div class="description"><p>{{ bio }}</p></div>
-        <div class="extra">
-        </div>
-    </div>
-</div>
-{% endmacro %}
-
 {% macro ppl_item(p) %}
 <div class="item">
     <div class="content">

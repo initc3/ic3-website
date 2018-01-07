@@ -85,8 +85,8 @@ def people():
     def _get_last_name(ppl_item):
         return ppl_item['name'].split(' ')[-1]
 
+    # sort by last names
     for k, v in data.items():
-        print k
         data[k] = sorted(v, key=_get_last_name)
 
     breadcrumb = [{'name': 'People', 'url': 'people.html'}]

@@ -148,13 +148,6 @@ postdocs:
     weburl: 'https://zerobyte.io/'
     bio: "Philipp Jovanovic is a cryptographer and post-doctoral researcher at EPFL’s Decentralized and Distributed Systems lab. His research interests broadly include applied cryptography, information security, and decentralized systems.\n"
   -
-    name: 'Jed Liu'
-    pic: jed.png
-    title:
-    email: liujed@cs.cornell.edu
-    weburl: 'http://www.cs.cornell.edu/~liujed/'
-    bio: "Jed Liu is a post-doctoral associate in the Cornell Computer Science Department. His research spans distributed systems, security, and programming languages.\n"
-  -
     name: 'Patrick McCorry'
     pic: pmcorry.jpg
     title:
@@ -168,13 +161,6 @@ postdocs:
     email: imiers@cs.jhu.edu
     weburl:
     bio: "Ian Miers is a postdoc at Cornell Tech working with Thomas Ristenpart and Ari Juels on computer security and applied cryptography. He earned his Ph.D. from Johns Hopkins University under Matthew Green. His work has been featured in The Washington Post, The New York Times, Wired, The Economist, and denounced in at least 2 op-eds. He is one of the founders of Zcash, a privacy preserving cryptocurrency based on Zerocash.\n"
-  -
-    name: 'Qiang Tang'
-    pic: qiang.jpg
-    title:
-    email:
-    weburl:
-    bio: "Qiang Tang is a post-doctoral associate in the Cornell Computer Science Department. His research focuses on applied and theoretical cryptography, particularly the intersection of accountability, cryptocurrency and post-Snowden crypto.\n"
 
 students:
   -
@@ -435,18 +421,11 @@ students:
     title:
     email: yurek2@illinois.edu
     weburl:
-    bio: "Tom Yurek is a PhD student at UIUC working with Andrew Miller. He is interested in Privacy and Applied Cryptography.\n"
-  -
-    name: 'Oscar Zegarra'
-    pic: oscar.png
-    title:
-    email:
-    weburl:
-    bio: "Oscar is a senior studying Computer Science and Physics at Cornell University. He is interested in applications of block chain technologies as well as distributed systems and programming languages.\n"
+    bio: "Tom Yurek is a PhD student at UIUC working with Andrew Miller. He is interested in Privacy and Applied Cryptography."
   -
     name: 'Fan Zhang'
     pic: fan.jpg
     title:
-    email: fanz@linux.com
+    email: fz84@cornell.edu
     weburl: 'http://www.cs.cornell.edu/~fanz/'
-    bio: "Fan Zhang is a second year PhD student Cornell University. His research interest spans systems security, trusted hardware, cryptocurrencies and their intersection.\n"
+    bio: "Fan Zhang is a PhD candidate in the department of Computer Science at Cornell University. Under the advice of Prof. Ari Juels, his research interest is in blockchains, trusted hardware, system security and applied cryptography. He's particularly interested in understanding and building hybrid systems that enjoy the best of both blockchains and trusted hardware."
