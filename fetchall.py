@@ -57,12 +57,14 @@ def fetchall(num_recent_blogs=4):
                     print "cannot parse date"
                 results.append((date_object, url, title, date, authors, summary))
 
+    # dedupe using url. note that p[1] is url
+    results = {p[1]: p for p in results}.values()
     results.sort(reverse=True)
 
     posts = []
     for date, url, title, date, authors, summary in results:
         posts.append(dict(date=date, url=url, title=title, authors=authors,
-            summary=summary))
+                          summary=summary))
 
     recent = []
 
@@ -100,7 +102,7 @@ def fetchall(num_recent_blogs=4):
             with open(imgsrc, "w") as img:
                 img.write(imagecontents)
         else:
-            imgsrc="http://initc3.org/images/news/ic3_image.jpg"
+            imgsrc = "http://initc3.org/images/news/ic3_image.jpg"
         recent.append(dict(date=date, url=url, title=title, authors=authors, imgsrc=imgsrc, summary=summary))
 
     return recent, posts
