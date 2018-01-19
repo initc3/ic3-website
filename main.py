@@ -25,16 +25,29 @@ OUTPUT_DIR = os.path.join(CWD, 'output')
 
 e = StaticSiteGenerator(deploy=options.deploy)
 
-EVENT_EXPIRE_IN_DAYS = 60
-PRESS_EXPIRE_IN_DAYS = 60
+EVENT_EXPIRE_IN_DAYS = 20
+PRESS_EXPIRE_IN_DAYS = 20
+FEATURED_PRESS_EXPIRE_IN_DAYS = 45
 
 
 def index():
+    """ Let me explain the index news selection rule.
+    First, we select recent news for all news regardless whether it's featured or not.
+    Then, if we don't get enough, we draw from the featured ones.
+    """
     events_toshow = event.get_featured_events(e, expire_in_days=EVENT_EXPIRE_IN_DAYS)
-    featured_press = ic3press.get_featured_press(expire_in_days=PRESS_EXPIRE_IN_DAYS)
 
-    items = events_toshow + featured_press
-    print 'collected %d events and news' % len(items)
+    recent_press = ic3press.get_all_press(expire_in_days=PRESS_EXPIRE_IN_DAYS)
+    featured_press = ic3press.get_featured_press(expire_in_days=FEATURED_PRESS_EXPIRE_IN_DAYS)
+
+    press = recent_press + featured_press
+
+    # dedupe using url. note that p[1] is url
+    press = {p.url: p for p in press}.values()
+
+    # sort events and press together by date
+    # only display first eight items
+    items = events_toshow + press
 
     def _get_date(item):
         if hasattr(item, 'date'):
@@ -44,8 +57,6 @@ def index():
         else:
             raise Exception('wrong item')
 
-    # sort events and press together by date
-    # only display first eight items
     items = sorted(items, key=_get_date, reverse=True)[:6]
 
     if options.deploy or options.fetchall:
@@ -161,10 +172,10 @@ def blogs():
     else:
         posts = []
     e.render_and_write(temp, dict(
-        title='IC3 - Blogs',
-        blogs=posts,
-        breadcrumb=breadcrumb),
-                       output)
+                                title='IC3 - Blogs',
+                                blogs=posts,
+                                breadcrumb=breadcrumb),
+                                output)
 
 
 def press():
@@ -177,11 +188,11 @@ def press():
     breadcrumb = [{'name': 'Press', 'url': 'press.html'}]
 
     e.render_and_write(temp, dict(
-        title='IC3 - Press',
-        all_press=all_press,
-        featured_press=featured_press,
-        breadcrumb=breadcrumb),
-                       output)
+                                title='IC3 - Press',
+                                all_press=all_press,
+                                featured_press=featured_press,
+                                breadcrumb=breadcrumb),
+                                output)
 
 
 def page_not_found():

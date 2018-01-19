@@ -14,7 +14,6 @@ class Press(object):
         self.date = date
         self.date_str = date.strftime("%B %d, %Y")
 
-        # XXX: hardcoded :/
         self.type = 'news'
 
     def __str__(self):
@@ -42,9 +41,24 @@ def _read_events_from_csv(filename):
 
     return sorted(press_items, key=lambda x: x.date, reverse=True)
 
+def get_all_press(expire_in_days=-1):
+    if expire_in_days < -1:
+        raise Exception('expire_in_days must > 0')
 
-def get_all_press():
-    return _read_events_from_csv('content/press/pressroll-all.csv')
+    press = _read_events_from_csv('content/press/pressroll-all.csv')
+
+    """ -1 means don't filter at all """
+    if expire_in_days == -1:
+        return press
+
+    today = datetime.date.today()
+
+    def not_expired(item):
+        delta = today - item.date
+        return delta.days <= expire_in_days
+
+    press = filter(not_expired, press)
+    return sorted(press, key=lambda x: x.date, reverse=True)
 
 
 def get_featured_press(expire_in_days):
