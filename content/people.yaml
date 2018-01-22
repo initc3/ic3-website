@@ -16,7 +16,7 @@ directors:
   -
     name: 'Dawn Song'
     pic: dawn.jpg
-    title:
+    title: 'IC3 Co-Director'
     email:
     weburl: 'http://www.cs.berkeley.edu/~dawnsong/'
     bio: 'Dawn Song is Professor of Computer Science at UC Berkeley. Prior to joining UC Berkeley, she was an Assistant Professor at Carnegie Mellon University from 2002 to 2007. Her research interest lies in security and privacy issues in computer systems. She is the recipient of many prestigious awards including the MacArthur Fellowship, the Guggenheim Fellowship, the NSF CAREER Award, the Alfred P. Sloan Research Fellowship, the MIT Technology Review TR-35 Award, and Best Paper Awards from top conferences. She is the founder of Ensighta Security Inc., which was acquired by FireEye Inc.'
