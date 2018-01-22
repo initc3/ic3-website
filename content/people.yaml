@@ -248,6 +248,13 @@ students:
     weburl:
     bio: "Nicolas was a software engineer before enrolling as a doctoral student at EPFL working in the decentralized systems group DEDIS. His research interests are decentralized systems & applied cryptography.\n"
   -
+    name: 'Cody Freitag'
+    pic: cfreitag.jpg
+    title:
+    email: crf87@cornell.edu   
+    weburl: http://www.cs.cornell.edu/~cfreitag/
+    bio: "Cody Freitag is a graduate student at Cornell University. His research interests are in the theoretical foundations of cryptography.\n"
+  -
     name: 'Joshua Gancher'
     pic: josh.png
     title:
