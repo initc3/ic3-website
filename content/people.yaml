@@ -20,13 +20,6 @@ directors:
     email:
     weburl: 'http://www.cs.berkeley.edu/~dawnsong/'
     bio: 'Dawn Song is Professor of Computer Science at UC Berkeley. Prior to joining UC Berkeley, she was an Assistant Professor at Carnegie Mellon University from 2002 to 2007. Her research interest lies in security and privacy issues in computer systems. She is the recipient of many prestigious awards including the MacArthur Fellowship, the Guggenheim Fellowship, the NSF CAREER Award, the Alfred P. Sloan Research Fellowship, the MIT Technology Review TR-35 Award, and Best Paper Awards from top conferences. She is the founder of Ensighta Security Inc., which was acquired by FireEye Inc.'
-  -
-    name: 'Elaine Shi'
-    pic: elaine2.jpg
-    title: 'IC3 Co-Director'
-    email: runting@gmail.com
-    weburl: 'http://elaineshi.com'
-    bio: "Elaine Shi is an Associate Professor at Cornell University. 99% of programmers in the real world are not cryptography experts, and it is dangerous for them to cook up their own cryptographic protocols. Elaine's research creates platforms and tools that aids non-expert programmers in creating systems that are \"secure by design\" and \"secure by default\".\n"
 
 associate_directors:
   -
@@ -52,6 +45,16 @@ edirectors:
     email:
     weburl: 'http://www.meetup.com/IC3-NYC-Blockchain-Meetup/members/206306789/'
     bio: "Jim Ballingall is the IC3 Executive Director, responsible for community     outreach, engagement, and support of the IC3 partners and ecosystem. Jim\n    earned a Ph.D. in Applied Physics from Cornell, and a B.S. in\n    Engineering Physics from U.C. Berkeley. Jim also directs the\n    Industry-Academia Partnership, a consortium founded by Cornell with\n    other top universities and leading companies pursuing next generation\n    computing technologies. At a recent IC3 NYC Meetup, he stated, \"The\n    summer of 2016 saw $50M+ security breaches in both Ethereum and Bitcoin;\n    these underscore the urgent need for fast and reliable blockchain\n    solutions rooted in truly rigorous cryptography, game theory and\n    computer science...IC3 is committed to collaborate with its partners to\n    fulfill that need, with practical open source solutions that overcome\n    the greatest challenges to widespread blockchain adoption.\"\n"
+    
+chiefscientist:
+  - 
+    name: 'Elaine Shi'
+    pic: elaine2.jpg
+    title: 'IC3 Chief Scientist'
+    email: runting@gmail.com
+    weburl: 'http://elaineshi.com'
+    bio: "Elaine Shi is an Associate Professor at Cornell University. 99% of programmers in the real world are not cryptography experts, and it is dangerous for them to cook up their own cryptographic protocols. Elaine's research creates platforms and tools that aids non-expert programmers in creating systems that are \"secure by design\" and \"secure by default\".\n"
+
 
 faculty:
   -
