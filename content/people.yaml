@@ -335,6 +335,13 @@ students:
     weburl: 'http://www.kevinliao.me'
     bio: "Kevin Liao is a first year PhD student at UIUC. He is interested in cryptography, distributed systems, and programming languages.\n"
   -
+    name: 'Alex Manuskin'
+    pic: manuskin.jpg
+    title:
+    email:
+    weburl: 
+    bio: "Alex is a graduate student at the Technion. He is interested in distributed systems, scaling cryptocurrencies and security.\n"
+  -
     name: 'Kai Mast'
     pic: kai.png
     title:
