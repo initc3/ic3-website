@@ -223,6 +223,13 @@ students:
     weburl: 'https://pdaian.com/'
     bio: "Philip Daian is a Computer Science graduate student at Cornell University. He brings experience in the formal verification and automotive domains, and looks forward to building the next generation of efficient and open financial cryptosystems.\n"
   -
+    name: 'Yael Doweck'
+    pic: yael.jpg
+    title:
+    email:
+    weburl: 
+    bio: "Yael Doweck is a graduate student at the Technion. She is interested in distributed systems, cryptocurrencies and cryptocurrency exchanges.\n"
+  -
     name: 'Ayush Dubey'
     pic: ayush.jpg
     title:
