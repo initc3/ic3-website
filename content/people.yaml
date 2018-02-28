@@ -356,6 +356,14 @@ students:
     weburl: 'http://kai-mast.de/'
     bio: "Kai Mast is a student at Cornell's Ithaca campus. His research focus covers distributed database systems and peer-to-peer applications.\n"
   -
+    name: 'Sinisa Matetic'
+    pic: smatetic.png
+    title:
+    email: 'sinisa.matetic@inf.ethz.ch'
+    weburl: 
+    bio: "Sinisa Matetic is a PhD Researcher in the Institute of Information Security, ETH Zurich. He was born in Split, Croatia. Prior to joining ETH Zurich, he worked as a Management Consultant at A.T. Kearney in the SEE region.
+Sinisa's research interest are in system security focusing on distributed systems, trusted hardware, blokchain-based technology design and integrity protection.\n"
+  -
     name: 'Amani Moin'
     pic: amoin.jpg
     title:
@@ -411,13 +419,6 @@ students:
     email:
     weburl: 'https://www.johnson.cornell.edu/PHD-Program/Current-Students?id=ev99'
     bio: "Ekaterina is a finance Ph.D. student in the Johson School of Management, Cornell University. Prior to joining the program in 2012, Ekaterina graduated from Moscow State University with MA in Mathematics and from New Economic School with MA in Economics. Her main research focus is empirical corporate finance and  text-mining.\n"
-  -
-    name: 'Zikai Alex Wen'
-    pic: zikai.jpg
-    title:
-    email:
-    weburl: 'http://zikaiwen.wordpress.com/'
-    bio: "Zikai Alex Wen is a graduate student at Cornell University. He focuses on interdisciplinary research that enhances usability, addresses major threats and prevents disruptive forms in new digital finance.\n"
   -
     name: 'Karl W&uuml;st'
     pic: kwuest.jpg
