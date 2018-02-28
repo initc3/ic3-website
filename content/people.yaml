@@ -164,6 +164,14 @@ postdocs:
     email: imiers@cs.jhu.edu
     weburl:
     bio: "Ian Miers is a postdoc at Cornell Tech working with Thomas Ristenpart and Ari Juels on computer security and applied cryptography. He earned his Ph.D. from Johns Hopkins University under Matthew Green. His work has been featured in The Washington Post, The New York Times, Wired, The Economist, and denounced in at least 2 op-eds. He is one of the founders of Zcash, a privacy preserving cryptocurrency based on Zerocash.\n"
+  -    
+    name: 'Sinisa Matetic'
+    pic: smatetic.png
+    title:
+    email: 'sinisa.matetic@inf.ethz.ch'
+    weburl: 
+    bio: "Sinisa Matetic is a PhD Researcher in the Institute of Information Security, ETH Zurich. He was born in Split, Croatia. Prior to joining ETH Zurich, he worked as a Management Consultant at A.T. Kearney in the SEE region.
+Sinisa's research interest are in system security focusing on distributed systems, trusted hardware, blokchain-based technology design and integrity protection.\n"
 
 students:
   -
@@ -341,14 +349,6 @@ students:
     email:
     weburl: 'http://kai-mast.de/'
     bio: "Kai Mast is a student at Cornell's Ithaca campus. His research focus covers distributed database systems and peer-to-peer applications.\n"
-  -
-    name: 'Sinisa Matetic'
-    pic: smatetic.png
-    title:
-    email: 'sinisa.matetic@inf.ethz.ch'
-    weburl: 
-    bio: "Sinisa Matetic is a PhD Researcher in the Institute of Information Security, ETH Zurich. He was born in Split, Croatia. Prior to joining ETH Zurich, he worked as a Management Consultant at A.T. Kearney in the SEE region.
-Sinisa's research interest are in system security focusing on distributed systems, trusted hardware, blokchain-based technology design and integrity protection.\n"
   -
     name: 'Amani Moin'
     pic: amoin.jpg
