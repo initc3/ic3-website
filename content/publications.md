@@ -11,7 +11,9 @@ Preprints
 
 Published Papers
 ================
-
+-	P. McCorry, A. Hicks, S. Meiklejohn. [Smart Contracts for Bribing Miners](https://fc18.ifca.ai/bitcoin/papers/bitcoin18-final14.pdf)
+- F. Zhang, P. Daian, I. Bentov, A. Juels. [Paralysis Proofs: Safe Access-Structure Updates for Cryptocurrencies and More](https://fc18.ifca.ai/bitcoin/papers/bitcoin18-final20.pdf)
+- S. Azouvi, M. Maller, S. Meiklejohn. [Egalitarian Society or Benevolent Dictatorship: The State of Cryptocurrency Governance](https://fc18.ifca.ai/bitcoin/papers/bitcoin18-final13.pdf)
 -   E. Cecchetti, F. Zhang, Y. Ji, A. Kosba, A. Juels and E. Shi. [Solidus: Confidential Distributed Ledger Transactions via PVORM](https://eprint.iacr.org/2017/317). ACM CCS, 2017.
 -   F. Zhang, I. Eyal, R. Escriva, A. Juels and R. V. Renesse. [REM: Resource-Efficient Mining for Blockchains](files/rem.pdf). USENIX Security, 2017.
 -   P. Daian, I. Eyal, A. Juels, and G. Sirer. [PieceWork: Generalized Outsourcing Control for Proofs of Work](files/PieceWork.pdf). BITCOIN, 2017.
