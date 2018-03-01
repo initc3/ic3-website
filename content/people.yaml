@@ -217,6 +217,13 @@ students:
     weburl:
     bio: "Ceyhun is a first year PhD student at EPFL. His research interests span distributed systems, networking and security.\n"
   -
+    name: 'Raymond Cheng'
+    pic: rcheng.jpg
+    title:
+    email: ryscheng@cs.berkeley.edu
+    weburl: 'https://raymondcheng.net/about/'
+    bio: "Raymond Cheng is a postdoctoral researcher at UC Berkeley. His research interests broadly include distributed systems, security and privacy. He received his PhD from the University of Washington.\n"
+  -
     name: 'Sergi Delgado Segura'
     pic: sdelgado.jpg
     title:
