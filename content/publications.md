@@ -2,18 +2,18 @@ Preprints
 =========
 - L. Breidenbach, P. Daian, F. Tramèr, A. Juels [Enter the Hydra: Towards Principled Bug Bounties and Exploit-Resistant Smart Contracts](https://eprint.iacr.org/2017/1090)
 -	E. Hildenbrandt, M. Saxena, X. Zhu, N. Rodrigues, P. Daian, D. Guth and G. Rosu. [KEVM: A Complete Semantics of the Ethereum Virtual Machine](https://www.ideals.illinois.edu/bitstream/handle/2142/97207/hildenbrandt-saxena-zhu-rodrigues-guth-daian-rosu-2017-tr_0818.pdf).
--   R. Pass and E. Shi. [FruitChains: A Fair Blockchain](https://ia.cr/2016/916)
--   R. Pass and E. Shi. [Hybrid Consensus: Efficient Consensus in the Permissionless Model](https://ia.cr/2016/917)
--   R. Pass and E. Shi. [The Sleepy Model of Consensus](https://ia.cr/2016/918)
 -   P. Daian, R. Pass and E. Shi. [Snow White: Provably Secure Proofs of Stake](https://ia.cr/2016/919)
 -   A. E. Gencer, R. V. Renesse, and E. G. Sirer. [Service-Oriented Sharding with Aspen](http://arxiv.org/pdf/1611.06816v1)
 
 
 Published Papers
 ================
--	P. McCorry, A. Hicks, S. Meiklejohn. [Smart Contracts for Bribing Miners](https://fc18.ifca.ai/bitcoin/papers/bitcoin18-final14.pdf)
-- F. Zhang, P. Daian, I. Bentov, A. Juels. [Paralysis Proofs: Safe Access-Structure Updates for Cryptocurrencies and More](https://fc18.ifca.ai/bitcoin/papers/bitcoin18-final20.pdf)
-- S. Azouvi, M. Maller, S. Meiklejohn. [Egalitarian Society or Benevolent Dictatorship: The State of Cryptocurrency Governance](https://fc18.ifca.ai/bitcoin/papers/bitcoin18-final13.pdf)
+-	P. McCorry, A. Hicks, S. Meiklejohn. [Smart Contracts for Bribing Miners](https://fc18.ifca.ai/bitcoin/papers/bitcoin18-final14.pdf). BITCOIN, 2018.
+- F. Zhang, P. Daian, I. Bentov, A. Juels. [Paralysis Proofs: Safe Access-Structure Updates for Cryptocurrencies and More](https://fc18.ifca.ai/bitcoin/papers/bitcoin18-final20.pdf). BITCOIN, 2018.
+- S. Azouvi, M. Maller, S. Meiklejohn. [Egalitarian Society or Benevolent Dictatorship: The State of Cryptocurrency Governance](https://fc18.ifca.ai/bitcoin/papers/bitcoin18-final13.pdf). BITCOIN, 2018.
+-   R. Pass and E. Shi. [FruitChains: A Fair Blockchain](https://ia.cr/2016/916). PODC, 2017.
+-   R. Pass and E. Shi. [Hybrid Consensus: Efficient Consensus in the Permissionless Model](https://ia.cr/2016/917). DISC, 2017.
+-   R. Pass and E. Shi. [The Sleepy Model of Consensus](https://ia.cr/2016/918). ASIACRYPT, 2017.
 -   E. Cecchetti, F. Zhang, Y. Ji, A. Kosba, A. Juels and E. Shi. [Solidus: Confidential Distributed Ledger Transactions via PVORM](https://eprint.iacr.org/2017/317). ACM CCS, 2017.
 -   F. Zhang, I. Eyal, R. Escriva, A. Juels and R. V. Renesse. [REM: Resource-Efficient Mining for Blockchains](files/rem.pdf). USENIX Security, 2017.
 -   P. Daian, I. Eyal, A. Juels, and G. Sirer. [PieceWork: Generalized Outsourcing Control for Proofs of Work](files/PieceWork.pdf). BITCOIN, 2017.
