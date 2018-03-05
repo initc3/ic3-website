@@ -3,7 +3,6 @@ Preprints
 - L. Breidenbach, P. Daian, F. Tramèr, A. Juels [Enter the Hydra: Towards Principled Bug Bounties and Exploit-Resistant Smart Contracts](https://eprint.iacr.org/2017/1090)
 -	E. Hildenbrandt, M. Saxena, X. Zhu, N. Rodrigues, P. Daian, D. Guth and G. Rosu. [KEVM: A Complete Semantics of the Ethereum Virtual Machine](https://www.ideals.illinois.edu/bitstream/handle/2142/97207/hildenbrandt-saxena-zhu-rodrigues-guth-daian-rosu-2017-tr_0818.pdf).
 -   P. Daian, R. Pass and E. Shi. [Snow White: Provably Secure Proofs of Stake](https://ia.cr/2016/919)
--   A. E. Gencer, R. V. Renesse, and E. G. Sirer. [Service-Oriented Sharding with Aspen](http://arxiv.org/pdf/1611.06816v1)
 
 
 Published Papers
@@ -18,6 +17,7 @@ Published Papers
 -   F. Zhang, I. Eyal, R. Escriva, A. Juels and R. V. Renesse. [REM: Resource-Efficient Mining for Blockchains](files/rem.pdf). USENIX Security, 2017.
 -   P. Daian, I. Eyal, A. Juels, and G. Sirer. [PieceWork: Generalized Outsourcing Control for Proofs of Work](files/PieceWork.pdf). BITCOIN, 2017.
 -   F. Tramer, F. Zhang, H. Lin, J.P. Hubaux, A. Juels and E. Shi. [Sealed-Glass Proofs: Using Transparent Enclaves to Prove and Sell Knowledge.](https://eprint.iacr.org/2016/635). IEEE Euro S&P, 2017. 
+-   A. E. Gencer, R. V. Renesse, and E. G. Sirer. [Service-Oriented Sharding with Aspen](http://arxiv.org/pdf/1611.06816v1). CoRR, 2016.
 -   M. Milutinovic, W. He, H. Wu, and M. Kanwal. 2016. [Proof of Luck: an Efficient Blockchain Consensus Protocol.](http://dl.acm.org/citation.cfm?doid=3007788.3007790). In Proceedings of the 1st Workshop on System Software for Trusted Execution (SysTEX '16).
 -   K. Nayak, S. Kumar, A. Miller, E. Shi. [Stubborn Mining: Generalizing Selfish Mining and Combining with an Eclipse Attack.](https://eprint.iacr.org/2015/796). IEEE Euro S&P, 2016
 -   F. Zhang, E. Cecchetti, K. Croman, A. Juels and E. Shi. [Town Crier: An Authenticated Data Feed for Smart Contracts](https://eprint.iacr.org/2016/168.pdf). ACM CCS, 2016.
