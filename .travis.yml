@@ -6,7 +6,7 @@ before_install:
 install:
   - 'pip install -r requirements.txt'
 script:
-  - 'make -C content/press'
+  - 'sudo make -C content/press'
   - 'python main.py -d'
 after_success:
   - 'chmod u+x compress.sh && ./compress.sh'
