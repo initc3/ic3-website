@@ -1,9 +1,12 @@
 language: python
 cache: pip
 python: 2.7.10
+before_install:
+  - 'sudo apt-get update -qq && sudo apt-get install -qq unoconv'
 install:
   - 'pip install -r requirements.txt'
 script:
+  - 'make -C content/press'
   - 'python main.py -d'
 after_success:
   - 'chmod u+x compress.sh && ./compress.sh'
