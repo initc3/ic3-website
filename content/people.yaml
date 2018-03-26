@@ -192,9 +192,9 @@ students:
     name: 'Soumya Basu'
     pic: soumya.jpg
     title:
-    email:
-    weburl:
-    bio: "Soumya Basu is a first year graduate student at Cornell University. His research interests include the areas of distributed systems and security.\n"
+    email: 'soumya@cs.cornell.edu'
+    weburl: 'http://www.soumyabasu.com'
+    bio: "Soumya Basu is a graduate student in Cornell CS working with Emin Gün Sirer. He is primarily looking at how to provide strong security guarantees in blockchain technology without sacrificing performance. He also spends some time looking at the financial incentives involved in decentralized cryptocurrencies. For more up to date information, please visit his website."
   -
     name: 'Lorenz Breidenbach'
     pic: lorenz.jpg
