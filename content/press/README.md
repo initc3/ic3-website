@@ -1,9 +1,10 @@
 add/edit press entries
 ======================
 
+**Updated March 29, 2018**
+
 1. add / update news in `pressroll.ods.`
-2. `make` to generate the aforementioned two CSV files
-3. commit `pressroll-all.csv`, `pressroll-featured.csv`, and `pressroll.ods` and push them to git (IMPORTANT)
+2. commit `pressroll.ods` and push
 
 Travis-CI will do the rest (compilation, deployment, etc.)
 
