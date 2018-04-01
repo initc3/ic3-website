@@ -9,3 +9,5 @@ node_modules
 *.pages
 *.pyc
 .idea
+
+content/press/*.csv
