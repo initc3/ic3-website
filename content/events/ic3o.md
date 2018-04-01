@@ -26,6 +26,4 @@ The IC3O whitepaper was released today, and is available [here](https://pdos.csa
 
 About IC3: IC3 (www.initc3.org) is an initiative of faculty members at Cornell University, Cornell Tech, EPFL, ETH Zurich, UC Berkeley, University College London, University of Illinois at Urbana-Champaign, and the Technion. IC3 offers world-class expertise in computer science that spans cryptography, distributed systems, game theory, programming languages, and system security techniques. IC3’s innovations include new blockchain, smart contract, and cryptocurrency technologies that offer both the scientifically rigorous security properties and the robustness, performance, and reliability demanded by practitioners for tomorrow’s financial systems of execution and record.
 
-IC3 is based at the Jacobs Technion-Cornell Institute at Cornell Tech in New York City.
-
 Contacts for Media: The Initiative for Cryptocurrencies and Contracts (IC3)
