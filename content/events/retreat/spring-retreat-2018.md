@@ -14,4 +14,4 @@ Time: **Thursday, May 10, 2018, 8:30am-5:00pm EDT**. IC3 members [apply here](ht
 
 # Schedule
 
-The schedule can be found [here](../files/retreat/2018.Spring.Retreat.in.NYC.April.27.pdf).
+The schedule can be found [here](../files/retreat/2018.Spring.Retreat.in.NYC.pdf).
