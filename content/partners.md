@@ -5,6 +5,7 @@ Foundation to advance the science and technology of blockchains.
 
 <div class="ui small images" align="center">
 	<img class="ui image sponsor logo" id="chain" src="images/partners/chain-logo.png">
+	<img class="ui image logo" id="cisco" src="images/partners/CISCO.jpg"/>
 	<img class="ui image sponsor logo" id="cypherium" src="images/partners/cypherium.png">
   <img class="ui image sponsor logo" id="digitalasset" src="images/partners/da.png">
  	<img class="ui image sponsor logo" id="fidelitylabs" src="images/partners/fidelity.png">
