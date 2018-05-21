@@ -10,13 +10,17 @@ import os
 import shutil
 import errno
 from optparse import OptionParser
+import logging
+
 import event
 import fetchall
 import press as ic3press
 
+logging.basicConfig(level=logging.INFO)
+
 parser = OptionParser()
 parser.add_option("-d", "--deploy", action="store_true", dest="deploy", help="trigger compression of images", default=False)
-parser.add_option("-f", "--fetchall", action="store_true", dest="fetchall", help="trigger fetching blogs from HD",
+parser.add_option("--disable-news", action="store_true", dest="disable_news", help="doesn't build news feeds. Use this if unoconv is not available.",
                   default=False)
 (options, args) = parser.parse_args()
 
@@ -37,8 +41,12 @@ def index():
     """
     events_toshow = event.get_featured_events(e, expire_in_days=EVENT_EXPIRE_IN_DAYS)
 
-    recent_press = ic3press.get_all_press(expire_in_days=PRESS_EXPIRE_IN_DAYS)
-    featured_press = ic3press.get_featured_press(expire_in_days=FEATURED_PRESS_EXPIRE_IN_DAYS)
+    if options.disable_news:
+        recent_press = []
+        featured_press = []
+    else:
+        recent_press = ic3press.get_all_press(expire_in_days=PRESS_EXPIRE_IN_DAYS)
+        featured_press = ic3press.get_featured_press(expire_in_days=FEATURED_PRESS_EXPIRE_IN_DAYS)
 
     press = recent_press + featured_press
 
@@ -59,7 +67,7 @@ def index():
 
     items = sorted(items, key=_get_date, reverse=True)[:6]
 
-    if options.deploy or options.fetchall:
+    if options.deploy:
         blogs, _ = fetchall.fetchall(5)
     else:
         blogs = []
@@ -167,7 +175,7 @@ def blogs():
 
     breadcrumb = [{'name': 'Blogs', 'url': 'blogs.html'}]
 
-    if options.deploy or options.fetchall:
+    if options.deploy:
         _, posts = fetchall.fetchall()
     else:
         posts = []
@@ -277,7 +285,10 @@ if __name__ == '__main__':
     projects()
     blogs()
     publications()
-    press()
+    if options.disable_news:
+        print('skipping news build disabled')
+    else:
+        press()
     page_not_found()
     jobs()
     event.write_event_list_page(e, EVENT_EXPIRE_IN_DAYS)

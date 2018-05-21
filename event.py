@@ -6,8 +6,10 @@ import datetime
 from operator import attrgetter
 import fnmatch
 from dateutil import parser as dateparser
+import logging
 
 from base import StaticSiteGenerator
+
 
 CONTENT_DIR = './content/events'
 DEFAULT_DATE_FORMAT = '%Y-%m-%d'
@@ -180,6 +182,9 @@ class Event:
 
         temp = ssg_engine.env.get_template('event_details.html')
         html = temp.render(self.render_cntx)
+
+        # logging.info('writing to {}'.format(self.output_path))
+        print('writing to {}'.format(self.output_path))
         ssg_engine.write(html.encode('utf-8'), self.output_path)
 
     def has_tag(self, tag):
@@ -248,6 +253,9 @@ def get_featured_events(e, expire_in_days):
 
 def write_event_list_page(e, expire_in_days):
     event_list = get_event_list(e, expire_in_days, include_expired=True)
+
+    for ev in event_list:
+        ev.write_file(e)
 
     ongoing = filter(lambda x: x.end >= datetime.date.today() and (not x.has_tag(Tags.NOLIST)), event_list)
     past = filter(lambda x: x.end < datetime.date.today(), event_list)
