@@ -13,6 +13,7 @@ Foundation to advance the science and technology of blockchains.
  	<img class="ui image sponsor logo" style="height:70px !important;" id="intel" src="images/partners/intel.png">
  	<img class="ui image sponsor logo" id="jpm" src="images/partners/jpm.png">
  	<img class="ui image sponsor logo" id="microsoft" src="images/partners/ms.png">
+	<img class="ui image sponsor logo" id="siemens" src="images/partners/siemens.png">
 </div>
 
 
