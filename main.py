@@ -29,8 +29,8 @@ OUTPUT_DIR = os.path.join(CWD, 'output')
 
 e = StaticSiteGenerator(deploy=options.deploy)
 
-EVENT_EXPIRE_IN_DAYS = 20
-PRESS_EXPIRE_IN_DAYS = 20
+EVENT_EXPIRE_IN_DAYS = 40
+PRESS_EXPIRE_IN_DAYS = 25
 FEATURED_PRESS_EXPIRE_IN_DAYS = 45
 
 
@@ -39,14 +39,13 @@ def index():
     First, we select recent news for all news regardless whether it's featured or not.
     Then, if we don't get enough, we draw from the featured ones.
     """
-    events_toshow = event.get_featured_events(e, expire_in_days=EVENT_EXPIRE_IN_DAYS)
+    events_toshow = event.get_event_list(e, expire_in_days=EVENT_EXPIRE_IN_DAYS)
 
     if options.disable_news:
         recent_press = []
         featured_press = []
     else:
         recent_press = ic3press.get_all_press(expire_in_days=PRESS_EXPIRE_IN_DAYS)
-        featured_press = ic3press.get_featured_press(expire_in_days=FEATURED_PRESS_EXPIRE_IN_DAYS)
 
     press = recent_press + featured_press
 
