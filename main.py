@@ -43,11 +43,10 @@ def index():
 
     if options.disable_news:
         recent_press = []
-        featured_press = []
     else:
         recent_press = ic3press.get_all_press(expire_in_days=PRESS_EXPIRE_IN_DAYS)
 
-    press = recent_press + featured_press
+    press = recent_press
 
     # dedupe using url. note that p[1] is url
     press = {p.url: p for p in press}.values()
