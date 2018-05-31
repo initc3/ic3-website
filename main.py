@@ -39,7 +39,6 @@ def index():
     First, we select recent news for all news regardless whether it's featured or not.
     Then, if we don't get enough, we draw from the featured ones.
     """
-    events_toshow = event.get_featured_events(e, expire_in_days=EVENT_EXPIRE_IN_DAYS)
 
     if options.disable_news:
         recent_press = []
@@ -52,6 +51,9 @@ def index():
 
     # dedupe using url. note that p[1] is url
     press = {p.url: p for p in press}.values()
+
+    # get events
+    events_toshow = event.get_featured_events(e, expire_in_days=EVENT_EXPIRE_IN_DAYS)
 
     # sort events and press together by date
     # only display first eight items
@@ -67,8 +69,14 @@ def index():
 
     items = sorted(items, key=_get_date, reverse=True)[:6]
 
+    n_events = len(items)
+
+    if n_events == 0:
+        print 'too few events. cannot update the website'
+        sys.exit(1)
+
     if options.deploy:
-        blogs, _ = fetchall.fetchall(5)
+        blogs, _ = fetchall.fetchall(n_events)
     else:
         blogs = []
 
