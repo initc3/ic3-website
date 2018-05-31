@@ -4,7 +4,7 @@ subtitle: Collaborate with IC3 and Ethereum to Advance Blockchain Applications.
 location: Gates Hall, Cornell University. Ithaca, New York
 start: 2018-07-12
 end: 2018-07-18
-summary: IC3 and the Ethereum Foundation will our third annual Boot Camp, an immersive coding and learning experience in blockchains and smart contracts with world-leading researchers, open source developers, and students.
+summary: IC3 and the Ethereum Foundation will hold our third annual Boot Camp, an immersive coding and learning experience in blockchains and smart contracts with world-leading researchers, open source developers, and students.
 tags:
   - featured
   - longlive
