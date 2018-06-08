@@ -9,6 +9,19 @@ Preprints
 
 Published Papers
 ================
+
+- G. Fanti, S. Bakshi, S. Venkatakrishnan, A. Miller, B. Denby, S. Bhargava, P. Viswanath, Dandelion++: Lightweight Cryptocurrency Networking with Formal Anonymity Guarantees, ACM SIGMETRICS 2018 (to appear).
+
+- K. Lee and A. Miller, Authenticated Data Structures for Privacy-Preserving Monero Light Clients, IEEE Security & Privacy on the Blockchain, IEEE S&B 2018 (to appear).
+
+- A.E. Gencer, S. Basu, I. Eyal, R.V. Renesse, E.G. Sirer. [Decentralization in Bitcoin and Ethereum Networks](https://fc18.ifca.ai/preproceedings/75.pdf). Financial Cryptography and Data Security (FC), 2018.
+
+- M. M&ouml;ser, K. Soska, E. Heilman, K. Lee, H. Heffan, S. Srivastava, K. Hogan, J. Hennessey, A. Miller, A. Narayanan, and N. Christin, An Empirical Analysis of Traceability in the Monero Blockchain, PETS 2018.
+
+- S. Matetic, M. Schneider, A. Miller, A. Juels and S. Capkun, DelegaTEE: Brokered Delegation Using Trusted Execution Environments, USENIX Security 2018.
+
+- Y. Zhou, D. Kumar, S. Bakshi, J. Mason, A. Miller, and M. Bailey, Erays: Reverse Engineering Ethereum's Opaque Smart Contracts, USENIX Security 2018.
+
 -	P. McCorry, A. Hicks, S. Meiklejohn. [Smart Contracts for Bribing Miners](https://fc18.ifca.ai/bitcoin/papers/bitcoin18-final14.pdf). BITCOIN, 2018.
 - F. Zhang, P. Daian, I. Bentov, A. Juels. [Paralysis Proofs: Safe Access-Structure Updates for Cryptocurrencies and More](https://fc18.ifca.ai/bitcoin/papers/bitcoin18-final20.pdf). BITCOIN, 2018.
 - S. Azouvi, M. Maller, S. Meiklejohn. [Egalitarian Society or Benevolent Dictatorship: The State of Cryptocurrency Governance](https://fc18.ifca.ai/bitcoin/papers/bitcoin18-final13.pdf). BITCOIN, 2018.
