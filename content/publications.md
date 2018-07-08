@@ -1,20 +1,19 @@
-Preprints
-=========
+# Preprints
 
 - I. Bentov, Y. Ji, F. Zhang, Y. Li, X. Zhao, L. Breidenbach, P. Daian and A. Juels. [Tesseract: Real-Time Cryptocurrency Exchange Using Trusted Hardware](https://eprint.iacr.org/2017/1153.pdf)
 - R. Cheng, F. Zhang, J. Kos, W. He, N. Hynes, N. Johnson, A. Juels, A. Miller and D. Song. [Ekiden: A Platform for Confidentiality-Preserving, Trustworthy, and Performant Smart Contract Execution](https://arxiv.org/abs/1804.05141)
 - E. Hildenbrandt, M. Saxena, X. Zhu, N. Rodrigues, P. Daian, D. Guth and G. Rosu. [KEVM: A Complete Semantics of the Ethereum Virtual Machine](https://www.ideals.illinois.edu/bitstream/handle/2142/97207/hildenbrandt-saxena-zhu-rodrigues-guth-daian-rosu-2017-tr_0818.pdf)
 - P. Daian, R. Pass and E. Shi. [Snow White: Provably Secure Proofs of Stake](https://ia.cr/2016/919)
 
-Published Papers
-================
+# Published Papers
 
-- G. Fanti, S. Bakshi, S. Venkatakrishnan, A. Miller, B. Denby, S. Bhargava and P. Viswanath. Dandelion++: Lightweight Cryptocurrency Networking with Formal Anonymity Guarantees, ACM SIGMETRICS 2018 (to appear).
-- K. Lee and A. Miller. Authenticated Data Structures for Privacy-Preserving Monero Light Clients, IEEE Security & Privacy on the Blockchain, IEEE S&B 2018 (to appear).
+- G. Kappos, H. Yousaf, M. Maller and S. Meiklejohn. [An Empirical Analysis of Anonymity in Zcash](https://arxiv.org/abs/1805.03180). USENIX Security, 2018.
+- S. Matetic, M. Schneider, A. Miller, A. Juels and S. Capkun. DelegaTEE: Brokered Delegation Using Trusted Execution Environments. USENIX Security, 2018.
+- Y. Zhou, D. Kumar, S. Bakshi, J. Mason, A. Miller and M. Bailey. Erays: Reverse Engineering Ethereum's Opaque Smart Contracts. USENIX Security, 2018.
+- G. Fanti, S. Bakshi, S. Venkatakrishnan, A. Miller, B. Denby, S. Bhargava and P. Viswanath. Dandelion++: Lightweight Cryptocurrency Networking with Formal Anonymity Guarantees. ACM SIGMETRICS, 2018 (to appear).
+- K. Lee and A. Miller. Authenticated Data Structures for Privacy-Preserving Monero Light Clients. IEEE Security & Privacy on the Blockchain, IEEE S&B, 2018 (to appear).
 - A.E. Gencer, S. Basu, I. Eyal, R.V. Renesse and E.G. Sirer. [Decentralization in Bitcoin and Ethereum Networks](https://fc18.ifca.ai/preproceedings/75.pdf). Financial Cryptography and Data Security (FC), 2018.
-- M. M&ouml;ser, K. Soska, E. Heilman, K. Lee, H. Heffan, S. Srivastava, K. Hogan, J. Hennessey, A. Miller, A. Narayanan and N. Christin. An Empirical Analysis of Traceability in the Monero Blockchain, PETS 2018.
-- S. Matetic, M. Schneider, A. Miller, A. Juels and S. Capkun. DelegaTEE: Brokered Delegation Using Trusted Execution Environments, USENIX Security 2018.
-- Y. Zhou, D. Kumar, S. Bakshi, J. Mason, A. Miller and M. Bailey. Erays: Reverse Engineering Ethereum's Opaque Smart Contracts, USENIX Security 2018.
+- M. M&ouml;ser, K. Soska, E. Heilman, K. Lee, H. Heffan, S. Srivastava, K. Hogan, J. Hennessey, A. Miller, A. Narayanan and N. Christin. An Empirical Analysis of Traceability in the Monero Blockchain. PETS, 2018.
 - L. Breidenbach, P. Daian, F. Tramèr and A. Juels. [Enter the Hydra: Towards Principled Bug Bounties and Exploit-Resistant Smart Contracts](https://eprint.iacr.org/2017/1090)
 - P. McCorry, A. Hicks and S. Meiklejohn. [Smart Contracts for Bribing Miners](https://fc18.ifca.ai/bitcoin/papers/bitcoin18-final14.pdf). BITCOIN, 2018.
 - F. Zhang, P. Daian, I. Bentov and A. Juels. [Paralysis Proofs: Safe Access-Structure Updates for Cryptocurrencies and More](https://fc18.ifca.ai/bitcoin/papers/bitcoin18-final20.pdf). BITCOIN, 2018.
