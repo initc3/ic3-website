@@ -16,7 +16,9 @@
    'intel': 'http://intel.com',
    'ibm': 'http://ibm.com',
    'jpm': 'https://www.jpmorgan.com/country/US/en/jpmorgan',
-   'cypherium': 'https://www.cypherium.io/'
+   'cypherium': 'https://www.cypherium.io/',
+   'siemens': 'http://www.siemens.com',
+   'chainlink': 'http://www.smartcontract.com/link',
  };
 
 $(document).ready(function() {
