@@ -6,7 +6,7 @@ end: 2018-05-10
 summary: IC3 faculty, students and industry members gather twice per year to discuss the major technical challenges and innovative solutions to widespread blockchain adoption.
 ---
 
-IC3 faculty, students and industry members gather at IC3 Retreats to discuss the major technical challenges, issues and innovative solutions to widespread blockchain adoption.
+IC3 faculty, students and sponsors gather at IC3 Retreats to discuss the major technical challenges, issues and innovative solutions to widespread blockchain adoption.
 
 <div class="ui segments">
 <div class="ui piled segment">
@@ -21,5 +21,3 @@ IC3 faculty, students and industry members gather at IC3 Retreats to discuss the
 
 
 The final agenda of the retreat can be found [here](../files/retreat/2018.Spring.Retreat.in.NYC.pdf).
-
-IC3 Retreats are for IC3 members only. Note: [IC3 offers two levels of membership](http://www.initc3.org/partners.html): Sponsor Member fees are $450k per year. Regular members fees are $150k per year.
