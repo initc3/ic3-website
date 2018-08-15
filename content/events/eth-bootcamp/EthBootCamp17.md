@@ -45,8 +45,6 @@ We are thankful for the generous sponsorship of this Boot Camp by Chain, Cisco, 
 
 ## PHOTOS from the AWARDS CELEBRATION DINNER
 
-<div class="ui segments">
-
 <div class="ui piled segment">
     <img class="ui centered image" src="../images/events/eth-bootcamp-17/1.png" alt="" />
     <div class="ui bottom attached message">
@@ -74,8 +72,6 @@ We are thankful for the generous sponsorship of this Boot Camp by Chain, Cisco, 
     The group gathered after the Celebration Dinner for a photo. Afterwards, several of the participants hung out talking blockchain, shooting pool and enjoying libations until the wee hours.  Thanks to all who made this a wonderful event!  We look forward to seeing you and many new faces next year!
     </div>  
 </div>
-
-</div> <!-- end of segments -->
 
 ## 2017 AWARDS – COURTESY of the ETHEREUM FOUNDATION
 
