@@ -27,9 +27,8 @@ div.ic3-moto.item {
   }
 }
 
-/*display on mobile as well*/
-/*no display on iPad*/
 @media only screen and (max-width: 767px) {
+  /* display IC3 logo on mobile as well */
   .navbar > .menu > div.ic3-moto {
     display: block !important;
     width: 100%;
@@ -164,18 +163,6 @@ to appear at that point */
 
 /*major content segment*/
 
-/*on smaller screen*/
-/*
-@media screen and (max-width: 768px) {
-  .second.segment > .container > .grid > .row > div.column {
-    padding-top: 1rem !important;
-    padding-bottom: 1rem !important;
-  }
-
-}
-*/
-
-
 .second.stripe.segment {
   padding-top: 0;
   padding-bottom: 0;
@@ -206,9 +193,11 @@ to appear at that point */
 }
 
 @media screen and (max-width: 768px) {
-  .ui.main.container {
+  .ui.main.text.container {
     margin-top: 1rem;
     margin-bottom: 1rem;
+    margin-left: 1rem !important;
+    margin-right: 1rem !important;
   }
 }
 
