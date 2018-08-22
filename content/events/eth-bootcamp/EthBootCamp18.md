@@ -16,24 +16,24 @@ IC3 and the Ethereum Foundation Conducted our Third Immersive Weeklong Coding an
 
 <div class="ui center aligned basic segment">
   <div class="ui small images">
-    <img class="ui image logo" id="celer" src="../images/events/eth-bootcamp-18/celer.png" />
-    <img class="ui image logo" id="chainlink" src="../images/events/eth-bootcamp-18/chainlink.png" />
-    <img class="ui image logo" id="cisco" src="../images/events/eth-bootcamp-18/cisco.png" />
+    <img class="ui image" id="celer" src="../images/events/eth-bootcamp-18/celer.png" />
+    <img class="ui image" id="chainlink" src="../images/events/eth-bootcamp-18/chainlink.png" />
+    <img class="ui image" id="cisco" src="../images/events/eth-bootcamp-18/cisco.png" />
   </div>
   <div class="ui small images">
-    <img class="ui image logo" id="columbuscapital" src="../images/events/eth-bootcamp-18/cc.png" />
-    <img class="ui image logo" id="fidelitylabs" src="../images/events/eth-bootcamp-18/fidelity.png" />
-    <img class="ui image logo" id="ibm" src="../images/events/eth-bootcamp-18/ibm.png" />
+    <img class="ui image" id="columbuscapital" src="../images/events/eth-bootcamp-18/cc.png" />
+    <img class="ui image" id="fidelitylabs" src="../images/events/eth-bootcamp-18/fidelity.png" />
+    <img class="ui image" id="ibm" src="../images/events/eth-bootcamp-18/ibm.png" />
   </div>
   <div class="ui small images">
-    <img class="ui image logo" id="jpmorgan" src="../images/events/eth-bootcamp-18/jpmorgan.png" />
-    <img class="ui image logo" id="metastable" src="../images/events/eth-bootcamp-18/metastable.png" />
-    <img class="ui image logo" id="microsoft" src="../images/events/eth-bootcamp-18/microsoft.png" />
+    <img class="ui image" id="jpmorgan" src="../images/events/eth-bootcamp-18/jpmorgan.png" />
+    <img class="ui image" id="metastable" src="../images/events/eth-bootcamp-18/metastable.png" />
+    <img class="ui image" id="microsoft" src="../images/events/eth-bootcamp-18/microsoft.png" />
   </div>
   <div class="ui small images">
-    <img class="ui image logo" id="nervos" src="../images/events/eth-bootcamp-18/nervos.png" />
-    <img class="ui image logo" id="oracle" src="../images/events/eth-bootcamp-18/oracle.png" />
-    <img class="ui image logo" id="siemens" src="../images/events/eth-bootcamp-18/siemens.png" />
+    <img class="ui image" id="nervos" src="../images/events/eth-bootcamp-18/nervos.png" />
+    <img class="ui image" id="oracle" src="../images/events/eth-bootcamp-18/oracle.png" />
+    <img class="ui image" id="siemens" src="../images/events/eth-bootcamp-18/siemens.png" />
   </div>
 </div>
 
@@ -58,7 +58,6 @@ There were 10 project teams.  Awards were made to the top 3 teams at the Celebra
     <div class="ui bottom attached message">
     <strong>Second Place: Battleship MPC</strong><br>
     <strong>Award: 5 ETH</strong><br>
-    <strong>IC3 Associate Directors</strong>: Prof. Ittay Eyal (at far left in photo) and Prof. Andrew Miller (at far right)<br>
     <strong>Team Members</strong>: (Left to right in front row, after Ittay Eyal) Julian Koh, Chang Xu, Carlos de Oliveira, Andrew Miller (Team Leader), Libby Kent, Sylvain Bellemere.<br>
     <strong>Ethereum Foundation</strong>: Hudson Jameson and Vitalik Buterin (both standing at center of photo behind Carlos)<br>
     We used a multiparty-computation cryptography toolkit to implement a Battleship application. This battleship game is better than all the other cryptographic battleship games. It will sink their battleship. Let us know if you want to compete!
@@ -79,10 +78,10 @@ There were 10 project teams.  Awards were made to the top 3 teams at the Celebra
 
 # Boot Camp Schedule and Presentation Videos - July 12-18
 
-We took occasional breaks from the hacking to attend talks by well-known experts in the community – please see the Boot Camp schedule and check back later for links to the talks below.  Note that some talks are pre-publication oriented and may not be posted.
+We took occasional breaks from the hacking to attend talks by well-known experts in the community – and also recorded some of the project team presentations [here](https://vod.video.cornell.edu/channel/IC3%2BBootcamp/97851101). Note that some talks are pre-publication oriented and may not be posted.
 
 <div class="ui images">
-  <img class="ui image logo" id="celer" src="../images/events/eth-bootcamp-18/schedule.png" />
+  <img class="ui image" src="../images/events/eth-bootcamp-18/schedule.png"/>
 </div>
 
 # Additional Projects
