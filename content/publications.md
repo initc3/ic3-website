@@ -8,6 +8,7 @@
 
 # Published Papers
 
+- I. Tsabary and I. Eyal. [The Gap Game](https://arxiv.org/abs/1805.05288). ACM CCS, 2017.
 - G. Kappos, H. Yousaf, M. Maller and S. Meiklejohn. [An Empirical Analysis of Anonymity in Zcash](https://arxiv.org/abs/1805.03180). USENIX Security, 2018.
 - S. Matetic, M. Schneider, A. Miller, A. Juels and S. Capkun. DelegaTEE: Brokered Delegation Using Trusted Execution Environments. USENIX Security, 2018.
 - Y. Zhou, D. Kumar, S. Bakshi, J. Mason, A. Miller and M. Bailey. Erays: Reverse Engineering Ethereum's Opaque Smart Contracts. USENIX Security, 2018.
