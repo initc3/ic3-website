@@ -200,8 +200,8 @@ students:
     pic: lorenz.jpg
     title:
     email:
-    weburl:
-    bio: "Lorenz is a master’s student from ETH Zürich visiting Cornell Tech as a participant in the ETH Studio New York program. His research interests include applied cryptography, security, and machine learning.\n"
+    weburl: 'http://lorenzb.com'
+    bio: "Lorenz is an SNF BRIDGE fellow in the group of Srdjan Capkun at ETH Zürich. Previously, Lorenz did research at Cornell Tech under the supervision of Ari Juels.\n"
   -
     name: 'Ethan Cecchetti'
     pic: ethan.png
