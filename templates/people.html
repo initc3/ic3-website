@@ -10,10 +10,10 @@
             <span>{{ p.title }}</span>
             {% endif %}
             {% if p.email %}
-            <button class="ui mini compact basic icon button"><a href={{ "mailto:" + p.email }}><i class="mail icon"></i>Email</a></button>
+            <div class="ui mini compact basic icon button"><a href={{ "mailto:" + p.email }}><i class="mail icon"></i>Email</a></div>
             {% endif %}
             {% if p.weburl %}
-            <button class="ui mini compact basic icon button"><a href="{{ p.weburl }}"><i class="home icon"></i>Website</a></button>
+            <div class="ui mini compact basic icon button"><a href="{{ p.weburl }}"><i class="home icon"></i>Website</a></div>
             {% endif %}
         </div>
         <div class="description"><p>{{ p.bio }}</p></div>
