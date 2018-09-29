@@ -5,6 +5,8 @@ before_install:
   - 'sudo apt-get update -qq && sudo apt-get install -qq unoconv libreoffice'
 install:
   - 'pip install -r requirements.txt'
+  # `awscli` is required for invalidation of CloudFront distributions.
+  - 'pip install awscli'
 script:
   - 'make -C content/press'
   - 'python main.py -d'
@@ -13,18 +15,23 @@ after_success:
 deploy:
   -
     provider: s3
-    access_key_id: AKIAJFO2A5GIJJW2A5SA
-    secret_access_key:
-      secure: TSgdIAfScqjM7GpDE81rrgz3d1pOPdC4m6lSDrfKbzqfS68GsCquZBDLr5xgjpkWIFB6EmR02WE71svPs6+9OmH2AViVm4Hbv/ygmZJusBaOSMRsxJc+I9csZwsSOEZHBCZeS2JWyi/wPL18Xar3g4laNDn033OBOsc/IgyBScnRPbbfRI2j/yZYpdw4jkfNDk/FH9TdXMMSK3cbrenR0MHyGTgTLzHngIHX7Mnzp+y/CzqNkLdaHqhbP6x7H3CyEz5dqiJ9fvrbiR5miEI1LgBZ/eqyEB/qztGn6/e6ziEWiEWeVLJaCqM3i6xg5lbidqgnurnThQXLCtwxUWUEbHPLtOZASEgax+M14NaT83qwLAPxWrkHuI7vwjzUtTTwpcGhosxd0jsvwkQ+aORnpXixrSeFJw4leL55E/GfoFjHL5q8Pp7uo+4WdscU4yDi74mPvFmaauqptvitzhRMa2fc9ZXyLTMGk5mFJdJp41EcITJgyj71aH18TsZopQbBjA9O3UZGZ1vamcrcdWGECI93KSJukK90xN2bo9Bxk6yWIUinP9UKWrUWcXHiZqKOUOGiyGDXnm+/rucvyoCx27oHBXh0EqI5i7v1cFQsDotC87ehhQsDzhSPYfWv58gnsTyZziv6punnL+K14WMi2O3a3qfK1Atq7/YJ4WTzdCM=
+    access_key_id: $AWS_ACCESS_KEY_ID
+    secret_access_key: $AWS_SECRET_ACCESS_KEY
     bucket: www.initc3.org
     region: us-east-1
     skip_cleanup: true
     default_text_charset: utf-8
+    # Set the Cache-Control header.
     cache_control: max-age=43200
     local-dir: output
     detect_encoding: true
     on:
       branch: master
+after_deploy:
+  # Allow `awscli` to make requests to CloudFront.
+  - aws configure set preview.cloudfront true
+  # Invalidate every object in the targeted distribution.
+  - aws cloudfront create-invalidation --distribution-id $CLOUDFRONT_DISTRIBUTION_ID --paths "/*"
 notifications:
   email:
     recipients:
