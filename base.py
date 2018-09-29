@@ -15,10 +15,7 @@ class StaticSiteGenerator (object):
     output_dir = os.path.join(os.path.dirname(__file__), 'output')
 
     def __init__(self, deploy=False):
-        if deploy:
-            self.def_cntx = dict(SITE_ROOT='http://www.initc3.org')
-        else:
-            self.def_cntx = dict(SITE_ROOT=StaticSiteGenerator.output_dir)
+        self.def_cntx = dict(SITE_ROOT='.')
         print 'deploy: ' + str(deploy)
         if exists(StaticSiteGenerator.output_dir):
             shutil.rmtree(StaticSiteGenerator.output_dir)

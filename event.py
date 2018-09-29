@@ -1,6 +1,6 @@
 import markdown
 import os
-from os.path import join, exists
+from os.path import join, exists, relpath, dirname
 import frontmatter
 import datetime
 from operator import attrgetter
@@ -165,6 +165,8 @@ class Event:
             self.output_path = join(ssg_engine.output_dir, relative_path)
 
             self.render_cntx = ssg_engine.default_context()
+            # compute the relative path to the root of website
+            self.render_cntx['SITE_ROOT'] =  relpath(ssg_engine.output_dir, dirname(self.output_path))
             self.render_cntx['title'] = self.name
             self.render_cntx['metadata'] = self.to_dict()
             self.render_cntx['content'] = content
