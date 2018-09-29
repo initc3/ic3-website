@@ -28,6 +28,6 @@ deploy:
 notifications:
   email:
     recipients:
-      - bl4ck5unxx@gmail.com
+      - admin@initc3.org
     on_failure: always
     on_success: always
