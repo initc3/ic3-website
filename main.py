@@ -7,6 +7,7 @@ import markdown
 from os.path import join
 from base import StaticSiteGenerator
 import os
+import sys
 import shutil
 import errno
 from optparse import OptionParser
