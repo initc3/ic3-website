@@ -40,12 +40,12 @@ def index():
     First, we select recent news for all news regardless whether it's featured or not.
     Then, if we don't get enough, we draw from the featured ones.
     """
-    events_toshow = event.get_event_list(e, expire_in_days=EVENT_EXPIRE_IN_DAYS)
+    events_toshow = event.get_event_list(e)
 
     if options.disable_news:
         recent_press = []
     else:
-        recent_press = ic3press.get_all_press(expire_in_days=PRESS_EXPIRE_IN_DAYS)
+        recent_press = ic3press.get_all_press()
 
     press = recent_press
 
@@ -64,7 +64,7 @@ def index():
         else:
             raise Exception('wrong item')
 
-    items = sorted(items, key=_get_date, reverse=True)[:6]
+    items = sorted(items, key=_get_date, reverse=True)[:5]
 
     n_events = len(items)
 
@@ -296,7 +296,7 @@ if __name__ == '__main__':
         press()
     page_not_found()
     jobs()
-    event.write_event_list_page(e, EVENT_EXPIRE_IN_DAYS)
+    event.write_event_list_page(e)
 
     video()
 

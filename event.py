@@ -213,7 +213,13 @@ class Event:
         return r
 
 
-def get_event_list(env, expire_in_days, include_expired=False):
+def get_event_list(env, expire_in_days=None):
+    """
+    get a list of events
+    :param env: context
+    :param expire_in_days: define the life time of an event. If None, events never expire.
+    :return: a list of event, reversely sorted by the starting date.
+    """
     events = []
 
     markdown_files = _recursive_glob(CONTENT_DIR, '*.md')
@@ -224,7 +230,7 @@ def get_event_list(env, expire_in_days, include_expired=False):
         e.parse_md(env, f)
         events.append(e)
 
-    if not include_expired:
+    if expire_in_days:
         events = filter(lambda ev: not ev.has_expired(expire_in_days=expire_in_days), events)
 
     event_metadata = sorted(events, key=attrgetter('start'), reverse=True)
@@ -232,9 +238,9 @@ def get_event_list(env, expire_in_days, include_expired=False):
     return event_metadata
 
 
-def get_upcoming_events(e, expire_in_days):
+def get_upcoming_events(e, expire_in_days=None):
     print 'Getting upcoming events'
-    event_list = get_event_list(e, expire_in_days=expire_in_days, include_expired=False)
+    event_list = get_event_list(e, expire_in_days=expire_in_days)
     ongoing = filter(lambda x: x.end >= datetime.date.today(), event_list)
 
     return ongoing
@@ -253,8 +259,8 @@ def get_featured_events(e, expire_in_days):
     return featured
 
 
-def write_event_list_page(e, expire_in_days):
-    event_list = get_event_list(e, expire_in_days, include_expired=True)
+def write_event_list_page(e):
+    event_list = get_event_list(e, expire_in_days=None)
 
     for ev in event_list:
         ev.write_file(e)

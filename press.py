@@ -41,14 +41,15 @@ def _read_events_from_csv(filename):
 
     return sorted(press_items, key=lambda x: x.date, reverse=True)
 
-def get_all_press(expire_in_days=-1):
-    if expire_in_days < -1:
+
+def get_all_press(expire_in_days=None):
+    if expire_in_days and expire_in_days < -1:
         raise Exception('expire_in_days must > 0')
 
     press = _read_events_from_csv('content/press/pressroll-all.csv')
 
-    """ -1 means don't filter at all """
-    if expire_in_days == -1:
+    # None == don't filter at all
+    if expire_in_days is None:
         return press
 
     today = datetime.date.today()
