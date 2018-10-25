@@ -189,6 +189,13 @@ students:
     weburl: 'http://www0.cs.ucl.ac.uk/staff/S.Azouvi/'
     bio: "Sarah is a PhD student at University College London in the Information Security group. Her research interest are in Applied Cryptography and Game Theory, in the context of cryptocurrencies.\n"
   -
+    name: 'Surya Bakshi'
+    pic:
+    title:
+    email: sbakshi3@illinois.edu
+    weburl: 'http://sbaks0820.github.io'
+    bio: 'Surya is a 3rd yearh PhD student at the University of Illinois working with Andrew Miller in the Decentralized Systems Lab.'
+  -
     name: 'Soumya Basu'
     pic: soumya.jpg
     title:
