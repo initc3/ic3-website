@@ -203,6 +203,13 @@ students:
     weburl: 'http://lorenzb.com'
     bio: "Lorenz is an SNF BRIDGE fellow in the group of Srdjan Capkun at ETH Zürich. Previously, Lorenz did research at Cornell Tech under the supervision of Ari Juels.\n"
   -
+    name: 'Burcu Canakci'
+    pic:
+    title: 
+    email: bc633@cornell.edu
+    weburl: 
+    bio: 'Burcu is a graduate student at Cornell University working with Robbert van Renesse.' 
+  -
     name: 'Ethan Cecchetti'
     pic: ethan.png
     title:
@@ -322,6 +329,13 @@ students:
     weburl:
     bio: "Yan Ji is a Computer Science graduate student at Cornell University. She is interested in blockchain technologies and other areas intersecting security, applied cryptography and distributed systems."
   -
+    name: 'Tyler Kell'
+    pic:
+    title:
+    email: sk3259@cornell.edu
+    weburl:
+    bio:
+  -
     name: 'Lefteris Kokoris Kogias'
     pic: lkokoris.jpg
     title:
@@ -364,6 +378,13 @@ students:
     weburl: 
     bio: "Alex is a graduate student at the Technion. He is interested in distributed systems, scaling cryptocurrencies and security.\n"
   -
+    name: 'Krishna Deepak Maram'
+    pic:
+    title:
+    email: sm2686@cornell.edu
+    weburl:
+    bio: 'Deepak is a first year PhD student at Cornell University working with Ari Juels.'
+  -
     name: 'Kai Mast'
     pic: kai.png
     title:
@@ -391,6 +412,13 @@ students:
     email:
     weburl:
     bio: "Oded is a graduate student at the Technion. His research includes scaling cryptocurrencies, offline payment channels, and Trusted Execution Environments.\n"
+  -
+    name: 'Youer Pu'
+    pic:
+    title:
+    email: yp348@cornell.edu
+    weburl:
+    bio: 'Youer is a graduate student in Cornell University working with Lorenzo Alvisi.'
   -
     name: 'Yi Qian'
     pic: yi.jpg
