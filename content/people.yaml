@@ -436,13 +436,6 @@ students:
     weburl:
     bio: 'Youer is a graduate student in Cornell University working with Lorenzo Alvisi.'
   -
-    name: 'Yi Qian'
-    pic: yi.jpg
-    title:
-    email:
-    weburl:
-    bio: "Yi Qian is a graduate student at Cornell Computer Science Department. His research interests are security and applied cryptography, particularly the security and privacy of cryptocurrency systems.\n"
-  -
     name: 'Sandra Siby'
     pic: ssiby.jpg
     title:
