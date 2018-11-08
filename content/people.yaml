@@ -45,6 +45,15 @@ edirectors:
     email:
     weburl: 'http://www.meetup.com/IC3-NYC-Blockchain-Meetup/members/206306789/'
     bio: "Jim Ballingall is the IC3 Executive Director, responsible for community     outreach, engagement, and support of the IC3 partners and ecosystem. Jim\n    earned a Ph.D. in Applied Physics from Cornell, and a B.S. in\n    Engineering Physics from U.C. Berkeley. Jim also directs the\n    Industry-Academia Partnership, a consortium founded by Cornell with\n    other top universities and leading companies pursuing next generation\n    computing technologies. At a recent IC3 NYC Meetup, he stated, \"The\n    summer of 2016 saw $50M+ security breaches in both Ethereum and Bitcoin;\n    these underscore the urgent need for fast and reliable blockchain\n    solutions rooted in truly rigorous cryptography, game theory and\n    computer science...IC3 is committed to collaborate with its partners to\n    fulfill that need, with practical open source solutions that overcome\n    the greatest challenges to widespread blockchain adoption.\"\n"
+
+administrativecoordinator:
+  -
+    name: 'Veronica VanCleave-Seeley'
+    pic: veronica.jpg
+    title: 'IC3 Administrative Coordinator'
+    email: vv48@cornell.edu
+    weburl: 
+    bio: "Veronica VanCleave-Seeley is the IC3 Administrative Coordinator, responsible for the support of IC3 members. Veronica has a B.A. in General Science from Alfred University and several years of administrative experience.'
     
 chiefscientist:
   - 
