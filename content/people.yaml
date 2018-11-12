@@ -199,7 +199,7 @@ students:
     bio: "Sarah is a PhD student at University College London in the Information Security group. Her research interest are in Applied Cryptography and Game Theory, in the context of cryptocurrencies.\n"
   -
     name: 'Surya Bakshi'
-    pic: raptor.jpg
+    pic: Raptor.jpg
     title:
     email: sbakshi3@illinois.edu
     weburl: 'http://sbaks0820.github.io'
