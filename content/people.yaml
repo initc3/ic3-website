@@ -430,7 +430,7 @@ students:
     bio: "Oded is a graduate student at the Technion. His research includes scaling cryptocurrencies, offline payment channels, and Trusted Execution Environments.\n"
   -
     name: 'Youer Pu'
-    pic:
+    pic: youerpu.jpg
     title:
     email: yp348@cornell.edu
     weburl:
