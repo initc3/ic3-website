@@ -199,11 +199,11 @@ students:
     bio: "Sarah is a PhD student at University College London in the Information Security group. Her research interest are in Applied Cryptography and Game Theory, in the context of cryptocurrencies.\n"
   -
     name: 'Surya Bakshi'
-    pic:
+    pic: raptor.jpg
     title:
     email: sbakshi3@illinois.edu
     weburl: 'http://sbaks0820.github.io'
-    bio: 'Surya is a 3rd yearh PhD student at the University of Illinois working with Andrew Miller in the Decentralized Systems Lab.'
+    bio: 'Surya is a 3rd year PhD student at the University of Illinois working with Andrew Miller in the Decentralized Systems Lab.'
   -
     name: 'Soumya Basu'
     pic: soumya.jpg
@@ -395,7 +395,7 @@ students:
     bio: "Alex is a graduate student at the Technion. He is interested in distributed systems, scaling cryptocurrencies and security.\n"
   -
     name: 'Krishna Deepak Maram'
-    pic:
+    pic: raptor3.jpg
     title:
     email: sm2686@cornell.edu
     weburl:
