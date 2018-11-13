@@ -395,10 +395,10 @@ students:
     bio: "Alex is a graduate student at the Technion. He is interested in distributed systems, scaling cryptocurrencies and security.\n"
   -
     name: 'Krishna Deepak Maram'
-    pic: raptor3.jpg
+    pic: deepak.jpg
     title:
     email: sm2686@cornell.edu
-    weburl:
+    weburl: 'https://sites.google.com/view/deepak-maram/home'
     bio: 'Deepak is a first year PhD student at Cornell University working with Ari Juels.'
   -
     name: 'Kai Mast'
