@@ -436,12 +436,12 @@ students:
     weburl:
     bio: 'Youer is a graduate student in Cornell University working with Lorenzo Alvisi.'
   -
-    name: 'Sandra Siby'
-    pic: ssiby.jpg
+    name: 'Kevin Sekniqi'
+    pic: kevinsekniqi.jpg
     title:
-    email: sandra.siby@epfl.ch
-    weburl:
-    bio: "Sandra is a first year graduate student at EPFL. She is interested in network security, distributed systems and privacy.\n"
+    email: kevin@sekniqi.com
+    weburl: 'https://sekniqi.com/'
+    bio: 'Kevin Sekniqi is a graduate student at Cornell University working with Robbert van Renesse.'
   -
     name: 'Isaac Sheff'
     pic: isaac.jpg
@@ -449,6 +449,13 @@ students:
     email:
     weburl:
     bio: "Isaac Sheff is a Computer Science Ph.D. candidate at Cornell working with Andrew Myers and Robbert van Renesse at the intersection of distributed systems and programming languages. He works with decentralized trust, atomic transactions, and consensus protocols.\n"
+  -
+    name: 'Sandra Siby'
+    pic: ssiby.jpg
+    title:
+    email: sandra.siby@epfl.ch
+    weburl:
+    bio: "Sandra is a first year graduate student at EPFL. She is interested in network security, distributed systems and privacy.\n"
   -
     name: 'Itay Tsabary'
     pic: itay.jpg
