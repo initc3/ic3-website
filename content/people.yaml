@@ -408,6 +408,13 @@ students:
     weburl: 'http://kai-mast.de/'
     bio: "Kai Mast is a student at Cornell's Ithaca campus. His research focus covers distributed database systems and peer-to-peer applications.\n"
   -
+    name: 'Michael Mirkin'
+    pic: mirkin.jpg
+    title:
+    email: smirkin@campus.technion.ac.il
+    weburl: 
+    bio: "Michael Mirkin is a graduate student at the Technion. He's interested in distributed systems, cryptography, and P2P networks."
+  -
     name: 'Amani Moin'
     pic: amoin.jpg
     title:
