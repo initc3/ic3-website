@@ -175,7 +175,7 @@ def publications():
 
 
 def policy():
-    output = join(OUTPUT_DIR, 'policy.html')
+    output = e.calc_output_fullpath('policy.html')
     temp = e.env.get_template('page.html')
 	
     with codecs.open('./content/policy.md', 'r', encoding='utf-8') as c:
@@ -184,7 +184,7 @@ def policy():
 	
     breadcrumb = [{'name': 'Policy', 'url': 'policy.html'}]
     e.render_and_write(temp, dict(
-	title='IC3 – IC3 Conflict of Interest Policy',
+	title='IC3 – Conflict of Interest Policy',
 	content=content,
 	breadcrumb=breadcrumb),
 	               output)
