@@ -48,6 +48,18 @@ Expected outcomes of our work include new cryptocurrency and smart contract solu
     by enforceable payments in case of a breach, as well as high-assurance, high performance systems for storing and
     handling high-value cryptocurrencies and confidential transactions. Please see our <a
         href="http://www.initc3.org/projects.html">Projects page</a> for more info.
+        
+## Governance
+
+IC3 distributes funds internally primarily according to a competitive grant process, conducted at least twice yearly. 
+    We have committed to the following priorities: fostering collaboration between IC3 researchers and partners, 
+    technology transfer for IC3 research, career support for junior faculty, promoting participation of women and 
+    minorities in the blockchain technology area, and encouraging interdisciplinary and cross-campus collaboration 
+    among IC3 faculty. IC3 Co-Directors meet monthly.
+    
+IC3 has created for program chairs and other interested colleagues the following statement on conflicts of interest for 
+    publication submissions: <a
+        href="http://www.initc3.org/policy.html">Policy page</a>
 
 ## Contact
 
