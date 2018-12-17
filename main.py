@@ -175,21 +175,19 @@ def publications():
 
     
 def policy():
-	    output = join(OUTPUT_DIR, 'policy.html')
-	    temp = e.env.get_template('page.html')
+    output = join(OUTPUT_DIR, 'policy.html')
+    temp = e.env.get_template('page.html')
 	
-
-	    with codecs.open('content/policy.md', 'r', encoding='utf-8') as f:
-	        content = f.read()
-	        content = markdown.markdown(content)
+    with codecs.open('content/policy.md', 'r', encoding='utf-8') as f:
+	content = f.read()
+	content = markdown.markdown(content)
 	
-
-	    breadcrumb = [{'name': 'Policy', 'url': 'policy.html'}]
-	    e.render_and_write(temp, dict(
-	        title='IC3 – IC3 Conflict-of-Interest Policy',
-	        content=content,
-	        breadcrumb=breadcrumb),
-	                       output)
+    breadcrumb = [{'name': 'Policy', 'url': 'policy.html'}]
+    e.render_and_write(temp, dict(
+	title='IC3 – IC3 Conflict of Interest Policy',
+	content=content,
+	breadcrumb=breadcrumb),
+	               output)
 
 
 def blogs():
