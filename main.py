@@ -173,13 +173,13 @@ def publications():
         breadcrumb=breadcrumb),
                        output)
 
-    
+
 def policy():
     output = join(OUTPUT_DIR, 'policy.html')
     temp = e.env.get_template('page.html')
 	
-    with codecs.open('content/policy.md', 'r', encoding='utf-8') as f:
-	content = f.read()
+    with codecs.open('./content/policy.md', 'r', encoding='utf-8') as c:
+	content = c.read()
 	content = markdown.markdown(content)
 	
     breadcrumb = [{'name': 'Policy', 'url': 'policy.html'}]
