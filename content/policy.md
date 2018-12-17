@@ -1,6 +1,7 @@
 # IC3 Conflict-of-Interest Policy
 
 IC3 recognizes that questions may arise as to whether membership on the part of an author and reviewer may constitute a conflict of interest in the process of scholarly peer review. Our position is that IC3 membership alone does not give rise to such conflicts, for the following reasons:
+
 - IC3 performs joint fundraising on behalf of its members, but holds a competitive internal grant award process. Thus IC3 members enjoy a balance of cooperation and competition analogous to that in the broader community. Serving as co-PIs on an internal IC3 grant, however, would be considered a COI.
 
 - IC3 spans eight academic institutions, and represents a diverse range of academic backgrounds and interests. There is considerable variation in the degree of participation and collaboration among its members. Some IC3 members belong to other (sometimes even competing) academic organizations. IC3 membership alone therefore does not automatically signify a degree of common interest that would introduce undue bias into the academic review process.  
