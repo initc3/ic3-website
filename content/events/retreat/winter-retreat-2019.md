@@ -7,4 +7,6 @@ summary: IC3 faculty, students and industry members gather twice per year to dis
 ---
 
 IC3 faculty, students and sponsors gather at IC3 Retreats to discuss the major technical challenges, issues and innovative solutions to widespread blockchain adoption. Please check back later for the agenda and additional information.
-For more information and agenda: https://github.com/bl4ck5un/ic3-website/files/2696956/IC3.website.2019.Winter.Retreat.Dec.19.docx 
+For more information and agenda: <a
+        href="https://github.com/bl4ck5un/ic3-website/files/2696956/IC3.website.2019.Winter.Retreat.Dec.19.docx">IC3 Retreat Info</a>
+        
