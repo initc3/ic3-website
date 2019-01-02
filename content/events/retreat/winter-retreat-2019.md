@@ -6,8 +6,7 @@ end: 2019-02-15
 summary: IC3 faculty, students and industry members gather twice per year to discuss the major technical challenges and innovative solutions to widespread blockchain adoption.
 ---
 
-IC3 faculty, students and sponsors gather at IC3 Retreats to discuss the major technical challenges, issues and innovative solutions to widespread blockchain adoption. For registration, information and the agenda, please see <a
-        href="https://github.com/bl4ck5un/ic3-website/blob/master/files/retreat/IC3.website.2019.Winter.Retreat.pdf">IC3 Retreat Info</a>
+IC3 faculty, students and sponsors gather at IC3 Retreats to discuss the major technical challenges, issues and innovative solutions to widespread blockchain adoption. For registration, information and the agenda, please see [IC3 Retreat Info](../files/retreat/IC3.website.2019.Winter.Retreat.pdf).
 
 
       
