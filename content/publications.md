@@ -1,5 +1,6 @@
 # Preprints
 
+- S.K.D. Maram, F. Zhang, L. Wang, A. Low, Y. Zhang, A. Juels, and D. Song [CHURP: Dynamic-Committee Proactive Secret Sharing] (https://eprint.iacr.org/2019/017)
 - A. Hicks, V. Mavroudis, M. Al-Bassam, S. Meiklejohn and S.J. Murdoch. [ VAMS: Verifiable Auditing of Access to Confidential Data](https://arxiv.org/abs/1805.04772)
 - P. McCorry, S. Bakshi, I. Bentov, S. Meiklejohn and A. Miller. [Pisa: Arbitration Outsourcing for State Channels](https://www.cs.cornell.edu/~iddo/pisa.pdf)
 - S. Azouvi, P. McCorry, S. Meiklejohn. [ Betting on Blockchain Consensus with Fantomette](https://arxiv.org/abs/1805.06786)
