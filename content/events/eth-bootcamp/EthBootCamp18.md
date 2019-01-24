@@ -39,6 +39,8 @@ IC3 and the Ethereum Foundation Conducted our Third Immersive Weeklong Coding an
 
 There were 10 project teams.  Awards were made to the top 3 teams at the Celebration and Awards Dinner on July 18 at Coltivare in downtown Ithaca.
 
+"I found the Boot Camp to be a perfect place to meet like-minded people and top researchers in the blockchain community. After the Boot Camp, I ended up joining the project that I worked on during the Camp. There were many other takeaways from the Boot Camp - very enlightening workshops, some very interesting dinner table conversations, and continued ongoing collaboration with other attendees!" - Aditya Asgaonkar
+
 # Top 3 Projects – Award Winners at the Celebration and Awards Dinner
 
 <div class="ui piled segment">
