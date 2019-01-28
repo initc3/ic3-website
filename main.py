@@ -18,8 +18,25 @@ import fetchall
 import press as ic3press
 from base import StaticSiteGenerator
 
-logging.basicConfig(filename='files/build.log', level=logging.DEBUG)
+import logging
 
+# set up logging
+logFormatter = logging.Formatter("%(asctime)s [%(threadName)-12.12s] [%(levelname)-5.5s]  %(message)s")
+rootLogger = logging.getLogger()
+
+LOG_PATH = 'files/build.log'
+
+fileHandler = logging.FileHandler(LOG_PATH)
+fileHandler.setFormatter(logFormatter)
+fileHandler.setLevel(logging.DEBUG)
+rootLogger.addHandler(fileHandler)
+
+consoleHandler = logging.StreamHandler()
+consoleHandler.setFormatter(logFormatter)
+consoleHandler.setLevel(logging.INFO)
+rootLogger.addHandler(consoleHandler)
+
+# set up arguments
 parser = OptionParser()
 parser.add_option("-d", "--deploy", action="store_true", dest="deploy", help="trigger compression of images",
                   default=False)
@@ -53,7 +70,7 @@ def index():
     press = recent_press
 
     # dedupe using url. note that p[1] is url
-    press = {p.url: p for p in press}.values()
+    press = list({p.url: p for p in press}.values())
 
     # sort events and press together by date
     # only display first eight items
@@ -72,7 +89,7 @@ def index():
     n_events = len(items)
 
     if n_events == 0:
-        print 'too few events. cannot update the website'
+        print('too few events. cannot update the website')
         sys.exit(1)
 
     if options.deploy:
@@ -114,7 +131,7 @@ def people():
         return ppl_item['name'].split(' ')[-1]
 
     # sort by last names
-    for k, v in data.items():
+    for k, v in list(data.items()):
         data[k] = sorted(v, key=_get_last_name)
 
     breadcrumb = [{'name': 'People', 'url': 'people.html'}]
@@ -300,8 +317,11 @@ def compress_image(dir='images/hotlinks', size=(80, 80)):
 
             img = Image.open(src)
             img.thumbnail(size)
+            # Since Pillow 4.2.0, JPEG files with RGBA will cause an exception
+            # https://github.com/python-pillow/Pillow/issues/2609
+            img = img.convert("RGB")
             img.save(dest)
-            print 'Compressing %s' % dest
+            logging.info('Compressed: {}'.format(src))
 
 
 if __name__ == '__main__':

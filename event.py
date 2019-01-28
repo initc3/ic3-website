@@ -77,7 +77,7 @@ class Event:
         return self.__unicode__()
 
     def __unicode__(self):
-        s = u"- Event: [%s] (%s): " % (self.name, self._format_date(False))
+        s = "- Event: [%s] (%s): " % (self.name, self._format_date(False))
         return s.encode('utf-8')
 
     def _parse_metadata(self, front_matter):
@@ -89,8 +89,8 @@ class Event:
         for of in Event.OPTIONAL_FIELDS():
             setattr(self, of, front_matter.get(of, ""))
 
-        if front_matter.has_key('external'):
-            print 'Warning: deprecated tags used'
+        if 'external' in front_matter:
+            print('Warning: deprecated tags used')
 
         self.url = None
         self.tags = None
@@ -144,7 +144,7 @@ class Event:
         return self.end.strftime(DEFAULT_DATE_FORMAT)
 
     def parse_md(self, ssg_engine, md_src):
-        print 'processing %s' % md_src
+        print('processing %s' % md_src)
         if not exists(md_src):
             raise Exception('%s does not exist' % md_src)
 
@@ -185,9 +185,8 @@ class Event:
         temp = ssg_engine.env.get_template('event_details.html')
         html = temp.render(self.render_cntx)
 
-        # logging.info('writing to {}'.format(self.output_path))
-        print('writing to {}'.format(self.output_path))
-        ssg_engine.write(html.encode('utf-8'), self.output_path)
+        logging.info('writing to {}'.format(self.output_path))
+        ssg_engine.write(html, self.output_path)
 
     def has_tag(self, tag):
         if tag not in Event.VALID_TAGS():
@@ -231,7 +230,7 @@ def get_event_list(env, expire_in_days=None):
         events.append(e)
 
     if expire_in_days:
-        events = filter(lambda ev: not ev.has_expired(expire_in_days=expire_in_days), events)
+        events = [ev for ev in events if not ev.has_expired(expire_in_days=expire_in_days)]
 
     event_metadata = sorted(events, key=attrgetter('start'), reverse=True)
 
@@ -239,9 +238,9 @@ def get_event_list(env, expire_in_days=None):
 
 
 def get_upcoming_events(e, expire_in_days=None):
-    print 'Getting upcoming events'
+    print('Getting upcoming events')
     event_list = get_event_list(e, expire_in_days=expire_in_days)
-    ongoing = filter(lambda x: x.end >= datetime.date.today(), event_list)
+    ongoing = [x for x in event_list if x.end >= datetime.date.today()]
 
     return ongoing
 
@@ -251,11 +250,11 @@ def get_featured_events(e, expire_in_days):
     :param e: template engine needed here [why? I forgot]
     :return: a list of upcoming or featured events
     """
-    print 'Getting featured events'
+    print('Getting featured events')
     event_list = get_event_list(e, expire_in_days)
 
     today = datetime.date.today()
-    featured = filter(lambda ev: ev.has_tag('featured') or ev.end >= today, event_list)
+    featured = [ev for ev in event_list if ev.has_tag('featured') or ev.end >= today]
     return featured
 
 
@@ -265,8 +264,8 @@ def write_event_list_page(e):
     for ev in event_list:
         ev.write_file(e)
 
-    ongoing = filter(lambda x: x.end >= datetime.date.today() and (not x.has_tag(Tags.NOLIST)), event_list)
-    past = filter(lambda x: x.end < datetime.date.today(), event_list)
+    ongoing = [x for x in event_list if x.end >= datetime.date.today() and (not x.has_tag(Tags.NOLIST))]
+    past = [x for x in event_list if x.end < datetime.date.today()]
 
     event_index_temp = e.env.get_template('event_list.html')
     output = e.calc_output_fullpath('events.html')

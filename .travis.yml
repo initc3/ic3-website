@@ -1,19 +1,20 @@
 language: python
 cache: pip
-python: 2.7.10
+python:
+  - "3.6"
+  - "2.7"
 before_install:
-  - 'sudo apt-get update && sudo apt-get install --yes unoconv libreoffice'
+  - 'sudo apt-get update && sudo apt-get install --yes unoconv'
 install:
-  - 'pip install -r requirements.txt'
+  - 'pip3 install -r requirements.txt'
   # `awscli` is required for invalidation of CloudFront distributions.
-  - 'pip install awscli'
+  - 'pip3 install awscli'
 script:
   - 'make -C content/press'
-  - 'python main.py -d'
-  - file output/blogs.html
-  - cat output/blogs.html
+  - 'python3 main.py -d'
 after_success:
   - 'chmod u+x compress.sh && ./compress.sh'
+  - file output/blogs.html
 deploy:
   -
     provider: s3

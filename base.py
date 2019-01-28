@@ -18,7 +18,7 @@ class StaticSiteGenerator(object):
 
     def __init__(self, deploy=False):
         self.def_cntx = dict(SITE_ROOT='.')
-        print 'deploy: ' + str(deploy)
+        print('deploy: ' + str(deploy))
         if exists(StaticSiteGenerator.output_dir):
             shutil.rmtree(StaticSiteGenerator.output_dir)
         os.mkdir(StaticSiteGenerator.output_dir)
@@ -34,18 +34,18 @@ class StaticSiteGenerator(object):
         with open(filename, 'w') as f:
             f.write(content)
 
-    def write_utf8(self, content, filename):
-        try:
-            out = content.encode('utf-8')
-        except Exception as e:
-            logging.error(e)
-            raise
-
-        logging.debug("writing at {}: {}".format(filename, out))
-        self.write(out, filename)
+    # def write_utf8(self, content, filename):
+    #     try:
+    #         out = content.encode('utf-8')
+    #     except Exception as e:
+    #         logging.error(e)
+    #         raise
+    #
+    #     logging.debug("writing at {}: {}".format(filename, out))
+    #     self.write(out, filename)
 
     def render_and_write(self, template, cntx, path):
-        self.write_utf8(self.render(template, cntx), path)
+        self.write(self.render(template, cntx), path)
 
     def default_context(self):
         return copy.copy(self.def_cntx)

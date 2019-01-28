@@ -1,5 +1,5 @@
 import pyquery
-import urllib2
+import urllib.request, urllib.error, urllib.parse
 import sys
 import datetime
 import time
@@ -32,7 +32,7 @@ def fetchall(num_recent_blogs=4):
     target = ["http://hackingdistributed.com/tag/bitcoin/", "http://hackingdistributed.com/tag/ethereum/"]
 
     for argurl in target:
-        print 'Fetching: ', argurl
+        print('Fetching: ', argurl)
 
         r = requests.request('GET', argurl)
         r.encoding = 'utf-8'
@@ -54,11 +54,11 @@ def fetchall(num_recent_blogs=4):
                 elif len(date_components) == 7:
                     date_object = time.strptime(date, '%A %B %d, %Y at %I:%M %p')
                 else:
-                    print "cannot parse date"
+                    print("cannot parse date")
                 results.append((date_object, url, title, date, authors, summary))
 
     # dedupe using url. note that p[1] is url
-    results = {p[1]: p for p in results}.values()
+    results = list({p[1]: p for p in results}.values())
     results.sort(reverse=True)
 
     posts = []
@@ -75,7 +75,7 @@ def fetchall(num_recent_blogs=4):
         img = d.find("div.figure img")
         imgsrc = pq(img).attr["src"]
         # title = title.replace("'", "\\'")
-        print 'Generating preview for: ', title
+        print('Generating preview for: ', title)
         # summary = summary.replace("'", "\\'")
         # try to get the first author's pic
         if imgsrc is None:
@@ -85,7 +85,7 @@ def fetchall(num_recent_blogs=4):
             imgsrc = "http://hackingdistributed.com/images/vzamfir.jpg"
         # go with the ic3 default
         if imgsrc is not None:
-            response = urllib2.urlopen(imgsrc)
+            response = urllib.request.urlopen(imgsrc)
             imagecontents = response.read()
             _, imageext = os.path.splitext(imgsrc)
             imagehash = hashlib.sha256()
@@ -99,7 +99,7 @@ def fetchall(num_recent_blogs=4):
                 except OSError as e:
                     if e.errno != errno.EEXIST:
                         raise
-            with open(imgsrc, "w") as img:
+            with open(imgsrc, 'wb') as img:
                 img.write(imagecontents)
         else:
             imgsrc = "http://initc3.org/images/news/ic3_image.jpg"
