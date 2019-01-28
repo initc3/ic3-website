@@ -1,16 +1,18 @@
-import re
-from jinja2 import FileSystemLoader, Environment
-import os
 import copy
-from os.path import exists
+import logging
+import os
+import re
 import shutil
+from os.path import exists
+
+from jinja2 import FileSystemLoader, Environment
 
 
 def dateformat(value, format='%b %d, %Y'):
     return value.strftime(format)
 
 
-class StaticSiteGenerator (object):
+class StaticSiteGenerator(object):
     env = Environment(loader=FileSystemLoader('./templates/'))
     output_dir = os.path.join(os.path.dirname(__file__), 'output')
 
@@ -35,9 +37,11 @@ class StaticSiteGenerator (object):
     def write_utf8(self, content, filename):
         try:
             out = content.encode('utf-8')
-        except:
+        except Exception as e:
+            logging.error(e)
             raise
 
+        logging.debug("writing at {}: {}".format(filename, out))
         self.write(out, filename)
 
     def render_and_write(self, template, cntx, path):

@@ -1,27 +1,30 @@
 # encoding: utf-8
 
-import fnmatch
-import yaml
 import codecs
-import markdown
-from os.path import join
-from base import StaticSiteGenerator
-import os
-import sys
-import shutil
 import errno
-from optparse import OptionParser
+import fnmatch
 import logging
+import os
+import shutil
+import sys
+from optparse import OptionParser
+from os.path import join
+
+import markdown
+import yaml
 
 import event
 import fetchall
 import press as ic3press
+from base import StaticSiteGenerator
 
-logging.basicConfig(level=logging.INFO)
+logging.basicConfig(filename='files/build.log', level=logging.DEBUG)
 
 parser = OptionParser()
-parser.add_option("-d", "--deploy", action="store_true", dest="deploy", help="trigger compression of images", default=False)
-parser.add_option("--disable-news", action="store_true", dest="disable_news", help="doesn't build news feeds. Use this if unoconv is not available.",
+parser.add_option("-d", "--deploy", action="store_true", dest="deploy", help="trigger compression of images",
+                  default=False)
+parser.add_option("--disable-news", action="store_true", dest="disable_news",
+                  help="doesn't build news feeds. Use this if unoconv is not available.",
                   default=False)
 (options, args) = parser.parse_args()
 
@@ -101,6 +104,7 @@ def about():
         breadcrumb=breadcrumb),
                        output)
 
+
 def people():
     output = os.path.join(OUTPUT_DIR, 'people.html')
     with open('./content/people.yaml', 'r') as c:
@@ -115,14 +119,12 @@ def people():
 
     breadcrumb = [{'name': 'People', 'url': 'people.html'}]
 
-
-
     temp = e.env.get_template('people.html')
     e.render_and_write(temp, dict(
         title='IC3 - Projects',
         breadcrumb=breadcrumb,
         people=data),
-        output)
+                       output)
 
 
 def partners():
@@ -177,17 +179,17 @@ def publications():
 def policy():
     output = e.calc_output_fullpath('policy.html')
     temp = e.env.get_template('page.html')
-	
+
     with codecs.open('./content/policy.md', 'r', encoding='utf-8') as c:
-	content = c.read()
-	content = markdown.markdown(content)
-	
+        content = c.read()
+        content = markdown.markdown(content)
+
     breadcrumb = [{'name': 'Policy', 'url': 'policy.html'}]
     e.render_and_write(temp, dict(
-	title='IC3 - COI Policy',
-	content=content,
-	breadcrumb=breadcrumb),
-	               output)
+        title='IC3 - COI Policy',
+        content=content,
+        breadcrumb=breadcrumb),
+                       output)
 
 
 def blogs():
@@ -200,11 +202,15 @@ def blogs():
         _, posts = fetchall.fetchall()
     else:
         posts = []
+    logging.info("got {} blogs".format(len(posts)))
+    for p in posts:
+        logging.info(p["title"])
+
     e.render_and_write(temp, dict(
-                                title='IC3 - Blogs',
-                                blogs=posts,
-                                breadcrumb=breadcrumb),
-                                output)
+        title='IC3 - Blogs',
+        blogs=posts,
+        breadcrumb=breadcrumb),
+                       output)
 
 
 def press():
@@ -217,11 +223,11 @@ def press():
     breadcrumb = [{'name': 'Press', 'url': 'press.html'}]
 
     e.render_and_write(temp, dict(
-                                title='IC3 - Press',
-                                all_press=all_press,
-                                featured_press=featured_press,
-                                breadcrumb=breadcrumb),
-                                output)
+        title='IC3 - Press',
+        all_press=all_press,
+        featured_press=featured_press,
+        breadcrumb=breadcrumb),
+                       output)
 
 
 def page_not_found():
@@ -285,8 +291,8 @@ def video():
 def compress_image(dir='images/hotlinks', size=(80, 80)):
     for root, dirname, filenames in os.walk(dir):
         for filename in fnmatch.filter(filenames, '*.jpg') + \
-                fnmatch.filter(filenames, '*.jpeg') + \
-                fnmatch.filter(filenames, '*.png'):
+                        fnmatch.filter(filenames, '*.jpeg') + \
+                        fnmatch.filter(filenames, '*.png'):
             src = os.path.join(root, filename)
             dest = os.path.join(OUTPUT_DIR, src)
             if not os.path.exists(os.path.dirname(dest)):
