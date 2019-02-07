@@ -512,3 +512,10 @@ students:
     email: fz84@cornell.edu
     weburl: 'http://www.cs.cornell.edu/~fanz/'
     bio: "Fan Zhang is a PhD candidate in the department of Computer Science at Cornell University. Under the advice of Prof. Ari Juels, his research interest is in blockchains, trusted hardware, system security and applied cryptography. He's particularly interested in understanding and building hybrid systems that enjoy the best of both blockchains and trusted hardware."
+  -
+    name: 'Lun Wang'
+    pic: lunwang.png
+    title:
+    email: wanglun@berkeley.edu
+    weburl: 'http://wanglunucb.com'
+    bio: "Lun Wang is a Ph.D. student in EECS at UC Berkeley working with Prof. Dawn Song. His research interest is in the intersection of machine learning and security, data privacy, programming language, blockchains and applied cryptography."
