@@ -35,8 +35,7 @@ IC3 uniquely meets the blockchain community&#39;s urgent need for world-class ex
 
 ## Funding
 
-IC3 faculty are the recipients of a $3M 3-year National Science Foundation grant awarded in 2015. We invite
-    partners in industry, law and commerce to sponsor and collaborate with us in our mission to deliver powerful,
+We invite partners in industry, law and commerce to sponsor and collaborate with us in our mission to deliver powerful,
     principled, and practical innovations. Please see our <a href="http://www.initc3.org/partners.html">Partners page</a>
     for how to get involved.
 
