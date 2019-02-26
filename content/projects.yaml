@@ -102,7 +102,7 @@ projects:
      description: 'Teechan is a new scalability solution that IC3 originally developed for Bitcoin, but also with broad applications for permissioned blockchains. Teechan uses a trusted execution environment (TEE) to secure user credentials. It is a new, practical, high throughput, low latency off-chain transaction protocol that can be deployed securely on the Bitcoin network, as it exists today. For more info, please see our white paper at <a href="https://www.cs.cornell.edu/People/egs/papers/teechan.pdf"> https://www.cs.cornell.edu/People/egs/papers/teechan.pdf</a>.'
 
   -
-     name: 'The Gap Game'
-     challenges:
-     description: 'Incentive analysis in a pow cryptocurrency where transaction fees play a dominant role. We analyze such systems as a game and show "mining gaps" occur - periods of time where miners are incentivized to be idle instead of actively mining. We also show in such systems miners are beeter off forming coalitions, which leads to a centralized system. For more info, please see <a href="https://dl.acm.org/citation.cfm?id=3243737"> https://dl.acm.org/citation.cfm?id=3243737</a>.'
+     name: 'Teechain'
+     challenges: [*scaling]
+     description: Teechain is the first asynchronous second layer payment network that allows users to execute immediate payments while not requiring parties to constantly monitor the blockchain. Teechain leverages trusted execution environments (TEEs) and uses a new variant of chain replication to ensure security against TEE compromise and side-channel attacks. Teechain achieves at least 33x better throughput than other existing payment networks. For more info, please see <a href="https://www.teechain.network"> https://www.teechain.network</a>.
      
