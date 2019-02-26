@@ -106,3 +106,23 @@ projects:
      challenges: [*scaling]
      description: Teechain is the first asynchronous second layer payment network that allows users to execute immediate payments while not requiring parties to constantly monitor the blockchain. Teechain leverages trusted execution environments (TEEs) and uses a new variant of chain replication to ensure security against TEE compromise and side-channel attacks. Teechain achieves at least 33x better throughput than other existing payment networks. For more info, please see <a href="https://www.teechain.network"> https://www.teechain.network</a>.
      
+  -
+     name: 'Charlotte'
+     challenges: [*scaling]
+     description: Charlotte is a new open framework for building parallel, interoperable blockchainsystems. It supports a variety of consensus mechanisms including proof of work as well as more classic distributed consensus protocols.
+     
+  -   
+     name: 'VyperFlow'
+     challenges: [*correctness]
+     description: VyperFlow is a new programming language for blockchain-based smart contracts based on Vyper. It incorporates information flow control into its type system to maintain the integrity of data within a contract and avoid performing dangerous operations as a result of untrustworthy inputs. These techniques allow for static analysis that provably eliminates large classes of vulnerabilities, including the bugs that allowed attackers to extract and freeze tens of millions of dollars in the two Parity Wallet incidents, as well as some reentrancy bugs like those that doomed the DAO.
+     
+  -
+     name: 'Selfish Mining Re-examined'
+     challenges: [*compliance]
+     description: This project revisits the selfish mining (SM) strategy in two ways. First, we present a modified SM strategy, convert selfish mining, that, perplexingly, is more profitable than Nakamoto even when the attacker performs no selfish mining after a difficulty adjustment. This strategy has the added benefit that it is even harder to detect than pure SM, and may additionally increase token value through deflation. Second, we analyze the profitability of SM under several difficulty adjustment schemes.
+     
+  -
+     name: 'Autonomous Blockchains'
+     challenges: [*scaling]
+     description: Autonomous blockchains are a new blockchain architecture based on free-standing, immutable, eidetic databases that implement independent timelines, linked together through interactions. Autonomous blockchains can be realized inside trusted execution environments, to provide not only blockchain-like integrity and auditability guarantees, but also support the storage and querying of private data. For more info, please see <a href="https://credb.systems/"> https://credb.systems/</a>
+     
