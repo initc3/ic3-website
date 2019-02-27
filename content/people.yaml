@@ -516,7 +516,6 @@ students:
     name: 'Sinisa Matetic'
     pic: smatetic.png
     title:
-    email: 'sinisa.matetic@inf.ethz.ch'
+    email: sinisa.matetic@inf.ethz.ch
     weburl: 
-    bio: "Sinisa Matetic is a PhD Researcher in the Institute of Information Security, ETH Zurich. He was born in Split, Croatia. Prior to joining ETH Zurich, he worked as a Management Consultant at A.T. Kearney in the SEE region.
-Sinisa's research interest are in system security focusing on distributed systems, trusted hardware, blokchain-based technology design and integrity protection.\n"
+    bio: "Sinisa Matetic is a PhD Researcher in the Institute of Information Security, ETH Zurich. He was born in Split, Croatia. Prior to joining ETH Zurich, he worked as a Management Consultant at A.T. Kearney in the SEE region. Sinisa's research interest are in system security focusing on distributed systems, trusted hardware, blockchain-based technology design and integrity protection."
