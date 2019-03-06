@@ -129,5 +129,34 @@ projects:
   -
      name: 'Avalanche'
      challenges: [*scaling]
-     description: BFT consensus used by cryptocurrencies consists of two families: traditional consensus and Nakamoto's consensus. The former is usually leader-based, quadratic in message complexity. It requires precise membership knowledge, and suffers from leader bottleneck as it scales up in size. While the latter does not require membership, it is poor in performance and wasteful in energy due to PoW. This project proposes the third, new category of consensus protocls that is PoW-free, leader-less, committee-less, and permission-less. It exerts the powerful meta-stability inspired by epidemic protocols, and operators as fast as the network propagates. For more info, please see <a href="https://avalanchelabs.org/QmT1ry38PAmnhparPUmsUNHDEGHQusBLD6T5XJh4mUUn3v.pdf">our paper (https://avalanchelabs.org/QmT1ry38PAmnhparPUmsUNHDEGHQusBLD6T5XJh4mUUn3v.pdf)</a>
+     description: BFT consensus used by cryptocurrencies consists of two families: traditional consensus and Nakamotos consensus. The former is usually leader-based, quadratic in message complexity. It requires precise membership knowledge, and suffers from leader bottleneck as it scales up in size. While the latter does not require membership, it is poor in performance and wasteful in energy due to PoW. This project proposes the third, new category of consensus protocls that is PoW-free, leader-less, committee-less, and permission-less. It exerts the powerful meta-stability inspired by epidemic protocols, and operators as fast as the network propagates. For more info, please see <a href="https://avalanchelabs.org/QmT1ry38PAmnhparPUmsUNHDEGHQusBLD6T5XJh4mUUn3v.pdf">our paper (https://avalanchelabs.org/QmT1ry38PAmnhparPUmsUNHDEGHQusBLD6T5XJh4mUUn3v.pdf)</a>
      
+  -
+     name: "T-Rex"
+     challenges: [*correctness, *scaling]
+     description: This project proposes a real-time and trust-free cryptocurrency exchange based on Intel SGX. It can effectively prevent eclipse attacks without assuming trusted clocks. It also prevents a malicious trader who colludes with the server from reneging on a trade after observing the price fluctuations. 
+     
+  -
+     name: "Saber"
+     challenges: [*correctness, *scaling] 
+     description: This project proposes the paradigm for parallel and asynchronous smart contract execution. Our paradigm distinguishes between consensus nodes and execution nodes. It allows different groups of execution nodes to execute transactions in parallel, and meanwhile, consensus nodes can continue ordering transactions and processing execution results in a non-blocking way. Due to our new dispute resolution strategy, it (empirically) only requires 10 execution nodes in each group. Moreover, it requires no coordination among execution nodes and can effectively prevent livelocks.
+     
+  -   
+     name: "monoCash"
+     challenges: [*correctness]
+     description: This project proposes the first off-chain payment network that is channel-free, thereby it is a one-hop, routing-free, concurrency-friendly, rebalancing-free, and fully decentralized.
+     
+  -   
+     name: "HiveMind"
+     challenges: [*confidentiality]
+     description: HiveMind is a blockchain-based machine learning platform allowing participants to contribute data and train models in a fully decentralized way. It leverages federated learning to reduce overhead both in communication and computation. It combines a novel blockchain-based secure aggregation protocol with client-level differential privacy to prevent information leakage from the model parameters.
+     
+  -  
+     name: "TxProbe"
+     challenges: [*scaling]
+     description: TxProbe is a mechanism for inferring the topology of the Bitcoin P2P network, making use of how nodes process out-of-order (or (&quot;orphan&quot;)) transactions. It can be used  to take snapshots of the network over a period of minutes. For more info, please see <a href="https://arxiv.org/abs/1812.00942"> https://arxiv.org/abs/1812.00942</a>
+     
+  -   
+     name: "SaUCy"
+     challenges: [*compliance]
+     description: Universal Composability (UC) is a unifying framework for cryptography theory. SaUCy is a process calculus and programming language that aims to use UC as the foundation for modular protocol implementations.
