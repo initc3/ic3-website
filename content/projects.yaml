@@ -125,12 +125,7 @@ projects:
      name: 'Autonomous Blockchains'
      challenges: [*scaling]
      description: Autonomous blockchains are a new blockchain architecture based on free-standing, immutable, eidetic databases that implement independent timelines, linked together through interactions. Autonomous blockchains can be realized inside trusted execution environments, to provide not only blockchain-like integrity and auditability guarantees, but also support the storage and querying of private data. For more info, please see <a href="https://credb.systems/"> https://credb.systems/</a>
-     
-  -
-     name: 'Avalanche'
-     challenges: [*scaling]
-     description: BFT consensus used by cryptocurrencies consists of two families: traditional consensus and Nakamotos consensus. The former is usually leader-based, quadratic in message complexity. It requires precise membership knowledge, and suffers from leader bottleneck as it scales up in size. While the latter does not require membership, it is poor in performance and wasteful in energy due to PoW. This project proposes the third, new category of consensus protocls that is PoW-free, leader-less, committee-less, and permission-less. It exerts the powerful meta-stability inspired by epidemic protocols, and operators as fast as the network propagates.
-     
+          
   -
      name: "T-Rex"
      challenges: [*correctness, *scaling]
