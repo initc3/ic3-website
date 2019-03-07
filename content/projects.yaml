@@ -129,7 +129,7 @@ projects:
   -
      name: 'Avalanche'
      challenges: [*scaling]
-     description: BFT consensus used by cryptocurrencies consists of two families: traditional consensus and Nakamotos consensus. The former is usually leader-based, quadratic in message complexity. It requires precise membership knowledge, and suffers from leader bottleneck as it scales up in size. While the latter does not require membership, it is poor in performance and wasteful in energy due to PoW. This project proposes the third, new category of consensus protocls that is PoW-free, leader-less, committee-less, and permission-less. It exerts the powerful meta-stability inspired by epidemic protocols, and operators as fast as the network propagates. For more info, please see <a href="https://avalanchelabs.org/QmT1ry38PAmnhparPUmsUNHDEGHQusBLD6T5XJh4mUUn3v.pdf">our paper (https://avalanchelabs.org/QmT1ry38PAmnhparPUmsUNHDEGHQusBLD6T5XJh4mUUn3v.pdf)</a>
+     description: BFT consensus used by cryptocurrencies consists of two families: traditional consensus and Nakamotos consensus. The former is usually leader-based, quadratic in message complexity. It requires precise membership knowledge, and suffers from leader bottleneck as it scales up in size. While the latter does not require membership, it is poor in performance and wasteful in energy due to PoW. This project proposes the third, new category of consensus protocls that is PoW-free, leader-less, committee-less, and permission-less. It exerts the powerful meta-stability inspired by epidemic protocols, and operators as fast as the network propagates.
      
   -
      name: "T-Rex"
