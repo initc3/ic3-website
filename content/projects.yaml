@@ -198,4 +198,4 @@ projects:
      
   -   
      name: "CHURP (CHUrn-Robust Proactive secret sharing)" 
-     description: CHURP enables secure secret-sharing in dynamic settings where the committee of nodes storing a secret may change over time. Designed for blockchain settings, CHURP has communication complexity much lower than previous schemes: O(n) on-chain and O(n^2) off-chain in the optimistic case of no node failures.
+     description: CHURP enables secure secret-sharing in dynamic settings where the committee of nodes storing a secret may change over time. Designed for blockchain settings, CHURP has communication complexity much lower than previous schemes; O(n) on-chain and O(n^2) off-chain in the optimistic case of no node failures.
