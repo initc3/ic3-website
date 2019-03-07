@@ -155,3 +155,47 @@ projects:
      name: "SaUCy"
      challenges: [*compliance]
      description: Universal Composability (UC) is a unifying framework for cryptography theory. SaUCy is a process calculus and programming language that aims to use UC as the foundation for modular protocol implementations.
+     
+  -    
+     name: "Avalanche"
+     challenges: [*scaling]
+     description: BFT consensus used by cryptocurrencies consists of two families: traditional consensus and Nakamoto's consensus. The former is usually leader-based, quadratic in message complexity. It requires precise membership knowledge, and suffers from leader bottleneck as it scales up in size. While the latter does not require membership, it is poor in performance and wasteful in energy due to PoW. This project proposes the third, new category of consensus protocols that is PoW-free, leader-less, committee-less, permission-less. It exerts the powerful meta-stability inspired by epidemic protocols, and operators as fast as the network propagates. For more info, please see <a href="https://avalanchelabs.org/QmT1ry38PAmnhparPUmsUNHDEGHQusBLD6T5XJh4mUUn3v.pdf"> https://avalanchelabs.org/QmT1ry38PAmnhparPUmsUNHDEGHQusBLD6T5XJh4mUUn3v.pdf</a>.
+     
+  -  
+     name: "HoneyBadgerMPC"
+     challenges: [*scaling, *confidentiality, *compliance]
+     description: Multi-Party Computation (MPC) is a flexible paradigm for computing on confidential data. HoneyBadgerMPC is an asynchronous MPC protocol and implementation that scales to large networks and provides blockchain-grade fault tolerance and availability guarantees. For more info, please see <a href="https://github.com/initc3/HoneyBadgerMPC/"> https://github.com/initc3/HoneyBadgerMPC/</a>
+     
+  -   
+     name: "I Can't Believe It's Not Stake"
+     challenges: [*scaling, *correctness]
+     description: Dozens of Proof-of-Stake cryptocurrencies are vulnerable to resource exhaustion attacks due to incomplete validation of blocks prior to allocating storage resources (disk, memory) to data from untrusted peers.
+     
+  -   
+     name: "PISA Outsourcing"
+     challenges: [*scaling, *compliance]
+     description: The security guarantees of Payment Channel Networks (PCNs) rely on the availability of an online party to defend honest nodes in cases of a spurious disputes. PISA is a protocol for outsourcing this task to a limited third party while receiving a fair exchange receipt. For more info, please see <a href="https://eprint.iacr.org/2018/582.pdf"> https://eprint.iacr.org/2018/582.pdf</a>
+     
+  -    
+     name: "Sprites and State Channels"
+     challenges: [*compliance, *scaling]
+     description: Off-chain payment channel networks (PCNs) are a leading approach for improving the scalability of blockchains. Sprites is an innovative construction that reduces the worst-case lockup time during which, funds must be held in escrow for a PCN payment. For more info, please see <a href="https://arxiv.org/abs/1702.05812"> https://arxiv.org/abs/1702.05812</a>
+     
+  -   
+     name: "Bone Crusher 2.0"
+     challenges: [*compliance]
+     description: The late legal scholar Greg Lastowka wrote about law, property, and self-government in virtual worlds like Ultima Online. His observations are relevant to blockchains and their communities of users.
+     
+  -    
+     name: "All Smart Contracts Are Ambiguous"
+     challenges: [*compliance]
+     description: Legal contracts are written in natural language, which can introduce ambiguity as to their meaning. Blockchain-based smart contracts are written in programming languages, which seems to give them precise, objective meanings. But because the semantics of a smart contract can change if participants fork the underlying blockchain or revise its protocol, the meaning of a smart contract is always subject to this latent ambiguity.
+     
+  -  
+     name: "Disrupting Blockchain Voting"
+     challenges: [*compliance]
+     description: Check back later for more info.
+     
+  -   
+     name: "CHURP (CHUrn-Robust Proactive secret sharing)" 
+     description: CHURP enables secure secret-sharing in dynamic settings where the committee of nodes storing a secret may change over time. Designed for blockchain settings, CHURP has communication complexity much lower than previous schemes: O(n) on-chain and O(n^2) off-chain in the optimistic case of no node failures.
