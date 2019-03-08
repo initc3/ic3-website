@@ -199,3 +199,32 @@ projects:
   -   
      name: "CHURP (CHUrn-Robust Proactive secret sharing)" 
      description: CHURP enables secure secret-sharing in dynamic settings where the committee of nodes storing a secret may change over time. Designed for blockchain settings, CHURP has communication complexity much lower than previous schemes; O(n) on-chain and O(n^2) off-chain in the optimistic case of no node failures.
+     
+  -   
+     name: "Paralysis Proofs"
+     description: A (3, 3)-multisignature cryptocurrency wallet experiences access-control paralysis upon loss of a single key, but a (2, 3)-multisig allows any two players to collude and steal funds from the third. Paralysis Proofs address this conundrum and others by allowing multisig parameters to be changed *securely* if users become unavailable. For more info, please see <a href="https://eprint.iacr.org/2018/096.pdf"> https://eprint.iacr.org/2018/096.pdf</a>
+     
+  -   
+     name: "Tesseract"
+     challenges: [*confidentiality]
+     description: We propose Tesseract, a secure real-time cryptocurrency exchange service. Existing centralized exchnge designs are vulnerable to theft of funds, while decentralized exchanges cannot offer real-time crrosschain trades. All currently deployed exchanges are also vulnerable to frontrunning attacks. Tesseract overcomes these flaws and achieves a best-of-bothworlds design by using Intel SGX as a trusted execution environment. For more info, please see <a href="https://eprint.iacr.org/2017/1153.pdf"> https://eprint.iacr.org/2017/1153.pdf</a>
+     
+  -   
+     name: "Ekiden"
+     challenges: [*confidentiality]
+     description: Ekiden is a system that addresses these critical confidentiality and performance gaps in smart contracts by combining blockchains with Trusted Execution Environments (TEEs). Ekiden leverages a novel architecture that separates consensus from execution, enabling efficient TEE-backed confidentiality-preserving smart-contracts and high scalability. Our prototype (with Tendermint as the consensus layer) achieves example performance of 600x more throughput and 400x less latency at 1000x less cost than the Ethereum mainnet. For more information, please see <a href="https://arxiv.org/abs/1804.05141"> https://arxiv.org/abs/1804.05141</a>
+     
+  -   
+     name: "Public Incompressible Encodings (PIEs)"
+     challenges: [*adf]
+     description: We present a provably secure approach to proving file replication (or other erasure coding) in distributed storage networks (DSNs). Storing multiple copies of a file F is essential in DSNs to ensure against file loss in the event of faulty servers or corrupt data. The public nature of DSNs, however, makes this goal challenging. Files must be encoded and decoded using public coins - i.e., without encryption or other secret-key operations - and retention of files by servers in the network must be verifiable. For more info, please see <a href="https://eprint.iacr.org/2018/684.pdf"> https://eprint.iacr.org/2018/684.pdf</a>
+     
+  -   
+     name: "Ostraka"
+     challenges: [*scaling]
+     description: Currently, the capacity of a blockchain node can only scale by replacing hardware. For better performance, one must obtain newer hardware. Node capacity effects both initial sync time and block propagation time in the network. We utilize the parallel nature of the UTXO set to build a scalable node architecture.
+     
+  -   
+     name: "The Gap Game"
+     description: Incentive analysis in a PoW cryptocurrency, where transaction fees play a dominant role. We analyze suck systems as a game and show (&quot;mining gaps&quot;) occur - periods of time where miners are incentivized to be idle instead of actively mining. We also show in such systems, miners are better off forming coalitions, which leads to a centralized system. For more info, please see <a href="https://dl.acm.org/citation.cfm?id=3243737"> https://dl.acm.org/citation.cfm?id=3243737<a/>
+     
