@@ -9,4 +9,12 @@ In addition to our scholarship, IC3 has been extremely active in the open source
 - *Zcash*: Ian Miers is a founding scientist of Zcash company. Andrew Miller founded the Zcash Foundation, first US non-profit 501c3 for cryptocurrency.
 - *Monero*: Monerolink paper led to multiple improvements to the ring sampling procedure, remote nodes vulnerability disclosure. <a href="https://cointelegraph.com/news/monero-transactions-history-can-be-revealed-and-exposed-research"> Related news</a>.
 - *Hyperledger*: IC3 is a founding member, currently porting HoneyBadgerBFT consensus protocol to Hyperledger. <a href="https://www.forbes.com/sites/tomgroenfeldt/2017/05/22/blockchain-moves-ahead-with-nasdaq-citi-platform-hyperledger-and-ethereum-growth/#277cefa07333"> Related news</a>. 
-- *Waves*: core consensus mechanism
+- *Waves*: core consensus mechanism is <a href="https://www.usenix.org/node/194907"> Bitcoin NG - paper</a>, invented at IC3 (see Solutions Section below). <a href="https://www.forbes.com/sites/rogeraitken/2017/11/08/waves-set-to-become-fastest-decentralized-blockchain-platform-globally/#291e66d038b6"> Related news</a>.
+- *Aeternity*: core consensus mechanism is <a href="https://hackingdistributed.com/2015/10/14/bitcoin-ng/"> Bitcoin NG - blog</a>, invented at IC3. 
+- *Zcoin, BitMessage*: uses Dandelion. <a href="https://zcoin.io/what-is-dandelion-and-how-it-can-improve-zcoins-privacy/"> Dandelion - ref 1</a>. <a href="https://bitcoinmagazine.com/articles/anatomy-anonymity-how-dandelion-could-make-bitcoin-more-private/"> Dandelion - ref 2</a>.
+- *Qtum, PIVX, Particl, 20 others*: Fake stake attack patches.
+
+## Startups Emerging from IC3
+
+- *Ava*: funded by a16z, Metastable, Polychain, and others. <a href="https://news.bitcoin.com/bch-avalanche-transactions-show-finality-speeds-10x-faster-then-ethereum/"> About Ava</a>. 
+- *<a href="https://bloxroute.com"> BloXroute</a>*: Funded by Pantera and others. bloXroute is a high performance blockchain infrastructure company, built in the <a href="https://www.falcon-net.org"> Falcon relay network</a> developed at IC3 and co-founded by IC3 members.
