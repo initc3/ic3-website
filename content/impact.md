@@ -16,5 +16,16 @@ In addition to our scholarship, IC3 has been extremely active in the open source
 
 ## Startups Emerging from IC3
 
-- *Ava*: funded by a16z, Metastable, Polychain, and others. <a href="https://news.bitcoin.com/bch-avalanche-transactions-show-finality-speeds-10x-faster-then-ethereum/"> About Ava</a>. 
+- *Ava*: funded by A16Z, Metastable, Polychain, and others. <a href="https://news.bitcoin.com/bch-avalanche-transactions-show-finality-speeds-10x-faster-then-ethereum/"> About Ava</a>. 
 - *<a href="https://bloxroute.com"> BloXroute</a>*: Funded by Pantera and others. bloXroute is a high performance blockchain infrastructure company, built in the <a href="https://www.falcon-net.org"> Falcon relay network</a> developed at IC3 and co-founded by IC3 members.
+- *<a href="https://www.oasislabs.com"> Oasis</a>*: funded by A16Z and others. <a href="https://www.nytimes.com/2018/10/20/technology/how-the-blockchain-could-break-big-techs-hold-on-ai.html"> Related news</a>.
+- *<a href="https://www.cs.cornell.edu/~iddo/pisa.pdf"> PISA Research</a>*: funded by ECF
+- *Thunder*: did large ICO. <a href="https://www.coindesk.com/cornell-professor-claims-blockchain-advances-thunder-token-debut"> More on Thunder</a>.
+
+## Solutions
+
+- *<a href="https://github.com/amiller/HoneyBadgerBFT"> HoneyBadgerBFT</a>*: consensus protocol.
+- *<a href="https://www.town-crier.org"> Town Crier</a>*: Licensed to SmartContract / Chainlink. <a href="https://www.technologyreview.com/s/612443/blockchain-smart-contracts-can-finally-have-a-real-world-impact/"> In the news</a>.
+- *Falcon Network*: One of only two cryptocurrency network backbones, licensed to bloXroute. <a href="https://www.coindesk.com/naval-metastable-bloxroute-blockchain-funding"> Read more</a>.
+- *TeeChan and TeeChain*: These two systems are high speed, high arrurance Layer-2 implementations. They achieve three to four orders of magnitude higher speed than the Lightning Network, and do not necessitate watch towers, custodians, or blockchain access after the setup phase. More about <a href="https://bitcoinmagazine.com/articles/the-teechan-solution-scaling-bitcoin-with-trusted-hardware-1482956340/"> TeeChan</a> and <a href="https://www.coindesk.com/ic3-debuts-upgraded-off-chain-transaction-protocol-teechain"> TeeChain</a>.
+
