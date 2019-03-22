@@ -4,60 +4,63 @@ In addition to our scholarship, IC3 has been extremely active in the open source
 
 ## Coins and Chains
 
-- *Bitcoin*: scaling paper was widely cited during the block size debate. Also see this <a href="https://bitcoinmagazine.com/articles/bitcoin-ng-or-how-cornell-researchers-think-a-radical-redesign-can-solve-bitcoin-s-scaling-issues-1447108649"> article</a>.
-- *Ethereum*: used selfish mining patch, we were the first to report on reentrancy hazards in smart contracts. <a href="https://arxiv.org/pdf/1702.05812.pdf"> Sprites</a> is now included in Raiden. <a href="https://futurism.com/4-scientists-have-found-a-way-to-rapidly-thaw-cryopreserved-tissue-without-damage"> News article</a>.
-- *Zcash*: Ian Miers is a founding scientist of Zcash company. Andrew Miller founded the Zcash Foundation, first US non-profit 501c3 for cryptocurrency.
-- *Monero*: Monerolink paper led to multiple improvements to the ring sampling procedure, remote nodes vulnerability disclosure. <a href="https://cointelegraph.com/news/monero-transactions-history-can-be-revealed-and-exposed-research"> Related news</a>.
-- *Hyperledger*: IC3 is a founding member, currently porting HoneyBadgerBFT consensus protocol to Hyperledger. <a href="https://www.forbes.com/sites/tomgroenfeldt/2017/05/22/blockchain-moves-ahead-with-nasdaq-citi-platform-hyperledger-and-ethereum-growth/#277cefa07333"> Related news</a>. 
-- *Waves*: core consensus mechanism is <a href="https://www.usenix.org/node/194907"> Bitcoin NG - paper</a>, invented at IC3 (see Solutions Section below). <a href="https://www.forbes.com/sites/rogeraitken/2017/11/08/waves-set-to-become-fastest-decentralized-blockchain-platform-globally/#291e66d038b6"> Related news</a>.
-- *Aeternity*: core consensus mechanism is <a href="https://hackingdistributed.com/2015/10/14/bitcoin-ng/"> Bitcoin NG - blog</a>, invented at IC3. 
-- *Zcoin, BitMessage*: uses Dandelion. <a href="https://zcoin.io/what-is-dandelion-and-how-it-can-improve-zcoins-privacy/"> Dandelion - ref 1</a>. <a href="https://bitcoinmagazine.com/articles/anatomy-anonymity-how-dandelion-could-make-bitcoin-more-private/"> Dandelion - ref 2</a>.
-- *Qtum, PIVX, Particl, 20 others*: Fake stake attack patches.
+- *Bitcoin*: IC3 scholars identified a fundamental limitation of proof-of-work consensus protocols known as <a href="">selfish mining</a>; invented <a href="">covenants</a> and <a href="">vaults</a> to keep coins secure at rest; and their work on characterizing the <a href="">scalability</a> and <a href="">decentralization</a> of proof-of-work blockchains played a fundamental role in Bitcoin's block size debate. IC3 continues to operate the <a href="https://www.falcon-net.org">Falcon relay network</a> to help decentralization.
+- *Ethereum*: IC3 researchers played a role in identifying reentrancy hazards in smart contracts; IC3 reearchers issued a call for <a href="">moratorium on The DAO</a> prior to the hack, one of which the DAO hacker used; IC3's <a href="https://arxiv.org/pdf/1702.05812.pdf">Sprites</a> is now included in Raiden.
+- *Bitcoin Cash*: IC3's <a href="https://www.falcon-net.org">Falcon relay network</a> also powers the Bitcoin Cash network and helps ferry blocks and transactions to create an equal playing field for all miners.
+- *Zcash*: IC3 researchers include the founding scientist of Zcash and the founder of the Zcash Foundation, first US non-profit 501c3 for cryptocurrency.
+- *Monero*: IC3's <a href="https://cointelegraph.com/news/monero-transactions-history-can-be-revealed-and-exposed-research">Monerolink</a> work led to multiple improvements to improve privacy provided by Monero's ring sampling procedure, remote nodes vulnerability disclosure. 
+- *Hyperledger*: IC3 is a <a href="https://www.forbes.com/sites/tomgroenfeldt/2017/05/22/blockchain-moves-ahead-with-nasdaq-citi-platform-hyperledger-and-ethereum-growth/#277cefa07333">founding member</a> of Hyperledger, and IC3 researchers are currently porting HoneyBadgerBFT consensus protocol to the platform. 
+- *Waves*: Core consensus mechanism is <a href="https://www.usenix.org/node/194907">Bitcoin NG</a>, invented at IC3. Waves derives <a href="https://www.forbes.com/sites/rogeraitken/2017/11/08/waves-set-to-become-fastest-decentralized-blockchain-platform-globally/#291e66d038b6">its performance from NG</a>.
+- *Aeternity*: Core consensus mechanism is <a href="https://hackingdistributed.com/2015/10/14/bitcoin-ng/">Bitcoin NG</a>, invented at IC3. 
+- *Zcoin, BitMessage*: These systems use <a href="https://zcoin.io/what-is-dandelion-and-how-it-can-improve-zcoins-privacy/">Dandelion</a>, invented at IC3, for their <a href="https://bitcoinmagazine.com/articles/anatomy-anonymity-how-dandelion-could-make-bitcoin-more-private/">strong privacy guarantees</a>.
+- *Qtum, PIVX, Particl, 20 others*: IC3's work on "fake stake" attacks has led to improvements in all of these systems.
 
 ## Startups Emerging from IC3
 
-- *Ava*: funded by A16Z, Metastable, Polychain, and others. <a href="https://news.bitcoin.com/bch-avalanche-transactions-show-finality-speeds-10x-faster-then-ethereum/"> About Ava</a>. 
-- *<a href="https://bloxroute.com"> BloXroute</a>*: Funded by Pantera and others. bloXroute is a high performance blockchain infrastructure company, built in the <a href="https://www.falcon-net.org"> Falcon relay network</a> developed at IC3 and co-founded by IC3 members.
-- *<a href="https://www.oasislabs.com"> Oasis</a>*: funded by A16Z and others. <a href="https://www.nytimes.com/2018/10/20/technology/how-the-blockchain-could-break-big-techs-hold-on-ai.html"> Related news</a>.
-- *<a href="https://www.cs.cornell.edu/~iddo/pisa.pdf"> PISA Research</a>*: funded by ECF
-- *Thunder*: did large ICO. <a href="https://www.coindesk.com/cornell-professor-claims-blockchain-advances-thunder-token-debut"> More on Thunder</a>.
+- *Ava Labs, Inc.*: <a href="https://avalanchelabs.org">Ava Labs</a>, funded by Andresen-Horowitz, Metastable, Polychain, and others, is building a next generation blockchain platform that provides <a href="https://news.bitcoin.com/bch-avalanche-transactions-show-finality-speeds-10x-faster-then-ethereum/">unprecedented performance</a> and functionality.
+- *<a href="https://bloxroute.com">bloXroute</a>*: bloXroute is a high performance blockchain infrastructure company, co-founded by IC3 members, that is building a fast networking layer for all blockchains.
+- *<a href="https://www.oasislabs.com"> Oasis</a>*: Oasis, founded by IC3 researchers, is seeking to support applications that use even the most <a href="https://www.nytimes.com/2018/10/20/technology/how-the-blockchain-could-break-big-techs-hold-on-ai.html">sensitive data without compromising privacy or performance</a>. It is funded by Andresen-Horowitz and others.
+- *<a href="https://www.cs.cornell.edu/~iddo/pisa.pdf">PISA Research</a>*: PISA research is developing tools and techniques for secure exchange of cryptographic assets.
+- *Thunder Token*: Thunder Token is a high performance blockchain with <a href="https://www.coindesk.com/cornell-professor-claims-blockchain-advances-thunder-token-debut">high throughput and low latency</a>.
 
 ## Solutions
 
-- *<a href="https://github.com/amiller/HoneyBadgerBFT"> HoneyBadgerBFT</a>*: consensus protocol.
-- *<a href="https://www.town-crier.org"> Town Crier</a>*: Licensed to SmartContract / Chainlink. <a href="https://www.technologyreview.com/s/612443/blockchain-smart-contracts-can-finally-have-a-real-world-impact/"> In the news</a>.
-- *Falcon Network*: One of only two cryptocurrency network backbones, licensed to bloXroute. <a href="https://www.coindesk.com/naval-metastable-bloxroute-blockchain-funding"> Read more</a>.
-- *TeeChan and TeeChain*: These two systems are high speed, high arrurance Layer-2 implementations. They achieve three to four orders of magnitude higher speed than the Lightning Network, and do not necessitate watch towers, custodians, or blockchain access after the setup phase. More about <a href="https://bitcoinmagazine.com/articles/the-teechan-solution-scaling-bitcoin-with-trusted-hardware-1482956340/"> TeeChan</a> and <a href="https://www.coindesk.com/ic3-debuts-upgraded-off-chain-transaction-protocol-teechain"> TeeChain</a>.
-- *Thunderella*: Core technology of ThunderCore. <a href="https://venturebeat.com/2017/10/22/the-cryptoeconomics-of-scaling-blockchains/"> Related</a>.
-- *Bitcoin-NG*: Latest generation of proof of work based mining protocol, adopted in Waves, Aeternity, and others because it delivers security for 0-conf transactions and much higher throughput.
-- *Covenants and Vaults*: Mechanism to thwart and reverse coin thefts, without impacting fungibility. Adopted in Elements Alpha, Ethereum, and others. <a href="https://www.forbes.com/sites/laurashin/2016/10/04/what-does-cornells-emin-gun-sirer-see-as-the-main-security-threats-in-cryptocurrency-everything/#5a29dac3380d"> Read on</a>.
-- *<a href="https://eprint.iacr.org/2017/1153.pdf"> Tesseract</a>*: Decentralized exchange licensed to a Swiss startup.
-- *<a href="https://arxiv.org/abs/1804.05141"> Ekiden</a>*: Adopted by Oasis Labs. <a href="https://www.forbes.com/sites/astanley/2018/07/09/big-hitter-crypto-funds-pile-into-privacy-enhanced-smart-contract-startup-oasis-labs/#7524904d44f8"> Related news</a>.
-- *<a href="https://gastoken.io"> GasToken</a>*: Mechanism for arbitraging gas costs and smoothing out gas cost spikes. Used in exchange arbitrage. <a href="https://www.coindesk.com/sharding-already-ushering-radical-new-ethereum-designs"> Related</a>.
-- *<a href="https://eprint.iacr.org/2019/017"> CHURP</a>*: On Oasis Labs roadmap.
+- *<a href="">Avalanche</a>*: Avalanche and its related family of consensus protocols represent a fresh new approach to consensus protocols that combine high performance, scalability, and security.
+- *HoneyBadgerBFT*: <a href="https://github.com/amiller/HoneyBadgerBFT">Honeybadger</a> is an asynchronous consensus protocol.
+- *Town Crier*: <a href="https://www.town-crier.org">Town Crier</a> is a <a href="https://www.technologyreview.com/s/612443/blockchain-smart-contracts-can-finally-have-a-real-world-impact/">trusthworthy oracle</a> service. In 2018, it was licensed to SmartContract / Chainlink. 
+- *Falcon Network*: Falcon is a high-performance network for quickly disseminating financial data. It is operated pro bono by IC3 to help improve decentralization of BTC and BCH. In 2018, it was licensed to <a href="https://www.coindesk.com/naval-metastable-bloxroute-blockchain-funding">bloXroute</a>.
+- *Teechan and Teechain*: <a href="https://bitcoinmagazine.com/articles/the-teechan-solution-scaling-bitcoin-with-trusted-hardware-1482956340/">Teechan</a> and <a href="https://www.coindesk.com/ic3-debuts-upgraded-off-chain-transaction-protocol-teechain">Teechain</a> are the fastest Layer-2 implementations to date. They achieve three to four orders of magnitude higher throughput than the Lightning Network, and do not necessitate watch towers, custodians, or any kind of blockchain access after the setup phase. 
+- *Thunderella*: Core technology of <a href="https://venturebeat.com/2017/10/22/the-cryptoeconomics-of-scaling-blockchains/">Thunder Token</a>.
+- *Bitcoin-NG*: Latest generation of proof-of-work based mining protocol, adopted in Waves, Aeternity, and others because it delivers security for 0-conf transactions and much higher throughput.
+- *Covenants and Vaults*: Mechanism to thwart and reverse <a href="https://www.forbes.com/sites/laurashin/2016/10/04/what-does-cornells-emin-gun-sirer-see-as-the-main-security-threats-in-cryptocurrency-everything/#5a29dac3380d">coin thefts</a>, without impacting fungibility. Adopted in Elements Alpha based on Bitcoin, Ethereum, and others.
+- *Tesseract*: Secure, <a href="https://eprint.iacr.org/2017/1153.pdf">decentralized exchange</a> licensed to a Swiss startup.
+- *Ekiden*: Adopted by Oasis Labs, <a href="https://arxiv.org/abs/1804.05141">Ekiden</a> is a platform for privacy-preserving smart contract execution.
+- *GasToken*: <a href="https://gastoken.io"> GasToken</a> is a mechanism for arbitraging gas costs and smoothing out gas cost spikes. Used in <a href="https://www.coindesk.com/sharding-already-ushering-radical-new-ethereum-designs">exchange arbitrage</a>.
+- *CHURP*: This protocol, on Oasis Labs roadmap, provides a robust mechanism for <a href="https://eprint.iacr.org/2019/017">secret sharing in dynamic settings</a>.
 
 ## Highly Influential Blockchain Publications
 
-- *<a href="https://btcmanager.com/researchers-propose-a-solution-for-selfish-mining-attacks/"> Selfish Mining</a>*: Top-cited paper after Bitcoin white paper and Ethereum yellow paper. It pointed out the biggest known flaw in Nakamoto mining and was used heavily to motivate for small blocks.
+- *<a href="https://www.cs.cornell.edu/~ie53/publications/btcProcFC.pdf">Selfish Mining</a>*: Top-cited paper after the Bitcoin whitepaper and Ethereum's yellow paper. It pointed out the biggest known flaw in Nakamoto mining and was used heavily to motivate for small blocks.
 - *<a href="https://fc16.ifca.ai/bitcoin/papers/CDE+16.pdf"> On Scaling Decentralized Blockchains</a>*: This paper dominated the block size debate in the Bitcoin community, arguing that block size could be increased moderately, but not arbitrarily, paving the way for consensus layer changes to improve performance. 
-- The Analysis of the blockchain protocol in asynchronous networks.
-- *Snow White*
 - *<a href="https://cseweb.ucsd.edu/~smeiklejohn/files/imc13.pdf"> A Fistful of Bitcoins: Characterizing Payments Among Men with No Names</a>*: The seminal paper on cryptocurrency forensics and the limitations of Bitcoin privacy. <a href="https://btcmanager.com/grin-implementation-mimblewimble-looks-to-improve-bitcoin-privacy-scalability/"> In news</a>.
-- *Sidechains*: Gave rise to Blockstream, co-authored by A. Miller. <a href="https://www.coindesk.com/sidechains-white-paper-ecosystem-reboot"> Related</a>.
-- *<a href="https://www.arijuels.com/wp-content/uploads/2013/09/PoW.pdf"> Proofs of Work and Bread Pudding Protocols</a>*: Introduced the term *Proof of Work* and first formalized the <a href=https://blocklr.com/guides/proof-of-work-pow"> concept</a>.
+- *<a href="https://www.blockstream.com/sidechains.pdf">Enabling Blockchain Innovations with Pegged Sidechains</a>*: Introduced the concept of sidechains and provided the foundation for Blockstream, Inc.
+- *<a href="https://www.arijuels.com/wp-content/uploads/2013/09/PoW.pdf">Proofs of Work and Bread Pudding Protocols</a>*: Introduced the term *Proof of Work* and first formalized the <a href=https://blocklr.com/guides/proof-of-work-pow">concept</a>.
+- *<a href="https://eprint.iacr.org/2016/168">Town Crier: An Authenticated Data Feed for Smart Contracts</a>*: The first research paper to combine blockchains with trusted hardware, and with the <a href="https://link.smartcontract.com/whitepaper"> ChainLink whitepaper</a> is the seminal research work on oracles.
+- *<a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/permacoin.pdf"> Permacoin</a>*: The first storage-based consensus algorithm, based, in turn, on <a href="https://www.arijuels.com/wp-content/uploads/2013/09/JK07.pdf">Proofs of Retrievability</a>.
+- *Bitcoin and Cryptocurrency Technologies*: The leading textbook, co-authored by A. Miller and S. Goldfeder. <a href="https://www.washingtonpost.com/outlook/five-myths/five-myths-about-bitcoin/2017/12/15/7a506742-e044-11e7-8679-a9728984779c_story.html?noredirect=on&utm_term=.31975c837b0b"> Related</a>.
+- *<a href="https://www.cs.cornell.edu/people/egs/papers/karma.pdf">KARMA : A Secure Economic Framework for Peer-to-Peer Resource Sharing</a>*: Introduced the first peer-to-peer currency that was minted based on proof-of-work, five years before Bitcoin.
+- *<a href="https://eprint.iacr.org/2016/454.pdf">The Analysis of the Blockchain Protocol in Asynchronous Networks</a>. 
+- *Snow White*
 - *Zerocash*: Gave birth to Zcash.
 - *Hawk*: Seminal paper on smart contract confidentiality.
 - Evaluating user privacy in Bitccoin.
-- *<a href="https://eprint.iacr.org/2016/168"> Town Crier: An Authenticated Data Feed for Smart Contracts</a>*: The first research paper to combine blockchains with trusted hardware, and with the <a href="https://link.smartcontract.com/whitepaper"> ChainLink whitepaper</a> is the seminal research work on oracles.
-- *<a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/permacoin.pdf"> Permacoin</a>*: This was the first storage-based consensus algorithm, predating Stori, Sia, Fiecoin, etc., and like them was itself based on <a href="https://www.arijuels.com/wp-content/uploads/2013/09/JK07.pdf"> Proofs of Retrievability</a>.
 - Research Perspectives for Bitcoin and Cryptocurrency
-- *Bitcoin and Cryptocurrency Technologies*: The leading textbook, co-authored by A. Miller and S. Goldfeder. <a href="https://www.washingtonpost.com/outlook/five-myths/five-myths-about-bitcoin/2017/12/15/7a506742-e044-11e7-8679-a9728984779c_story.html?noredirect=on&utm_term=.31975c837b0b"> Related</a>.
   
 ## Events in Which IC3 Played an Important Role
 
-- Ethereum Security Audit
-- The DAO: <a href="https://www.newyorker.com/magazine/2018/10/22/the-prophets-of-cryptocurrency-survey-the-boom-and-bust"> Article 1</a>. <a href="https://www.coindesk.com/cornell-prof-discovered-dao-vulerability-reveals-10-exploits"> Article 2</a>.
-- Parity Multisig (1) <a href="https://bitcoinmagazine.com/articles/cornell-ic3-researchers-propose-solution-bitcoins-multisig-paralysis-problem/"> Read on</a>.
+- The DAO: IC3 researchers identified many of the <a href="https://www.coindesk.com/cornell-prof-discovered-dao-vulerability-reveals-10-exploits">problems in The DAO</a> prior to <a href="https://www.newyorker.com/magazine/2018/10/22/the-prophets-of-cryptocurrency-survey-the-boom-and-bust">the hack</a>. 
+- Ethereum Security Audit: XXX?
+- Parity Multisig: IC3 researchers proposed solutions to the <a href="https://bitcoinmagazine.com/articles/cornell-ic3-researchers-propose-solution-bitcoins-multisig-paralysis-problem/">first Parity multisig hack</a>.
 
 ## Press Coverage / Coverage Metrics
 
