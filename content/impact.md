@@ -4,8 +4,8 @@ In addition to our scholarship, IC3 has been extremely active in the open source
 
 ## Coins and Chains
 
-- *Bitcoin*: IC3 scholars identified a fundamental limitation of proof-of-work consensus protocols known as <a href="">selfish mining</a>; invented <a href="">covenants</a> and <a href="">vaults</a> to keep coins secure at rest; and their work on characterizing the <a href="">scalability</a> and <a href="">decentralization</a> of proof-of-work blockchains played a fundamental role in Bitcoin's block size debate. IC3 continues to operate the <a href="https://www.falcon-net.org">Falcon relay network</a> to help decentralization.
-- *Ethereum*: IC3 researchers played a role in identifying reentrancy hazards in smart contracts; IC3 reearchers issued a call for <a href="">moratorium on The DAO</a> prior to the hack, one of which the DAO hacker used; IC3's <a href="https://arxiv.org/pdf/1702.05812.pdf">Sprites</a> is now included in Raiden.
+- *Bitcoin*: IC3 scholars identified a fundamental limitation of proof-of-work consensus protocols known as <a href="https://dl.acm.org/citation.cfm?id=3212998">selfish mining</a>; invented <a href="https://link.springer.com/chapter/10.1007/978-3-662-53357-4_9">covenants</a> and <a href="https://link.springer.com/chapter/10.1007/978-3-662-53357-4_9">vaults</a> to keep coins secure at rest; and their work on characterizing the <a href="https://www.usenix.org/conference/nsdi16/technical-sessions/presentation/eyal">scalability</a> and <a href="https://arxiv.org/abs/1801.03998">decentralization</a> of proof-of-work blockchains played a fundamental role in Bitcoin's block size debate. IC3 continues to operate the <a href="https://www.falcon-net.org">Falcon relay network</a> to help decentralization.
+- *Ethereum*: IC3 researchers played a role in identifying reentrancy hazards in smart contracts; IC3 reearchers issued a call for <a href="https://arxiv.org/abs/1801.03998">moratorium on The DAO</a> prior to the hack, one of which the DAO hacker used; IC3's <a href="https://arxiv.org/pdf/1702.05812.pdf">Sprites</a> is now included in Raiden.
 - *Bitcoin Cash*: IC3's <a href="https://www.falcon-net.org">Falcon relay network</a> also powers the Bitcoin Cash network and helps ferry blocks and transactions to create an equal playing field for all miners.
 - *Zcash*: IC3 researchers include the founding scientist of Zcash and the founder of the Zcash Foundation, first US non-profit 501c3 for cryptocurrency.
 - *Monero*: IC3's <a href="https://cointelegraph.com/news/monero-transactions-history-can-be-revealed-and-exposed-research">Monerolink</a> work led to multiple improvements to improve privacy provided by Monero's ring sampling procedure, remote nodes vulnerability disclosure. 
@@ -50,10 +50,10 @@ In addition to our scholarship, IC3 has been extremely active in the open source
 - *Bitcoin and Cryptocurrency Technologies*: The leading textbook, co-authored by A. Miller and S. Goldfeder. <a href="https://www.washingtonpost.com/outlook/five-myths/five-myths-about-bitcoin/2017/12/15/7a506742-e044-11e7-8679-a9728984779c_story.html?noredirect=on&utm_term=.31975c837b0b"> Related</a>.
 - *<a href="https://www.cs.cornell.edu/people/egs/papers/karma.pdf">KARMA : A Secure Economic Framework for Peer-to-Peer Resource Sharing</a>*: Introduced the first peer-to-peer currency that was minted based on proof-of-work, five years before Bitcoin.
 - *<a href="https://eprint.iacr.org/2016/454.pdf">The Analysis of the Blockchain Protocol in Asynchronous Networks</a>. 
-- *Snow White*
-- *Zerocash*: Gave birth to Zcash.
-- *Hawk*: Seminal paper on smart contract confidentiality.
-- Evaluating user privacy in Bitccoin.
+- *<a href="https://pdfs.semanticscholar.org/ac48/2f29106a16778805db32a4e71f77737f8f3e.pdf">Snow White</a>*
+  - *<a href="https://ieeexplore.ieee.org/abstract/document/6956581">Zerocash</a>*: Gave birth to Zcash.
+  - *<a href="https://ieeexplore.ieee.org/abstract/document/7546538">Hawk</a>*: Seminal paper on smart contract confidentiality.
+- Evaluating user privacy in Bitcoin.
 - Research Perspectives for Bitcoin and Cryptocurrency
   
 ## Events in Which IC3 Played an Important Role
