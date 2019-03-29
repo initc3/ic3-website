@@ -49,10 +49,10 @@ In addition to our scholarship, IC3 has been extremely active in the open source
 - *<a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/permacoin.pdf"> Permacoin</a>*: The first storage-based consensus algorithm, based, in turn, on <a href="https://www.arijuels.com/wp-content/uploads/2013/09/JK07.pdf">Proofs of Retrievability</a>.
 - *Bitcoin and Cryptocurrency Technologies*: The leading textbook, co-authored by A. Miller and S. Goldfeder. <a href="https://www.washingtonpost.com/outlook/five-myths/five-myths-about-bitcoin/2017/12/15/7a506742-e044-11e7-8679-a9728984779c_story.html?noredirect=on&utm_term=.31975c837b0b"> Related</a>.
 - *<a href="https://www.cs.cornell.edu/people/egs/papers/karma.pdf">KARMA : A Secure Economic Framework for Peer-to-Peer Resource Sharing</a>*: Introduced the first peer-to-peer currency that was minted based on proof-of-work, five years before Bitcoin.
-- *<a href="https://eprint.iacr.org/2016/454.pdf">The Analysis of the Blockchain Protocol in Asynchronous Networks</a>. 
+- *<a href="https://eprint.iacr.org/2016/454.pdf">The Analysis of the Blockchain Protocol in Asynchronous Networks</a>*. 
 - *<a href="https://pdfs.semanticscholar.org/ac48/2f29106a16778805db32a4e71f77737f8f3e.pdf">Snow White</a>*
-  - *<a href="https://ieeexplore.ieee.org/abstract/document/6956581">Zerocash</a>*: Gave birth to Zcash.
-  - *<a href="https://ieeexplore.ieee.org/abstract/document/7546538">Hawk</a>*: Seminal paper on smart contract confidentiality.
+- *<a href="https://ieeexplore.ieee.org/abstract/document/6956581">Zerocash</a>*: Gave birth to Zcash.
+- *<a href="https://ieeexplore.ieee.org/abstract/document/7546538">Hawk</a>*: Seminal paper on smart contract confidentiality.
 - Evaluating user privacy in Bitcoin.
 - Research Perspectives for Bitcoin and Cryptocurrency
   
