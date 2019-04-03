@@ -64,6 +64,8 @@ IC3 has created for program chairs and other interested colleagues the following
 
 For inquiries, please email the IC3 directors through
     <a href="mailto:ic3directors@systems.cs.cornell.edu">ic3directors@systems.cs.cornell.edu</a>.
+    
+Want to be added to our email list? Register <a href="https://forms.gle/T1Ejcf5DPJ28erYe6">here</a>.
 
 IC3 Bitcoin address: 1C3rocKSh6sPPibn2jbMFBzcdvfGZySY6t
 
