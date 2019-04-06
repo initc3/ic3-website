@@ -13,23 +13,26 @@ import errno
 
 
 def fetchall(num_recent_blogs=4):
-    exclude_urls = set([
-        "http://hackingdistributed.com/2015/08/17/coin-needs-a-board/",
-        "http://hackingdistributed.com/2014/12/17/changetip-must-die/",
-        "http://hackingdistributed.com/2014/11/30/reasonable-bitcoin-security-precautions/",
-        "http://hackingdistributed.com/2014/06/13/time-for-a-hard-bitcoin-fork/",
-        "http://hackingdistributed.com/2014/05/27/mtgox-willy-markus/",
-        "http://hackingdistributed.com/2014/03/22/just-so-mtgox/",
-        "http://hackingdistributed.com/2013/11/19/why-da-man-loves-bitcoin/",
-        "http://hackingdistributed.com/2013/11/10/clearest-description-of-bitcoin/",
-        "http://hackingdistributed.com/2013/11/09/no-you-dint/",
-        "http://hackingdistributed.com/2013/11/06/comment-policy/",
-        "http://hackingdistributed.com/2013/06/20/virtual-notary-intro/",
-    ])
+    exclude_urls = {"http://hackingdistributed.com/2015/08/17/coin-needs-a-board/",
+                    "http://hackingdistributed.com/2014/12/17/changetip-must-die/",
+                    "http://hackingdistributed.com/2014/11/30/reasonable-bitcoin-security-precautions/",
+                    "http://hackingdistributed.com/2014/06/13/time-for-a-hard-bitcoin-fork/",
+                    "http://hackingdistributed.com/2014/05/27/mtgox-willy-markus/",
+                    "http://hackingdistributed.com/2014/03/22/just-so-mtgox/",
+                    "http://hackingdistributed.com/2013/11/19/why-da-man-loves-bitcoin/",
+                    "http://hackingdistributed.com/2013/11/10/clearest-description-of-bitcoin/",
+                    "http://hackingdistributed.com/2013/11/09/no-you-dint/",
+                    "http://hackingdistributed.com/2013/11/06/comment-policy/",
+                    "http://hackingdistributed.com/2013/06/20/virtual-notary-intro/",
+                    }
+
+    target = [
+        "http://hackingdistributed.com/tag/bitcoin/",
+        "http://hackingdistributed.com/tag/ethereum/",
+        "http://hackingdistributed.com/tag/decentralization/",
+    ]
 
     results = []
-
-    target = ["http://hackingdistributed.com/tag/bitcoin/", "http://hackingdistributed.com/tag/ethereum/"]
 
     for argurl in target:
         print 'Fetching: ', argurl
