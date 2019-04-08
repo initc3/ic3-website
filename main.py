@@ -325,6 +325,7 @@ if __name__ == '__main__':
     people()
     partners()
     projects()
+    impact()
     policy()
     blogs()
     publications()
