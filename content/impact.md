@@ -17,7 +17,7 @@ In addition to our scholarship, IC3 has been extremely active in the open source
 
 ## Startups Emerging from IC3
 
-- *Ava Labs, Inc.*: <a href="https://avalanchelabs.org">Ava Labs</a>, funded by Andresen-Horowitz, Metastable, Polychain, and others, is building a next generation blockchain platform that provides <a href="https://news.bitcoin.com/bch-avalanche-transactions-show-finality-speeds-10x-faster-then-ethereum/">unprecedented performance</a> and functionality.
+- *<a href="https://avalanchelabs.org">Ava Labs, Inc.</a>*: Ava Labs is funded by Andresen-Horowitz, Metastable, Polychain, and others, is building a next generation blockchain platform that provides <a href="https://news.bitcoin.com/bch-avalanche-transactions-show-finality-speeds-10x-faster-then-ethereum/">unprecedented performance</a> and functionality.
 - *<a href="https://bloxroute.com">bloXroute</a>*: bloXroute is a high performance blockchain infrastructure company, co-founded by IC3 members, that is building a fast networking layer for all blockchains.
 - *<a href="https://www.oasislabs.com"> Oasis</a>*: Oasis, founded by IC3 researchers, is seeking to support applications that use even the most <a href="https://www.nytimes.com/2018/10/20/technology/how-the-blockchain-could-break-big-techs-hold-on-ai.html">sensitive data without compromising privacy or performance</a>. It is funded by Andresen-Horowitz and others.
 - *<a href="https://www.cs.cornell.edu/~iddo/pisa.pdf">PISA Research</a>*: PISA research is developing tools and techniques for secure exchange of cryptographic assets.
@@ -25,7 +25,7 @@ In addition to our scholarship, IC3 has been extremely active in the open source
 
 ## Solutions
 
-- *<a href="">Avalanche</a>*: Avalanche and its related family of consensus protocols represent a fresh new approach to consensus protocols that combine high performance, scalability, and security.
+- *Avalanche*: Avalanche and its related family of consensus protocols represent a fresh new approach to consensus protocols that combine high performance, scalability, and security.
 - *HoneyBadgerBFT*: <a href="https://github.com/amiller/HoneyBadgerBFT">Honeybadger</a> is an asynchronous consensus protocol.
 - *Town Crier*: <a href="https://www.town-crier.org">Town Crier</a> is a <a href="https://www.technologyreview.com/s/612443/blockchain-smart-contracts-can-finally-have-a-real-world-impact/">trusthworthy oracle</a> service. In 2018, it was licensed to SmartContract / Chainlink. 
 - *Falcon Network*: Falcon is a high-performance network for quickly disseminating financial data. It is operated pro bono by IC3 to help improve decentralization of BTC and BCH. In 2018, it was licensed to <a href="https://www.coindesk.com/naval-metastable-bloxroute-blockchain-funding">bloXroute</a>.
@@ -47,14 +47,12 @@ In addition to our scholarship, IC3 has been extremely active in the open source
 - *<a href="https://www.arijuels.com/wp-content/uploads/2013/09/PoW.pdf">Proofs of Work and Bread Pudding Protocols</a>*: Introduced the term *Proof of Work* and first formalized the <a href="https://blocklr.com/guides/proof-of-work-pow">concept</a>.
 - *<a href="https://eprint.iacr.org/2016/168">Town Crier: An Authenticated Data Feed for Smart Contracts</a>*: The first research paper to combine blockchains with trusted hardware, and with the <a href="https://link.smartcontract.com/whitepaper"> ChainLink whitepaper</a> is the seminal research work on oracles.
 - *<a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/permacoin.pdf"> Permacoin</a>*: The first storage-based consensus algorithm, based, in turn, on <a href="https://www.arijuels.com/wp-content/uploads/2013/09/JK07.pdf">Proofs of Retrievability</a>.
-- *Bitcoin and Cryptocurrency Technologies*: The leading textbook, co-authored by A. Miller and S. Goldfeder. <a href="https://www.washingtonpost.com/outlook/five-myths/five-myths-about-bitcoin/2017/12/15/7a506742-e044-11e7-8679-a9728984779c_story.html?noredirect=on&utm_term=.31975c837b0b"> Related</a>.
+- *<a href="https://bitcoinbook.cs.princeton.edu">Bitcoin and Cryptocurrency Technologies</a>*: The leading textbook, co-authored by A. Miller and S. Goldfeder.
 - *<a href="https://www.cs.cornell.edu/people/egs/papers/karma.pdf">KARMA : A Secure Economic Framework for Peer-to-Peer Resource Sharing</a>*: Introduced the first peer-to-peer currency that was minted based on proof-of-work, five years before Bitcoin.
 - *<a href="https://eprint.iacr.org/2016/454.pdf">The Analysis of the Blockchain Protocol in Asynchronous Networks</a>*. 
 - *<a href="https://pdfs.semanticscholar.org/ac48/2f29106a16778805db32a4e71f77737f8f3e.pdf">Snow White</a>*
 - *<a href="https://ieeexplore.ieee.org/abstract/document/6956581">Zerocash</a>*: Gave birth to Zcash.
 - *<a href="https://ieeexplore.ieee.org/abstract/document/7546538">Hawk</a>*: Seminal paper on smart contract confidentiality.
-- Evaluating user privacy in Bitcoin.
-- Research Perspectives for Bitcoin and Cryptocurrency
   
 ## Events in Which IC3 Played an Important Role
 
