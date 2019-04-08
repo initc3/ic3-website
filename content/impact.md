@@ -59,7 +59,7 @@ In addition to our scholarship, IC3 has been extremely active in the open source
 ## Events in Which IC3 Played an Important Role
 
 - The DAO: IC3 researchers identified many of the <a href="https://www.coindesk.com/cornell-prof-discovered-dao-vulerability-reveals-10-exploits">problems in The DAO</a> prior to <a href="https://www.newyorker.com/magazine/2018/10/22/the-prophets-of-cryptocurrency-survey-the-boom-and-bust">the hack</a>. 
-- Ethereum Security Audit: 
+- Ethereum Security Audit 
 - Parity Multisig: IC3 researchers proposed solutions to the <a href="https://bitcoinmagazine.com/articles/cornell-ic3-researchers-propose-solution-bitcoins-multisig-paralysis-problem/">first Parity multisig hack</a>.
 
 ## Press Coverage / Coverage Metrics
