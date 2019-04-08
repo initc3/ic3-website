@@ -190,22 +190,6 @@ def policy():
         content=content,
         breadcrumb=breadcrumb),
                        output)
-    
-def impact():
-    output = e.calc_output_fullpath('impact.html')
-    temp = e.env.get_template('page.html')
-
-    with codecs.open('./content/impact.md', 'r', encoding='utf-8') as c:
-        content = c.read()
-        content = markdown.markdown(content)
-
-    breadcrumb = [{'name': 'Impact', 'url': 'impact.html'}]
-    e.render_and_write(temp, dict(
-        title='IC3 - Impact',
-        content=content,
-        breadcrumb=breadcrumb),
-                       output)    
-
 
 def blogs():
     output = e.calc_output_fullpath("blogs.html")
@@ -325,7 +309,6 @@ if __name__ == '__main__':
     people()
     partners()
     projects()
-    impact()
     policy()
     blogs()
     publications()
