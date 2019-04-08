@@ -51,7 +51,6 @@ In addition to our scholarship, IC3 has been extremely active in the open source
 - *<a href="https://www.cs.cornell.edu/people/egs/papers/karma.pdf">KARMA : A Secure Economic Framework for Peer-to-Peer Resource Sharing</a>*: Introduced the first peer-to-peer currency that was minted based on proof-of-work, five years before Bitcoin.
 - *<a href="https://eprint.iacr.org/2016/454.pdf">The Analysis of the Blockchain Protocol in Asynchronous Networks</a>*. 
 - *<a href="https://pdfs.semanticscholar.org/ac48/2f29106a16778805db32a4e71f77737f8f3e.pdf">Snow White</a>*
-- *<a href="https://ieeexplore.ieee.org/abstract/document/6956581">Zerocash</a>*: Gave birth to Zcash.
 - *<a href="https://ieeexplore.ieee.org/abstract/document/7546538">Hawk</a>*: Seminal paper on smart contract confidentiality.
   
 ## Events in Which IC3 Played an Important Role
