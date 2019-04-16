@@ -21,7 +21,7 @@
    'chainlink': 'http://www.smartcontract.com/link',
    'aeternity': 'http://www.aeternity.com',
    'protocollabs': 'https://www.protocol.ai/',
-   'tezos': 'http://www.tezos.com'
+   'tezos': 'http://www.tezos.com',
  };
 
 $(document).ready(function() {
