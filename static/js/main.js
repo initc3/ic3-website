@@ -20,7 +20,7 @@
    'siemens': 'http://www.siemens.com',
    'chainlink': 'http://www.smartcontract.com/link',
    'aeternity': 'http://www.aeternity.com',
-   'protocollabs': 'https://www.protocol.ai/',
+   'protocollabs': 'https://protocol.ai/',
    'tezos': 'http://www.tezos.com',
  };
 
