@@ -51,6 +51,11 @@ In addition to our scholarship, IC3 has been extremely active in the open source
 - *<a href="https://eprint.iacr.org/2016/454.pdf">The Analysis of the Blockchain Protocol in Asynchronous Networks</a>*. 
 - *<a href="https://pdfs.semanticscholar.org/ac48/2f29106a16778805db32a4e71f77737f8f3e.pdf">Snow White</a>*
 - *<a href="https://ieeexplore.ieee.org/abstract/document/7546538">Hawk</a>*: Seminal paper on smart contract confidentiality.
+- *<a href="https://jbonneau.com/doc/BMCNKF15-IEEESP-bitcoin.pdf">SoK: Research Perspectives and Challenges for Bitcoin and Cryptocurrencies</a>*: This paper identified three key components of Bitcoin's design that could be decoupled.
+- *<a href="https://arxiv.org/pdf/1505.06895.pdf">Centrally Banked Cryptocurrencies</a>*: Introduced RSCoin, a cryptocurrency framework that is centralized but prevents double-spending using a distributed set of authorities. 
+- *<a href="https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_kokoris-kogias.pdf">Enhancing Bitcoin Security and Performance with Strong Consistency via Collective Signing</a>*: Introduced ByzCoin, which implemented a Byzantine consensus protocol reducing latency to under 30 seconds.
+- *<a href="http://fc16.ifca.ai/bitcoin/papers/BGM16.pdf">Cryptocurrencies without Proof of Work</a>*: Focused on decentralized cryptocurrency protocools in which participants don't delete physical scare resources.
+- *<a href="https://arxiv.org/pdf/1311.0243.pdf">Majority is not Enough: Bitcoin Mining is Vulnerable</a>*: Highlighted the consequences of selfish mining within Bitcoin.
   
 ## Events in Which IC3 Played an Important Role
 
