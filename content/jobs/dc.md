@@ -14,3 +14,4 @@ While blockchain-relevant technical experience is a plus, it's not required. Qui
 The position would ideally be based at an IC3 campus, but may be remote. Salary is commensurate with experience. 
 
 About IC3: The Initiative for CryptoCurrencies and Contracts (IC3) is an initiative of faculty members at Cornell University, Cornell Tech, EPFL, ETH Zurich, UC Berkeley, University College London, UIUC, and the Technion. It is by many measures the leading academic blockchain research initiative in the world, with numerous well-cited and influential research publications, a history of strong impact on practitioners, several prominent spinoffs by faculty and students, regular press coverage, and an outstanding roster of industry partners. To learn about us, visit <a href="https://www.initc3.org">www.initc3.org</a>.
+  
