@@ -40,25 +40,22 @@ In addition to our scholarship, IC3 has been extremely active in the open source
 ## Highly Influential Blockchain Publications
 
 - *<a href="https://www.cs.cornell.edu/~ie53/publications/btcProcFC.pdf">Selfish Mining</a>*: Top-cited paper after the Bitcoin whitepaper and Ethereum's yellow paper. It pointed out the biggest known flaw in Nakamoto mining and was used heavily to motivate for small blocks.
-- *<a href="https://fc16.ifca.ai/bitcoin/papers/CDE+16.pdf"> On Scaling Decentralized Blockchains</a>*: This paper dominated the block size debate in the Bitcoin community, arguing that block size could be increased moderately, but not arbitrarily, paving the way for consensus layer changes to improve performance. 
+- *<a href="https://ieeexplore.ieee.org/abstract/document/7546538">Hawk</a>*: Seminal paper on smart contract confidentiality.
 - *<a href="https://cseweb.ucsd.edu/~smeiklejohn/files/imc13.pdf"> A Fistful of Bitcoins: Characterizing Payments Among Men with No Names</a>*: The seminal paper on cryptocurrency forensics and the limitations of Bitcoin <a href="https://btcmanager.com/grin-implementation-mimblewimble-looks-to-improve-bitcoin-privacy-scalability/"> privacy</a>.
-- *<a href="https://www.blockstream.com/sidechains.pdf">Enabling Blockchain Innovations with Pegged Sidechains</a>*: Introduced the concept of sidechains and provided the foundation for Blockstream, Inc.
-- *<a href="https://www.arijuels.com/wp-content/uploads/2013/09/PoW.pdf">Proofs of Work and Bread Pudding Protocols</a>*: Introduced the term *Proof of Work* and first formalized the <a href="https://blocklr.com/guides/proof-of-work-pow">concept</a>.
-- *<a href="https://eprint.iacr.org/2016/168">Town Crier: An Authenticated Data Feed for Smart Contracts</a>*: The first research paper to combine blockchains with trusted hardware, and with the <a href="https://link.smartcontract.com/whitepaper"> ChainLink whitepaper</a> is the seminal research work on oracles.
-- *<a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/permacoin.pdf"> Permacoin</a>*: The first storage-based consensus algorithm, based, in turn, on <a href="https://www.arijuels.com/wp-content/uploads/2013/09/JK07.pdf">Proofs of Retrievability</a>.
 - *<a href="https://bitcoinbook.cs.princeton.edu">Bitcoin and Cryptocurrency Technologies</a>*: The leading textbook, co-authored by A. Miller and S. Goldfeder.
 - *<a href="https://www.cs.cornell.edu/people/egs/papers/karma.pdf">KARMA : A Secure Economic Framework for Peer-to-Peer Resource Sharing</a>*: Introduced the first peer-to-peer currency that was minted based on proof-of-work, five years before Bitcoin.
-- *<a href="https://eprint.iacr.org/2016/454.pdf">The Analysis of the Blockchain Protocol in Asynchronous Networks</a>*. 
-- *<a href="https://pdfs.semanticscholar.org/ac48/2f29106a16778805db32a4e71f77737f8f3e.pdf">Snow White</a>*
-- *<a href="https://ieeexplore.ieee.org/abstract/document/7546538">Hawk</a>*: Seminal paper on smart contract confidentiality.
 - *<a href="https://jbonneau.com/doc/BMCNKF15-IEEESP-bitcoin.pdf">SoK: Research Perspectives and Challenges for Bitcoin and Cryptocurrencies</a>*: This paper identified three key components of Bitcoin's design that could be decoupled.
-- *<a href="https://arxiv.org/pdf/1505.06895.pdf">Centrally Banked Cryptocurrencies</a>*: Introduced RSCoin, a cryptocurrency framework that is centralized but prevents double-spending using a distributed set of authorities. 
+- *<a href="https://fc16.ifca.ai/bitcoin/papers/CDE+16.pdf"> On Scaling Decentralized Blockchains</a>*: This paper dominated the block size debate in the Bitcoin community, arguing that block size could be increased moderately, but not arbitrarily, paving the way for consensus layer changes to improve performance. 
+- *<a href="https://www.arijuels.com/wp-content/uploads/2013/09/PoW.pdf">Proofs of Work and Bread Pudding Protocols</a>*: Introduced the term *Proof of Work* and first formalized the <a href="https://blocklr.com/guides/proof-of-work-pow">concept</a>.
+- *<a href="http://fc16.ifca.ai/bitcoin/papers/DAKMS16.pdf">Step by Step Towards Creating a Safe Smart Contract</a>*: A paper exposing the common pitfalls in designing smart contracts that are safe and secure.
 - *<a href="https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_kokoris-kogias.pdf">Enhancing Bitcoin Security and Performance with Strong Consistency via Collective Signing</a>*: Introduced ByzCoin, which implemented a Byzantine consensus protocol reducing latency to under 30 seconds.
-- *<a href="http://fc16.ifca.ai/bitcoin/papers/BGM16.pdf">Cryptocurrencies without Proof of Work</a>*: Focused on decentralized cryptocurrency protocools in which participants don't delete physical scare resources.
-- *<a href="https://arxiv.org/pdf/1311.0243.pdf">Majority is not Enough: Bitcoin Mining is Vulnerable</a>*: Highlighted the consequences of selfish mining within Bitcoin. 
-- *<a href="https://eprint.iacr.org/2014/077.pdf">Mixcoin</a>*: A protocol to facilitate anonymous payments in Bitcoin and other cryptocurrencies. 
-- *<a href="http://fc16.ifca.ai/bitcoin/papers/DAKMS16.pdf">Step by Step Towards Creating a Safe Smart Contract</a>*: A paper exposing the common pitfalls in designing smart contracts that are safe and secure. 
-
+- *<a href="https://eprint.iacr.org/2016/454.pdf">The Analysis of the Blockchain Protocol in Asynchronous Networks</a>*.
+- *<a href="https://eprint.iacr.org/2014/077.pdf">Mixcoin</a>*: A protocol to facilitate anonymous payments in Bitcoin and other cryptocurrencies.
+- *<a href="https://www.blockstream.com/sidechains.pdf">Enabling Blockchain Innovations with Pegged Sidechains</a>*: Introduced the concept of sidechains and provided the foundation for Blockstream, Inc.
+- *<a href="https://eprint.iacr.org/2016/168">Town Crier: An Authenticated Data Feed for Smart Contracts</a>*: The first research paper to combine blockchains with trusted hardware, and with the <a href="https://link.smartcontract.com/whitepaper"> ChainLink whitepaper</a> is the seminal research work on oracles.
+- *<a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/permacoin.pdf"> Permacoin</a>*: The first storage-based consensus algorithm, based, in turn, on <a href="https://www.arijuels.com/wp-content/uploads/2013/09/JK07.pdf">Proofs of Retrievability</a>. 
+- *<a href="http://fc16.ifca.ai/bitcoin/papers/BGM16.pdf">Cryptocurrencies without Proof of Work</a>*: Focused on decentralized cryptocurrency protocools in which participants don't delete physical scare resources.   
+- *<a href="https://arxiv.org/pdf/1505.06895.pdf">Centrally Banked Cryptocurrencies</a>*: Introduced RSCoin, a cryptocurrency framework that is centralized but prevents double-spending using a distributed set of authorities.
   
 ## Events in Which IC3 Played an Important Role
 
