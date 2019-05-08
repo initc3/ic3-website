@@ -48,12 +48,14 @@ Join confirmed attendees this year including: Vitalik Buterin, Hudson Jameson, P
 **INDUSTRY/PROFESSIONAL PARTICIPANTS**: All must be affiliated with an IC3 Member or a Boot Camp Donor (see details below).
 
   **BOOT CAMP DONOR - $12.5k US**
+  
   - Donations support the Boot Camp, including scholarships for students attending for free, and on-going IC3 research.
   - Includes Donor Brand logo on the IC3 website, and social media outreach. 
   - Includes Participation for one person for the full week of Hacking and Learning, plus participation in the Celebration Dinner on June 16.
   - Includes Periodic Fun Activities. 
   
   **IC3 MEMBERS**
+  
   - Up to two employees of IC3 Members (see current list of members <a href="https://www.initc3.org/partners.html">here</a>) may participate free of charge. 
   
 All Industry/Professional participants, <a href="https://docs.google.com/forms/d/e/1FAIpQLSfBq37rmPlBS0k8zuRwa8DltVYq7RcpkdOT15vPOd80HmR2aQ/viewform">please apply here.</a>  
