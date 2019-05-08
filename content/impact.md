@@ -49,7 +49,7 @@ In addition to our scholarship, IC3 has been extremely active in the open source
 - *<a href="https://www.arijuels.com/wp-content/uploads/2013/09/PoW.pdf">Proofs of Work and Bread Pudding Protocols</a>*: Introduced the term *Proof of Work* and first formalized the <a href="https://blocklr.com/guides/proof-of-work-pow">concept</a>.
 - *<a href="http://fc16.ifca.ai/bitcoin/papers/DAKMS16.pdf">Step by Step Towards Creating a Safe Smart Contract</a>*: A paper exposing the common pitfalls in designing smart contracts that are safe and secure.
 - *<a href="https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_kokoris-kogias.pdf">Enhancing Bitcoin Security and Performance with Strong Consistency via Collective Signing</a>*: Introduced ByzCoin, which implemented a Byzantine consensus protocol reducing latency to under 30 seconds.
-- *<a href="https://eprint.iacr.org/2016/454.pdf">The Analysis of the Blockchain Protocol in Asynchronous Networks</a>*.
+- *<a href="https://eprint.iacr.org/2016/454.pdf">The Analysis of the Blockchain Protocol in Asynchronous Networks</a>*: A paper showing that the Nakamoto consensus protocol satisfies strong forms of consistency and liveness in an asynchronous network. 
 - *<a href="https://eprint.iacr.org/2014/077.pdf">Mixcoin</a>*: A protocol to facilitate anonymous payments in Bitcoin and other cryptocurrencies.
 - *<a href="https://www.blockstream.com/sidechains.pdf">Enabling Blockchain Innovations with Pegged Sidechains</a>*: Introduced the concept of sidechains and provided the foundation for Blockstream, Inc.
 - *<a href="https://eprint.iacr.org/2016/168">Town Crier: An Authenticated Data Feed for Smart Contracts</a>*: The first research paper to combine blockchains with trusted hardware, and with the <a href="https://link.smartcontract.com/whitepaper"> ChainLink whitepaper</a> is the seminal research work on oracles.
@@ -59,13 +59,12 @@ In addition to our scholarship, IC3 has been extremely active in the open source
   
 ## Events in Which IC3 Played an Important Role
 
-- The DAO: IC3 researchers identified many of the <a href="https://www.coindesk.com/cornell-prof-discovered-dao-vulerability-reveals-10-exploits">problems in The DAO</a> prior to <a href="https://www.newyorker.com/magazine/2018/10/22/the-prophets-of-cryptocurrency-survey-the-boom-and-bust">the hack</a>. 
-- Ethereum Security Audit 
+- The DAO: IC3 researchers identified many of the <a href="https://www.coindesk.com/cornell-prof-discovered-dao-vulerability-reveals-10-exploits">problems in The DAO</a> prior to <a href="https://www.newyorker.com/magazine/2018/10/22/the-prophets-of-cryptocurrency-survey-the-boom-and-bust">the hack</a>.  
 - Parity Multisig: IC3 researchers proposed solutions to the <a href="https://bitcoinmagazine.com/articles/cornell-ic3-researchers-propose-solution-bitcoins-multisig-paralysis-problem/">first Parity multisig hack</a>.
 
 ## Press Coverage / Coverage Metrics
 
-- 1,118 articles in 3 years
+- 1,191 articles in 3 years
 - 239,292 Google Scholar citations
 - Approximately 1 news article per day
 - Widely quoted in NYT, WSJ, BBC, Wired, Forbes, WaPo, MIT Technology Review, New Scientist, and almost every major newspaper of record overseas.
