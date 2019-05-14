@@ -35,7 +35,7 @@ IC3 is conducting the Fourth immersive weeklong coding and learning experience i
 
 # NOTABLE ATTENDEES
 
-Join confirmed attendees this year including: Vitalik Buterin, Hudson Jameson, Patrick McCorry, Andrew Miller, Emin Gun Sirer, and Vlad Zamfir.
+Join confirmed attendees this year including (in alphabetical order): Surya Bakshi, Amber Baldet, Vitalik Buterin, Phil Daian, Parth Gargava, Sascha Hanse, Hudson Jameson, Shaul Kfir, Tyrone Lobban, Patrick McCorry, Andrew Miller, Christine Moy, Patrick Nielsen, Emin Gun Sirer, and Vlad Zamfir. 
 
 # FUN ACTIVITIES
 
@@ -43,7 +43,7 @@ Join confirmed attendees this year including: Vitalik Buterin, Hudson Jameson, P
 
 # REGISTRATION and SPONSORSHIP
 
-**STUDENTS**: We are offering free access for a limited number of well-qualified full-time students enrolled at the IC3 campuses (Berkeley, Cornell, Cornell Tech, EPFL, ETH Zurich, UCL, UIUC, and the Technion); <a href="https://docs.google.com/forms/d/e/1FAIpQLSfBq37rmPlBS0k8zuRwa8DltVYq7RcpkdOT15vPOd80HmR2aQ/viewform">please apply here.</a>
+**STUDENTS**: We are offering free access for a limited number of well-qualified full-time students enrolled at the IC3 campuses (Berkeley, CMU, Cornell, Cornell Tech, EPFL, ETH Zurich, King's College London, UCL, UIUC, and the Technion); <a href="https://docs.google.com/forms/d/e/1FAIpQLSfBq37rmPlBS0k8zuRwa8DltVYq7RcpkdOT15vPOd80HmR2aQ/viewform">please apply here.</a>
 
 **INDUSTRY/PROFESSIONAL PARTICIPANTS**: All must be affiliated with an IC3 Member or a Boot Camp Donor (see details below).
 
