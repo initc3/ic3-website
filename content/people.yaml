@@ -537,3 +537,12 @@ students:
     email: sinisa.matetic@inf.ethz.ch
     weburl: 
     bio: "Sinisa Matetic is a PhD Researcher in the Institute of Information Security, ETH Zurich. He was born in Split, Croatia. Prior to joining ETH Zurich, he worked as a Management Consultant at A.T. Kearney in the SEE region. Sinisa's research interest are in system security focusing on distributed systems, trusted hardware, blockchain-based technology design and integrity protection."
+
+  -
+    name: 'Jiaheng Zhang'
+    pic: jiaheng.jpg
+    title: 
+    email: jiaheng_zhang@berkeley.edu
+    weburl:
+    bio: "JIaheng is a first-year Ph.D. student in the Security Group of Computer Science at UC Berkeley. He is broadly interested in Computer Security and Cryptography, especially Zero Knowledge Proof. His current advisor is Prof. Dawn Song. Before coming to Berkeley, he received his B.Eng. degree in Computer Science from ACM Honors Class at Shanghai Jiao Tong University. He also was an intern at Cornell, advised by Prof. Elaine Shi." 
+    
