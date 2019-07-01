@@ -20,7 +20,7 @@
 - I. Tsabary and I. Eyal. [The Gap Game](https://arxiv.org/abs/1805.05288). ACM CCS, 2017.
 - G. Kappos, H. Yousaf, M. Maller and S. Meiklejohn. [An Empirical Analysis of Anonymity in Zcash](https://arxiv.org/abs/1805.03180). USENIX Security, 2018.
 - S. Matetic, M. Schneider, A. Miller, A. Juels and S. Capkun. [DelegaTEE: Brokered Delegation Using Trusted Execution Environments](https://eprint.iacr.org/2018/160). USENIX Security, 2018.
-- Y. Zhou, D. Kumar, S. Bakshi, J. Mason, A. Miller and M. Bailey. [Erays: Reverse Engineering Ethereum's Opaque Smart Contracts](https://www.usenix.org/conference/usenixsecurity18/presentation/zhou. USENIX Security, 2018.
+- Y. Zhou, D. Kumar, S. Bakshi, J. Mason, A. Miller and M. Bailey. [Erays: Reverse Engineering Ethereum's Opaque Smart Contracts](https://www.usenix.org/conference/usenixsecurity18/presentation/zhou). USENIX Security, 2018.
 - G. Fanti, S. Bakshi, S. Venkatakrishnan, A. Miller, B. Denby, S. Bhargava and P. Viswanath. [Dandelion++: Lightweight Cryptocurrency Networking with Formal Anonymity Guarantees](https://arxiv.org/abs/1805.11060). ACM SIGMETRICS, 2018.
 - K. Lee and A. Miller. Authenticated Data Structures for Privacy-Preserving Monero Light Clients. IEEE Security & Privacy on the Blockchain, IEEE S&B, 2018 (to appear).
 - A.E. Gencer, S. Basu, I. Eyal, R.V. Renesse and E.G. Sirer. [Decentralization in Bitcoin and Ethereum Networks](https://fc18.ifca.ai/preproceedings/75.pdf). Financial Cryptography and Data Security (FC), 2018.
