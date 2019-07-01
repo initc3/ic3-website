@@ -70,9 +70,9 @@ faculty:
     name: 'Lorenzo Alvisi'
     pic: lorenzo.jpg
     title:
-    email: lorenzo@cs.utexas.edu
-    weburl: 'http://www.cs.utexas.edu/~lorenzo/'
-    bio: "Lorenzo Alvisi holds an Endowed Professorship in Computer Science at      the University of Texas at Austin.  He will join Cornell as a Professor\n     of Computer Science in Fall 2016. His research interests are in the\n     theory and practice of distributed computing, with a particular focus\n     on dependability. He is a Fellow of the ACM, IEEE, and Alfred P. Sloan\n     Foundation, and the recipient of a Humboldt Research Award.  He serves\n     on the editorial boards of ACM Transactions on Computer Systems and\n     Springer’s Distributed Computing, and on the council of CRA’s Computing\n     Community Consortium.\n"
+    email: lorenzo@cs.cornell.edu
+    weburl: 'http://www.cs.cornell.edu/lorenzo/'
+    bio: "Lorenzo Alvisi holds an Endowed Professorship in Computer Science at      Cornell University. His research interests are in the\n     theory and practice of distributed computing, with a particular focus\n     on dependability. He is a Fellow of the ACM, IEEE, and Alfred P. Sloan\n     Foundation, and the recipient of a Humboldt Research Award.  He serves\n     on the editorial boards of ACM Transactions on Computer Systems and\n     Springer’s Distributed Computing, and on the council of CRA’s Computing\n     Community Consortium.\n"
   -
     name: 'James Grimmelmann'
     pic: james.jpg
