@@ -1,5 +1,9 @@
 # Preprints
 
+- G. Fanti, N. Holden, Y. Peres, and G. Ranade [Communication cost of consensus for nodes with limited memory](https://arxiv.org/pdf/1901.01665.pdf)
+- Y. Guo, R. Pass, and E. Shi [ Synchronous, with a Chance of Partition Tolerance](https://eprint.iacr.org/2019/179)
+- T.-H. H. Chan, R. Pass, and E. Shi [Consensus through Herding](https://eprint.iacr.org/2019/251)
+- E. Shi [Path Oblivious Heap](https://eprint.iacr.org/2019/274)
 - P. Daian, S. Goldfeder, T. Kell, Y. Li, X. Zhao, I. Bentov, L. Breidenbach, and A. Juels [Flash Boys 2.0: Frontrunning, Transaction Reordering, and Consensus Instability in Decentralized Exchanges](https://arxiv.org/abs/1904.05234) 
 - S.K.D. Maram, F. Zhang, L. Wang, A. Low, Y. Zhang, A. Juels, and D. Song [CHURP: Dynamic-Committee Proactive Secret Sharing](https://eprint.iacr.org/2019/017)
 - A. Hicks, V. Mavroudis, M. Al-Bassam, S. Meiklejohn and S.J. Murdoch. [ VAMS: Verifiable Auditing of Access to Confidential Data](https://arxiv.org/abs/1805.04772)
@@ -12,6 +16,12 @@
 
 # Published Papers
 
+- G. Fanti, L. Kogan, S. Oh, K. Ruan, P. Viswanath, and G. Wang [Compounding of Wealth in Proof-of-Stake Cryptocurrencies](https://arxiv.org/pdf/1809.07468.pdf). Financial Crypto, 2019. 
+- G. Asharov, T.-H. H. Chan, K. Nayak, R. Pass, L. Ren, and E. Shi [Locality-Preserving Oblivious RAM](https://link.springer.com/chapter/10.1007%2F978-3-030-17656-3_8). EUROCRYPT (2), 2019. 
+- T.-H. H. Chan, R. Pass, and E. Shi [Consensus Through Herding](https://link.springer.com/chapter/10.1007%2F978-3-030-17653-2_24). EUROCRYPT (1), 2019.
+- W.-K. Lin, E. Shi, and T. Xie [Can We Overcome the n log n Barrier for Oblivious Sorting?](https://epubs.siam.org/doi/10.1137/1.9781611975482.148). SODA, 2019. 
+- T.-H. H. Chan, K.-M. Chung, B.M. Maggs, E. Shi [Foundations of Differentially Oblivious Algorithms](https://epubs.siam.org/doi/10.1137/1.9781611975482.150). SODA, 2019. 
+- A. Farhadi, M.T. Hajiaghayi, K.G. Larsen, and E. Shi [Lower bounds for external memory integer sorting via network coding](https://dl.acm.org/citation.cfm?doid=3313276.3316337). STOC, 2019.
 - S. Kanjalkar, J. Kuo, Y. Li, and A. Miller [Short Paper: I Can't Believe It's Not Stake! Resource Exhaustion Attacks on PoS](https://fc19.ifca.ai/preproceedings/180-preproceedings.pdf). FC, 2019 (to appear). 
 - A. Miller, I. Bentov, S. Bakshi, R. Kumaresan, and P. McCorry [Sprites and State Channels: Payment Networks that Go Faster than Lightning](https://arxiv.org/abs/1702.05812). FC, 2019 (to appear).
 - S. Delgado-Segura, S. Bakshi, C. Perez-Sola, J. Litton, A. Pachulski, A. Miller, and B. Bhattacharjee [TxProbe: Discovering Bitcoin's Network Topology Using Orphan Transactions](https://arxiv.org/abs/1812.00942). FC, 2019 (to appear). 
