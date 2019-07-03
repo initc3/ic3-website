@@ -146,7 +146,7 @@ Sunday the 16th was devoted to the project presentations and the Awards Celebrat
 <div class="ui piled segment">
     <img class="ui centered image" src="../images/events/boot-camp-2019/Boot Camp Schedule website.png" alt="" />
     <div class="ui bottom attached message">
-    <strong>The schedule for the first 5 days is posted below.</strong><br>
+    <strong>The schedule for the first 5 days.</strong><br>
     </div>  
 </div>
 
