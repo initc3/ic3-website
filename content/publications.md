@@ -1,5 +1,6 @@
 # Preprints
 
+- J. Grimmelmann. [All Smart Contracts Are Ambiguous](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3315703).
 - G. Fanti, N. Holden, Y. Peres, and G. Ranade. [Communication cost of consensus for nodes with limited memory](https://arxiv.org/pdf/1901.01665.pdf)
 - Y. Guo, R. Pass, and E. Shi. [ Synchronous, with a Chance of Partition Tolerance](https://eprint.iacr.org/2019/179)
 - T.-H. H. Chan, R. Pass, and E. Shi. [Consensus through Herding](https://eprint.iacr.org/2019/251)
@@ -16,6 +17,11 @@
 
 # Published Papers
 
+- M. Maller, S. Bowe, M. Kohlweiss, and S. Meiklejohn. [Sonic: Zero-Knowledge SNARKs from Linear-Size Universal and Updatable Structured Reference Strings](https://github.com/ebfull/sonic). ACM CCS, 2019. 
+- H. Yousaf, G. Kappos, and S. Meiklejohn. [Tracing Transactions Across Cryptocurrency Ledgers](https://smeiklej.com/iles/usenix19.pdf). USENIX, 2019. 
+- P. Reibel, H. Yousaf, and S. Meiklejohn. [Why is a Ravencoin Like a TokenDesk? An Exploration of Code Diversity in the Cryptocurrency Landscape](https://smeiklej.com/files/fc19full.pdf). FC, 2019 (to appear).
+- A. Sonnino, M. Al-Bassam, S. Bano, S. Meiklejohn, and G. Danezis. [Coconut: Threshold Issuance Selective Disclosure Credentials with Applications to Distributed Ledgers](https://smeiklej.com/files/ndss19.pdf). NDSS, 2019. 
+- J. Grimmelmann. [Continuity and Change in Internet Law](https://cacm.acm.org/magazines/2019/5/236418-continuity-and-change-in-internet-law/fulltext). Communications of the ACM, 2019. 
 - G. Fanti, L. Kogan, S. Oh, K. Ruan, P. Viswanath, and G. Wang. [Compounding of Wealth in Proof-of-Stake Cryptocurrencies](https://arxiv.org/pdf/1809.07468.pdf). Financial Crypto, 2019. 
 - G. Asharov, T.-H. H. Chan, K. Nayak, R. Pass, L. Ren, and E. Shi. [Locality-Preserving Oblivious RAM](https://link.springer.com/chapter/10.1007%2F978-3-030-17656-3_8). EUROCRYPT (2), 2019. 
 - T.-H. H. Chan, R. Pass, and E. Shi. [Consensus Through Herding](https://link.springer.com/chapter/10.1007%2F978-3-030-17653-2_24). EUROCRYPT (1), 2019.
