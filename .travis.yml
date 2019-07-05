@@ -12,8 +12,6 @@ script:
   - 'python main.py -d'
 after_success:
   - 'chmod u+x compress.sh && ./compress.sh'
-  - file output/blogs.html
-  - cat output/blogs.html
 deploy:
   -
     provider: s3
