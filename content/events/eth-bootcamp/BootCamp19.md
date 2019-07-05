@@ -72,7 +72,7 @@ There were 12 project teams. Awards were made to the top 3 teams at the Celebrat
 # Top 3 Projects - Award Winners at the Celebration and Awards Dinner
 
 <div class="ui pliled segment">
-    <img class="ui centered image" src"../images/events/boot-camp-2019/first place boot camp.jpg" alt="" />
+    <img class="ui centered image" src="../images/events/boot-camp-2019/first place boot camp.jpg" alt="" />
     <div class="ui bottom attached message">
     <strong>First Place: Unconditional Key Knowledge</strong><br>
     <strong>Summary</strong>: With the advent of trusted execution environments (TEE's), bribery is easier than ever in decentralized applications like e-voting. The fundamental problem is that secret key information is not known to the holder. The project's goal is to implement a crypto scheme that proves that the user has unconditional knowledge of the key.<br>
@@ -81,7 +81,7 @@ There were 12 project teams. Awards were made to the top 3 teams at the Celebrat
 </div>
 
 <div class="ui pliled segment">
-    <img class="ui centered image" src"../images/events/boot-camp-2019/second place boot camp.jpg" alt="" />
+    <img class="ui centered image" src="../images/events/boot-camp-2019/second place boot camp.jpg" alt="" />
     <div class="ui bottom attached message">
     <strong>Second Place: Coercion Resistance</strong><br>
     <strong>Summary</strong>: Coercion and bribery are classic e-voting problems that still plague current implementations. This project works off a previous proposal by Vitalik Buterin (<a href="https://ethresear.ch/t/minimal-anti-collusion-infrastructure">https://ethresear.ch/t/minimal-anti-collusion-infrastructure</a>) to implement a coercion resistant e-voting mechanism. We developed a Minimal Anti Collusion Infrastructure (MACI) using ZK-snarks (a form of Zero Knowledge cryptography) to develop ways to minimize or eliminate the risk of collusion in scenarios such as electronic voting.<br>
@@ -90,7 +90,7 @@ There were 12 project teams. Awards were made to the top 3 teams at the Celebrat
 </div>
 
 <div class="ui pliled segment">
-    <img class="ui centered image" src"../images/events/boot-camp-2019/third place boot camp.jpg" alt="" />
+    <img class="ui centered image" src="../images/events/boot-camp-2019/third place boot camp.jpg" alt="" />
     <div class="ui bottom attached message">
     <strong>Third Place: Ethsites</strong><br>
     <strong>Summary</strong>: Ethsites is a project that stores arbitrary websites on the Ethereum blockchain. This enables dissidents and others to take advantage of the censorship-resistant properties of blockchain for hosting their content. With the power of metamask and our magic JavaScript we render websites from on-chain right in your browser just like the old web 1.0. For more info and T-shirts - see <a href="https://ethsites.io">ethsites.io</a><br>
@@ -171,3 +171,32 @@ It's time to disrupt the insurance industry. At its core, insurance is an inhere
 
 Team Leader: Emin Gun Sirer
 The world needs better exchanges. Centralized exchanges can engage in all sorts of behaviors intended to rob their clientele, which necessitates complex auditing and regulatory compliance rules. DEXes can provide stronger guarantees, accept all of today's blockchains. Trusted execution environments, like Intel's SGX, enable us to build DEXes that are better than all existing decentralized exchanges, and also better than all existing exchanges anywhere on Wall Street. The goal of this project is to build a trustworthy exchange that is guaranteed by construction to misbehave, and to provide the best execution for its clients according to its prescribed rules. 
+
+**Cryptoeconomic Defragmentation**
+
+Team Leaders: Ben Jones and Karl Floersch
+Plasma is a Layer 2 scaling solution which creates a non-custodial side chain rooted in the main chain for security. In plasma, we must express coins as "ranges on a number line", so that particular users own particular line segments. However, this poses a problem: if users own many distinct ranges, we lose scalability. The proposed solution to this problem is dubbed "defragmentation." The idea is that users atomically swap their coins with others, so that they end up with contiguous segments. This is a ripe problem for plasma, with a big payoff: we don't know what the best approach is, and we need it for plasma to work in practice. This week, we will design one or more defragmentation algorithms, and build a "defragmentation simulator" which evaluates the performance of these strategies. 
+
+**Enabling High-Performance Blockchains on IoT devices (Siemens)**
+
+Team Leaders: Monika Sturm and Christoph Inauen
+Siemens is investing significantly in technology that allows us to enable Digitization projects for our customers and ourselves. Some of the key solutions in that portfolio tackle the challenges in the production environment in manufacturing, like Digital Twins or Simulation and Automation SW, others focus on Industrial IoT (Siemens MindSphere) and low-code App Development environments (Mendix). Blockchain is one promising solution for digitalization of our products, but so far public blockchains do not scale nor do they satisfy our high-performance requirements (~1-2s confirmation) required for real-world applications.
+This project is a case study that focuses on emerging new blockchains like Avalanche or ThunderCore. 
+
+**Multi-Fork Selfish Mining in Ethereum**
+
+Team Leader: Ari Juels
+In current analyses of selfish mining in Bitcoin, it is assumed that honest miners only extend the longest/heaviest chain they have fully validated, and thus mine on a single branch. In practice, however, non-adversarial miners don't necessarily all mine on a single branch. This is because, in addition to honest miners, there is another class of miners that we call rational miners. Rational miners benefit from assuming that blocks they receive are valid, thus avoiding the time and expense of validating transactions. Rational mining happens in practice, as shown by empty blocks in both the Bitcoin and Ethereum networks---even consecutive empty ones. In this project, we will explore different multi-fork strategies against Ethereum. The strategy space for such attacks is a rich one, and needs exploration. Project participants will write their own multi-fork algorithms and compete with each other using a multi-fork simulator I've created. We will examine winning strategies in depth and brainstorm potential mitigations of multi-fork selfish mining. 
+
+**Bringing Rollup to Production**
+
+Team Leader: Barry Whitehat
+The idea behind rollup is to use snarks to periodically batch off-chain transactions and checkpoint them on the blockchain. By using snarks, we can prove the checkpoint is well-formed and the validation is succinct. The implementation for rollup is becoming more mature, but there are still some missing components that we wish to build during the workshop. While building these components, the students will learn how rollup works and get their hands dirty with writing snarks.
+Code: <a href="https://github.com/barryWhiteHat/rollupNC">https://github.com/barryWhiteHat/rollupNC</a>
+
+**Evaluating DAML as an Embedded Workflow Runtime on the Ethereum Network**
+
+Team Leader: Viv Diwakar
+The purpose of the project is to build a hybrid DAML <> Ethereum stack, wherein a DAML ledger is running embedded within an Ethereum private network. DAML applications connect into and transact directly with the DAML ledger, which uses Ethereum for ordering of transactions, coming to consensus and data persistence. 
+DAML transactions are submitted via a write adapter to a Solidity "queue" contract - effectively the DAML ledger's source of truth, which is then consumed by a DAML ledger node, and executed on a native DAML interpreter running on that node. Any change of state is persisted locally, transmitted to the DAML users' UIs, and persisted to the Ethereum ledger; any settlement is done within the embedded DAML ledger, and movement of value is done in Ether. 
+The sample use-case for the project was tokenization of a high-value building, with the apportionment tracked in an ERC20 token implemented in DAML. 
