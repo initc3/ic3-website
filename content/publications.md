@@ -1,19 +1,20 @@
 # Preprints
 
+- A. Judmayer, N. Stifter, A. Zamyatin, I. Tsabary, I. Eyal, P. Gazi, S. Meiklejohn, and E. Weippl. [Pay-To-Win: Incentive Attacks on Proof-of-Work Cryptocurrencies](https://eprint.iacr.org/2019/775.pdf).
 - J. Grimmelmann. [All Smart Contracts Are Ambiguous](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3315703).
-- G. Fanti, N. Holden, Y. Peres, and G. Ranade. [Communication cost of consensus for nodes with limited memory](https://arxiv.org/pdf/1901.01665.pdf)
-- Y. Guo, R. Pass, and E. Shi. [ Synchronous, with a Chance of Partition Tolerance](https://eprint.iacr.org/2019/179)
-- T.-H. H. Chan, R. Pass, and E. Shi. [Consensus through Herding](https://eprint.iacr.org/2019/251)
-- E. Shi [Path Oblivious Heap](https://eprint.iacr.org/2019/274)
-- P. Daian, S. Goldfeder, T. Kell, Y. Li, X. Zhao, I. Bentov, L. Breidenbach, and A. Juels. [Flash Boys 2.0: Frontrunning, Transaction Reordering, and Consensus Instability in Decentralized Exchanges](https://arxiv.org/abs/1904.05234) 
-- S.K.D. Maram, F. Zhang, L. Wang, A. Low, Y. Zhang, A. Juels, and D. Song. [CHURP: Dynamic-Committee Proactive Secret Sharing](https://eprint.iacr.org/2019/017)
-- A. Hicks, V. Mavroudis, M. Al-Bassam, S. Meiklejohn and S.J. Murdoch. [ VAMS: Verifiable Auditing of Access to Confidential Data](https://arxiv.org/abs/1805.04772)
-- P. McCorry, S. Bakshi, I. Bentov, S. Meiklejohn and A. Miller. [Pisa: Arbitration Outsourcing for State Channels](https://www.cs.cornell.edu/~iddo/pisa.pdf)
+- G. Fanti, N. Holden, Y. Peres, and G. Ranade. [Communication cost of consensus for nodes with limited memory](https://arxiv.org/pdf/1901.01665.pdf).
+- Y. Guo, R. Pass, and E. Shi. [ Synchronous, with a Chance of Partition Tolerance](https://eprint.iacr.org/2019/179).
+- T.-H. H. Chan, R. Pass, and E. Shi. [Consensus through Herding](https://eprint.iacr.org/2019/251).
+- E. Shi [Path Oblivious Heap](https://eprint.iacr.org/2019/274).
+- P. Daian, S. Goldfeder, T. Kell, Y. Li, X. Zhao, I. Bentov, L. Breidenbach, and A. Juels. [Flash Boys 2.0: Frontrunning, Transaction Reordering, and Consensus Instability in Decentralized Exchanges](https://arxiv.org/abs/1904.05234).
+- S.K.D. Maram, F. Zhang, L. Wang, A. Low, Y. Zhang, A. Juels, and D. Song. [CHURP: Dynamic-Committee Proactive Secret Sharing](https://eprint.iacr.org/2019/017).
+- A. Hicks, V. Mavroudis, M. Al-Bassam, S. Meiklejohn and S.J. Murdoch. [ VAMS: Verifiable Auditing of Access to Confidential Data](https://arxiv.org/abs/1805.04772).
+- P. McCorry, S. Bakshi, I. Bentov, S. Meiklejohn and A. Miller. [Pisa: Arbitration Outsourcing for State Channels](https://www.cs.cornell.edu/~iddo/pisa.pdf).
 - S. Azouvi, P. McCorry, S. Meiklejohn. [ Betting on Blockchain Consensus with Fantomette](https://arxiv.org/abs/1805.06786)
-- E. Kokoris-Kogias, E.C. Alp, S.D. Siby, N. Gaillya, P. Jovanovic, L. Gasser and B. Ford. [Hidden in Plain Sight: Storing and Managing Secrets on a Public Ledger](https://eprint.iacr.org/2018/209)
-- E. Cecchetti, I. Miers and A. Juels. [PIEs: Public Incompressible Encodings for Decentralized Storage](https://eprint.iacr.org/2018/684.pdf)
-- I. Bentov, Y. Ji, F. Zhang, Y. Li, X. Zhao, L. Breidenbach, P. Daian and A. Juels. [Tesseract: Real-Time Cryptocurrency Exchange Using Trusted Hardware](https://eprint.iacr.org/2017/1153.pdf)
-- P. Daian, R. Pass and E. Shi. [Snow White: Provably Secure Proofs of Stake](https://ia.cr/2016/919)
+- E. Kokoris-Kogias, E.C. Alp, S.D. Siby, N. Gaillya, P. Jovanovic, L. Gasser and B. Ford. [Hidden in Plain Sight: Storing and Managing Secrets on a Public Ledger](https://eprint.iacr.org/2018/209).
+- E. Cecchetti, I. Miers and A. Juels. [PIEs: Public Incompressible Encodings for Decentralized Storage](https://eprint.iacr.org/2018/684.pdf).
+- I. Bentov, Y. Ji, F. Zhang, Y. Li, X. Zhao, L. Breidenbach, P. Daian and A. Juels. [Tesseract: Real-Time Cryptocurrency Exchange Using Trusted Hardware](https://eprint.iacr.org/2017/1153.pdf).
+- P. Daian, R. Pass and E. Shi. [Snow White: Provably Secure Proofs of Stake](https://ia.cr/2016/919).
 
 # Published Papers
 
