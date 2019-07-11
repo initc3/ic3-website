@@ -176,7 +176,7 @@ projects:
   -
      name: "OmniLedger: A Secure, Scale-Out, Decentralized Ledger via Sharding"
      challenges: [*scaling]
-     description: OmniLedger is a novel scale-out decentralized ledger framework that preserves longterm security under permissionless operation by using bias-resistant public-randomness for choosing large, statistically representative shards that process transactions, and by introducing Atomix, an efficient cross-shard commit protocol, that atomically handles transactions affecting multiple shards. OmniLedger's throughput scales linearly in the number of active validators, supporting Visa-level workloads and beyond, while confirming typical transactions in under two seconds thanks to its low-latency "trust-but-verify" transaction validation mechanism. Link to paper: <a href="https://eprint.iacr.org/2017/406.pdf">eprint.iacr.org/2017/406.pdf</a>
+     description: OmniLedger is a novel scale-out decentralized ledger framework that preserves longterm security under permissionless operation by using bias-resistant public-randomness for choosing large, statistically representative shards that process transactions, and by introducing Atomix, an efficient cross-shard commit protocol, that atomically handles transactions affecting multiple shards. OmniLedger's throughput scales linearly in the number of active validators, supporting Visa-level workloads and beyond, while confirming typical transactions in under two seconds thanks to its low-latency "trust-but-verify" transaction validation mechanism. Link to paper, <a href="https://eprint.iacr.org/2017/406.pdf">eprint.iacr.org/2017/406.pdf</a>
      
   -   
      name: "Ostraka"
