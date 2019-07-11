@@ -148,7 +148,7 @@ projects:
   -
      name: "Project Chicago"
      challenges: [*scaling]
-     description: Project Chicago is a new research initiative aiming to explore a question fundamental to all cryptocurrencies: what resources are being exchanged in blockchain markets, and how can we accurately price these resources? Read more at <a href="https://projectchicago.io">projectchicago.io</a>.
+     description: Project Chicago is a new research initiative aiming to explore a question fundamental to all cryptocurrencies - what resources are being exchanged in blockchain markets, and how can we accurately price these resources? Read more at <a href="https://projectchicago.io">projectchicago.io</a>.
      
   -   
      name: "CHURP (CHUrn-Robust Proactive secret sharing)" 
