@@ -1,6 +1,6 @@
 challenges :
   - &scaling
-    name : 'Scaling and Performance'
+    name : 'Secure Scaling and Performance'
     description : 'Scaling up blockchains to handle intensive global workloads for both permissionless decentralized blockchains, and permissioned/consortium blockchains supporting &gt;100,000 transactions/sec.'
     color : 'brown'
   - &correctness
@@ -69,6 +69,16 @@ projects:
      name: "monoCash"
      challenges: [*correctness]
      description: This project proposes the first off-chain payment network that is channel-free, thereby it is a one-hop, routing-free, concurrency-friendly, rebalancing-free, and fully decentralized.
+  
+  -
+     name: "SCARAB: Private, Accountable Data-Sharing on Blockchains"
+     challenges: [*confidentiality, *adf]
+     description: SCARAB is the first fully-decentralized access control framework for secure blockchain-based data sharing with guaranteed data delivery. On-chain secrets enable the collective management of secrets under a Byzatine adversary in SCARAB by using verifiable secret sharing among a secret-management group. Identity skipchains enable efficient management and autonomous evolution of identities and of access policies while permitting any external client to follow the trust-delegating forward links that point to the user's current set of public keys. Link to paper: <a href="https://eprint.iacr.org/2018/209.pdf">eprint.iacr.org/2018/209.pdf</a>
+     
+  -
+     name: "Proof-of-Personhood: Redemocratizing Permissionless Cryptocurrencies"
+     challenges: [*compliance]
+     description: Proof-of-personhood (PoP) is a mechanism that binds physical entities to virtual identities in a way that enables accountability while preserving anonymity. Proof-of-personhood can be used as a democratic alternative to the commonly used proof-of-work or proof-of-stake approaches to create secure identities in permissionless cryptocurrencies. The prototype cryptocurrency to PoPCoin utilizes PoP in its consensus layer showing how a continuously fair and democratic wealth creation process could look like which paves the way for experimental basic income infrastructure. Link to paper: <a href="http://www.brynosaurus.com/pub/dec/pop.pdf">www.brynosaurus.com/pub/dec/pop.pdf</a>
      
   -   
      name: "HiveMind"
@@ -125,6 +135,21 @@ projects:
      challenges: [*compliance]
      description: Check back later for more info.
      
+  -
+     name: "ByzCoin: Enhancing Bitcoin Security and Performance with Strong Consistency via Collective Signing"
+     challenges: [*scaling]
+     description: ByzCoin is a novel Byzantine consensus protocol that leverages scalable collective signing to commit Bitcoin transactions irreversibly within seconds while preserving Bitcoin's open membership by dynamically forming hash power-proportionate consensus groups that represent recently-successful block miners. ByzCoin mitigates double spending and selfish mining attacks by producing collectively signed transaction blocks within one minute of transaction submission. ByzCoin achieves a throughput higher than Paypal currently handles (>700 tx/s), with a confirmation latency of 15-20 seconds. Link to paper: <a href="https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_kokoris-kogias.pdf">https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_kokoris-kogias.pdf</a>
+  
+  -
+     name: "CHAINIAC: Proactive Software-Update Transparency via Collectively Signed Skipchains and Verified Builds"
+     challenges: [*correctness]
+     description: CHAINIAC is a decentralized software update framework that aliminates single points of failure, enforces transparency, and provides efficient verifiability of integrity and authenticity for software-release processes. Independent witness servers collectively verify conformance of software updates to release policies, build verifiers validate the source-to-binary correspondence, and a tamper-proof release log stores collectively signed updates, thus ensuring that no release in accepted by clients before being widely disclosed and validated. The release log embodies a skipchain, a novel data structure, enabling arbitrarily out-of-date clients to efficiently validate updates and signing keys. Link to paper: <a href="https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-nikitin.pdf">www.usenix.org/system/files/conference/usenixsecurity17/sec17-nikitin.pdf</a>
+  
+  -
+     name:"Project Chicago"
+     challenges: [*scaling]
+     description: Project Chicago is a new research initiative aiming to explore a question fundamental to all cryptocurrencies: what resources are being exchanged in blockchain markets, and how can we accurately price these resources? Read more at <a href="https://projectchicago.io">projectchicago.io</a>.
+     
   -   
      name: "CHURP (CHUrn-Robust Proactive secret sharing)" 
      description: CHURP enables secure secret-sharing in dynamic settings where the committee of nodes storing a secret may change over time. Designed for blockchain settings, CHURP has communication complexity much lower than previous schemes; O(n) on-chain and O(n^2) off-chain in the optimistic case of no node failures.
@@ -147,6 +172,11 @@ projects:
      name: "Public Incompressible Encodings (PIEs)"
      challenges: [*adf]
      description: We present a provably secure approach to proving file replication (or other erasure coding) in distributed storage networks (DSNs). Storing multiple copies of a file F is essential in DSNs to ensure against file loss in the event of faulty servers or corrupt data. The public nature of DSNs, however, makes this goal challenging. Files must be encoded and decoded using public coins - i.e., without encryption or other secret-key operations - and retention of files by servers in the network must be verifiable. For more info, please see <a href="https://eprint.iacr.org/2018/684.pdf"> https://eprint.iacr.org/2018/684.pdf</a>
+  
+  -
+     name: "OmniLedger: A Secure, Scale-Out, Decentralized Ledger via Sharding"
+     challenges: [*scaling]
+     description: OmniLedger is a novel scale-out decentralized ledger framework that preserves longterm security under permissionless operation by using bias-resistant public-randomness for choosing large, statistically representative shards that process transactions, and by introducing Atomix, an efficient cross-shard commit protocol, that atomically handles transactions affecting multiple shards. OmniLedger's throughput scales linearly in the number of active validators, supporting Visa-level workloads and beyond, while confirming typical transactions in under two seconds thanks to its low-latency "trust-but-verify" transaction validation mechanism. Link to paper: <a href="https://eprint.iacr.org/2017/406.pdf">eprint.iacr.org/2017/406.pdf</a>
      
   -   
      name: "Ostraka"
