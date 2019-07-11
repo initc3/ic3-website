@@ -146,7 +146,7 @@ projects:
      description: CHAINIAC is a decentralized software update framework that aliminates single points of failure, enforces transparency, and provides efficient verifiability of integrity and authenticity for software-release processes. Independent witness servers collectively verify conformance of software updates to release policies, build verifiers validate the source-to-binary correspondence, and a tamper-proof release log stores collectively signed updates, thus ensuring that no release in accepted by clients before being widely disclosed and validated. The release log embodies a skipchain, a novel data structure, enabling arbitrarily out-of-date clients to efficiently validate updates and signing keys. Link to paper, <a href="https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-nikitin.pdf">www.usenix.org/system/files/conference/usenixsecurity17/sec17-nikitin.pdf</a>
   
   -
-     name:"Project Chicago"
+     name: "Project Chicago"
      challenges: [*scaling]
      description: Project Chicago is a new research initiative aiming to explore a question fundamental to all cryptocurrencies: what resources are being exchanged in blockchain markets, and how can we accurately price these resources? Read more at <a href="https://projectchicago.io">projectchicago.io</a>.
      
