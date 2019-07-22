@@ -1,0 +1,6 @@
+-
+ date: 2019-07-17
+ url: https://medium.com/@amanladia1/zerowallet-a-zkp-based-wallet-authentication-mechanism-9871dcca0a01
+ title: "ZeroWallet: A ZKP based Wallet Authentication Mechanism"
+ authors: Aman Ladia and Andrew Miller
+ summary: ZeroWallet is a new protocol that uses zero knowledge proofs to secure private keys with low-entropy passwords. It provides the convenience of brain wallets with a security guarantee comparable to third party multi-sig setups.
