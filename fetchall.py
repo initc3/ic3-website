@@ -7,12 +7,14 @@ from pyquery import PyQuery as pq
 import os
 import hashlib
 import requests
+import yaml
 
 from os.path import exists, dirname
 import errno
 
 
 def fetchall(num_recent_blogs=4):
+    # Fetch from Hacking Distributed
     exclude_urls = {"http://hackingdistributed.com/2015/08/17/coin-needs-a-board/",
                     "http://hackingdistributed.com/2014/12/17/changetip-must-die/",
                     "http://hackingdistributed.com/2014/11/30/reasonable-bitcoin-security-precautions/",
@@ -62,6 +64,14 @@ def fetchall(num_recent_blogs=4):
 
     # dedupe using url. note that p[1] is url
     results = {p[1]: p for p in results}.values()
+
+    # Read from yaml
+    with open('./content/blogs.yaml', 'r') as c:
+        data = yaml.load(c)
+        for post in data:
+            date = post['date'].timetuple()
+            results.append((date, post['url'], post['title'], post['date'].strftime('%B %d, %Y'), post['authors'], post['summary']))
+
     results.sort(reverse=True)
 
     posts = []
