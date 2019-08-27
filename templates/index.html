@@ -23,7 +23,9 @@
                         {% for b in blogs %}
                         <div class="item">
                             <div class="content">
-                                <div class="left floated ui tiny image"><img src={{ SITE_ROOT }}/{{ b.imgsrc }} alt="" /> </div>
+                                {% if b.imgsrc %}
+                                    <div class="left floated ui tiny image"><img src={{ SITE_ROOT }}/{{ b.imgsrc }} alt="" /> </div>
+                                {% endif %}
                                 <div class="header"><a href="{{ b.url }}">{{ b.title}}</a></div>
                                 <div class="meta">by {{ b.authors }} on {{ b.date }}</div>
                                 <div class="description">{{ b.summary }}</div>
