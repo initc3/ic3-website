@@ -24,7 +24,7 @@
                         <div class="item">
                             <div class="content">
                                 {% if b.imgsrc %}
-                                    <div class="left floated ui tiny image"><img src={{ SITE_ROOT }}/{{ b.imgsrc }} alt="" /> </div>
+                                    <div class="left floated ui tiny image"><img src={{ b.imgsrc | prependsiteroot }} alt="" /> </div>
                                 {% endif %}
                                 <div class="header"><a href="{{ b.url }}">{{ b.title}}</a></div>
                                 <div class="meta">by {{ b.authors }} on {{ b.date }}</div>

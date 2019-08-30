@@ -21,7 +21,8 @@ from base import StaticSiteGenerator
 logging.basicConfig(filename='files/build.log', level=logging.DEBUG)
 
 parser = OptionParser()
-parser.add_option("-d", "--deploy", action="store_true", dest="deploy", help="trigger compression of images",
+parser.add_option("-d", "--deploy", action="store_true", dest="deploy",
+                  help="trigger a bunch of optimization, such as image compression",
                   default=False)
 parser.add_option("--disable-news", action="store_true", dest="disable_news",
                   help="doesn't build news feeds. Use this if unoconv is not available.",
@@ -40,8 +41,8 @@ FEATURED_PRESS_EXPIRE_IN_DAYS = 45
 
 def index():
     """ Let me explain the index news selection rule.
-    First, we select recent news for all news regardless whether it's featured or not.
-    Then, if we don't get enough, we draw from the featured ones.
+    First, we select recent news from all news regardless whether it's featured or not.
+    Then, if we don't get enough of them, we draw from the less recent but featured ones.
     """
     events_toshow = event.get_event_list(e)
 
@@ -75,10 +76,7 @@ def index():
         print 'too few events. cannot update the website'
         sys.exit(1)
 
-    if options.deploy:
-        blogs, _ = fetchall.fetchall(n_events)
-    else:
-        blogs = []
+    blogs, _ = fetchall.fetchall(n_events)
 
     for ev in events_toshow:
         ev.write_file(e)
@@ -171,7 +169,7 @@ def impact():
         title='IC3 - IC3 Impact',
         content=content,
         breadcrumb=breadcrumb),
-                       output)    
+                       output)
 
 def publications():
     output = e.calc_output_fullpath('publications.html')
@@ -205,16 +203,14 @@ def policy():
         breadcrumb=breadcrumb),
                        output)
 
+
 def blogs():
     output = e.calc_output_fullpath("blogs.html")
     temp = e.env.get_template('blogs.html')
 
     breadcrumb = [{'name': 'Blogs', 'url': 'blogs.html'}]
 
-    if options.deploy:
-        _, posts = fetchall.fetchall()
-    else:
-        posts = []
+    _, posts = fetchall.fetchall()
     logging.info("got {} blogs".format(len(posts)))
     for p in posts:
         logging.info(p["title"])

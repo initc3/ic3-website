@@ -7,23 +7,32 @@ from os.path import exists
 
 from jinja2 import FileSystemLoader, Environment
 
-
+# filters
 def dateformat(value, format='%b %d, %Y'):
     return value.strftime(format)
+
+def prependsiteroot(path, root):
+    if path.startswith('http://') or path.startswith('https://'):
+        return path
+    else:
+        return '{}/{}'.format(root, path)
 
 
 class StaticSiteGenerator(object):
     env = Environment(loader=FileSystemLoader('./templates/'))
     output_dir = os.path.join(os.path.dirname(__file__), 'output')
+    site_root = '.'
 
     def __init__(self, deploy=False):
-        self.def_cntx = dict(SITE_ROOT='.')
+        self.def_cntx = dict(SITE_ROOT=self.site_root)
         print 'deploy: ' + str(deploy)
         if exists(StaticSiteGenerator.output_dir):
             shutil.rmtree(StaticSiteGenerator.output_dir)
         os.mkdir(StaticSiteGenerator.output_dir)
 
+        # register custom filters
         self.env.filters['dateformat'] = dateformat
+        self.env.filters['prependsiteroot'] = lambda path: prependsiteroot(path, self.site_root)
 
     def render(self, temp, cntx):
         x = copy.copy(cntx)
