@@ -1,5 +1,6 @@
 # Preprints
 
+- D. Easley, M. O'Hara, and S. Basu. [From mining to markets: The evolution of bitcoin transaction fees](https://sciencedirect.com/science/article/pii/S0304405X19300583). 
 - A. Judmayer, N. Stifter, A. Zamyatin, I. Tsabary, I. Eyal, P. Gazi, S. Meiklejohn, and E. Weippl. [Pay-To-Win: Incentive Attacks on Proof-of-Work Cryptocurrencies](https://eprint.iacr.org/2019/775.pdf).
 - J. Grimmelmann. [All Smart Contracts Are Ambiguous](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3315703).
 - G. Fanti, N. Holden, Y. Peres, and G. Ranade. [Communication cost of consensus for nodes with limited memory](https://arxiv.org/pdf/1901.01665.pdf).
