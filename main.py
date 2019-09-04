@@ -14,7 +14,7 @@ import markdown
 import yaml
 
 import event
-import fetchall
+import blog_crawler
 import press as ic3press
 from base import StaticSiteGenerator
 
@@ -76,7 +76,7 @@ def index():
         print 'too few events. cannot update the website'
         sys.exit(1)
 
-    blogs, _ = fetchall.fetchall(n_events)
+    blogs, _ = blog_crawler.fetchall(n_events)
 
     for ev in events_toshow:
         ev.write_file(e)
@@ -210,7 +210,7 @@ def blogs():
 
     breadcrumb = [{'name': 'Blogs', 'url': 'blogs.html'}]
 
-    _, posts = fetchall.fetchall()
+    _, posts = blog_crawler.fetchall()
     logging.info("got {} blogs".format(len(posts)))
     for p in posts:
         logging.info(p["title"])
