@@ -1,5 +1,6 @@
 # Preprints
 
+- F. Zhang, S. K. D. Maram, H. Malvai, S. Goldfeder, and A. Juels. [DECO: Liberating Web Data Using Decentralized Oracles for TLS](https://arxiv.org/abs/1909.00938).
 - D. Easley, M. O'Hara, and S. Basu. [From mining to markets: The evolution of bitcoin transaction fees](https://sciencedirect.com/science/article/pii/S0304405X19300583). 
 - A. Judmayer, N. Stifter, A. Zamyatin, I. Tsabary, I. Eyal, P. Gazi, S. Meiklejohn, and E. Weippl. [Pay-To-Win: Incentive Attacks on Proof-of-Work Cryptocurrencies](https://eprint.iacr.org/2019/775.pdf).
 - J. Grimmelmann. [All Smart Contracts Are Ambiguous](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3315703).
@@ -19,6 +20,7 @@
 
 # Published Papers
 
+- G. Fanti, J. Jiao, A. Makkuva, S. Oh, R. Rana, and P. Viswanath. [Barracuda: The Power of l-Polling in Proof-of-Stake Blockchains](https://swoh.web.engr.illinois.edu/polling.pdf). Best Paper Award, ACM MobiHoc, 2019. 
 - M. Maller, S. Bowe, M. Kohlweiss, and S. Meiklejohn. [Sonic: Zero-Knowledge SNARKs from Linear-Size Universal and Updatable Structured Reference Strings](https://github.com/ebfull/sonic). ACM CCS, 2019. 
 - H. Yousaf, G. Kappos, and S. Meiklejohn. [Tracing Transactions Across Cryptocurrency Ledgers](https://smeiklej.com/iles/usenix19.pdf). USENIX, 2019. 
 - P. Reibel, H. Yousaf, and S. Meiklejohn. [Why is a Ravencoin Like a TokenDesk? An Exploration of Code Diversity in the Cryptocurrency Landscape](https://smeiklej.com/files/fc19full.pdf). FC, 2019 (to appear).
