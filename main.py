@@ -279,18 +279,6 @@ def jobs():
         breadcrumb=breadcrumb),
                        output)
 
-    output = e.calc_output_fullpath('dc.html')
-    breadcrumb = [{'name': 'Jobs', 'url': ''}, {'name': 'Director of Community', 'url': 'dc.html'}]
-    with codecs.open('./content/jobs/dc.md', 'r', encoding='utf-8') as c:
-        content = c.read()
-        content = markdown.markdown(content)
-
-    e.render_and_write(temp, dict(
-        title='IC3 - Director of Community Position',
-        content=content,
-        breadcrumb=breadcrumb),
-                       output)
-
 def video():
     output = e.calc_output_fullpath('video.html')
     temp = e.env.get_template('video_list.html')
