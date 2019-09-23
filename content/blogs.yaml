@@ -4,3 +4,10 @@
  title: "ZeroWallet: A ZKP based Wallet Authentication Mechanism"
  authors: Aman Ladia and Andrew Miller
  summary: ZeroWallet is a new protocol that uses zero knowledge proofs to secure private keys with low-entropy passwords. It provides the convenience of brain wallets with a security guarantee comparable to third party multi-sig setups.
+
+-
+ date: 2019-09-23
+ url: https://bford.info/2019/09/23/rational/
+ title: "Rationality is Self-Defeating in Permissionless Systems"
+ authors: Bryan Ford and Rainer Böhme
+ summary: If you think you have designed a permissionless decentralized system that is cleverly secured based on rationality assumptions, you haven't. This blog post, based partly on ideas from Rainer Böhme's talk at the recent BDLT Summer School in Vienna, sketches an argument that rationality assumptions are self-defeating in open permissionless systems with weak identities.
