@@ -11,3 +11,12 @@
  title: "Rationality is Self-Defeating in Permissionless Systems"
  authors: Bryan Ford and Rainer Böhme
  summary: If you think you have designed a permissionless decentralized system that is cleverly secured based on rationality assumptions, you haven't. This blog post, based partly on ideas from Rainer Böhme's talk at the recent BDLT Summer School in Vienna, sketches an argument that rationality assumptions are self-defeating in open permissionless systems with weak identities.
+
+-
+ date: 2019-09-30
+ url: https://sites.google.com/view/full-decentralization
+ title: "Impossibility of Full Decentralization in Permissionless Blockchains"
+ authors: Yujin Kwon, Jian Liu, Minjeong Kim, Dawn Song, and Yongdae Kim
+ summary: Decentralization is an essential factor the should be inherently considered in the design of blockchain systems. Even though people design systems for good decentralization, in practice, we often observe that blockchain systems are highly centralized. Bitcoin and Ethereum, as representative examples, are already well known to be highly centralized in terms of network and mining. In fact, poor decentralization appears not only in PoW-based coins but also in coins adopting other mechanisms such as proof-of-stake (PoS) and delegated proof-of-stake (DPoS).
+ 
+ 
