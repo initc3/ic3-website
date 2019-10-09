@@ -14,12 +14,13 @@ directors:
     weburl: 'http://www.cs.cornell.edu/people/egs/'
     bio: 'Emin G&uumln Sirer is an Associate Professor of Computer Science at Cornell University. His research interests span distributed systems, cryptocurrencies, and software infrastructure for large scale services.'
   -
-    name: 'Dawn Song'
-    pic: dawn.jpg
+    name: 'Sarah Meiklejohn'
+    pic: smeiklejohn.jpg
     title: 'IC3 Co-Director'
-    email:
-    weburl: 'http://www.cs.berkeley.edu/~dawnsong/'
-    bio: 'Dawn Song is Professor of Computer Science at UC Berkeley. Prior to joining UC Berkeley, she was an Assistant Professor at Carnegie Mellon University from 2002 to 2007. Her research interest lies in security and privacy issues in computer systems. She is the recipient of many prestigious awards including the MacArthur Fellowship, the Guggenheim Fellowship, the NSF CAREER Award, the Alfred P. Sloan Research Fellowship, the MIT Technology Review TR-35 Award, and Best Paper Awards from top conferences. She is the founder of Ensighta Security Inc., which was acquired by FireEye Inc.'
+    email: s.meiklejohn@ucl.ac.uk
+    weburl: 'http://www0.cs.ucl.ac.uk/staff/S.Meiklejohn/'
+    bio: "Sarah Meiklejohn is a Reader (Associate Professor) in Cryptography and Security at University College London.  She has broad research interests in computer security and cryptography, and works on topics such as anonymity and criminal abuses in cryptocurrencies and privacy-enhancing technologies.\n"
+    
 
 associate_directors:
   -
@@ -152,6 +153,15 @@ faculty:
     email: gfanti@andrew.cmu.edu
     weburl: 'https://www.andrew.cmu.edu/user/gfanti/'
     bio: "Giulia Fanti is an Assistant Professor of Electrical and Computer Engineering at Carnegie Mellon University. Her research interests span the algorithmic foundations of blockchains, distributed systems, privacy-preserving technologies, and machine learning. She is a fellow for the World Economic Forum's Global Future Council on Cybersecurity, and has received a best paper award at ACM Sigmetrics and an NSF Graduate Research Fellowship. She obtained her Ph.D. in EECS from U.C. Berkeley and her B.S. in ECE from Olin College of Engineering.\n"
+
+ -
+    name: 'Dawn Song'
+    pic: dawn.jpg
+    title: 
+    email:
+    weburl: 'http://www.cs.berkeley.edu/~dawnsong/'
+    bio: 'Dawn Song is Professor of Computer Science at UC Berkeley. Prior to joining UC Berkeley, she was an Assistant Professor at Carnegie Mellon University from 2002 to 2007. Her research interest lies in security and privacy issues in computer systems. She is the recipient of many prestigious awards including the MacArthur Fellowship, the Guggenheim Fellowship, the NSF CAREER Award, the Alfred P. Sloan Research Fellowship, the MIT Technology Review TR-35 Award, and Best Paper Awards from top conferences. She is the founder of Ensighta Security Inc., which was acquired by FireEye Inc.'
+
 
 postdocs:
   -
