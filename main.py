@@ -255,18 +255,6 @@ def page_not_found():
 def jobs():
     temp = e.env.get_template('page.html')
 
-    output = e.calc_output_fullpath('postdoc.html')
-    breadcrumb = [{'name': 'Jobs', 'url': ''}, {'name': 'Postdoc', 'url': 'postdoc.html'}]
-    with codecs.open('./content/jobs/postdoc.md', 'r', encoding='utf-8') as c:
-        content = c.read()
-        content = markdown.markdown(content)
-
-    e.render_and_write(temp, dict(
-        title='IC3 - Postdoc Positions',
-        content=content,
-        breadcrumb=breadcrumb),
-                       output)
-
     output = e.calc_output_fullpath('phd.html')
     breadcrumb = [{'name': 'Jobs', 'url': ''}, {'name': 'PhD', 'url': 'phd.html'}]
     with codecs.open('./content/jobs/phd.md', 'r', encoding='utf-8') as c:
