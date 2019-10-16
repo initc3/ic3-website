@@ -11,4 +11,5 @@ summary: Tyler Kell is a Research Engineer at Cornell Tech & the Initiative for 
 **Registration**: Advance regstration registration before October 24 is required for access to JPM. Upon your arrival, lobby security will send you to the 13th floor conference center reception area. Please register at the <a href="https://www.meetup.com/NYC_Ethereum/events/265713982">NYC Ethereum Meetup site</a>. 
 
 **6:30 - 7:00 PM**: Arrival and Networking
+
 **7:00 PM**: Presentation
