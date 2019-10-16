@@ -1,5 +1,5 @@
 ---
-name: IC3 NYC Blockchain Meetup - "DC-Nets and Anonymity Protection" - Tyler Kell, IC3
+name: IC3 Meetup Hosted by NYC Ethereum and JP Morgan - "DC-Nets and Anonymity Protection" - Tyler Kell, IC3
 location: JP Morgan, 383 Madison Ave, Room 1311, NYC, NY
 start: 2019-10-24
 end: 2019-10-24
