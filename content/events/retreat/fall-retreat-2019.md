@@ -10,7 +10,3 @@ IC3 faculty, students, sponsors, and guests gather at IC3 Retreats to discuss th
 
 Please see the detailed agenda below. Seating is limited with preferred access to employees of IC3 Sponsors. Please <a href="https://docs.google.com/forms/d/e/1FAIpQLSf2FZCUleAOWUNGrsomFbNF8EkmejmeWDiF_XaaqZUavl4lTg/viewform">register here</a> to apply to attend.
 
-**IC3 Fall Retreat Agenda**
-
-8:00 - 8:45   Continental Breakfast
-8:45 - 9:00   Welcome
