@@ -104,3 +104,11 @@ Please see the detailed agenda below. Seating is limited with preferred access t
 
 8:00 –11:00 After-Party – Venue TBD
 
+
+**Town Hall Session**: This will be an open discussion forum led by Professor Andrew Miller (IC3 Associate Director), to get feedback and input from our industry partners and faculty membership. The following topics are suggested to seed the conversation. Please ponder this beforehand and come with questions and comments at the ready!
+
+1. Our tremendous research progress speaks for itself, but let's review our grand challenge problems and goal setting. How shall we set our priorities and focus areas for the next year?
+
+2. What are the most important upcoming problems for which the current progress and research are not yet addressing?
+
+3. How are we doing at transitioning our research to practice, and what opportunities should we exploit to do this more? I will discuss an emerging plan, called "Blockchain as a Clinical Practice", or "Blockchain for Social Good", in which we take an active role in leading social benefit projects to deploy our research.
