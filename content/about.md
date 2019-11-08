@@ -2,7 +2,7 @@
 
 <img src="images/styling/jacobs.jpg" class="ui large right floated image"/>
 
-IC3 is an initiative of faculty members at Cornell University, Cornell Tech, EPFL, ETH Zurich, UC Berkeley, University College London, UIUC and the Technion. It's based at the Jacobs Technion-Cornell Institute at Cornell Tech in NYC.
+IC3 is an initiative of faculty members at Carnegie Mellon University, Cornell University, Cornell Tech, EPFL, ETH Zurich, UC Berkeley, University College London, UIUC and the Technion. It's based at the Jacobs Technion-Cornell Institute at Cornell Tech in NYC.
 
 ## Background and Objectives
 
