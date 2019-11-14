@@ -62,7 +62,7 @@ Please see the detailed agenda below. Seating is limited with preferred access t
 
   - Jiaheng Zhang - Transparent Polynomial Delegation and Its Applications to Zero Knowledge Proof - 10 min
 
-  - Sarah Meiklejohn - Tracing Transactions Across Cryptocurrency Ledgers - 10 min
+  - Haaroon Yousaf - Tracing Transactions Across Cryptocurrency Ledgers - 10 min
 
   - Andrew Miller - Blockchain and Peer Review  - 10 Min
 
