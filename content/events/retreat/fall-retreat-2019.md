@@ -100,7 +100,7 @@ Please see the detailed agenda below. Seating is limited with preferred access t
 
 4:50 - 5:00 Closing Remarks 
 
-6:00 – 8:00 Dinner – Kimoto Rooftop Restaurant 
+6:00 – 8:00 Dinner – Venue TBD
 
 8:00 –11:00 After-Party – Venue TBD
 
