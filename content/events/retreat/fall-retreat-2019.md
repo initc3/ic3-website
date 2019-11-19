@@ -1,6 +1,6 @@
 ---
 name: IC3 2019 Fall Retreat
-location: 4 JPM Chase Metrotech Center, Brooklyn, NY
+location: 4 JPM Chase Metrotech Center, Brooklyn, NY 11245 5th Floor, Room 514
 start: 2019-11-22
 end: 2019-11-22
 summary: IC3 faculty, students, sponsors, and guests gather at IC3 Retreats to discuss the major technical challenges, issues and innovatve solutions to widespread blockchain adoption.
@@ -14,9 +14,9 @@ Please see the detailed agenda below. Seating is limited with preferred access t
 
 8:00 – 8:45 Continental Breakfast
 
-8:45 – 9:00 Welcome 
+8:45 – 9:00 Welcome - Jim Ballingall and Prof. Andrew Miller
 
-9:00 – 9:50 Session 1: Smart Contract Architectures 
+9:00 – 9:50 Session 1: Smart Contract Architectures - Session Chair: Prof. Sarah Meiklejohn
 
   - Steven Goldfeder - Private Smart Contracts - 10 min
   
@@ -30,7 +30,7 @@ Please see the detailed agenda below. Seating is limited with preferred access t
 
 9:50 - 10:10 Break - 20 min
 
-10:10 – 11:00 Session 2: Consensus and Related Topics 
+10:10 – 11:00 Session 2: Consensus and Related Topics - Session Chair: Patrick McCorry
 
   - Emin Gün Sirer  - Beyond Blockchains and Proof of Work: Part I - 10 min
 
@@ -44,7 +44,7 @@ Please see the detailed agenda below. Seating is limited with preferred access t
 
 11:00 - 11:20 Break - 20 min
 
-11:20 – 12:00 Session 3: Markets 
+11:20 – 12:00 Session 3: Markets - Session Chair: Phil Daian
 
   - Amani Moin - A Taxonomy of Stablecoins - 10 min
 
@@ -56,7 +56,7 @@ Please see the detailed agenda below. Seating is limited with preferred access t
 
 12:00 - 1:00 Lunch - 60 min
 
-1:00 – 1:40 Session 4: Security and Zero-Knowledge 
+1:00 – 1:40 Session 4: Security and Zero-Knowledge - Session Chair: Fan Zhang
 
   - Tiancheng Xie - Libra: Succinct Zero-Knowledge Proofs with Optimal Prover Computation - 10 min
 
@@ -68,7 +68,7 @@ Please see the detailed agenda below. Seating is limited with preferred access t
 
 1:40 - 2:00 Break - 20 min
 
-2:00 – 2:30 Session 5: Messaging & Computation 
+2:00 – 2:30 Session 5: Messaging & Computation - Session Chair: Prof. Dawn Song
 
   - Harjasleen Malvai - SEEMless: Secure End-to-End Encrypted Messaging with less Trust - 10 min
 
@@ -76,7 +76,7 @@ Please see the detailed agenda below. Seating is limited with preferred access t
 
   - Ye Zhang - Publicly Auditable MPC - 10 min
 
-2:30 – 3:00 Session 6: Off-Chain Data 
+2:30 – 3:00 Session 6: Off-Chain Data - Session Chair: Surya Bakshi
   
   - Eleftherios Kokoris-Kogias - Brick: Asynchronous State Channels - 10 min
 
@@ -86,9 +86,9 @@ Please see the detailed agenda below. Seating is limited with preferred access t
 
 3:10 - 3:30 Break - 20 min
 
-3:30 – 4:10 Session 6: Town Hall* - Input from IC3 Sponsors on IC3 Research Priorities, Projects, Tech Transfer, Modes of Engagement and Social Impact - Professor Andrew Miller
+3:30 – 4:10 Session 6: Town Hall* - Input from IC3 Sponsors on IC3 Research Priorities, Projects, Tech Transfer, Modes of Engagement and Social Impact - Professor Andrew Miller (Please see abstract and "homework assignment" for faculty and IC3 sponsors below).
 
-4:10 – 4:50 Session 7:  Applications 
+4:10 – 4:50 Session 7:  Applications - Session Chair: Prof. Emin Gun Sirer
 	
   - Sishan Long - Blockchain for Social Good - 10 min
 
@@ -98,11 +98,11 @@ Please see the detailed agenda below. Seating is limited with preferred access t
 
   - Dawn Song - Decentralized Federated Learning on Blockchain - 10 min
 
-4:50 - 5:00 Closing Remarks 
+4:50 - 5:00 Closing Remarks - Prof. Emin Gun Sirer
 
-6:00 – 8:00 Dinner – Venue TBD
+6:00 – 8:00 Dinner – Venue to be annouced at Retreat
 
-8:00 –11:00 After-Party – Venue TBD
+8:00 –11:00 After-Party – Venue to be annouced at Retreat
 
 
 **Town Hall Session**: This will be an open discussion forum led by Professor Andrew Miller (IC3 Associate Director), to get feedback and input from our industry partners and faculty membership. The following topics are suggested to seed the conversation. Please ponder this beforehand and come with questions and comments at the ready!
