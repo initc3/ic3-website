@@ -1,5 +1,6 @@
 # Preprints
 
+- I. Tsabary, A. Spiegelman, and I. Eyal. [Just ENough Security: Reducing Proof-of-Work Ecological Footprint](https://arxiv.org/abs/1911.04124).
 - F. Zhang, S. K. D. Maram, H. Malvai, S. Goldfeder, and A. Juels. [DECO: Liberating Web Data Using Decentralized Oracles for TLS](https://arxiv.org/abs/1909.00938).
 - D. Easley, M. O'Hara, and S. Basu. [From mining to markets: The evolution of bitcoin transaction fees](https://sciencedirect.com/science/article/pii/S0304405X19300583). 
 - A. Judmayer, N. Stifter, A. Zamyatin, I. Tsabary, I. Eyal, P. Gazi, S. Meiklejohn, and E. Weippl. [Pay-To-Win: Incentive Attacks on Proof-of-Work Cryptocurrencies](https://eprint.iacr.org/2019/775.pdf).
