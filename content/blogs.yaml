@@ -19,4 +19,10 @@
  authors: Yujin Kwon, Jian Liu, Minjeong Kim, Dawn Song, and Yongdae Kim
  summary: Decentralization is an essential factor the should be inherently considered in the design of blockchain systems. Even though people design systems for good decentralization, in practice, we often observe that blockchain systems are highly centralized. Bitcoin and Ethereum, as representative examples, are already well known to be highly centralized in terms of network and mining. In fact, poor decentralization appears not only in PoW-based coins but also in coins adopting other mechanisms such as proof-of-stake (PoS) and delegated proof-of-stake (DPoS).
  
- 
+-
+ date: 2019-12-04
+ url: https://medium.com/@IttayEyal/just-enough-security-for-cryptocurrencies-7f78479e98c4
+ title: "Just Enough Security for Cryptocurrencies"
+ authors: Itay Tsabary, Alexander Spiegelman, and Ittay Eyal
+ summary: Proof-of-work (PoW) mechanisms secure about 80% of the $250B cryptocurrency market. PoW requires system participants to expend computational resources, and protects the system from attackers who cannot expend resources at an equivalent rate. These systems operate in the permissionless setting and compensate their users with cryptocurrency, having a monetary value. As cryptocurrency prices sore so do the invested resources, and Bitcoin expenditures alone are 0.24% of the global electricity consumption. Arguably, this is superfluous, and lowering the ecological footprint justifies settling for a lower attack threshold.
+
