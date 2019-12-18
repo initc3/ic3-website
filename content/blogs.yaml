@@ -26,3 +26,9 @@
  authors: Itay Tsabary, Alexander Spiegelman, and Ittay Eyal
  summary: Proof-of-work (PoW) mechanisms secure about 80% of the $250B cryptocurrency market. PoW requires system participants to expend computational resources, and protects the system from attackers who cannot expend resources at an equivalent rate. These systems operate in the permissionless setting and compensate their users with cryptocurrency, having a monetary value. As cryptocurrency prices sore so do the invested resources, and Bitcoin expenditures alone are 0.24% of the global electricity consumption. Arguably, this is superfluous, and lowering the ecological footprint justifies settling for a lower attack threshold.
 
+-
+ date: 2019-12-17
+ url: https://medium.com/coinmonks/bdos-blockchain-denial-of-service-385c8c56b401?
+ title: "BDoS: Blockchain Denial of Service"
+ authors: Michael Mirkin, Yan Ji, Jonathan Pang, Ariah Klages-Mundt, Ittay Eyal, and Ari Juels
+ summary: We have discovered a denial-of-service attack on Bitcoin-like blockchains that is much cheaper than previously described attacks. Such blockchains rely on incentives to provide security. We show how an attacker can disrupt those incentives to cause rational miners to stop mining. 
