@@ -30,3 +30,7 @@ At PISA Research, our goal is to build the missing components for an off-chain, 
 **Chainlink**
 
 Chainlink is a decentralized oracle network that enables smart contracts to securely access off-chain data feeds, web APIs, and traditional bank payments. Chainlink is consistently selected as one of the top blockchain technologies by leading independent research firms such as Gartner. It is well known for providing highly secure and reliable oracles to both large enterprises (SWIFT, Google, Oracle) and leading smart contract development teams. 
+
+**Recording**
+
+A recording of this presentation is available <a href="https://www.youtube.com/watch?v=DfgYfVZWREo">here</a>. 
