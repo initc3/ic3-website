@@ -1,16 +1,19 @@
 language: python
 cache: pip
-python: 2.7
+python: 3.7
+services:
+  - docker
 before_install:
-  - 'sudo apt-get update && sudo apt-get install --yes unoconv libreoffice'
+  - docker pull bl4ck5un/unoconv
 install:
   - 'pip install -r requirements.txt'
   # `awscli` is required for invalidation of CloudFront distributions.
   - 'pip install awscli'
 script:
-  - 'make -C content/press'
-  - 'python main.py -d'
+  - 'make -C content/press -f Makefile.travis'
+  - 'python main.py --deploy'
 after_success:
+  # compress the html and images using gzip
   - 'chmod u+x compress.sh && ./compress.sh'
 deploy:
   -
@@ -28,7 +31,7 @@ deploy:
     on:
       branch: master
 after_deploy:
-  # Allow `awscli` to make requests to CloudFront.
+  # allow `awscli` to make requests to CloudFront.
   - aws configure set preview.cloudfront true
   # Invalidate every object in the targeted distribution.
   - aws cloudfront create-invalidation --distribution-id $CLOUDFRONT_DISTRIBUTION_ID --paths "/*"
@@ -37,4 +40,3 @@ notifications:
     recipients:
       - admin@initc3.org
     on_failure: always
-    on_success: always

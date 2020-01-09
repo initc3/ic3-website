@@ -33,7 +33,7 @@ import press as ic3press
 from base import StaticSiteGenerator
 
 # setup docopt and logging
-args = docopt(__doc__, version='0.0.3')
+args = docopt(__doc__)
 
 logger_format = '%(asctime)s [%(levelname)s] - %(message)s'
 logging.basicConfig(level=logging.DEBUG if args['--verbose'] else logging.INFO, format=logger_format)
