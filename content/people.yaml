@@ -388,27 +388,6 @@ students:
     weburl: 'http://www.cs.umd.edu/~akosba'
     bio: "Ahmed Kosba is a graduate student at University of Maryland. He is interested in security and applied cryptography research, with a focus on verifiable computation and cryptocurrency.\n"
   -
-    name: 'Abhiram Kothapalli'
-    pic: akothapalli.jpg
-    title:
-    email: kothapa2@illinois.edu
-    weburl: 'http://abhiram.me/'
-    bio: "Abhiram Kothapalli is an undergraduate student at the University of Illinois working with professor Andrew Miller and professor Nikita Borisov. Broadly, Abhiram works on building secure distributed applications using cryptography and economic incentives. Abhiram is currently working on designing formal verification tools for cryptographic protocols.\n"
-  -
-    name: 'Kevin Lee'
-    pic: klee.jpg
-    title:
-    email: klee160@illinois.edu
-    weburl:
-    bio: "Kevin Lee is an undergraduate student at the University of Illinois working with Professor Andrew Miller. He is interested in applied cryptography, distributed systems, and privacy.\n"
-  -
-    name: 'Kevin Liao'
-    pic: kliao.jpg
-    title:
-    email: kliao6@illinois.edu
-    weburl: 'http://www.kevinliao.me'
-    bio: "Kevin Liao is a first year PhD student at UIUC. He is interested in cryptography, distributed systems, and programming languages.\n"
-  -
     name: 'Alex Manuskin'
     pic: manuskin.jpg
     title:
@@ -506,13 +485,6 @@ students:
     email: karl.wuest@inf.ethz.ch
     weburl: 'http://www.syssec.ethz.ch/people/kwuest.html'
     bio: "Karl is a PhD student in the System Security Group at ETH Zurich. His main research interest is blockchain technology with a focus on security and privacy.\n"
-  -
-    name: 'Hanyun Xu'
-    pic: hxu.jpg
-    title:
-    email: hanyunx2@illinois.edu
-    weburl: 'http://hanyunxu.github.io'
-    bio: "Hanyun Xu is a graduate student at University of Illinois at Urbana-Champaign. She is interested in applied cryptography and distributed systems, particularly cryptocurrencies.\n"
   -
     name: 'Haaroon Yousaf'
     pic: hyousaf.jpg
