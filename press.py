@@ -1,7 +1,6 @@
-import time
-import traceback
 import codecs
 import datetime
+import traceback
 
 from dateutil import parser
 
@@ -20,7 +19,7 @@ class Press(object):
         return self.__unicode__()
 
     def __unicode__(self):
-        s = u'- Press: [%s](%s) by **%s** on %s' % (self.title, self.url, self.venue, self.date_str)
+        s = '- Press: [%s](%s) by **%s** on %s' % (self.title, self.url, self.venue, self.date_str)
         return s.encode('utf-8')
 
 
@@ -36,7 +35,7 @@ def _read_events_from_csv(filename):
                 title = comps[3].strip().strip('"')
                 press_items.append(Press(title, url, venue, date))
             except Exception as e:
-                print 'Error in processing %s...' % line[:100]
+                print('Error in processing %s...' % line[:100])
                 traceback.print_exc()
 
     return sorted(press_items, key=lambda x: x.date, reverse=True)
@@ -58,7 +57,7 @@ def get_all_press(expire_in_days=None):
         delta = today - item.date
         return delta.days <= expire_in_days
 
-    press = filter(not_expired, press)
+    press = list(filter(not_expired, press))
     return sorted(press, key=lambda x: x.date, reverse=True)
 
 
@@ -74,5 +73,5 @@ def get_featured_press(expire_in_days):
         delta = today - item.date
         return delta.days <= expire_in_days
 
-    press_featured = filter(not_expired, press_featured)
+    press_featured = list(filter(not_expired, press_featured))
     return sorted(press_featured, key=lambda x: x.date, reverse=True)
