@@ -311,7 +311,6 @@ def compress_image(dir='images/hotlinks', size=(80, 80)):
             img = Image.open(src)
             img.thumbnail(size)
 
-            img = img.convert("RGB")
             img.save(dest)
             logging.debug('compressed image written to %s', dest)
 
