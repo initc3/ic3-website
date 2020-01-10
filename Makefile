@@ -1,5 +1,5 @@
 site:
-	python main.py -d
+	python main.py --deploy
 
 test:
 	python main.py

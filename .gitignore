@@ -2,6 +2,7 @@
 
 images/hotlinks
 env
+env3
 venv/
 output
 node_modules

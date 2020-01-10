@@ -1,4 +1,18 @@
-# encoding: utf-8
+#!/usr/bin/env python3
+
+"""
+A static website generator used by www.initc3.org.
+
+Usage:
+  main.py [options]
+
+Options:
+  -h --help                 Show this screen.
+  -v,--verbose              Print debug messages.
+  --deploy                  Build in deploy mode. Trigger a bunch of optimization, such as image compression.
+  --disable-news            Skip building the news page.
+  --version                 Show version.
+"""
 
 import codecs
 import errno
@@ -7,32 +21,27 @@ import logging
 import os
 import shutil
 import sys
-from optparse import OptionParser
 from os.path import join
 
 import markdown
 import yaml
+from docopt import docopt
 
-import event
 import blog_crawler
+import event
 import press as ic3press
 from base import StaticSiteGenerator
 
-logging.basicConfig(filename='files/build.log', level=logging.DEBUG)
+# setup docopt and logging
+args = docopt(__doc__)
 
-parser = OptionParser()
-parser.add_option("-d", "--deploy", action="store_true", dest="deploy",
-                  help="trigger a bunch of optimization, such as image compression",
-                  default=False)
-parser.add_option("--disable-news", action="store_true", dest="disable_news",
-                  help="doesn't build news feeds. Use this if unoconv is not available.",
-                  default=False)
-(options, args) = parser.parse_args()
+logger_format = '%(asctime)s [%(levelname)s] - %(message)s'
+logging.basicConfig(level=logging.DEBUG if args['--verbose'] else logging.INFO, format=logger_format)
 
 CWD = os.path.dirname(__file__)
 OUTPUT_DIR = os.path.join(CWD, 'output')
 
-e = StaticSiteGenerator(deploy=options.deploy)
+e = StaticSiteGenerator(deploy=args['--deploy'])
 
 EVENT_EXPIRE_IN_DAYS = 40
 PRESS_EXPIRE_IN_DAYS = 25
@@ -46,7 +55,7 @@ def index():
     """
     events_toshow = event.get_event_list(e)
 
-    if options.disable_news:
+    if args['--disable-news']:
         recent_press = []
     else:
         recent_press = ic3press.get_all_press()
@@ -58,7 +67,7 @@ def index():
 
     # sort events and press together by date
     # only display first eight items
-    items = events_toshow + press
+    items = events_toshow + list(press)
 
     def _get_date(item):
         if hasattr(item, 'date'):
@@ -73,7 +82,7 @@ def index():
     n_events = len(items)
 
     if n_events == 0:
-        print 'too few events. cannot update the website'
+        logging.fatal('too few events. cannot update the website')
         sys.exit(1)
 
     blogs, _ = blog_crawler.fetchall(n_events)
@@ -156,6 +165,7 @@ def projects():
         projects=data['projects']),
                        output)
 
+
 def impact():
     output = join(OUTPUT_DIR, 'impact.html')
     temp = e.env.get_template('page.html')
@@ -170,6 +180,7 @@ def impact():
         content=content,
         breadcrumb=breadcrumb),
                        output)
+
 
 def publications():
     output = e.calc_output_fullpath('publications.html')
@@ -267,6 +278,7 @@ def jobs():
         breadcrumb=breadcrumb),
                        output)
 
+
 def video():
     output = e.calc_output_fullpath('video.html')
     temp = e.env.get_template('video_list.html')
@@ -294,10 +306,13 @@ def compress_image(dir='images/hotlinks', size=(80, 80)):
             if not os.path.exists(os.path.dirname(dest)):
                 os.makedirs(os.path.dirname(dest))
 
+            logging.info("compressing image %s", src)
+
             img = Image.open(src)
             img.thumbnail(size)
+
             img.save(dest)
-            print 'Compressing %s' % dest
+            logging.debug('compressed image written to %s', dest)
 
 
 if __name__ == '__main__':
@@ -310,10 +325,12 @@ if __name__ == '__main__':
     policy()
     blogs()
     publications()
-    if options.disable_news:
-        print('skipping news build disabled')
+
+    if args['--disable-news']:
+        logging.warning('not building the press page because --disable-news is on')
     else:
         press()
+
     page_not_found()
     jobs()
     event.write_event_list_page(e)
@@ -324,11 +341,11 @@ if __name__ == '__main__':
         shutil.copytree('static', join(OUTPUT_DIR, 'static'))
         shutil.copytree('images', join(OUTPUT_DIR, 'images'))
         # compress images
-        if options.deploy:
+        if args['--deploy']:
             from PIL import Image
 
             compress_image('images/hotlinks', (100, 100))
-            compress_image('images/people', (200, 200))
+            compress_image('images/people', (500, 500))
 
         shutil.copytree('files', join(OUTPUT_DIR, 'files'))
     except OSError as e:

@@ -7,9 +7,13 @@ from os.path import exists
 
 from jinja2 import FileSystemLoader, Environment
 
+logger = logging.getLogger('base')
+
+
 # filters
 def dateformat(value, format='%b %d, %Y'):
     return value.strftime(format)
+
 
 def prependsiteroot(path, root):
     if path.startswith('http://') or path.startswith('https://'):
@@ -25,7 +29,7 @@ class StaticSiteGenerator(object):
 
     def __init__(self, deploy=False):
         self.def_cntx = dict(SITE_ROOT=self.site_root)
-        print 'deploy: ' + str(deploy)
+        logger.info('deploy: %s', deploy)
         if exists(StaticSiteGenerator.output_dir):
             shutil.rmtree(StaticSiteGenerator.output_dir)
         os.mkdir(StaticSiteGenerator.output_dir)
@@ -40,7 +44,7 @@ class StaticSiteGenerator(object):
         return temp.render(x)
 
     def write(self, content, filename):
-        with open(filename, 'w') as f:
+        with open(filename, 'wb') as f:
             f.write(content)
 
     def write_utf8(self, content, filename):
