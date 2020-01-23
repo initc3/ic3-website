@@ -23,6 +23,10 @@ challenges :
     name: 'Sound Migration'
     description: 'Formulating practical migration paths to production blockchain deployments and enabling integration of new blockchain systems with legacy systems.'
     color: 'orange'
+  - &good
+    name: 'Social Good'
+    description: 'Applying cutting-edge blockchain technologies to pressing societal problems in order to illuminate overlooked technical needs and create impactful solutions.'
+    color: 'magenta'
 
 projects:
   -
