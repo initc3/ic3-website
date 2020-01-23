@@ -26,7 +26,7 @@ challenges :
   - &good
     name: 'Social Good'
     description: 'Applying cutting-edge blockchain technologies to pressing societal problems in order to illuminate overlooked technical needs and create impactful solutions.'
-    color: 'magenta'
+    color: 'red'
 
 projects:
   -
