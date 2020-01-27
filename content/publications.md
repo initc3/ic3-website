@@ -1,6 +1,5 @@
 # Preprints
 
-- A. Juels, L. Breidenbach, A. Coventry, S. Nazarov, S. Ellis, and B. Magauran. [Mixicles: Simple Private Decentralized Finance](https://chain.link/mixicles.pdf). 
 - I. Tsabary, A. Spiegelman, and I. Eyal. [Just Enough Security: Reducing Proof-of-Work Ecological Footprint](https://arxiv.org/abs/1911.04124).
 - F. Zhang, S. K. D. Maram, H. Malvai, S. Goldfeder, and A. Juels. [DECO: Liberating Web Data Using Decentralized Oracles for TLS](https://arxiv.org/abs/1909.00938).
 - D. Easley, M. O'Hara, and S. Basu. [From mining to markets: The evolution of bitcoin transaction fees](https://sciencedirect.com/science/article/pii/S0304405X19300583). 
@@ -18,7 +17,6 @@
 
 # Published Papers
 
-- R. Chatterjee, M.S. Riazi, T. Chowdhury, E. Marasco, F. Koushanfar, and A. Juels. [Multisketches: Practical Secure Sketches Using Off-the-Shelf Biometric Matching Algorithms]. ACM CCS, 2019. 
 - P. Daian, S. Goldfeder, T. Kell, Y. Li, X. Zhao, I. Bentov, L. Breidenbach, and A. Juels. [Flash Boys 2.0: Frontrunning, Transaction Reordering, and Consensus Instability in Decentralized Exchanges](https://arxiv.org/abs/1904.05234). IEEE S&P, 2020 (to appear). 
 - S.K.D. Maram, F. Zhang, L. Wang, A. Low, Y. Zhang, A. Juels, and D. Song. [CHURP: Dynamic-Committee Proactive Secret Sharing](https://eprint.iacr.org/2019/017). ACM CCS, 2019. 
 - E. Cecchetti, B. Fisch, I. Miers, and A. Juels. [PIEs: Public Incompressible Encodings for Decentralized Storage](https://eprint.iacr.org/2018/684.pdf). ACM CCS, 2019. 
