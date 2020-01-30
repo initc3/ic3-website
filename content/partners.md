@@ -5,6 +5,7 @@ Foundation to advance the science and technology of blockchains.
 
 <div class="ui small images" align="center">
 	<img class="ui image sponsor logo" id="aeternity" src="images/partners/aeternity.jpg">
+	<img class="ui image sponsor logo" id="calibra" src="images/partners/Calibra.png">
 	<img class="ui image sponsor logo" id="chainlink" src="images/partners/chainlink.png">
 	<img class="ui image sponsor logo" id="cisco" src="images/partners/CISCO.jpg"/>
 	<img class="ui image sponsor logo" id="cypherium" src="images/partners/cypherium.png">
