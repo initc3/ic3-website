@@ -9,6 +9,7 @@
    'microsoft': 'https://www.microsoft.com',
    'jpmorganchase': 'https://www.jpmorganchase.com/',
    'cisco': 'http://www.cisco.com/',
+   'calibra': 'https://calibra.com',
    'tendermint': 'https://tendermint.com/',
    '21co': 'https://21.co/',
    'neuralcapital': 'http://www.neuralcapital.com/',
