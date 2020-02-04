@@ -538,3 +538,10 @@ students:
     weburl:
     bio: "Yunqi Li is a PhD student at UIUC working with Andrew Miller. She is interested in system security, P2P network, and blockchain technology."
     
+  -
+    name: 'Sishan Long'
+    pic: longsishan.jpg
+    title:
+    email: sl3275@cornell.edu
+    weburl: 'https://longsishan.com'
+    bio: "Sishan Long is a graduate student at Cornell University. She is interested in blockchain technologies."
