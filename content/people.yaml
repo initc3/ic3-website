@@ -173,13 +173,7 @@ faculty:
 
 
 postdocs:
-  -
-    name: 'Shehar Bano'
-    pic: sbano.jpg
-    title:
-    email: s.bano@ucl.ac.uk
-    weburl: 'http://www0.cs.ucl.ac.uk/staff/S.Bano'
-    bio: "Shehar Bano is a postdoctoral researcher in the Information Security Research Group at University College London. Her research interests centre on networked systems, particularly in the context of security and measurement. She works on the design, scalability and applications of blockchains. She received her PhD from the University of Cambridge in 2017 where she was an Honorary Cambridge Trust Scholar, and was awarded the Mary Bradburn Scholarship for her research work.\n"
+
   -
     name: 'Iddo Bentov'
     pic: iddobentov.jpg
@@ -187,21 +181,6 @@ postdocs:
     email:
     weburl:
     bio: "Iddo Bentov is a postdoc at Cornell University, and author of a number of academic papers on cryptography and cryptocurrency. He has been involved in the Bitcoin space since mid-2011, and also works on succinct zero-knowledge proofs at SCIPR Lab.\n"
-  -
-    name: 'Philipp Jovanovic'
-    pic: pjovanovic.jpg
-    title:
-    email: philipp.jovanovic@epfl.ch
-    weburl: 'https://zerobyte.io/'
-    bio: "Philipp Jovanovic is a cryptographer and post-doctoral researcher at EPFL’s Decentralized and Distributed Systems lab. His research interests broadly include applied cryptography, information security, and decentralized systems.\n"
-  
-  -
-    name: 'Ian Miers'
-    pic: imiers.jpg
-    title:
-    email: imiers@cs.jhu.edu
-    weburl:
-    bio: "Ian Miers is a postdoc at Cornell Tech working with Thomas Ristenpart and Ari Juels on computer security and applied cryptography. He earned his Ph.D. from Johns Hopkins University under Matthew Green. His work has been featured in The Washington Post, The New York Times, Wired, The Economist, and denounced in at least 2 op-eds. He is one of the founders of Zcash, a privacy preserving cryptocurrency based on Zerocash.\n"
 
   -
     name: 'Steven Goldfeder'
@@ -545,3 +524,29 @@ students:
     email: sl3275@cornell.edu
     weburl: 'https://longsishan.com'
     bio: "Sishan Long is a graduate student at Cornell University. She is interested in blockchain technologies."
+
+alumni:
+
+  -
+    name: 'Shehar Bano'
+    pic: sbano.jpg
+    title:
+    email: s.bano@ucl.ac.uk
+    weburl: 'http://www0.cs.ucl.ac.uk/staff/S.Bano'
+    bio: "Shehar Bano is a postdoctoral researcher in the Information Security Research Group at University College London. Her research interests centre on networked systems, particularly in the context of security and measurement. She works on the design, scalability and applications of blockchains. She received her PhD from the University of Cambridge in 2017 where she was an Honorary Cambridge Trust Scholar, and was awarded the Mary Bradburn Scholarship for her research work.\n"
+  
+  -
+    name: 'Philipp Jovanovic'
+    pic: pjovanovic.jpg
+    title:
+    email: philipp.jovanovic@epfl.ch
+    weburl: 'https://zerobyte.io/'
+    bio: "Philipp Jovanovic is a cryptographer and post-doctoral researcher at EPFL’s Decentralized and Distributed Systems lab. His research interests broadly include applied cryptography, information security, and decentralized systems.\n"
+  
+  -
+    name: 'Ian Miers'
+    pic: imiers.jpg
+    title:
+    email: imiers@cs.jhu.edu
+    weburl:
+    bio: "Ian Miers is a postdoc at Cornell Tech working with Thomas Ristenpart and Ari Juels on computer security and applied cryptography. He earned his Ph.D. from Johns Hopkins University under Matthew Green. His work has been featured in The Washington Post, The New York Times, Wired, The Economist, and denounced in at least 2 op-eds. He is one of the founders of Zcash, a privacy preserving cryptocurrency based on Zerocash.\n"
