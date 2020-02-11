@@ -28,7 +28,13 @@ challenges :
     description: 'Applying cutting-edge blockchain technologies to pressing societal problems in order to illuminate overlooked technical needs and create impactful solutions.'
     color: 'red'
 
-projects:
+projects: 
+
+  -
+     name: 'Virgo' 
+     challenges: [*scaling, *confidentiality]
+     description: Virgo is a new zero knowledge proofs scheme for layered arithmetic circuits without trusted setup. It takes only 50 seconds to generate a proof for a circuit with 2^26 gates. And it has succinct prrof size and short verification time. It's based on a prior work Libra and a new transparent zero knowledge verifiable polynomial delegation scheme. The scheme is in the initeractive oracle proof model and based on the univeriate sumcheck. To read more, please see <a href="https://eprint.iacr.org/2019/1482.pdf"> our paper</a>.
+     
   -
      name: 'Honey BadgerBFT: The Honey Badger of BFT Protocols'
      challenges: [*scaling]
