@@ -1,4 +1,3 @@
-
 ---
 name: IC3 Meetup Hosted by Calibra - With Speakers Dr. Dawn Song and Dr. Sam Blackshear
 location: 1 Facebook Way, Menlo Park, CA 94025
