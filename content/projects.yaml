@@ -31,6 +31,16 @@ challenges :
 projects: 
 
   -
+     name: 'AIRS: Automated Incentives for Reforestation Stewardship'
+     challenges: [*good]
+     description: The accelerating effect of global climate change is a major challenge for humanity. One critical component of any comprehensive solution is reforestation. As large and effective carbon sinks, forests are important to both conserve and expand. Not all types of forest, though, are equally effective at carbon sequestration. To create, monitor, and manage effective reforestation programs, it is essential that we be able to measure forest carbon accurately and with high geospatial precision. Our project will build infrastructure that: (1) Provides an accurate and trustworthy source of data on forest carbon and (2) Implements a system ofautomated monetary rewards for local inhabitants to conserve and/or increase forests that effectively reduce carbon emissions. By combining the two capabilities of reliable quantification and targeted rewards, we believe we can provide powerful support for climate change programs that aim to realize the value of forests as a part of the global economy. For instance, the REDD+ program, under development by parties to the United Nations Framework Convention on Climate Change, aims to incentivize developing countries to reduce emissions resulting from deforestation and forest degradation, thus conserving and enhancing forest carbon sticks. We will build a public performance-based payment system using two blockchain technologies. The first is an *oracle*, a trustworthy source of data for blockchain applications, it obtains and analyzes satellite data to relay trustworthy statistics on forest carbon. The second key component is a *smart contract*, a blockchain application that consumes data from the oracle and sends cryptocurrency rewards to forest stewards. Our system will also automatically identify the legitimate stakeholders / stewards of forested land by combining local land registry records, geolocation via smartphones, and fraud / anomaly detection. 
+     
+  -
+     name: 'Libra'
+     challenges: [*scaling, *confidentiality]
+     description: We present Libra, the first zero-knowledge proof system that has both optimal prover time and succinct proof size/verification time. In particular, if C is the size of the circuit being proved (i) the prover time is O(C) irrespective of the circuit type; (ii) the proof size and verification time are both O(d log C) for d-depth log-space uniform circuits (such as RAM programs). In addition Libra features an one-time trusted setup that depends only on the size of the input to the circuit and not the circuit logic. Underlying Libra is a new linear-time algorithm for the prover of the interactive proof protocol by Goldwasser, Kalai and Rothblum (also known as GKR protocol), as well as an efficient approach to turn the GKR protocol to zero-knowledge using small masking polynomials. Not only does Libra have excellent asymptotics, but it is also efficient in practice. For example, our implementation shows that it takes 200 seconds to generate a proof for constructing a SHA2-based Merkle tree root on 256 leaves, outperforming all existing zero-knowledge proof systems. Proof size and verification time of Libra are also competitive. For more see <a href="https://eprint.iacr.org/2019/317.pdf">our paper</a>. 
+     
+  -
      name: 'Virgo' 
      challenges: [*scaling, *confidentiality]
      description: Virgo is a new zero knowledge proofs scheme for layered arithmetic circuits without trusted setup. It takes only 50 seconds to generate a proof for a circuit with 2^26 gates. And it has succinct prrof size and short verification time. It's based on a prior work Libra and a new transparent zero knowledge verifiable polynomial delegation scheme. The scheme is in the initeractive oracle proof model and based on the univeriate sumcheck. To read more, please see <a href="https://eprint.iacr.org/2019/1482.pdf"> our paper</a>.
@@ -53,7 +63,7 @@ projects:
   -   
      name: 'VyperFlow'
      challenges: [*correctness]
-     description: VyperFlow is a new programming language for blockchain-based smart contracts based on Vyper. It incorporates information flow control into its type system to maintain the integrity of data within a contract and avoid performing dangerous operations as a result of untrustworthy inputs. These techniques allow for static analysis that provably eliminates large classes of vulnerabilities, including the bugs that allowed attackers to extract and freeze tens of millions of dollars in the two Parity Wallet incidents, as well as some reentrancy bugs like those that doomed the DAO.
+     description: VyperFlow is a new programming language for blockchain-based smart contracts based on Vyper. It incorporates information flow control into its type system to maintain the integrity of data within a contract and avoid performing dangerous operations as a result of untrustworthy inputs. These techniques allow for static analysis that provably eliminates large classes of vulnerabilities, including the bugs that allowed attackers to extract and freeze tens of millions of dollars in the two Parity Wallet incidents, as well as some reentrancy bugs like those that doomed the DAO. 
      
   -
      name: 'Selfish Mining Re-examined'
@@ -162,6 +172,7 @@ projects:
      
   -   
      name: "CHURP (CHUrn-Robust Proactive secret sharing)" 
+     challenges: [*scaling, *confidentiality]
      description: CHURP enables secure secret-sharing in dynamic settings where the committee of nodes storing a secret may change over time. Designed for blockchain settings, CHURP has communication complexity much lower than previous schemes; O(n) on-chain and O(n^2) off-chain in the optimistic case of no node failures.
      
   -   
