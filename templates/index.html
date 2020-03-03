@@ -15,12 +15,12 @@
             <div class="row">
                 <!-- BLOGS-->
                 <div class="eight wide column">
-                    <h1 class="ui header"> <i class="fa fa-rss-square" aria-hidden="true"></i>
+                    <h1 class="ui header"> <i class="rss square icon"></i></i>
                       <div class="content ic3-color">Latest on Blog</div>
                     </h1>
 
                     <div class="ui items">
-                        {% for b in blogs %}
+                        {% for b in blog_posts %}
                         <div class="item">
                             <div class="content">
                                 {% if b.imgsrc %}
@@ -39,22 +39,17 @@
 
                 <!-- NEWS and EVENTS -->
                 <div class="eight wide column">
+
+                    <!-- EVENTS -->
                     <h1 class="ui header">
-                      <i class="fa fa-newspaper-o" aria-hidden="true"></i>
-                      <div class="content ic3-color">News & Events</div>
+                      <i class="calendar icon"></i>
+                      <div class="content ic3-color">Events</div>
                     </h1>
 
                     <div class="ui divided items">
-                        {% for n in items %}
+                        {% for n in event_items %}
                         <div class="item">
                             <div class="content">
-                                {% if n.type == 'news' %}
-                                    <div class="meta"><span><i class="calendar icon"></i>{{ n.date_str }}</span> </div>
-                                    <div class="">
-                                        <a href="{{ n.url }}"><strong>{{ n.venue }}</strong>: {{ n.title }}</a>                                  </a>
-                                    </div>
-                                {% endif %}
-
                                 {% if n.type == 'event' %}
                                 <div class="meta">
                                     <span>{{ n.date_str }}</span>
@@ -73,9 +68,31 @@
                             </div>
                         </div>
                         {% endfor %}
-                        <i class="arrow circle right icon"></i>More <a href="{{ SITE_ROOT }}/press.html">News</a> and
-                        <a href="{{ SITE_ROOT }}/events.html">Events</a>
+                        <i class="arrow circle right icon"></i>More <a href="{{ SITE_ROOT }}/events.html">events</a>
 
+                    </div>
+
+                    <!-- NEWS -->
+                    <div class="ui divider"></div>
+                    <h1 class="ui header">
+                      <i class="newspaper icon"></i>
+                      <div class="content ic3-color">News</div>
+                    </h1>
+
+                    <div class="ui divided items">
+                        {% for n in news_items %}
+                        <div class="item">
+                            <div class="content">
+                                {% if n.type == 'news' %}
+                                    <div class="meta"><span><i class="calendar icon"></i>{{ n.date_str }}</span> </div>
+                                    <div class="">
+                                        <a href="{{ n.url }}"><strong>{{ n.venue }}</strong>: {{ n.title }}</a>                                  </a>
+                                    </div>
+                                {% endif %}
+                            </div>
+                        </div>
+                        {% endfor %}
+                        <i class="arrow circle right icon"></i>More <a href="{{ SITE_ROOT }}/press.html">News</a>
                     </div>
                 </div>
             </div>

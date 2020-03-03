@@ -1,8 +1,6 @@
-site:
-	python main.py --deploy
+all:
+	make -C content/press -f Makefile.travis
+	python3 main.py --deploy
 
-test:
-	python main.py
-
-deploy: site
-	aws s3 sync output s3://www.initc3.org --delete
+deploy:
+	aws s3 sync output s3://staging.initc3.org --delete

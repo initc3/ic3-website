@@ -30,6 +30,19 @@ deploy:
     detect_encoding: true
     on:
       branch: master
+  -
+    provider: s3
+    access_key_id: $AWS_ACCESS_KEY_ID
+    secret_access_key: $AWS_SECRET_ACCESS_KEY
+    bucket: staging.initc3.org
+    region: us-east-1
+    skip_cleanup: true
+    default_text_charset: utf-8
+    cache_control: max-age=43200
+    local-dir: output
+    detect_encoding: true
+    on:
+      branch: staging
 after_deploy:
   # allow `awscli` to make requests to CloudFront.
   - aws configure set preview.cloudfront true
