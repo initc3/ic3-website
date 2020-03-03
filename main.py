@@ -115,7 +115,7 @@ def about():
 def people():
     output = os.path.join(OUTPUT_DIR, 'people.html')
     with open('./content/people.yaml', 'r') as c:
-        data = yaml.load(c)
+        data = yaml.safe_load(c)
 
     def _get_last_name(ppl_item):
         return ppl_item['name'].split(' ')[-1]
@@ -153,7 +153,7 @@ def partners():
 def projects():
     output = os.path.join(OUTPUT_DIR, 'projects.html')
     with open('./content/projects.yaml', 'r') as c:
-        data = yaml.load(c)
+        data = yaml.safe_load(c)
 
     breadcrumb = [{'name': 'Projects', 'url': 'projects.html'}]
 
@@ -285,7 +285,7 @@ def video():
     breadcrumb = [{'name': 'Video', 'url': 'video.html'}]
 
     with open('./content/videos/list.yaml', 'r') as c:
-        video_list = yaml.load(c)
+        video_list = yaml.safe_load(c)
 
     context = dict(
         title='IC3 - Video',

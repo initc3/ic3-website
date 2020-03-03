@@ -69,7 +69,7 @@ def fetchall(num_recent_blogs=4):
 
     # Read from yaml
     with open('./content/blogs.yaml', 'r') as c:
-        data = yaml.load(c)
+        data = yaml.safe_load(c)
         for post in data:
             date = post['date'].timetuple()
             results.append((date, post['url'], post['title'], post['date'].strftime('%B %d, %Y'), post['authors'],
