@@ -117,9 +117,9 @@ class Event:
 
         if attach_icon:
             if self.end >= datetime.date.today():
-                cal_icon = '<i class="add to calendar icon"></i>'
+                cal_icon = '<i class="calendar plus icon"></i>'
             else:
-                cal_icon = '<i class="calendar icon"></i>'
+                cal_icon = '<i class="calendar check icon"></i>'
         else:
             cal_icon = ''
 

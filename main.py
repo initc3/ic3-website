@@ -43,31 +43,21 @@ OUTPUT_DIR = os.path.join(CWD, 'output')
 
 e = StaticSiteGenerator(deploy=args['--deploy'])
 
-EVENT_EXPIRE_IN_DAYS = 40
-PRESS_EXPIRE_IN_DAYS = 25
-FEATURED_PRESS_EXPIRE_IN_DAYS = 45
-
 
 def index():
-    """ Let me explain the index news selection rule.
-    First, we select recent news from all news regardless whether it's featured or not.
-    Then, if we don't get enough of them, we draw from the less recent but featured ones.
-    """
-    events_toshow = event.get_event_list(e)
+    # read the config file
+    with open('./config.yaml', 'r') as conf:
+        config = yaml.safe_load(conf)
+    n_blog_posts = config['homepage']['n_blog_posts']
+    n_news = config['homepage']['n_news']
+    n_events = config['homepage']['n_events']
 
-    if args['--disable-news']:
-        recent_press = []
-    else:
-        recent_press = ic3press.get_all_press()
+    # get all the events and news items
+    all_events = event.get_event_list(e)
+    all_news = [] if args['--disable-news'] else ic3press.get_all_press()
 
-    press = recent_press
-
-    # dedupe using url. note that p[1] is url
-    press = {p.url: p for p in press}.values()
-
-    # sort events and press together by date
-    # only display first eight items
-    items = events_toshow + list(press)
+    # deduplicating news items using url.
+    all_news = list({p.url: p for p in all_news}.values())
 
     def _get_date(item):
         if hasattr(item, 'date'):
@@ -77,22 +67,31 @@ def index():
         else:
             raise Exception('wrong item')
 
-    items = sorted(items, key=_get_date, reverse=True)[:5]
+    # sort events and news items by date
+    # display first 5 items
+    event_items = sorted(all_events, key=_get_date, reverse=True)[:n_events]
+    news_items = sorted(all_news, key=_get_date, reverse=True)[:n_news]
 
-    n_events = len(items)
-
-    if n_events == 0:
-        logging.fatal('too few events. cannot update the website')
+    if len(event_items) == 0:
+        logging.fatal('too few event items. cannot update the website')
         sys.exit(1)
 
-    blogs, _ = blog_crawler.fetchall(n_events)
+    if not args['--disable-news'] and len(news_items) == 0:
+        logging.fatal('too few news. cannot update the website')
+        sys.exit(1)
 
-    for ev in events_toshow:
+    # to the left of news & events is the section of blog
+    # right now, we put 5 blog items there because somehow 5 blogs take roughly the same space as ten news items
+    blog_posts, _ = blog_crawler.fetchall(n_blog_posts)
+
+    # generate event detail pages
+    for ev in all_events:
         ev.write_file(e)
 
     e.render_and_write(e.env.get_template('index.html'),
-                       dict(items=items,
-                            blogs=blogs),
+                       dict(event_items=event_items,
+                            news_items=news_items,
+                            blog_posts=blog_posts),
                        e.calc_output_fullpath('index.html'))
 
 
@@ -115,7 +114,7 @@ def about():
 def people():
     output = os.path.join(OUTPUT_DIR, 'people.html')
     with open('./content/people.yaml', 'r') as c:
-        data = yaml.load(c)
+        data = yaml.safe_load(c)
 
     def _get_last_name(ppl_item):
         return ppl_item['name'].split(' ')[-1]
@@ -153,7 +152,7 @@ def partners():
 def projects():
     output = os.path.join(OUTPUT_DIR, 'projects.html')
     with open('./content/projects.yaml', 'r') as c:
-        data = yaml.load(c)
+        data = yaml.safe_load(c)
 
     breadcrumb = [{'name': 'Projects', 'url': 'projects.html'}]
 
@@ -285,7 +284,7 @@ def video():
     breadcrumb = [{'name': 'Video', 'url': 'video.html'}]
 
     with open('./content/videos/list.yaml', 'r') as c:
-        video_list = yaml.load(c)
+        video_list = yaml.safe_load(c)
 
     context = dict(
         title='IC3 - Video',
