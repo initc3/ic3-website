@@ -207,7 +207,7 @@ students:
     bio: "Sarah is a PhD student at University College London in the Information Security group. Her research interest are in Applied Cryptography and Game Theory, in the context of cryptocurrencies.\n"
   -
     name: 'Surya Bakshi'
-    pic: Raptor.jpg
+    pic: bakshi.png
     title:
     email: sbakshi3@illinois.edu
     weburl: 'http://sbaks0820.github.io'
@@ -367,13 +367,6 @@ students:
     weburl: 'http://www.cs.umd.edu/~akosba'
     bio: "Ahmed Kosba is a graduate student at University of Maryland. He is interested in security and applied cryptography research, with a focus on verifiable computation and cryptocurrency.\n"
   -
-    name: 'Alex Manuskin'
-    pic: manuskin.jpg
-    title:
-    email:
-    weburl: 
-    bio: "Alex is a graduate student at the Technion. He is interested in distributed systems, scaling cryptocurrencies and security.\n"
-  -
     name: 'Krishna Deepak Maram'
     pic: deepak.jpg
     title:
@@ -408,13 +401,6 @@ students:
     email: kirill.nikitin@epfl.ch
     weburl: 'https://nikirill.com/'
     bio: "Kirill Nikitin is a Ph.D. candidate at École polytechnique fédérale de Lausanne. His research interests revolve around the topics in system security, network security, and distributed systems. His current focus is on building secure and privacy-preserving decentralized systems.\n"
-  -
-    name: 'Oded Naor'
-    pic: oded.jpg
-    title:
-    email:
-    weburl:
-    bio: "Oded is a graduate student at the Technion. His research includes scaling cryptocurrencies, offline payment channels, and Trusted Execution Environments.\n"
   -
     name: 'Youer Pu'
     pic: youerpu.jpg
@@ -524,6 +510,14 @@ students:
     email: sl3275@cornell.edu
     weburl: 'https://longsishan.com'
     bio: "Sishan Long is a graduate student at Cornell University. She is interested in blockchain technologies."
+    
+  -
+    name: 'Roi Bar Zur'
+    pic: roi.jpg
+    title:
+    email: roi.bar-zur@cs.technion.ac.il
+    weburl:
+    bio: "Roi Bar Zur is a graduate student at the Technion. He is interested in cryptocurrencies, game theory, and reinforcement learning."
 
 alumni:
 
@@ -550,3 +544,19 @@ alumni:
     email: imiers@cs.jhu.edu
     weburl:
     bio: "Ian Miers is a postdoc at Cornell Tech working with Thomas Ristenpart and Ari Juels on computer security and applied cryptography. He earned his Ph.D. from Johns Hopkins University under Matthew Green. His work has been featured in The Washington Post, The New York Times, Wired, The Economist, and denounced in at least 2 op-eds. He is one of the founders of Zcash, a privacy preserving cryptocurrency based on Zerocash.\n"
+
+  -
+    name: 'Alex Manuskin'
+    pic: manuskin.jpg
+    title:
+    email:
+    weburl: 
+    bio: "Alex is a graduate student at the Technion. He is interested in distributed systems, scaling cryptocurrencies and security.\n"
+ 
+  -
+    name: 'Oded Naor'
+    pic: oded.jpg
+    title:
+    email:
+    weburl:
+    bio: "Oded is a graduate student at the Technion. His research includes scaling cryptocurrencies, offline payment channels, and Trusted Execution Environments.\n"
