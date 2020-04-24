@@ -546,14 +546,14 @@ alumni:
     weburl:
     bio: "Isaac Sheff is a Computer Science Ph.D. candidate at Cornell working with Andrew Myers and Robbert van Renesse at the intersection of distributed systems and programming languages. He works with decentralized trust, atomic transactions, and consensus protocols.\n"
   -
-     name: 'Ekaterina Volkova'
+    name: 'Ekaterina Volkova'
     pic: ekaterina.jpg
     title:
     email:
     weburl: 'https://www.johnson.cornell.edu/PHD-Program/Current-Students?id=ev99'
     bio: "Ekaterina is a finance Ph.D. student in the Johson School of Management, Cornell University. Prior to joining the program in 2012, Ekaterina graduated from Moscow State University with MA in Mathematics and from New Economic School with MA in Economics. Her main research focus is empirical corporate finance and  text-mining.\n"
   -
-     name: 'Sinisa Matetic'
+    name: 'Sinisa Matetic'
     pic: smatetic.png
     title:
     email: sinisa.matetic@inf.ethz.ch
