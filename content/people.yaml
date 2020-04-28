@@ -148,14 +148,6 @@ faculty:
     bio: "Maureen O'Hara is the Robert W. Purcell Professor of Finance at the Johnson Graduate School of Management, Cornell University, and she also holds a Professorship at the University of Technology Sydney. Professor O'Hara's research focuses on issues in market microstructure, and she is the author of numerous journal articles as well as the classic book Market Microstructure Theory (Blackwell: 1995). Recent research looks at the how ETFs affect market stability, liquidity issues in corporate bond markets, and corporate governance problems in banks.\n"
  
   -
-    name: 'Patrick McCorry'
-    pic: paddy.jpg
-    title:
-    email: p.mccorry@ucl.ac.uk
-    weburl: 'http://www0.cs.ucl.ac.uk/staff/P.McCorry/'
-    bio: "Patrick McCorry is an Assistant Professor at King's College London. His research focuses on the security and scalability of cryptocurrencies. Patrick is actively involved in building the cryptocurrency community by teaching a free monthly deep-dive developer bootcamp and a 10-week cryptocurrency course for over 200+ developers.\n"
-
-  -
     name: 'Giulia Fanti'
     pic: giulia.jpeg
     title:
@@ -220,13 +212,6 @@ students:
     weburl: 'http://www.soumyabasu.com'
     bio: "Soumya Basu is a graduate student in Cornell CS working with Emin Gün Sirer. He is primarily looking at how to provide strong security guarantees in blockchain technology without sacrificing performance. He also spends some time looking at the financial incentives involved in decentralized cryptocurrencies. For more up to date information, please visit his website."
   -
-    name: 'Lorenz Breidenbach'
-    pic: lorenz.jpg
-    title:
-    email:
-    weburl: 'http://lorenzb.com'
-    bio: "Lorenz is an SNF BRIDGE fellow in the group of Srdjan Capkun at ETH Zürich. Previously, Lorenz did research at Cornell Tech under the supervision of Ari Juels.\n"
-  -
     name: 'Burcu Canakci'
     pic: raptor2.jpg
     title: 
@@ -255,13 +240,6 @@ students:
     weburl: 'https://raymondcheng.net/about/'
     bio: "Raymond Cheng is a postdoctoral researcher at UC Berkeley. His research interests broadly include distributed systems, security and privacy. He received his PhD from the University of Washington.\n"
   -
-    name: 'Sergi Delgado Segura'
-    pic: sdelgado.jpg
-    title:
-    email: sdelgado@deic.uab.cat
-    weburl: 'http://srgi.me'
-    bio: "Sergi is a third year PhD student at the Autonomous University of Barcelona (UAB) advised by Jordi Herrera-Joancomart&iacute;. Currently he is on a research stay at UIUC advised by Andrew Miller. His research interests lies on privacy and cryptocurrencies, specially focussed on Bitcoin.\n"
-  -
     name: 'Philip Daian'
     pic: phil.jpg
     title:
@@ -275,13 +253,6 @@ students:
     email:
     weburl: 
     bio: "Yael Doweck is a graduate student at the Technion. She is interested in distributed systems, cryptocurrencies and cryptocurrency exchanges.\n"
-  -
-    name: 'Ayush Dubey'
-    pic: ayush.jpg
-    title:
-    email:
-    weburl: 'http://ayushdubey.com/'
-    bio: "Ayush Dubey is a graduate student at Cornell University.  His research aims to bridge the gap between strong guarantees and high performance in large-scale distributed systems.  His current project is <a href=\"http://weaver.systems/\">Weaver</a>, a high-performance, transactional graph store.\n"
   -
     name: 'Naomi Ephraim'
     pic: naomi.jpg
@@ -318,13 +289,6 @@ students:
     weburl:
     bio: "Joshua Gancher is a graduate student at Cornell University. He is interested in cryptography and programming languages.\n"
   -
-    name: 'Linus Gasser'
-    pic: lgasser.jpg
-    title:
-    email: linus.gasser@epfl.ch
-    weburl:
-    bio: "Linus is working with his team of engineers to interface between PhD-students from Bryan Ford’s lab and industry partners. He likes to work with semester students, too, and help them to understand the implication of decentralised, distributed systems, and how ECC fits into that picture. His long-term goal is to build software for scalable, self-organizing communities. The current effort is at <a href=\"https://github.com/dedis/cothority\">Cothority</a>\n"
-  -
     name: 'Adem Efe Gencer'
     pic: efe.jpg
     title:
@@ -352,20 +316,6 @@ students:
     email:
     weburl:
     bio: "Yan Ji is a Computer Science graduate student at Cornell University. She is interested in blockchain technologies and other areas intersecting security, applied cryptography and distributed systems."
-  -
-    name: 'Lefteris Kokoris Kogias'
-    pic: lkokoris.jpg
-    title:
-    email: eleftherios.kokoriskogias@epfl.ch
-    weburl:
-    bio: "Lefteris is a PhD researcher at EPFL, advised by Prof. Bryan Ford. His research lies in-between computer systems, computer security and applied cryptography. He is particularly interested in decentralized trust systems, that increase robustness and transparency of today's Internet.\n"
-  -
-    name: 'Ahmed Kosba'
-    pic: ahmed.png
-    title:
-    email:
-    weburl: 'http://www.cs.umd.edu/~akosba'
-    bio: "Ahmed Kosba is a graduate student at University of Maryland. He is interested in security and applied cryptography research, with a focus on verifiable computation and cryptocurrency.\n"
   -
     name: 'Krishna Deepak Maram'
     pic: deepak.jpg
@@ -416,13 +366,6 @@ students:
     weburl: 'https://sekniqi.com/'
     bio: 'Kevin Sekniqi is a graduate student at Cornell University working with Robbert van Renesse.'
   -
-    name: 'Isaac Sheff'
-    pic: isaac.jpg
-    title:
-    email:
-    weburl:
-    bio: "Isaac Sheff is a Computer Science Ph.D. candidate at Cornell working with Andrew Myers and Robbert van Renesse at the intersection of distributed systems and programming languages. He works with decentralized trust, atomic transactions, and consensus protocols.\n"
-  -
     name: 'Sandra Siby'
     pic: ssiby.jpg
     title:
@@ -436,13 +379,6 @@ students:
     email:
     weburl:
     bio: "Itay Tsabary is a graduate student at the Technion. He is interested in distributed systems, cryptocurrencies and game theory.\n"
-  -
-    name: 'Ekaterina Volkova'
-    pic: ekaterina.jpg
-    title:
-    email:
-    weburl: 'https://www.johnson.cornell.edu/PHD-Program/Current-Students?id=ev99'
-    bio: "Ekaterina is a finance Ph.D. student in the Johson School of Management, Cornell University. Prior to joining the program in 2012, Ekaterina graduated from Moscow State University with MA in Mathematics and from New Economic School with MA in Economics. Her main research focus is empirical corporate finance and  text-mining.\n"
   -
     name: 'Karl W&uuml;st'
     pic: kwuest.jpg
@@ -478,14 +414,6 @@ students:
     email: wanglun@berkeley.edu
     weburl: 'http://wanglunucb.com'
     bio: "Lun Wang is a Ph.D. student in EECS at UC Berkeley working with Prof. Dawn Song. His research interest is in the intersection of machine learning and security, data privacy, programming language, blockchains and applied cryptography."
-
-  -    
-    name: 'Sinisa Matetic'
-    pic: smatetic.png
-    title:
-    email: sinisa.matetic@inf.ethz.ch
-    weburl: 
-    bio: "Sinisa Matetic is a PhD Researcher in the Institute of Information Security, ETH Zurich. He was born in Split, Croatia. Prior to joining ETH Zurich, he worked as a Management Consultant at A.T. Kearney in the SEE region. Sinisa's research interest are in system security focusing on distributed systems, trusted hardware, blockchain-based technology design and integrity protection."
 
   -
     name: 'Jiaheng Zhang'
@@ -560,3 +488,74 @@ alumni:
     email:
     weburl:
     bio: "Oded is a graduate student at the Technion. His research includes scaling cryptocurrencies, offline payment channels, and Trusted Execution Environments.\n"
+
+  -
+    name: 'Patrick McCorry'
+    pic: paddy.jpg
+    title:
+    email: p.mccorry@ucl.ac.uk
+    weburl: 'http://www0.cs.ucl.ac.uk/staff/P.McCorry/'
+    bio: "Patrick McCorry is an Assistant Professor at King's College London. His research focuses on the security and scalability of cryptocurrencies. Patrick is actively involved in building the cryptocurrency community by teaching a free monthly deep-dive developer bootcamp and a 10-week cryptocurrency course for over 200+ developers.\n"
+  -
+    name: 'Lorenz Breidenbach'
+    pic: lorenz.jpg
+    title:
+    email:
+    weburl: 'http://lorenzb.com'
+    bio: "Lorenz is an SNF BRIDGE fellow in the group of Srdjan Capkun at ETH Zürich. Previously, Lorenz did research at Cornell Tech under the supervision of Ari Juels.\n"
+  -
+    name: 'Sergi Delgado Segura'
+    pic: sdelgado.jpg
+    title:
+    email: sdelgado@deic.uab.cat
+    weburl: 'http://srgi.me'
+    bio: "Sergi is a third year PhD student at the Autonomous University of Barcelona (UAB) advised by Jordi Herrera-Joancomart&iacute;. Currently he is on a research stay at UIUC advised by Andrew Miller. His research interests lies on privacy and cryptocurrencies, specially focussed on Bitcoin.\n"
+  -
+    name: 'Ayush Dubey'
+    pic: ayush.jpg
+    title:
+    email:
+    weburl: 'http://ayushdubey.com/'
+    bio: "Ayush Dubey is a graduate student at Cornell University.  His research aims to bridge the gap between strong guarantees and high performance in large-scale distributed systems.  His current project is <a href=\"http://weaver.systems/\">Weaver</a>, a high-performance, transactional graph store.\n"
+  -
+    name: 'Linus Gasser'
+    pic: lgasser.jpg
+    title:
+    email: linus.gasser@epfl.ch
+    weburl:
+    bio: "Linus is working with his team of engineers to interface between PhD-students from Bryan Ford’s lab and industry partners. He likes to work with semester students, too, and help them to understand the implication of decentralised, distributed systems, and how ECC fits into that picture. His long-term goal is to build software for scalable, self-organizing communities. The current effort is at <a href=\"https://github.com/dedis/cothority\">Cothority</a>\n"
+  -
+    name: 'Lefteris Kokoris Kogias'
+    pic: lkokoris.jpg
+    title:
+    email: eleftherios.kokoriskogias@epfl.ch
+    weburl:
+    bio: "Lefteris is a PhD researcher at EPFL, advised by Prof. Bryan Ford. His research lies in-between computer systems, computer security and applied cryptography. He is particularly interested in decentralized trust systems, that increase robustness and transparency of today's Internet.\n"
+  -
+    name: 'Ahmed Kosba'
+    pic: ahmed.png
+    title:
+    email:
+    weburl: 'http://www.cs.umd.edu/~akosba'
+    bio: "Ahmed Kosba is a graduate student at University of Maryland. He is interested in security and applied cryptography research, with a focus on verifiable computation and cryptocurrency.\n"
+  -
+    name: 'Isaac Sheff'
+    pic: isaac.jpg
+    title:
+    email:
+    weburl:
+    bio: "Isaac Sheff is a Computer Science Ph.D. candidate at Cornell working with Andrew Myers and Robbert van Renesse at the intersection of distributed systems and programming languages. He works with decentralized trust, atomic transactions, and consensus protocols.\n"
+  -
+    name: 'Ekaterina Volkova'
+    pic: ekaterina.jpg
+    title:
+    email:
+    weburl: 'https://www.johnson.cornell.edu/PHD-Program/Current-Students?id=ev99'
+    bio: "Ekaterina is a finance Ph.D. student in the Johson School of Management, Cornell University. Prior to joining the program in 2012, Ekaterina graduated from Moscow State University with MA in Mathematics and from New Economic School with MA in Economics. Her main research focus is empirical corporate finance and  text-mining.\n"
+  -
+    name: 'Sinisa Matetic'
+    pic: smatetic.png
+    title:
+    email: sinisa.matetic@inf.ethz.ch
+    weburl: 
+    bio: "Sinisa Matetic is a PhD Researcher in the Institute of Information Security, ETH Zurich. He was born in Split, Croatia. Prior to joining ETH Zurich, he worked as a Management Consultant at A.T. Kearney in the SEE region. Sinisa's research interest are in system security focusing on distributed systems, trusted hardware, blockchain-based technology design and integrity protection."
