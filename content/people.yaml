@@ -182,6 +182,15 @@ postdocs:
     weburl: 'http://stevengoldfeder.com'
     bio: "Steven Goldfeder is an IC3 postdoc at Cornell Tech where he works at the intersection of crypto(graphy) and crypto(currencies). He holds a PhD from Princeton University and is a co-author of the leading textbook on cryptocurrencies."
 
+  - 
+    name: 'Ni Trieu'
+    pic: NiTrieu.jpg
+    title:
+    email: nitrieu@berkeley.edu
+    weburl: 'https://nitrieu.github.io/'
+    bio: "Ni Trieu is a postdoc at UC Berkeley working with Prof. Dawn Song. She received her PhD from Oregon State University. Her research interests are in the areas of cryptography and security, with a specific focus on secure computation and its applications to online advertising, biocomputing, blockchain, and machine learning."
+    
+    
 students:
   -
     name: 'Mustafa Al-Bassam'
@@ -453,7 +462,7 @@ students:
     email: charlieh@andrew.cmu.edu
     weburl:
     bio: "Charlie is a PhD student at CMU advised by Giulia Fanti. He is interested in robustness of data-driven systems."
-
+    
 
 alumni:
 
