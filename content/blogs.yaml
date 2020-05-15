@@ -32,3 +32,12 @@
  title: "BDoS: Blockchain Denial of Service"
  authors: Michael Mirkin, Yan Ji, Jonathan Pang, Ariah Klages-Mundt, Ittay Eyal, and Ari Juels
  summary: We have discovered a denial-of-service attack on Bitcoin-like blockchains that is much cheaper than previously described attacks. Such blockchains rely on incentives to provide security. We show how an attacker can disrupt those incentives to cause rational miners to stop mining. 
+
+-
+ date: 2020-05-14
+ url: https://decentralizedthoughts.github.io/2020-05-14-streamlet/
+ title: "Streamlet: A Simple Textbook Blockchain Protocol"
+ authors: Benjamin Chan and Elaine Shi
+ summary: In this post, we described an extraordinarily simple blockchain protocol called Streamlet. Consensus is a complex problem and has been studied since the 1980s. More recently, blockchain research has spawned many new works aiming for performance and ease-of-implementation. However, simple, understandable protocols remain elusive, and that's where Streamlet comes in.
+ 
+ 
