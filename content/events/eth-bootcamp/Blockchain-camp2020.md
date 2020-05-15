@@ -32,7 +32,7 @@ Join us for the 5th Annual IC3 Blockchain Camp! Due to Covid-19, this annual 7-d
 IC3 universities represented include Berkeley, CMU, Cornell, Cornell Tech, EPFL, ETH Zurich, UCL, UIUC, and the Technion.
 
 
-For examples of what to expect and testimonials by leaders in the blockchain community, please see the summary of the <a ref="https://www.initc3.org/events/2019-06-10-IC3-Blockchain-Camp.html">2019 Blockchain Camp</a>. 
+For examples of what to expect and testimonials by leaders in the blockchain community, please see the summary of the <a href="https://www.initc3.org/events/2019-06-10-IC3-Blockchain-Camp.html">2019 Blockchain Camp</a>. 
 
 
 <div class="ui piled segment">
@@ -112,4 +112,4 @@ Option 1: The **coding track** includes all presentations, virtual social activi
 
 Option 2: The **presentation track** will be open to the public with many of the daily talks and panels the participants in the coding track join. 
 
-For registration in either track, <a ref="https://forms.gle/GQn7GrDBQST7LHZb8">please apply here</a>.
+For registration in either track, <a href="https://forms.gle/GQn7GrDBQST7LHZb8">please apply here</a>.
