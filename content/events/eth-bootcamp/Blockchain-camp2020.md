@@ -11,7 +11,7 @@ summary: Join us for the 5th Annual IC3 Blockchain Camp!
 </div>
 
 
-## IC3 Blockchain Camp - July 26 - August 1, 2020 - Virtual!
+# IC3 Blockchain Camp - July 26 - August 1, 2020 - Virtual!
 
 Join us for the 5th Annual IC3 Blockchain Camp! Due to Covid-19, this annual 7-day experience will be virtual. Our Camp technical committee of Surya Bakshi, Tyler Kell, and Patrick McCorry are preparing another unique immersive weeklong coding and learning experience. In addition to the tech talks, panels and projects, we are planning VR-enabled social activities, games, chat rooms, birds-of-a-feather discussions, and more. 
 
@@ -43,7 +43,7 @@ For examples of what to expect and testimonials by leaders in the blockchain com
 </div>
 
 
-# 2020 CAMP: NOTABLE ATTENDEES, PANELISTS, and SPEAKERS
+## 2020 CAMP: NOTABLE ATTENDEES, PANELISTS, and SPEAKERS
 
 Join confirmed attendees this year including (in alphabetical order):
 
@@ -90,12 +90,12 @@ Dawn Song (IC3, UC Berkeley),
 Vlad Zamfir (Ethereum Foundation).
 
 
-# FUN ACTIVITIES
+## FUN ACTIVITIES
 
 In addition to the tech talks, panels, and projects, we are planning VR-enabled social activities, games, chat rooms, birds-of-a-feather discussions, and more.
 
 
-# AGENDA
+## AGENDA
 
 Please see the current agenda below and check back for updates.
 
@@ -104,7 +104,7 @@ Please see the current agenda below and check back for updates.
 </div>
 
 
-# REGISTRATION
+## REGISTRATION
 
 We will offer two overlapping tracks: a presentation track and a coding track.
 
