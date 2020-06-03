@@ -64,20 +64,23 @@ staff:
     email: sk3259@cornell.edu
     weburl:
     bio: 'Tyler Kell is a research engineer at IC3. In a previous life, Tyler was a penetration tester, and enjoys an extensive history of breaking security assumptions.'
-  -
+ 
+ -
     name: 'Sarah Allen'
     pic: sarah-allen.jpg
     title: 'IC3 Community Manager'
     email: sarahallen@cornell.edu
     weburl:
     bio: 'Sarah Allen is the IC3 Community Manager, supporting interactions among faculty, students, and industry partners; and spreading the IC3 word throughout the greater community. She has a B.A. in Psychology from the University of Michigan and previous experience in academic research.'
+  
   -
     name: 'Sylvain Bellemare"
     pic: sylvain.jpg
-    title:
+    title: 'Research Engineer'
     email: sb2522@cornell.edu
     weburl:
-    bio: 'Sylvain is a research engineer at IC3. His role at IC3 involves helping with implementing and testing software prototypes, meanwhile applying software engineering best practices. His interest is in distributed systems and cryptographic protocols.'
+    bio: "Sylvain is a research engineer at IC3. His role at IC3 involves helping with implementing and testing software prototypes, meanwhile applying software engineering best practices. His interest is in distributed systems and cryptographic protocols."
+  
   
 chiefscientist:
   - 
