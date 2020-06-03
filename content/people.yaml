@@ -74,7 +74,7 @@ staff:
   -
     name: 'Sylvain Bellemare"
     pic: sylvain.jpg
-    title: 'Research Engineer'
+    title:
     email: sb2522@cornell.edu
     weburl:
     bio: 'Sylvain is a research engineer at IC3. His role at IC3 involves helping with implementing and testing software prototypes, meanwhile applying software engineering best practices. His interest is in distributed systems and cryptographic protocols.'
