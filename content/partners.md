@@ -21,4 +21,4 @@ The National Science Foundation awarded IC3 a $3M 3-year grant in 2015. We seek 
 
 # Contact
 
-For more information, please contact: [ic3directors@systems.cs.cornell.edu](mailto:ic3directors@systems.cs.cornell.edu).
+For more information, please contact: [ic3-directors-l@cornell.edu](mailto:ic3-directors-l@cornell.edu).
