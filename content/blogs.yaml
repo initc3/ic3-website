@@ -40,4 +40,10 @@
  authors: Benjamin Chan and Elaine Shi
  summary: In this post, we described an extraordinarily simple blockchain protocol called Streamlet. Consensus is a complex problem and has been studied since the 1980s. More recently, blockchain research has spawned many new works aiming for performance and ease-of-implementation. However, simple, understandable protocols remain elusive, and that's where Streamlet comes in.
  
+-
+ date: 2020-06-22
+ url: https://https://ittayeyal.github.io/2020-06-22-mad-htlc/
+ title: "MAD-HTLC - Because HTLC is Crazy-Cheap to Attack"
+ authors: Itay Tsabary, Matan Yechieli, and Ittay Eyal
+ summary: In this post, we outline the attack and its analysis, and the MAD-HTLC solution. 
  
