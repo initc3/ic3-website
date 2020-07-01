@@ -69,6 +69,8 @@ Tyler Kell (IC3, Cornell),
 
 Tyrone Lobban (JP Morgan),
 
+Dahlia Malkhi (Novi),
+
 Mary Maller (Ethereum Foundation),
 
 Patrick McCorry (IC3, anydot),
