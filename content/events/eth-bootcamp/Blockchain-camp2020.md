@@ -108,7 +108,7 @@ Please see the current agenda below and check back for updates.
 
 ## REGISTRATION
 
-We will offer two overlapping tracks: a presentation track and a coding track.
+We will offer two overlapping tracks: a presentation track and a coding track: The schedule was set based upon nominal awake hours across our campuses, i.e., the presentation program starts at 9 AM in Berkeley and ends at midnight in Haifa. Coding teams will work asynchronously, so don't let your time zone dissuade you from joining a team!
 
 Option 1: The **coding track** includes all presentations, virtual social activities, and participation in a weeklong coding project on a 5 - 10 person team. This is limited to IC3 sponsors, faculty, staff, and students. In the coding track, you can expect to engage with leaders in the blockchain community - faculty, architects, developers, and students.
 
