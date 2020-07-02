@@ -14,6 +14,7 @@ Foundation to advance the science and technology of blockchains.
 	<img class="ui image sponsor logo" id="novi" src="images/partners/novi.png">
 	<img class="ui image sponsor logo" id="siemens" src="images/partners/siemens.png">
 	<img class="ui image sponsor logo" id="tezos" src="images/partners/tezos-logo.png">
+	<img class+"ui image sponsor logo" id="vmware" src="images/partners/vmware.jpg">
 </div>
 
 
