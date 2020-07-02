@@ -23,6 +23,7 @@
    'aeternity': 'http://www.aeternity.com',
    'protocollabs': 'https://protocol.ai/',
    'tezos': 'http://www.tezos.com',
+   'vmware': 'http://www.vmware.com',
  };
 
 $(document).ready(function() {
