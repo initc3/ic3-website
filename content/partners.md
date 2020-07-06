@@ -14,11 +14,9 @@ Foundation to advance the science and technology of blockchains.
 	<img class="ui image sponsor logo" id="novi" src="images/partners/novi.png">
 	<img class="ui image sponsor logo" id="siemens" src="images/partners/siemens.png">
 	<img class="ui image sponsor logo" id="tezos" src="images/partners/tezos-logo.png">
-	<img class+"ui image sponsor logo" id="vmware" src="images/partners/vmware.jpg">
 </div>
 
 
-The National Science Foundation awarded IC3 a $3M 3-year grant in 2015. We seek partners in industry, law and commerce to sponsor and collaborate with us in our mission to deliver powerful, principled, and practical innovations.
 
 # Contact
 
