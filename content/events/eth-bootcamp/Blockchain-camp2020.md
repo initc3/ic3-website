@@ -102,7 +102,7 @@ In addition to the tech talks, panels, and projects, we are planning VR-enabled 
 Please see the current agenda below and check back for updates.
 
 <div class="ui piled segment">
-  <img class="ui centered image" src="../images/events/blockchain-camp-2020/schedule-blockchaincamp.png" alt="" />
+  <img class="ui centered image" src="../images/events/blockchain-camp-2020/updatedagenda.png" alt="" />
 </div>
 
 
