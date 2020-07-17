@@ -252,13 +252,6 @@ students:
     weburl:
     bio: "Ceyhun is a first year PhD student at EPFL. His research interests span distributed systems, networking and security.\n"
   -
-    name: 'Raymond Cheng'
-    pic: rcheng.jpg
-    title:
-    email: ryscheng@cs.berkeley.edu
-    weburl: 'https://raymondcheng.net/about/'
-    bio: "Raymond Cheng is a postdoctoral researcher at UC Berkeley. His research interests broadly include distributed systems, security and privacy. He received his PhD from the University of Washington.\n"
-  -
     name: 'Philip Daian'
     pic: phil.jpg
     title:
@@ -420,13 +413,6 @@ students:
     weburl:
     bio: "Tom Yurek is a PhD student at UIUC working with Andrew Miller. He is interested in Privacy and Applied Cryptography."
   -
-    name: 'Fan Zhang'
-    pic: fan.jpg
-    title:
-    email: fz84@cornell.edu
-    weburl: 'http://www.cs.cornell.edu/~fanz/'
-    bio: "Fan Zhang is a PhD candidate in the department of Computer Science at Cornell University. Under the advice of Prof. Ari Juels, his research interest is in blockchains, trusted hardware, system security and applied cryptography. He's particularly interested in understanding and building hybrid systems that enjoy the best of both blockchains and trusted hardware."
-  -
     name: 'Lun Wang'
     pic: lunwang.png
     title:
@@ -586,3 +572,18 @@ alumni:
     email: sinisa.matetic@inf.ethz.ch
     weburl: 
     bio: "Sinisa Matetic is a PhD Researcher in the Institute of Information Security, ETH Zurich. He was born in Split, Croatia. Prior to joining ETH Zurich, he worked as a Management Consultant at A.T. Kearney in the SEE region. Sinisa's research interest are in system security focusing on distributed systems, trusted hardware, blockchain-based technology design and integrity protection."
+  -
+    name: 'Raymond Cheng'
+    pic: rcheng.jpg
+    title:
+    email: ryscheng@cs.berkeley.edu
+    weburl: 'https://raymondcheng.net/about/'
+    bio: "Raymond Cheng is a postdoctoral researcher at UC Berkeley. His research interests broadly include distributed systems, security and privacy. He received his PhD from the University of Washington.\n"
+  -
+    name: 'Fan Zhang'
+    pic: fan.jpg
+    title:
+    email: fz84@cornell.edu
+    weburl: 'http://www.cs.cornell.edu/~fanz/'
+    bio: "Fan Zhang is a PhD candidate in the department of Computer Science at Cornell University. Under the advice of Prof. Ari Juels, his research interest is in blockchains, trusted hardware, system security and applied cryptography. He's particularly interested in understanding and building hybrid systems that enjoy the best of both blockchains and trusted hardware."
+ 
