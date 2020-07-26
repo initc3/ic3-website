@@ -3,7 +3,7 @@ name: 'IC3 Blockchain Camp'
 location: Virtual!
 start: 2020-07-26
 end: 2020-08-01
-summary: Join us for the 5th Annual IC3 Blockchain Camp!
+summary: Join us now for the 5th annual Blockchain Camp!
 ---
 
 <div class="ui piled segment">
