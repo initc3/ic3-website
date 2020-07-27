@@ -459,6 +459,22 @@ students:
     weburl:
     bio: "Charlie is a PhD student at CMU advised by Giulia Fanti. He is interested in robustness of data-driven systems."
     
+  -
+    name: 'Kushal Babel'
+    pic: kushal-babel.png
+    title:
+    email: kb742@cornell.edu
+    weburl: "http://cs.cornell.edu/~babel/"
+    bio: "Kushal Babel is a Computer Science graduate student at Cornell University. He aims to leverage his experience with programming languages, systems research and traditional finance to build better security protocols and exciting blockchain applications."
+        
+  -
+    name: 'Friederike Groschupp'
+    pic: Groschupp.jpg
+    title:
+    email: friederike@groschupp.eu
+    weburl:
+    bio: "Friederike is a PhD student at ETH Zurich. Her research interests include system security and blockchain technology."
+    
 
 alumni:
 
