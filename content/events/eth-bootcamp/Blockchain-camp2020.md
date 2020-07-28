@@ -102,8 +102,8 @@ In addition to the tech talks, panels, and projects, we are planning VR-enabled 
 Please see the current agenda below and check back for updates.
 
 <div class="ui piled segment">
-  <img class="ui centered image" src="../images/events/blockchain-camp-2020/Last schedule.jpg" alt="" />
-</div>
+  <img class="ui centered image" src="../images/events/blockchain-camp-2020/IC3 Blockchain Camp Schedule.jpg" alt="" />
+</div>Bl
 
 
 ## REGISTRATION
