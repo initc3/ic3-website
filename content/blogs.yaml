@@ -47,3 +47,10 @@
  authors: Itay Tsabary, Matan Yechieli, and Ittay Eyal
  summary: In this post, we outline the attack and its analysis, and the MAD-HTLC solution. 
  
+-
+ date: 2020-07-23
+ url: https://www.brookings.edu/blog/up-front/2020/07/23/design-choices-for-central-bank-digital-currency/
+ title: "Design Choices for Central Bank Digital Currency"
+ authors: Sarah Allen, Srdjan Capkun, Ittay Eyal, Giulia Fanti, Bryan Ford, James Grimmelmann, Ari Juels, Kari Kostiainen, Sarah Meiklejohn, Andrew Miller, Eswar Prasad, Karl Wust, and Fan Zhang
+ summary: In this paper, we enumerate the fundamental technical design challenges facing CBDC designers, with a particular focus on performance, privacy, and security. Through a survey of relevant academic and industry research and deployed systems, we discuss the state of the art in technologies that can address the challenges involved in successful CBDC deployment. We also present a vision of the rich range of functionalities and use cases that a well-designed CBDC platform could ultimately offer users.
+
