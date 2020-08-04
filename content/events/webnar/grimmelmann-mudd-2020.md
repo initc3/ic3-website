@@ -14,7 +14,7 @@ Blockchains seem to replace the muddiness of human institutions with the crystal
 
 **BIO**
 
-James Grimmelmann is the Tessler Family Professor of Digital and Information Law at Cornell Tech and COrnell Law School. He studies how laws regulating software affect freedom, wealth, and power. He tries to help lawyers and technologists understand each other by writing about digital copyright, search engines, privacy on social networks, online governance, and other topics in computer and Internet law.
+James Grimmelmann is the Tessler Family Professor of Digital and Information Law at Cornell Tech and Cornell Law School. He studies how laws regulating software affect freedom, wealth, and power. He tries to help lawyers and technologists understand each other by writing about digital copyright, search engines, privacy on social networks, online governance, and other topics in computer and Internet law.
 
 
 **REGISTER**
