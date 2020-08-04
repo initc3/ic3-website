@@ -1,10 +1,9 @@
-
 ---
 name: IC3 Webinar with James Grimmelmann
 location: Zoom, register to get link. 
 start: 2020-08-11
 end: 2020-08-11
-summary: Join us for a presentation of "Crystal and Mud on the Blockchain" by James Grimmelmann hosted by IC3.
+summary: Join us for a presentation of "Crystals and Mud on the Blockchain" by James Grimmelmann hosted by IC3.
 ---
 
 
