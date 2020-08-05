@@ -475,7 +475,25 @@ students:
     weburl:
     bio: "Friederike is a PhD student at ETH Zurich. Her research interests include system security and blockchain technology."
     
+researchers:
 
+  -
+    name: 'Dr. Kari Kostiainen'
+    pic: kari.jpg
+    title: 
+    email: kari.kostiainen@inf.ethz.ch
+    weburl: "https://syssec.ethz.ch/people/kkari.html"
+    bio: "Kari Kostiainen is Senior Scientist at ETH Zurich and Coordinator of Zurich Information Security Center (ZISC). Before joining ETH, Kari was a researcher at Nokia. He has a PhD in computer science from Aalto. Kari's research focuses on system security. Recent topics include smartphone security, trusted computing, secure user interaction, and blockchain security."
+
+  -
+    name: 'Linus Gasser'
+    pic: lgasser.jpg
+    title:
+    email: linus.gasser@epfl.ch
+    weburl:
+    bio: "Linus is working with his team of engineers to interface between PhD-students from Bryan Ford’s lab and industry partners. He likes to work with semester students, too, and help them to understand the implication of decentralised, distributed systems, and how ECC fits into that picture. His long-term goal is to build software for scalable, self-organizing communities. The current effort is at <a href=\"https://github.com/dedis/cothority\">Cothority</a>\n"
+ 
+    
 alumni:
 
   -
@@ -546,14 +564,7 @@ alumni:
     email:
     weburl: 'http://ayushdubey.com/'
     bio: "Ayush Dubey is a graduate student at Cornell University.  His research aims to bridge the gap between strong guarantees and high performance in large-scale distributed systems.  His current project is <a href=\"http://weaver.systems/\">Weaver</a>, a high-performance, transactional graph store.\n"
-  -
-    name: 'Linus Gasser'
-    pic: lgasser.jpg
-    title:
-    email: linus.gasser@epfl.ch
-    weburl:
-    bio: "Linus is working with his team of engineers to interface between PhD-students from Bryan Ford’s lab and industry partners. He likes to work with semester students, too, and help them to understand the implication of decentralised, distributed systems, and how ECC fits into that picture. His long-term goal is to build software for scalable, self-organizing communities. The current effort is at <a href=\"https://github.com/dedis/cothority\">Cothority</a>\n"
-  -
+ -
     name: 'Lefteris Kokoris Kogias'
     pic: lkokoris.jpg
     title:
