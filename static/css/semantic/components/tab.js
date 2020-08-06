@@ -1,6 +1,6 @@
 /*!
- * # Semantic UI 2.2.1 - Tab
- * http://github.com/semantic-org/semantic-ui/
+ * # Fomantic-UI - Tab
+ * http://github.com/fomantic/Fomantic-UI/
  *
  *
  * Released under the MIT license
@@ -10,7 +10,14 @@
 
 ;(function ($, window, document, undefined) {
 
-"use strict";
+'use strict';
+
+$.isWindow = $.isWindow || function(obj) {
+  return obj != null && obj === obj.window;
+};
+$.isFunction = $.isFunction || function(obj) {
+  return typeof obj === "function" && typeof obj.nodeType !== "number";
+};
 
 window = (typeof window != 'undefined' && window.Math == Math)
   ? window
@@ -51,6 +58,7 @@ $.fn.tab = function(parameters) {
         metadata        = settings.metadata,
         selector        = settings.selector,
         error           = settings.error,
+        regExp          = settings.regExp,
 
         eventNamespace  = '.' + settings.namespace,
         moduleNamespace = 'module-' + settings.namespace,
@@ -91,6 +99,11 @@ $.fn.tab = function(parameters) {
             module.initializeHistory();
             initializedHistory = true;
           }
+
+          if(settings.autoTabActivation && instance === undefined && module.determine.activeTab() == null) {
+            module.debug('No active tab detected, setting first tab active', module.get.initialPath());
+            module.changeTab(settings.autoTabActivation === true ? module.get.initialPath() : settings.autoTabActivation);
+          };
 
           module.instantiate();
         },
@@ -268,6 +281,13 @@ $.fn.tab = function(parameters) {
           }
         },
 
+        escape: {
+          string: function(text) {
+            text =  String(text);
+            return text.replace(regExp.escape, '\\$&');
+          }
+        },
+
         set: {
           auto: function() {
             var
@@ -379,6 +399,7 @@ $.fn.tab = function(parameters) {
             }
             else if(tabPath.search('/') == -1 && tabPath !== '') {
               // look for in page anchor
+              tabPath = module.escape.string(tabPath);
               $anchor     = $('#' + tabPath + ', a[name="' + tabPath + '"]');
               currentPath = $anchor.closest('[data-tab]').data(metadata.tab);
               $tab        = module.get.tabElement(currentPath);
@@ -429,13 +450,21 @@ $.fn.tab = function(parameters) {
               ? evaluateScripts
               : settings.evaluateScripts
             ;
-            if(evaluateScripts) {
-              module.debug('Updating HTML and evaluating inline scripts', tabPath, html);
-              $tab.html(html);
+            if(typeof settings.cacheType == 'string' && settings.cacheType.toLowerCase() == 'dom' && typeof html !== 'string') {
+              $tab
+                .empty()
+                .append($(html).clone(true))
+              ;
             }
             else {
-              module.debug('Updating HTML', tabPath, html);
-              tab.innerHTML = html;
+              if(evaluateScripts) {
+                module.debug('Updating HTML and evaluating inline scripts', tabPath, html);
+                $tab.html(html);
+              }
+              else {
+                module.debug('Updating HTML', tabPath, html);
+                tab.innerHTML = html;
+              }
             }
           }
         },
@@ -467,7 +496,20 @@ $.fn.tab = function(parameters) {
                   }
                   settings.onFirstLoad.call($tab[0], tabPath, parameterArray, historyEvent);
                   settings.onLoad.call($tab[0], tabPath, parameterArray, historyEvent);
-                  if(settings.cacheType != 'response') {
+
+                  if(settings.loadOnce) {
+                    module.cache.add(fullTabPath, true);
+                  }
+                  else if(typeof settings.cacheType == 'string' && settings.cacheType.toLowerCase() == 'dom' && $tab.children().length > 0) {
+                    setTimeout(function() {
+                      var
+                        $clone = $tab.children().clone(true)
+                      ;
+                      $clone = $clone.not('script');
+                      module.cache.add(fullTabPath, $clone);
+                    }, 0);
+                  }
+                  else {
                     module.cache.add(fullTabPath, $tab.html());
                   }
                 },
@@ -488,11 +530,13 @@ $.fn.tab = function(parameters) {
             if(settings.cache && cachedContent) {
               module.activate.tab(tabPath);
               module.debug('Adding cached content', fullTabPath);
-              if(settings.evaluateScripts == 'once') {
-                module.update.content(tabPath, cachedContent, false);
-              }
-              else {
-                module.update.content(tabPath, cachedContent);
+              if(!settings.loadOnce) {
+                if(settings.evaluateScripts == 'once') {
+                  module.update.content(tabPath, cachedContent, false);
+                }
+                else {
+                  module.update.content(tabPath, cachedContent);
+                }
               }
               settings.onLoad.call($tab[0], tabPath, parameterArray, historyEvent);
             }
@@ -597,7 +641,7 @@ $.fn.tab = function(parameters) {
           },
           defaultPath: function(tabPath) {
             var
-              $defaultNav = $allModules.filter('[data-' + metadata.tab + '^="' + tabPath + '/"]').eq(0),
+              $defaultNav = $allModules.filter('[data-' + metadata.tab + '^="' + module.escape.string(tabPath) + '/"]').eq(0),
               defaultTab  = $defaultNav.data(metadata.tab) || false
             ;
             if( defaultTab ) {
@@ -616,7 +660,7 @@ $.fn.tab = function(parameters) {
           },
           navElement: function(tabPath) {
             tabPath = tabPath || activeTabPath;
-            return $allModules.filter('[data-' + metadata.tab + '="' + tabPath + '"]');
+            return $allModules.filter('[data-' + metadata.tab + '="' + module.escape.string(tabPath) + '"]');
           },
           tabElement: function(tabPath) {
             var
@@ -628,8 +672,8 @@ $.fn.tab = function(parameters) {
             tabPath        = tabPath || activeTabPath;
             tabPathArray   = module.utilities.pathToArray(tabPath);
             lastTab        = module.utilities.last(tabPathArray);
-            $fullPathTab   = $tabs.filter('[data-' + metadata.tab + '="' + tabPath + '"]');
-            $simplePathTab = $tabs.filter('[data-' + metadata.tab + '="' + lastTab + '"]');
+            $fullPathTab   = $tabs.filter('[data-' + metadata.tab + '="' + module.escape.string(tabPath) + '"]');
+            $simplePathTab = $tabs.filter('[data-' + metadata.tab + '="' + module.escape.string(lastTab) + '"]');
             return ($fullPathTab.length > 0)
               ? $fullPathTab
               : $simplePathTab
@@ -640,6 +684,29 @@ $.fn.tab = function(parameters) {
           }
         },
 
+        determine: {
+          activeTab: function() {
+            var activeTab = null;
+
+            $tabs.each(function(_index, tab) {
+              var $tab = $(tab);
+
+              if( $tab.hasClass(className.active) ) {
+                var
+                  tabPath = $(this).data(metadata.tab),
+                  $anchor = $allModules.filter('[data-' + metadata.tab + '="' + module.escape.string(tabPath) + '"]')
+                ;
+
+                if( $anchor.hasClass(className.active) ) {
+                  activeTab = tabPath;
+                }
+              }
+            });
+
+            return activeTab;
+          }
+        },
+
         utilities: {
           filterArray: function(keepArray, removeArray) {
             return $.grep(keepArray, function(keepValue) {
@@ -647,7 +714,7 @@ $.fn.tab = function(parameters) {
             });
           },
           last: function(array) {
-            return $.isArray(array)
+            return Array.isArray(array)
               ? array[ array.length - 1]
               : false
             ;
@@ -662,7 +729,7 @@ $.fn.tab = function(parameters) {
             ;
           },
           arrayToPath: function(pathArray) {
-            return $.isArray(pathArray)
+            return Array.isArray(pathArray)
               ? pathArray.join('/')
               : false
             ;
@@ -819,7 +886,7 @@ $.fn.tab = function(parameters) {
           else if(found !== undefined) {
             response = found;
           }
-          if($.isArray(returnedValue)) {
+          if(Array.isArray(returnedValue)) {
             returnedValue.push(response);
           }
           else if(returnedValue !== undefined) {
@@ -880,11 +947,13 @@ $.fn.tab.settings = {
 
   alwaysRefresh   : false,      // load tab content new every tab click
   cache           : true,       // cache the content requests to pull locally
+  loadOnce        : false,      // Whether tab data should only be loaded once when using remote content
   cacheType       : 'response', // Whether to cache exact response, or to html cache contents after scripts execute
   ignoreFirstLoad : false,      // don't load remote content on first load
 
   apiSettings     : false,      // settings for api call
   evaluateScripts : 'once',     // whether inline scripts should be parsed (true/false/once). Once will not re-evaluate on cached content
+  autoTabActivation: true,      // whether a non existing active tab will auto activate the first available tab
 
   onFirstLoad : function(tabPath, parameterArray, historyEvent) {}, // called first time loaded
   onLoad      : function(tabPath, parameterArray, historyEvent) {}, // called on every load
@@ -905,6 +974,10 @@ $.fn.tab.settings = {
     legacyInit : 'onTabInit has been renamed to onFirstLoad in 2.0, please adjust your code.',
     legacyLoad : 'onTabLoad has been renamed to onLoad in 2.0. Please adjust your code',
     state      : 'History requires Asual\'s Address library <https://github.com/asual/jquery-address>'
+  },
+
+  regExp : {
+    escape   : /[-[\]{}()*+?.,\\^$|#\s:=@]/g
   },
 
   metadata : {

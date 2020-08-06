@@ -1,7 +1,3 @@
 /*******************************
          Theme Overrides
 *******************************/
-
-@mobileItemSpacing: 2em;
-@mobileImageWidth: 80px;
-@mobileContentImageDistance: 0.5em;
