@@ -83,7 +83,7 @@ def index():
 
     # to the left of news & events is the section of blog
     # right now, we put 5 blog items there because somehow 5 blogs take roughly the same space as ten news items
-    blog_posts, _ = [], [] if args['--disable-blog'] else blog_crawler.fetchall(n_blog_posts)
+    blog_posts, _ = ([], []) if args['--disable-blog'] else blog_crawler.fetchall(n_blog_posts)
 
     # generate event detail pages
     for ev in all_events:
