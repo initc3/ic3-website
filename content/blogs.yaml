@@ -18,7 +18,7 @@
  title: "Impossibility of Full Decentralization in Permissionless Blockchains"
  authors: Yujin Kwon, Jian Liu, Minjeong Kim, Dawn Song, and Yongdae Kim
  summary: Decentralization is an essential factor the should be inherently considered in the design of blockchain systems. Even though people design systems for good decentralization, in practice, we often observe that blockchain systems are highly centralized. Bitcoin and Ethereum, as representative examples, are already well known to be highly centralized in terms of network and mining. In fact, poor decentralization appears not only in PoW-based coins but also in coins adopting other mechanisms such as proof-of-stake (PoS) and delegated proof-of-stake (DPoS).
- 
+
 -
  date: 2019-12-04
  url: https://medium.com/@IttayEyal/just-enough-security-for-cryptocurrencies-7f78479e98c4
@@ -31,7 +31,7 @@
  url: https://medium.com/coinmonks/bdos-blockchain-denial-of-service-385c8c56b401?
  title: "BDoS: Blockchain Denial of Service"
  authors: Michael Mirkin, Yan Ji, Jonathan Pang, Ariah Klages-Mundt, Ittay Eyal, and Ari Juels
- summary: We have discovered a denial-of-service attack on Bitcoin-like blockchains that is much cheaper than previously described attacks. Such blockchains rely on incentives to provide security. We show how an attacker can disrupt those incentives to cause rational miners to stop mining. 
+ summary: We have discovered a denial-of-service attack on Bitcoin-like blockchains that is much cheaper than previously described attacks. Such blockchains rely on incentives to provide security. We show how an attacker can disrupt those incentives to cause rational miners to stop mining.
 
 -
  date: 2020-05-14
@@ -39,14 +39,14 @@
  title: "Streamlet: A Simple Textbook Blockchain Protocol"
  authors: Benjamin Chan and Elaine Shi
  summary: In this post, we described an extraordinarily simple blockchain protocol called Streamlet. Consensus is a complex problem and has been studied since the 1980s. More recently, blockchain research has spawned many new works aiming for performance and ease-of-implementation. However, simple, understandable protocols remain elusive, and that's where Streamlet comes in.
- 
+
 -
  date: 2020-06-22
  url: https://ittayeyal.github.io/2020-06-22-mad-htlc/
  title: "MAD-HTLC - Because HTLC is Crazy-Cheap to Attack"
  authors: Itay Tsabary, Matan Yechieli, and Ittay Eyal
- summary: In this post, we outline the attack and its analysis, and the MAD-HTLC solution. 
- 
+ summary: In this post, we outline the attack and its analysis, and the MAD-HTLC solution.
+
 -
  date: 2020-07-23
  url: https://www.brookings.edu/blog/up-front/2020/07/23/design-choices-for-central-bank-digital-currency/
