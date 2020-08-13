@@ -98,6 +98,7 @@ to appear at that point */
 
 .navbar.segment {
   background-image: url(../images/bg/ic3pattern.png) !important;
+  background-size: 200px !important;
 }
 
 /*---- MENU ----*/
@@ -113,6 +114,10 @@ to appear at that point */
   text-transform: uppercase;
 }
 
+.navbar.segment .menu a.item:not(.disabled) {
+  color: white !important;
+}
+
 /*appear on iPad*/
 @media only screen and (max-width: 767px) {
   .navbar > .menu > .right.menu {
@@ -120,20 +125,7 @@ to appear at that point */
   }
 }
 
-/* landing: big text block on the index page */
-.landing.segment {
-  padding-top: 3rem !important;
-  padding-bottom: 4rem !important;
-  background-image: url(../images/bg/ic3pattern.png) !important;
-}
-
-.landing.segment h1.header {
-  font-size: 3rem;
-  font-family: 'Roboto Condensed';
-}
-
 /* SLOGAN -------- */
-
 .slogan.segment > h2 {
   text-align: center;
   margin: 3rem auto;
@@ -174,7 +166,7 @@ to appear at that point */
 
 .footer.segment {
   padding: 2rem 0rem;
-  background-image: url(../images/bg/ic3pattern.png) !important;
+  background-image: url(../images/bg/ic3pattern.png) !important;background-size: 300px !important;
 }
 
 .ui.main.container {
