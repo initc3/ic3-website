@@ -117,8 +117,6 @@ def fetchall(num_recent_blogs=4):
                         raise
             with open(imgsrc, "wb") as img:
                 img.write(imagecontents)
-        else:
-            imgsrc = "http://initc3.org/images/news/ic3_image.jpg"
         recent.append(dict(date=date, url=url, title=title, authors=authors, imgsrc=imgsrc, summary=summary))
 
     return recent, posts

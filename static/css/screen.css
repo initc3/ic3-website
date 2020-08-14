@@ -1,12 +1,7 @@
 /*IC3 LOGO IS ALWAYS DISPLAYED*/
-#ic3-logo {
-  padding: 0;
-  margin-left: 1.5rem;
-
-  font-size: 2.5rem;
-  font-weight: bold;
-  font-family: 'Roboto Condensed';
-  color: #9c2a4c;
+#ic3-logo img {
+  width: 350px;
+  margin: 0px 10px;
 }
 
 /*MOTO IS DISPLAYED ON LARGER SCREEN (>992px)*/
@@ -102,7 +97,8 @@ to appear at that point */
 }
 
 .navbar.segment {
-  background-image: url(../images/bg/escheresque_ste.png) !important;
+  background-image: url(../images/bg/ic3pattern.png) !important;
+  background-size: 200px !important;
 }
 
 /*---- MENU ----*/
@@ -111,11 +107,15 @@ to appear at that point */
   margin-right: .5rem;
   padding-top: 5px;
   padding-bottom: 5px;
-  font-family: 'BenchNine';
+  font-family: 'Roboto Condensed';
 }
 
 .navbar.segment .menu a {
   text-transform: uppercase;
+}
+
+.navbar.segment .menu a.item:not(.disabled) {
+  color: white !important;
 }
 
 /*appear on iPad*/
@@ -125,23 +125,10 @@ to appear at that point */
   }
 }
 
-/* landing: big text block on the index page */
-.landing.segment {
-  padding-top: 3rem !important;
-  padding-bottom: 4rem !important;
-  background-image: url(../images/bg/escheresque_ste.png) !important;
-}
-
-.landing.segment h1.header {
-  font-size: 3rem;
-  font-family: 'Roboto Condensed';
-}
-
 /* SLOGAN -------- */
-
 .slogan.segment > h2 {
   text-align: center;
-  margin: 2rem auto;
+  margin: 3rem auto;
   /*line-height: 1.5rem;*/
   font-size: 1.5rem;
   font-family: 'Roboto Condensed';
@@ -179,12 +166,7 @@ to appear at that point */
 
 .footer.segment {
   padding: 2rem 0rem;
-  background-image: url(../images/bg/escheresque_ste.png) !important;
-}
-
-
-.ic3-color {
-  color: #9c2a4c !important;
+  background-image: url(../images/bg/ic3pattern.png) !important;background-size: 200px !important;
 }
 
 .ui.main.container {
@@ -228,7 +210,7 @@ blockquote p {
 }
 .ui.event.header .sub.header {
     margin-top: .8rem;
-    font-family: 'Roboto Condensed';
+    /* font-family: 'Roboto Condensed'; */
 }
 
 /* partner page */

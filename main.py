@@ -11,6 +11,7 @@ Options:
   -v,--verbose              Print debug messages.
   --deploy                  Build in deploy mode. Trigger a bunch of optimization, such as image compression.
   --disable-news            Skip building the news page.
+  --disable-blog            Skip building the blog pages.
   --version                 Show version.
 """
 
@@ -82,7 +83,7 @@ def index():
 
     # to the left of news & events is the section of blog
     # right now, we put 5 blog items there because somehow 5 blogs take roughly the same space as ten news items
-    blog_posts, _ = blog_crawler.fetchall(n_blog_posts)
+    blog_posts, _ = ([], []) if args['--disable-blog'] else blog_crawler.fetchall(n_blog_posts)
 
     # generate event detail pages
     for ev in all_events:
@@ -322,7 +323,10 @@ if __name__ == '__main__':
     projects()
     impact()
     policy()
-    blogs()
+    if args['--disable-blog']:
+        logging.warning('not building the blog pages because --disable-blog is on')
+    else:
+        blogs()
     publications()
 
     if args['--disable-news']:
