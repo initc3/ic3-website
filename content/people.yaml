@@ -475,6 +475,16 @@ students:
     weburl:
     bio: "Friederike is a PhD student at ETH Zurich. Her research interests include system security and blockchain technology."
     
+  -
+    name: 'Jun-You Liu'
+    pic: jun-you.jpg
+    title:
+    email: jl3956@cornell.edu
+    weburl: "http://orbxball.github.io"
+    bio: "Jun-You is a Computer Science Ph.D. studenet at Cornell University. He is interested in the research of cryptography, crypto security, and crypto economics; looking forward to leveraging the discovery from research to build a safer open financial system."
+    
+    
+    
 researchers:
 
   -
