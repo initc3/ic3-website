@@ -55,7 +55,7 @@ staff:
     title: 'IC3 Administrative Coordinator'
     email: vv48@cornell.edu
     weburl: 
-    bio: 'Veronica VanCleave-Seeley is the IC3 Administrative Coordinator, responsible for the support of IC3 members. Veronica has a B.A. in General Science from Alfred University and several years of administrative experience.'
+    bio: 'Veronica VanCleave-Seeley is the IC3 Administrative Coordinator, responsible for the support of IC3 members and coordinating IC3 events. Veronica has a B.A. in General Science from Alfred University and several years of administrative experience.'
     
   -
     name: 'Tyler Kell'
@@ -71,7 +71,7 @@ staff:
     title: 'IC3 Community Manager'
     email: sarahallen@cornell.edu
     weburl:
-    bio: 'Sarah Allen is the IC3 Community Manager, supporting interactions among faculty, students, and industry partners; and spreading the IC3 word throughout the greater community. She has a B.A. in Psychology from the University of Michigan and previous experience in academic research.'
+    bio: 'Sarah Allen is the IC3 Community Manager, supporting interactions among faculty, students, and industry partners. She works to connect researchers, industry practitioners, and the blockchain community.'
   
   -
     name: 'Sylvain Bellemare'
@@ -483,7 +483,14 @@ students:
     weburl: "http://orbxball.github.io"
     bio: "Jun-You is a Computer Science Ph.D. studenet at Cornell University. He is interested in the research of cryptography, crypto security, and crypto economics; looking forward to leveraging the discovery from research to build a safer open financial system."
     
-    
+  -
+    name: 'Harjasleen Malvai'
+    pic: jasleen.jpg
+    title:
+    email: hm553@cornell.edu
+    weburl: 
+    bio: "Harjasleen Malvai is a PhD studet at Cornell University with research interests in theoretical and applied cryptography as well as their applications to blockchains, she also maintains an interest in run-on sentences."
+        
     
 researchers:
 
