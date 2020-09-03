@@ -24,6 +24,7 @@
    'protocollabs': 'https://protocol.ai/',
    'tezos': 'http://www.tezos.com',
    'vmware': 'http://www.vmware.com',
+   'ethereum': 'http://ethereum.org',
  };
 
 $(document).ready(function() {
