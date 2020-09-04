@@ -1,5 +1,20 @@
 # Preprints
 
+- N. Ephraim, C. Freitag, I. Komargodski, and R. Pass [SPARKs: Succinct Parallelizable Arguments of Knowledge](https://eprint.iacr.org/2020/994.pdf).
+- L. Barman, I. Dacosta, M. Zamani, E. Zhai, A. Pyrgelis, B. Ford, J. Feigenbaum, and J-P. Hubaux [PriFi: Low-Latency Anonymity for Organizational Networks](https://bford.info/pub/sec/prifi/pets20-prifi.pdf).
+- D. Maram, H. Malvai, F. Zhang, N. Jean-Louis, A. Frolov, T. Kell, T. Lobban, C. Moy, A. Juels, and A. Miller [CanDID: Can-Do Decentralized Identity with Legacy Compatibility, Sybil-Resistance, and Accountability](https://eprint.iacr.org/2020/934.pdf).
+- S. Allen, S. Capkun, I. Eyal, G. Fanti, B. Ford, J. Grimmelmann, A. Juels, K. Kostiainen, S. Meiklejohn, A. Miller, E. Prasad, K. Wust, and F. Zhang [Design choices for central bank digital currency: Policy and technical considerations](http://brookings.edu/research/design-choices-for-central-bank-digital-currency-policy-and-technical-considerations/).
+- B. Y. Chan and E. Shi [Streamlet: Textbook Streamlined Blockchains](https://eprint.iacr.org/2020/088.pdf).
+- R. Gennaro and S. Goldfeder [One Round Threshold ECDSA with Identifiable Abort](https://eprint.iacr.org/2020/540).
+- G. Kappos, H. Yousaf, A. M. Piotrowska, S. Kanjalkar, S. Delgado-Segura, A. Miller, and S. Meiklejohn [An Empirical Analysis of Privacy in the Lightning Network](https://arxiv.org/pdf/2003.12470.pdf).
+- S. Capkun and many others [DP3T - Decentralized Privacy-Preserving Proximity Tracing](http://github.com/DT-3T/documents).
+- I. Tsabary, M. Yechieli, and I. Eyal [MAD-HTLC: Because HTLC is Crazy-Cheap to Attack](http://arxiv.org/abs/2006.12031).
+- A. Klages-Mundt, D. Harz, L. Gudgeon, J-Y. Liu, and A. Minca [Stablecoins 2.0: Economic Foundations and Risk-based Models](https://arxiv.org/abs/2006.12388).
+- T-H. H. Chan, N. Ephraim, A. Marcedone, A. Morgan, R. Pass, and E. Shi [Blockchain with Varying Number of Players](https://eprint.iacr.org/2020/677.pdf).
+- J. Wan, H. Xiao, E. Shi, and S. Devadas [Expected Constant Round Byzantine Broadcast under Dishonest Majority](https://eprint.iacr.org/2020/590.pdf).
+- T-H. H. Chan, W-K. Lin, K. Nayak, and E. Shi [Perfectly Secure Oblivious Parallel RAM with O(log3N/loglogN) Overhead](https://eprint.iacr.org/2020/604).
+- E. C. Crities, M. Maller, S. Meiklejohn, and R. Mercer [Reputable List Curation from Decentralized Voting](https://eprint.iacr.org/2020/709.pdf).
+- G. Avarikioti, E. Kokoris Kogias, R. Wattenhofer, and D. Zindros [Brick: Asynchronous Payment Channels](https://arxiv.org/abs/1905.11360).
 - A. Miller, Y. Zhang, and S. Kanjalkar [Baby SNARK (do do dodo dodo)](https://github.com/initc3/babySNARK/blob/master/babysnark.pdf).
 - B. Y. Chan and E. Shi [STREAMLET: Textbook Streamlined Blockchains](https://eprint.iacr.org/2020/088.pdf).
 - E. Shi [Streamlined Blockchains: A Simple and Elegant Approach](https://eprint.iacr.org/2020/087.pdf).
@@ -23,6 +38,10 @@
 
 # Published Papers
 
+- Y. Liu and R. Pass [On One-way Functions and Kolmogorov Complexity](https://eprint.iacr.org/2020/423.pdf). IEEE FOCS 2020. 
+- K. Wust, S. Matetic, S. Egli, K. Kostiainen, and S. Capkun [ACE: Asynchronous and Concurrent Execution of Complex Smart Contracts](https://eprint.iacr.org/2019/835.pdf). ACM CCS 2020. 
+- A. Manuskin, M. Mirkin, and I. Eyal [Ostraka: Secure Blockchain Scaling by Node Sharding](https://arxiv.org/abs/1907.03331). IEEE S&B 2020.
+- M. Mirkin, Y. Ji, J. Pang, A. Klages-Mundt, I. Eyal, and A. Juels [BDoS: Blockchain Denial of Service](https://arxiv.org/abs/1912.07497). ACM CCS 2020.
 - L. Gudgeon, P. Moreno-Sanchez, S. Roos, P. McCorry, and A. Gervais [SoK: Layer-Two Blockchain Protocols](https://fc20.ifca.ai/preproceedings/150.pdf). FC 2020. 
 - A. Kiayias, A. Miller, and D. Zindros [Non-Interactive Proofs of Proof-of-Work](https://fc20.ifca.ai/preproceedings/74.pdf). FC 2020.
 - A. Moin, K. Sekniqi, and E. G. Sirer [SoK: A Classification Framework for Stablecoin Designs](https://fc20.ifca.ai/preproceedings/119.pdf). FC 2020. 
