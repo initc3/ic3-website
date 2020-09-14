@@ -349,13 +349,7 @@ students:
     email: smirkin@campus.technion.ac.il
     weburl: 
     bio: "Michael Mirkin is a graduate student at the Technion. He's interested in distributed systems, cryptography, and P2P networks."
-  -
-    name: 'Amani Moin'
-    pic: amoin.jpg
-    title:
-    email: aum4@cornell.edu
-    weburl:
-    bio: "Amani is a Economics PhD student at Cornell.  Her research interests are in empirical corporate finance, machine learning, and cryptocurrencies.\n"
+
   -
     name: 'Kirill Nikitin'
     pic: knikitin.jpg
@@ -631,3 +625,10 @@ alumni:
     weburl: 'http://www.cs.cornell.edu/~fanz/'
     bio: "Fan Zhang is a PhD candidate in the department of Computer Science at Cornell University. Under the advice of Prof. Ari Juels, his research interest is in blockchains, trusted hardware, system security and applied cryptography. He's particularly interested in understanding and building hybrid systems that enjoy the best of both blockchains and trusted hardware."
  
+  -
+    name: 'Amani Moin'
+    pic: amoin.jpg
+    title:
+    email: aum4@cornell.edu
+    weburl:
+    bio: "Amani is a Economics PhD student at Cornell.  Her research interests are in empirical corporate finance, machine learning, and cryptocurrencies.\n"
