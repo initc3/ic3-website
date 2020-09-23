@@ -19,11 +19,9 @@
 - A. Miller, Y. Zhang, and S. Kanjalkar [Baby SNARK (do do dodo dodo)](https://github.com/initc3/babySNARK/blob/master/babysnark.pdf).
 - B. Y. Chan and E. Shi [STREAMLET: Textbook Streamlined Blockchains](https://eprint.iacr.org/2020/088.pdf).
 - E. Shi [Streamlined Blockchains: A Simple and Elegant Approach](https://eprint.iacr.org/2020/087.pdf).
-- M. Kelkar, F. Zhang, S. Goldfeder, and A. Juels [Order-Fairness for Byzantine Consensus](https://eprint.iacr.org/2020/269).
 - B. Ford [Technologizing Democracy or Democratizing Technology? A Layered-Architecture Perspective on Potentials and Challenges](https://bford.info/pub/soc/dt2-chapter-abs/).
 - B. Ford, P. Jovanovic, and E. Syta [Que Sera Consensus: Simple Asynchronous Agreement with Private Coins and Threshold Logical Clocks](https://arxiv.org/abs/2003.02291).
 - I. Tsabary, A. Spiegelman, and I. Eyal. [Just Enough Security: Reducing Proof-of-Work Ecological Footprint](https://arxiv.org/abs/1911.04124).
-- F. Zhang, S. K. D. Maram, H. Malvai, S. Goldfeder, and A. Juels. [DECO: Liberating Web Data Using Decentralized Oracles for TLS](https://arxiv.org/abs/1909.00938).
 - D. Easley, M. O'Hara, and S. Basu. [From mining to markets: The evolution of bitcoin transaction fees](https://sciencedirect.com/science/article/pii/S0304405X19300583). 
 - A. Judmayer, N. Stifter, A. Zamyatin, I. Tsabary, I. Eyal, P. Gazi, S. Meiklejohn, and E. Weippl. [Pay-To-Win: Incentive Attacks on Proof-of-Work Cryptocurrencies](https://eprint.iacr.org/2019/775.pdf).
 - J. Grimmelmann. [All Smart Contracts Are Ambiguous](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3315703).
@@ -32,31 +30,34 @@
 - T.-H. H. Chan, R. Pass, and E. Shi. [Consensus through Herding](https://eprint.iacr.org/2019/251).
 - E. Shi [Path Oblivious Heap](https://eprint.iacr.org/2019/274).
 - A. Hicks, V. Mavroudis, M. Al-Bassam, S. Meiklejohn and S.J. Murdoch. [ VAMS: Verifiable Auditing of Access to Confidential Data](https://arxiv.org/abs/1805.04772).
-- P. McCorry, S. Bakshi, I. Bentov, S. Meiklejohn and A. Miller. [Pisa: Arbitration Outsourcing for State Channels](https://www.cs.cornell.edu/~iddo/pisa.pdf).
 - S. Azouvi, P. McCorry, S. Meiklejohn. [ Betting on Blockchain Consensus with Fantomette](https://arxiv.org/abs/1805.06786)
 - E. Kokoris-Kogias, E.C. Alp, S.D. Siby, N. Gaillya, P. Jovanovic, L. Gasser and B. Ford. [Hidden in Plain Sight: Storing and Managing Secrets on a Public Ledger](https://eprint.iacr.org/2018/209).
-- P. Daian, R. Pass and E. Shi. [Snow White: Provably Secure Proofs of Stake](https://ia.cr/2016/919).
 
 # Published Papers
 
+- M. Kelkar, F. Zhang, S. Goldfeder, and A. Juels [Order-Fairness for Byzantine Consensus](https://eprint.iacr.org/2020/269). CRYPTO, 2020. 
 - Y. Liu and R. Pass [On One-way Functions and Kolmogorov Complexity](https://eprint.iacr.org/2020/423.pdf). IEEE FOCS 2020. 
 - K. Wust, S. Matetic, S. Egli, K. Kostiainen, and S. Capkun [ACE: Asynchronous and Concurrent Execution of Complex Smart Contracts](https://eprint.iacr.org/2019/835.pdf). ACM CCS 2020. 
 - A. Manuskin, M. Mirkin, and I. Eyal [Ostraka: Secure Blockchain Scaling by Node Sharding](https://arxiv.org/abs/1907.03331). IEEE S&B 2020.
+- F. Zhang, S. K. D. Maram, H. Malvai, S. Goldfeder, and A. Juels. [DECO: Liberating Web Data Using Decentralized Oracles for TLS](https://arxiv.org/abs/1909.00938). ACM CCS, 2020.
 - M. Mirkin, Y. Ji, J. Pang, A. Klages-Mundt, I. Eyal, and A. Juels [BDoS: Blockchain Denial of Service](https://arxiv.org/abs/1912.07497). ACM CCS 2020.
 - L. Gudgeon, P. Moreno-Sanchez, S. Roos, P. McCorry, and A. Gervais [SoK: Layer-Two Blockchain Protocols](https://fc20.ifca.ai/preproceedings/150.pdf). FC 2020. 
 - A. Kiayias, A. Miller, and D. Zindros [Non-Interactive Proofs of Proof-of-Work](https://fc20.ifca.ai/preproceedings/74.pdf). FC 2020.
 - A. Moin, K. Sekniqi, and E. G. Sirer [SoK: A Classification Framework for Stablecoin Designs](https://fc20.ifca.ai/preproceedings/119.pdf). FC 2020. 
+- S. Bano, A. Sonnino, M. Al-Bassam, S. Azouvi, P. McCorry, S. Meiklejohn, and G. Danezis. [SoK: Consensus in the Age of Blockchains](https://smeiklej.com/files/aft19a.pdf). AFT, 2020.
 - K. A. Negy, P. Rizun, and E. G. Sirer [Selfish Mining Re-Examined](https://fc20.ifca.ai/preproceedings/4.pdf). FC 2020.
 - P. Daian, S. Goldfeder, T. Kell, Y. Li, X. Zhao, I. Bentov, L. Breidenbach, and A. Juels. [Flash Boys 2.0: Frontrunning, Transaction Reordering, and Consensus Instability in Decentralized Exchanges](https://arxiv.org/abs/1904.05234). IEEE S&P, 2020 (to appear). 
 - S.K.D. Maram, F. Zhang, L. Wang, A. Low, Y. Zhang, A. Juels, and D. Song. [CHURP: Dynamic-Committee Proactive Secret Sharing](https://eprint.iacr.org/2019/017). ACM CCS, 2019. 
 - E. Cecchetti, B. Fisch, I. Miers, and A. Juels. [PIEs: Public Incompressible Encodings for Decentralized Storage](https://eprint.iacr.org/2018/684.pdf). ACM CCS, 2019. 
 - I. Bentov, Y. Ji, F. Zhang, Y. Li, X. Zhao, L. Breidenbach, P. Daian and A. Juels. [Tesseract: Real-Time Cryptocurrency Exchange Using Trusted Hardware](https://eprint.iacr.org/2017/1153.pdf). ACM CCS, 2019. 
 - G. Fanti, J. Jiao, A. Makkuva, S. Oh, R. Rana, and P. Viswanath. [Barracuda: The Power of l-Polling in Proof-of-Stake Blockchains](https://swoh.web.engr.illinois.edu/polling.pdf). Best Paper Award, ACM MobiHoc, 2019. 
+- P. McCorry, S. Bakshi, I. Bentov, S. Meiklejohn and A. Miller. [Pisa: Arbitration Outsourcing for State Channels](https://www.cs.cornell.edu/~iddo/pisa.pdf). AFT, 2020.
 - M. Maller, S. Bowe, M. Kohlweiss, and S. Meiklejohn. [Sonic: Zero-Knowledge SNARKs from Linear-Size Universal and Updatable Structured Reference Strings](https://github.com/ebfull/sonic). ACM CCS, 2019. 
 - H. Yousaf, G. Kappos, and S. Meiklejohn. [Tracing Transactions Across Cryptocurrency Ledgers](https://smeiklej.com/iles/usenix19.pdf). USENIX, 2019. 
 - P. Reibel, H. Yousaf, and S. Meiklejohn. [Why is a Ravencoin Like a TokenDesk? An Exploration of Code Diversity in the Cryptocurrency Landscape](https://smeiklej.com/files/fc19full.pdf). FC, 2019.
 - A. Sonnino, M. Al-Bassam, S. Bano, S. Meiklejohn, and G. Danezis. [Coconut: Threshold Issuance Selective Disclosure Credentials with Applications to Distributed Ledgers](https://smeiklej.com/files/ndss19.pdf). NDSS, 2019. 
 - J. Grimmelmann. [Continuity and Change in Internet Law](https://cacm.acm.org/magazines/2019/5/236418-continuity-and-change-in-internet-law/fulltext). Communications of the ACM, 2019. 
+- P. Daian, R. Pass and E. Shi. [Snow White: Provably Secure Proofs of Stake](https://ia.cr/2016/919). FC, 2019.
 - G. Fanti, L. Kogan, S. Oh, K. Ruan, P. Viswanath, and G. Wang. [Compounding of Wealth in Proof-of-Stake Cryptocurrencies](https://arxiv.org/pdf/1809.07468.pdf). Financial Crypto, 2019. 
 - G. Asharov, T.-H. H. Chan, K. Nayak, R. Pass, L. Ren, and E. Shi. [Locality-Preserving Oblivious RAM](https://link.springer.com/chapter/10.1007%2F978-3-030-17656-3_8). EUROCRYPT (2), 2019. 
 - T.-H. H. Chan, R. Pass, and E. Shi. [Consensus Through Herding](https://link.springer.com/chapter/10.1007%2F978-3-030-17653-2_24). EUROCRYPT (1), 2019.
