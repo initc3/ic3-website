@@ -11,7 +11,7 @@ summary: Thank you attendees of the 5th annual Blockchain Camp!
 </div>
 
 
-IC3 conducted our fifth immersive weeklong coding and learning experience in Cryptocurrencies, Blockchains, and Smart Contracts with world-leading professors, open source architacts, developers, and students. This year we met virtually.
+IC3 conducted our fifth immersive weeklong coding and learning experience in Cryptocurrencies, Blockchains, and Smart Contracts with world-leading professors, open source architects, developers, and students. This year we met virtually.
 
 
 
