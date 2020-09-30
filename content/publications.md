@@ -1,6 +1,6 @@
 # Preprints
 
-- M. Salathe, C. L. Althaus, N. Anderegg, D. Antonioli, T. Ballouz, E. Bugnion, S. Capkun, D. Jackson, S.-I. Kim, J. R. Larus, N. Low, W. Lueks, D. Menges, C. Moullet, M. Payer, J. Riou, T. Stadler, C. Troncoso, E. Vayena, V. von Wyl [Early Evidence of Effectiveness of Digital Contact Trcing for SARS-CoV-2 in Switzerland](https://github.com/digitalepidemiologylab/swisscovid_efficacy/blob/master/SwissCovid_efficacy_MS.pdf).
+- M. Salathe, C. L. Althaus, N. Anderegg, D. Antonioli, T. Ballouz, E. Bugnion, S. Capkun, D. Jackson, S.-I. Kim, J. R. Larus, N. Low, W. Lueks, D. Menges, C. Moullet, M. Payer, J. Riou, T. Stadler, C. Troncoso, E. Vayena, V. von Wyl [Early Evidence of Effectiveness of Digital Contact Tracing for SARS-CoV-2 in Switzerland](https://github.com/digitalepidemiologylab/swisscovid_efficacy/blob/master/SwissCovid_efficacy_MS.pdf).
 - N. Ephraim, C. Freitag, I. Komargodski, and R. Pass [SPARKs: Succinct Parallelizable Arguments of Knowledge](https://eprint.iacr.org/2020/994.pdf).
 - L. Barman, I. Dacosta, M. Zamani, E. Zhai, A. Pyrgelis, B. Ford, J. Feigenbaum, and J-P. Hubaux [PriFi: Low-Latency Anonymity for Organizational Networks](https://bford.info/pub/sec/prifi/pets20-prifi.pdf).
 - D. Maram, H. Malvai, F. Zhang, N. Jean-Louis, A. Frolov, T. Kell, T. Lobban, C. Moy, A. Juels, and A. Miller [CanDID: Can-Do Decentralized Identity with Legacy Compatibility, Sybil-Resistance, and Accountability](https://eprint.iacr.org/2020/934.pdf).
