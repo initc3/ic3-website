@@ -31,6 +31,21 @@ challenges :
 projects: 
 
   -
+     name: 'CanDID: Can-Do Decentralized Identity with Legacy Compatibility, Sybil-Resistance, and Accountability'
+     challenges: [*confidentiality, *compliance]
+     description: CanDID is a platform for practical, user-friendly realization of decentralized identity, the idea of empowering end users with management of their own credentials. While decentralized identity promises to give users greater control over their private data, it burdens users with management of private keys, creating a significant risk of key loss. Existing and proposed approaches also presume the spontaneous availability of a credential-issuance ecosystem, creating a bootstrapping problem. They also omit essential functionality, like resistance to Sybil attacks and the ability to detect misbehaving or sanctioned users while preserving user privacy. CanDID addresses these challenges by issuing credentials in a user-friendly way that draws securely and privately on data from existing, unmodified web service providers. Such legacy compatibility similarly enables CanDID users to leverage their existing online accounts for recovery of lost keys. Using a decentralized commitee of nodes, CanDID provides strong confidentiality for user's keys, real-world identities, and data, yet prevents users from spawning multiple identites and allows identification (and blacklisting) of sanctioned users. To read more, see our <a href="www.eprint.iacr.org/2020/934.pdf">paper</a>.
+     
+  -
+     name: 'DECO'
+     challenges: [*confidentiality, *compliance]
+     description: DECO is a privacy-preserving oracle protocol. Using cryptographic techniques, it lets users prove facts about thier web (TLS) sessions to oracles while hiding privacy-sensitive data. For more information, see <a href="https://www.deco.works/">deco.works</a>.
+     
+  -
+     name: 'Confidence Clustering'
+     challenges: [*correctness]
+     description: This project is focused on developing a set of metrics that can increase confidence in the results of cryptocurrency clustering heuristics. These new techniques, which will output a probability of two addresses belonging to the same cluster rather than a binary yes/no answer, will enable more informed decisions and strengthen the use of exisiting heuristics by providing more evidence that their results are correct. 
+     
+  -
      name: 'Ironwood'
      challenges: [*correctness]
      description: Ironwood is a formal verification framework for Byzantine-fault tolerant consensus protocols implemented in Coq. Its goal is to produce formally verified implementations of consensus protocols with competitive performance while being flexible and compositional to support a wide range of protocols, including blockchain-style protocols such as Hotstuff. Ironwood utilizes domain-specific features of distributed systems through novel programming language constructs to reduce the verification effort of protocol implementation and enables verification of more practical, optimized protocols. 
