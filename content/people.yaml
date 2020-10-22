@@ -89,7 +89,7 @@ chiefscientist:
     title: 'IC3 Chief Scientist'
     email: runting@gmail.com
     weburl: 'http://elaineshi.com'
-    bio: "Elaine Shi is an Associate Professor at Cornell University. 99% of programmers in the real world are not cryptography experts, and it is dangerous for them to cook up their own cryptographic protocols. Elaine's research creates platforms and tools that aids non-expert programmers in creating systems that are \"secure by design\" and \"secure by default\".\n"
+    bio: "Elaine Shi is an Associate Professor at Carnegie Mellon University. 99% of programmers in the real world are not cryptography experts, and it is dangerous for them to cook up their own cryptographic protocols. Elaine's research creates platforms and tools that aids non-expert programmers in creating systems that are \"secure by design\" and \"secure by default\".\n"
 
 
 faculty:
