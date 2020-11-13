@@ -15,5 +15,3 @@ clean:
 
 clobber: clean
 	rm -f pressroll.csv pressroll-all.csv pressroll-featured.csv
-
-
