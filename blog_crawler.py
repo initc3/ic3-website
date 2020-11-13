@@ -39,7 +39,7 @@ def fetchall(num_recent_blogs=4):
     results = []
 
     for argurl in target:
-        logging.info('Fetching: %s', argurl)
+        logging.info(f'Fetching blogs from {argurl}')
 
         r = requests.request('GET', argurl)
         r.encoding = 'utf-8'
@@ -91,7 +91,7 @@ def fetchall(num_recent_blogs=4):
         img = d.find("div.figure img")
         imgsrc = pq(img).attr["src"]
         # title = title.replace("'", "\\'")
-        logger.info('Generating preview for: %s', title)
+        logger.info('Generating preview for recent blog: %s', title)
         # summary = summary.replace("'", "\\'")
         # try to get the first author's pic
         if imgsrc is None:

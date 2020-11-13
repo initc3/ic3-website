@@ -37,7 +37,7 @@ from base import StaticSiteGenerator
 args = docopt(__doc__)
 
 logger_format = '%(asctime)s [%(levelname)s] - %(message)s'
-logging.basicConfig(level=logging.DEBUG if args['--verbose'] else logging.INFO, format=logger_format)
+logging.basicConfig(level=logging.INFO if args['--verbose'] else logging.INFO, format=logger_format)
 
 CWD = os.path.dirname(__file__)
 OUTPUT_DIR = os.path.join(CWD, 'output')
@@ -224,7 +224,7 @@ def blogs():
     _, posts = blog_crawler.fetchall()
     logging.info("got {} blogs".format(len(posts)))
     for p in posts:
-        logging.info(p["title"])
+        logging.debug(p["title"])
 
     e.render_and_write(temp, dict(
         title='IC3 - Blogs',
@@ -239,6 +239,7 @@ def press():
 
     all_press = ic3press.get_all_press()
     featured_press = ic3press.get_featured_press(expire_in_days=180)
+    logging.info(f"got {len(all_press)} new items, {len(featured_press)} ones featured")
 
     breadcrumb = [{'name': 'Press', 'url': 'press.html'}]
 

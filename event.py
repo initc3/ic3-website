@@ -143,7 +143,7 @@ class Event:
         return self.end.strftime(DEFAULT_DATE_FORMAT)
 
     def parse_md(self, ssg_engine, md_src):
-        logging.info('processing %s', md_src)
+        logging.debug(f'processing {md_src}')
         if not exists(md_src):
             raise Exception('%s does not exist' % md_src)
 
@@ -184,8 +184,7 @@ class Event:
         temp = ssg_engine.env.get_template('event_details.html')
         html = temp.render(self.render_cntx)
 
-        # logging.info('writing to {}'.format(self.output_path))
-        logging.info('writing to %s', self.output_path)
+        logging.debug(f'writing to {self.output_path}')
         ssg_engine.write(html.encode('utf-8'), self.output_path)
 
     def has_tag(self, tag):

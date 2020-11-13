@@ -34,11 +34,41 @@ def _read_events_from_yaml(filename, get_featured=False):
     return sorted(press_items, key=lambda x: x.date, reverse=True)
 
 
+def _read_events_from_ods(filename, get_featured=False):
+    from pyexcel_ods3 import get_data
+    # we have to use ugly magic string here thanks to the ODS file format
+    events = get_data(filename)['Sheet1']
+
+    press_items = []
+
+    for e in events:
+        try:
+            url, venue, date, title = e[:4]
+            date = date.date()
+            mentioned = ''
+            tags = ''
+            if len(e) == 5:
+                mentioned = e[4]
+            elif len(e) == 6:
+                tags = e[5]
+            elif len(e) > 6:
+                raise Exception(f"invalid len {len(e)}")
+
+            if get_featured and not tags.contains('feature'):
+                continue
+
+            press_items.append(Press(title, url, venue, date))
+        except:
+            print(f"cant process {e}")
+
+    return sorted(press_items, key=lambda x: x.date, reverse=True)
+
+
 def get_all_press(expire_in_days=None):
     if expire_in_days and expire_in_days < -1:
         raise Exception('expire_in_days must > 0')
 
-    press = _read_events_from_yaml('content/press/pressroll.yaml')
+    press = _read_events_from_ods('content/press/pressroll.ods')
 
     # None == don't filter at all
     if expire_in_days is None:
@@ -58,7 +88,7 @@ def get_featured_press(expire_in_days):
     """
     :return: a list of press items with a 'featured' tag
     """
-    press_featured = _read_events_from_yaml('content/press/pressroll.yaml')
+    press_featured = _read_events_from_ods('content/press/pressroll.ods')
 
     today = datetime.date.today()
 
