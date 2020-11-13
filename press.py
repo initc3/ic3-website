@@ -1,6 +1,5 @@
-import codecs
 import datetime
-import traceback
+
 import yaml
 from dateutil import parser
 
