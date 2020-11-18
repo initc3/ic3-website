@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/97920e10-7fbf-4a8b-b23d-ba87d4814979/deploy-status)](https://app.netlify.com/sites/ic3/deploys)
+
 Guidelines For Editors
 =======================
 
