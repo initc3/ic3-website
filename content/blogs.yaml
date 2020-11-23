@@ -61,4 +61,18 @@
  authors: Sarah Allen, Srdjan Capkun, Ittay Eyal, Giulia Fanti, Bryan Ford, James Grimmelmann, Ari Juels, Kari Kostiainen, Sarah Meiklejohn, Andrew Miller, Eswar Prasad, Karl Wust, and Fan Zhang
  summary: Many central banks are considering, and some are even piloting, central bank digital currency. This column provides an overview of important considerations for central bank digital currency design. While central banks already provide wholesale digital currency to financial institutions, a retail central bank digital currency would expand access to more users and provide opportunities for innovative central banking. The design must balance these benefits with the potential risks created by retail central bank currency deployment. 
  
+-
+ date: 2020-11-23
+ url: https://medium.com/flashbots/frontrunning-the-mev-crisis-40629a613752
+ title: "Flashbots: Frontrunning the MEV Crisis"
+ authors: Scott Bigelow, Phil Daian, Stephane Gosselin, Alex Obadia, and Tina Zhen
+ summary: Flashbots is a research and development organization formed to mitigate the negative externalities and existential risks posed by miner-extractable value (MEV) to smart-contract blockchains. We propose a permissionless, transparent, and fair ecosystem for MEV extraction to reinforce the Ethereum ideals.
+ 
+-
+ date: 2020-11-23
+ url: https://ethresear.ch/t/flashbots-frontrunning-the-mev-crisis/8251
+ title: "Flashbots: Frontrunning the MEV crisis"
+ authors: Scott Bigelow, Phil Daian, Stephane Gosselin, Alex Obadia, and Tina Zhen
+ summary: Flashbots is a research and development organization formed to mitigate the negative externalities and existential risks posed by miner-extractable value (MEV) to smart-contract blockchains. We propose a permissionless, transparent, and fair ecosystem for MEV extraction to reinforce the Ethereum ideals.
+ 
  
