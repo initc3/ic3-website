@@ -25,7 +25,7 @@ We have an exciting schedule including talks by IC3 faculty, students, partners,
 An interactive schedule will be available closer to the event, but here is a sneak peak of our current speaker line-up.
 
 <div class="ui piled segment">
-  <img class="ui centered image" src="../images/events/winter-retreat-2020/IC3 Retreat Schedule.png" alt="" />
+  <img class="ui centered image" src="../images/events/winter-retreat-2020/IC3 Retreat Schedule 2.png" alt="" />
 </div>
 
 ## All event times are listed in ET
