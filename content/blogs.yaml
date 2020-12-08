@@ -74,5 +74,12 @@
  title: "Ethereum Research: Flashbots: Frontrunning the MEV crisis"
  authors: Scott Bigelow, Phil Daian, Stephane Gosselin, Alex Obadia, and Tina Zhen
  summary: Flashbots is a research and development organization formed to mitigate the negative externalities and existential risks posed by miner-extractable value (MEV) to smart-contract blockchains. We propose a permissionless, transparent, and fair ecosystem for MEV extraction to reinforce the Ethereum ideals.
+
+-
+ date: 2020-12-08
+ url: https://stonecoldpat.medium.com/how-to-build-a-relay-as-a-service-in-bitcoin-b37368661c2
+ title: "How to build a relay as a service in Bitcoin"
+ authors: Patrick McCorry
+ summary: We have focused on building a non-custodial relayer, Infura Transaction Service (ITX), that takes a pre-signed message (e.g. meta-transaction), packs it into an Ethereum transaction and then gradually bumps the fee until it is mined in the blockchain. 
  
  
