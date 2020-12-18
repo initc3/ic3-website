@@ -4,7 +4,7 @@ name: 'IC3 Winter Retreat'
 location: Virtual!
 start: 2020-12-07
 end: 2020-12-08
-summary: This event is only open to IC3 faculty, students, partners, and invited guest.
+summary: This event is only open to IC3 faculty, students, partners, and invited guests.
 ---
 
 <div class="ui piled segment">
