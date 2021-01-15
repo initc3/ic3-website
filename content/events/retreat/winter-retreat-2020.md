@@ -15,7 +15,7 @@ IC3 hosted our Fall/Winter 2020 Retreat on December 7th and 8th to showcase the 
 
 <div class="ui center aligned basic segment">
   <div class="ui centered image">
-    <img class="ui image" src="..images/events/winter-retreat-2020/IC3 Retreat Group Photo.png" alt=""/>
+    <img class="ui image" src="..images/events/winter-retreat-2020/IC3 Retreat Group Photo.png" alt="" />
   </div>
   <div class="ui bottom attached message">
     <strong>We took this partial group photo at the end of the Town Hall session.</strong><br>
