@@ -491,16 +491,15 @@ students:
     title:
     email: amita2@illinois.edu
     weburl: "https://amitagarwal.gitbook.io/profile/"
-    bio: "Amit is a PhD student under Professor Andrew Miller at UIUC currently doing research in theoretical and applied cryptography. His other research interests include consensus algorithms, quantum computation, and algorithm design." 
+    bio: "Amit is a PhD student under Professor Andrew Miller at UIUC currently doing research in theoretical and applied cryptography. His other research interests include consensus algorithms, quantum computation, and algorithm design."   
   
- -
-   name: 'Gengmo Qi'
-   pic: gengmo.png
-   title:
-   email: gq35@cornell.edu
-   weburl: "https://gengmoqi.github.io/"
-   bio: "Gengmo is a Computer Science Ph.D. student at Cornell University. His interest broadly include security and privacy, distributed systems, and cryptoeconomics."
-   
+  -
+    name: 'Gengmo Qi'
+    pic: gengmo.png
+    title:
+    email: gq35@cornell.edu
+    weburl: "https://gengmoqi.github.io/"
+    bio: "Gengmo is a Computer Science Ph.D. student at Cornell University. His interest broadly include security and privacy, distributed systems, and cryptoeconomics." 
     
 researchers:
 
