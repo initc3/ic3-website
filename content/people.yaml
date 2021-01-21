@@ -526,9 +526,9 @@ alumni:
     name: 'Shehar Bano'
     pic: sbano.jpg
     title:
-    email: s.bano@ucl.ac.uk
-    weburl: 'http://www0.cs.ucl.ac.uk/staff/S.Bano'
-    bio: "Shehar Bano is a postdoctoral researcher in the Information Security Research Group at University College London. Her research interests centre on networked systems, particularly in the context of security and measurement. She works on the design, scalability and applications of blockchains. She received her PhD from the University of Cambridge in 2017 where she was an Honorary Cambridge Trust Scholar, and was awarded the Mary Bradburn Scholarship for her research work.\n"
+    email: bano@fb.com
+    weburl: 'http://sheharbano.com'
+    bio: "Shehar Bano is a Research Scientist in Novi (Facebook) based in London. She is also a visiting researcher at the Department of Computer Science and Technology, University of Cambridge. Shehar's research interests centre on networked and distributed systems, particularly in the context of security and performance. Her key areas of research include blockchains, information control (censorship & discrimination), internet measurement, and malware and intrusion detection.\n"
   
   -
     name: 'Philipp Jovanovic'
@@ -542,33 +542,33 @@ alumni:
     name: 'Ian Miers'
     pic: imiers.jpg
     title:
-    email: imiers@cs.jhu.edu
-    weburl:
-    bio: "Ian Miers is a postdoc at Cornell Tech working with Thomas Ristenpart and Ari Juels on computer security and applied cryptography. He earned his Ph.D. from Johns Hopkins University under Matthew Green. His work has been featured in The Washington Post, The New York Times, Wired, The Economist, and denounced in at least 2 op-eds. He is one of the founders of Zcash, a privacy preserving cryptocurrency based on Zerocash.\n"
+    email: imiers@umd.edu
+    weburl: 'https://cs.umd.edu/~imeirs/'
+    bio: "Ian Miers is an Assistant Professor of Computer Science at the University of Maryland. His research focuses on solving real world security issues using cryptography. He is one of the cofounders of Zcash, a privacy preserving cryptocurrency based on his work on Zerocash. His work has been featured in The Washington Post, The New York Times, Wired, and The Economist. It has also been denounced in at least two op-eds.\n"
 
   -
     name: 'Alex Manuskin'
     pic: manuskin.jpg
     title:
-    email:
-    weburl: 
-    bio: "Alex is a graduate student at the Technion. He is interested in distributed systems, scaling cryptocurrencies and security.\n"
+    email: alex@manuskin.org
+    weburl: 'https://github.com/amanusk'
+    bio: "Alex is a researcher working on ZenGo-X. He is interested in distributed systems, scaling cryptocurrencies and security.\n"
  
   -
     name: 'Oded Naor'
     pic: oded.jpg
     title:
-    email:
-    weburl:
-    bio: "Oded is a graduate student at the Technion. His research includes scaling cryptocurrencies, offline payment channels, and Trusted Execution Environments.\n"
+    email: odednaor@gmail.com
+    weburl: 'https://odednaor.work'
+    bio: "Oded is a PhD candidate at the Technion. His research interests include blockchains, security, and distributed systems in general.\n"
 
   -
     name: 'Patrick McCorry'
     pic: paddy.jpg
     title:
-    email: p.mccorry@ucl.ac.uk
-    weburl: 'http://www0.cs.ucl.ac.uk/staff/P.McCorry/'
-    bio: "Patrick McCorry is an Assistant Professor at King's College London. His research focuses on the security and scalability of cryptocurrencies. Patrick is actively involved in building the cryptocurrency community by teaching a free monthly deep-dive developer bootcamp and a 10-week cryptocurrency course for over 200+ developers.\n"
+    email: stonecoldpat@gmail.com
+    weburl: 'http://stonecoldpat.github.io'
+    bio: "Patrick McCorry is the CEO of PISA Research. His research focuses on cryptocurrencies, smart contracts, applied cryptography, and decentralized systems.\n"
   -
     name: 'Lorenz Breidenbach'
     pic: lorenz.jpg
