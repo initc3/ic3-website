@@ -1,7 +1,7 @@
 
 ---
 name: 'IC3 Webinar: Attacks on Bitcoin and the Lightning Network'
-location: Register for Zoom Link
+location: <a href="https://cornell.zoom.us/webinar/register/WN_n0noax7NSKWph4EBtiXUyA">Register here</a>.
 start: 2021-02-26
 end: 2021-02-26
 summary: 2021 has seen unprecedented interest in Bitcoin and related technologies like the Lightning Network. As these technologies see increases in use, volume, and price, we must consider, how secure and private are they really? Join us for our February webinar to learn about two relevant attacks from IC3 researchers at Cornell and UCL.
@@ -25,7 +25,3 @@ Proof-of-work (PoW) cryptocurrency blockchains like Bitcoin secure vast amounts 
 
 Payment channel networks, and the Lightning Network in particular, seem to offer a solution to the lack of scalability and privacy offered by Bitcoin and other blockchain-based cryptocurrencies. Previous research has focused on the scalability, availability, and crypto-economics of the Lightning Network, but relatively little attention has been paid to exploring the level of privacy it achieves in practice. This paper presents a thorough analysis of the privacy offered by the Lightning Network, by presenting several attacks that exploit publicly available information about the network in order to learn information that is designed to be kept secret, such as how many coins a node has available or who the sender and recipient are in a payment routed through the network.
 
-
-**Registration**
-
-To Register for this event click <a href="https://cornell.zoom.us/webinar/register/WN_n0noax7NSKWph4EBtiXUyA">here</a>.
