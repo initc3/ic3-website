@@ -12,6 +12,8 @@ summary: 2021 has seen unprecedented interest in Bitcoin and related technologie
   <img class="ui centered image" src="../images/events/IC3 2_26 Webinar Banner.jpg" alt=""/>
 </div>
 
+2021 has seen unprecedented interest in Bitcoin and related technologies like the Lightning Network. As these technologies see increases in use, volume, and price, we must consider: how secure and private are they really? Join us for our February webinar to learn about two relevant attacks from IC3 researchers at Cornell and UCL.
+
 **Talk 1: "BDoS: Blockchain Denial of Service"**
 
 *Presented by Yan Ji (Cornell)*
