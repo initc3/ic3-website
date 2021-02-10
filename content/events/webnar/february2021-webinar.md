@@ -1,8 +1,8 @@
 ---
-name: IC3 Webinar: Attacks on Bitcoin and the Lightning Network
+name: 'IC3 Webinar: Attacks on Bitcoin and the Lightning Network'
 location: Virtual!
-start: 2021-02-26 11:00 ET
-end: 2021-02-26 12:00 ET
+start: 2021-02-26
+end: 2021-02-26
 summary: 2021 has seen unprecedented interest in Bitcoin and related technologies like the Lightning Network. As these technologies see increases in use, volume, and price, we must consider: how secure and private are they really? Join us for our February webinar to learn about two relevant attacks from IC3 researchers at Cornell and UCL.
 ---
 
