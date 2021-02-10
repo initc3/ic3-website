@@ -1,3 +1,4 @@
+
 ---
 name: 'IC3 Webinar: Attacks on Bitcoin and the Lightning Network'
 location: Virtual!
