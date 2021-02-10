@@ -27,3 +27,7 @@ Proof-of-work (PoW) cryptocurrency blockchains like Bitcoin secure vast amounts 
 
 Payment channel networks, and the Lightning Network in particular, seem to offer a solution to the lack of scalability and privacy offered by Bitcoin and other blockchain-based cryptocurrencies. Previous research has focused on the scalability, availability, and crypto-economics of the Lightning Network, but relatively little attention has been paid to exploring the level of privacy it achieves in practice. This paper presents a thorough analysis of the privacy offered by the Lightning Network, by presenting several attacks that exploit publicly available information about the network in order to learn information that is designed to be kept secret, such as how many coins a node has available or who the sender and recipient are in a payment routed through the network.
 
+
+**Registration**
+
+To register for the event click <a href="https://cornell.zoom.us/webinar/register/WN_n0noax7NSKWph4EBtiXUyA">here</a>.
