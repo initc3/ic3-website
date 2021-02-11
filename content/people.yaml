@@ -9,7 +9,7 @@ directors:
   -
     name: 'Emin G&uuml;n Sirer'
     pic: gun.jpg
-    title: 'IC3 Co-Director (On leave 2019-20)'
+    title: 'IC3 Co-Director (On leave 2019-21)'
     email: egs@systems.cs.cornell.edu
     weburl: 'http://www.cs.cornell.edu/people/egs/'
     bio: 'Emin G&uumln Sirer is an Associate Professor of Computer Science at Cornell University. His research interests span distributed systems, cryptocurrencies, and software infrastructure for large scale services.'
@@ -269,9 +269,9 @@ students:
     name: 'Naomi Ephraim'
     pic: naomi.jpg
     title:
-    email:
+    email: nephraim@cs.cornell.edu
     weburl:
-    bio: "Naomi Ephraim is a first year graduate student at Cornell University. Her research interests span the areas of cryptography and game theory.\n"
+    bio: "Naomi Ephraim is a fifth year graduate student at Cornell University. Her research interests are in theoretical cryptography.\n"
   -
     name: 'Kasra Edalat Nejad'
     pic: kedalat.jpg
@@ -292,7 +292,7 @@ students:
     title:
     email: crf87@cornell.edu   
     weburl: http://www.cs.cornell.edu/~cfreitag/
-    bio: "Cody Freitag is a graduate student at Cornell University. His research interests are in the theoretical foundations of cryptography.\n"
+    bio: "Cody Freitag is a graduate student at Cornell University. His research interests include theoretical cryptography and privacy and their applications to blockchain technologies and learning theory.\n"
   -
     name: 'Joshua Gancher'
     pic: josh.png
@@ -300,14 +300,7 @@ students:
     email: jrg358@cornell.edu
     weburl:
     bio: "Joshua Gancher is a graduate student at Cornell University. He is interested in cryptography and programming languages.\n"
-  -
-    name: 'Adem Efe Gencer'
-    pic: efe.jpg
-    title:
-    email:
-    weburl: 'http://www.cs.cornell.edu/~gencer/'
-    bio: "Adem Efe Gencer is a PhD candidate at Cornell University Computer Science Department. His recent research focuses on configuring large distributed computations and developing the Bitcoin-NG scalable blockchain protocol.\n"
-  -
+ -
     name: 'Yue Guo'
     pic: yguo.jpg
     title:
@@ -649,3 +642,11 @@ alumni:
     email: kaimast@cs.wisc.edu
     weburl: 'http://kai-mast.de/'
     bio: "Kai Mast is postdoctoral scholar in Computer Science at the University of Wisconsin in Madison. Hid research focuses on Byzantine fault-tolerant systems and databases.\n"
+
+  -
+    name: 'Adem Efe Gencer'
+    pic: efe.jpg
+    title:
+    email: agencer@linkedin.com
+    weburl: 'http://www.cs.cornell.edu/~gencer/'
+    bio: "Adem Efe Gencer received his PhD in Computer Science from Cornell University. His research interests lie in the fields of Distributed Systems and Networking with a focus on improving the scalability of blockchain technologies.\n"
