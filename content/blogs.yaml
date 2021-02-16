@@ -89,4 +89,11 @@
  authors: Deepak Maram and Harjasleen Malvai
  summary: Decentralized identity systems allow users to gather and amnage their own credentials under the banner of self-created decentralized identifiers (DIDs). The key focus of DIDs is on shifting the control of a credential into users' hands. Existing decentralized identity proposals, however, suffer from several problems. First and foremost, how do you bootstrap an ecosystem of credential issuers? It is unlikely that most existing legacy providers suddenly switch and issue such credentials. Second, like with cryptocurrencies, DID systems burden users with managing their own keys creating a significant risk of key loss. They also omit essential functionality, like resistance to Sybil attacks and the ability to detect misbehaving or sanctioned users. We address these problems by introducing CanDID in our new paper. 
  
+-
+ date: 2021-02-15
+ url: https://initc3org.medium.com/using-universal-composability-to-implement-off-chain-payment-channels-d63cc40ddf2f
+ title: "Using Universal Composability To Implement Off-Chain Payment Channels"
+ authors: Jun-You Liu, Surya Bakshi, Shreyas Gandlur, Ankush Das, and Andrew Miller
+ summary: Payment channels are one of the fundamental approaches for scaling cryptocurrency networks. In the academic cryptography literature on payment channels, it has been effective to use universal composability (UC) framework as a way of rigorously modeling and giving security definitions. However, there's been a big gap between the UC model and the actual software implementations of payment channels that have been designed and maintained by cryptocurrency developers, not getting as much benefit from the UC as we could. SaUCy is a project that aims to bridge the world of cryptocurrency developers with the UC framework. 
+ 
  
