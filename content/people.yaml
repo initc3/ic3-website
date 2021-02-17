@@ -481,6 +481,14 @@ students:
     email: gq35@cornell.edu
     weburl: "https://gengmoqi.github.io/"
     bio: "Gengmo is a Computer Science Ph.D. student at Cornell University. His interest broadly include security and privacy, distributed systems, and cryptoeconomics." 
+  
+  -
+    name: 'Ariah Klages-Mundt'
+    pic: ariah.png
+    title: 
+    email: aak228@cornell.edu
+    weburl:
+    bio: "Ariah Klage-Mundt is an Applied Math PhD student at Cornell University. His research is at the intersection of computer science and economics on the design of decentralized finance (DeFi) protocols and economic networks. He brings prior experience working in the financial technology sector."
     
 researchers:
 
