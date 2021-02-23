@@ -85,7 +85,7 @@
 -
  date: 2021-01-12
  url: https://initc3org.medium.com/making-decentralized-identity-possible-with-candid-231d9ffe3154
- title: "Making Decentralized Identitiy Posible with CanDID"
+ title: "Making Decentralized Identitiy Possible with CanDID"
  authors: Deepak Maram and Harjasleen Malvai
  summary: Decentralized identity systems allow users to gather and amnage their own credentials under the banner of self-created decentralized identifiers (DIDs). The key focus of DIDs is on shifting the control of a credential into users' hands. Existing decentralized identity proposals, however, suffer from several problems. First and foremost, how do you bootstrap an ecosystem of credential issuers? It is unlikely that most existing legacy providers suddenly switch and issue such credentials. Second, like with cryptocurrencies, DID systems burden users with managing their own keys creating a significant risk of key loss. They also omit essential functionality, like resistance to Sybil attacks and the ability to detect misbehaving or sanctioned users. We address these problems by introducing CanDID in our new paper. 
  
