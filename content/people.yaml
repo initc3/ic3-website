@@ -489,7 +489,16 @@ students:
     email: aak228@cornell.edu
     weburl:
     bio: "Ariah Klages-Mundt is an Applied Math PhD student at Cornell University. His research is at the intersection of computer science and economics on the design of decentralized finance (DeFi) protocols and economic networks. He brings prior experience working in the financial technology sector."
-    
+  
+ - 
+   name: 'Georgios Kappos'
+   pic: kappos.jpg
+   title:
+   email: g.kappos@ucl.ac.uk
+   weburl: "https://georgekap.github.io/"
+   bio: "George is a Computer Science Ph.D student at University College London working with Sarah Meiklejohn. He is researching Privacy in cryptocurrencies."
+   
+
 researchers:
 
   -
