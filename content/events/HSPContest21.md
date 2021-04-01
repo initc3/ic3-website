@@ -1,6 +1,6 @@
 
 ---
-name: 'High School Programming Contest Warm Up'
+name: 'The Cornell High School Programming Contest Warm Up'
 location: Virtual
 start: 2021-02-27
 end: 2021-02-27
@@ -25,3 +25,5 @@ The High School Programming Contest Warm Up is the precursor to the High School 
 
 
 The event was organized by IC3 Faculty Member Robbert Van Renesse (Cornell) and Diane Levitt (Cornell Tech). The event, which featured 30 student mentors from Cornell and Cornell Tech. The mentors assist with the mundane programming details that frequently come up when solving programming problems. The mentors were not there to give answers, instead they were there to help the students on troubleshooting the problems and looking at them in a different way. The competition was process focused rather than competition focused. The goal of the event was to help young coders gain confidence and skills to help encourage them to continue coding.
+
+See more information about the contest in the <a href="https://www.cs.cornell.edu/events/cornell-high-school-programming-contest">events page</a>.
