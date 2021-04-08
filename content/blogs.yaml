@@ -96,4 +96,11 @@
  authors: Jun-You Liu, Surya Bakshi, Shreyas Gandlur, Ankush Das, and Andrew Miller
  summary: Payment channels are one of the fundamental approaches for scaling cryptocurrency networks. In the academic cryptography literature on payment channels, it has been effective to use universal composability (UC) framework as a way of rigorously modeling and giving security definitions. However, there's been a big gap between the UC model and the actual software implementations of payment channels that have been designed and maintained by cryptocurrency developers, not getting as much benefit from the UC as we could. SaUCy is a project that aims to bridge the world of cryptocurrency developers with the UC framework. 
  
+-
+ date: 2021-03-07
+ url: https://coindesk.com/miners-front-running-service-theft
+ title: "Miners, Front-Running-as-a-Service Is Theft"
+ authors: Ari Juels, Ittay Eyal, and Mahimna Kelkar
+ summary: There's a simple word for projects that seek to advantage miners while systematically exploiting blockchain users, say three researchers.
+ 
  
