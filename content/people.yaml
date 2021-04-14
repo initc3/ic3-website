@@ -505,6 +505,14 @@ students:
     email: boltonb2@illinois. edu
     weburl: "https://boltonb2.web.engr.illinois.edu/"
     bio: "Bolton is a PhD Student at UIUC. His research interests are in Formal Methods, SNARKs, and Cryptographic Protocols."
+    
+  -
+    name: 'Matan Yechieli'
+    pic: raptor3.jpg
+    title:
+    email: matany@campus.technion.ac.il
+    weburl:
+    bio: "Matan is a graduate student at the Technion. His research interests include blockchain systems, security, and cryptocurrencies."
 
 researchers:
 
