@@ -103,4 +103,9 @@
  authors: Ari Juels, Ittay Eyal, and Mahimna Kelkar
  summary: There's a simple word for projects that seek to advantage miners while systematically exploiting blockchain users, say three researchers.
  
- 
+-
+ date: 2021-04-21
+ url: https://medium.com/initc3org/honeybadgerswap-making-mpc-as-a-sidechain-364bebdb10a5
+ title: "HoneyBadgerSwap: Making MPC as A Sidechain"
+ authors: Yunqi Li, Sylvain Bellemare, Mikerah Quintyne-Collins, and Andrew Miller
+ summary: In this post, we show how to provide pivacy for smart contracts in a general purpose way by using "Multiparty Computation (MPC) as a Sidechain". In this model, smart contract developers can label any of their member fields as "secret". 
