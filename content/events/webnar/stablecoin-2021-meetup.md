@@ -1,7 +1,7 @@
 
 ---
 name: 'IC3 and Chainlink Meetup: (Un)Reasonable Design of Stablecoins'
-location: <a href="https://meetup/Chainlink-New-York/events/277474929/">Virtual Event Page</a>
+location: <a href="https://meetup.com/Chainlink-New-York/events/277474929/">Virtual Event Page</a>
 start: 2021-04-29
 end: 2021-04-29
 summary: Join us to hear from Ariah Klages-Mundt presenting his work on Stablecoins.
