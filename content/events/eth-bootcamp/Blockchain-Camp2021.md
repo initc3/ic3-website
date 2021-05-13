@@ -47,7 +47,6 @@ For examples of what to expect from this year's Blockchain camp, please see the 
     </div>
    <div class="ui bottom attached message">
      <strong>Surya Bakshi, Tyler Kell, and Patrick McCorry</strong>
-     
      2021 Blockchain Camp - Technical Committee
   </div>
 </div>
