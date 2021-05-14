@@ -1,6 +1,6 @@
 ---
 name: 'IC3 Blockchain Summer Camp'
-location: Virtual!
+location: <a href="https://forms.gle/GMZMNi1qdcMSQg8x5">Virtual!</a>
 start: 2021-07-25
 end: 2021-07-31
 summary: <a href="https://forms.gle/GMZMNi1qdcMSQg8x5">Register now</a> to join us for the 6th Annual IC3 Blockchain Summer Camp! This seven day experience will be hosted virtually this year. Once again led by our camp technical committee, featuring Surya Bakshi, Tyler Kell, and Patrick McCorry. Prepare for another immersive coding and learning experience with us!
