@@ -514,6 +514,14 @@ students:
     weburl:
     bio: "Matan is a graduate student at the Technion. His research interests include blockchain systems, security, and cryptocurrencies."
 
+  - 
+   name: 'Florian Suri-Payer'
+   pic: florian.JPG
+   title:
+   email: fsp@cs.cornell.edu
+   weburl: "https://www.cs.cornell.edu/~fsp/"
+   bio: "Florian is a CS PhD student at Cornell University where he is advised by Lorenzo Alvisi. His primary research interest centers around Distributed Systems, in particular Byzantine Fault Tolerance and Databases. Other research interests broadly include Systems related ML."
+
 researchers:
 
   -
