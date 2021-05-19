@@ -91,9 +91,9 @@ projects:
      description: Charlotte is a new open framework for building parallel, interoperable blockchainsystems. It supports a variety of consensus mechanisms including proof of work as well as more classic distributed consensus protocols.
      
   -   
-     name: 'VyperFlow'
+     name: 'SCIF: Smart Contract Information Flow'
      challenges: [*correctness]
-     description: VyperFlow is a new programming language for blockchain-based smart contracts based on Vyper. It incorporates information flow control into its type system to maintain the integrity of data within a contract and avoid performing dangerous operations as a result of untrustworthy inputs. These techniques allow for static analysis that provably eliminates large classes of vulnerabilities, including the bugs that allowed attackers to extract and freeze tens of millions of dollars in the two Parity Wallet incidents, as well as some reentrancy bugs like those that doomed the DAO. 
+     description: The Smart Contract Information Flow (SCIF) project aims to develop a usable and expressive programming language for smart contracts that enforces strong security guarantees for every program. It incorporates information flow control into its type system to maintain the integrity of a contract's data and control flow, ensuring contacts cannot perform dangerous operations as a result of untrustworthy inputs. SCIF uses these techniques to provably eliminate large classes of vulnerabilities, including the bugs that allowed attackers to extract and freeze tens of millions of dollars in the two Parity Wallet incidents, and reentrancy vulnerabilities that have plagued The DAO and Uniswap. Additionally, it mixes static analysis and dynamic checks to provide compositional security---ensuring that the security of multiple independent components composes to provide security for an entire application---even in the presence of unknown or legacy code that does not provide the same guarantees. To read more, see our <a href="https://arxiv.org/abs/2103.08577">paper</a> on the theoretical results. 
      
   -
      name: 'Selfish Mining Re-examined'
