@@ -92,7 +92,7 @@ projects:
      
   -   
      name: 'SCIF: Smart Contract Information Flow'
-     challenges: [*correctness]
+     challenges: [*correctness, *migration]
      description: The Smart Contract Information Flow (SCIF) project aims to develop a usable and expressive programming language for smart contracts that enforces strong security guarantees for every program. It incorporates information flow control into its type system to maintain the integrity of a contract's data and control flow, ensuring contacts cannot perform dangerous operations as a result of untrustworthy inputs. SCIF uses these techniques to provably eliminate large classes of vulnerabilities, including the bugs that allowed attackers to extract and freeze tens of millions of dollars in the two Parity Wallet incidents, and reentrancy vulnerabilities that have plagued The DAO and Uniswap. Additionally, it mixes static analysis and dynamic checks to provide compositional security---ensuring that the security of multiple independent components composes to provide security for an entire application---even in the presence of unknown or legacy code that does not provide the same guarantees. To read more, see our <a href="https://arxiv.org/abs/2103.08577">paper</a> on the theoretical results. 
      
   -
