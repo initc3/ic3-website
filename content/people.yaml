@@ -5,14 +5,14 @@ directors:
     title: 'IC3 Co-Director'
     email: juels@cornell.edu
     weburl: 'http://www.arijuels.com'
-    bio: 'Ari Juels is a Professor at the Jacobs Technion-Cornell Institute at Cornell Tech in NYC. He was previously Chief Scientist of RSA, The Security Division of EMC. (Photo by Patricia Kuharic)'
+    bio: 'Ari Juels is the Weill Family Foundation and Joan and Sanford I. Weill Professor in the Jacobs Technion-Cornell Institute at Cornell Tech and the Technion and a Computer Science faculty member at Cornell University. He is also Cheif Scientist at <a href="https://chain.link/">Chainlink</a>. He was formerly the Chief Scientist of RSA, Director of RSA Laboratories, and a Distiguished Engineer at EMC (now Dell EMC), where he worked until 2013. His reseach areas of interest include blockchains, cryptocurrency, and smart contracts, as well as applied cryptography, cloud security, user authentication, and privacy. (Photo by Patricia Kuharic)'
   -
     name: 'Emin G&uuml;n Sirer'
     pic: gun.jpg
     title: 'IC3 Co-Director (On leave 2019-21)'
     email: egs@systems.cs.cornell.edu
     weburl: 'http://www.cs.cornell.edu/people/egs/'
-    bio: 'Emin G&uumln Sirer is an Associate Professor of Computer Science at Cornell University. His research interests span distributed systems, cryptocurrencies, and software infrastructure for large scale services.'
+    bio: 'Emin G&uumln Sirer is an Associate Professor of Computer Science at Cornell University. His research interests span distributed systems, cryptocurrencies, and software infrastructure for large scale services. He is also a founder of Ava Labs. '
  
 
 associate_directors:
@@ -564,7 +564,7 @@ alumni:
     pic: imiers.jpg
     title:
     email: imiers@umd.edu
-    weburl: 'https://cs.umd.edu/~imeirs/'
+    weburl: 'https://www.cs.umd.edu/~imiers/'
     bio: "Ian Miers is an Assistant Professor of Computer Science at the University of Maryland. His research focuses on solving real world security issues using cryptography. He is one of the cofounders of Zcash, a privacy preserving cryptocurrency based on his work on Zerocash. His work has been featured in The Washington Post, The New York Times, Wired, and The Economist. It has also been denounced in at least two op-eds.\n"
 
   -
