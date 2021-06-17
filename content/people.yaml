@@ -177,14 +177,6 @@ faculty:
 postdocs:
 
   -
-    name: 'Iddo Bentov'
-    pic: iddobentov.jpg
-    title:
-    email:
-    weburl:
-    bio: "Iddo Bentov is a postdoc at Cornell University, and author of a number of academic papers on cryptography and cryptocurrency. He has been involved in the Bitcoin space since mid-2011, and also works on succinct zero-knowledge proofs at SCIPR Lab.\n"
-
-  -
     name: 'Steven Goldfeder'
     pic: stevengoldfeder.jpg
     title:
@@ -252,13 +244,6 @@ students:
     email:
     weburl: 'https://pdaian.com/'
     bio: "Philip Daian is a Computer Science graduate student at Cornell University. He brings experience in the formal verification and automotive domains, and looks forward to building the next generation of efficient and open financial cryptosystems.\n"
-  -
-    name: 'Yael Doweck'
-    pic: doweck.jpg
-    title:
-    email:
-    weburl: 
-    bio: "Yael Doweck is a graduate student at the Technion. She is interested in distributed systems, cryptocurrencies and cryptocurrency exchanges.\n"
   -
     name: 'Naomi Ephraim'
     pic: naomi.jpg
@@ -522,6 +507,22 @@ students:
    weburl: "https://www.cs.cornell.edu/~fsp/"
    bio: "Florian is a CS PhD student at Cornell University where he is advised by Lorenzo Alvisi. His primary research interest centers around Distributed Systems, in particular Byzantine Fault Tolerance and Databases. Other research interests broadly include Systems related ML."
 
+ -
+   name: 'Yunhao Zhang'
+   pic: yunhao.jpeg
+   title:
+   email: yz2327@cornell.edu
+   weburl: "https://dolobyte.net/"
+   bio: "Yunhao Zhang is a Computer Science graduate student at Cornell University. His research interest spans distributed systems, game theory, and mechanism design. He is a recipient of the Jay Lepreau Best Paper Award at OSDI'20 and the 2021 Facebook Fellowship."
+ 
+ -
+   name: 'Matthew Burke'
+   pic: MattBurke.jpg
+   title:
+   email: mlb452@cornell.edu
+   weburl: "https://www.cs.cornell.edu/~matthelb/"
+   bio: "Matt is a PhD student in the Theory Meets Practice group at Cornell. He works with Lorenzo Alvisi on designing reliable and efficient globally distributed systems."
+
 researchers:
 
   -
@@ -692,4 +693,19 @@ alumni:
     email: mustafa.al-bassam.16@ucl.ac.uk
     weburl: 'http://www0.cs.ucl.ac.uk/staff/M.AlBassam/'
     bio: "Mustafa is a PhD student at the Information Security Research Group of the Department of Computer Science at University College London. His research interests include the intersections of peer-to-peer systems, distributed ledgers and information security.\n"
-    
+ 
+  -
+    name: 'Iddo Bentov'
+    pic: iddobentov.jpg
+    title:
+    email:
+    weburl:
+    bio: "Iddo Bentov is a postdoc at Cornell University, and author of a number of academic papers on cryptography and cryptocurrency. He has been involved in the Bitcoin space since mid-2011, and also works on succinct zero-knowledge proofs at SCIPR Lab.\n"
+
+   -
+    name: 'Yael Doweck'
+    pic: doweck.jpg
+    title:
+    email:
+    weburl: 
+    bio: "Yael Doweck is a graduate student at the Technion. She is interested in distributed systems, cryptocurrencies and cryptocurrency exchanges.\n"   
