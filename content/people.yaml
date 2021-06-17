@@ -500,28 +500,28 @@ students:
     bio: "Matan is a graduate student at the Technion. His research interests include blockchain systems, security, and cryptocurrencies."
 
   - 
-   name: 'Florian Suri-Payer'
-   pic: florian.JPG
-   title:
-   email: fsp@cs.cornell.edu
-   weburl: "https://www.cs.cornell.edu/~fsp/"
-   bio: "Florian is a CS PhD student at Cornell University where he is advised by Lorenzo Alvisi. His primary research interest centers around Distributed Systems, in particular Byzantine Fault Tolerance and Databases. Other research interests broadly include Systems related ML."
+    name: 'Florian Suri-Payer'
+    pic: florian.JPG
+    title:
+    email: fsp@cs.cornell.edu
+    weburl: "https://www.cs.cornell.edu/~fsp/"
+    bio: "Florian is a CS PhD student at Cornell University where he is advised by Lorenzo Alvisi. His primary research interest centers around Distributed Systems, in particular Byzantine Fault Tolerance and Databases. Other research interests broadly include Systems related ML."
 
- -
-   name: 'Yunhao Zhang'
-   pic: yunhao.jpeg
-   title:
-   email: yz2327@cornell.edu
-   weburl: "https://dolobyte.net/"
-   bio: "Yunhao Zhang is a Computer Science graduate student at Cornell University. His research interest spans distributed systems, game theory, and mechanism design. He is a recipient of the Jay Lepreau Best Paper Award at OSDI'20 and the 2021 Facebook Fellowship."
+  -
+    name: 'Yunhao Zhang'
+    pic: yunhao.jpeg
+    title:
+    email: yz2327@cornell.edu
+    weburl: "https://dolobyte.net/"
+    bio: "Yunhao Zhang is a Computer Science graduate student at Cornell University. His research interest spans distributed systems, game theory, and mechanism design. He is a recipient of the Jay Lepreau Best Paper Award at OSDI'20 and the 2021 Facebook Fellowship."
  
- -
-   name: 'Matthew Burke'
-   pic: MattBurke.jpg
-   title:
-   email: mlb452@cornell.edu
-   weburl: "https://www.cs.cornell.edu/~matthelb/"
-   bio: "Matt is a PhD student in the Theory Meets Practice group at Cornell. He works with Lorenzo Alvisi on designing reliable and efficient globally distributed systems."
+  -
+    name: 'Matthew Burke'
+    pic: MattBurke.jpg
+    title:
+    email: mlb452@cornell.edu
+    weburl: "https://www.cs.cornell.edu/~matthelb/"
+    bio: "Matt is a PhD student in the Theory Meets Practice group at Cornell. He works with Lorenzo Alvisi on designing reliable and efficient globally distributed systems."
 
 researchers:
 
