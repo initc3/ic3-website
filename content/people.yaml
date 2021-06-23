@@ -523,6 +523,14 @@ students:
     weburl: "https://www.cs.cornell.edu/~matthelb/"
     bio: "Matt is a PhD student in the Theory Meets Practice group at Cornell. He works with Lorenzo Alvisi on designing reliable and efficient globally distributed systems."
 
+  -
+    name: 'Vivek Nair'
+    pic: vivek.jpg
+    title:
+    email: vcn@berkeley.edu
+    weburl: "https://nair.me"
+    bio: "Vivek Nair is an NSF CyberCorps Scholar, an NPSC Fellow, and a Ph.D. student at UC Berkeley working with Dawn Song. He was the youngest-ever computer science degree recipient at the University of Illinois. His research interests are in authentication and applied cryptography."
+
 researchers:
 
   -
@@ -709,3 +717,12 @@ alumni:
     email:
     weburl: 
     bio: "Yael Doweck is a graduate student at the Technion. She is interested in distributed systems, cryptocurrencies and cryptocurrency exchanges.\n"   
+     
+  -
+    name: 'Charles Chao Kang'
+    pic: kang.jpg
+    title: 
+    email: chaokang123@gmail.com
+    weburl: 
+    bio: "Charles Chao Kang is an incoming assistant professor at HKU Business School, the University of Hong Kong. Before that he was a doctoral student in Management (accounting, finance) at Cornell University. His research interests include information intermediaries, financial reporting, corporate governance, and cryptocurrencies."
+
