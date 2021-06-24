@@ -16,6 +16,17 @@ In addition to the tech talks, panels and projects, we are planning social activ
 
 Topics will include DeFi, cryptography, privacy, layer 2, and more! 
 
+**Camp Schedule**
+
+<div class="ui center aligned basic segment">
+  <div class="ui centered image">
+    <img class="ui image" src="../images/events/blockchain-camp-2021/2021_BlockchainCamp.jpg" alt="" />
+  </div>
+  <div class="ui bottom attached message">
+    <strong>Continue to check back for schedule updates as we get closer to the event. More to come!</strong><br>
+  </div>
+</div>
+
 We are offering two overlapping tracks: a coding track and a presentation track.
 
 
