@@ -20,7 +20,7 @@ Topics will include DeFi, cryptography, privacy, layer 2, and more!
 
 <div class="ui center aligned basic segment">
   <div class="ui centered image">
-    <img class="ui image" src="../images/events/blockchain-camp-2021/21CampSchedule3.jpg" alt="" />
+    <img class="ui image" src="../images/events/blockchain-camp-2021/CodingTrackSchedule.jpg" alt="" />
   </div>
   <div class="ui bottom attached message">
     <strong>Continue to check back for schedule updates as we get closer to the event. More to come!</strong><br>
