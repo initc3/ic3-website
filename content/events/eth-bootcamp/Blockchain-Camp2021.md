@@ -46,7 +46,9 @@ Members: Patrick McCorry (project leader), Abhimanyu Rawat, Amirreza Sarencheh, 
 Summary: Commitchains, and in particular rollups, are a promising scability solution for networks like Etherem. Our team set out to evaluate the security and performance of rollups to better understand why they are secure and how well they can scale the network. We investigated four emerging protocols including Arbitrum, Optimism, ZKSync, and Starknet. In the end, it is clear that rollups can reduce gas costs by at least 10x while retaining security guarantees similar (and close to) Ethereum. All rollups are in their infancy and there is still significant work required by each team to achieve their true vision.
 
 Summary of findings:
+
   - <a href="https://docs.google.com/document/d/1ZzGuqWazytQ1Vz-ZecHARNyAI_tuTX4C_Ua-sNw_aS0/edit?usp=sharing">Document</a>
+  
   - <a href="https://docs.google.com/spreadsheets/d/1USsJT-0YSxj3U5VRWf-2xe5w1yvHjQw1SiLTBcsLWAk/edit?usp=sharing">Table</a>
  
  
@@ -62,10 +64,15 @@ Summary of findings:
  Summary: We upgraded HoneyBadgerSwap (hbswap) from V2 to V3 to support new features proposed by Uniswap V3 such as concentrated liquidity. Hbswap provides extra confidentiality requirements for automatic market maker by leveraging MPC servers maintaining a specialized sidechain. Hbswap is MEV-resistant and protects trading strategies of individual users being exploited. A live demo is presented. Bckend of the demo contains less than 300 lines of code written in MPC sidechain specialized language -  Ratel.
  
  Resources:
+ 
    - Original blogpost about MPC sidechain and Ratel <a href="https://medium.com/initc3org/honeybadgerswap-making-mpc-as-a-sidechain-364bebdb10a5">here</a>.
+  
    - Github repository <a href="https://github.com/initc3/badgerswap-v3">here</a>.
+   
    - Document <a href="https://badgerswap-v3.readthedocs.io/en/latest/index.html">here</a>.
+   
    - Frontend <a href="https://jsfiddle.net/lilione/4c2uv3rh/937/">here</a>.
+   
    - Slides <a href="https://docs.google.com/presentation/d/1EeMNkAkiGU6rLpFgz9AECiF7rg-H-a-MoxOvuGt2L3c/edit?usp=sharing">here</a>.
  
  
@@ -83,8 +90,11 @@ Summary of findings:
  Members: Andrew Miller (project leader), Surya Bakshi, Neo Cho, Justin Gaffney, and Arpit Kumar.
  
  Summary: Our demo of Personal Smart Contracts included:
+ 
    1. A new design for a hybrid paper wallet and business card;
+ 
    2. An upgradeable contract and use interface designed to be self-hosted and customized using jsfiddle;
+
    3. An on-chain calendar booking system for scheduling office hours meetings.
 
 Presentation slides available <a href="https://docs.google.com/presentation/d/1gCxELDSEAyjkL_fUmgAru5BOnmFivv576_PLXYJL_8M/edit?usp=drivesdk">here</a>.
@@ -111,8 +121,11 @@ Members: Linus Gasser (project leader) and Bolton Bailey.
 Summary: During the IC3 hackathon we managed to add a security feature to the Fledger application, as well as implement a simple decentralized chat. Fledger is a decentralized playground based on webrtc communication, so that a web-browser is enough to join the network. Bolton Bailey added a signature verification to the nodes, so when they join the Fledger network they must give a correct signature to avoid impersonatiing other nodes. Linus added a simple chat application where each node can add messages. The decentralized part makes it that the chat messages are not retrieved from a central server, but from the other nodes running in the system. In a future enhancement, Fledger will be incentivizing storage of messages by distributing tokens for stored messages.
 
 Resources:
+
   - Web-frontend for the nodes <a href="https://web.fledg.re">here</a>.
+  
   - More explanation of the long-term goals can be found <a href="https://fledg.re">here</a>.
+ 
   - Github repository available <a href="https://github.com/ineiti/fledger">here</a>.
 
 
