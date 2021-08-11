@@ -26,6 +26,7 @@ IC3 conducted our sixth immersive weeklong coding and learning experience in Cry
 </div>
 
 
+
 **Participants**
 
 Prof. Ari Juels, IC3 co-Director, welcomed camp participants on Sunday, and shared some brief history of the camp and its impact on the community (recording <a href="https://youtu.be/H5_BYGyPe5E">here</a>). The Camp Technical Committee led by Patrick McCorry, with Surya Bakshi and Tyler Kell, gave an overview of the schedule and expectations, as well as introduced the folks proposing projects for the week.
@@ -33,6 +34,7 @@ Prof. Ari Juels, IC3 co-Director, welcomed camp participants on Sunday, and shar
 There were eight project teams that self-selected projects on Sunday after considereing the project proposals. The teams coded throughout the week, and made project presentations and demos on Saturday. 
 
 The top projects (a four-way tie) were selected by our panel of judges: Hudson Jameson, Mikerah Quintyne-Collins, and Hasu.
+
 
 
 **Winning Porjects (Four-Way Tie)**
@@ -48,12 +50,12 @@ Summary of findings:
   - <a href="https://docs.google.com/spreadsheets/d/1USsJT-0YSxj3U5VRWf-2xe5w1yvHjQw1SiLTBcsLWAk/edit?usp=sharing">Table</a>
  
  
- *Decentralized Computation for Contingent Claim AMMs*
+ ***Decentralized Computation for Contingent Claim AMMs***
  
  Members: Edward Mehrez (project leader), Patrick Keifer (project leader), Daxi Li, Mehdi Salehi, Colin Finkbeiner, Zhengxun Wu, Benard Kipkoech, Nicholas Chen, Parth Gargava, Dheeraj Chakilam, and Robert Leifke.
  
  
- *BadgerSwapV3 using Ratel - Putting uniswap on MPC*
+ ***BadgerSwapV3 using Ratel - Putting uniswap on MPC***
  
  Members: Yunqi Li (project leader), Deepak Maram, Mark Jabbour, Sylvain Bellemare, Japjeet Singh, and Ren Kunpeng.
  
@@ -67,15 +69,16 @@ Summary of findings:
    - Slides <a href="https://docs.google.com/presentation/d/1EeMNkAkiGU6rLpFgz9AECiF7rg-H-a-MoxOvuGt2L3c/edit?usp=sharing">here</a>.
  
  
- *MEV and Fairness Cage Match: Attack/Defend*
+ ***MEV and Fairness Cage Match: Attack/Defend***
  
  Members: Phil Daian (project leader), Mahimna Kelkar (project leader), Krstal Maughan, Gengmo Qi, Mohammad Nourbakhsh, and Bruno Mazorra. 
+ 
  
  
  **Additional Projects**
  
  
- *Personal Smart Contract*
+ ***Personal Smart Contract***
  
  Members: Andrew Miller (project leader), Surya Bakshi, Neo Cho, Justin Gaffney, and Arpit Kumar.
  
@@ -87,21 +90,21 @@ Summary of findings:
 Presentation slides available <a href="https://docs.google.com/presentation/d/1gCxELDSEAyjkL_fUmgAru5BOnmFivv576_PLXYJL_8M/edit?usp=drivesdk">here</a>.
 
 
-*Blockchain Memes*
+***Blockchain Memes***
 
 Members: Tyler Kell (project leader), Surya Bakshi, Yanis Berkani, and Sid.
 
 Summary: We collected data from six social networks and used that to produce graphs showing the relationship between number of memes posted and cryptocurrency price. This project is not over and we intend to push this line of research further.
 
 
-*NFTs for Authentic Data Ownership & Study Authorship*
+***NFTs for Authentic Data Ownership & Study Authorship***
 
 Members: Yan Ji (project leader), Sishan Long (project leader), Aahil Awatramani, Yang Wang, Zheng Wang, and Fan Zhang. 
 
 Summary: We implemented a prototype platform allowing researchers to collect authentic data from users and tokenizing data ownership and study authorship. In particular, we modified Town Crier code to handle private credentials and implemented a light-weight browser extension and user-end proxy to make the data collection tool user friendly. We also deployed NFT smart contract for recording data ownership and study authorship.
 
 
-*Fledger*
+***Fledger***
 
 Members: Linus Gasser (project leader) and Bolton Bailey.
 
