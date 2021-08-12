@@ -37,7 +37,7 @@ The top projects (a four-way tie) were selected by our panel of judges: Hudson J
 
 
 
-**Winning Porjects (Four-Way Tie)**
+**Winning Projects (Four-Way Tie)**
 
 ***Evaluate the Security Properties and Performance Costs of Rollups***
 
