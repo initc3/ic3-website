@@ -1,12 +1,12 @@
 # Preprints
 
+- D. Maram, I. Bentov, M. Kelkar, and A. Juels. [GoAT: File Geolocation via Anchor Timestamping](https://eprint.iacr.org/2021/697). 
 - T. Kell, H. Yousaf, S. Allen, S. Meiklejohn, and A. Juels. [Forsage: Anatomy of a Smart-Contract Pyramid Scheme](https://arxiv.org/abs/2105.04380).
 - M. Salathe, C. L. Althaus, N. Anderegg, D. Antonioli, T. Ballouz, E. Bugnion, S. Capkun, D. Jackson, S.-I. Kim, J. R. Larus, N. Low, W. Lueks, D. Menges, C. Moullet, M. Payer, J. Riou, T. Stadler, C. Troncoso, E. Vayena, V. von Wyl. [Early Evidence of Effectiveness of Digital Contact Tracing for SARS-CoV-2 in Switzerland](https://github.com/digitalepidemiologylab/swisscovid_efficacy/blob/master/SwissCovid_efficacy_MS.pdf).
 - N. Ephraim, C. Freitag, I. Komargodski, and R. Pass. [SPARKs: Succinct Parallelizable Arguments of Knowledge](https://eprint.iacr.org/2020/994.pdf).
 - L. Barman, I. Dacosta, M. Zamani, E. Zhai, A. Pyrgelis, B. Ford, J. Feigenbaum, and J-P. Hubaux. [PriFi: Low-Latency Anonymity for Organizational Networks](https://bford.info/pub/sec/prifi/pets20-prifi.pdf).
 - R. Gennaro and S. Goldfeder. [One Round Threshold ECDSA with Identifiable Abort](https://eprint.iacr.org/2020/540).
 - S. Capkun and many others. [DP3T - Decentralized Privacy-Preserving Proximity Tracing](http://github.com/DT-3T/documents).
-- I. Tsabary, M. Yechieli, and I. Eyal. [MAD-HTLC: Because HTLC is Crazy-Cheap to Attack](http://arxiv.org/abs/2006.12031).
 - T-H. H. Chan, N. Ephraim, A. Marcedone, A. Morgan, R. Pass, and E. Shi. [Blockchain with Varying Number of Players](https://eprint.iacr.org/2020/677.pdf).
 - J. Wan, H. Xiao, E. Shi, and S. Devadas. [Expected Constant Round Byzantine Broadcast under Dishonest Majority](https://eprint.iacr.org/2020/590.pdf).
 - T-H. H. Chan, W-K. Lin, K. Nayak, and E. Shi. [Perfectly Secure Oblivious Parallel RAM with O(log3N/loglogN) Overhead](https://eprint.iacr.org/2020/604).
@@ -31,6 +31,7 @@
 
 ## 2021 ##
 
+- I. Tsabary, M. Yechieli, and I. Eyal. [MAD-HTLC: Because HTLC is Crazy-Cheap to Attack](http://arxiv.org/abs/2006.12031). IEEE S&P, 2021.
 - K. Gurkan, P. Jovanovic, M. Maller, S. Meiklejohn, G. Stern, and A. Tomescu. [Aggregatable Distributed Key Generation](https://smeiklej.com/files/eurocrypt21.pdf). Eurocrypt, 2021. 
 - C. Hou, M. Zhou, Y. Ji, P. Daian, F. Tramer, G. Fanti, and A. Juels. [SquirRL: Automating Attack Discovery on Blockchain Incentive Mechanisms with Deep Reinforcement Learning](https://arxiv.org/pdf/1912.01798.pdf). NDSS, 2021.
 - E. Cecchetti, S. Yao, H. Ni, and A. C. Myers. [Compositional Security for Reentrant Applications](https://www.cs.cornell.edu/~ethan/papers/serif.pdf). IEEE S&P, 2021 (Best Paper Award).
