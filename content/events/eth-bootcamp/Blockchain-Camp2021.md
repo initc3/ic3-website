@@ -54,7 +54,17 @@ Summary of findings:
  
  ***Decentralized Computation for Contingent Claim AMMs***
  
- Members: Edward Mehrez (project leader), Patrick Keifer (project leader), Daxi Li, Mehdi Salehi, Colin Finkbeiner, Zhengxun Wu, Benard Kipkoech, Nicholas Chen, Parth Gargava, Dheeraj Chakilam, and Robert Leifke.
+ Members: Edward Mehrez (project leader), Patrick Keifer (project leader), Daxi Li, Mehdi Salehi, Colin Finkbeiner, Zhengxun Wu, Preston Rozwood, Dheeraj Chakilam, Yang Wang, Sylvain Bellemare, and Robert Leifke. 
+ 
+ Special thanks to Patrick McCorry and Austin Liu. 
+ 
+ Summary: Contingent claims are assets that give their owner a claim to a specific state dependent payoff in the future, including options, insurance, and betting markets. Automated market makers (AMMs) are protocols that quote buy and sell prices for a particular asset without having to match buyers and sellers through a limit order book (LOB). Contingent claim AMMs (CCAMMs) are challenging because they require computationally intensive forecasts for risk management models that determine how to hedge insolvency risk. We made progress on implementing computations for a baseline model (Black-Scholes-Merton) in a trustless manner by designing a circuit that connects API calls to an Intel SGX enclave and associates specific source code to an enclave pseudo-address that can be verified by a smart contract on an Ethereum Virtual Machine (EVM) compatible blockchain. We also made progress on implementing a delta hedging circuit on-chain. Ultimately, the delta calculation can be computed trustlessly off-chain and the executed on an Arbitrum rollup with swap contracts. Finally, as part of the project, we wrote a taxonomy of current options AMM protocols and discussed future directions for more general contigent claim AMMs.
+ 
+ References:
+ 
+   - <a href="https://docs.google.com/presentation/d/1QOJdsCOpl2RF1CouckkMXIvZs1yv1bL7vsohYN1rZDY/edit?usp=sharing">Slides</a>
+   
+   - <a href="https://youtu.be/oXZSvE4YsJs">Presentation Video</a>
  
  
  ***BadgerSwapV3 using Ratel - Putting uniswap on MPC***
