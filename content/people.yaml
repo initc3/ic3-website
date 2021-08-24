@@ -183,15 +183,7 @@ postdocs:
     email: goldfeder@cornell.edu
     weburl: 'http://stevengoldfeder.com'
     bio: "Steven Goldfeder is an IC3 postdoc at Cornell Tech where he works at the intersection of crypto(graphy) and crypto(currencies). He holds a PhD from Princeton University and is a co-author of the leading textbook on cryptocurrencies."
-
-  - 
-    name: 'Ni Trieu'
-    pic: NiTrieu.jpg
-    title:
-    email: nitrieu@berkeley.edu
-    weburl: 'https://nitrieu.github.io/'
-    bio: "Ni Trieu is a postdoc at UC Berkeley working with Prof. Dawn Song. She received her PhD from Oregon State University. Her research interests are in the areas of cryptography and security, with a specific focus on secure computation and its applications to online advertising, biocomputing, blockchain, and machine learning."
-    
+ 
     
 students:
 
@@ -223,13 +215,7 @@ students:
     email: bc633@cornell.edu
     weburl: 
     bio: 'Burcu is a graduate student at Cornell University working with Robbert van Renesse.' 
-  -
-    name: 'Ethan Cecchetti'
-    pic: ethan.png
-    title:
-    email:
-    weburl: 'http://www.cs.cornell.edu/~ethan/'
-    bio: "Ethan Cecchetti is a graduate student at Cornell University. He is interested in a wide range of research related to security and cryptography.\n"
+
   -
     name: 'Enis Ceyhun Alp'
     pic: eceyhun.jpg
@@ -287,13 +273,6 @@ students:
     weburl:
     bio: "Yue Guo is a first year PhD student at Cornell University Computer Science Department. She is interested in cryptography and system security.\n"
   -
-    name: 'Alexander Hicks'
-    pic: ahicks.jpg
-    title:
-    email: alexander.hicks.16@ucl.ac.uk
-    weburl: 'https://alexanderlhicks.com/'
-    bio: "Alexander Hicks is a PhD student at University College London. His research interests broadly revolve around cryptography and machine learning in the context of privacy and security.\n"
-  -
     name: 'Yan Ji'
     pic: yanji.jpg
     title:
@@ -330,20 +309,14 @@ students:
     email: yp348@cornell.edu
     weburl:
     bio: 'Youer is a graduate student in Cornell University working with Lorenzo Alvisi.'
-  -
-    name: 'Kevin Sekniqi'
-    pic: kevinsekniqi.jpg
-    title:
-    email: kevin@sekniqi.com
-    weburl: 'https://sekniqi.com/'
-    bio: 'Kevin Sekniqi is a graduate student at Cornell University working with Robbert van Renesse.'
+
   -
     name: 'Sandra Siby'
     pic: ssiby.jpg
     title:
     email: sandra.siby@epfl.ch
     weburl:
-    bio: "Sandra is a first year graduate student at EPFL. She is interested in network security, distributed systems and privacy.\n"
+    bio: "Sandra is a third year graduate student at EPFL. She is interested in network security, web security, and privacy.\n"
   -
     name: 'Itay Tsabary'
     pic: itay.jpg
@@ -744,3 +717,26 @@ alumni:
     weburl: 
     bio: "Charles Chao Kang is an incoming assistant professor at HKU Business School, the University of Hong Kong. Before that he was a doctoral student in Management (accounting, finance) at Cornell University. His research interests include information intermediaries, financial reporting, corporate governance, and cryptocurrencies."
 
+  - 
+    name: 'Ni Trieu'
+    pic: NiTrieu.jpg
+    title:
+    email: nitrieu@asu.edu
+    weburl: 'https://nitrieu.github.io/'
+    bio: "Ni Trieu is an Assistant Professor of computer science at Arizona State University. Her research interests are in cryptography and security, with a specific focus on secure computation and its applications such as private set intersection, private database queries, and privacy-preserving machine learning."
+   
+  -
+    name: 'Ethan Cecchetti'
+    pic: ethan.png
+    title:
+    email:
+    weburl: 'http://www.cs.cornell.edu/~ethan/'
+    bio: "Ethan Cecchetti will be joining the Maryland Cybersecurity Center at the University of Maryland as a post-doc in September 2021. He is interested in a wide range of research related to security and cryptography.\n"
+    
+  -
+    name: 'Kevin Sekniqi'
+    pic: kevinsekniqi.jpg
+    title:
+    email: kevin@sekniqi.com
+    weburl: 'https://sekniqi.com/'
+    bio: 'Kevin Sekniqi is COO at Ava Labs.'
