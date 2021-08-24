@@ -447,7 +447,7 @@ students:
     name: 'Harjasleen Malvai'
     pic: jasleen.jpg
     title:
-    email: hm553@cornell.edu
+    email: hmalvai2@illinois.edu
     weburl: 
     bio: "Harjasleen Malvai is a PhD studet at Cornell University with research interests in theoretical and applied cryptography as well as their applications to blockchains, she also maintains an interest in run-on sentences."
 
@@ -538,6 +538,15 @@ students:
     email: nerlaj2@illinois.edu
     weburl: "https://www.ner.la"
     bio: "Nerla is a third year Ph.D. candidate at University of Illinois Champaign Urbana. She received her undergraduate degree at Cornell University in 2017 in computer science and biological engineering. She then worked at IBM Research for two years until starting her Ph.D. She is interested in distributed systems and security research."
+
+  -
+    name: 'Siqiu Yao'
+    pic: siqiu.png
+    title:
+    email: sy657@cornell.edu
+    weburl: "https://www.cs.cornell.edu/~yaosiqiu/"
+    bio: "Siqiu Yao is a graduate student at Cornell University. He is interested in building blockchain systems and smart contract languages with better security." 
+
 
 
 researchers:
