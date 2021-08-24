@@ -52,9 +52,9 @@ Summary of findings:
   - <a href="https://docs.google.com/spreadsheets/d/1USsJT-0YSxj3U5VRWf-2xe5w1yvHjQw1SiLTBcsLWAk/edit?usp=sharing">Table</a>
  
  
- ***Decentralized Computation for Contingent Claim AMMs***
+ ***Contingent Claim AMMs***
  
- Members: Edward Mehrez (project leader), Patrick Keifer (project leader), Daxi Li, Mehdi Salehi, Colin Finkbeiner, Zhengxun Wu, Preston Rozwood, Dheeraj Chakilam, Yang Wang, Sylvain Bellemare, and Robert Leifke. 
+ Members: Edward Mehrez (project leader), Patrick Kiefer (project leader), Preston Rozwood, Daxi Li, Sylvain Bellemare, Colin Finkbeiner, Robert Leifke, Mehdi Salehi, Dheeraj Chakilam, Zhengxun Wu, and Yang Wang. 
  
  Special thanks to Patrick McCorry and Austin Liu. 
  
