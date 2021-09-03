@@ -8,26 +8,8 @@
 - N. Ephraim, C. Freitag, I. Komargodski, and R. Pass. [SPARKs: Succinct Parallelizable Arguments of Knowledge](https://eprint.iacr.org/2020/994.pdf).
 - L. Barman, I. Dacosta, M. Zamani, E. Zhai, A. Pyrgelis, B. Ford, J. Feigenbaum, and J-P. Hubaux. [PriFi: Low-Latency Anonymity for Organizational Networks](https://bford.info/pub/sec/prifi/pets20-prifi.pdf).
 - R. Gennaro and S. Goldfeder. [One Round Threshold ECDSA with Identifiable Abort](https://eprint.iacr.org/2020/540).
-- S. Capkun and many others. [DP3T - Decentralized Privacy-Preserving Proximity Tracing](http://github.com/DT-3T/documents).
-- T-H. H. Chan, N. Ephraim, A. Marcedone, A. Morgan, R. Pass, and E. Shi. [Blockchain with Varying Number of Players](https://eprint.iacr.org/2020/677.pdf).
-- J. Wan, H. Xiao, E. Shi, and S. Devadas. [Expected Constant Round Byzantine Broadcast under Dishonest Majority](https://eprint.iacr.org/2020/590.pdf).
-- T-H. H. Chan, W-K. Lin, K. Nayak, and E. Shi. [Perfectly Secure Oblivious Parallel RAM with O(log3N/loglogN) Overhead](https://eprint.iacr.org/2020/604).
-- G. Avarikioti, E. Kokoris Kogias, R. Wattenhofer, and D. Zindros. [Brick: Asynchronous Payment Channels](https://arxiv.org/abs/1905.11360).
-- A. Miller, Y. Zhang, and S. Kanjalkar. [Baby SNARK (do do dodo dodo)](https://github.com/initc3/babySNARK/blob/master/babysnark.pdf).
-- E. Shi. [Streamlined Blockchains: A Simple and Elegant Approach](https://eprint.iacr.org/2020/087.pdf).
-- B. Ford. [Technologizing Democracy or Democratizing Technology? A Layered-Architecture Perspective on Potentials and Challenges](https://bford.info/pub/soc/dt2-chapter-abs/).
-- B. Ford, P. Jovanovic, and E. Syta. [Que Sera Consensus: Simple Asynchronous Agreement with Private Coins and Threshold Logical Clocks](https://arxiv.org/abs/2003.02291).
-- I. Tsabary, A. Spiegelman, and I. Eyal. [Just Enough Security: Reducing Proof-of-Work Ecological Footprint](https://arxiv.org/abs/1911.04124).
-- D. Easley, M. O'Hara, and S. Basu. [From mining to markets: The evolution of bitcoin transaction fees](https://sciencedirect.com/science/article/pii/S0304405X19300583). 
-- A. Judmayer, N. Stifter, A. Zamyatin, I. Tsabary, I. Eyal, P. Gazi, S. Meiklejohn, and E. Weippl. [Pay-To-Win: Incentive Attacks on Proof-of-Work Cryptocurrencies](https://eprint.iacr.org/2019/775.pdf).
-- J. Grimmelmann. [All Smart Contracts Are Ambiguous](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3315703).
-- G. Fanti, N. Holden, Y. Peres, and G. Ranade. [Communication cost of consensus for nodes with limited memory](https://arxiv.org/pdf/1901.01665.pdf).
-- Y. Guo, R. Pass, and E. Shi. [ Synchronous, with a Chance of Partition Tolerance](https://eprint.iacr.org/2019/179).
-- T.-H. H. Chan, R. Pass, and E. Shi. [Consensus through Herding](https://eprint.iacr.org/2019/251).
-- E. Shi [Path Oblivious Heap](https://eprint.iacr.org/2019/274).
-- A. Hicks, V. Mavroudis, M. Al-Bassam, S. Meiklejohn and S.J. Murdoch. [ VAMS: Verifiable Auditing of Access to Confidential Data](https://arxiv.org/abs/1805.04772).
-- S. Azouvi, P. McCorry, S. Meiklejohn. [ Betting on Blockchain Consensus with Fantomette](https://arxiv.org/abs/1805.06786)
-- E. Kokoris-Kogias, E.C. Alp, S.D. Siby, N. Gaillya, P. Jovanovic, L. Gasser and B. Ford. [Hidden in Plain Sight: Storing and Managing Secrets on a Public Ledger](https://eprint.iacr.org/2018/209).
+- I. Tsabary, A. Spiegelman, and I. Eyal. [Tuning PoW with Hybrid Expenditure](https://arxiv.org/abs/1911.04124).
+
 
 # Published Papers
 
@@ -42,6 +24,7 @@
 - D. Maram, H. Malvai, F. Zhang, N. Jean-Louis, A. Frolov, T. Kell, T. Lobban, C. Moy, A. Juels, and A. Miller. [CanDID: Can-Do Decentralized Identity with Legacy Compatibility, Sybil-Resistance, and Accountability](https://eprint.iacr.org/2020/934.pdf). IEEE S&P, 2021.
 - K. Thomas, D. Akhawe, M. Bailey, D. Boneh, E. Bursztein, S. Consolvo, N. Dell, Z. Durumeric, P. G. Kelley, D. Kumar, D. McCoy, S. Meiklejohn, T. Ristenpart, and G. Stringhini. [SoK: Hate, Harassment, and the Changing Landscape of Online Abuse](https://smeiklej.com/files/oakland21.pdf). IEEE S&P, 2021.
 - G. Kappos, H. Yousaf, A. M. Piotrowska, S. Kanjalkar, S. Delgado-Segura, A. Miller, and S. Meiklejohn. [An Empirical Analysis of Privacy in the Lightning Network](https://smeiklej.com/files/fc21.pdf). FC, 2021.
+- T-H. H. Chan, W-K. Lin, K. Nayak, and E. Shi. [Perfectly Secure Oblivious Parallel RAM with O(log3N/loglogN) Overhead](https://eprint.iacr.org/2020/604). ITC, 2021.
 
 ## 2020 ##
 
@@ -63,9 +46,20 @@
 - S. Bano, A. Sonnino, M. Al-Bassam, S. Azouvi, P. McCorry, S. Meiklejohn, and G. Danezis. [SoK: Consensus in the Age of Blockchains](https://smeiklej.com/files/aft19a.pdf). AFT, 2020.
 - K. A. Negy, P. Rizun, and E. G. Sirer. [Selfish Mining Re-Examined](https://fc20.ifca.ai/preproceedings/4.pdf). FC 2020.
 - P. Daian, S. Goldfeder, T. Kell, Y. Li, X. Zhao, I. Bentov, L. Breidenbach, and A. Juels. [Flash Boys 2.0: Frontrunning, Transaction Reordering, and Consensus Instability in Decentralized Exchanges](https://arxiv.org/abs/1904.05234). IEEE S&P, 2020. Bloomberg article <a href="https://www.bloomberg.com/news/articles/2019-04-15/-flash-boys-trading-bots-are-running-wild-on-crypto-exchanges">here</a>.
+- E. Kokoris-Kogias, E.C. Alp, L. Gasser, P. Jovanovic, E. Syta, and B. Ford. [CALYPSO: Private Data Management for Decentralized Ledgers](https://eprint.iacr.org/2018/209).
+- E. Shi [Path Oblivious Heap](https://eprint.iacr.org/2019/274). IEEE S&P, 2020.
+- B. Ford, P. Jovanovic, and E. Syta. [Que Sera Consensus: Simple Asynchronous Agreement with Private Coins and Threshold Logical Clocks](https://arxiv.org/abs/2003.02291).
+- B. Ford. [Technologizing Democracy or Democratizing Technology? A Layered-Architecture Perspective on Potentials and Challenges](https://bford.info/pub/soc/dt2-chapter-abs/). Final version to appear in the book; [Digital Technology and Democratic Theory](https://press.uchicago.edu/ucp/books/book/chicago/D/bo68657177.html). 
+- E. Shi. [Streamlined Blockchains: A Simple and Elegant Approach](https://eprint.iacr.org/2020/087.pdf).
+- A. Miller, Y. Zhang, and S. Kanjalkar. [Baby SNARK (do do dodo dodo)](https://github.com/initc3/babySNARK/blob/master/babysnark.pdf).
+- G. Avarikioti, E. Kokoris Kogias, R. Wattenhofer, and D. Zindros. [Brick: Asynchronous Payment Channels](https://arxiv.org/abs/1905.11360).
+- J. Wan, H. Xiao, E. Shi, and S. Devadas. [Expected Constant Round Byzantine Broadcast under Dishonest Majority](https://eprint.iacr.org/2020/590.pdf).
+- T-H. H. Chan, N. Ephraim, A. Marcedone, A. Morgan, R. Pass, and E. Shi. [Blockchain with Varying Number of Players](https://eprint.iacr.org/2020/677.pdf).
+- S. Capkun and many others. [DP3T - Decentralized Privacy-Preserving Proximity Tracing](https://github.com/DP-3T/documents).
 
 ## 2019 ##
 
+- D. Easley, M. O'Hara, and S. Basu. [From mining to markets: The evolution of bitcoin transaction fees](https://sciencedirect.com/science/article/pii/S0304405X19300583). Journal of Financial Economics (Volume 134, Issue 1), 2019. 
 - S.K.D. Maram, F. Zhang, L. Wang, A. Low, Y. Zhang, A. Juels, and D. Song. [CHURP: Dynamic-Committee Proactive Secret Sharing](https://eprint.iacr.org/2019/017). ACM CCS, 2019. 
 - E. Cecchetti, B. Fisch, I. Miers, and A. Juels. [PIEs: Public Incompressible Encodings for Decentralized Storage](https://eprint.iacr.org/2018/684.pdf). ACM CCS, 2019. 
 - I. Bentov, Y. Ji, F. Zhang, Y. Li, X. Zhao, L. Breidenbach, P. Daian and A. Juels. [Tesseract: Real-Time Cryptocurrency Exchange Using Trusted Hardware](https://eprint.iacr.org/2017/1153.pdf). ACM CCS, 2019. 
@@ -88,6 +82,12 @@
 - A. Miller, I. Bentov, S. Bakshi, R. Kumaresan, and P. McCorry. [Sprites and State Channels: Payment Networks that Go Faster than Lightning](https://arxiv.org/abs/1702.05812). FC, 2019.
 - S. Delgado-Segura, S. Bakshi, C. Perez-Sola, J. Litton, A. Pachulski, A. Miller, and B. Bhattacharjee. [TxProbe: Discovering Bitcoin's Network Topology Using Orphan Transactions](https://arxiv.org/abs/1812.00942). FC, 2019. 
 -R. Cheng, F. Zhang, J. Kos, W. He, N. Hynes, N. Johnson, A. Juels, A. Miller and D. Song. [Ekiden: A Platform for Confidentiality-Preserving, Trustworthy, and Performant Smart Contract Execution](https://arxiv.org/abs/1804.05141). Euro S&P, 2019.
+- J. Grimmelmann. [All Smart Contracts Are Ambiguous](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3315703). Journal of Law & Innovation, 2019.
+- A. Hicks, V. Mavroudis, M. Al-Bassam, S. Meiklejohn and S.J. Murdoch. [ VAMS: Verifiable Auditing of Access to Confidential Data](https://arxiv.org/abs/1805.04772).
+- T.-H. H. Chan, R. Pass, and E. Shi. [Consensus through Herding](https://eprint.iacr.org/2019/251).
+- Y. Guo, R. Pass, and E. Shi. [ Synchronous, with a Chance of Partition Tolerance](https://eprint.iacr.org/2019/179). IACR Crypto, 2019.
+- G. Fanti, N. Holden, Y. Peres, and G. Ranade. [Communication cost of consensus for nodes with limited memory](https://arxiv.org/pdf/1901.01665.pdf).
+- A. Judmayer, N. Stifter, A. Zamyatin, I. Tsabary, I. Eyal, P. Gazi, S. Meiklejohn, and E. Weippl. [Pay-To-Win: Cheap, Crowdfundable, Cross-chain Algorithmic Incentive Manipulation Attacks on PoW Cryptocurrencies](https://eprint.iacr.org/2019/775.pdf).
 
 ## 2018 ##
 
@@ -105,6 +105,7 @@
 - F. Zhang, P. Daian, I. Bentov and A. Juels. [Paralysis Proofs: Safe Access-Structure Updates for Cryptocurrencies and More](https://fc18.ifca.ai/bitcoin/papers/bitcoin18-final20.pdf). Advances in Financial Technologies (AFT), 2019. BITCOIN, 2018.
 - S. Azouvi, M. Maller and S. Meiklejohn. [Egalitarian Society or Benevolent Dictatorship: The State of Cryptocurrency Governance](https://fc18.ifca.ai/bitcoin/papers/bitcoin18-final13.pdf). BITCOIN, 2018.
 - E. Kokoris-Kogias, P. Jovanovic, L. Gasser, N. Gailly, E. Syta and B. Ford. [OmniLedger: A Secure, Scale-Out, Decentralized Ledger via Sharding](http://bford.info/pub/dec/omniledger.pdf). In IEEE Security and Privacy, 2018.
+- S. Azouvi, P. McCorry, S. Meiklejohn. [ Betting on Blockchain Consensus with Fantomette](https://arxiv.org/abs/1805.06786).
 
 ## 2017 ##
 
