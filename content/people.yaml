@@ -6,14 +6,7 @@ directors:
     email: juels@cornell.edu
     weburl: 'http://www.arijuels.com'
     bio: 'Ari Juels is the Weill Family Foundation and Joan and Sanford I. Weill Professor in the Jacobs Technion-Cornell Institute at Cornell Tech and the Technion and a Computer Science faculty member at Cornell University. He is also Cheif Scientist at <a href="https://chain.link/">Chainlink</a>. He was formerly the Chief Scientist of RSA, Director of RSA Laboratories, and a Distiguished Engineer at EMC (now Dell EMC), where he worked until 2013. His reseach areas of interest include blockchains, cryptocurrency, and smart contracts, as well as applied cryptography, cloud security, user authentication, and privacy. (Photo by Patricia Kuharic)'
-  -
-    name: 'Emin G&uuml;n Sirer'
-    pic: gun.jpg
-    title: 'IC3 Co-Director (On leave 2019-21)'
-    email: egs@systems.cs.cornell.edu
-    weburl: 'http://www.cs.cornell.edu/people/egs/'
-    bio: 'Emin G&uumln Sirer is an Associate Professor of Computer Science at Cornell University. His research interests span distributed systems, cryptocurrencies, and software infrastructure for large scale services. He is also a founder of Ava Labs. '
- 
+
 
 associate_directors:
   -
@@ -742,3 +735,20 @@ alumni:
     email: jgancher@andrew.cmu.edu
     weburl: 'https://gancher.dev/'
     bio: "Joshua Gancher is a post-doc at Carnegie Mellon University. His research is about using techniques from formal methods and program verification to certify cryptographic implementations and proofs.\n"
+
+  -
+   name: 'Maofan (Ted) Yin' 
+   pic: tedyin.jpg
+   title:
+   email: tederminant@gmail.com
+   weburl: 'https://www.cs.cornell.edu/~tedyin/'
+   bio: "Ted completed his Ph.D. at Cornell University, co-advised by Prof. Emin Gun Sirer and Prof. Robbert van Renesse. He's previously worked closely with Dr. Dahlia Malkhi. His research focuses on fundamental problems of fault-tolerance, consensus protocols, and peer-to-peer systems. He's currently tackling challenges in blockchains, from a system perspective."
+   
+  -
+    name: 'Emin G&uuml;n Sirer'
+    pic: gun.jpg
+    title: 'Former IC3 Co-Director'
+    email: el33th4x0r@gmail.com 
+    weburl: 'http://www.cs.cornell.edu/people/egs/'
+    bio: 'Emin G&uumln Sirer is the CEO and co-founder of Ava Labs. His research interests span distributed systems, cryptocurrencies, and software infrastructure for large scale services. He is also a founder of Ava Labs. '
+ 
