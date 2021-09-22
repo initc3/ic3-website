@@ -109,3 +109,12 @@
  title: "HoneyBadgerSwap: Making MPC as A Sidechain"
  authors: Yunqi Li, Sylvain Bellemare, Mikerah Quintyne-Collins, and Andrew Miller
  summary: In this post, we show how to provide pivacy for smart contracts in a general purpose way by using "Multiparty Computation (MPC) as a Sidechain". In this model, smart contract developers can label any of their member fields as "secret". 
+
+
+-
+ date: 2021-09-22
+ url: https://medium.com/initc3org/red-flags-for-smart-contract-pyramid-schemes-in-2021-f017022c1e5c
+ title: "Red Flags for Smart Contract Pryamid Schemes in 2021"
+ authors: Tyler Kell, Haaroon Yousaf, Sarah Allen, Sarah Meiklejohn, and Ari Juels
+ summary: Have you been offered the chance to earn unlimited passive income in crptocurrency for life with no risks using a new technology called a smart contract? Congradulations! You may have just encountered a smart contract pyramid scheme. 
+ 
