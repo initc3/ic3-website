@@ -528,7 +528,7 @@ researchers:
     bio: "Linus is working with his team of engineers to interface between PhD-students from Bryan Ford’s lab and industry partners. He likes to work with semester students, too, and help them to understand the implication of decentralised, distributed systems, and how ECC fits into that picture. His long-term goal is to build software for scalable, self-organizing communities. The current effort is at <a href=\"https://github.com/dedis/cothority\">Cothority</a>\n"
  
     
-alumni:
+alumni_faculty:
 
   -
     name: 'Shehar Bano'
@@ -537,7 +537,8 @@ alumni:
     email: bano@fb.com
     weburl: 'http://sheharbano.com'
     bio: "Shehar Bano is a Research Scientist in Novi (Facebook) based in London. She is also a visiting researcher at the Department of Computer Science and Technology, University of Cambridge. Shehar's research interests centre on networked and distributed systems, particularly in the context of security and performance. Her key areas of research include blockchains, information control (censorship & discrimination), internet measurement, and malware and intrusion detection.\n"
-  
+
+alumni_researchers:
   -
     name: 'Philipp Jovanovic'
     pic: philipp-jovanovic.jpg
@@ -545,7 +546,8 @@ alumni:
     email: p.jovanovic@ucl.ac.uk
     weburl: 'https://zerobyte.io/'
     bio: "Philipp Jovanovic is an Associate Professor in Information Security at University College London. Philipp's interests broadly include applied cryptography, information security, and decentralized systems. His research mission is to develop, analyze, and deploy scalable, privacy-enhancing, decentralized trust technologies that serve the end users and help to promote anti-fragile ecosystems.\n"
-  
+
+alumni_postdocs:
   -
     name: 'Ian Miers'
     pic: imiers.jpg
@@ -554,6 +556,7 @@ alumni:
     weburl: 'https://www.cs.umd.edu/~imiers/'
     bio: "Ian Miers is an Assistant Professor of Computer Science at the University of Maryland. His research focuses on solving real world security issues using cryptography. He is one of the cofounders of Zcash, a privacy preserving cryptocurrency based on his work on Zerocash. His work has been featured in The Washington Post, The New York Times, Wired, and The Economist. It has also been denounced in at least two op-eds.\n"
 
+alumni_students:
   -
     name: 'Alex Manuskin'
     pic: manuskin.jpg
