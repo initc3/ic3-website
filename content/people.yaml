@@ -528,7 +528,35 @@ researchers:
     bio: "Linus is working with his team of engineers to interface between PhD-students from Bryan Ford’s lab and industry partners. He likes to work with semester students, too, and help them to understand the implication of decentralised, distributed systems, and how ECC fits into that picture. His long-term goal is to build software for scalable, self-organizing communities. The current effort is at <a href=\"https://github.com/dedis/cothority\">Cothority</a>\n"
  
     
-alumni:
+alumni_faculty:
+
+  -
+    name: 'Emin G&uuml;n Sirer'
+    pic: gun.jpg
+    title: 'Former IC3 Co-Director'
+    email: el33th4x0r@gmail.com
+    weburl: 'http://www.cs.cornell.edu/people/egs/'
+    bio: 'Emin G&uumln Sirer is the CEO and co-founder of Ava Labs. His research interests span distributed systems, cryptocurrencies, and software infrastructure for large scale services.'
+
+  -
+    name: 'Patrick McCorry'
+    pic: paddy.jpg
+    title:
+    email: stonecoldpat@gmail.com
+    weburl: 'http://stonecoldpat.github.io'
+    bio: "Patrick McCorry is the CEO of PISA Research. His research focuses on cryptocurrencies, smart contracts, applied cryptography, and decentralized systems.\n"
+
+alumni_postdocs:
+
+  -
+    name: 'Iddo Bentov'
+    pic: iddobentov.jpg
+    title:
+    email:
+    weburl:
+    bio: "Iddo Bentov is a postdoc at Cornell University, and author of a number of academic papers on cryptography and cryptocurrency. He has been involved in the Bitcoin space since mid-2011, and also works on succinct zero-knowledge proofs at SCIPR Lab.\n"
+
+alumni_students:
 
   -
     name: 'Shehar Bano'
@@ -537,7 +565,7 @@ alumni:
     email: bano@fb.com
     weburl: 'http://sheharbano.com'
     bio: "Shehar Bano is a Research Scientist in Novi (Facebook) based in London. She is also a visiting researcher at the Department of Computer Science and Technology, University of Cambridge. Shehar's research interests centre on networked and distributed systems, particularly in the context of security and performance. Her key areas of research include blockchains, information control (censorship & discrimination), internet measurement, and malware and intrusion detection.\n"
-  
+
   -
     name: 'Philipp Jovanovic'
     pic: philipp-jovanovic.jpg
@@ -545,7 +573,7 @@ alumni:
     email: p.jovanovic@ucl.ac.uk
     weburl: 'https://zerobyte.io/'
     bio: "Philipp Jovanovic is an Associate Professor in Information Security at University College London. Philipp's interests broadly include applied cryptography, information security, and decentralized systems. His research mission is to develop, analyze, and deploy scalable, privacy-enhancing, decentralized trust technologies that serve the end users and help to promote anti-fragile ecosystems.\n"
-  
+
   -
     name: 'Ian Miers'
     pic: imiers.jpg
@@ -570,13 +598,6 @@ alumni:
     weburl: 'https://odednaor.work'
     bio: "Oded is a PhD candidate at the Technion. His research interests include blockchains, security, and distributed systems in general.\n"
 
-  -
-    name: 'Patrick McCorry'
-    pic: paddy.jpg
-    title:
-    email: stonecoldpat@gmail.com
-    weburl: 'http://stonecoldpat.github.io'
-    bio: "Patrick McCorry is the CEO of PISA Research. His research focuses on cryptocurrencies, smart contracts, applied cryptography, and decentralized systems.\n"
   -
     name: 'Lorenz Breidenbach'
     pic: lorenz.jpg
@@ -681,14 +702,6 @@ alumni:
     bio: "Mustafa is a PhD student at the Information Security Research Group of the Department of Computer Science at University College London. His research interests include the intersections of peer-to-peer systems, distributed ledgers and information security.\n"
 
   -
-    name: 'Iddo Bentov'
-    pic: iddobentov.jpg
-    title:
-    email:
-    weburl:
-    bio: "Iddo Bentov is a postdoc at Cornell University, and author of a number of academic papers on cryptography and cryptocurrency. He has been involved in the Bitcoin space since mid-2011, and also works on succinct zero-knowledge proofs at SCIPR Lab.\n"
-
-  -
     name: 'Yael Doweck'
     pic: doweck.jpg
     title:
@@ -743,12 +756,3 @@ alumni:
    email: tederminant@gmail.com
    weburl: 'https://www.cs.cornell.edu/~tedyin/'
    bio: "Ted completed his Ph.D. at Cornell University, co-advised by Prof. Emin Gun Sirer and Prof. Robbert van Renesse. He's previously worked closely with Dr. Dahlia Malkhi. His research focuses on fundamental problems of fault-tolerance, consensus protocols, and peer-to-peer systems. He's currently tackling challenges in blockchains, from a system perspective."
-
-  -
-    name: 'Emin G&uuml;n Sirer'
-    pic: gun.jpg
-    title: 'Former IC3 Co-Director'
-    email: el33th4x0r@gmail.com
-    weburl: 'http://www.cs.cornell.edu/people/egs/'
-    bio: 'Emin G&uumln Sirer is the CEO and co-founder of Ava Labs. His research interests span distributed systems, cryptocurrencies, and software infrastructure for large scale services.'
-

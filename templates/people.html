@@ -68,17 +68,37 @@
 {% endfor %}
 
 <h2 class="pplheader">Researchers</h2>
-    
+
 {% for p in people.researchers %}
   {{ ppl_item(p) }}
 {% endfor %}
 
-<h2 class="pplheader">Alumni</h2>
+<h1 class="pplheader">Alumni</h1>
 
-{% for p in people.alumni %}
+<h2 class="pplheader">Faculty</h2>
+{% for p in people.alumni_faculty %}
   {{ ppl_item(p) }}
 {% endfor %}
-    
+
+<!-- NOTE: comment out if there are alumni researchers
+<h3 class="pplheader">Researchers</h3>
+-->
+{# NOTE: comment out if there are alumni researchers
+{% for p in people.alumni_researchers %}
+  {{ ppl_item(p) }}
+{% endfor %}
+#}
+
+<h2 class="pplheader">Postdocs</h2>
+{% for p in people.alumni_postdocs %}
+  {{ ppl_item(p) }}
+{% endfor %}
+
+<h2 class="pplheader">Students</h2>
+{% for p in people.alumni_students %}
+  {{ ppl_item(p) }}
+{% endfor %}
+
 </div>
 
 {% endblock %}
