@@ -31,15 +31,15 @@ associate_directors:
     email: s.meiklejohn@ucl.ac.uk
     weburl: 'http://www0.cs.ucl.ac.uk/staff/S.Meiklejohn/'
     bio: "Sarah Meiklejohn is a Reader (Associate Professor) in Cryptography and Security at University College London.  She has broad research interests in computer security and cryptography, and works on topics such as anonymity and criminal abuses in cryptocurrencies and privacy-enhancing technologies.\n"
-   
+
 
 staff:
   -
     name: 'Jim Ballingall'
     pic: jim.png
     title: 'IC3 Executive Director'
-    email: jim.ballingall@gmail.com 
-    weburl: 
+    email: jim.ballingall@gmail.com
+    weburl:
     bio: "Jim Ballingall is the IC3 Executive Director, responsible for community     outreach, engagement, and support of the IC3 partners and ecosystem. Jim\n    earned a Ph.D. in Applied Physics from Cornell, and a B.S. in\n    Engineering Physics from U.C. Berkeley. Jim also directs the\n    Industry-Academia Partnership, a consortium founded by Cornell with\n    other top universities and leading companies pursuing next generation\n    computing technologies. At a recent IC3 NYC Meetup, he stated, \"The\n    summer of 2016 saw $50M+ security breaches in both Ethereum and Bitcoin;\n    these underscore the urgent need for fast and reliable blockchain\n    solutions rooted in truly rigorous cryptography, game theory and\n    computer science...IC3 is committed to collaborate with its partners to\n    fulfill that need, with practical open source solutions that overcome\n    the greatest challenges to widespread blockchain adoption.\"\n"
 
   -
@@ -47,9 +47,9 @@ staff:
     pic: veronica2021.jpg
     title: 'IC3 Administrative Coordinator'
     email: vv48@cornell.edu
-    weburl: 
+    weburl:
     bio: 'Veronica VanCleave-Seeley is the IC3 Administrative Coordinator, responsible for the support of IC3 members and coordinating IC3 events. Veronica has a B.A. in General Science from Alfred University and several years of administrative experience.'
-    
+
   -
     name: 'Tyler Kell'
     pic: tylerkell.jpg
@@ -57,7 +57,7 @@ staff:
     email: sk3259@cornell.edu
     weburl:
     bio: 'Tyler Kell is a research engineer at IC3. In a previous life, Tyler was a penetration tester, and enjoys an extensive history of breaking security assumptions.'
- 
+
   -
     name: 'Sarah Allen'
     pic: sarah-allen.jpg
@@ -65,7 +65,7 @@ staff:
     email: sarahallen@cornell.edu
     weburl:
     bio: 'Sarah Allen is the IC3 Community Manager, supporting interactions among faculty, students, and industry partners. She works to connect researchers, industry practitioners, and the blockchain community.'
-  
+
   -
     name: 'Sylvain Bellemare'
     pic: sylvain.jpg
@@ -73,8 +73,8 @@ staff:
     email: sb2522@cornell.edu
     weburl:
     bio: "Sylvain is a research engineer at IC3. His role at IC3 involves helping with implementing and testing software prototypes, meanwhile applying software engineering best practices. His interest is in distributed systems and cryptographic protocols."
-  
-  
+
+
 chiefscientist:
   - 
     name: 'Elaine Shi'
@@ -149,7 +149,7 @@ faculty:
     email: maureen.ohara@cornell.edu
     weburl:
     bio: "Maureen O'Hara is the Robert W. Purcell Professor of Finance at the Johnson Graduate School of Management, Cornell University, and she also holds a Professorship at the University of Technology Sydney. Professor O'Hara's research focuses on issues in market microstructure, and she is the author of numerous journal articles as well as the classic book Market Microstructure Theory (Blackwell: 1995). Recent research looks at the how ETFs affect market stability, liquidity issues in corporate bond markets, and corporate governance problems in banks.\n"
- 
+
   -
     name: 'Giulia Fanti'
     pic: giulia.jpeg
@@ -161,7 +161,7 @@ faculty:
   -
     name: 'Dawn Song'
     pic: dawn.jpg
-    title: 
+    title:
     email:
     weburl: 'http://www.cs.berkeley.edu/~dawnsong/'
     bio: 'Dawn Song is Professor of Computer Science at UC Berkeley. Prior to joining UC Berkeley, she was an Assistant Professor at Carnegie Mellon University from 2002 to 2007. Her research interest lies in security and privacy issues in computer systems. She is the recipient of many prestigious awards including the MacArthur Fellowship, the Guggenheim Fellowship, the NSF CAREER Award, the Alfred P. Sloan Research Fellowship, the MIT Technology Review TR-35 Award, and Best Paper Awards from top conferences. She is the founder of Ensighta Security Inc., which was acquired by FireEye Inc.'
@@ -176,8 +176,8 @@ postdocs:
     email: goldfeder@cornell.edu
     weburl: 'http://stevengoldfeder.com'
     bio: "Steven Goldfeder is an IC3 postdoc at Cornell Tech where he works at the intersection of crypto(graphy) and crypto(currencies). He holds a PhD from Princeton University and is a co-author of the leading textbook on cryptocurrencies."
- 
-    
+
+
 students:
 
   -
@@ -204,10 +204,10 @@ students:
   -
     name: 'Burcu Canakci'
     pic: raptor2.jpg
-    title: 
+    title:
     email: bc633@cornell.edu
-    weburl: 
-    bio: 'Burcu is a graduate student at Cornell University working with Robbert van Renesse.' 
+    weburl:
+    bio: 'Burcu is a graduate student at Cornell University working with Robbert van Renesse.'
 
   -
     name: 'Enis Ceyhun Alp'
@@ -248,7 +248,7 @@ students:
     name: 'Cody Freitag'
     pic: cfreitag.jpg
     title:
-    email: crf87@cornell.edu   
+    email: crf87@cornell.edu
     weburl: http://www.cs.cornell.edu/~cfreitag/
     bio: "Cody Freitag is a graduate student at Cornell University. His research interests include theoretical cryptography and privacy and their applications to blockchain technologies and learning theory.\n"
 
@@ -273,13 +273,13 @@ students:
     email: sm2686@cornell.edu
     weburl: 'https://sites.google.com/view/deepak-maram/home'
     bio: 'Deepak is a first year PhD student at Cornell University working with Ari Juels.'
-    
+
   -
     name: 'Michael Mirkin'
     pic: mirkin.jpg
     title:
     email: smirkin@campus.technion.ac.il
-    weburl: 
+    weburl:
     bio: "Michael Mirkin is a graduate student at the Technion. He's interested in distributed systems, cryptography, and P2P networks."
 
   -
@@ -343,19 +343,19 @@ students:
   -
     name: 'Jiaheng Zhang'
     pic: jiaheng.jpg
-    title: 
+    title:
     email: jiaheng_zhang@berkeley.edu
     weburl:
-    bio: "Jiaheng is a first-year Ph.D. student in the Security Group of Computer Science at UC Berkeley. He is broadly interested in Computer Security and Cryptography, especially Zero Knowledge Proof. His current advisor is Prof. Dawn Song. Before coming to Berkeley, he received his B.Eng. degree in Computer Science from ACM Honors Class at Shanghai Jiao Tong University. He also was an intern at Cornell, advised by Prof. Elaine Shi." 
-    
+    bio: "Jiaheng is a first-year Ph.D. student in the Security Group of Computer Science at UC Berkeley. He is broadly interested in Computer Security and Cryptography, especially Zero Knowledge Proof. His current advisor is Prof. Dawn Song. Before coming to Berkeley, he received his B.Eng. degree in Computer Science from ACM Honors Class at Shanghai Jiao Tong University. He also was an intern at Cornell, advised by Prof. Elaine Shi."
+
   -
     name: 'Yunqi Li'
     pic: yunqi-li.jpg
-    title: 
+    title:
     email: yungil3@illinois.edu
     weburl:
     bio: "Yunqi Li is a PhD student at UIUC working with Andrew Miller. She is interested in system security, P2P network, and blockchain technology."
-    
+
   -
     name: 'Sishan Long'
     pic: longsishan.jpg
@@ -363,7 +363,7 @@ students:
     email: sl3275@cornell.edu
     weburl: 'https://longsishan.com'
     bio: "Sishan Long is a graduate student at Cornell University. She is interested in blockchain technologies."
-    
+
   -
     name: 'Roi Bar Zur'
     pic: roi.jpg
@@ -378,7 +378,7 @@ students:
     email: charlieh@andrew.cmu.edu
     weburl:
     bio: "Charlie is a PhD student at CMU advised by Giulia Fanti. He is interested in robustness of data-driven systems."
-    
+
   -
     name: 'Kushal Babel'
     pic: kushal-babel.png
@@ -386,7 +386,7 @@ students:
     email: kb742@cornell.edu
     weburl: "http://cs.cornell.edu/~babel/"
     bio: "Kushal Babel is a Computer Science graduate student at Cornell University. He aims to leverage his experience with programming languages, systems research and traditional finance to build better security protocols and exciting blockchain applications."
-        
+
   -
     name: 'Friederike Groschupp'
     pic: Groschupp.jpg
@@ -394,7 +394,7 @@ students:
     email: friederike@groschupp.eu
     weburl:
     bio: "Friederike is a PhD student at ETH Zurich. Her research interests include system security and blockchain technology."
-    
+
   -
     name: 'Jun-You Liu'
     pic: jun-you.jpg
@@ -402,13 +402,13 @@ students:
     email: jl3956@cornell.edu
     weburl: "http://orbxball.github.io"
     bio: "Jun-You is a Computer Science Ph.D. student at Cornell University. He is interested in the research of cryptography, crypto security, and crypto economics; looking forward to leveraging the discovery from research to build a safer open financial system."
-    
+
   -
     name: 'Harjasleen Malvai'
     pic: jasleen.jpg
     title:
     email: hmalvai2@illinois.edu
-    weburl: 
+    weburl:
     bio: "Harjasleen Malvai is a PhD studet at Cornell University with research interests in theoretical and applied cryptography as well as their applications to blockchains, she also maintains an interest in run-on sentences."
 
   -
@@ -417,24 +417,24 @@ students:
     title:
     email: amita2@illinois.edu
     weburl: "https://amitagarwal.gitbook.io/profile/"
-    bio: "Amit is a PhD student under Professor Andrew Miller at UIUC currently doing research in theoretical and applied cryptography. His other research interests include consensus algorithms, quantum computation, and algorithm design."   
-  
+    bio: "Amit is a PhD student under Professor Andrew Miller at UIUC currently doing research in theoretical and applied cryptography. His other research interests include consensus algorithms, quantum computation, and algorithm design."
+
   -
     name: 'Gengmo Qi'
     pic: gengmo.png
     title:
     email: gq35@cornell.edu
     weburl: "https://gengmoqi.github.io/"
-    bio: "Gengmo is a Computer Science Ph.D. student at Cornell University. His interest broadly include security and privacy, distributed systems, and cryptoeconomics." 
-  
+    bio: "Gengmo is a Computer Science Ph.D. student at Cornell University. His interest broadly include security and privacy, distributed systems, and cryptoeconomics."
+
   -
     name: 'Ariah Klages-Mundt'
     pic: ariah.png
-    title: 
+    title:
     email: aak228@cornell.edu
     weburl:
     bio: "Ariah Klages-Mundt is an Applied Math PhD student at Cornell University. His research is at the intersection of computer science and economics on the design of decentralized finance (DeFi) protocols and economic networks. He brings prior experience working in the financial technology sector."
-  
+
   - 
     name: 'George Kappos'
     pic: kappos.jpg
@@ -442,7 +442,7 @@ students:
     email: g.kappos@ucl.ac.uk
     weburl: "https://georgekap.github.io/"
     bio: "George is a Computer Science Ph.D student at University College London working with Sarah Meiklejohn. He is researching Privacy in cryptocurrencies."
-   
+
   -
     name: 'Bolton Bailey'
     pic: boltonbailey.jpg
@@ -450,7 +450,7 @@ students:
     email: boltonb2@illinois. edu
     weburl: "https://boltonb2.web.engr.illinois.edu/"
     bio: "Bolton is a PhD Student at UIUC. His research interests are in Formal Methods, SNARKs, and Cryptographic Protocols."
-    
+
   -
     name: 'Matan Yechieli'
     pic: raptor3.jpg
@@ -474,7 +474,7 @@ students:
     email: yz2327@cornell.edu
     weburl: "https://dolobyte.net/"
     bio: "Yunhao Zhang is a Computer Science graduate student at Cornell University. His research interest spans distributed systems, game theory, and mechanism design. He is a recipient of the Jay Lepreau Best Paper Award at OSDI'20 and the 2021 Facebook Fellowship."
- 
+
   -
     name: 'Matthew Burke'
     pic: MattBurke.jpg
@@ -505,7 +505,7 @@ students:
     title:
     email: sy657@cornell.edu
     weburl: "https://www.cs.cornell.edu/~yaosiqiu/"
-    bio: "Siqiu Yao is a graduate student at Cornell University. He is interested in building blockchain systems and smart contract languages with better security." 
+    bio: "Siqiu Yao is a graduate student at Cornell University. He is interested in building blockchain systems and smart contract languages with better security."
 
 
 
@@ -514,7 +514,7 @@ researchers:
   -
     name: 'Dr. Kari Kostiainen'
     pic: kari.jpg
-    title: 
+    title:
     email: kari.kostiainen@inf.ethz.ch
     weburl: "https://syssec.ethz.ch/people/kkari.html"
     bio: "Kari Kostiainen is Senior Scientist at ETH Zurich and Coordinator of Zurich Information Security Center (ZISC). Before joining ETH, Kari was a researcher at Nokia. He has a PhD in computer science from Aalto. Kari's research focuses on system security. Recent topics include smartphone security, trusted computing, secure user interaction, and blockchain security."
@@ -561,7 +561,7 @@ alumni:
     email: alex@manuskin.org
     weburl: 'https://github.com/amanusk'
     bio: "Alex is a researcher working on ZenGo-X. He is interested in distributed systems, scaling cryptocurrencies and security.\n"
- 
+
   -
     name: 'Oded Naor'
     pic: oded.jpg
@@ -631,7 +631,7 @@ alumni:
     pic: smatetic.png
     title:
     email: sinisa.matetic@inf.ethz.ch
-    weburl: 
+    weburl:
     bio: "Sinisa Matetic is research scientist at ETH Zurich. He was born in Split, Croatia. Prior to joining ETH Zurich, he worked as a Management Consultant at A.T. Kearney in the SEE region. Sinisa's research interest are in system security focusing on distributed systems, trusted hardware, blockchain-based technology design and integrity protection."
   -
     name: 'Raymond Cheng'
@@ -647,7 +647,7 @@ alumni:
     email: fanz@cs.duke.edu
     weburl: 'http://fanzhang.me'
     bio: "Fan Zhang is an incoming Assistant Professor in Computer Science at Duke University starting Fall of 2021. He is currently a security researcher at Chainlink Labs. His research primarily focuses on security/privacy/scalability problems in decentralized systems, especially those enabled by blockchain protocols and trusted execution environments (TEEs).\n"
- 
+
   -
     name: 'Amani Moin'
     pic: amoin.jpg
@@ -655,7 +655,7 @@ alumni:
     email: aum4@cornell.edu
     weburl: 'https://amanium.github.io/'
     bio: "Amani is PhD candidate in Economics with research in Corporate Finance and Financial Technology. She is also the Cheif Cryptoeconomist at AVA Labs.  Her research interests are in empirical corporate finance, machine learning, and cryptocurrencies.\n"
-    
+
   -
     name: 'Kai Mast'
     pic: kai.png
@@ -679,7 +679,7 @@ alumni:
     email: mustafa.al-bassam.16@ucl.ac.uk
     weburl: 'http://www0.cs.ucl.ac.uk/staff/M.AlBassam/'
     bio: "Mustafa is a PhD student at the Information Security Research Group of the Department of Computer Science at University College London. His research interests include the intersections of peer-to-peer systems, distributed ledgers and information security.\n"
- 
+
   -
     name: 'Iddo Bentov'
     pic: iddobentov.jpg
@@ -693,15 +693,15 @@ alumni:
     pic: doweck.jpg
     title:
     email:
-    weburl: 
-    bio: "Yael Doweck is a graduate student at the Technion. She is interested in distributed systems, cryptocurrencies and cryptocurrency exchanges.\n"   
-     
+    weburl:
+    bio: "Yael Doweck is a graduate student at the Technion. She is interested in distributed systems, cryptocurrencies and cryptocurrency exchanges.\n"
+
   -
     name: 'Charles Chao Kang'
     pic: kang.jpg
-    title: 
+    title:
     email: chaokang123@gmail.com
-    weburl: 
+    weburl:
     bio: "Charles Chao Kang is an incoming assistant professor at HKU Business School, the University of Hong Kong. Before that he was a doctoral student in Management (accounting, finance) at Cornell University. His research interests include information intermediaries, financial reporting, corporate governance, and cryptocurrencies."
 
   - 
@@ -711,7 +711,7 @@ alumni:
     email: nitrieu@asu.edu
     weburl: 'https://nitrieu.github.io/'
     bio: "Ni Trieu is an Assistant Professor of computer science at Arizona State University. Her research interests are in cryptography and security, with a specific focus on secure computation and its applications such as private set intersection, private database queries, and privacy-preserving machine learning."
-   
+
   -
     name: 'Ethan Cecchetti'
     pic: ethan.png
@@ -719,7 +719,7 @@ alumni:
     email:
     weburl: 'http://www.cs.cornell.edu/~ethan/'
     bio: "Ethan Cecchetti will be joining the Maryland Cybersecurity Center at the University of Maryland as a post-doc in September 2021. He is interested in a wide range of research related to security and cryptography.\n"
-    
+
   -
     name: 'Kevin Sekniqi'
     pic: kevinsekniqi.jpg
@@ -737,18 +737,18 @@ alumni:
     bio: "Joshua Gancher is a post-doc at Carnegie Mellon University. His research is about using techniques from formal methods and program verification to certify cryptographic implementations and proofs.\n"
 
   -
-   name: 'Maofan (Ted) Yin' 
+   name: 'Maofan (Ted) Yin'
    pic: tedyin.jpg
    title:
    email: tederminant@gmail.com
    weburl: 'https://www.cs.cornell.edu/~tedyin/'
    bio: "Ted completed his Ph.D. at Cornell University, co-advised by Prof. Emin Gun Sirer and Prof. Robbert van Renesse. He's previously worked closely with Dr. Dahlia Malkhi. His research focuses on fundamental problems of fault-tolerance, consensus protocols, and peer-to-peer systems. He's currently tackling challenges in blockchains, from a system perspective."
-   
+
   -
     name: 'Emin G&uuml;n Sirer'
     pic: gun.jpg
     title: 'Former IC3 Co-Director'
-    email: el33th4x0r@gmail.com 
+    email: el33th4x0r@gmail.com
     weburl: 'http://www.cs.cornell.edu/people/egs/'
     bio: 'Emin G&uumln Sirer is the CEO and co-founder of Ava Labs. His research interests span distributed systems, cryptocurrencies, and software infrastructure for large scale services.'
- 
+
