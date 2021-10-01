@@ -88,7 +88,7 @@ Summary of findings:
  
  ***MEV and Fairness Cage Match: Attack/Defend***
  
- Members: Phil Daian (project leader), Mahimna Kelkar (project leader), Krystal Maughan, Gengmo Qi, Mohammad Nourbakhsh, and Bruno Mazorra. 
+ Members: Phil Daian (project leader), Mahimna Kelkar (project leader), Krystal Maughan, Gengmo Qi, Kaushik Donthi, Mohammad Nourbakhsh, and Bruno Mazorra. 
  
  
  
