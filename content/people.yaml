@@ -215,7 +215,7 @@ students:
     title:
     email: enis.alp@epfl.ch
     weburl:
-    bio: "Ceyhun is a first year PhD student at EPFL. His research interests span distributed systems, networking and security.\n"
+    bio: "Ceyhun is a fifth year PhD student at the Swiss Federal Institute of Technology in Lausanne (EPFL), Switzerland, under the supervision of Prof. Bryan Ford. His research interests are in distributed systems, smart contracts, and security.\n"
   -
     name: 'Philip Daian'
     pic: phil.jpg
@@ -282,13 +282,6 @@ students:
     weburl:
     bio: "Michael Mirkin is a graduate student at the Technion. He's interested in distributed systems, cryptography, and P2P networks."
 
-  -
-    name: 'Kirill Nikitin'
-    pic: knikitin.jpg
-    title:
-    email: kirill.nikitin@epfl.ch
-    weburl: 'https://nikirill.com/'
-    bio: "Kirill Nikitin is a Ph.D. candidate at École polytechnique fédérale de Lausanne. His research interests revolve around the topics in system security, network security, and distributed systems. His current focus is on building secure and privacy-preserving decentralized systems.\n"
   -
     name: 'Youer Pu'
     pic: youerpu.jpg
@@ -507,6 +500,13 @@ students:
     weburl: "https://www.cs.cornell.edu/~yaosiqiu/"
     bio: "Siqiu Yao is a graduate student at Cornell University. He is interested in building blockchain systems and smart contract languages with better security."
 
+  -
+    name: 'Haoqian Zhang'
+    pic: haoqian.png
+    title:
+    email: 
+    weburl: 
+    bio: "Haoqian is a Ph.D. candidate at the Swiss Federal Institute of Technology in Lausanne (EPFL). His research interests lie in the general area of decentralized systems, particularly in blockchain, as well as their applications in cryptocurrency and smart contracts."
 
 
 researchers:
@@ -519,14 +519,13 @@ researchers:
     weburl: "https://syssec.ethz.ch/people/kkari.html"
     bio: "Kari Kostiainen is Senior Scientist at ETH Zurich and Coordinator of Zurich Information Security Center (ZISC). Before joining ETH, Kari was a researcher at Nokia. He has a PhD in computer science from Aalto. Kari's research focuses on system security. Recent topics include smartphone security, trusted computing, secure user interaction, and blockchain security."
 
-  -
-    name: 'Linus Gasser'
-    pic: lgasser.jpg
+ -  
+    name: 'Vero Estrada-Galinanes'
+    pic: vero.jpg
     title:
-    email: linus.gasser@epfl.ch
-    weburl:
-    bio: "Linus is working with his team of engineers to interface between PhD-students from Bryan Ford’s lab and industry partners. He likes to work with semester students, too, and help them to understand the implication of decentralised, distributed systems, and how ECC fits into that picture. His long-term goal is to build software for scalable, self-organizing communities. The current effort is at <a href=\"https://github.com/dedis/cothority\">Cothority</a>\n"
- 
+    email: 
+    weburl: "https://ch.linkedin.com/in/veronicaestrada"
+    bio: "Vero Estrada-Galinanes is a well-established researcher scientist member of DEDIS lab at EPFL. She was formerly an Associate Professor and research deputy leader at the Resilient Systems lab at University of Stavanger, Norway. She gained international experience acquired in academic environments, in the industry, as well as, in the public sector. She got a PhD thesis from University of Neuchatel, Switzerland, and has been with the Storage Systems Research Center at UCSC, USA. She was the recipient of SNSF, MEXT (Monbukagakusho), and CONICET grants. Her research areas of interest are decentralized p2p systems, complex systems, distributed data structures, cryptoeconomics, and their cross-disciplinary applications to empower individuals, communities and societies."
     
 alumni_faculty:
 
@@ -546,6 +545,16 @@ alumni_faculty:
     weburl: 'http://stonecoldpat.github.io'
     bio: "Patrick McCorry is the CEO of PISA Research. His research focuses on cryptocurrencies, smart contracts, applied cryptography, and decentralized systems.\n"
 
+alumni_researchers:
+
+  -
+    name: 'Linus Gasser'
+    pic: lgasser.jpg
+    title:
+    email: linus.gasser@epfl.ch
+    weburl:
+    bio: "Linus is working with his team of engineers to interface between PhD-students from Bryan Ford’s lab and industry partners. He likes to work with semester students, too, and help them to understand the implication of decentralised, distributed systems, and how ECC fits into that picture. His long-term goal is to build software for scalable, self-organizing communities. The current effort is at <a href=\"https://github.com/dedis/cothority\">Cothority</a>\n"
+ 
 alumni_postdocs:
 
   -
@@ -750,9 +759,18 @@ alumni_students:
     bio: "Joshua Gancher is a post-doc at Carnegie Mellon University. His research is about using techniques from formal methods and program verification to certify cryptographic implementations and proofs.\n"
 
   -
-   name: 'Maofan (Ted) Yin'
-   pic: tedyin.jpg
-   title:
-   email: tederminant@gmail.com
-   weburl: 'https://www.cs.cornell.edu/~tedyin/'
-   bio: "Ted completed his Ph.D. at Cornell University, co-advised by Prof. Emin Gun Sirer and Prof. Robbert van Renesse. He's previously worked closely with Dr. Dahlia Malkhi. His research focuses on fundamental problems of fault-tolerance, consensus protocols, and peer-to-peer systems. He's currently tackling challenges in blockchains, from a system perspective."
+    name: 'Maofan (Ted) Yin'
+    pic: tedyin.jpg
+    title:
+    email: tederminant@gmail.com
+    weburl: 'https://www.cs.cornell.edu/~tedyin/'
+    bio: "Ted completed his Ph.D. at Cornell University, co-advised by Prof. Emin Gun Sirer and Prof. Robbert van Renesse. He's previously worked closely with Dr. Dahlia Malkhi. His research focuses on fundamental problems of fault-tolerance, consensus protocols, and peer-to-peer systems. He's currently tackling challenges in blockchains, from a system perspective."
+  
+  -
+    name: 'Kirill Nikitin'
+    pic: knikitin.jpg
+    title:
+    email: kirill.nikitin@epfl.ch
+    weburl: 'https://nikirill.com/'
+    bio: "Kirill Nikitin is a Ph.D. candidate at École polytechnique fédérale de Lausanne. His research interests revolve around the topics in system security, network security, and distributed systems. His current focus is on building secure and privacy-preserving decentralized systems.\n"
+ 
