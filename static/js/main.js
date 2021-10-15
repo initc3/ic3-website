@@ -5,6 +5,7 @@
 
  var SponsorUrlMap = {
    'chain': 'http://www.chain.com/',
+   'fidelity fcat': 'https://fcatalyst.com/overview',
    'fidelitylabs': 'http://www.fidelitylabs.com/',
    'microsoft': 'https://www.microsoft.com',
    'jpmorganchase': 'https://www.jpmorganchase.com/',
