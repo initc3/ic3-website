@@ -516,7 +516,7 @@ researchers:
     pic: kari.jpg
     title:
     email: kari.kostiainen@inf.ethz.ch
-    weburl: "https://syssec.ethz.ch/people/kkari.html"
+    weburl: 'https://syssec.ethz.ch/people/kkari.html'
     bio: "Kari Kostiainen is Senior Scientist at ETH Zurich and Coordinator of Zurich Information Security Center (ZISC). Before joining ETH, Kari was a researcher at Nokia. He has a PhD in computer science from Aalto. Kari's research focuses on system security. Recent topics include smartphone security, trusted computing, secure user interaction, and blockchain security."
 
  -  
@@ -524,7 +524,7 @@ researchers:
     pic: vero.jpg
     title:
     email: 
-    weburl: "https://ch.linkedin.com/in/veronicaestrada"
+    weburl: 'https://ch.linkedin.com/in/veronicaestrada'
     bio: "Vero Estrada-Galinanes is a well-established researcher scientist member of DEDIS lab at EPFL. She was formerly an Associate Professor and research deputy leader at the Resilient Systems lab at University of Stavanger, Norway. She gained international experience acquired in academic environments, in the industry, as well as, in the public sector. She got a PhD thesis from University of Neuchatel, Switzerland, and has been with the Storage Systems Research Center at UCSC, USA. She was the recipient of SNSF, MEXT (Monbukagakusho), and CONICET grants. Her research areas of interest are decentralized p2p systems, complex systems, distributed data structures, cryptoeconomics, and their cross-disciplinary applications to empower individuals, communities and societies."
   
   
@@ -546,7 +546,16 @@ alumni_faculty:
     weburl: 'http://stonecoldpat.github.io'
     bio: "Patrick McCorry is the CEO of PISA Research. His research focuses on cryptocurrencies, smart contracts, applied cryptography, and decentralized systems.\n"
 
+alumni_researchers:
 
+  -
+    name: 'Linus Gasser'
+    pic: lgasser.jpg
+    title:
+    email: linus.gasser@epfl.ch
+    weburl:
+    bio: "Linus is working with his team of engineers to interface between PhD-students from Bryan Ford’s lab and industry partners. He likes to work with semester students, too, and help them to understand the implication of decentralised, distributed systems, and how ECC fits into that picture. His long-term goal is to build software for scalable, self-organizing communities. The current effort is at <a href=\"https://github.com/dedis/cothority\">Cothority</a>.\n"
+ 
  
 alumni_postdocs:
 
@@ -766,4 +775,3 @@ alumni_students:
     email: kirill.nikitin@epfl.ch
     weburl: 'https://nikirill.com/'
     bio: "Kirill Nikitin is a Ph.D. candidate at École polytechnique fédérale de Lausanne. His research interests revolve around the topics in system security, network security, and distributed systems. His current focus is on building secure and privacy-preserving decentralized systems.\n"
- 
