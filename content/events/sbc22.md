@@ -10,6 +10,6 @@ summary: This conference focuses on technical innovations in the blockchain ecos
 
 This conference is co-organized by the <a href="http://cbr.stanford.edu">Stanford Center for Blockchain Research</a> and IC3.
 
-For more information, please visit the <a href="http://cbr.stanford.edu/sbc22/">event page</a>. 
+For more information, please visit the <a href="https://cbr.stanford.edu/sbc22">event page</a>. 
 
 The event page has information on Call for papers, registration, accommations, and more. 
