@@ -526,8 +526,97 @@ researchers:
     email: 
     weburl: 'https://ch.linkedin.com/in/veronicaestrada'
     bio: "Vero Estrada-Galinanes is a well-established researcher scientist member of DEDIS lab at EPFL. She was formerly an Associate Professor and research deputy leader at the Resilient Systems lab at University of Stavanger, Norway. She gained international experience acquired in academic environments, in the industry, as well as, in the public sector. She got a PhD thesis from University of Neuchatel, Switzerland, and has been with the Storage Systems Research Center at UCSC, USA. She was the recipient of SNSF, MEXT (Monbukagakusho), and CONICET grants. Her research areas of interest are decentralized p2p systems, complex systems, distributed data structures, cryptoeconomics, and their cross-disciplinary applications to empower individuals, communities and societies."
-  
-  
+
+fellows:
+
+  -
+    name: 'Ian Miers'
+    pic: imiers.jpg
+    title:
+    email: imiers@umd.edu
+    weburl: 'https://www.cs.umd.edu/~imiers/'
+    bio: "Ian Miers is an Assistant Professor of Computer Science at the University of Maryland. His research focuses on solving real world security issues using cryptography. He is one of the cofounders of Zcash, a privacy preserving cryptocurrency based on his work on Zerocash. His work has been featured in The Washington Post, The New York Times, Wired, and The Economist. It has also been denounced in at least two op-eds.\n"
+  -
+    name: 'Ahmed Kosba'
+    pic: ahmed.png
+    title:
+    email:
+    weburl: 'http://akosba.github.io'
+    bio: "Ahmed Kosba is an assistant professor at the Computer and Systems Engineering Department at the Faculty of Engineering at Alexandria University. His reseach interests are in the areas of applied cryptography and security, with a focus on verifiable computation, zero-knowledge proofs and blockchains.\n"
+  -
+    name: 'Isaac Sheff'
+    pic: isaac.jpg
+    title:
+    email: isheff@mpi-sws.org
+    weburl: 'https://isaacsheff.com'
+    bio: "Isaac Sheff is a Computer Science Post-Doc at MPI-SWS. His research is primarily in distributed systems, with emphasis on security and heterogeneous trust.\n"
+  -
+    name: 'Ekaterina Volkova'
+    pic: ekaterina.jpg
+    title:
+    email: ekaterina.volkova@unimelb.edu.au
+    weburl: 'https://sites.google.com/view/evolkova'
+    bio: "Ekaterina is a Senior Lecturer (Assistant Professor) in the University of Melbourne, Finance Department. Prior to joining the program in 2012, Ekaterina graduated from Moscow State University with MA in Mathematics and from New Economic School with MA in Economics.\n"
+  -
+    name: 'Raymond Cheng'
+    pic: rcheng.jpg
+    title:
+    email: me@raymondcheng.net
+    weburl: 'https://raymondcheng.net/about/'
+    bio: "Raymond Cheng is a research scientist, entrepreneur, open source software developer, and adjunct professor, who is passionate about building technology that improves the lives and freedoms of internet users. He has made contributions in a wide range of areas in distributed systems and security, including data privacy, secure computing, blockchains, and scalable network systems.\n"
+  -
+    name: 'Fan Zhang'
+    pic: fan.jpg
+    title:
+    email: fanz@cs.duke.edu
+    weburl: 'http://fanzhang.me'
+    bio: "Fan Zhang is an incoming Assistant Professor in Computer Science at Duke University starting Fall of 2021. He is currently a security researcher at Chainlink Labs. His research primarily focuses on security/privacy/scalability problems in decentralized systems, especially those enabled by blockchain protocols and trusted execution environments (TEEs).\n"
+  -
+    name: 'Kai Mast'
+    pic: kai.png
+    title:
+    email: kaimast@cs.wisc.edu
+    weburl: 'http://kai-mast.de/'
+    bio: "Kai Mast is postdoctoral scholar in Computer Science at the University of Wisconsin in Madison. Hid research focuses on Byzantine fault-tolerant systems and databases.\n"
+  -
+    name: 'Charles Chao Kang'
+    pic: kang.jpg
+    title:
+    email: chaokang123@gmail.com
+    weburl:
+    bio: "Charles Chao Kang is an incoming assistant professor at HKU Business School, the University of Hong Kong. Before that he was a doctoral student in Management (accounting, finance) at Cornell University. His research interests include information intermediaries, financial reporting, corporate governance, and cryptocurrencies."
+
+  - 
+    name: 'Ni Trieu'
+    pic: NiTrieu.jpg
+    title:
+    email: nitrieu@asu.edu
+    weburl: 'https://nitrieu.github.io/'
+    bio: "Ni Trieu is an Assistant Professor of computer science at Arizona State University. Her research interests are in cryptography and security, with a specific focus on secure computation and its applications such as private set intersection, private database queries, and privacy-preserving machine learning."
+
+  -
+    name: 'Ethan Cecchetti'
+    pic: ethan.png
+    title:
+    email:
+    weburl: 'http://www.cs.cornell.edu/~ethan/'
+    bio: "Ethan Cecchetti will be joining the Maryland Cybersecurity Center at the University of Maryland as a post-doc in September 2021. He is interested in a wide range of research related to security and cryptography.\n"
+  -
+    name: 'Joshua Gancher'
+    pic: josh.png
+    title:
+    email: jgancher@andrew.cmu.edu
+    weburl: 'https://gancher.dev/'
+    bio: "Joshua Gancher is a post-doc at Carnegie Mellon University. His research is about using techniques from formal methods and program verification to certify cryptographic implementations and proofs.\n"
+  -
+    name: 'Philipp Jovanovic'
+    pic: philipp-jovanovic.jpg
+    title:
+    email: p.jovanovic@ucl.ac.uk
+    weburl: 'https://zerobyte.io/'
+    bio: "Philipp Jovanovic is an Associate Professor in Information Security at University College London. Philipp's interests broadly include applied cryptography, information security, and decentralized systems. His research mission is to develop, analyze, and deploy scalable, privacy-enhancing, decentralized trust technologies that serve the end users and help to promote anti-fragile ecosystems.\n"
+
+
 alumni_faculty:
 
   -
