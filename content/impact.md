@@ -14,13 +14,17 @@ In addition to our scholarship, IC3 has been extremely active in the open source
 - *Zcoin, BitMessage*: These systems use <a href="https://zcoin.io/what-is-dandelion-and-how-it-can-improve-zcoins-privacy/">Dandelion</a>, invented at IC3, for their <a href="https://bitcoinmagazine.com/articles/anatomy-anonymity-how-dandelion-could-make-bitcoin-more-private/">strong privacy guarantees</a>.
 - *Qtum, PIVX, Particl, 20 others*: IC3's work on "fake stake" attacks has led to improvements in all of these systems.
 
-## Startups Emerging from IC3
+## Startups Involving IC3 Members
 
 - *<a href="https://avalanchelabs.org">Ava Labs, Inc.</a>*: Ava Labs is funded by Andresen-Horowitz, Metastable, Polychain, and others, is building a next generation blockchain platform that provides <a href="https://news.bitcoin.com/bch-avalanche-transactions-show-finality-speeds-10x-faster-then-ethereum/">unprecedented performance</a> and functionality.
 - *<a href="https://bloxroute.com">bloXroute</a>*: bloXroute is a high performance blockchain infrastructure company, co-founded by IC3 members, that is building a fast networking layer for all blockchains.
-- *<a href="https://www.oasislabs.com"> Oasis</a>*: Oasis, founded by IC3 researchers, is seeking to support applications that use even the most <a href="https://www.nytimes.com/2018/10/20/technology/how-the-blockchain-could-break-big-techs-hold-on-ai.html">sensitive data without compromising privacy or performance</a>. It is funded by Andresen-Horowitz and others.
+- *<a href="http://deco.works/index.html">DECO</a>*: DECO is a novel privacy-preserving oracle protocol. 
+- *<a href="http://drand.love">drand</a>*: drand is a distributed randomness beacon. A verifiable, unpredictable and unbiased random numbers as a service. 
+- *<a href="https://github.com/flashbots/pm">Flashbots</a>*: Flashbots is a research and development organization working on mitigating the negative externalities of current MEV extraction techniques and avoiding the existential risks MEV could cause to state-rich blockchains like Ethereum.
+- *<a href="https://www.oasislabs.com">Oasis</a>*: Oasis, founded by IC3 researchers, is seeking to support applications that use even the most <a href="https://www.nytimes.com/2018/10/20/technology/how-the-blockchain-could-break-big-techs-hold-on-ai.html">sensitive data without compromising privacy or performance</a>. It is funded by Andresen-Horowitz and others.
+- *<a href="http://offchainlabs.com">Offchain Labs</a>*: Offchain Labs is building Arbitrum, a scaling solution for Ethereum.
 - *<a href="https://www.cs.cornell.edu/~iddo/pisa.pdf">PISA Research</a>*: PISA research is developing tools and techniques for secure exchange of cryptographic assets.
-- *Thunder Token*: Thunder Token is a high performance blockchain with <a href="https://www.coindesk.com/cornell-professor-claims-blockchain-advances-thunder-token-debut">high throughput and low latency</a>.
+- *Thunder Token*: Thunder Token is a high performance blockchain with <a href="https://www.coindesk.com/cornell-professor-claims-blockchain-advances-thunder-token-debut">high throughput and low latency</a>. Their transaction relayer, any.sender, was <a href="https://blog.infura.io/announcing-our-acquisition-of-any-sender-and-the-alpha-release-of-infura-transactions/">aquired by Infura</a>.
 
 ## Solutions
 
