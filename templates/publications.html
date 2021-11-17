@@ -1,17 +1,16 @@
 {% extends "page.html" %}
 
-{% block content %}
-
-<h1>Publications</h1>
-
-<div class="ui divided items">
-{% for publications in publications %}
-  <div class="item">
-  <div class="content">
-      <div class="header">{{ publication.name }}</div>
-      <div class="authors">
-      <div class="description">
-          <button class="ui compact basic icon mini showmore button">
+{% macro p_item(p) %}
+<div class="item">
+    <div class="content">
+        <div class="header" >{{ p.name }} </div>
+        <div class="meta">
+            {% if p.authors %}
+            <span>{{ p.authors }}</span>
+            {% endif %}
+        </div>
+        <div class="description">
+           <button class="ui compact basic icon mini showmore button">
               Read On<i class="double angle down icon"></i>
           </button>
           <p class="more"> {{ publication.description }}
@@ -20,9 +19,11 @@
               </button>
           </p>
       </div>
-  </div>
-  </div>
-{% endfor %}
+        <div class="extra">
+        </div>
+    </div>
 </div>
+{% endmacro %}
 
-{% endblock %}
+{% block content %}
+
