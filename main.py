@@ -188,7 +188,7 @@ def publications():
 
     breadcrumb = [{'name': 'Publications', 'url': 'publications.html'}]
 
-    with codecs.open('./content/publications.md', 'r', encoding='utf-8') as c:
+    with codecs.open('./content/publications.yaml', 'r', encoding='utf-8') as c:
         content = c.read()
         content = markdown.markdown(content)
 
