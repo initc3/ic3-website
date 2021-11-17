@@ -5,15 +5,16 @@
 <h1>Publications</h1>
 
 <div class="ui divided items">
-{% for project in projects %}
+{% for publications in publications %}
   <div class="item">
   <div class="content">
-      <div class="header">{{ project.name }}</div>
+      <div class="header">{{ publication.name }}</div>
+      <div class="authors">
       <div class="description">
           <button class="ui compact basic icon mini showmore button">
               Read On<i class="double angle down icon"></i>
           </button>
-          <p class="more"> {{ project.description }}
+          <p class="more"> {{ publication.description }}
               <button class="ui compact basic mini showless icon button">
                   Show Less<i class="double angle up icon"></i>
               </button>
