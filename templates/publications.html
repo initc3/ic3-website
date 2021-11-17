@@ -1,0 +1,27 @@
+{% extends "page.html" %}
+
+{% block content %}
+
+<h1>Publications</h1>
+
+<div class="ui divided items">
+{% for project in projects %}
+  <div class="item">
+  <div class="content">
+      <div class="header">{{ project.name }}</div>
+      <div class="description">
+          <button class="ui compact basic icon mini showmore button">
+              Read On<i class="double angle down icon"></i>
+          </button>
+          <p class="more"> {{ project.description }}
+              <button class="ui compact basic mini showless icon button">
+                  Show Less<i class="double angle up icon"></i>
+              </button>
+          </p>
+      </div>
+  </div>
+  </div>
+{% endfor %}
+</div>
+
+{% endblock %}
