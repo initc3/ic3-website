@@ -8,6 +8,9 @@
             {% if p.authors %}
             <span>{{ p.authors }}</span>
             {% endif %}
+            {% if p.weburl %}
+            <div class="ui mini compact basic icon button"><a href="{{ p.weburl }}"><i class="home icon"></i>Website</a></div>
+            {% endif %}
         </div>
         <div class="description">
            <button class="ui compact basic icon mini showmore button">
