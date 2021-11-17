@@ -122,6 +122,6 @@
  date: 2021-11-16
  url: https://medium.com/initc3org/order-fair-consensus-reducing-mev-at-the-consensus-layer-691c98d92127
  title: "Order-Fair Consensus: Reducing MEV at the Consensus Layer"
- author: Mahimna Kelkar
+ authors: Mahimna Kelkar
  summary: In current blockchain consensus protocols, a single miner or validator unilaterally controls the inclusion and ordering of transactions in a block. This form of temporary centralization is entirely at odds with the goals of decentralization. It also poses an acute problem for decentralized finance (DeFi). Arbitrageurs today are engaged in rampant collusion with miners to reorder transactions and extract profit at the expense of ordinary DeFi users. In the process of doing so, arbitrageurs are also participating in systemic bribery and even threatening the consensus stability of blockchains. So far in 2021, the impact of opportunistic transaction recording - often called MEV or miner/maximum extractable value - has exceeded $550 million by one conservative estimate.
  
