@@ -30,3 +30,17 @@
 
 {% block content %}
 
+<div class="ui publication divided items">
+
+<h1>Preprints</h1>
+
+{% for p in publications.preprints %}
+  {{ p_item(p) }}
+{% endfor %}
+
+<h1>Published Papers</h1>
+
+{% for p in publications.staff %}
+  {{ p_item(p) }}
+{% endfor %}
+    
