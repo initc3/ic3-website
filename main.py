@@ -184,18 +184,23 @@ def impact():
 
 def publications():
     output = e.calc_output_fullpath('publications.html')
-    temp = e.env.get_template('page.html')
+    temp = e.env.get_template('publications.html')
 
     breadcrumb = [{'name': 'Publications', 'url': 'publications.html'}]
 
-    with codecs.open('./content/publications.yaml', 'r', encoding='utf-8') as c:
-        content = c.read()
-        content = markdown.markdown(content)
+    with open('./content/publications.yaml') as c:
+        preprints = yaml.safe_load(c)
+
+    with codecs.open('content/publications.md', 'r', encoding='utf-8') as f:
+        content = f.read()
+
+    published_papers = markdown.markdown(content)
 
     e.render_and_write(temp, dict(
         title='IC3 - Publications',
-        content=content,
-        breadcrumb=breadcrumb),
+        breadcrumb=breadcrumb,
+        preprints=preprints['preprints'],
+        published_papers=published_papers),
                        output)
 
 

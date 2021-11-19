@@ -3,20 +3,20 @@
 {% macro p_item(p) %}
 <div class="item">
     <div class="content">
-        <div class="header" >{{ p.name }} </div>
+        <div class="header" >{{ p.title }} </div>
         <div class="meta">
             {% if p.authors %}
             <span>{{ p.authors }}</span>
             {% endif %}
-            {% if p.weburl %}
-            <div class="ui mini compact basic icon button"><a href="{{ p.weburl }}"><i class="home icon"></i>Website</a></div>
+            {% if p.url %}
+            <div class="ui mini compact basic icon button"><a href="{{ p.url }}"><i class="file alternate outline icon"></i>Paper</a></div>
             {% endif %}
         </div>
         <div class="description">
            <button class="ui compact basic icon mini showmore button">
               Read On<i class="double angle down icon"></i>
           </button>
-          <p class="more"> {{ publication.description }}
+          <p class="more"> {{ p.description }}
               <button class="ui compact basic mini showless icon button">
                   Show Less<i class="double angle up icon"></i>
               </button>
@@ -28,19 +28,17 @@
 </div>
 {% endmacro %}
 
+
 {% block content %}
 
 <div class="ui publication divided items">
 
 <h1>Preprints</h1>
 
-{% for p in publications.preprints %}
+{% for p in preprints %}
   {{ p_item(p) }}
 {% endfor %}
 
-<h1>Published Papers</h1>
+{{ published_papers }}
 
-{% for p in publications.staff %}
-  {{ p_item(p) }}
-{% endfor %}
-    
+{% endblock %}
