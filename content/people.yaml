@@ -166,6 +166,14 @@ faculty:
     weburl: 'http://www.cs.berkeley.edu/~dawnsong/'
     bio: 'Dawn Song is Professor of Computer Science at UC Berkeley. Prior to joining UC Berkeley, she was an Assistant Professor at Carnegie Mellon University from 2002 to 2007. Her research interest lies in security and privacy issues in computer systems. She is the recipient of many prestigious awards including the MacArthur Fellowship, the Guggenheim Fellowship, the NSF CAREER Award, the Alfred P. Sloan Research Fellowship, the MIT Technology Review TR-35 Award, and Best Paper Awards from top conferences. She is the founder of Ensighta Security Inc., which was acquired by FireEye Inc.'
 
+  -
+    name: 'Eswar Prasad'
+    pic: eswar.jpg
+    title:
+    email: eswar.prasad@cornell.edu
+    weburl: 'http://prasad.dyson.cornell.edu/'
+    bio: 'Eswar Prasad is the Tolani Senior Professor of Trade Policy and professor of economics at Cornell University. He is also a senior fellow at the Brookings Institution, where he holds the New Century Chair in International Trade Economics, and a research associate at the National Bureau of Economic Research. He is a former head of the IMF's China Division.'
+   
 
 postdocs:
 
