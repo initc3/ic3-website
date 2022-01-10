@@ -100,13 +100,7 @@ faculty:
     email: james.grimmelmann@cornell.edu
     weburl: 'http://james.grimmelmann.net/'
     bio: "James Grimmelmann is a professor of law at Cornell Tech and Cornell Law School. He studies how laws regulating software affect freedom, wealth, and power. He helps lawyers and technologists understand each other, applying ideas from computer science to problems in law and vice versa. He is the author of the casebook Internet Law: Cases and Problems and of over forty scholarly articles and essays on digital copyright, search engine regulation, privacy on social networks, online governance, and other topics in computer and Internet law. He teaches courses in property, intellectual property, and Internet law.\n"
-  -
-    name: 'Roni Michaely'
-    pic: roni.jpg
-    title:
-    email: ronim@hku.hk
-    weburl: 'https://www.fbe.hku.hk/people/roni-michaely/'
-    bio: "Roni Michaely is a professor of Finance and Entrepreneurialship at The University of Hong Kong. Before that he spent a significant portion of his career as The Rudd Family professor of Finance at Cornell University and Cornell Tech. His primary research interests are in the areas of empirical corporate finance, corporate governance, entrepreneurial finance, and FinTech. His current research focuses on how frictions in capital markets affect managers' corporate decisions and new product developments; with a particular focus on corporate payout policy, the effect of competition in firms' behavior, and on the impact of Fintech on capital market efficiency.\n"
+
   -
     name: 'Andrew Myers'
     pic: myers.jpg
@@ -143,14 +137,6 @@ faculty:
     weburl:
     bio: "Prof. Bryan Ford leads the Decentralized/Distributed Systems (DEDIS) lab at the Swiss Federal Institute of Technology in Lausanne (EPFL). Ford focuses broadly on building secure decentralized systems, touching on topics including private and anonymous communication technologies, Internet architecture, and secure operating systems.\n"
   -
-    name: 'Maureen O''Hara'
-    pic: mohara.jpg
-    title:
-    email: maureen.ohara@cornell.edu
-    weburl:
-    bio: "Maureen O'Hara is the Robert W. Purcell Professor of Finance at the Johnson Graduate School of Management, Cornell University, and she also holds a Professorship at the University of Technology Sydney. Professor O'Hara's research focuses on issues in market microstructure, and she is the author of numerous journal articles as well as the classic book Market Microstructure Theory (Blackwell: 1995). Recent research looks at the how ETFs affect market stability, liquidity issues in corporate bond markets, and corporate governance problems in banks.\n"
-
-  -
     name: 'Giulia Fanti'
     pic: giulia.jpeg
     title:
@@ -174,6 +160,24 @@ faculty:
     weburl: 'http://prasad.dyson.cornell.edu/'
     bio: "Eswar Prasad is the Tolani Senior Professor of Trade Policy and professor of economics at Cornell University. He is also a senior fellow at the Brookings Institution, where he holds the New Century Chair in International Trade Economics, and a research associate at the National Bureau of Economic Research. He is a former head of the IMF's China Division. Prasad is the author of The Future of Money: How the Digital Revolution is Transforming Currencies and Finance (Harvard University Press, 2021), Gaining Currency: The Rise of the Renminbi (Oxford, 2016), and The Dollar Trap: How the U.S. Dollar Tightened Its Grip on Global Finance (Princeton, 2014).\n"
    
+seniorfellows:
+ 
+  -
+    name: 'Maureen O''Hara'
+    pic: mohara.jpg
+    title:
+    email: maureen.ohara@cornell.edu
+    weburl:
+    bio: "Maureen O'Hara is the Robert W. Purcell Professor of Finance at the Johnson Graduate School of Management, Cornell University, and she also holds a Professorship at the University of Technology Sydney. Professor O'Hara's research focuses on issues in market microstructure, and she is the author of numerous journal articles as well as the classic book Market Microstructure Theory (Blackwell: 1995). Recent research looks at the how ETFs affect market stability, liquidity issues in corporate bond markets, and corporate governance problems in banks.\n"
+  
+  -
+    name: 'Roni Michaely'
+    pic: roni.jpg
+    title:
+    email: ronim@hku.hk
+    weburl: 'https://www.fbe.hku.hk/people/roni-michaely/'
+    bio: "Roni Michaely is a professor of Finance and Entrepreneurialship at The University of Hong Kong. Before that he spent a significant portion of his career as The Rudd Family professor of Finance at Cornell University and Cornell Tech. His primary research interests are in the areas of empirical corporate finance, corporate governance, entrepreneurial finance, and FinTech. His current research focuses on how frictions in capital markets affect managers' corporate decisions and new product developments; with a particular focus on corporate payout policy, the effect of competition in firms' behavior, and on the impact of Fintech on capital market efficiency.\n"
+
 
 postdocs:
 
