@@ -54,6 +54,12 @@
 {% for p in people.faculty %}
   {{ ppl_item(p) }}
 {% endfor %}
+    
+<h1>Senior Fellows</h1>
+ 
+{% for p in people.seniorfellows %}
+    {{ ppl_item(p) }}
+{% endfor %}
 
 <h2 class="pplheader">Postdocs</h2>
 
