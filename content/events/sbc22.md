@@ -1,8 +1,8 @@
 ---
 name: 'The Science of Blockchain Conferenference 2022 (SBC22)'
 location: Arrillaga Alumni Center, Stanford University
-start: 2022-01-24
-end: 2022-01-26
+start: 2022-08-29
+end: 2022-08-31
 summary: This conference focuses on technical innovations in the blockchain ecosystem, and brings together researchers and practioners working in the space. We are interested in the application of cryptography, decentralized protocols, formal  methods, and empirical analysis, to improving the security and scalability of blockchain deployments. We aim to foster collaboration among practitioners and researchers working on blockchain protocol development, cryptography, distributed systems, secure computing, crypto-economics, and economic risk analysis.
 ---
 
