@@ -131,3 +131,12 @@
  title: "Your Digital Assets Can Be Safer"
  authors: Ittay Eyal
  summary: Securing digital assets like cryptocurrencies and NFTs is a tricky business, as demonstrated by numerous losses and heists. The challenge of storing digital assets applies equally to individuals and to larger actors - from companies to cryptocurrency exchanges to the largest financial services corporates. Digital assets are secured (almost exclusively) with cryptographic signing keys. But from the early days of Bitcoin it was clear that our mechanisms, which worked perfectly well in the olden days, are inadequate. Our mobile devices are (maybe) secure enough for our emails, but not for cash. Plastic cards work for authorizing transactions if we can cancel them with a phone call, but that's not the case with digital cash that has no 'undo'. Indeed, for securing digital assets it is not uncommon to use multiple keys.
+
+-
+ date: 2022-02-03
+ url: https://itaytsabary.github.io/2022-02-03-ledgerhedger/
+ title: "LedgerHedger: Gas Reservation for Smart-Contract Security"
+ authors: Itay Tsabary, Alex Manuskin, and Ittay Eyal
+ summary: Prominent smart contracts, e.g., roll-ups, critically rely on timely confirmations of their transactions. Sadly, that's not how blockchain works, as confirmation times depend on transactions fees, where the required fee is determined by the volatile fee market. We present LedgerHedger, the first smart contract that facilitates a reservation for a future transaction confirmation. LedgerHedger is secure, incentive-compatible, and has low overhead for practical future-transaction parameters. 
+ 
+ 
