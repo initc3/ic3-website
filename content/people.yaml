@@ -528,6 +528,21 @@ students:
     weburl: "https://economics.cornell.edu/bineet-mishra"
     bio: "Bineet is a Ph.D. candidate in the Economics Department at Cornell University. His main research interests are at the intersection of macroeconomics and finance. His current research agenda aims to understand the implications of new financial technologies, such as introduction of Central Bank Digital Currency (CBDC), for monetary policy and financial stability. Additionally, he works on international capital flows, with special focus on the safe assets, to understand the effects of financial linkages and spillovers among the countries."
 
+  -
+    name: 'Yanyi Liu'
+    pic: yanyi.jpg
+    title:
+    email: yl2866@cornell.edu
+    weburl:
+    bio: "Yanyi is a third-year computer science Ph.D student at Cornell Tech. His interests are in cryptography and theoretical computer science in general, and recently his research focuses on Kolmogorov complexity and one-way functions. He is co-advised by Rafael Pass and Elaine Shi. He obtained his bachelor's degree in computer science at Tsinghua University."
+    
+  -
+    name: 'Mingxun Zhou'
+    pic: mingxun.jpg
+    title:
+    weburl: "https://cs.cmu.edu/~mingxunz"
+    bio: "Mingxun Zhou is a Ph.D student in the Computer Science Department at Carnegie Mellon University. His research interests include privacy-preserving algorithm design and the algorithmic foundation of blockchain. He is currently co-advised by Elaine Shi and Guilia Fanti. Before joining CMU, he received his bachelor's degree from Peking University."
+
 researchers:
 
   -
