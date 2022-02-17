@@ -129,7 +129,7 @@
  date: 2021-11-16
  url: https://ittayeyal.github.io/2021-11-16-keyManagement/
  title: "Your Digital Assets Can Be Safer"
- author: Ittay Eyal
+ authors: Ittay Eyal
  summary: Securing digital assets like cryptocurrencies and NFTs is a tricky business, as demonstrated by numerous losses and heists. The challenge of storing digital assets applies equally to individuals and to larger actors - from companies to cryptocurrency exchanges to the largest financial services corporates. Digital assets are secured (almost exclusively) with cryptographic signing keys. But from the early days of Bitcoin it was clear that our mechanisms, which worked perfectly well in the olden days, are inadequate. Our mobile devices are (maybe) secure enough for our emails, but not for cash. Plastic cards work for authorizing transactions if we can cancel them with a phone call, but that's not the case with digital cash that has no 'undo'. Indeed, for securing digital assets it is not uncommon to use multiple keys.
 
 -
