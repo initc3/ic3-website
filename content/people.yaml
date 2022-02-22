@@ -540,9 +540,18 @@ students:
     name: 'Mingxun Zhou'
     pic: mingxun.jpg
     title:
+    email: mingxunz@andrew.cmu.edu
     weburl: "https://cs.cmu.edu/~mingxunz"
     bio: "Mingxun Zhou is a Ph.D student in the Computer Science Department at Carnegie Mellon University. His research interests include privacy-preserving algorithm design and the algorithmic foundation of blockchain. He is currently co-advised by Elaine Shi and Guilia Fanti. Before joining CMU, he received his bachelor's degree from Peking University."
 
+  - 
+    name: 'Hao Chung' 
+    pic: hao.png
+    title:
+    email: haochung@andrew.cmu.edu
+    weburl: "https://chunghao.github.io/"
+    bio: "Hao Chung is a Ph.D. student at Carnegie Mellon University, where he is advised by Elaine Shi. He is broadly interested in cryptography, especially in the intersection between crypto and game theory."
+    
 researchers:
 
   -
