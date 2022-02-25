@@ -1,5 +1,5 @@
 ---
-name: 'The Science of Blockchain Conferenference 2022 (SBC22)'
+name: 'The Science of Blockchain Conference 2022 (SBC22)'
 location: Arrillaga Alumni Center, Stanford University
 start: 2022-08-29
 end: 2022-08-31
