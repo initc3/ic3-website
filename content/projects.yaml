@@ -32,7 +32,7 @@ projects:
 
   -
      name: 'Copyright Vulnerabilities in NFTs'
-     challenges: [*safety and compliance]
+     challenges: [*compliance]
      description: NFTs for creative works depend on copyright law to give owners the set of rights they need but community expectations and NFT licenses are often not aligned with the actual legal rights owning an NFT conveys. We describe some of the issues, using well-known NFT projects as examples, and call for NFT developers to pay more attention to copyright licensing. 
  
   -
