@@ -313,7 +313,6 @@ projects:
      challenges: [*adf]
      description: Virtual Notary is a service for attesting to online factoids. Virtual Notary issues both freestanding certificates as well as immutable records on the Bitcoin blockchain. It has been operational for more than 3 years, and certified more than 600,000 factoids. For more info, please see <a href="http://virtual-notary.org">http://virtual-notary.org</a>.
 
-
   -
      name: "EtherScrape: A Complementary Block Explorer for the Ethereum Blockchain"
      challenges: [*adf]
