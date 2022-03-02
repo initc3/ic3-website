@@ -1,5 +1,5 @@
 ---
-name: 'Blockchain Camp 2022'
+name: 'IC3 Blockchain Camp 2022'
 location: Ithaca, NY
 start: 2022-08
 end: 2022-08
