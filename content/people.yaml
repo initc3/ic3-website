@@ -20,7 +20,7 @@ associate_directors:
     name: 'Andrew Miller'
     pic: miller.jpg
     title: 'IC3 Associate Director'
-    email: amiller@cs.umd.edu
+    email: soc1024@illinois.edu
     weburl: 'http://cs.umd.edu/~amiller'
     bio: 'Andrew Miller is a professor at the University of Illinois at Urbana-Champaign. His research interests include all facets of cryptocurrency science, from measurement and simulation to theory and formal modelling. His lectures can be found in the first cryptocurrency textbook and MOOC.'
 
@@ -195,7 +195,7 @@ students:
     name: 'Sarah Azouvi'
     pic: sazouvi.jpg
     title:
-    email: ucahsck@ucl.ac.uk
+    email: sarah.azouvi@protocol.ai
     weburl: 'http://www0.cs.ucl.ac.uk/staff/S.Azouvi/'
     bio: "Sarah is a PhD student at University College London in the Information Security group. Her research interest are in Applied Cryptography and Game Theory, in the context of cryptocurrencies.\n"
   -
@@ -589,7 +589,7 @@ fellows:
     name: 'Isaac Sheff'
     pic: isaac.jpg
     title:
-    email: isheff@mpi-sws.org
+    email: isaac@heliax.dev
     weburl: 'https://isaacsheff.com'
     bio: "Isaac Sheff is a Computer Science Post-Doc at MPI-SWS. His research is primarily in distributed systems, with emphasis on security and heterogeneous trust.\n"
   -
