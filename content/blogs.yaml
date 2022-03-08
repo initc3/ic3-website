@@ -139,4 +139,13 @@
  authors: Itay Tsabary, Alex Manuskin, and Ittay Eyal
  summary: Prominent smart contracts, e.g., roll-ups, critically rely on timely confirmations of their transactions. Sadly, that's not how blockchain works, as confirmation times depend on transactions fees, where the required fee is determined by the volatile fee market. We present LedgerHedger, the first smart contract that facilitates a reservation for a future transaction confirmation. LedgerHedger is secure, incentive-compatible, and has low overhead for practical future-transaction parameters. 
  
+-
+ date: 2022-03-07
+ url: https://decentralizedthoughts.github.io/2022-03-07-colordag-from-always-almost-to-almost-always-50-percent-selfish-mining-resilience/
+ title: "Colordag: From always-almost to almost-always 50% selfish mining resilience"
+ authors: Ittay Eyal and Ittai Abraham
+ summary: The Selfish mining attack against blockchain protocols was discovered and formalized in 2013 by Eyal and Sirer (also see our <a href="https://decentralizedthoughts.github.io/2020-02-26-selfish-mining">blog post</a>). The Bitcoin community has mentioned similar types of attacks in 2010. This attack remains a vulnerability of all operational blockchains we are aware of. For Bitcoin's blockchain algorithm (under reasonable network assumptions), a coalition controlling over 1/4 of the mining power can improve its revenue using this attack.
+ 
+ 
+ 
  
