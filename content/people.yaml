@@ -16,6 +16,7 @@ associate_directors:
     email: ittay@technion.ac.il
     weburl: 'http://webee.technion.ac.il/people/ittay/'
     bio: 'Ittay Eyal is a senior lecturer (Assistant Professor) of Electrical Engineering at the Technion. His research focuses on distributed systems, particularly the security and scalability of cryptocurrency technologies.'
+  
   -
     name: 'Andrew Miller'
     pic: miller.jpg
@@ -92,6 +93,7 @@ faculty:
     email: lorenzo@cs.cornell.edu
     weburl: 'http://www.cs.cornell.edu/lorenzo/'
     bio: "Lorenzo Alvisi holds an Endowed Professorship in Computer Science at      Cornell University. His research interests are in the\n     theory and practice of distributed computing, with a particular focus\n     on dependability. He is a Fellow of the ACM, IEEE, and Alfred P. Sloan\n     Foundation, and the recipient of a Humboldt Research Award.  He serves\n     on the editorial boards of ACM Transactions on Computer Systems and\n     Springer’s Distributed Computing, and on the council of CRA’s Computing\n     Community Consortium.\n"
+  
   -
     name: 'James Grimmelmann'
     pic: james.jpg
@@ -107,6 +109,7 @@ faculty:
     email: andru@cs.cornell.edu
     weburl: 'http://www.cs.cornell.edu/andru/'
     bio: "Andrew Myers is a Professor in the Department of Computer Science at Cornell University in Ithaca, NY. His research interests include computer security, programming languages, and distributed and persistent programming systems. His work has focused on practical, sound, expressive languages and systems for enforcing information security by construction. The Jif programming language makes it possible to write programs which the compiler ensures are secure, and the Fabric system extends this approach to distributed programming. Myers is an ACM Fellow and co-Editor-in-Chief for the Journal of Computer Security.\n"
+  
   -
     name: 'Rafael Pass'
     pic: rafael.jpg
@@ -114,6 +117,7 @@ faculty:
     email: pass@cs.cornell.edu
     weburl: 'http://www.cs.cornell.edu/~rafael'
     bio: "Rafael Pass is an Associate Professor of Computer Science at Cornell University (Cornell Tech). His research focuses on Cryptography and Game Theory and their interplay with Computational Complexity. He is a recipient of the NSF Career Award, the AFOSR Young Investigator Award, and the Google Faculty Award and was named a Alfred P Sloan Fellow, a Microsoft Faculty Fellow, and a Wallenberg Academy Fellow.\n"
+  
   -
     name: 'Robbert van Renesse'
     pic: rvr.jpg
@@ -121,6 +125,7 @@ faculty:
     email: rvr@cs.cornell.edu
     weburl: 'http://www.cs.cornell.edu/home/rvr'
     bio: "Robbert van Renesse is a Principal Research Scientist in the Department of Computer Science at Cornell University.  His research is in the area of the theory and practice of scalable fault tolerant distributed systems.  Van Renesse is Chair of ACM SIGOPS, an ACM Fellow, and Associate Editor of ACM Computing Surveys.\n"
+  
   -
     name: 'Srdjan Capkun'
     pic: scapkun.jpg
@@ -128,6 +133,7 @@ faculty:
     email: srdjan.capkun@inf.ethz.ch
     weburl:
     bio: "Srdjan Capkun, is a Full Professor in the Department of Computer Science, ETH Zurich and Director of the Zurich Information Security and Privacy Center (ZISC). His research interests are in system and network security.\n"
+  
   -
     name: 'Bryan Ford'
     pic: bford.jpg
@@ -135,6 +141,7 @@ faculty:
     email: bryan.ford@epfl.ch
     weburl:
     bio: "Prof. Bryan Ford leads the Decentralized/Distributed Systems (DEDIS) lab at the Swiss Federal Institute of Technology in Lausanne (EPFL). Ford focuses broadly on building secure decentralized systems, touching on topics including private and anonymous communication technologies, Internet architecture, and secure operating systems.\n"
+  
   -
     name: 'Giulia Fanti'
     pic: giulia.jpeg
@@ -198,6 +205,7 @@ students:
     email: sarah.azouvi@protocol.ai
     weburl: 'http://www0.cs.ucl.ac.uk/staff/S.Azouvi/'
     bio: "Sarah is a PhD student at University College London in the Information Security group. Her research interest are in Applied Cryptography and Game Theory, in the context of cryptocurrencies.\n"
+  
   -
     name: 'Surya Bakshi'
     pic: bakshi.png
@@ -205,6 +213,7 @@ students:
     email: sbakshi3@illinois.edu
     weburl: 'http://sbaks0820.github.io'
     bio: 'Surya is a 3rd year PhD student at the University of Illinois working with Andrew Miller in the Decentralized Systems Lab.'
+  
   -
     name: 'Soumya Basu'
     pic: soumya.jpg
@@ -212,6 +221,7 @@ students:
     email: 'soumya@cs.cornell.edu'
     weburl: 'http://www.soumyabasu.com'
     bio: "Soumya Basu is a graduate student in Cornell CS working with Emin Gün Sirer. He is primarily looking at how to provide strong security guarantees in blockchain technology without sacrificing performance. He also spends some time looking at the financial incentives involved in decentralized cryptocurrencies. For more up to date information, please visit his website."
+  
   -
     name: 'Burcu Canakci'
     pic: raptor2.jpg
@@ -227,6 +237,7 @@ students:
     email: enis.alp@epfl.ch
     weburl:
     bio: "Ceyhun is a fifth year PhD student at the Swiss Federal Institute of Technology in Lausanne (EPFL), Switzerland, under the supervision of Prof. Bryan Ford. His research interests are in distributed systems, smart contracts, and security.\n"
+  
   -
     name: 'Philip Daian'
     pic: phil.jpg
@@ -234,6 +245,7 @@ students:
     email:
     weburl: 'https://pdaian.com/'
     bio: "Philip Daian is a Computer Science graduate student at Cornell University. He brings experience in the formal verification and automotive domains, and looks forward to building the next generation of efficient and open financial cryptosystems.\n"
+  
   -
     name: 'Naomi Ephraim'
     pic: naomi.jpg
@@ -241,6 +253,7 @@ students:
     email: nephraim@cs.cornell.edu
     weburl:
     bio: "Naomi Ephraim is a fifth year graduate student at Cornell University. Her research interests are in theoretical cryptography.\n"
+  
   -
     name: 'Kasra Edalat Nejad'
     pic: kedalat.jpg
@@ -248,6 +261,7 @@ students:
     email: kasra.edalat@epfl.ch
     weburl: 'http://ce.sharif.edu/~kedalat/'
     bio: "Kasra Edalat Nejad is a Ph.D. student at EPFL. His research interests span the areas of privacy and security.\n"
+  
   -
     name: 'Nicolas Gailly'
     pic: ngailly.jpg
@@ -255,6 +269,7 @@ students:
     email: nicolas.gailly@epfl.ch
     weburl:
     bio: "Nicolas was a software engineer before enrolling as a doctoral student at EPFL working in the decentralized systems group DEDIS. His research interests are decentralized systems & applied cryptography.\n"
+  
   -
     name: 'Cody Freitag'
     pic: cfreitag.jpg
@@ -270,6 +285,7 @@ students:
     email:
     weburl:
     bio: "Yue Guo is a first year PhD student at Cornell University Computer Science Department. She is interested in cryptography and system security.\n"
+  
   -
     name: 'Yan Ji'
     pic: yanji.jpg
@@ -277,6 +293,7 @@ students:
     email:
     weburl:
     bio: "Yan Ji is a Computer Science graduate student at Cornell University. She is interested in blockchain technologies and other areas intersecting security, applied cryptography and distributed systems."
+  
   -
     name: 'Krishna Deepak Maram'
     pic: deepak.jpg
@@ -308,6 +325,7 @@ students:
     email: sandra.siby@epfl.ch
     weburl:
     bio: "Sandra is a third year graduate student at EPFL. She is interested in network security, web security, and privacy.\n"
+  
   -
     name: 'Itay Tsabary'
     pic: itay.jpg
@@ -315,6 +333,7 @@ students:
     email:
     weburl:
     bio: "Itay Tsabary is a graduate student at the Technion. He is interested in distributed systems, cryptocurrencies and game theory.\n"
+  
   -
     name: 'Karl W&uuml;st'
     pic: kwuest.jpg
@@ -322,6 +341,7 @@ students:
     email: karl.wuest@inf.ethz.ch
     weburl: 'http://www.syssec.ethz.ch/people/kwuest.html'
     bio: "Karl is a PhD student in the System Security Group at ETH Zurich. His main research interest is blockchain technology with a focus on security and privacy.\n"
+  
   -
     name: 'Haaroon Yousaf'
     pic: hyousaf.jpg
@@ -329,6 +349,7 @@ students:
     email: h.yousaf@ucl.ac.uk
     weburl: 'http://www.haaroonyousaf.com/'
     bio: "Haaroon is a first year Computer Science Ph.D student at University College London working with Sarah Meiklejohn and Jens Groth. He is researching Security, Cryptocurrencies and Underground Markets.\n"
+  
   -
     name: 'Tom Yurek'
     pic: tyurek.jpg
@@ -336,6 +357,7 @@ students:
     email: yurek2@illinois.edu
     weburl:
     bio: "Tom Yurek is a PhD student at UIUC working with Andrew Miller. He is interested in Privacy and Applied Cryptography."
+  
   -
     name: 'Lun Wang'
     pic: lunwang.png
@@ -375,6 +397,7 @@ students:
     email: roi.bar-zur@cs.technion.ac.il
     weburl:
     bio: "Roi Bar Zur is a graduate student at the Technion. He is interested in cryptocurrencies, game theory, and reinforcement learning."
+  
   -
     name: 'Charlie Hou'
     pic: charlie-hou.jpg
@@ -578,6 +601,7 @@ fellows:
     email: imiers@umd.edu
     weburl: 'https://www.cs.umd.edu/~imiers/'
     bio: "Ian Miers is an Assistant Professor of Computer Science at the University of Maryland. His research focuses on solving real world security issues using cryptography. He is one of the cofounders of Zcash, a privacy preserving cryptocurrency based on his work on Zerocash. His work has been featured in The Washington Post, The New York Times, Wired, and The Economist. It has also been denounced in at least two op-eds.\n"
+  
   -
     name: 'Ahmed Kosba'
     pic: ahmed.png
@@ -585,6 +609,7 @@ fellows:
     email:
     weburl: 'http://akosba.github.io'
     bio: "Ahmed Kosba is an assistant professor at the Computer and Systems Engineering Department at the Faculty of Engineering at Alexandria University. His reseach interests are in the areas of applied cryptography and security, with a focus on verifiable computation, zero-knowledge proofs and blockchains.\n"
+  
   -
     name: 'Isaac Sheff'
     pic: isaac.jpg
@@ -592,6 +617,7 @@ fellows:
     email: isaac@heliax.dev
     weburl: 'https://isaacsheff.com'
     bio: "Isaac Sheff is a Computer Science Post-Doc at MPI-SWS. His research is primarily in distributed systems, with emphasis on security and heterogeneous trust.\n"
+  
   -
     name: 'Ekaterina Volkova'
     pic: ekaterina.jpg
@@ -599,6 +625,7 @@ fellows:
     email: ekaterina.volkova@unimelb.edu.au
     weburl: 'https://sites.google.com/view/evolkova'
     bio: "Ekaterina is a Senior Lecturer (Assistant Professor) in the University of Melbourne, Finance Department. Prior to joining the program in 2012, Ekaterina graduated from Moscow State University with MA in Mathematics and from New Economic School with MA in Economics.\n"
+  
   -
     name: 'Raymond Cheng'
     pic: rcheng.jpg
@@ -606,6 +633,7 @@ fellows:
     email: me@raymondcheng.net
     weburl: 'https://raymondcheng.net/about/'
     bio: "Raymond Cheng is a research scientist, entrepreneur, open source software developer, and adjunct professor, who is passionate about building technology that improves the lives and freedoms of internet users. He has made contributions in a wide range of areas in distributed systems and security, including data privacy, secure computing, blockchains, and scalable network systems.\n"
+  
   -
     name: 'Fan Zhang'
     pic: fan.jpg
@@ -613,6 +641,7 @@ fellows:
     email: fanz@cs.duke.edu
     weburl: 'http://fanzhang.me'
     bio: "Fan Zhang is an incoming Assistant Professor in Computer Science at Duke University starting Fall of 2021. He is currently a security researcher at Chainlink Labs. His research primarily focuses on security/privacy/scalability problems in decentralized systems, especially those enabled by blockchain protocols and trusted execution environments (TEEs).\n"
+  
   -
     name: 'Kai Mast'
     pic: kai.png
@@ -620,6 +649,7 @@ fellows:
     email: kaimast@cs.wisc.edu
     weburl: 'http://kai-mast.de/'
     bio: "Kai Mast is postdoctoral scholar in Computer Science at the University of Wisconsin in Madison. Hid research focuses on Byzantine fault-tolerant systems and databases.\n"
+  
   -
     name: 'Charles Chao Kang'
     pic: kang.jpg
@@ -643,6 +673,7 @@ fellows:
     email:
     weburl: 'http://www.cs.cornell.edu/~ethan/'
     bio: "Ethan Cecchetti will be joining the Maryland Cybersecurity Center at the University of Maryland as a post-doc in September 2021. He is interested in a wide range of research related to security and cryptography.\n"
+  
   -
     name: 'Joshua Gancher'
     pic: josh.png
@@ -650,6 +681,7 @@ fellows:
     email: jgancher@andrew.cmu.edu
     weburl: 'https://gancher.dev/'
     bio: "Joshua Gancher is a post-doc at Carnegie Mellon University. His research is about using techniques from formal methods and program verification to certify cryptographic implementations and proofs.\n"
+  
   -
     name: 'Philipp Jovanovic'
     pic: philipp-jovanovic.jpg
@@ -709,22 +741,6 @@ alumni_students:
     bio: "Shehar Bano is a Research Scientist in Novi (Facebook) based in London. She is also a visiting researcher at the Department of Computer Science and Technology, University of Cambridge. Shehar's research interests centre on networked and distributed systems, particularly in the context of security and performance. Her key areas of research include blockchains, information control (censorship & discrimination), internet measurement, and malware and intrusion detection.\n"
 
   -
-    name: 'Philipp Jovanovic'
-    pic: philipp-jovanovic.jpg
-    title:
-    email: p.jovanovic@ucl.ac.uk
-    weburl: 'https://zerobyte.io/'
-    bio: "Philipp Jovanovic is an Associate Professor in Information Security at University College London. Philipp's interests broadly include applied cryptography, information security, and decentralized systems. His research mission is to develop, analyze, and deploy scalable, privacy-enhancing, decentralized trust technologies that serve the end users and help to promote anti-fragile ecosystems.\n"
-
-  -
-    name: 'Ian Miers'
-    pic: imiers.jpg
-    title:
-    email: imiers@umd.edu
-    weburl: 'https://www.cs.umd.edu/~imiers/'
-    bio: "Ian Miers is an Assistant Professor of Computer Science at the University of Maryland. His research focuses on solving real world security issues using cryptography. He is one of the cofounders of Zcash, a privacy preserving cryptocurrency based on his work on Zerocash. His work has been featured in The Washington Post, The New York Times, Wired, and The Economist. It has also been denounced in at least two op-eds.\n"
-
-  -
     name: 'Alex Manuskin'
     pic: manuskin.jpg
     title:
@@ -747,6 +763,7 @@ alumni_students:
     email:
     weburl: 'http://github.com/lorenzb'
     bio: "Lorenz is a security researcher at Chainlink Labs.\n"
+ 
   -
     name: 'Sergi Delgado Segura'
     pic: sdelgado.jpg
@@ -754,6 +771,7 @@ alumni_students:
     email: mail@srgi.me
     weburl: 'http://srgi.me'
     bio: "Sergi is the CEO of Talaia Labs. He is currently building The Eye of Satoshi. His research interest lies on Bitcoin, networks, and privacy.\n"
+  
   -
     name: 'Ayush Dubey'
     pic: ayush.jpg
@@ -761,6 +779,7 @@ alumni_students:
     email: ayush@ayushdubey.com
     weburl: 'http://ayushdubey.com/'
     bio: "Ayush Dubey is a Software Engineer with TensorFlow, focusing on distributed runtime and performance. He completed his PhD in Computer Science in 2017 at  Cornell University.\n"
+  
   -
     name: 'Lefteris Kokoris Kogias'
     pic: lkokoris.jpg
@@ -768,27 +787,7 @@ alumni_students:
     email: ekokoris@ist.ac.net
     weburl: 'https://lefteriskk.github.io'
     bio: "Lefteris is Research Scientist at Novi working on Decentralized Systems, Applied Cryptography and Distributed Computing. He will be joining IST Austria as an Assistant Professor in September 2021.\n"
-  -
-    name: 'Ahmed Kosba'
-    pic: ahmed.png
-    title:
-    email:
-    weburl: 'http://akosba.github.io'
-    bio: "Ahmed Kosba is an assistant professor at the Computer and Systems Engineering Department at the Faculty of Engineering at Alexandria University. His reseach interests are in the areas of applied cryptography and security, with a focus on verifiable computation, zero-knowledge proofs and blockchains.\n"
-  -
-    name: 'Isaac Sheff'
-    pic: isaac.jpg
-    title:
-    email: isheff@mpi-sws.org
-    weburl: 'https://isaacsheff.com'
-    bio: "Isaac Sheff is a Computer Science Post-Doc at MPI-SWS. His research is primarily in distributed systems, with emphasis on security and heterogeneous trust.\n"
-  -
-    name: 'Ekaterina Volkova'
-    pic: ekaterina.jpg
-    title:
-    email: ekaterina.volkova@unimelb.edu.au
-    weburl: 'https://sites.google.com/view/evolkova'
-    bio: "Ekaterina is a Senior Lecturer (Assistant Professor) in the University of Melbourne, Finance Department. Prior to joining the program in 2012, Ekaterina graduated from Moscow State University with MA in Mathematics and from New Economic School with MA in Economics.\n"
+  
   -
     name: 'Sinisa Matetic'
     pic: smatetic.png
@@ -796,21 +795,7 @@ alumni_students:
     email: sinisa.matetic@inf.ethz.ch
     weburl:
     bio: "Sinisa Matetic is research scientist at ETH Zurich. He was born in Split, Croatia. Prior to joining ETH Zurich, he worked as a Management Consultant at A.T. Kearney in the SEE region. Sinisa's research interest are in system security focusing on distributed systems, trusted hardware, blockchain-based technology design and integrity protection."
-  -
-    name: 'Raymond Cheng'
-    pic: rcheng.jpg
-    title:
-    email: me@raymondcheng.net
-    weburl: 'https://raymondcheng.net/about/'
-    bio: "Raymond Cheng is a research scientist, entrepreneur, open source software developer, and adjunct professor, who is passionate about building technology that improves the lives and freedoms of internet users. He has made contributions in a wide range of areas in distributed systems and security, including data privacy, secure computing, blockchains, and scalable network systems.\n"
-  -
-    name: 'Fan Zhang'
-    pic: fan.jpg
-    title:
-    email: fanz@cs.duke.edu
-    weburl: 'http://fanzhang.me'
-    bio: "Fan Zhang is an incoming Assistant Professor in Computer Science at Duke University starting Fall of 2021. He is currently a security researcher at Chainlink Labs. His research primarily focuses on security/privacy/scalability problems in decentralized systems, especially those enabled by blockchain protocols and trusted execution environments (TEEs).\n"
-
+  
   -
     name: 'Amani Moin'
     pic: amoin.jpg
@@ -818,14 +803,6 @@ alumni_students:
     email: aum4@cornell.edu
     weburl: 'https://amanium.github.io/'
     bio: "Amani is PhD candidate in Economics with research in Corporate Finance and Financial Technology. She is also the Cheif Cryptoeconomist at AVA Labs.  Her research interests are in empirical corporate finance, machine learning, and cryptocurrencies.\n"
-
-  -
-    name: 'Kai Mast'
-    pic: kai.png
-    title:
-    email: kaimast@cs.wisc.edu
-    weburl: 'http://kai-mast.de/'
-    bio: "Kai Mast is postdoctoral scholar in Computer Science at the University of Wisconsin in Madison. Hid research focuses on Byzantine fault-tolerant systems and databases.\n"
 
   -
     name: 'Adem Efe Gencer'
@@ -852,44 +829,12 @@ alumni_students:
     bio: "Yael Doweck is a graduate student at the Technion. She is interested in distributed systems, cryptocurrencies and cryptocurrency exchanges.\n"
 
   -
-    name: 'Charles Chao Kang'
-    pic: kang.jpg
-    title:
-    email: chaokang123@gmail.com
-    weburl:
-    bio: "Charles Chao Kang is an incoming assistant professor at HKU Business School, the University of Hong Kong. Before that he was a doctoral student in Management (accounting, finance) at Cornell University. His research interests include information intermediaries, financial reporting, corporate governance, and cryptocurrencies."
-
-  - 
-    name: 'Ni Trieu'
-    pic: NiTrieu.jpg
-    title:
-    email: nitrieu@asu.edu
-    weburl: 'https://nitrieu.github.io/'
-    bio: "Ni Trieu is an Assistant Professor of computer science at Arizona State University. Her research interests are in cryptography and security, with a specific focus on secure computation and its applications such as private set intersection, private database queries, and privacy-preserving machine learning."
-
-  -
-    name: 'Ethan Cecchetti'
-    pic: ethan.png
-    title:
-    email:
-    weburl: 'http://www.cs.cornell.edu/~ethan/'
-    bio: "Ethan Cecchetti will be joining the Maryland Cybersecurity Center at the University of Maryland as a post-doc in September 2021. He is interested in a wide range of research related to security and cryptography.\n"
-
-  -
     name: 'Kevin Sekniqi'
     pic: kevinsekniqi.jpg
     title:
     email: kevin@sekniqi.com
     weburl: 'https://sekniqi.com/'
     bio: 'Kevin Sekniqi is COO at Ava Labs.'
-
-  -
-    name: 'Joshua Gancher'
-    pic: josh.png
-    title:
-    email: jgancher@andrew.cmu.edu
-    weburl: 'https://gancher.dev/'
-    bio: "Joshua Gancher is a post-doc at Carnegie Mellon University. His research is about using techniques from formal methods and program verification to certify cryptographic implementations and proofs.\n"
 
   -
     name: 'Maofan (Ted) Yin'
