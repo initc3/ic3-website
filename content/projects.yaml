@@ -176,7 +176,7 @@ projects:
      description: Multi-Party Computation (MPC) is a flexible paradigm for computing on confidential data. HoneyBadgerMPC is an asynchronous MPC protocol and implementation that scales to large networks and provides blockchain-grade fault tolerance and availability guarantees. For more info, please see <a href="https://github.com/initc3/HoneyBadgerMPC/"> https://github.com/initc3/HoneyBadgerMPC/</a>
      
   -   
-     name: 'I Can't Believe It's Not Stake'
+     name: "I Can't Believe It's Not Stake"
      challenges: [*scaling, *correctness]
      description: Dozens of Proof-of-Stake cryptocurrencies are vulnerable to resource exhaustion attacks due to incomplete validation of blocks prior to allocating storage resources (disk, memory) to data from untrusted peers.
      
