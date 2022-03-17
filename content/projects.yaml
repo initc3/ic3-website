@@ -259,9 +259,9 @@ projects:
      description: Incentive analysis in a PoW cryptocurrency, where transaction fees play a dominant role. We analyze suck systems as a game and show (&quot;mining gaps&quot;) occur - periods of time where miners are incentivized to be idle instead of actively mining. We also show in such systems, miners are better off forming coalitions, which leads to a centralized system. For more info, please see our <a href="https://dl.acm.org/citation.cfm?id=3243737">paper<a/>.
      
   -
-    name: 'H y d r a'
+    name: "H y d r a"
     challenges: [*correctness]
-    description: Hydra is a cutting-edge Ethereum contract development framework for descentralized security and bug bounties rigorous cryptoeconomic security guarantees mitigating programmer and compiler error.
+    description: This is a cutting-edge Ethereum contract development framework for descentralized security and bug bounties rigorous cryptoeconomic security guarantees mitigating programmer and compiler error. For more info, please our <a href="https://eprint.iacr.org/2017/1090.pdf">paper</a>.
     
   -  
     name: 'The Hydra Project'
