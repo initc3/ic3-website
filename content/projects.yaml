@@ -258,11 +258,6 @@ projects:
      name: 'The Gap Game'
      description: Incentive analysis in a PoW cryptocurrency, where transaction fees play a dominant role. We analyze suck systems as a game and show (&quot;mining gaps&quot;) occur - periods of time where miners are incentivized to be idle instead of actively mining. We also show in such systems, miners are better off forming coalitions, which leads to a centralized system. For more info, please see our <a href="https://dl.acm.org/citation.cfm?id=3243737">paper<a/>.
 
-
-
-
-
-
   -  
     name: 'The Hydra Project'
     challenges: [*correctness]
