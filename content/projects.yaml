@@ -259,17 +259,17 @@ projects:
      description: Incentive analysis in a PoW cryptocurrency, where transaction fees play a dominant role. We analyze suck systems as a game and show (&quot;mining gaps&quot;) occur - periods of time where miners are incentivized to be idle instead of actively mining. We also show in such systems, miners are better off forming coalitions, which leads to a centralized system. For more info, please see <a href="https://dl.acm.org/citation.cfm?id=3243737"> https://dl.acm.org/citation.cfm?id=3243737<a/>
      
   -
-    name: 'The Hydra Project'
+    name: "The Hydra Project"
     challenges: [*correctness]
-    description: <a href="https://thehydra.io/">Hydra</a> is a cutting-edge Ethereum contract development framework for decentralized security and bug bounties rigorous cryptoeconomic security guarantees mitigating programmer and compiler error.
+    description: <a href="https://eprint.iacr.org/2017/1090.pdf">Hydra</a> is a cutting-edge Ethereum contract development framework for decentralized security and bug bounties rigorous cryptoeconomic security guarantees mitigating programmer and compiler error.
 
   -
-    name: 'Solidus: Confidential Financial Transaction Settlement on a Distributed Ledgers'
+    name: "Solidus: Confidential Financial Transaction Settlement on a Distributed Ledgers"
     challenges: [*scaling, *confidentiality]
     description: Solidus is a cryptocurrency (&quot;blockchain&quot;) that can be run by a confederation or consortium of trustworthy entities-- -banks, governments, auditors, etc. While it retains some of the benefits of decentralization, Solidus offers higher performance and tighter governance and control than existing cryptocurrencies such as Bitcoin. Many successful peer-to- peer technologies have historically been eclipsed or supplanted by centralized or commercial systems (e.g., in the online music industry). Solidus addresses the possibility and desire by many financial institutions that cryptocurrencies and contracts will follow a similar path. For more info, please see the Solidus presentation at our <a href="http://www.initc3.org/events/2016-05-17-IC3-Retreat-2016.html">2016 IC3 Retreat (https://tinyurl.com/ic3retreat)</a> in NYC.
 
   -
-    name: 'Bitcoin-NG: A Next-generation Blockchain Protocol'
+    name: "Bitcoin-NG: A Next-generation Blockchain Protocol"
     challenges: [*scaling]
     description: Bitcoin-NG is a new protocol pioneered by IC3. It addresses the scalability bottleneck of Bitcoin by enabling the Bitcoin network to achieve the highest throughput allowed by the network conditions. Paradoxically, not only does it improve transaction throughput, it also reduces transaction latencies -- it is possible to get an initial transaction confirmation in seconds rather than in minutes. And it does so without changing Bitcoin’s open architecture and trust model. Our blockchain test bed Miniature World simulated Bitcoin-NG at 15% the size of the operational Bitcoin system, where we showed that Bitcoin–NG is only limited by the network. For more info, please see our <a href="http://arxiv.org/abs/1510.02037">paper (http://arxiv.org/abs/1510.02037)</a>.
 
