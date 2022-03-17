@@ -256,9 +256,14 @@ projects:
      
   -   
      name: 'The Gap Game'
-     description: Incentive analysis in a PoW cryptocurrency, where transaction fees play a dominant role. We analyze suck systems as a game and show (&quot;mining gaps&quot;) occur - periods of time where miners are incentivized to be idle instead of actively mining. We also show in such systems, miners are better off forming coalitions, which leads to a centralized system. For more info, please see <a href="https://dl.acm.org/citation.cfm?id=3243737"> https://dl.acm.org/citation.cfm?id=3243737<a/>
+     description: Incentive analysis in a PoW cryptocurrency, where transaction fees play a dominant role. We analyze suck systems as a game and show (&quot;mining gaps&quot;) occur - periods of time where miners are incentivized to be idle instead of actively mining. We also show in such systems, miners are better off forming coalitions, which leads to a centralized system. For more info, please see our <a href="https://dl.acm.org/citation.cfm?id=3243737">paper<a/>.
      
   -
+    name: 'Hydra'
+    challenges: [*correctness]
+    description: Hydra is a cutting-edge Ethereum contract development framework for descentralized security and bug bounties rigorous cryptoeconomic security guarantees mitigating programmer and compiler error. For more info, please see <a href="https://eprint.iacr.org/2017/1090.pdf>paper<a/>.
+    
+  -  
     name: 'The Hydra Project'
     challenges: [*correctness]
     description: <a href="https://eprint.iacr.org/2017/1090.pdf">Hydra</a> is a cutting-edge Ethereum contract development framework for decentralized security and bug bounties rigorous cryptoeconomic security guarantees mitigating programmer and compiler error.
@@ -273,7 +278,8 @@ projects:
     challenges: [*scaling]
     description: Bitcoin-NG is a new protocol pioneered by IC3. It addresses the scalability bottleneck of Bitcoin by enabling the Bitcoin network to achieve the highest throughput allowed by the network conditions. Paradoxically, not only does it improve transaction throughput, it also reduces transaction latencies -- it is possible to get an initial transaction confirmation in seconds rather than in minutes. And it does so without changing Bitcoin’s open architecture and trust model. Our blockchain test bed Miniature World simulated Bitcoin-NG at 15% the size of the operational Bitcoin system, where we showed that Bitcoin–NG is only limited by the network. For more info, please see our <a href="http://arxiv.org/abs/1510.02037">paper (http://arxiv.org/abs/1510.02037)</a>.
 
-  - name: 'Miniature World: A Test Bed for Simulating Real World Blockchain'
+  - 
+    name: 'Miniature World: A Test Bed for Simulating Real World Blockchain'
     challenges: [*scaling]
     description: Miniature World is a large blockchain emulation test bed at Cornell University consisting of ~1000 nodes. This test bed enables us to run experiments on different blockchains, and a variety of use cases, using realistic internet latencies to evaluate real world scenarios (as referenced above for Bitcoin-NG). We make Miniature World available for our Industry Sponsors to evaluate various block chains and their use cases. For more info about becoming an IC3 Industry Sponsor, please see <a href="http://www.initc3.org/partners.html">http://www.initc3.org/partners.html</a>.
 
