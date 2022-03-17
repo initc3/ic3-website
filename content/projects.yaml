@@ -257,9 +257,14 @@ projects:
   -   
      name: 'The Gap Game'
      description: Incentive analysis in a PoW cryptocurrency, where transaction fees play a dominant role. We analyze suck systems as a game and show (&quot;mining gaps&quot;) occur - periods of time where miners are incentivized to be idle instead of actively mining. We also show in such systems, miners are better off forming coalitions, which leads to a centralized system. For more info, please see our <a href="https://dl.acm.org/citation.cfm?id=3243737">paper<a/>.
+
+  -  
+     name: 'Ostraka Hydra'
+     challenges: [*scaling]
+     description: Currently, the capacity of a blockchain node can only scale by replacing hardware. For better performance, one must obtain newer hardware. Node capacity effects both initial sync time and block propagation time in the network. We utilize the parallel nature of the UTXO set to build a scalable node architecture.
      
   -
-    name: 'Hydra'
+    name: 'Enter the Hydra'
     challenges: [*correctness]
     description: Hydra is a cutting-edge Ethereum contract development framework for descentralized security and bug bounties rigorous cryptoeconomic security guarantees mitigating programmer and compiler error. For more info, please see <a href="https://eprint.iacr.org/2017/1090.pdf>paper<a/>.
     
