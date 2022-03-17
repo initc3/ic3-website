@@ -259,9 +259,9 @@ projects:
      description: Incentive analysis in a PoW cryptocurrency, where transaction fees play a dominant role. We analyze suck systems as a game and show (&quot;mining gaps&quot;) occur - periods of time where miners are incentivized to be idle instead of actively mining. We also show in such systems, miners are better off forming coalitions, which leads to a centralized system. For more info, please see <a href="https://dl.acm.org/citation.cfm?id=3243737"> https://dl.acm.org/citation.cfm?id=3243737<a/>
      
   -
-    name: "The Hydra Project"
+    name: 'The Hydra Project'
     challenges: [*correctness]
-    description: <a href='https://thehydra.io/'>Hydra</a> is a cutting-edge Ethereum contract development framework for decentralized security and bug bounties rigorous cryptoeconomic security guarantees mitigating programmer and compiler error.
+    description: <a href="https://thehydra.io/">Hydra</a> is a cutting-edge Ethereum contract development framework for decentralized security and bug bounties rigorous cryptoeconomic security guarantees mitigating programmer and compiler error.
 
   -
     name: 'Solidus: Confidential Financial Transaction Settlement on a Distributed Ledgers'
@@ -301,8 +301,8 @@ projects:
   -
      name: "Hawk: Privacy-Preserving Blockchain &amp; Smart Contracts"
      challenges: [*correctness, *confidentiality]
-     description: Existing blockchain-based cryptocurrencies such as Bitcoin and Ethereum store all financial transactions in the clear on the blockchain. This compromises the privacy of financial transactions, which is essential in numerous applications. Hawk is a blockchain-based smart contract system that stores encrypted transactions on the blockchain, and relies on cryptography to retain the security of the cryptocurrency. For more info, please see <a href="http://oblivm.com/hawk">http://oblivm.com/hawk</a>.
-
+     description: Existing blockchain-based cryptocurrencies such as Bitcoin and Ethereum store all financial transactions in the clear on the blockchain. This compromises the privacy of financial transactions, which is essential in numerous applications. Hawk is a blockchain-based smart contract system that stores encrypted transactions on the blockchain, and relies on cryptography to retain the security of the cryptocurrency. For more info, please see <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7546538">paper</a>.
+   
   -
      name: "Town Crier: Authenticated Data Feeds for Smart Contracts"
      challenges: [*confidentiality, *adf, *migration]
