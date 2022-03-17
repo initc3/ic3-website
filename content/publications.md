@@ -121,10 +121,10 @@
 - E. Zhai, D.I. Wolinsky, R. Chen, E. Syta, C. Teng and B. Ford. [AnonRep: Towards Tracking-Resistant Anonymous Reputation](http://bford.info/pub/dec/anonrep.pdf). In USENIX NSDI, 2016.
 - E. Syta, I. Tamas, D. Visher, D.I. Wolinsky, P. Jovanovic, L. Gasser, N. Gailly, I. Khoffi and B. Ford. [Keeping Authorities “Honest or Bust” with Decentralized Witness Cosigning](http://dedis.cs.yale.edu/dissent/papers/witness.pdf). In IEEE Symposium on Security and Privacy, 2016.
 - E.K. Kogias, P. Jovanovic, N. Gailly, I. Khoffi, L. Gasser and B. Ford. [Enhancing Bitcoin Security and Performance with Strong Consistency via Collective Signing](http://bford.info/pub/dec/byzcoin.pdf). In USENIX Security Symposium, 2016.
+- A. Kosba, A. Miller, E. Shi, Z. Wen and C. Papamanthou. [Hawk: The Blockchain Model of Cryptography and Privacy-Preserving Smart Contracts.](https://eprint.iacr.org/2015/675.pdf) IEEE S&P, 2016.
 
 ## 2015 and Older ##
 
-- A. Kosba, A. Miller, E. Shi, Z. Wen and C. Papamanthou. [Hawk: The Blockchain Model of Cryptography and Privacy-Preserving Smart Contracts.](https://eprint.iacr.org/2015/675.pdf) IEEE S&P, 2015.
 - A. Miller, A. Kosba, J. Katz, E. Shi. [Nonoutsourceable Scratch-Off Puzzles to Discourage Bitcoin Mining Coalitions.](https://cs.umd.edu/~amiller/nonoutsourceable_full.pdf) ACM CCS 2015.
 - A. Kiayias, Q.Tang. Traitor-deterring Schemes: Using Bitcoin as Collateral for Digital Contents. ACM CCS, 2015
 - R. Pass and a. shelat. [Micropayments for Decentralized Currencies](files/micropay2.pdf). ACM CCS, 2015.
