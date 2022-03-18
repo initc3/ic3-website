@@ -574,6 +574,14 @@ students:
     weburl: "https://chunghao.github.io/"
     bio: "Hao Chung is a Ph.D. student at Carnegie Mellon University, where he is advised by Elaine Shi. He is broadly interested in cryptography, especially in the intersection between crypto and game theory."
     
+  - 
+    name: 'Benjamin Y. Chan'
+    pic: Benjamin.png
+    title:
+    email: byc25@cornell.edu
+    weburl: "https://www.cs.cornell.edu/~byc/"
+    bio: "Benjamin is a third year graduate student at Cornell University. His research interests span theoretical cryptography and the design of distributed protocols. Previously, he was an engineer at Algorand working on consensus."
+    
 researchers:
 
   -
