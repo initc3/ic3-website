@@ -119,11 +119,6 @@ projects:
      name: 'Selfish Mining Re-examined'
      challenges: [*compliance]
      description: This project revisits the selfish mining (SM) strategy in two ways. First, we present a modified SM strategy, convert selfish mining, that, perplexingly, is more profitable than Nakamoto even when the attacker performs no selfish mining after a difficulty adjustment. This strategy has the added benefit that it is even harder to detect than pure SM, and may additionally increase token value through deflation. Second, we analyze the profitability of SM under several difficulty adjustment schemes.
-     
-  -
-     name: 'Autonomous Blockchains'
-     challenges: [*scaling]
-     description: Autonomous blockchains are a new blockchain architecture based on free-standing, immutable, eidetic databases that implement independent timelines, linked together through interactions. Autonomous blockchains can be realized inside trusted execution environments, to provide not only blockchain-like integrity and auditability guarantees, but also support the storage and querying of private data. For more info, please see <a href="https://credb.systems/"> https://credb.systems/</a>
           
   -
      name: 'T-Rex'
@@ -284,11 +279,6 @@ projects:
     description: Most of today's blockchains, such as Bitcoin, are not "incentive compatible", meaning they are quite vulnerable to strategic gaming by dishonest adversaries. For example, IC3 has proven that the Bitcoin blockchain can be compromised by miners or mining pools with much less than 50% of the mining hash power. Fruitchain is an innovative blockchain methodology that discourages dishonest gaming, by making it extremely unprofitable for an adversary with less than 50% of the hash power, achieving an epsilon-equilibrium or near-Nash equilibrium. For more info, please see the Fruitchain presentation by IC3 co-director Professor Elaine Shi at our <a href="http://www.initc3.org/events/2016-05-17-IC3-Retreat-2016.html">2016 IC3 Retreat (https://tinyurl.com/ic3retreat)</a> in NYC.
 
   -
-    name: 'Falcon Network: A High-Performance, Wide Area Interconnect for Blockchains'
-    challenges: [*scaling]
-    description: The Falcon Network achieves gains over current approaches through minimal validation and cut-through routing. No special software is required on clients, and it is fundamentally faster than all other known techniques. For more info, please see <a href="http://www.falcon-net.org">http://www.falcon-net.org</a>.
-
-  -
     name: 'FLAC: A Calculus for Flow-Limited Authorization'
     challenges: [*correctness]
     description: Real-world applications routinely make authorization decisions based on dynamic computation. Integrity of the system might be compromised if attackers can improperly influence the authorizing computation. Confidentiality can also be compromised by authorization, since authorization decisions are often based on sensitive data such as membership lists and passwords. Flow-Limited Authorization Calculus (FLAC) is both a simple, expressive model for reasoning about dynamic authorization and also a language for securely implementing various authorization mechanisms. FLAC provides strong end-to- end information security guarantees even for programs that incorporate and implement rich dynamic authorization mechanisms. For more info, please see the presentation by Professor Andrew Myers “Verifying Information Security of Code in Dynamic Systems” at our <a href="http://www.initc3.org/events/2016-05-17-IC3-Retreat-2016.html">2016 IC3 Retreat (https://tinyurl.com/ic3retreat)</a> in NYC.
@@ -312,11 +302,6 @@ projects:
      name: 'Virtual Notary: A Free and Secure Electronic Attestation Service'
      challenges: [*adf]
      description: Virtual Notary is a service for attesting to online factoids. Virtual Notary issues both freestanding certificates as well as immutable records on the Bitcoin blockchain. It has been operational for more than 3 years, and certified more than 600,000 factoids. For more info, please see <a href="http://virtual-notary.org">http://virtual-notary.org</a>.
-
-  -
-     name: 'EtherScrape: A Complementary Block Explorer for the Ethereum Blockchain'
-     challenges: [*adf]
-     description: Smart Contracts in Ethereum are written in a high-level programming language (typically Serpent or Solidity) and then compiled down to bytecode for the Ethereum virtual machine. This compilation step removes a lot of the useful information found in the high level source code, such as comments, names of variables, etc. If you can identify the high-level source code for a contract, you have a better chance of figuring out what it does. EtherScrape uses fingerprinting to match each smart contract on the blockchain (that is, the compiled bytecode) to the high-level source code that created it. For more info, please see <a href="http://etherscrape.com">http://etherscrape.com</a>.
 
   -
      name: 'Gyges: Crime in Decentralized Smart Contracts'
