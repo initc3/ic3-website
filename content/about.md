@@ -63,7 +63,7 @@ IC3 has created for program chairs and other interested colleagues the following
 ## Contact
 
 For inquiries, please email the IC3 directors through
-    <a href="mailto:ic3-directors-l@cornell.edu">ic3-directors-l@cornell.edu</a>.
+    <a href="ic3-directors-l@cornell.edu">ic3-directors-l@cornell.edu</a>.
     
 Want to be added to our email list? Register <a href="https://forms.gle/T1Ejcf5DPJ28erYe6">here</a>.
 
