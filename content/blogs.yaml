@@ -146,6 +146,13 @@
  authors: Ittay Eyal and Ittai Abraham
  summary: The Selfish mining attack against blockchain protocols was discovered and formalized in 2013 by Eyal and Sirer (also see our <a href="https://decentralizedthoughts.github.io/2020-02-26-selfish-mining">blog post</a>). The Bitcoin community has mentioned similar types of attacks in 2010. This attack remains a vulnerability of all operational blockchains we are aware of. For Bitcoin's blockchain algorithm (under reasonable network assumptions), a coalition controlling over 1/4 of the mining power can improve its revenue using this attack.
  
+-
+ date: 2022-03-21
+ url: https://medium.com/initc3org/copyright-vulnerabilities-in-nfts-317e02d8ae26
+ title: "Copyright Vulnerabilities in NFTs"
+ authors: James Grimmelmann, Yan Ji and Tyler Kell
+ summary: Many NFT and DAOs are designed to provide new or more convenient ways to own and sell creative works. Beeple's EVERYDAYS - The First 5000 days sold at auction for $69 million. Some observers think that the Bored Ape Yacht Club's spectacular rise is due to its permissive copyright approach. Some artists and developers are diving in head-first. 
+ 
  
  
  
