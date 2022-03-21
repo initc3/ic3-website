@@ -57,13 +57,13 @@ IC3 distributes funds internally primarily according to a competitive grant proc
     among IC3 faculty. IC3 Co-Directors meet monthly.
     
 IC3 has created for program chairs and other interested colleagues the following statement on conflicts of interest for 
-    publication submissions: <a
-        href="http://www.initc3.org/policy.html">Policy page</a>
+    publication submissions: <a 
+        href="http://www.initc3.org/policy.html">Policy page</a>.
 
 ## Contact
 
 For inquiries, please email the IC3 directors through
-    <a href="mailto:ic3-directors-l@cornell.edu">ic3-directors-l@cornell.edu</a>.
+    <a href="mailto: ic3-directors-l@cornell.edu">ic3-directors-l@cornell.edu</a>.
     
 Want to be added to our email list? Register <a href="https://forms.gle/T1Ejcf5DPJ28erYe6">here</a>.
 
