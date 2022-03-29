@@ -1,5 +1,10 @@
 # Published Papers
 
+## 2022 ##
+
+- S. Das, T. Yurek, Z. Xiang, A. Miller, L. Kokoris-Kogias, and L. Ren. [Practical Asynchronous Distributed Key Generation](https://eprint.iacr.org/2021/1591.pdf). IEEE S&P, 2022.
+- I. Khaburzaniya, K. Chalkias, K. Lewi, and H. Malvai. [Agreegating and thresholdizing hash-based signatures using STARKs](https://eprint.iacr.org/2021/1048.pdf). ACM ASIA CCS, 2022.
+
 ## 2021 ##
 
 - Y. Liu and R. Pass. [On the Possibility of Basing Cryptography on EXP not equal BPP](https://eprint.iacr.org/2021/535.pdf). Crypto, 2021 (Best Paper Award).
