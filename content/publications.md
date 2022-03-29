@@ -3,7 +3,8 @@
 ## 2022 ##
 
 - S. Das, T. Yurek, Z. Xiang, A. Miller, L. Kokoris-Kogias, and L. Ren. [Practical Asynchronous Distributed Key Generation](https://eprint.iacr.org/2021/1591.pdf). IEEE S&P, 2022.
-- I. Khaburzaniya, K. Chalkias, K. Lewi, and H. Malvai. [Agreegating and thresholdizing hash-based signatures using STARKs](https://eprint.iacr.org/2021/1048.pdf). ACM ASIA CCS, 2022.
+- I. Khaburzaniya, K. Chalkias, K. Lewi, and H. Malvai. [Aggregating and thresholdizing hash-based signatures using STARKs](https://eprint.iacr.org/2021/1048.pdf). ACM ASIA CCS, 2022.
+- I. Eyal. [On cryptocurrency wallet design](https://drops.dagstuhl.de/opus/volltexte/2022/15901/pdf/OASIcs-Tokenomics-2021-4.pdf). ICBE S&P, 2022
 
 ## 2021 ##
 
@@ -21,6 +22,7 @@
 ## 2020 ##
 
 - E. C. Crities, M. Maller, S. Meiklejohn, and R. Mercer. [Reputable List Curation from Decentralized Voting](https://eprint.iacr.org/2020/709.pdf). PETS, 2020.
+- A. Morgan, R. Pass, and A. Polychroniadou. [SPARKs: Succinct Parallelizable Arguments of Knowledge](https://eprint.iacr.org/2019/1341.pdf). EUROCRYPT, 2020.
 - E. Cecchetti, S. Yao, H. Ni, and A. C. Myers. [Securing Smart Contracts with Information Flow](https://www.cs.cornell.edu/~ethan/papers/ifc-contracts-fab20.pdf). FAB, 2020. 
 - R. Bar-Zur, I. Eyal, and A. Tamar. [Efficient MDP Analysis for Self-Mining in Blockchains](https://arxiv.org/pdf/2007.05614.pdf). ACM AFT, 2020.
 - A. Klages-Mundt, D. Harz, L. Gudgeon, J-Y. Liu, and A. Minca. [Stablecoins 2.0: Economic Foundations and Risk-based Models](https://arxiv.org/abs/2006.12388). ACM AFT, 2020.
