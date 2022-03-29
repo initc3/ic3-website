@@ -40,11 +40,6 @@ projects:
      challenges: [*compliance, *migration]
      description: SCIF is a more secure programming language for building smart contracts. It automatically detects use of untrusted information, including vulnerabilities arising from reentrancy nd confused deputies. It provides a strong and decentralized security guarantee, supporting the secure construction of complex, interacting contracts. Link to our <a href="https://www.cs.cornell.edu/~ethan/papers/ifc-contracts-fab20.pdf">paper</a>.
  
-  - 
-     name: 'Hierarchical consensus: a horizontal scaling framework for blockchains'
-     challenges: [*scaling, *compliance]
-     description: We present the Filecoin Hierarchical Consensus framework, which aims to overcome the throughput challenges of blockchain consensus by horizontally scaling the network. Unlike traditional sharding designs, based on partitioning the state of the network, our solution centers on the concepts of subnets-which are organized hierarchically-and can be spawned on-demand to manage new state. Child subnets are firewalled from parent subnets, have their own specific policies, and run a different consensus algorithm, increasing the network capacity and enabling new applications. Moreover, they benefit from the security of parents subnets by periodically checkpointing state. In this paper, we introduce the overall system architecture, our detailed designs for cross-net transaction handling, and the open questions that we are still exploring. Link for our <a href="https://research.protocol.ai/publications/hierarchical-consensus-a-horizontal-scaling-framework-for-blockchains/">paper</a>.
-     
   -
      name: 'Generalized Proof of Liabilities'
      challenges: [*confidentiality, *compliance, *good]
