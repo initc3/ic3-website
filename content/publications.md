@@ -16,6 +16,7 @@
 - E. Cecchetti, S. Yao, H. Ni, and A. C. Myers. [Compositional Security for Reentrant Applications](https://www.cs.cornell.edu/~ethan/papers/serif.pdf). IEEE S&P, 2021 (Best Paper Award).
 - D. Maram, H. Malvai, F. Zhang, N. Jean-Louis, A. Frolov, T. Kell, T. Lobban, C. Moy, A. Juels, and A. Miller. [CanDID: Can-Do Decentralized Identity with Legacy Compatibility, Sybil-Resistance, and Accountability](https://eprint.iacr.org/2020/934.pdf). IEEE S&P, 2021.
 - K. Thomas, D. Akhawe, M. Bailey, D. Boneh, E. Bursztein, S. Consolvo, N. Dell, Z. Durumeric, P. G. Kelley, D. Kumar, D. McCoy, S. Meiklejohn, T. Ristenpart, and G. Stringhini. [SoK: Hate, Harassment, and the Changing Landscape of Online Abuse](https://smeiklej.com/files/oakland21.pdf). IEEE S&P, 2021.
+- A. Judmayer, N. Stifter, A. Zamyatin, I. Tsabary, I. Eyal, P. Gazi, S. Meiklejohn, and E. Weippl. [Pay to Win: Cheap, Cross-Chain Bribing Attacks on PoW Cryptocurrencies](http://eprints.cs.univie.ac.at/7102/1/wtsc21b.pdf). IC Financial Cryptography and Data Security, 2021.
 - G. Kappos, H. Yousaf, A. M. Piotrowska, S. Kanjalkar, S. Delgado-Segura, A. Miller, and S. Meiklejohn. [An Empirical Analysis of Privacy in the Lightning Network](https://smeiklej.com/files/fc21.pdf). FC, 2021.
 - T-H. H. Chan, W-K. Lin, K. Nayak, and E. Shi. [Perfectly Secure Oblivious Parallel RAM with O(log3N/loglogN) Overhead](https://eprint.iacr.org/2020/604). ITC, 2021.
 
