@@ -203,7 +203,7 @@ projects:
   -    
      name: 'Sprites and State Channels'
      challenges: [*compliance, *scaling]
-     description: Off-chain payment channel networks (PCNs) are a leading approach for improving the scalability of blockchains. Sprites is an innovative construction that reduces the worst-case lockup time during which, funds must be held in escrow for a PCN payment. For more info, please see <a href="https://arxiv.org/abs/1702.05812"> https://arxiv.org/abs/1702.05812</a>
+     description: Off-chain payment channel networks (PCNs) are a leading approach for improving the scalability of blockchains. Sprites is an innovative construction that reduces the worst-case lockup time during which, funds must be held in escrow for a PCN payment. For more info, please see our <a href="https://arxiv.org/abs/1702.05812">paper</a>.
      
   -   
      name: 'Bone Crusher 2.0'
@@ -214,11 +214,6 @@ projects:
      name: 'All Smart Contracts Are Ambiguous'
      challenges: [*compliance]
      description: Legal contracts are written in natural language, which can introduce ambiguity as to their meaning. Blockchain-based smart contracts are written in programming languages, which seems to give them precise, objective meanings. But because the semantics of a smart contract can change if participants fork the underlying blockchain or revise its protocol, the meaning of a smart contract is always subject to this latent ambiguity.
-     
-  -  
-     name: 'Disrupting Blockchain Voting'
-     challenges: [*compliance]
-     description: Check back later for more info.
      
   -
      name: 'ByzCoin: Enhancing Bitcoin Security and Performance with Strong Consistency via Collective Signing'
@@ -262,15 +257,16 @@ projects:
   -
      name: 'OmniLedger: A Secure, Scale-Out, Decentralized Ledger via Sharding'
      challenges: [*scaling]
-     description: OmniLedger is a novel scale-out decentralized ledger framework that preserves longterm security under permissionless operation by using bias-resistant public-randomness for choosing large, statistically representative shards that process transactions, and by introducing Atomix, an efficient cross-shard commit protocol, that atomically handles transactions affecting multiple shards. OmniLedger's throughput scales linearly in the number of active validators, supporting Visa-level workloads and beyond, while confirming typical transactions in under two seconds thanks to its low-latency "trust-but-verify" transaction validation mechanism. Link to paper, <a href="https://eprint.iacr.org/2017/406.pdf">eprint.iacr.org/2017/406.pdf</a>
+     description: OmniLedger is a novel scale-out decentralized ledger framework that preserves longterm security under permissionless operation by using bias-resistant public-randomness for choosing large, statistically representative shards that process transactions, and by introducing Atomix, an efficient cross-shard commit protocol, that atomically handles transactions affecting multiple shards. OmniLedger's throughput scales linearly in the number of active validators, supporting Visa-level workloads and beyond, while confirming typical transactions in under two seconds thanks to its low-latency "trust-but-verify" transaction validation mechanism. Link to our <a href="https://eprint.iacr.org/2017/406.pdf">paper</a>.
      
   -   
      name: 'Ostraka'
      challenges: [*scaling]
-     description: Currently, the capacity of a blockchain node can only scale by replacing hardware. For better performance, one must obtain newer hardware. Node capacity effects both initial sync time and block propagation time in the network. We utilize the parallel nature of the UTXO set to build a scalable node architecture.
-     
+     description: Currently, the capacity of a blockchain node can only scale by replacing hardware. For better performance, one must obtain newer hardware. Node capacity effects both initial sync time and block propagation time in the network. We utilize the parallel nature of the UTXO set to build a scalable node architecture. For more info, please see our <a href="https://arxiv.org/abs/1907.03331">paper</a>.     
+
   -   
      name: 'The Gap Game'
+     challenges: [*compliance]
      description: Incentive analysis in a PoW cryptocurrency, where transaction fees play a dominant role. We analyze suck systems as a game and show (&quot;mining gaps&quot;) occur - periods of time where miners are incentivized to be idle instead of actively mining. We also show in such systems, miners are better off forming coalitions, which leads to a centralized system. For more info, please see our <a href="https://dl.acm.org/citation.cfm?id=3243737">paper</a>.
 
   -  
@@ -286,32 +282,32 @@ projects:
   -
     name: 'Bitcoin-NG: A Next-generation Blockchain Protocol'
     challenges: [*scaling]
-    description: Bitcoin-NG is a new protocol pioneered by IC3. It addresses the scalability bottleneck of Bitcoin by enabling the Bitcoin network to achieve the highest throughput allowed by the network conditions. Paradoxically, not only does it improve transaction throughput, it also reduces transaction latencies -- it is possible to get an initial transaction confirmation in seconds rather than in minutes. And it does so without changing Bitcoin’s open architecture and trust model. Our blockchain test bed Miniature World simulated Bitcoin-NG at 15% the size of the operational Bitcoin system, where we showed that Bitcoin–NG is only limited by the network. For more info, please see our <a href="http://arxiv.org/abs/1510.02037">paper (http://arxiv.org/abs/1510.02037)</a>.
+    description: Bitcoin-NG is a new protocol pioneered by IC3. It addresses the scalability bottleneck of Bitcoin by enabling the Bitcoin network to achieve the highest throughput allowed by the network conditions. Paradoxically, not only does it improve transaction throughput, it also reduces transaction latencies -- it is possible to get an initial transaction confirmation in seconds rather than in minutes. And it does so without changing Bitcoin’s open architecture and trust model. Our blockchain test bed Miniature World simulated Bitcoin-NG at 15% the size of the operational Bitcoin system, where we showed that Bitcoin–NG is only limited by the network. For more info, please see our <a href="http://arxiv.org/abs/1510.02037">paper</a>.
 
   - 
     name: 'Miniature World: A Test Bed for Simulating Real World Blockchain'
     challenges: [*scaling]
-    description: Miniature World is a large blockchain emulation test bed at Cornell University consisting of ~1000 nodes. This test bed enables us to run experiments on different blockchains, and a variety of use cases, using realistic internet latencies to evaluate real world scenarios (as referenced above for Bitcoin-NG). We make Miniature World available for our Industry Sponsors to evaluate various block chains and their use cases. For more info about becoming an IC3 Industry Sponsor, please see <a href="http://www.initc3.org/partners.html">http://www.initc3.org/partners.html</a>.
+    description: Miniature World is a large blockchain emulation test bed at Cornell University consisting of ~1000 nodes. This test bed enables us to run experiments on different blockchains, and a variety of use cases, using realistic internet latencies to evaluate real world scenarios (as referenced above for Bitcoin-NG). We make Miniature World available for our Industry Sponsors to evaluate various block chains and their use cases. For more info about becoming an IC3 Industry Sponsor, please see our <a href="http://www.initc3.org/partners.html">website</a>.
 
   -
     name: 'Fruitchain: A new Approach for Incentive Compatible Blockchains'
     challenges: [*scaling]
-    description: Most of today's blockchains, such as Bitcoin, are not "incentive compatible", meaning they are quite vulnerable to strategic gaming by dishonest adversaries. For example, IC3 has proven that the Bitcoin blockchain can be compromised by miners or mining pools with much less than 50% of the mining hash power. Fruitchain is an innovative blockchain methodology that discourages dishonest gaming, by making it extremely unprofitable for an adversary with less than 50% of the hash power, achieving an epsilon-equilibrium or near-Nash equilibrium. For more info, please see the Fruitchain presentation by IC3 co-director Professor Elaine Shi at our <a href="http://www.initc3.org/events/2016-05-17-IC3-Retreat-2016.html">2016 IC3 Retreat (https://tinyurl.com/ic3retreat)</a> in NYC.
+    description: Most of today's blockchains, such as Bitcoin, are not "incentive compatible", meaning they are quite vulnerable to strategic gaming by dishonest adversaries. For example, IC3 has proven that the Bitcoin blockchain can be compromised by miners or mining pools with much less than 50% of the mining hash power. Fruitchain is an innovative blockchain methodology that discourages dishonest gaming, by making it extremely unprofitable for an adversary with less than 50% of the hash power, achieving an epsilon-equilibrium or near-Nash equilibrium. For more info, please see the Fruitchain presentation by IC3 co-director Professor Elaine Shi at our <a href="http://www.initc3.org/events/2016-05-17-IC3-Retreat-2016.html">2016 IC3 Retreat</a> in NYC.
 
   -
     name: 'FLAC: A Calculus for Flow-Limited Authorization'
     challenges: [*correctness]
-    description: Real-world applications routinely make authorization decisions based on dynamic computation. Integrity of the system might be compromised if attackers can improperly influence the authorizing computation. Confidentiality can also be compromised by authorization, since authorization decisions are often based on sensitive data such as membership lists and passwords. Flow-Limited Authorization Calculus (FLAC) is both a simple, expressive model for reasoning about dynamic authorization and also a language for securely implementing various authorization mechanisms. FLAC provides strong end-to- end information security guarantees even for programs that incorporate and implement rich dynamic authorization mechanisms. For more info, please see the presentation by Professor Andrew Myers “Verifying Information Security of Code in Dynamic Systems” at our <a href="http://www.initc3.org/events/2016-05-17-IC3-Retreat-2016.html">2016 IC3 Retreat (https://tinyurl.com/ic3retreat)</a> in NYC.
+    description: Real-world applications routinely make authorization decisions based on dynamic computation. Integrity of the system might be compromised if attackers can improperly influence the authorizing computation. Confidentiality can also be compromised by authorization, since authorization decisions are often based on sensitive data such as membership lists and passwords. Flow-Limited Authorization Calculus (FLAC) is both a simple, expressive model for reasoning about dynamic authorization and also a language for securely implementing various authorization mechanisms. FLAC provides strong end-to- end information security guarantees even for programs that incorporate and implement rich dynamic authorization mechanisms. For more info, please see the presentation by Professor Andrew Myers “Verifying Information Security of Code in Dynamic Systems” at our <a href="http://www.initc3.org/events/2016-05-17-IC3-Retreat-2016.html">2016 IC3 Retreat</a> in NYC.
 
   -
     name: 'Theoretical Foundations for Secure Decentralized Systems'
     challenges: [*correctness]
-    description: This work explores the theoretical basis for the security and stability of open decentralized systems. The benefits of decentralization include resistance to many kinds of attacks, diversity, and diffusion of power. The novelty and inspiring success of Bitcoin has provided new evidence that secure decentralized systems are more feasible than once thought. On the other hand, even Bitcoin risks becoming centralized if thrown off-balance, e.g. due to mining pools, ASIC farms, or political schisms. Furthermore, IC3 and collaborators just released a research paper that analyzed The Digital Autonomous Organization (DAO) and its voting mechanism. This paper identifies problems with The DAO&#39;s mechanism design that incentivize investors to behave strategically; that is, at odds with truthful voting on their preferences. We then outline potential attacks against The DAO made possible by these behaviors. For more info, please see <a href="http://hackingdistributed.com/2016/05/27/dao-call-for-moratorium">http://hackingdistributed.com/2016/05/27/dao-call-for-moratorium</a>.
+    description: This work explores the theoretical basis for the security and stability of open decentralized systems. The benefits of decentralization include resistance to many kinds of attacks, diversity, and diffusion of power. The novelty and inspiring success of Bitcoin has provided new evidence that secure decentralized systems are more feasible than once thought. On the other hand, even Bitcoin risks becoming centralized if thrown off-balance, e.g. due to mining pools, ASIC farms, or political schisms. Furthermore, IC3 and collaborators just released a research paper that analyzed The Digital Autonomous Organization (DAO) and its voting mechanism. This paper identifies problems with The DAO&#39;s mechanism design that incentivize investors to behave strategically; that is, at odds with truthful voting on their preferences. We then outline potential attacks against The DAO made possible by these behaviors. For more info, please see our <a href="http://hackingdistributed.com/2016/05/27/dao-call-for-moratorium">article</a>.
 
   -
      name: 'Hawk: Privacy-Preserving Blockchain &amp; Smart Contracts'
      challenges: [*correctness, *confidentiality]
-     description: Existing blockchain-based cryptocurrencies such as Bitcoin and Ethereum store all financial transactions in the clear on the blockchain. This compromises the privacy of financial transactions, which is essential in numerous applications. Hawk is a blockchain-based smart contract system that stores encrypted transactions on the blockchain, and relies on cryptography to retain the security of the cryptocurrency. For more info, please see <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7546538">paper</a>.
+     description: Existing blockchain-based cryptocurrencies such as Bitcoin and Ethereum store all financial transactions in the clear on the blockchain. This compromises the privacy of financial transactions, which is essential in numerous applications. Hawk is a blockchain-based smart contract system that stores encrypted transactions on the blockchain, and relies on cryptography to retain the security of the cryptocurrency. For more info, please see our <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7546538">paper</a>.
    
   -
      name: 'Town Crier: Authenticated Data Feeds for Smart Contracts'
@@ -321,9 +317,9 @@ projects:
   -
      name: 'Virtual Notary: A Free and Secure Electronic Attestation Service'
      challenges: [*adf]
-     description: Virtual Notary is a service for attesting to online factoids. Virtual Notary issues both freestanding certificates as well as immutable records on the Bitcoin blockchain. It has been operational for more than 3 years, and certified more than 600,000 factoids. For more info, please see <a href="http://virtual-notary.org">http://virtual-notary.org</a>.
+     description: Virtual Notary is a service for attesting to online factoids. Virtual Notary issues both freestanding certificates as well as immutable records on the Bitcoin blockchain. It has been operational for more than 3 years, and certified more than 600,000 factoids. For more info, please see our <a href="http://virtual-notary.org">website</a>.
 
   -
      name: 'Gyges: Crime in Decentralized Smart Contracts'
      challenges: [*compliance]
-     description: Two of the most widely desired goals for &quot;Bitcoin 2.0&quot; are privacy and more expressive smart contracts. Many uses of cryptocurrency have a clear and legitimate need for privacy (e.g., financial service companies are expected to protect the privacy of their clients&#39; transactions). General purpose smart contract programming frameworks make it easy to tinker, prototype, and search for the next &quot;killer application&quot; for cryptocurrencies. These two directions seem to be at odds with each other; however, through the use of sophisticated cryptography (like zero knowledge proofs and multi-party computation), we explore how to achieve both goals at once. For further details, please see our paper at <a href="http://www.initc3.org/files/Gyges.pdf">http://www.initc3.org/files/Gyges.pdf</a>.
+     description: Two of the most widely desired goals for &quot;Bitcoin 2.0&quot; are privacy and more expressive smart contracts. Many uses of cryptocurrency have a clear and legitimate need for privacy (e.g., financial service companies are expected to protect the privacy of their clients&#39; transactions). General purpose smart contract programming frameworks make it easy to tinker, prototype, and search for the next &quot;killer application&quot; for cryptocurrencies. These two directions seem to be at odds with each other; however, through the use of sophisticated cryptography (like zero knowledge proofs and multi-party computation), we explore how to achieve both goals at once. For further details, please see our <a href="http://www.initc3.org/files/Gyges.pdf">paper</a>.
