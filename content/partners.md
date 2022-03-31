@@ -18,4 +18,4 @@ Foundation to advance the science and technology of blockchains.
 
 # Contact
 
-For more information, please contact: [ic3-directors-l@cornell.edu](mailto:ic3-directors-l@cornell.edu).
+For more information, please contact: [sarahallen@cornell.edu](mailto:sarahallen@cornell.edu).
