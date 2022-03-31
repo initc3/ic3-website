@@ -67,6 +67,7 @@
 - P. Reibel, H. Yousaf, and S. Meiklejohn. [Why is a Ravencoin Like a TokenDesk? An Exploration of Code Diversity in the Cryptocurrency Landscape](https://smeiklej.com/files/fc19full.pdf). FC, 2019.
 - A. Sonnino, M. Al-Bassam, S. Bano, S. Meiklejohn, and G. Danezis. [Coconut: Threshold Issuance Selective Disclosure Credentials with Applications to Distributed Ledgers](https://smeiklej.com/files/ndss19.pdf). NDSS, 2019. 
 - J. Grimmelmann. [Continuity and Change in Internet Law](https://cacm.acm.org/magazines/2019/5/236418-continuity-and-change-in-internet-law/fulltext). Communications of the ACM, 2019. 
+- J. Grimmelmann. [Bone Crusher 2.0: The Fourth Annual Greg Lastowka Memorial Lecture](https://james.grimmelmann.net/files/articles/bone-crusher.pdf). 71 Rutgers University Law Review 843, 2019.
 - P. Daian, R. Pass and E. Shi. [Snow White: Provably Secure Proofs of Stake](https://ia.cr/2016/919). FC, 2019.
 - G. Fanti, L. Kogan, S. Oh, K. Ruan, P. Viswanath, and G. Wang. [Compounding of Wealth in Proof-of-Stake Cryptocurrencies](https://arxiv.org/pdf/1809.07468.pdf). Financial Crypto, 2019. 
 - G. Asharov, T.-H. H. Chan, K. Nayak, R. Pass, L. Ren, and E. Shi. [Locality-Preserving Oblivious RAM](https://link.springer.com/chapter/10.1007%2F978-3-030-17656-3_8). EUROCRYPT(2), 2019. 
