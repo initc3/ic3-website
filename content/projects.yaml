@@ -108,37 +108,37 @@ projects:
   -
      name: 'AIRS: Automated Incentives for Reforestation Stewardship'
      challenges: [*good]
-     description: The accelerating effect of global climate change is a major challenge for humanity. One critical component of any comprehensive solution is reforestation. As large and effective carbon sinks, forests are important to both conserve and expand. Not all types of forest, though, are equally effective at carbon sequestration. To create, monitor, and manage effective reforestation programs, it is essential that we be able to measure forest carbon accurately and with high geospatial precision. Our project will build infrastructure that, (1) Provides an accurate and trustworthy source of data on forest carbon and (2) Implements a system of automated monetary rewards for local inhabitants to conserve and/or increase forests that effectively reduce carbon emissions. By combining the two capabilities of reliable quantification and targeted rewards, we believe we can provide powerful support for climate change programs that aim to realize the value of forests as a part of the global economy. For instance, the REDD+ program, under development by parties to the United Nations Framework Convention on Climate Change, aims to incentivize developing countries to reduce emissions resulting from deforestation and forest degradation, thus conserving and enhancing forest carbon sticks. We will build a public performance-based payment system using two blockchain technologies. The first is an *oracle*, a trustworthy source of data for blockchain applications, it obtains and analyzes satellite data to relay trustworthy statistics on forest carbon. The second key component is a *smart contract*, a blockchain application that consumes data from the oracle and sends cryptocurrency rewards to forest stewards. Our system will also automatically identify the legitimate stakeholders / stewards of forested land by combining local land registry records, geolocation via smartphones, and fraud / anomaly detection. 
+     description: The accelerating effect of global climate change is a major challenge for humanity. One critical component of any comprehensive solution is reforestation. As large and effective carbon sinks, forests are important to both conserve and expand. Not all types of forest, though, are equally effective at carbon sequestration. To create, monitor, and manage effective reforestation programs, it is essential that we be able to measure forest carbon accurately and with high geospatial precision. Our project will build infrastructure that, (1) Provides an accurate and trustworthy source of data on forest carbon and (2) Implements a system of automated monetary rewards for local inhabitants to conserve and/or increase forests that effectively reduce carbon emissions. By combining the two capabilities of reliable quantification and targeted rewards, we believe we can provide powerful support for climate change programs that aim to realize the value of forests as a part of the global economy. For instance, the REDD+ program, under development by parties to the United Nations Framework Convention on Climate Change, aims to incentivize developing countries to reduce emissions resulting from deforestation and forest degradation, thus conserving and enhancing forest carbon sticks. We will build a public performance-based payment system using two blockchain technologies. The first is an *oracle*, a trustworthy source of data for blockchain applications, it obtains and analyzes satellite data to relay trustworthy statistics on forest carbon. The second key component is a *smart contract*, a blockchain application that consumes data from the oracle and sends cryptocurrency rewards to forest stewards. Our system will also automatically identify the legitimate stakeholders/stewards of forested land by combining local land registry records, geolocation via smartphones, and fraud/anomaly detection. 
      
   -
      name: 'Libra'
      challenges: [*scaling, *confidentiality]
-     description: We present Libra, the first zero-knowledge proof system that has both optimal prover time and succinct proof size/verification time. In particular, if C is the size of the circuit being proved (i) the prover time is O(C) irrespective of the circuit type; (ii) the proof size and verification time are both O(d log C) for d-depth log-space uniform circuits (such as RAM programs). In addition Libra features an one-time trusted setup that depends only on the size of the input to the circuit and not the circuit logic. Underlying Libra is a new linear-time algorithm for the prover of the interactive proof protocol by Goldwasser, Kalai and Rothblum (also known as GKR protocol), as well as an efficient approach to turn the GKR protocol to zero-knowledge using small masking polynomials. Not only does Libra have excellent asymptotics, but it is also efficient in practice. For example, our implementation shows that it takes 200 seconds to generate a proof for constructing a SHA2-based Merkle tree root on 256 leaves, outperforming all existing zero-knowledge proof systems. Proof size and verification time of Libra are also competitive. For more see <a href="https://eprint.iacr.org/2019/317.pdf">our paper</a>. 
+     description: We present Libra, the first zero-knowledge proof system that has both optimal prover time and succinct proof size/verification time. In particular, if C is the size of the circuit being proved (i) the prover time is O(C) irrespective of the circuit type; (ii) the proof size and verification time are both O(d log C) for d-depth log-space uniform circuits (such as RAM programs). In addition Libra features an one-time trusted setup that depends only on the size of the input to the circuit and not the circuit logic. Underlying Libra is a new linear-time algorithm for the prover of the interactive proof protocol by Goldwasser, Kalai and Rothblum (also known as GKR protocol), as well as an efficient approach to turn the GKR protocol to zero-knowledge using small masking polynomials. Not only does Libra have excellent asymptotics, but it is also efficient in practice. For example, our implementation shows that it takes 200 seconds to generate a proof for constructing a SHA2-based Merkle tree root on 256 leaves, outperforming all existing zero-knowledge proof systems. Proof size and verification time of Libra are also competitive. For more see our <a href="https://eprint.iacr.org/2019/317.pdf">paper</a>. 
      
   -
      name: 'Virgo' 
      challenges: [*scaling, *confidentiality]
-     description: Virgo is a new zero knowledge proofs scheme for layered arithmetic circuits without trusted setup. It takes only 50 seconds to generate a proof for a circuit with 2^26 gates. And it has succinct prrof size and short verification time. It's based on a prior work Libra and a new transparent zero knowledge verifiable polynomial delegation scheme. The scheme is in the initeractive oracle proof model and based on the univeriate sumcheck. To read more, please see <a href="https://eprint.iacr.org/2019/1482.pdf"> our paper</a>.
+     description: Virgo is a new zero knowledge proofs scheme for layered arithmetic circuits without trusted setup. It takes only 50 seconds to generate a proof for a circuit with 2^26 gates. And it has succinct prrof size and short verification time. It's based on a prior work Libra and a new transparent zero knowledge verifiable polynomial delegation scheme. The scheme is in the initeractive oracle proof model and based on the univeriate sumcheck. To read more, please see our <a href="https://eprint.iacr.org/2019/1482.pdf">paper</a>.
      
   -
-     name: 'Honey BadgerBFT: The Honey Badger of BFT Protocols'
+     name: 'HoneyBadgerBFT: The Honey Badger of BFT Protocols'
      challenges: [*scaling]
-     description: 'HoneyBadgerBFT is the first practical asynchronous BFT protocol, which guarantees liveness without making any timing assumptions. We base our solution on a novel atomic broadcast protocol that achieves optimal asymptotic efficiency. We present an implementation and experimental results to show our system can achieve throughput of tens of thousands of transactions per second, and scales to over a hundred nodes on a wide area network. We even conduct BFT experiments over Tor, without needing to tune any parameters. Unlike the alternatives, HoneyBadgerBFT simply does not care about the underlying network. For more info, please see <a href="https://eprint.iacr.org/2016/199.pdf">our paper (https://eprint.iacr.org/2016/199.pdf)</a>.'
+     description: 'HoneyBadgerBFT is the first practical asynchronous BFT protocol, which guarantees liveness without making any timing assumptions. We base our solution on a novel atomic broadcast protocol that achieves optimal asymptotic efficiency. We present an implementation and experimental results to show our system can achieve throughput of tens of thousands of transactions per second, and scales to over a hundred nodes on a wide area network. We even conduct BFT experiments over Tor, without needing to tune any parameters. Unlike the alternatives, HoneyBadgerBFT simply does not care about the underlying network. For more info, please see our <a href="https://eprint.iacr.org/2016/199.pdf">paper</a>.
      
   -
      name: 'Teechain'
      challenges: [*scaling]
-     description: Teechain is the first asynchronous second layer payment network that allows users to execute immediate payments while not requiring parties to constantly monitor the blockchain. Teechain leverages trusted execution environments (TEEs) and uses a new variant of chain replication to ensure security against TEE compromise and side-channel attacks. Teechain achieves at least 33x better throughput than other existing payment networks. For more info, please see <a href="https://www.teechain.network"> https://www.teechain.network</a>.
+     description: Teechain is the first asynchronous second layer payment network that allows users to execute immediate payments while not requiring parties to constantly monitor the blockchain. Teechain leverages trusted execution environments (TEEs) and uses a new variant of chain replication to ensure security against TEE compromise and side-channel attacks. Teechain achieves at least 33x better throughput than other existing payment networks. For more info, please see our <a href="https://www.teechain.network">paper</a>.
      
   -
      name: 'Charlotte'
      challenges: [*scaling]
-     description: Charlotte is a new open framework for building parallel, interoperable blockchainsystems. It supports a variety of consensus mechanisms including proof of work as well as more classic distributed consensus protocols.
+     description: Charlotte is a new open framework for building parallel, interoperable blockchainsystems. It supports a variety of consensus mechanisms including proof of work as well as more classic distributed consensus protocols. For more information, please see our <a href="https://arxiv.org/abs/1905.03888">paper</a>.
      
   -
      name: 'Selfish Mining Re-examined'
      challenges: [*compliance]
-     description: This project revisits the selfish mining (SM) strategy in two ways. First, we present a modified SM strategy, convert selfish mining, that, perplexingly, is more profitable than Nakamoto even when the attacker performs no selfish mining after a difficulty adjustment. This strategy has the added benefit that it is even harder to detect than pure SM, and may additionally increase token value through deflation. Second, we analyze the profitability of SM under several difficulty adjustment schemes.
+     description: This project revisits the selfish mining (SM) strategy in two ways. First, we present a modified SM strategy, convert selfish mining, that, perplexingly, is more profitable than Nakamoto even when the attacker performs no selfish mining after a difficulty adjustment. This strategy has the added benefit that it is even harder to detect than pure SM, and may additionally increase token value through deflation. Second, we analyze the profitability of SM under several difficulty adjustment schemes. For further information, please see our <a href="http://fc20.ifca.ai/preproceedings/4.pdf">paper</a>.
           
   -
      name: 'T-Rex'
@@ -153,17 +153,17 @@ projects:
   -   
      name: 'monoCash'
      challenges: [*correctness]
-     description: This project proposes the first off-chain payment network that is channel-free, thereby it is a one-hop, routing-free, concurrency-friendly, rebalancing-free, and fully decentralized.
+     description: This project proposes the first off-chain payment network that is channel-free, thereby it is a one-hop, routing-free, concurrency-friendly, rebalancing-free, and fully decentralized. For further details, please see our <a href="https://github.com/monocash">work</a>.
   
   -
      name: 'SCARAB: Private, Accountable Data-Sharing on Blockchains'
      challenges: [*confidentiality, *adf]
-     description: SCARAB is the first fully-decentralized access control framework for secure blockchain-based data sharing with guaranteed data delivery. On-chain secrets enable the collective management of secrets under a Byzatine adversary in SCARAB by using verifiable secret sharing among a secret-management group. Identity skipchains enable efficient management and autonomous evolution of identities and of access policies while permitting any external client to follow the trust-delegating forward links that point to the user's current set of public keys. Link to paper, <a href="https://eprint.iacr.org/2018/209.pdf">eprint.iacr.org/2018/209.pdf</a>
+     description: SCARAB is the first fully-decentralized access control framework for secure blockchain-based data sharing with guaranteed data delivery. On-chain secrets enable the collective management of secrets under a Byzatine adversary in SCARAB by using verifiable secret sharing among a secret-management group. Identity skipchains enable efficient management and autonomous evolution of identities and of access policies while permitting any external client to follow the trust-delegating forward links that point to the user's current set of public keys. For further information, please see our <a href="https://eprint.iacr.org/2018/209.pdf">paper</a>.
      
   -
      name: 'Proof-of-Personhood: Redemocratizing Permissionless Cryptocurrencies'
      challenges: [*compliance]
-     description: Proof-of-personhood (PoP) is a mechanism that binds physical entities to virtual identities in a way that enables accountability while preserving anonymity. Proof-of-personhood can be used as a democratic alternative to the commonly used proof-of-work or proof-of-stake approaches to create secure identities in permissionless cryptocurrencies. The prototype cryptocurrency to PoPCoin utilizes PoP in its consensus layer showing how a continuously fair and democratic wealth creation process could look like which paves the way for experimental basic income infrastructure. Link to paper, <a href="http://www.brynosaurus.com/pub/dec/pop.pdf">www.brynosaurus.com/pub/dec/pop.pdf</a>
+     description: Proof-of-personhood (PoP) is a mechanism that binds physical entities to virtual identities in a way that enables accountability while preserving anonymity. Proof-of-personhood can be used as a democratic alternative to the commonly used proof-of-work or proof-of-stake approaches to create secure identities in permissionless cryptocurrencies. The prototype cryptocurrency to PoPCoin utilizes PoP in its consensus layer showing how a continuously fair and democratic wealth creation process could look like which paves the way for experimental basic income infrastructure. Please see our <a href="http://www.brynosaurus.com/pub/dec/pop.pdf">paper</a>.
      
   -   
      name: 'HiveMind'
@@ -173,27 +173,27 @@ projects:
   -  
      name: 'TxProbe'
      challenges: [*scaling]
-     description: TxProbe is a mechanism for inferring the topology of the Bitcoin P2P network, making use of how nodes process out-of-order (or (&quot;orphan&quot;)) transactions. It can be used  to take snapshots of the network over a period of minutes. For more info, please see <a href="https://arxiv.org/abs/1812.00942"> https://arxiv.org/abs/1812.00942</a>
+     description: TxProbe is a mechanism for inferring the topology of the Bitcoin P2P network, making use of how nodes process out-of-order (or (&quot;orphan&quot;)) transactions. It can be used  to take snapshots of the network over a period of minutes. For more info, please see our <a href="https://arxiv.org/abs/1812.00942">paper</a>.
      
   -   
      name: 'SaUCy'
      challenges: [*compliance]
-     description: Universal Composability (UC) is a unifying framework for cryptography theory. SaUCy is a process calculus and programming language that aims to use UC as the foundation for modular protocol implementations.
+     description: Universal Composability (UC) is a unifying framework for cryptography theory. SaUCy is a process calculus and programming language that aims to use UC as the foundation for modular protocol implementations. For further information, please read the <a href="https://medium.com/initc3org/using-universal-composability-to-implement-off-chain-payment-channels-d63cc40ddf2f">IC3 blog</a>.
      
   -    
      name: 'Avalanche'
      challenges: [*scaling]
-     description: BFT consensus used by cryptocurrencies consists of two families, traditional consensus and Nakamoto's consensus. The former is usually leader-based, quadratic in message complexity. It requires precise membership knowledge, and suffers from leader bottleneck as it scales up in size. While the latter does not require membership, it is poor in performance and wasteful in energy due to PoW. This project proposes the third, new category of consensus protocols that is PoW-free, leader-less, committee-less, permission-less. It exerts the powerful meta-stability inspired by epidemic protocols, and operators as fast as the network propagates. For more info, please see <a href="https://avalanchelabs.org/QmT1ry38PAmnhparPUmsUNHDEGHQusBLD6T5XJh4mUUn3v.pdf"> https://avalanchelabs.org/QmT1ry38PAmnhparPUmsUNHDEGHQusBLD6T5XJh4mUUn3v.pdf</a>
+     description: BFT consensus used by cryptocurrencies consists of two families, traditional consensus and Nakamoto's consensus. The former is usually leader-based, quadratic in message complexity. It requires precise membership knowledge, and suffers from leader bottleneck as it scales up in size. While the latter does not require membership, it is poor in performance and wasteful in energy due to PoW. This project proposes the third, new category of consensus protocols that is PoW-free, leader-less, committee-less, permission-less. It exerts the powerful meta-stability inspired by epidemic protocols, and operators as fast as the network propagates. For more info, please see our <a href="https://avalanchelabs.org/QmT1ry38PAmnhparPUmsUNHDEGHQusBLD6T5XJh4mUUn3v.pdf">avalabs.org</a>.
      
   -  
      name: 'HoneyBadgerMPC'
      challenges: [*scaling, *confidentiality, *compliance]
-     description: Multi-Party Computation (MPC) is a flexible paradigm for computing on confidential data. HoneyBadgerMPC is an asynchronous MPC protocol and implementation that scales to large networks and provides blockchain-grade fault tolerance and availability guarantees. For more info, please see <a href="https://github.com/initc3/HoneyBadgerMPC/"> https://github.com/initc3/HoneyBadgerMPC/</a>
+     description: Multi-Party Computation (MPC) is a flexible paradigm for computing on confidential data. HoneyBadgerMPC is an asynchronous MPC protocol and implementation that scales to large networks and provides blockchain-grade fault tolerance and availability guarantees. For more info, please see <a href="https://github.com/initc3/HoneyBadgerMPC/">HoneyBadgerMPC</a>.
      
   -   
      name: "I Can't Believe It's Not Stake"
      challenges: [*scaling, *correctness]
-     description: Dozens of Proof-of-Stake cryptocurrencies are vulnerable to resource exhaustion attacks due to incomplete validation of blocks prior to allocating storage resources (disk, memory) to data from untrusted peers.
+     description: Dozens of Proof-of-Stake cryptocurrencies are vulnerable to resource exhaustion attacks due to incomplete validation of blocks prior to allocating storage resources (disk, memory) to data from untrusted peers. For further details, please see our <a href="https://fc19.ifca.ai/preproceedings/180-preproceedings.pdf">paper</a>.
      
   -   
      name: 'PISA Outsourcing'
@@ -208,12 +208,12 @@ projects:
   -   
      name: 'Bone Crusher 2.0'
      challenges: [*compliance]
-     description: The late legal scholar Greg Lastowka wrote about law, property, and self-government in virtual worlds like Ultima Online. His observations are relevant to blockchains and their communities of users. For more information, please my <a href="https://james.grimmelmann.net/files/articles/bone-crusher.pdf">paper</a>.
+     description: The late legal scholar Greg Lastowka wrote about law, property, and self-government in virtual worlds like Ultima Online. His observations are relevant to blockchains and their communities of users. For more information, please read my <a href="https://james.grimmelmann.net/files/articles/bone-crusher.pdf">paper</a>.
      
   -    
      name: 'All Smart Contracts Are Ambiguous'
      challenges: [*compliance]
-     description: Legal contracts are written in natural language, which can introduce ambiguity as to their meaning. Blockchain-based smart contracts are written in programming languages, which seems to give them precise, objective meanings. But because the semantics of a smart contract can change if participants fork the underlying blockchain or revise its protocol, the meaning of a smart contract is always subject to this latent ambiguity. For more information, please my <a href="https://james.grimmelmann.net/files/articles/all-smart-contracts.pdf">paper</a>.
+     description: Legal contracts are written in natural language, which can introduce ambiguity as to their meaning. Blockchain-based smart contracts are written in programming languages, which seems to give them precise, objective meanings. But because the semantics of a smart contract can change if participants fork the underlying blockchain or revise its protocol, the meaning of a smart contract is always subject to this latent ambiguity. For more information, please read my <a href="https://james.grimmelmann.net/files/articles/all-smart-contracts.pdf">paper</a>.
      
   -
      name: 'ByzCoin: Enhancing Bitcoin Security and Performance with Strong Consistency via Collective Signing'
