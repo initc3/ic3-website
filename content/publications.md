@@ -3,7 +3,7 @@
 ## 2022 ##
 
 - S. Das, T. Yurek, Z. Xiang, A. Miller, L. Kokoris-Kogias, and L. Ren. [Practical Asynchronous Distributed Key Generation](https://eprint.iacr.org/2021/1591.pdf). IEEE S&P, 2022.
-- I. Khaburzaniya, K. Chalkias, K. Lewi, and H. Malvai. [Aggregating and thresholdizing hash-based signatures using STARKs](https://eprint.iacr.org/2021/1048.pdf). ACM ASIA CCS, 2022.
+- I. Khaburzaniya, K. Chalkias, K. Lewi, and H. Malvai. [Aggregating and thresholdizing hash-based signatures using STARKs](https://eprint.iacr.org/2021/1048.pdf). ACM CCS, 2022.
 - I. Eyal. [On cryptocurrency wallet design](https://drops.dagstuhl.de/opus/volltexte/2022/15901/pdf/OASIcs-Tokenomics-2021-4.pdf). ICBE S&P, 2022
 
 ## 2021 ##
@@ -30,16 +30,17 @@
 - B. Y. Chan and E. Shi. [STREAMLET: Textbook Streamlined Blockchains](https://eprint.iacr.org/2020/088.pdf). ACM AFT, 2020.
 - M. Kelkar, F. Zhang, S. Goldfeder, and A. Juels. [Order-Fairness for Byzantine Consensus](https://eprint.iacr.org/2020/269). CRYPTO, 2020.
 - S. Allen, S. Capkun, I. Eyal, G. Fanti, B. Ford, J. Grimmelmann, A. Juels, K. Kostiainen, S. Meiklejohn, A. Miller, E. Prasad, K. Wust, and F. Zhang. [Design choices for central bank digital currency: Policy and technical considerations](http://brookings.edu/research/design-choices-for-central-bank-digital-currency-policy-and-technical-considerations/). Brookings Institute Working Paper, 2020.
-- Y. Liu and R. Pass. [On One-way Functions and Kolmogorov Complexity](https://eprint.iacr.org/2020/423.pdf). IEEE FOCS 2020. 
-- K. Wust, S. Matetic, S. Egli, K. Kostiainen, and S. Capkun. [ACE: Asynchronous and Concurrent Execution of Complex Smart Contracts](https://eprint.iacr.org/2019/835.pdf). ACM CCS 2020. 
-- A. Manuskin, M. Mirkin, and I. Eyal. [Ostraka: Secure Blockchain Scaling by Node Sharding](https://arxiv.org/abs/1907.03331). IEEE S&B 2020.
+- Y. Liu and R. Pass. [On One-way Functions and Kolmogorov Complexity](https://eprint.iacr.org/2020/423.pdf). IEEE FOCS, 2020. 
+- K. Wust, S. Matetic, S. Egli, K. Kostiainen, and S. Capkun. [ACE: Asynchronous and Concurrent Execution of Complex Smart Contracts](https://eprint.iacr.org/2019/835.pdf). ACM CCS, 2020. 
+- A. Manuskin, M. Mirkin, and I. Eyal. [Ostraka: Secure Blockchain Scaling by Node Sharding](https://arxiv.org/abs/1907.03331). IEEE S&B, 2020.
 - F. Zhang, S. K. D. Maram, H. Malvai, S. Goldfeder, and A. Juels. [DECO: Liberating Web Data Using Decentralized Oracles for TLS](https://arxiv.org/abs/1909.00938). ACM CCS, 2020.
-- M. Mirkin, Y. Ji, J. Pang, A. Klages-Mundt, I. Eyal, and A. Juels. [BDoS: Blockchain Denial of Service](https://arxiv.org/abs/1912.07497). ACM CCS 2020.
-- L. Gudgeon, P. Moreno-Sanchez, S. Roos, P. McCorry, and A. Gervais. [SoK: Layer-Two Blockchain Protocols](https://fc20.ifca.ai/preproceedings/150.pdf). FC 2020. 
-- A. Kiayias, A. Miller, and D. Zindros. [Non-Interactive Proofs of Proof-of-Work](https://fc20.ifca.ai/preproceedings/74.pdf). FC 2020.
-- A. Moin, K. Sekniqi, and E. G. Sirer. [SoK: A Classification Framework for Stablecoin Designs](https://fc20.ifca.ai/preproceedings/119.pdf). FC 2020. 
+- M. Mirkin, Y. Ji, J. Pang, A. Klages-Mundt, I. Eyal, and A. Juels. [BDoS: Blockchain Denial of Service](https://arxiv.org/abs/1912.07497). ACM CCS, 2020.
+- R. Gennaro and S. Goldfeder. [One Round Threshold ECDSA with Identifiable Abort](https://eprint.iacr.org/2020/540). ACM CCS, 2020.
+- L. Gudgeon, P. Moreno-Sanchez, S. Roos, P. McCorry, and A. Gervais. [SoK: Layer-Two Blockchain Protocols](https://fc20.ifca.ai/preproceedings/150.pdf). FC, 2020. 
+- A. Kiayias, A. Miller, and D. Zindros. [Non-Interactive Proofs of Proof-of-Work](https://fc20.ifca.ai/preproceedings/74.pdf). FC, 2020.
+- A. Moin, K. Sekniqi, and E. G. Sirer. [SoK: A Classification Framework for Stablecoin Designs](https://fc20.ifca.ai/preproceedings/119.pdf). FC, 2020. 
 - S. Bano, A. Sonnino, M. Al-Bassam, S. Azouvi, P. McCorry, S. Meiklejohn, and G. Danezis. [SoK: Consensus in the Age of Blockchains](https://smeiklej.com/files/aft19a.pdf). AFT, 2020.
-- K. A. Negy, P. Rizun, and E. G. Sirer. [Selfish Mining Re-Examined](https://fc20.ifca.ai/preproceedings/4.pdf). FC 2020.
+- K. A. Negy, P. Rizun, and E. G. Sirer. [Selfish Mining Re-Examined](https://fc20.ifca.ai/preproceedings/4.pdf). FC, 2020.
 - P. Daian, S. Goldfeder, T. Kell, Y. Li, X. Zhao, I. Bentov, L. Breidenbach, and A. Juels. [Flash Boys 2.0: Frontrunning, Transaction Reordering, and Consensus Instability in Decentralized Exchanges](https://arxiv.org/abs/1904.05234). IEEE S&P, 2020. Bloomberg article <a href="https://www.bloomberg.com/news/articles/2019-04-15/-flash-boys-trading-bots-are-running-wild-on-crypto-exchanges">here</a>.
 - E. Kokoris-Kogias, E.C. Alp, L. Gasser, P. Jovanovic, E. Syta, and B. Ford. [CALYPSO: Private Data Management for Decentralized Ledgers](https://eprint.iacr.org/2018/209).
 - E. Shi [Path Oblivious Heap](https://eprint.iacr.org/2019/274). IEEE S&P, 2020.
@@ -68,7 +69,7 @@
 - J. Grimmelmann. [Continuity and Change in Internet Law](https://cacm.acm.org/magazines/2019/5/236418-continuity-and-change-in-internet-law/fulltext). Communications of the ACM, 2019. 
 - P. Daian, R. Pass and E. Shi. [Snow White: Provably Secure Proofs of Stake](https://ia.cr/2016/919). FC, 2019.
 - G. Fanti, L. Kogan, S. Oh, K. Ruan, P. Viswanath, and G. Wang. [Compounding of Wealth in Proof-of-Stake Cryptocurrencies](https://arxiv.org/pdf/1809.07468.pdf). Financial Crypto, 2019. 
-- G. Asharov, T.-H. H. Chan, K. Nayak, R. Pass, L. Ren, and E. Shi. [Locality-Preserving Oblivious RAM](https://link.springer.com/chapter/10.1007%2F978-3-030-17656-3_8). EUROCRYPT (2), 2019. 
+- G. Asharov, T.-H. H. Chan, K. Nayak, R. Pass, L. Ren, and E. Shi. [Locality-Preserving Oblivious RAM](https://link.springer.com/chapter/10.1007%2F978-3-030-17656-3_8). EUROCRYPT(2), 2019. 
 - T.-H. H. Chan, R. Pass, and E. Shi. [Consensus Through Herding](https://link.springer.com/chapter/10.1007%2F978-3-030-17653-2_24). EUROCRYPT (1), 2019.
 - W.-K. Lin, E. Shi, and T. Xie. [Can We Overcome the n log n Barrier for Oblivious Sorting?](https://epubs.siam.org/doi/10.1137/1.9781611975482.148). SODA, 2019. 
 - T.-H. H. Chan, K.-M. Chung, B.M. Maggs, E. Shi. [Foundations of Differentially Oblivious Algorithms](https://epubs.siam.org/doi/10.1137/1.9781611975482.150). SODA, 2019. 
