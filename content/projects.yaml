@@ -198,7 +198,7 @@ projects:
   -   
      name: 'PISA Outsourcing'
      challenges: [*scaling, *compliance]
-     description: The security guarantees of Payment Channel Networks (PCNs) rely on the availability of an online party to defend honest nodes in cases of a spurious disputes. PISA is a protocol for outsourcing this task to a limited third party while receiving a fair exchange receipt. For more info, please see <a href="https://eprint.iacr.org/2018/582.pdf"> https://eprint.iacr.org/2018/582.pdf</a>
+     description: The security guarantees of Payment Channel Networks (PCNs) rely on the availability of an online party to defend honest nodes in cases of a spurious disputes. PISA is a protocol for outsourcing this task to a limited third party while receiving a fair exchange receipt. For more info, please see our <a href="https://eprint.iacr.org/2018/582.pdf">paper</a>.
      
   -    
      name: 'Sprites and State Channels'
@@ -208,22 +208,22 @@ projects:
   -   
      name: 'Bone Crusher 2.0'
      challenges: [*compliance]
-     description: The late legal scholar Greg Lastowka wrote about law, property, and self-government in virtual worlds like Ultima Online. His observations are relevant to blockchains and their communities of users.
+     description: The late legal scholar Greg Lastowka wrote about law, property, and self-government in virtual worlds like Ultima Online. His observations are relevant to blockchains and their communities of users. For more information, please my <a href="https://james.grimmelmann.net/files/articles/bone-crusher.pdf">paper</a>.
      
   -    
      name: 'All Smart Contracts Are Ambiguous'
      challenges: [*compliance]
-     description: Legal contracts are written in natural language, which can introduce ambiguity as to their meaning. Blockchain-based smart contracts are written in programming languages, which seems to give them precise, objective meanings. But because the semantics of a smart contract can change if participants fork the underlying blockchain or revise its protocol, the meaning of a smart contract is always subject to this latent ambiguity.
+     description: Legal contracts are written in natural language, which can introduce ambiguity as to their meaning. Blockchain-based smart contracts are written in programming languages, which seems to give them precise, objective meanings. But because the semantics of a smart contract can change if participants fork the underlying blockchain or revise its protocol, the meaning of a smart contract is always subject to this latent ambiguity. For more information, please my <a href="https://james.grimmelmann.net/files/articles/all-smart-contracts.pdf">paper</a>.
      
   -
      name: 'ByzCoin: Enhancing Bitcoin Security and Performance with Strong Consistency via Collective Signing'
      challenges: [*scaling]
-     description: ByzCoin is a novel Byzantine consensus protocol that leverages scalable collective signing to commit Bitcoin transactions irreversibly within seconds while preserving Bitcoin's open membership by dynamically forming hash power-proportionate consensus groups that represent recently-successful block miners. ByzCoin mitigates double spending and selfish mining attacks by producing collectively signed transaction blocks within one minute of transaction submission. ByzCoin achieves a throughput higher than Paypal currently handles (>700 tx/s), with a confirmation latency of 15-20 seconds. Learn more at <a href="https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_kokoris-kogias.pdf">https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_kokoris-kogias.pdf</a>.
+     description: ByzCoin is a novel Byzantine consensus protocol that leverages scalable collective signing to commit Bitcoin transactions irreversibly within seconds while preserving Bitcoin's open membership by dynamically forming hash power-proportionate consensus groups that represent recently-successful block miners. ByzCoin mitigates double spending and selfish mining attacks by producing collectively signed transaction blocks within one minute of transaction submission. ByzCoin achieves a throughput higher than Paypal currently handles (>700 tx/s), with a confirmation latency of 15-20 seconds. Learn more at <a href="https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_kokoris-kogias.pdf">USENIX 2016</a>.
   
   -
      name: 'CHAINIAC: Proactive Software-Update Transparency via Collectively Signed Skipchains and Verified Builds'
      challenges: [*correctness]
-     description: CHAINIAC is a decentralized software update framework that aliminates single points of failure, enforces transparency, and provides efficient verifiability of integrity and authenticity for software-release processes. Independent witness servers collectively verify conformance of software updates to release policies, build verifiers validate the source-to-binary correspondence, and a tamper-proof release log stores collectively signed updates, thus ensuring that no release in accepted by clients before being widely disclosed and validated. The release log embodies a skipchain, a novel data structure, enabling arbitrarily out-of-date clients to efficiently validate updates and signing keys. Link to paper, <a href="https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-nikitin.pdf">www.usenix.org/system/files/conference/usenixsecurity17/sec17-nikitin.pdf</a>
+     description: CHAINIAC is a decentralized software update framework that aliminates single points of failure, enforces transparency, and provides efficient verifiability of integrity and authenticity for software-release processes. Independent witness servers collectively verify conformance of software updates to release policies, build verifiers validate the source-to-binary correspondence, and a tamper-proof release log stores collectively signed updates, thus ensuring that no release in accepted by clients before being widely disclosed and validated. The release log embodies a skipchain, a novel data structure, enabling arbitrarily out-of-date clients to efficiently validate updates and signing keys. Link to <a href="https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-nikitin.pdf">paper</a>.
   
   -
      name: 'Project Chicago'
@@ -233,26 +233,26 @@ projects:
   -   
      name: 'CHURP (CHUrn-Robust Proactive secret sharing)' 
      challenges: [*scaling, *confidentiality]
-     description: CHURP enables secure secret-sharing in dynamic settings where the committee of nodes storing a secret may change over time. Designed for blockchain settings, CHURP has communication complexity much lower than previous schemes; O(n) on-chain and O(n^2) off-chain in the optimistic case of no node failures.
+     description: CHURP enables secure secret-sharing in dynamic settings where the committee of nodes storing a secret may change over time. Designed for blockchain settings, CHURP has communication complexity much lower than previous schemes; O(n) on-chain and O(n^2) off-chain in the optimistic case of no node failures. For more information, please see our <a href="https://eprint.iacr.org/2019/017">paper</a>.
      
   -   
      name: 'Paralysis Proofs'
-     description: A (3, 3)-multisignature cryptocurrency wallet experiences access-control paralysis upon loss of a single key, but a (2, 3)-multisig allows any two players to collude and steal funds from the third. Paralysis Proofs address this conundrum and others by allowing multisig parameters to be changed *securely* if users become unavailable. For more info, please see <a href="https://eprint.iacr.org/2018/096.pdf"> https://eprint.iacr.org/2018/096.pdf</a>
+     description: A (3, 3)-multisignature cryptocurrency wallet experiences access-control paralysis upon loss of a single key, but a (2, 3)-multisig allows any two players to collude and steal funds from the third. Paralysis Proofs address this conundrum and others by allowing multisig parameters to be changed *securely* if users become unavailable. For more info, please see our <a href="https://eprint.iacr.org/2018/096.pdf">paper</a>.
      
   -   
      name: 'Tesseract'
      challenges: [*confidentiality]
-     description: We propose Tesseract, a secure real-time cryptocurrency exchange service. Existing centralized exchnge designs are vulnerable to theft of funds, while decentralized exchanges cannot offer real-time crrosschain trades. All currently deployed exchanges are also vulnerable to frontrunning attacks. Tesseract overcomes these flaws and achieves a best-of-bothworlds design by using Intel SGX as a trusted execution environment. For more info, please see <a href="https://eprint.iacr.org/2017/1153.pdf"> https://eprint.iacr.org/2017/1153.pdf</a>
+     description: We propose Tesseract, a secure real-time cryptocurrency exchange service. Existing centralized exchnge designs are vulnerable to theft of funds, while decentralized exchanges cannot offer real-time crrosschain trades. All currently deployed exchanges are also vulnerable to frontrunning attacks. Tesseract overcomes these flaws and achieves a best-of-bothworlds design by using Intel SGX as a trusted execution environment. For more info, please see our <a href="https://eprint.iacr.org/2017/1153.pdf">paper</a>.
      
   -   
      name: 'Ekiden'
      challenges: [*confidentiality]
-     description: Ekiden is a system that addresses these critical confidentiality and performance gaps in smart contracts by combining blockchains with Trusted Execution Environments (TEEs). Ekiden leverages a novel architecture that separates consensus from execution, enabling efficient TEE-backed confidentiality-preserving smart-contracts and high scalability. Our prototype (with Tendermint as the consensus layer) achieves example performance of 600x more throughput and 400x less latency at 1000x less cost than the Ethereum mainnet. For more information, please see <a href="https://arxiv.org/abs/1804.05141"> https://arxiv.org/abs/1804.05141</a>
+     description: Ekiden is a system that addresses these critical confidentiality and performance gaps in smart contracts by combining blockchains with Trusted Execution Environments (TEEs). Ekiden leverages a novel architecture that separates consensus from execution, enabling efficient TEE-backed confidentiality-preserving smart-contracts and high scalability. Our prototype (with Tendermint as the consensus layer) achieves example performance of 600x more throughput and 400x less latency at 1000x less cost than the Ethereum mainnet. For more information, please see our <a href="https://arxiv.org/abs/1804.05141">paper</a>.
      
   -   
      name: 'Public Incompressible Encodings (PIEs)'
      challenges: [*adf]
-     description: We present a provably secure approach to proving file replication (or other erasure coding) in distributed storage networks (DSNs). Storing multiple copies of a file F is essential in DSNs to ensure against file loss in the event of faulty servers or corrupt data. The public nature of DSNs, however, makes this goal challenging. Files must be encoded and decoded using public coins - i.e., without encryption or other secret-key operations - and retention of files by servers in the network must be verifiable. For more info, please see <a href="https://eprint.iacr.org/2018/684.pdf"> https://eprint.iacr.org/2018/684.pdf</a>
+     description: We present a provably secure approach to proving file replication (or other erasure coding) in distributed storage networks (DSNs). Storing multiple copies of a file F is essential in DSNs to ensure against file loss in the event of faulty servers or corrupt data. The public nature of DSNs, however, makes this goal challenging. Files must be encoded and decoded using public coins - i.e., without encryption or other secret-key operations - and retention of files by servers in the network must be verifiable. For more info, please see our <a href="https://eprint.iacr.org/2018/684.pdf">paper</a>.
   
   -
      name: 'OmniLedger: A Secure, Scale-Out, Decentralized Ledger via Sharding'
