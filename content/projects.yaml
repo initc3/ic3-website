@@ -121,7 +121,7 @@ projects:
      description: Virgo is a new zero knowledge proofs scheme for layered arithmetic circuits without trusted setup. It takes only 50 seconds to generate a proof for a circuit with 2^26 gates. And it has succinct prrof size and short verification time. It's based on a prior work Libra and a new transparent zero knowledge verifiable polynomial delegation scheme. The scheme is in the initeractive oracle proof model and based on the univeriate sumcheck. To read more, please see our <a href="https://eprint.iacr.org/2019/1482.pdf">paper</a>.
      
   -
-     name: 'HoneyBadgerBFT: The Honey Badger of BFT Protocols'
+     name: 'Honey BadgerBFT: The Honey Badger of BFT Protocols'
      challenges: [*scaling]
      description: 'HoneyBadgerBFT is the first practical asynchronous BFT protocol, which guarantees liveness without making any timing assumptions. We base our solution on a novel atomic broadcast protocol that achieves optimal asymptotic efficiency. We present an implementation and experimental results to show our system can achieve throughput of tens of thousands of transactions per second, and scales to over a hundred nodes on a wide area network. We even conduct BFT experiments over Tor, without needing to tune any parameters. Unlike the alternatives, HoneyBadgerBFT simply does not care about the underlying network. For more info, please see our <a href="https://eprint.iacr.org/2016/199.pdf">paper</a>.
      
