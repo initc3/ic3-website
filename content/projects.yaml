@@ -237,6 +237,7 @@ projects:
      
   -   
      name: 'Paralysis Proofs'
+     challenges: [*confidentiality]
      description: A (3, 3)-multisignature cryptocurrency wallet experiences access-control paralysis upon loss of a single key, but a (2, 3)-multisig allows any two players to collude and steal funds from the third. Paralysis Proofs address this conundrum and others by allowing multisig parameters to be changed *securely* if users become unavailable. For more info, please see our <a href="https://eprint.iacr.org/2018/096.pdf">paper</a>.
      
   -   
