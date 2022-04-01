@@ -151,9 +151,9 @@ projects:
      description: This project proposes the paradigm for parallel and asynchronous smart contract execution. Our paradigm distinguishes between consensus nodes and execution nodes. It allows different groups of execution nodes to execute transactions in parallel, and meanwhile, consensus nodes can continue ordering transactions and processing execution results in a non-blocking way. Due to our new dispute resolution strategy, it (empirically) only requires 10 execution nodes in each group. Moreover, it requires no coordination among execution nodes and can effectively prevent livelocks.
   
   -
-     name: 'SCARAB: Private, Accountable Data-Sharing on Blockchains'
+     name: 'CALYPSO: Private Data Management for Decentralized Ledgers'
      challenges: [*confidentiality, *adf]
-     description: SCARAB is the first fully-decentralized access control framework for secure blockchain-based data sharing with guaranteed data delivery. On-chain secrets enable the collective management of secrets under a Byzatine adversary in SCARAB by using verifiable secret sharing among a secret-management group. Identity skipchains enable efficient management and autonomous evolution of identities and of access policies while permitting any external client to follow the trust-delegating forward links that point to the user's current set of public keys. For further information, please see our <a href="https://eprint.iacr.org/2018/209.pdf">paper</a>.
+     description: CALYPSO introduces on-chain secrets, a novel abstraction that enforces atomic deposition of an auditable trace whenever users access confidential data. CALYPSO provides user-controlled consent management that ensures revocation atomicity and account anonymity. For further information, please see our <a href="https://eprint.iacr.org/2018/209.pdf">paper</a>.
      
   -
      name: 'Proof-of-Personhood: Redemocratizing Permissionless Cryptocurrencies'
