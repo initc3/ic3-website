@@ -175,11 +175,6 @@ projects:
      challenges: [*scaling]
      description: TxProbe is a mechanism for inferring the topology of the Bitcoin P2P network, making use of how nodes process out-of-order (or (&quot;orphan&quot;)) transactions. It can be used  to take snapshots of the network over a period of minutes. For more info, please see our <a href="https://arxiv.org/abs/1812.00942">paper</a>.
      
-  -   
-     name: 'SaUCy'
-     challenges: [*compliance]
-     description: Universal Composability (UC) is a unifying framework for cryptography theory. SaUCy is a process calculus and programming language that aims to use UC as the foundation for modular protocol implementations. For further information, please read the <a href="https://medium.com/initc3org/using-universal-composability-to-implement-off-chain-payment-channels-d63cc40ddf2f">IC3 blog</a>.
-     
   -    
      name: 'Avalanche'
      challenges: [*scaling]
