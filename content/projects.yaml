@@ -149,11 +149,6 @@ projects:
      name: 'Saber'
      challenges: [*correctness, *scaling] 
      description: This project proposes the paradigm for parallel and asynchronous smart contract execution. Our paradigm distinguishes between consensus nodes and execution nodes. It allows different groups of execution nodes to execute transactions in parallel, and meanwhile, consensus nodes can continue ordering transactions and processing execution results in a non-blocking way. Due to our new dispute resolution strategy, it (empirically) only requires 10 execution nodes in each group. Moreover, it requires no coordination among execution nodes and can effectively prevent livelocks.
-     
-  -   
-     name: 'monoCash'
-     challenges: [*correctness]
-     description: This project proposes the first off-chain payment network that is channel-free, thereby it is a one-hop, routing-free, concurrency-friendly, rebalancing-free, and fully decentralized. For further details, please see our <a href="https://github.com/monocash">work</a>.
   
   -
      name: 'SCARAB: Private, Accountable Data-Sharing on Blockchains'
