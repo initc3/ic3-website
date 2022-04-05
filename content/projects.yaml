@@ -69,6 +69,10 @@ projects:
      name: 'Themis: Fast, Strong Order-Fairness in Byzantine Consensus'
      challenges: [*correctness]
      description: We introduce Themis, a scheme for introducing fair ordering of transactions into (permissioned) Byzantine consensus protocols with at most f faulty nodes among n>_4f+1. Themis is the first such scheme to achieve (optimistic) linear communication complexity. At the same time, it enforces the strongest notion of fair ordering proposed to date. Themis also achieves standard liveness, rather than the weaker notion of previous work. We show experimentally that Themis, can be integrated into state-of-the-art consensus protocols with minimal modification or performance overhead. Additionally, we introduce a suite of experiments of general interest for evaluating the practical strength of various notions of fair ordering and the resilience of fair-ordering protocols to adversarial manipulation. We use this suite of experiments to show that the notion of fair ordering enforced by Themis is significantly stronger in theory and for realistic workloads than those of competing systems. We believe Themis offers strong practical protection against  many types of transactions-ordering attacks---such as front-running and back-running---that are currently impacting commonly used smart contract systems. For more information, please see our <a href="https://eprint.iacr.org/2021/1465">paper</a>.
+
+  -  
+     name: 'Clockwork Finance: Automated Analysis of Economic Security in Smart  Contracts'
+     challenges: [*correctness]
      
   -
      name: 'Tuning PoW with Hybrid Expenditure'
