@@ -101,14 +101,64 @@ projects:
      description: VyperFlow is a new programming language for blockchain-based smart contracts based on Vyper. It incorporates information flow control into its type system to maintain the integrity of date within a contract and avoid performing dangerous operations as a result of untrustworthy inputs. These techniques allow for static analysis that provably eliminates large classes of vulnerabilites, including the bugs that allowed attackers to extract and freeze tens of millions of dollars in two Parity Wallets incidents, as well as some reentrancy bugs like those that doomed the DAO.
  
   -
-     name: Early Evidence of Effectiveness of Digital Contact Tracing for SARS-CoV-2 in Switzerland'
+     name: 'Early Evidence of Effectiveness of Digital Contact Tracing for SARS-CoV-2 in Switzerland'
      challenges: [*adf, *compliance, *correctness]
      description: In the wake of the pandemic of coronavirus disease 2019 (COVID-19), contact tracing has become a key element of strategies to control the spread of severe acute respiratory syndrome coronavirus 2019 (SARS-CoV-2). Given the rapid and intense spread of SARS-CoV-2, digital contact tracing has emerged as a potential complementary tool to support containment and mitigation efforts. Early modelling studies highlighted the potential of digital contact tracing to break transmission chains, and Google and Apple subsequently developed the Exposure Notification (EN) framework, making it available to the vast majority of smartphones. a growing number of governments have launched or announced EN-based contact tracing apps, but their effectiveness remains unknown. Here, we report early findings of the digital contact tracing app deployment in Switzerland. We demonstrate proof-of-principle that contact tracing reaches exposed contacts, who then test positive for SARS-CoV-2. This indicates that digital contact tracing is an effective complementary tool for controlling the spread of SARS-CoV-2. Continued technical improvement and international compatibility can further increase the efficacy, particularly also across country borders. For more information, please see our <a href="https://github.com/digitalepidemiologylab/swisscovid_efficacy/blob/master/SwissCovid_efficacy_MS.pdf">work</a>.
-     
+
+  - 
+     name: 'SquiRL: Automatic Attack Analysis on Blockchain Incentive Mechanisms with Deep Reinforcement Learning'
+     challenges: [*scaling]
+     description: Incentive mechanisms are central to the functionality of permissionless blockchains-they incentivize participants to run and secure the underlying consensus protocol. However, designing incentive-compatible incentive mechanisms is notoriously challenging. As a result, most public blcokchains today use incentive mechanisms whose security properties are poorly understood and largely untested. In this work, we propose SquiRL, a framework for using deep reinforcement learning to analyze attacks on blockchain incentive mechanisms. We demonstrate SquiRL's power by first recovering known attacks, (1) the optimal selfish mining attack on Bitcoin [52], and (2) the Nash equilibrium in block withholding attacks [16]. We also use SquiRL to obtain several novel empirical results. First, we discover a counterintuitive flaw in the widely used rushing adversary model when applied to multi-agent Markov games with incomplete information. Second, we demonstrate that the optimal selfish mining strategy identified in [52] is actually not a Nash equilibrium in the multi-agent selfish mining setting. In fact, our results suggest (but do not prove) that when more than two competing agents engage in selfish mining, there is no profitable Nash equilibrium. This is consistent with the lack of observed selfish mining in the wild. Third, we find a novel attack on simplified version of the Ethereum finalization mechanism, Casper the Friendly Finality Gadget (FFG) that allows a strategic agent to amplify her rewards by up to 30%. Notably, [10] shows that honest voting is a Nash equilibrium in Casper FFG - our attack shows that when Casper FFG is composed with selfish mining, this is no longer the case. Altogether, our experiments demonstrate that SquiRL shows flexibility and promise as a framework for studying attack settings that have thus far eluded theoretical and empirical understanding. For more information, please see our <a href="https://arxiv.org/pdf/1912.01798.pdf">paper</a>.
+         
   -
      name: 'CanDID: Can-Do Decentralized Identity with Legacy Compatibility, Sybil-Resistance, and Accountability'
      challenges: [*confidentiality, *compliance]
      description: CanDID is a platform for practical, user-friendly realization of decentralized identity, the idea of empowering end users with management of their own credentials. While decentralized identity promises to give users greater control over their private data, it burdens users with management of private keys, creating a significant risk of key loss. Existing and proposed approaches also presume the spontaneous availability of a credential-issuance ecosystem, creating a bootstrapping problem. They also omit essential functionality, like resistance to Sybil attacks and the ability to detect misbehaving or sanctioned users while preserving user privacy. CanDID addresses these challenges by issuing credentials in a user-friendly way that draws securely and privately on data from existing, unmodified web service providers. Such legacy compatibility similarly enables CanDID users to leverage their existing online accounts for recovery of lost keys. Using a decentralized commitee of nodes, CanDID provides strong confidentiality for user's keys, real-world identities, and data, yet prevents users from spawning multiple identites and allows identification (and blacklisting) of sanctioned users. To read more, see our <a href="https://eprint.iacr.org/2020/934.pdf">paper</a>.
+
+  -
+     name: 'MAD-HTCL - Because HTCL is Crazy-Cheap to Attack'
+     challenges: [*correctness, *compliance]
+     description: Smart contracts and transactions allow users to implement elaborate constructions on cryptocurrency blockchains like Bitcoin, Ethereum, and Libra. Many of these, including operational payment channels, use a building block called Hased Time-Locked Contract (HTLC). In this work, we distill from HTLC a specification (HTLCSpec), and present an implementation called Mutual-Assured-Distruction Hashed Time-Locked Contract (MAD-HTCL). MAD-HTLC employs a novel approach of utilizing the existing blockchain operators, called miners, as part of the design. If a user misbehaves, MAD-HTLC incentivizes the miners to confiscate all their funds. We prove that MAD-HTLC satisfies HTLC-Spec with game-theoretic analysis and instantiate it on Bitcoin's operational blockchain. Notably, current miner software makes only little effort to optimize revenue, since the advantage is relatively small. However, as the demand grows and other revenue components shrink, miners are motivated to fully optimize their fund intake. By patching the standard Bitcoin client, we demonstrate such an optimization is easy to implement, making the miners natural enforcers of MAD-HTLC. Finally, we show how vulerable HTLC is to bribery attacks. An attacker can incentivize miners to prefer their transactions by offering high transaction fees. We demonstrate this can be easily implemented by patching Bitcoin client, and use game theoretic tools to qualitatively tighten the known cost bound of such bribery attacks. For the technical paper, see <a href="https://arxiv.org/abs/2006.12031">here</a>.
+ 
+  -  
+     name: 'HoneyBadgerMPC'
+     challenges: [*scaling, *confidentiality, *compliance]
+     description: Multi-Party Computation (MPC) is a flexible paradigm for computing on confidential data. HoneyBadgerMPC is an asynchronous MPC protocol and implementation that scales to large networks and provides blockchain-grade fault tolerance and availability guarantees. For more info, please see <a href="https://github.com/initc3/HoneyBadgerMPC/">HoneyBadgerMPC</a>.
+     
+  -
+     name: 'One Round Threshold ECDSA with Identifiable Abort'
+     challenges: [*correctness]
+     description: Threshold ECDSA signatures have received much attention in recent years due to the widespread use of ECDSA in cryptocurrencies. While various protocols now exist that admit efficient distributed key generation and signing, these protocols have two main drawbacks. Firstly, if a player misbehaves, the protocol will abort, but all current protocols give no way to detect which player is responsible for the abort. In distributed settings, this can be catastrophic as any player can cause the protocol to fail without any consequence. General techniques to realize dishonest-majority MPC with identifiable abort add a prohibitive overhead, but we show how to build a tailored protocol for threshold ECDSA with minimal overhead. Secondly, current threshold ECDSA protocols (that do not rely on generic MPC) have numerous rounds of interaction. We present a highly efficient protocol with a non-interactive online phase allowing for players to asynchronously participate in the protocol without the need to be online simultaneously. We benchmark our protocols and find that our protocol simultaneously reduces the rounds and computations of current protocols, while adding significant functionality--identifiable abort and noninteractivity. For more information, please see our <a href="https://eprint.iacr.org/2020/540">paper</a>. 
+
+  -
+     name: 'Selfish Mining Re-examined'
+     challenges: [*compliance]
+     description: This project revisits the selfish mining (SM) strategy in two ways. First, we present a modified SM strategy, convert selfish mining, that, perplexingly, is more profitable than Nakamoto even when the attacker performs no selfish mining after a difficulty adjustment. This strategy has the added benefit that it is even harder to detect than pure SM, and may additionally increase token value through deflation. Second, we analyze the profitability of SM under several difficulty adjustment schemes. For further information, please see our <a href="http://fc20.ifca.ai/preproceedings/4.pdf">paper</a>.
+
+  -
+     name: 'Virgo' 
+     challenges: [*scaling, *confidentiality]
+     description: Virgo is a new zero knowledge proofs scheme for layered arithmetic circuits without trusted setup. It takes only 50 seconds to generate a proof for a circuit with 2^26 gates. And it has succinct prrof size and short verification time. It's based on a prior work Libra and a new transparent zero knowledge verifiable polynomial delegation scheme. The scheme is in the initeractive oracle proof model and based on the univeriate sumcheck. To read more, please see our <a href="https://eprint.iacr.org/2019/1482.pdf">paper</a>.
+     
+  -
+     name: 'BDoS: Blockchain Denial of Service'
+     challenges: [*correctness, *compliance]
+     description: We have discovered a denial-of-service attack on Bitcoin-like blockchains that is much cheaper than previously described attacks. Such blockchains rely on incentives to provide security. We show how an attacker can disrupt those incentives to cause rational miners to stop mining. Read the technical report <a href="https://arxiv.org/abs/1912.07497">here</a>. 
+  
+  -   
+     name: 'Bone Crusher 2.0'
+     challenges: [*compliance]
+     description: The late legal scholar Greg Lastowka wrote about law, property, and self-government in virtual worlds like Ultima Online. His observations are relevant to blockchains and their communities of users. For more information, please read my <a href="https://james.grimmelmann.net/files/articles/bone-crusher.pdf">paper</a>.
+  
+  -    
+     name: 'All Smart Contracts Are Ambiguous'
+     challenges: [*compliance]
+     description: Legal contracts are written in natural language, which can introduce ambiguity as to their meaning. Blockchain-based smart contracts are written in programming languages, which seems to give them precise, objective meanings. But because the semantics of a smart contract can change if participants fork the underlying blockchain or revise its protocol, the meaning of a smart contract is always subject to this latent ambiguity. For more information, please read my <a href="https://james.grimmelmann.net/files/articles/all-smart-contracts.pdf">paper</a>.
+
+  -   
+     name: "I Can't Believe It's Not Stake"
+     challenges: [*scaling, *correctness]
+     description: Dozens of Proof-of-Stake cryptocurrencies are vulnerable to resource exhaustion attacks due to incomplete validation of blocks prior to allocating storage resources (disk, memory) to data from untrusted peers. For further details, please see our <a href="https://fc19.ifca.ai/preproceedings/180-preproceedings.pdf">paper</a>.
      
   -
      name: 'DECO'
@@ -119,21 +169,26 @@ projects:
      name: 'Confidence Clustering'
      challenges: [*correctness]
      description: This project is focused on developing a set of metrics that can increase confidence in the results of cryptocurrency clustering heuristics. These new techniques, which will output a probability of two addresses belonging to the same cluster rather than a binary yes/no answer, will enable more informed decisions and strengthen the use of exisiting heuristics by providing more evidence that their results are correct. 
+  
+  -   
+     name: 'Ekiden'
+     challenges: [*confidentiality]
+     description: Ekiden is a system that addresses these critical confidentiality and performance gaps in smart contracts by combining blockchains with Trusted Execution Environments (TEEs). Ekiden leverages a novel architecture that separates consensus from execution, enabling efficient TEE-backed confidentiality-preserving smart-contracts and high scalability. Our prototype (with Tendermint as the consensus layer) achieves example performance of 600x more throughput and 400x less latency at 1000x less cost than the Ethereum mainnet. For more information, please see our <a href="https://arxiv.org/abs/1804.05141">paper</a>.
      
+  -
+     name: 'Teechain'
+     challenges: [*scaling]
+     description: Teechain is the first asynchronous second layer payment network that allows users to execute immediate payments while not requiring parties to constantly monitor the blockchain. Teechain leverages trusted execution environments (TEEs) and uses a new variant of chain replication to ensure security against TEE compromise and side-channel attacks. Teechain achieves at least 33x better throughput than other existing payment networks. For more info, please see our <a href="https://www.teechain.network">paper</a>.
+   
+  -   
+     name: 'Ostraka'
+     challenges: [*scaling]
+     description: Currently, the capacity of a blockchain node can only scale by replacing hardware. For better performance, one must obtain newer hardware. Node capacity effects both initial sync time and block propagation time in the network. We utilize the parallel nature of the UTXO set to build a scalable node architecture. For more info, please see our <a href="https://arxiv.org/abs/1907.03331">paper</a>.     
+ 
   -
      name: 'Ironwood'
      challenges: [*correctness]
      description: Ironwood is a formal verification framework for Byzantine-fault tolerant consensus protocols implemented in Coq. Its goal is to produce formally verified implementations of consensus protocols with competitive performance while being flexible and compositional to support a wide range of protocols, including blockchain-style protocols such as Hotstuff. Ironwood utilizes domain-specific features of distributed systems through novel programming language constructs to reduce the verification effort of protocol implementation and enables verification of more practical, optimized protocols. 
-     
-  -
-     name: 'MAD-HTCL - Because HTCL is Crazy-Cheap to Attack'
-     challenges: [*correctness, *compliance]
-     description: Smart contracts and transactions allow users to implement elaborate constructions on cryptocurrency blockchains like Bitcoin, Ethereum, and Libra. Many of these, including operational payment channels, use a building block called Hased Time-Locked Contract (HTLC). In this work, we distill from HTLC a specification (HTLCSpec), and present an implementation called Mutual-Assured-Distruction Hashed Time-Locked Contract (MAD-HTCL). MAD-HTLC employs a novel approach of utilizing the existing blockchain operators, called miners, as part of the design. If a user misbehaves, MAD-HTLC incentivizes the miners to confiscate all their funds. We prove that MAD-HTLC satisfies HTLC-Spec with game-theoretic analysis and instantiate it on Bitcoin's operational blockchain. Notably, current miner software makes only little effort to optimize revenue, since the advantage is relatively small. However, as the demand grows and other revenue components shrink, miners are motivated to fully optimize their fund intake. By patching the standard Bitcoin client, we demonstrate such an optimization is easy to implement, making the miners natural enforcers of MAD-HTLC. Finally, we show how vulerable HTLC is to bribery attacks. An attacker can incentivize miners to prefer their transactions by offering high transaction fees. We demonstrate this can be easily implemented by patching Bitcoin client, and use game theoretic tools to qualitatively tighten the known cost bound of such bribery attacks. For the technical paper, see <a href="https://arxiv.org/abs/2006.12031">here</a>.
-     
-  -
-     name: 'BDoS: Blockchain Denial of Service'
-     challenges: [*correctness, *compliance]
-     description: We have discovered a denial-of-service attack on Bitcoin-like blockchains that is much cheaper than previously described attacks. Such blockchains rely on incentives to provide security. We show how an attacker can disrupt those incentives to cause rational miners to stop mining. Read the technical report <a href="https://arxiv.org/abs/1912.07497">here</a>. 
      
   -
      name: 'AIRS: Automated Incentives for Reforestation Stewardship'
@@ -146,30 +201,15 @@ projects:
      description: We present Libra, the first zero-knowledge proof system that has both optimal prover time and succinct proof size/verification time. In particular, if C is the size of the circuit being proved (i) the prover time is O(C) irrespective of the circuit type; (ii) the proof size and verification time are both O(d log C) for d-depth log-space uniform circuits (such as RAM programs). In addition Libra features an one-time trusted setup that depends only on the size of the input to the circuit and not the circuit logic. Underlying Libra is a new linear-time algorithm for the prover of the interactive proof protocol by Goldwasser, Kalai and Rothblum (also known as GKR protocol), as well as an efficient approach to turn the GKR protocol to zero-knowledge using small masking polynomials. Not only does Libra have excellent asymptotics, but it is also efficient in practice. For example, our implementation shows that it takes 200 seconds to generate a proof for constructing a SHA2-based Merkle tree root on 256 leaves, outperforming all existing zero-knowledge proof systems. Proof size and verification time of Libra are also competitive. For more see our <a href="https://eprint.iacr.org/2019/317.pdf">paper</a>. 
      
   -
-     name: 'Virgo' 
-     challenges: [*scaling, *confidentiality]
-     description: Virgo is a new zero knowledge proofs scheme for layered arithmetic circuits without trusted setup. It takes only 50 seconds to generate a proof for a circuit with 2^26 gates. And it has succinct prrof size and short verification time. It's based on a prior work Libra and a new transparent zero knowledge verifiable polynomial delegation scheme. The scheme is in the initeractive oracle proof model and based on the univeriate sumcheck. To read more, please see our <a href="https://eprint.iacr.org/2019/1482.pdf">paper</a>.
-     
-  -
      name: 'HoneyBadgerBFT: The Honey Badger of BFT Protocols'
      challenges: [*scaling]
      description: HoneyBadgerBFT is the first practical asynchronous BFT protocol, which guarantees liveness without making any timing assumptions. We base our solution on a novel atomic broadcast protocol that achieves optimal asymptotic efficiency. We present an implementation and experimental results to show our system can achieve throughput of tens of thousands of transactions per second, and scales to over a hundred nodes on a wide area network. We even conduct BFT experiments over Tor, without needing to tune any parameters. Unlike the alternatives, HoneyBadgerBFT simply does not care about the underlying network. For more info, please see our <a href="https://eprint.iacr.org/2016/199.pdf">paper</a>.
      
   -
-     name: 'Teechain'
-     challenges: [*scaling]
-     description: Teechain is the first asynchronous second layer payment network that allows users to execute immediate payments while not requiring parties to constantly monitor the blockchain. Teechain leverages trusted execution environments (TEEs) and uses a new variant of chain replication to ensure security against TEE compromise and side-channel attacks. Teechain achieves at least 33x better throughput than other existing payment networks. For more info, please see our <a href="https://www.teechain.network">paper</a>.
-     
-  -
      name: 'Charlotte'
      challenges: [*scaling]
      description: Charlotte is a new open framework for building parallel, interoperable blockchainsystems. It supports a variety of consensus mechanisms including proof of work as well as more classic distributed consensus protocols. For more information, please see our <a href="https://arxiv.org/abs/1905.03888">paper</a>.
-     
-  -
-     name: 'Selfish Mining Re-examined'
-     challenges: [*compliance]
-     description: This project revisits the selfish mining (SM) strategy in two ways. First, we present a modified SM strategy, convert selfish mining, that, perplexingly, is more profitable than Nakamoto even when the attacker performs no selfish mining after a difficulty adjustment. This strategy has the added benefit that it is even harder to detect than pure SM, and may additionally increase token value through deflation. Second, we analyze the profitability of SM under several difficulty adjustment schemes. For further information, please see our <a href="http://fc20.ifca.ai/preproceedings/4.pdf">paper</a>.
-          
+      
   -
      name: 'T-Rex'
      challenges: [*correctness, *scaling]
@@ -205,16 +245,6 @@ projects:
      challenges: [*scaling]
      description: BFT consensus used by cryptocurrencies consists of two families, traditional consensus and Nakamoto's consensus. The former is usually leader-based, quadratic in message complexity. It requires precise membership knowledge, and suffers from leader bottleneck as it scales up in size. While the latter does not require membership, it is poor in performance and wasteful in energy due to PoW. This project proposes the third, new category of consensus protocols that is PoW-free, leader-less, committee-less, permission-less. It exerts the powerful meta-stability inspired by epidemic protocols, and operators as fast as the network propagates. For more info, please see our <a href="https://avalanchelabs.org/QmT1ry38PAmnhparPUmsUNHDEGHQusBLD6T5XJh4mUUn3v.pdf">avalabs.org</a>.
      
-  -  
-     name: 'HoneyBadgerMPC'
-     challenges: [*scaling, *confidentiality, *compliance]
-     description: Multi-Party Computation (MPC) is a flexible paradigm for computing on confidential data. HoneyBadgerMPC is an asynchronous MPC protocol and implementation that scales to large networks and provides blockchain-grade fault tolerance and availability guarantees. For more info, please see <a href="https://github.com/initc3/HoneyBadgerMPC/">HoneyBadgerMPC</a>.
-     
-  -   
-     name: "I Can't Believe It's Not Stake"
-     challenges: [*scaling, *correctness]
-     description: Dozens of Proof-of-Stake cryptocurrencies are vulnerable to resource exhaustion attacks due to incomplete validation of blocks prior to allocating storage resources (disk, memory) to data from untrusted peers. For further details, please see our <a href="https://fc19.ifca.ai/preproceedings/180-preproceedings.pdf">paper</a>.
-     
   -   
      name: 'PISA Outsourcing'
      challenges: [*scaling, *compliance]
@@ -224,16 +254,6 @@ projects:
      name: 'Sprites and State Channels'
      challenges: [*compliance, *scaling]
      description: Off-chain payment channel networks (PCNs) are a leading approach for improving the scalability of blockchains. Sprites is an innovative construction that reduces the worst-case lockup time during which, funds must be held in escrow for a PCN payment. For more info, please see our <a href="https://arxiv.org/abs/1702.05812">paper</a>.
-     
-  -   
-     name: 'Bone Crusher 2.0'
-     challenges: [*compliance]
-     description: The late legal scholar Greg Lastowka wrote about law, property, and self-government in virtual worlds like Ultima Online. His observations are relevant to blockchains and their communities of users. For more information, please read my <a href="https://james.grimmelmann.net/files/articles/bone-crusher.pdf">paper</a>.
-     
-  -    
-     name: 'All Smart Contracts Are Ambiguous'
-     challenges: [*compliance]
-     description: Legal contracts are written in natural language, which can introduce ambiguity as to their meaning. Blockchain-based smart contracts are written in programming languages, which seems to give them precise, objective meanings. But because the semantics of a smart contract can change if participants fork the underlying blockchain or revise its protocol, the meaning of a smart contract is always subject to this latent ambiguity. For more information, please read my <a href="https://james.grimmelmann.net/files/articles/all-smart-contracts.pdf">paper</a>.
      
   -
      name: 'ByzCoin: Enhancing Bitcoin Security and Performance with Strong Consistency via Collective Signing'
@@ -266,11 +286,6 @@ projects:
      description: We propose Tesseract, a secure real-time cryptocurrency exchange service. Existing centralized exchnge designs are vulnerable to theft of funds, while decentralized exchanges cannot offer real-time crrosschain trades. All currently deployed exchanges are also vulnerable to frontrunning attacks. Tesseract overcomes these flaws and achieves a best-of-bothworlds design by using Intel SGX as a trusted execution environment. For more info, please see our <a href="https://eprint.iacr.org/2017/1153.pdf">paper</a>.
      
   -   
-     name: 'Ekiden'
-     challenges: [*confidentiality]
-     description: Ekiden is a system that addresses these critical confidentiality and performance gaps in smart contracts by combining blockchains with Trusted Execution Environments (TEEs). Ekiden leverages a novel architecture that separates consensus from execution, enabling efficient TEE-backed confidentiality-preserving smart-contracts and high scalability. Our prototype (with Tendermint as the consensus layer) achieves example performance of 600x more throughput and 400x less latency at 1000x less cost than the Ethereum mainnet. For more information, please see our <a href="https://arxiv.org/abs/1804.05141">paper</a>.
-     
-  -   
      name: 'Public Incompressible Encodings (PIEs)'
      challenges: [*adf]
      description: We present a provably secure approach to proving file replication (or other erasure coding) in distributed storage networks (DSNs). Storing multiple copies of a file F is essential in DSNs to ensure against file loss in the event of faulty servers or corrupt data. The public nature of DSNs, however, makes this goal challenging. Files must be encoded and decoded using public coins - i.e., without encryption or other secret-key operations - and retention of files by servers in the network must be verifiable. For more info, please see our <a href="https://eprint.iacr.org/2018/684.pdf">paper</a>.
@@ -280,12 +295,7 @@ projects:
      challenges: [*scaling]
      description: OmniLedger is a novel scale-out decentralized ledger framework that preserves longterm security under permissionless operation by using bias-resistant public-randomness for choosing large, statistically representative shards that process transactions, and by introducing Atomix, an efficient cross-shard commit protocol, that atomically handles transactions affecting multiple shards. OmniLedger's throughput scales linearly in the number of active validators, supporting Visa-level workloads and beyond, while confirming typical transactions in under two seconds thanks to its low-latency "trust-but-verify" transaction validation mechanism. Link to our <a href="https://eprint.iacr.org/2017/406.pdf">paper</a>.
      
-  -   
-     name: 'Ostraka'
-     challenges: [*scaling]
-     description: Currently, the capacity of a blockchain node can only scale by replacing hardware. For better performance, one must obtain newer hardware. Node capacity effects both initial sync time and block propagation time in the network. We utilize the parallel nature of the UTXO set to build a scalable node architecture. For more info, please see our <a href="https://arxiv.org/abs/1907.03331">paper</a>.     
-
-  -   
+   -   
      name: 'The Gap Game'
      challenges: [*compliance]
      description: Incentive analysis in a PoW cryptocurrency, where transaction fees play a dominant role. We analyze suck systems as a game and show (&quot;mining gaps&quot;) occur - periods of time where miners are incentivized to be idle instead of actively mining. We also show in such systems, miners are better off forming coalitions, which leads to a centralized system. For more info, please see our <a href="https://dl.acm.org/citation.cfm?id=3243737">paper</a>.
