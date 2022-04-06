@@ -170,11 +170,6 @@ projects:
      challenges: [*correctness]
      description: This project is focused on developing a set of metrics that can increase confidence in the results of cryptocurrency clustering heuristics. These new techniques, which will output a probability of two addresses belonging to the same cluster rather than a binary yes/no answer, will enable more informed decisions and strengthen the use of exisiting heuristics by providing more evidence that their results are correct. 
   
-  -   
-     name: 'Ekiden'
-     challenges: [*confidentiality]
-     description: Ekiden is a system that addresses these critical confidentiality and performance gaps in smart contracts by combining blockchains with Trusted Execution Environments (TEEs). Ekiden leverages a novel architecture that separates consensus from execution, enabling efficient TEE-backed confidentiality-preserving smart-contracts and high scalability. Our prototype (with Tendermint as the consensus layer) achieves example performance of 600x more throughput and 400x less latency at 1000x less cost than the Ethereum mainnet. For more information, please see our <a href="https://arxiv.org/abs/1804.05141">paper</a>.
-     
   -
      name: 'Teechain'
      challenges: [*scaling]
@@ -200,41 +195,151 @@ projects:
      challenges: [*scaling]
      description: Charlotte is a new open framework for building parallel, interoperable blockchain systems. It supports a variety of consensus machanisms including proof of work as well as more classic distributed consensus protocols. For more information, please see our <a href="https://arxiv.org/abs/1905.03888">paper</a>. 
   
+  - 
+     name: 'Libra'
+     challenges: [*scaling, *confidentiality]
+     description: We present Libra, the first zero-knowledge proof system that has both optimal prover time and succinct proof size/verification time. In particular, if C is the size of the circuit being proved (i) the prover time is O(C) irrespective of the circuit type, (ii) the proof size and verification time are both O(d log C) for d-depth log-space uniform circuits (such as RAM programs). In addition Libra features an one-time trusted setup that depends only on the size of the input to the circuit and not the circuit logic. Underlying Libra is a new linear-time algorithm for the prover of the interactive proof protocol by Goldwasser, Kalai and Rothblum (also known as GKR protocol), as well as an efficient approach to turn the GKR protocol to zero-knowledge using small masking polynomials. Not only does Libra have excellent asymptotics, but it is also efficient in practice. For example, our implementation shows that it takes 200 seconds to generate a proof for constructing a SHA2-based Merkle tree root on 256 leaves, outperforming all existing zero-knowledge proof systems. Proof size and verification time of Libra are also competitive. For more information, please see our <a href="https://eprint.iacr.org/2019/317.pdf">paper</a>.  
+  
+  -   
+     name: 'CHURP (CHUrn-Robust Proactive secret sharing)' 
+     challenges: [*scaling, *confidentiality]
+     description: CHURP enables secure secret-sharing in dynamic settings where the committee of nodes storing a secret may change over time. Designed for blockchain settings, CHURP has communication complexity much lower than previous schemes; O(n) on-chain and O(n^2) off-chain in the optimistic case of no node failures. For more information, please see our <a href="https://eprint.iacr.org/2019/017">paper</a>.
+     
+  -
+     name: 'T-Rex'
+     challenges: [*correctness, *scaling]
+     description: This project proposes a real-time and trust-free cryptocurrency exchange based on Intel SGX. It can effectively prevent eclipse attacks without assuming trusted clocks. It also prevents a malicious trader who colludes with the server from reneging on a trade after observing the price fluctuations. 
+
+  -   
+     name: 'Public Incompressible Encodings (PIEs)'
+     challenges: [*adf]
+     description: We present a provably secure approach to proving file replication (or other erasure coding) in distributed storage networks (DSNs). Storing multiple copies of a file F is essential in DSNs to ensure against file loss in the event of faulty servers or corrupt data. The public nature of DSNs, however, makes this goal challenging. Files must be encoded and decoded using public coins - i.e., without encryption or other secret-key operations - and retention of files by servers in the network must be verifiable. For more info, please see our <a href="https://eprint.iacr.org/2018/684.pdf">paper</a>.
+  
+  -   
+     name: 'The Gap Game'
+     challenges: [*compliance]
+     description: Incentive analysis in a PoW cryptocurrency, where transaction fees play a dominant role. We analyze suck systems as a game and show (&quot;mining gaps&quot;) occur - periods of time where miners are incentivized to be idle instead of actively mining. We also show in such systems, miners are better off forming coalitions, which leads to a centralized system. For more info, please see our <a href="https://dl.acm.org/citation.cfm?id=3243737">paper</a>.
+
+  -   
+     name: 'PISA Outsourcing'
+     challenges: [*scaling, *compliance]
+     description: The security guarantees of Payment Channel Networks (PCNs) rely on the availability of an online party to defend honest nodes in cases of a spurious disputes. PISA is a protocol for outsourcing this task to a limited third party while receiving a fair exchange receipt. For more info, please see our <a href="https://eprint.iacr.org/2018/582.pdf">paper</a>.
+     
   -
      name: 'Ironwood'
      challenges: [*correctness]
      description: Ironwood is a formal verification framework for Byzantine-fault tolerant consensus protocols implemented in Coq. Its goal is to produce formally verified implementations of consensus protocols with competitive performance while being flexible and compositional to support a wide range of protocols, including blockchain-style protocols such as Hotstuff. Ironwood utilizes domain-specific features of distributed systems through novel programming language constructs to reduce the verification effort of protocol implementation and enables verification of more practical, optimized protocols. 
      
+  -   
+     name: 'Ekiden'
+     challenges: [*confidentiality]
+     description: Ekiden is a system that addresses these critical confidentiality and performance gaps in smart contracts by combining blockchains with Trusted Execution Environments (TEEs). Ekiden leverages a novel architecture that separates consensus from execution, enabling efficient TEE-backed confidentiality-preserving smart-contracts and high scalability. Our prototype (with Tendermint as the consensus layer) achieves example performance of 600x more throughput and 400x less latency at 1000x less cost than the Ethereum mainnet. For more information, please see our <a href="https://arxiv.org/abs/1804.05141">paper</a>.
+        
   -
      name: 'AIRS: Automated Incentives for Reforestation Stewardship'
      challenges: [*good]
      description: The accelerating effect of global climate change is a major challenge for humanity. One critical component of any comprehensive solution is reforestation. As large and effective carbon sinks, forests are important to both conserve and expand. Not all types of forest, though, are equally effective at carbon sequestration. To create, monitor, and manage effective reforestation programs, it is essential that we be able to measure forest carbon accurately and with high geospatial precision. Our project will build infrastructure that, (1) Provides an accurate and trustworthy source of data on forest carbon and (2) Implements a system of automated monetary rewards for local inhabitants to conserve and/or increase forests that effectively reduce carbon emissions. By combining the two capabilities of reliable quantification and targeted rewards, we believe we can provide powerful support for climate change programs that aim to realize the value of forests as a part of the global economy. For instance, the REDD+ program, under development by parties to the United Nations Framework Convention on Climate Change, aims to incentivize developing countries to reduce emissions resulting from deforestation and forest degradation, thus conserving and enhancing forest carbon sticks. We will build a public performance-based payment system using two blockchain technologies. The first is an *oracle*, a trustworthy source of data for blockchain applications, it obtains and analyzes satellite data to relay trustworthy statistics on forest carbon. The second key component is a *smart contract*, a blockchain application that consumes data from the oracle and sends cryptocurrency rewards to forest stewards. Our system will also automatically identify the legitimate stakeholders/stewards of forested land by combining local land registry records, geolocation via smartphones, and fraud/anomaly detection. 
+  
+  -
+     name: 'CALYPSO: Private Data Management for Decentralized Ledgers'
+     challenges: [*confidentiality, *adf]
+     description: CALYPSO introduces on-chain secrets, a novel abstraction that enforces atomic deposition of an auditable trace whenever users access confidential data. CALYPSO provides user-controlled consent management that ensures revocation atomicity and account anonymity. For further information, please see our <a href="https://eprint.iacr.org/2018/209.pdf">paper</a>.
+  
+  -   
+     name: 'Paralysis Proofs'
+     challenges: [*confidentiality]
+     description: A (3, 3)-multisignature cryptocurrency wallet experiences access-control paralysis upon loss of a single key, but a (2, 3)-multisig allows any two players to collude and steal funds from the third. Paralysis Proofs address this conundrum and others by allowing multisig parameters to be changed *securely* if users become unavailable. For more info, please see our <a href="https://eprint.iacr.org/2018/096.pdf">paper</a>.
+  
+  -   
+     name: 'Tesseract'
+     challenges: [*confidentiality]
+     description: We propose Tesseract, a secure real-time cryptocurrency exchange service. Existing centralized exchnge designs are vulnerable to theft of funds, while decentralized exchanges cannot offer real-time crrosschain trades. All currently deployed exchanges are also vulnerable to frontrunning attacks. Tesseract overcomes these flaws and achieves a best-of-bothworlds design by using Intel SGX as a trusted execution environment. For more info, please see our <a href="https://eprint.iacr.org/2017/1153.pdf">paper</a>.
+  
+  -  
+     name: 'The Hydra Project'
+     challenges: [*correctness]
+     description: <a href="https://eprint.iacr.org/2017/1090.pdf">Hydra</a> is a cutting-edge Ethereum contract development framework for decentralized security and bug bounties rigorous cryptoeconomic security guarantees mitigating programmer and compiler error.
+
+  - 
+     name: 'PriFi: Low-Latency Anonymity for Organizational Networks'
+     challenges: [*confidentiality]
+     description: Organizational networks are vulnerable to traffic analysis attacks that enable adversaries to infer sensitive information from network traffic - even if encryption is used. Typical anonymous communication networks are tailored to the Internet and are poorly suited for organizational networks. We present PriFi, an anonymous communication protocol for LANs, which protects users against eavesdroppers and provides high-performance traffic-analysis resistance. PriFi builds on Dining Cryptographers networks (DC-nets), but reduces the high communication latency of prior designs via a new client/relay/server architecture, in which the client packets remain on their usual network path without additional hops, and in which a set of remote servers assist the anonymization process without adding latency. PriFi also solves the challenge of equivocation attacks, which are not addressed by related work, by encrypting traffic based on communication history. Our evaluation shows that PriFi introduces modest latency overhead (~100ms for 100 clienrs) and is compatible with delay-sensitive applications such as Voice-over-IP. For more information, please see our <a href="https://bford.info/pub/sec/prifi/pets20-prifi.pdf">paper</a>.
      
+  -
+     name: 'CHAINIAC: Proactive Software-Update Transparency via Collectively Signed Skipchains and Verified Builds'
+     challenges: [*correctness]
+     description: CHAINIAC is a decentralized software update framework that aliminates single points of failure, enforces transparency, and provides efficient verifiability of integrity and authenticity for software-release processes. Independent witness servers collectively verify conformance of software updates to release policies, build verifiers validate the source-to-binary correspondence, and a tamper-proof release log stores collectively signed updates, thus ensuring that no release in accepted by clients before being widely disclosed and validated. The release log embodies a skipchain, a novel data structure, enabling arbitrarily out-of-date clients to efficiently validate updates and signing keys. Link to <a href="https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-nikitin.pdf">paper</a>.
+ 
+  -
+     name: 'OmniLedger: A Secure, Scale-Out, Decentralized Ledger via Sharding'
+     challenges: [*scaling]
+     description: OmniLedger is a novel scale-out decentralized ledger framework that preserves longterm security under permissionless operation by using bias-resistant public-randomness for choosing large, statistically representative shards that process transactions, and by introducing Atomix, an efficient cross-shard commit protocol, that atomically handles transactions affecting multiple shards. OmniLedger's throughput scales linearly in the number of active validators, supporting Visa-level workloads and beyond, while confirming typical transactions in under two seconds thanks to its low-latency "trust-but-verify" transaction validation mechanism. Link to our <a href="https://eprint.iacr.org/2017/406.pdf">paper</a>.
+  
+  -
+     name: 'Proof-of-Personhood: Redemocratizing Permissionless Cryptocurrencies'
+     challenges: [*compliance]
+     description: Proof-of-personhood (PoP) is a mechanism that binds physical entities to virtual identities in a way that enables accountability while preserving anonymity. Proof-of-personhood can be used as a democratic alternative to the commonly used proof-of-work or proof-of-stake approaches to create secure identities in permissionless cryptocurrencies. The prototype cryptocurrency to PoPCoin utilizes PoP in its consensus layer showing how a continuously fair and democratic wealth creation process could look like which paves the way for experimental basic income infrastructure. Please see our <a href="http://www.brynosaurus.com/pub/dec/pop.pdf">paper</a>.
+  
+  -    
+     name: 'Sprites and State Channels'
+     challenges: [*compliance, *scaling]
+     description: Off-chain payment channel networks (PCNs) are a leading approach for improving the scalability of blockchains. Sprites is an innovative construction that reduces the worst-case lockup time during which, funds must be held in escrow for a PCN payment. For more info, please see our <a href="https://arxiv.org/abs/1702.05812">paper</a>.
+  
+  - 
+     name: 'Miniature World: A Test Bed for Simulating Real World Blockchain'
+     challenges: [*scaling]
+     description: Miniature World is a large blockchain emulation test bed at Cornell University consisting of ~1000 nodes. This test bed enables us to run experiments on different blockchains, and a variety of use cases, using realistic internet latencies to evaluate real world scenarios (as referenced above for Bitcoin-NG). We make Miniature World available for our Industry Sponsors to evaluate various block chains and their use cases. For more info about becoming an IC3 Industry Sponsor, please see our <a href="http://www.initc3.org/partners.html">website</a>.
+
+  -
+     name: 'Town Crier: Authenticated Data Feeds for Smart Contracts'
+     challenges: [*confidentiality, *adf, *migration]
+     description: In order to reason about the real world, smart contracts in cryptocurrency systems will rely on informational input from what we call authenticated data feeds (ADFs); such information can include stock prices, meteorological reports, news, and other current events. It is therefore important that an ADF be trustworthy, in the sense of providing security against manipulation by an attacker attempting to influence the outcome of a contract. By utilizing trusted hardware to provide reliable, digitally signed attestations on data to client contracts, the Town Crier system can serve as a trustworthy ADF under minimal trust assumptions about its operator. For further details, please see our <a href="https://dl.acm.org/doi/10.1145/2976749.2978326">paper</a>.
+
+  -
+     name: 'Gyges: Crime in Decentralized Smart Contracts'
+     challenges: [*compliance]
+     description: Two of the most widely desired goals for &quot;Bitcoin 2.0&quot; are privacy and more expressive smart contracts. Many uses of cryptocurrency have a clear and legitimate need for privacy (e.g., financial service companies are expected to protect the privacy of their clients&#39; transactions). General purpose smart contract programming frameworks make it easy to tinker, prototype, and search for the next &quot;killer application&quot; for cryptocurrencies. These two directions seem to be at odds with each other; however, through the use of sophisticated cryptography (like zero knowledge proofs and multi-party computation), we explore how to achieve both goals at once. For further details, please see our <a href="http://www.initc3.org/files/Gyges.pdf">paper</a>.
+
+  -
+     name: 'ByzCoin: Enhancing Bitcoin Security and Performance with Strong Consistency via Collective Signing'
+     challenges: [*scaling]
+     description: ByzCoin is a novel Byzantine consensus protocol that leverages scalable collective signing to commit Bitcoin transactions irreversibly within seconds while preserving Bitcoin's open membership by dynamically forming hash power-proportionate consensus groups that represent recently-successful block miners. ByzCoin mitigates double spending and selfish mining attacks by producing collectively signed transaction blocks within one minute of transaction submission. ByzCoin achieves a throughput higher than Paypal currently handles (>700 tx/s), with a confirmation latency of 15-20 seconds. Learn more at <a href="https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_kokoris-kogias.pdf">USENIX 2016</a>.
+  
+  -
+     name: 'Hawk: Privacy-Preserving Blockchain &amp; Smart Contracts'
+     challenges: [*correctness, *confidentiality]
+     description: Existing blockchain-based cryptocurrencies such as Bitcoin and Ethereum store all financial transactions in the clear on the blockchain. This compromises the privacy of financial transactions, which is essential in numerous applications. Hawk is a blockchain-based smart contract system that stores encrypted transactions on the blockchain, and relies on cryptography to retain the security of the cryptocurrency. For more info, please see our <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7546538">paper</a>.
+  
+  -
+     name: 'Solidus: Confidential Financial Transaction Settlement on a Distributed Ledgers'
+     challenges: [*scaling, *confidentiality]
+     description: Solidus is a cryptocurrency (&quot;blockchain&quot;) that can be run by a confederation or consortium of trustworthy entities--banks, governments, auditors, etc. While it retains some of the benefits of decentralization, Solidus offers higher performance and tighter governance and control than existing cryptocurrencies such as Bitcoin. Many successful peer-to- peer technologies have historically been eclipsed or supplanted by centralized or commercial systems (e.g., in the online music industry). Solidus addresses the possibility and desire by many financial institutions that cryptocurrencies and contracts will follow a similar path. For more info, please see the Solidus presentation at our <a href="http://www.initc3.org/events/2016-05-17-IC3-Retreat-2016.html">2016 IC3 Retreat</a> in NYC.
+
+  -
+     name: 'Fruitchain: A new Approach for Incentive Compatible Blockchains'
+     challenges: [*scaling]
+     description: Most of today's blockchains, such as Bitcoin, are not "incentive compatible", meaning they are quite vulnerable to strategic gaming by dishonest adversaries. For example, IC3 has proven that the Bitcoin blockchain can be compromised by miners or mining pools with much less than 50% of the mining hash power. Fruitchain is an innovative blockchain methodology that discourages dishonest gaming, by making it extremely unprofitable for an adversary with less than 50% of the hash power, achieving an epsilon-equilibrium or near-Nash equilibrium. For more info, please see the Fruitchain presentation by IC3 co-director Professor Elaine Shi at our <a href="http://www.initc3.org/events/2016-05-17-IC3-Retreat-2016.html">2016 IC3 Retreat</a> in NYC.
+
+  -
+     name: 'FLAC: A Calculus for Flow-Limited Authorization'
+     challenges: [*correctness]
+     description: Real-world applications routinely make authorization decisions based on dynamic computation. Integrity of the system might be compromised if attackers can improperly influence the authorizing computation. Confidentiality can also be compromised by authorization, since authorization decisions are often based on sensitive data such as membership lists and passwords. Flow-Limited Authorization Calculus (FLAC) is both a simple, expressive model for reasoning about dynamic authorization and also a language for securely implementing various authorization mechanisms. FLAC provides strong end-to- end information security guarantees even for programs that incorporate and implement rich dynamic authorization mechanisms. For more info, please see the presentation by Professor Andrew Myers “Verifying Information Security of Code in Dynamic Systems” at our <a href="http://www.initc3.org/events/2016-05-17-IC3-Retreat-2016.html">2016 IC3 Retreat</a> in NYC.
+
   -
      name: 'HoneyBadgerBFT: The Honey Badger of BFT Protocols'
      challenges: [*scaling]
      description: HoneyBadgerBFT is the first practical asynchronous BFT protocol, which guarantees liveness without making any timing assumptions. We base our solution on a novel atomic broadcast protocol that achieves optimal asymptotic efficiency. We present an implementation and experimental results to show our system can achieve throughput of tens of thousands of transactions per second, and scales to over a hundred nodes on a wide area network. We even conduct BFT experiments over Tor, without needing to tune any parameters. Unlike the alternatives, HoneyBadgerBFT simply does not care about the underlying network. For more info, please see our <a href="https://eprint.iacr.org/2016/199.pdf">paper</a>.
      
   -
-     name: 'T-Rex'
-     challenges: [*correctness, *scaling]
-     description: This project proposes a real-time and trust-free cryptocurrency exchange based on Intel SGX. It can effectively prevent eclipse attacks without assuming trusted clocks. It also prevents a malicious trader who colludes with the server from reneging on a trade after observing the price fluctuations. 
-     
+     name: 'Bitcoin-NG: A Next-generation Blockchain Protocol'
+     challenges: [*scaling]
+     description: Bitcoin-NG is a new protocol pioneered by IC3. It addresses the scalability bottleneck of Bitcoin by enabling the Bitcoin network to achieve the highest throughput allowed by the network conditions. Paradoxically, not only does it improve transaction throughput, it also reduces transaction latencies -- it is possible to get an initial transaction confirmation in seconds rather than in minutes. And it does so without changing Bitcoin’s open architecture and trust model. Our blockchain test bed Miniature World simulated Bitcoin-NG at 15% the size of the operational Bitcoin system, where we showed that Bitcoin–NG is only limited by the network. For more info, please see our <a href="http://arxiv.org/abs/1510.02037">paper</a>.
+   
   -
      name: 'Saber'
      challenges: [*correctness, *scaling] 
      description: This project proposes the paradigm for parallel and asynchronous smart contract execution. Our paradigm distinguishes between consensus nodes and execution nodes. It allows different groups of execution nodes to execute transactions in parallel, and meanwhile, consensus nodes can continue ordering transactions and processing execution results in a non-blocking way. Due to our new dispute resolution strategy, it (empirically) only requires 10 execution nodes in each group. Moreover, it requires no coordination among execution nodes and can effectively prevent livelocks.
   
-  -
-     name: 'CALYPSO: Private Data Management for Decentralized Ledgers'
-     challenges: [*confidentiality, *adf]
-     description: CALYPSO introduces on-chain secrets, a novel abstraction that enforces atomic deposition of an auditable trace whenever users access confidential data. CALYPSO provides user-controlled consent management that ensures revocation atomicity and account anonymity. For further information, please see our <a href="https://eprint.iacr.org/2018/209.pdf">paper</a>.
-     
-  -
-     name: 'Proof-of-Personhood: Redemocratizing Permissionless Cryptocurrencies'
-     challenges: [*compliance]
-     description: Proof-of-personhood (PoP) is a mechanism that binds physical entities to virtual identities in a way that enables accountability while preserving anonymity. Proof-of-personhood can be used as a democratic alternative to the commonly used proof-of-work or proof-of-stake approaches to create secure identities in permissionless cryptocurrencies. The prototype cryptocurrency to PoPCoin utilizes PoP in its consensus layer showing how a continuously fair and democratic wealth creation process could look like which paves the way for experimental basic income infrastructure. Please see our <a href="http://www.brynosaurus.com/pub/dec/pop.pdf">paper</a>.
-     
   -   
      name: 'HiveMind'
      challenges: [*confidentiality]
@@ -245,107 +350,12 @@ projects:
      challenges: [*scaling]
      description: TxProbe is a mechanism for inferring the topology of the Bitcoin P2P network, making use of how nodes process out-of-order (or (&quot;orphan&quot;)) transactions. It can be used  to take snapshots of the network over a period of minutes. For more info, please see our <a href="https://arxiv.org/abs/1812.00942">paper</a>.
      
-  -   
-     name: 'PISA Outsourcing'
-     challenges: [*scaling, *compliance]
-     description: The security guarantees of Payment Channel Networks (PCNs) rely on the availability of an online party to defend honest nodes in cases of a spurious disputes. PISA is a protocol for outsourcing this task to a limited third party while receiving a fair exchange receipt. For more info, please see our <a href="https://eprint.iacr.org/2018/582.pdf">paper</a>.
-     
-  -    
-     name: 'Sprites and State Channels'
-     challenges: [*compliance, *scaling]
-     description: Off-chain payment channel networks (PCNs) are a leading approach for improving the scalability of blockchains. Sprites is an innovative construction that reduces the worst-case lockup time during which, funds must be held in escrow for a PCN payment. For more info, please see our <a href="https://arxiv.org/abs/1702.05812">paper</a>.
-     
-  -
-     name: 'ByzCoin: Enhancing Bitcoin Security and Performance with Strong Consistency via Collective Signing'
-     challenges: [*scaling]
-     description: ByzCoin is a novel Byzantine consensus protocol that leverages scalable collective signing to commit Bitcoin transactions irreversibly within seconds while preserving Bitcoin's open membership by dynamically forming hash power-proportionate consensus groups that represent recently-successful block miners. ByzCoin mitigates double spending and selfish mining attacks by producing collectively signed transaction blocks within one minute of transaction submission. ByzCoin achieves a throughput higher than Paypal currently handles (>700 tx/s), with a confirmation latency of 15-20 seconds. Learn more at <a href="https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_kokoris-kogias.pdf">USENIX 2016</a>.
-  
-  -
-     name: 'CHAINIAC: Proactive Software-Update Transparency via Collectively Signed Skipchains and Verified Builds'
-     challenges: [*correctness]
-     description: CHAINIAC is a decentralized software update framework that aliminates single points of failure, enforces transparency, and provides efficient verifiability of integrity and authenticity for software-release processes. Independent witness servers collectively verify conformance of software updates to release policies, build verifiers validate the source-to-binary correspondence, and a tamper-proof release log stores collectively signed updates, thus ensuring that no release in accepted by clients before being widely disclosed and validated. The release log embodies a skipchain, a novel data structure, enabling arbitrarily out-of-date clients to efficiently validate updates and signing keys. Link to <a href="https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-nikitin.pdf">paper</a>.
-  
   -
      name: 'Project Chicago'
      challenges: [*scaling]
      description: Project Chicago is a new research initiative aiming to explore a question fundamental to all cryptocurrencies - what resources are being exchanged in blockchain markets, and how can we accurately price these resources? Read more at <a href="https://projectchicago.io">projectchicago.io</a>.
      
-  -   
-     name: 'CHURP (CHUrn-Robust Proactive secret sharing)' 
-     challenges: [*scaling, *confidentiality]
-     description: CHURP enables secure secret-sharing in dynamic settings where the committee of nodes storing a secret may change over time. Designed for blockchain settings, CHURP has communication complexity much lower than previous schemes; O(n) on-chain and O(n^2) off-chain in the optimistic case of no node failures. For more information, please see our <a href="https://eprint.iacr.org/2019/017">paper</a>.
-     
-  -   
-     name: 'Paralysis Proofs'
-     challenges: [*confidentiality]
-     description: A (3, 3)-multisignature cryptocurrency wallet experiences access-control paralysis upon loss of a single key, but a (2, 3)-multisig allows any two players to collude and steal funds from the third. Paralysis Proofs address this conundrum and others by allowing multisig parameters to be changed *securely* if users become unavailable. For more info, please see our <a href="https://eprint.iacr.org/2018/096.pdf">paper</a>.
-     
-  -   
-     name: 'Tesseract'
-     challenges: [*confidentiality]
-     description: We propose Tesseract, a secure real-time cryptocurrency exchange service. Existing centralized exchnge designs are vulnerable to theft of funds, while decentralized exchanges cannot offer real-time crrosschain trades. All currently deployed exchanges are also vulnerable to frontrunning attacks. Tesseract overcomes these flaws and achieves a best-of-bothworlds design by using Intel SGX as a trusted execution environment. For more info, please see our <a href="https://eprint.iacr.org/2017/1153.pdf">paper</a>.
-     
-  -   
-     name: 'Public Incompressible Encodings (PIEs)'
-     challenges: [*adf]
-     description: We present a provably secure approach to proving file replication (or other erasure coding) in distributed storage networks (DSNs). Storing multiple copies of a file F is essential in DSNs to ensure against file loss in the event of faulty servers or corrupt data. The public nature of DSNs, however, makes this goal challenging. Files must be encoded and decoded using public coins - i.e., without encryption or other secret-key operations - and retention of files by servers in the network must be verifiable. For more info, please see our <a href="https://eprint.iacr.org/2018/684.pdf">paper</a>.
-  
-  -
-     name: 'OmniLedger: A Secure, Scale-Out, Decentralized Ledger via Sharding'
-     challenges: [*scaling]
-     description: OmniLedger is a novel scale-out decentralized ledger framework that preserves longterm security under permissionless operation by using bias-resistant public-randomness for choosing large, statistically representative shards that process transactions, and by introducing Atomix, an efficient cross-shard commit protocol, that atomically handles transactions affecting multiple shards. OmniLedger's throughput scales linearly in the number of active validators, supporting Visa-level workloads and beyond, while confirming typical transactions in under two seconds thanks to its low-latency "trust-but-verify" transaction validation mechanism. Link to our <a href="https://eprint.iacr.org/2017/406.pdf">paper</a>.
-     
-  -   
-     name: 'The Gap Game'
-     challenges: [*compliance]
-     description: Incentive analysis in a PoW cryptocurrency, where transaction fees play a dominant role. We analyze suck systems as a game and show (&quot;mining gaps&quot;) occur - periods of time where miners are incentivized to be idle instead of actively mining. We also show in such systems, miners are better off forming coalitions, which leads to a centralized system. For more info, please see our <a href="https://dl.acm.org/citation.cfm?id=3243737">paper</a>.
-
-  -  
-    name: 'The Hydra Project'
-    challenges: [*correctness]
-    description: <a href="https://eprint.iacr.org/2017/1090.pdf">Hydra</a> is a cutting-edge Ethereum contract development framework for decentralized security and bug bounties rigorous cryptoeconomic security guarantees mitigating programmer and compiler error.
-
-  -
-    name: 'Solidus: Confidential Financial Transaction Settlement on a Distributed Ledgers'
-    challenges: [*scaling, *confidentiality]
-    description: Solidus is a cryptocurrency (&quot;blockchain&quot;) that can be run by a confederation or consortium of trustworthy entities--banks, governments, auditors, etc. While it retains some of the benefits of decentralization, Solidus offers higher performance and tighter governance and control than existing cryptocurrencies such as Bitcoin. Many successful peer-to- peer technologies have historically been eclipsed or supplanted by centralized or commercial systems (e.g., in the online music industry). Solidus addresses the possibility and desire by many financial institutions that cryptocurrencies and contracts will follow a similar path. For more info, please see the Solidus presentation at our <a href="http://www.initc3.org/events/2016-05-17-IC3-Retreat-2016.html">2016 IC3 Retreat</a> in NYC.
-
-  -
-    name: 'Bitcoin-NG: A Next-generation Blockchain Protocol'
-    challenges: [*scaling]
-    description: Bitcoin-NG is a new protocol pioneered by IC3. It addresses the scalability bottleneck of Bitcoin by enabling the Bitcoin network to achieve the highest throughput allowed by the network conditions. Paradoxically, not only does it improve transaction throughput, it also reduces transaction latencies -- it is possible to get an initial transaction confirmation in seconds rather than in minutes. And it does so without changing Bitcoin’s open architecture and trust model. Our blockchain test bed Miniature World simulated Bitcoin-NG at 15% the size of the operational Bitcoin system, where we showed that Bitcoin–NG is only limited by the network. For more info, please see our <a href="http://arxiv.org/abs/1510.02037">paper</a>.
-
-  - 
-    name: 'Miniature World: A Test Bed for Simulating Real World Blockchain'
-    challenges: [*scaling]
-    description: Miniature World is a large blockchain emulation test bed at Cornell University consisting of ~1000 nodes. This test bed enables us to run experiments on different blockchains, and a variety of use cases, using realistic internet latencies to evaluate real world scenarios (as referenced above for Bitcoin-NG). We make Miniature World available for our Industry Sponsors to evaluate various block chains and their use cases. For more info about becoming an IC3 Industry Sponsor, please see our <a href="http://www.initc3.org/partners.html">website</a>.
-
-  -
-    name: 'Fruitchain: A new Approach for Incentive Compatible Blockchains'
-    challenges: [*scaling]
-    description: Most of today's blockchains, such as Bitcoin, are not "incentive compatible", meaning they are quite vulnerable to strategic gaming by dishonest adversaries. For example, IC3 has proven that the Bitcoin blockchain can be compromised by miners or mining pools with much less than 50% of the mining hash power. Fruitchain is an innovative blockchain methodology that discourages dishonest gaming, by making it extremely unprofitable for an adversary with less than 50% of the hash power, achieving an epsilon-equilibrium or near-Nash equilibrium. For more info, please see the Fruitchain presentation by IC3 co-director Professor Elaine Shi at our <a href="http://www.initc3.org/events/2016-05-17-IC3-Retreat-2016.html">2016 IC3 Retreat</a> in NYC.
-
-  -
-    name: 'FLAC: A Calculus for Flow-Limited Authorization'
-    challenges: [*correctness]
-    description: Real-world applications routinely make authorization decisions based on dynamic computation. Integrity of the system might be compromised if attackers can improperly influence the authorizing computation. Confidentiality can also be compromised by authorization, since authorization decisions are often based on sensitive data such as membership lists and passwords. Flow-Limited Authorization Calculus (FLAC) is both a simple, expressive model for reasoning about dynamic authorization and also a language for securely implementing various authorization mechanisms. FLAC provides strong end-to- end information security guarantees even for programs that incorporate and implement rich dynamic authorization mechanisms. For more info, please see the presentation by Professor Andrew Myers “Verifying Information Security of Code in Dynamic Systems” at our <a href="http://www.initc3.org/events/2016-05-17-IC3-Retreat-2016.html">2016 IC3 Retreat</a> in NYC.
-
-  -
-     name: 'Hawk: Privacy-Preserving Blockchain &amp; Smart Contracts'
-     challenges: [*correctness, *confidentiality]
-     description: Existing blockchain-based cryptocurrencies such as Bitcoin and Ethereum store all financial transactions in the clear on the blockchain. This compromises the privacy of financial transactions, which is essential in numerous applications. Hawk is a blockchain-based smart contract system that stores encrypted transactions on the blockchain, and relies on cryptography to retain the security of the cryptocurrency. For more info, please see our <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7546538">paper</a>.
-   
-  -
-     name: 'Town Crier: Authenticated Data Feeds for Smart Contracts'
-     challenges: [*confidentiality, *adf, *migration]
-     description: In order to reason about the real world, smart contracts in cryptocurrency systems will rely on informational input from what we call authenticated data feeds (ADFs); such information can include stock prices, meteorological reports, news, and other current events. It is therefore important that an ADF be trustworthy, in the sense of providing security against manipulation by an attacker attempting to influence the outcome of a contract. By utilizing trusted hardware to provide reliable, digitally signed attestations on data to client contracts, the Town Crier system can serve as a trustworthy ADF under minimal trust assumptions about its operator. For further details, please see our <a href="https://dl.acm.org/doi/10.1145/2976749.2978326">paper</a>.
-
   -
      name: 'Virtual Notary: A Free and Secure Electronic Attestation Service'
      challenges: [*adf]
      description: Virtual Notary is a service for attesting to online factoids. Virtual Notary issues both freestanding certificates as well as immutable records on the Bitcoin blockchain. It has been operational for more than 3 years, and certified more than 600,000 factoids. For more info, please see our <a href="http://virtual-notary.org">website</a>.
-
-  -
-     name: 'Gyges: Crime in Decentralized Smart Contracts'
-     challenges: [*compliance]
-     description: Two of the most widely desired goals for &quot;Bitcoin 2.0&quot; are privacy and more expressive smart contracts. Many uses of cryptocurrency have a clear and legitimate need for privacy (e.g., financial service companies are expected to protect the privacy of their clients&#39; transactions). General purpose smart contract programming frameworks make it easy to tinker, prototype, and search for the next &quot;killer application&quot; for cryptocurrencies. These two directions seem to be at odds with each other; however, through the use of sophisticated cryptography (like zero knowledge proofs and multi-party computation), we explore how to achieve both goals at once. For further details, please see our <a href="http://www.initc3.org/files/Gyges.pdf">paper</a>.
