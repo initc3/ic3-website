@@ -295,7 +295,7 @@ projects:
      challenges: [*scaling]
      description: OmniLedger is a novel scale-out decentralized ledger framework that preserves longterm security under permissionless operation by using bias-resistant public-randomness for choosing large, statistically representative shards that process transactions, and by introducing Atomix, an efficient cross-shard commit protocol, that atomically handles transactions affecting multiple shards. OmniLedger's throughput scales linearly in the number of active validators, supporting Visa-level workloads and beyond, while confirming typical transactions in under two seconds thanks to its low-latency "trust-but-verify" transaction validation mechanism. Link to our <a href="https://eprint.iacr.org/2017/406.pdf">paper</a>.
      
-   -   
+  -   
      name: 'The Gap Game'
      challenges: [*compliance]
      description: Incentive analysis in a PoW cryptocurrency, where transaction fees play a dominant role. We analyze suck systems as a game and show (&quot;mining gaps&quot;) occur - periods of time where miners are incentivized to be idle instead of actively mining. We also show in such systems, miners are better off forming coalitions, which leads to a centralized system. For more info, please see our <a href="https://dl.acm.org/citation.cfm?id=3243737">paper</a>.
