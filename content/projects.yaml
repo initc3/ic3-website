@@ -185,6 +185,21 @@ projects:
      challenges: [*scaling]
      description: Currently, the capacity of a blockchain node can only scale by replacing hardware. For better performance, one must obtain newer hardware. Node capacity effects both initial sync time and block propagation time in the network. We utilize the parallel nature of the UTXO set to build a scalable node architecture. For more info, please see our <a href="https://arxiv.org/abs/1907.03331">paper</a>.     
  
+  - 
+     name: 'Pay To Win: Cheap, Crowdfundable, Cross-chain Algorithmic Incentive Manipulation Attacks on PoW Cryptocurrencies'
+     challenges: [*correctness, *compliance]
+     description: In this paper we extend the attack landscape of bribing attacks on cryptocurrencies by presenting a new method, which we call Pay-To-Win (P2W). To the best of our knowledge, it is the first approach capable of facilitating double-spend collusion across different blockchains. Moreover, our technique can also be used to specifically incentivize transaction exclusion or (re)ordering. For our construction we rely on smart contracts to render the payment and receipt of bribes trustless for the briber as well as the bribee. Attacks using our approach are operated and financed out-of-band i.e., on a funding cryptocurrency, while the consequences are induced in a different target cryptocurrency. Hereby, the main requirement is that smart contracts on the funding cryptocurrency are able to verify consensus rules of the target. For a concrete instantiation of our P2W method, we choose Bitcoin as a target and Ethereum as a funding cryptocurrency.  Our P2W method is designed in a way that reimburses collaborators even in the case of an unsuccessful attack. Interestingly, this actually renders our approach approximately one order of magnitude cheaper than comparable bribing techniques (e.g., the whale attack). We demonstrate the technical feasibility of P2W attacks through publishing all relevant artifacts of this paper, ranging from calculations of success probabilities to a fully functional proof-of-concept implementation, consisting of an Ethereum smart contract and a Python client. For more information, please see our <a href="https://eprint.iacr.org/2019/775">paper</a>.
+       
+  -    
+     name: 'Avalanche'
+     challenges: [*scaling]
+     description: BFT consensus used by cryptocurrencies consists of two families, traditional consensus and Nakamoto's consensus. The former is usually leader-based, quadratic in message complexity. It requires precise membership knowledge, and suffers from leader bottleneck as it scales up in size. While the latter does not require membership, it is poor in performance and wasteful in energy due to PoW. This project proposes the third, new category of consensus protocols that is PoW-free, leader-less, committee-less, permission-less. It exerts the powerful meta-stability inspired by epidemic protocols, and operators as fast as the network propagates. For more info, please see our <a href="https://avalanchelabs.org/QmT1ry38PAmnhparPUmsUNHDEGHQusBLD6T5XJh4mUUn3v.pdf">avalabs.org</a>.
+  
+  - 
+     name: 'Charlotte'
+     challenges: [*scaling]
+     description: Charlotte is a new open framework for building parallel, interoperable blockchain systems. It supports a variety of consensus machanisms including proof of work as well as more classic distributed consensus protocols. For more information, please see our <a href="https://arxiv.org/abs/1905.03888">paper</a>. 
+  
   -
      name: 'Ironwood'
      challenges: [*correctness]
@@ -196,20 +211,10 @@ projects:
      description: The accelerating effect of global climate change is a major challenge for humanity. One critical component of any comprehensive solution is reforestation. As large and effective carbon sinks, forests are important to both conserve and expand. Not all types of forest, though, are equally effective at carbon sequestration. To create, monitor, and manage effective reforestation programs, it is essential that we be able to measure forest carbon accurately and with high geospatial precision. Our project will build infrastructure that, (1) Provides an accurate and trustworthy source of data on forest carbon and (2) Implements a system of automated monetary rewards for local inhabitants to conserve and/or increase forests that effectively reduce carbon emissions. By combining the two capabilities of reliable quantification and targeted rewards, we believe we can provide powerful support for climate change programs that aim to realize the value of forests as a part of the global economy. For instance, the REDD+ program, under development by parties to the United Nations Framework Convention on Climate Change, aims to incentivize developing countries to reduce emissions resulting from deforestation and forest degradation, thus conserving and enhancing forest carbon sticks. We will build a public performance-based payment system using two blockchain technologies. The first is an *oracle*, a trustworthy source of data for blockchain applications, it obtains and analyzes satellite data to relay trustworthy statistics on forest carbon. The second key component is a *smart contract*, a blockchain application that consumes data from the oracle and sends cryptocurrency rewards to forest stewards. Our system will also automatically identify the legitimate stakeholders/stewards of forested land by combining local land registry records, geolocation via smartphones, and fraud/anomaly detection. 
      
   -
-     name: 'Libra'
-     challenges: [*scaling, *confidentiality]
-     description: We present Libra, the first zero-knowledge proof system that has both optimal prover time and succinct proof size/verification time. In particular, if C is the size of the circuit being proved (i) the prover time is O(C) irrespective of the circuit type; (ii) the proof size and verification time are both O(d log C) for d-depth log-space uniform circuits (such as RAM programs). In addition Libra features an one-time trusted setup that depends only on the size of the input to the circuit and not the circuit logic. Underlying Libra is a new linear-time algorithm for the prover of the interactive proof protocol by Goldwasser, Kalai and Rothblum (also known as GKR protocol), as well as an efficient approach to turn the GKR protocol to zero-knowledge using small masking polynomials. Not only does Libra have excellent asymptotics, but it is also efficient in practice. For example, our implementation shows that it takes 200 seconds to generate a proof for constructing a SHA2-based Merkle tree root on 256 leaves, outperforming all existing zero-knowledge proof systems. Proof size and verification time of Libra are also competitive. For more see our <a href="https://eprint.iacr.org/2019/317.pdf">paper</a>. 
-     
-  -
      name: 'HoneyBadgerBFT: The Honey Badger of BFT Protocols'
      challenges: [*scaling]
      description: HoneyBadgerBFT is the first practical asynchronous BFT protocol, which guarantees liveness without making any timing assumptions. We base our solution on a novel atomic broadcast protocol that achieves optimal asymptotic efficiency. We present an implementation and experimental results to show our system can achieve throughput of tens of thousands of transactions per second, and scales to over a hundred nodes on a wide area network. We even conduct BFT experiments over Tor, without needing to tune any parameters. Unlike the alternatives, HoneyBadgerBFT simply does not care about the underlying network. For more info, please see our <a href="https://eprint.iacr.org/2016/199.pdf">paper</a>.
      
-  -
-     name: 'Charlotte'
-     challenges: [*scaling]
-     description: Charlotte is a new open framework for building parallel, interoperable blockchainsystems. It supports a variety of consensus mechanisms including proof of work as well as more classic distributed consensus protocols. For more information, please see our <a href="https://arxiv.org/abs/1905.03888">paper</a>.
-      
   -
      name: 'T-Rex'
      challenges: [*correctness, *scaling]
@@ -239,11 +244,6 @@ projects:
      name: 'TxProbe'
      challenges: [*scaling]
      description: TxProbe is a mechanism for inferring the topology of the Bitcoin P2P network, making use of how nodes process out-of-order (or (&quot;orphan&quot;)) transactions. It can be used  to take snapshots of the network over a period of minutes. For more info, please see our <a href="https://arxiv.org/abs/1812.00942">paper</a>.
-     
-  -    
-     name: 'Avalanche'
-     challenges: [*scaling]
-     description: BFT consensus used by cryptocurrencies consists of two families, traditional consensus and Nakamoto's consensus. The former is usually leader-based, quadratic in message complexity. It requires precise membership knowledge, and suffers from leader bottleneck as it scales up in size. While the latter does not require membership, it is poor in performance and wasteful in energy due to PoW. This project proposes the third, new category of consensus protocols that is PoW-free, leader-less, committee-less, permission-less. It exerts the powerful meta-stability inspired by epidemic protocols, and operators as fast as the network propagates. For more info, please see our <a href="https://avalanchelabs.org/QmT1ry38PAmnhparPUmsUNHDEGHQusBLD6T5XJh4mUUn3v.pdf">avalabs.org</a>.
      
   -   
      name: 'PISA Outsourcing'
