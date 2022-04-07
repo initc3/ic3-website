@@ -33,8 +33,7 @@ projects:
   -
      name: 'Platypus: A Central Banl Digital Currency with Unlinkable Transactions and Privacy Preserving Regulations'
      challenges: [*correctness, *compliance]
-     authors: K. Wust, K. Kostiainen, and S. Capkun
-     description: 
+     description: Due to the popularity of blockchain-based cryptocurrencies, the increasing digitalizations of payments, and the constantly reducing role of cash in society, central banks have shown an increased interest in deploying central bank digital currencies (CBDCs) that could serve as a replacement of cash. While most recent research on CBDCs focuses on blockchain technology, it is not clear that this choice of technology provides the optimal solution. In particular, the centralized trust model of a CBDC offers opportunities for different designs. In this paper, we depart from blockchain designs and instead build on ideas from traditional e-cash schemes. We propose a new style of building digital currencies that combines the transaction processing model of e-cash with the account model of managing funds that is commonly used in blockchain solutions. We argue that such a style of building digital currencies in especially well-suited to CBDCs. We also design the first such digital currency system, called Platypus, that provides strong privacy, massive scalability, and expressive but simple regulation, which are all critical features for a CBDC. Platypus achieves these properties by adapting techniques from previous anonymous blockchain cryptocurrencies like Zcash and prior research on accountable private payments and applying them to the e-cash context. For more information, please see our <a href="https://eprint.iacr.org/2021/1443">paper</a>.   
      
   -
      name: 'Efficient MDP Analysis for Selfish-Mining in Blockchains'
