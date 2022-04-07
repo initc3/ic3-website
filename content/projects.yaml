@@ -30,7 +30,13 @@ challenges :
 
 projects: 
 
-  - 
+  -
+     name: 'Platypus: A Central Banl Digital Currency with Unlinkable Transactions and Privacy Preserving Regulations'
+     challenges: [*correctness, *compliance]
+     authors: K. Wust, K. Kostiainen, and S. Capkun
+     description: 
+     
+  -
      name: 'Efficient MDP Analysis for Selfish-Mining in Blockchains'
      challenges: [*correctness, *compliance]
      description: A proof of work (PoW) blockchain protocol distributes rewards to its participants, called miners, according to their share of the total computational power. Sufficiently large miners can perform selfish mining - deviate from the protocol to gain more than their fair share. Such systems are thus secure if all miners are smaller than a threshold size so their best response following the protocol. To find the threshold, one has to identify the optimal strategy for miners of different sizes, i.e., solve a Markov Decision Process (MDP). However, because of the PoW difficulty adjustment mechanism, the miners' utility is a non-linear ratio function. We therefore call this an Average Reward Ratio (ARR) MDP. Sapishtein et al. were the first to solve ARR MDPs by solving a series of standard MDPs that converge to ARR MDP solution. In this work, we present a novel technique for solving an ARR MDP by solving a single standard MDP. The crux of our approach is to argument the MDP such that it terminates randomly, within an expected number of rounds. We call this Probabilistic Termination Optimization (PTO), and the technique applies to any MDP whose utility is a ratio function. We bound the approximation error of PTO - it is inversely proportional to the expected number of rounds before termination, a parameter that we control. Empirically, PTO's complexity is an oreder of magnitude lower than the state of the art. PTO can be easily applied to different blockchains. We use it to tighten the bound on the threshold for selfish mining in Ethereum. Link to our <a href="https://dl.acm.org/doi/abs/10.1145/3419614.3423264">paper</a>.
