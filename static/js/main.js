@@ -26,6 +26,7 @@
    'tezos': 'http://www.tezos.com',
    'vmware': 'http://www.vmware.com',
    'ethereum': 'http://ethereum.org',
+   'cog': 'https://www.cogsnetwork.com', 
  };
 
 $(document).ready(function() {
