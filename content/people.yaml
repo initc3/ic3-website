@@ -335,6 +335,14 @@ students:
     bio: "Itay Tsabary is a graduate student at the Technion. He is interested in distributed systems, cryptocurrencies and game theory.\n"
   
   -
+    name: 'Nikhil Vanjani'
+    pic: Nikhil Vanjani.png
+    title:
+    email: nikhilvanjani61@gmail.com
+    weburl: 'https://nikhilvanjani.github.io/'
+    bio: "Nikhil Vanjani is a Ph.D. student at Carnegie Mellon University, where he is advised by prof. Elaine Shi. His research interests include cryptography and blockchains."
+    
+  -
     name: 'Karl W&uuml;st'
     pic: kwuest.jpg
     title:
