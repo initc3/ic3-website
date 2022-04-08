@@ -141,6 +141,11 @@ projects:
      description: Threshold ECDSA signatures have received much attention in recent years due to the widespread use of ECDSA in cryptocurrencies. While various protocols now exist that admit efficient distributed key generation and signing, these protocols have two main drawbacks. Firstly, if a player misbehaves, the protocol will abort, but all current protocols give no way to detect which player is responsible for the abort. In distributed settings, this can be catastrophic as any player can cause the protocol to fail without any consequence. General techniques to realize dishonest-majority MPC with identifiable abort add a prohibitive overhead, but we show how to build a tailored protocol for threshold ECDSA with minimal overhead. Secondly, current threshold ECDSA protocols (that do not rely on generic MPC) have numerous rounds of interaction. We present a highly efficient protocol with a non-interactive online phase allowing for players to asynchronously participate in the protocol without the need to be online simultaneously. We benchmark our protocols and find that our protocol simultaneously reduces the rounds and computations of current protocols, while adding significant functionality--identifiable abort and noninteractivity. For more information, please see our <a href="https://eprint.iacr.org/2020/540">paper</a>. 
 
   -
+     name: 'Confidence Clustering'
+     challenges: [*correctness]
+     description: This project is focused on developing a set of metrics that can increase confidence in the results of cryptocurrency clustering heuristics. These new techniques, which will output a probability of two addresses belonging to the same cluster rather than a binary yes/no answer, will enable more informed decisions and strengthen the use of exisiting heuristics by providing more evidence that their results are correct. 
+   
+  -
      name: 'Selfish Mining Re-examined'
      challenges: [*compliance]
      description: This project revisits the selfish mining (SM) strategy in two ways. First, we present a modified SM strategy, convert selfish mining, that, perplexingly, is more profitable than Nakamoto even when the attacker performs no selfish mining after a difficulty adjustment. This strategy has the added benefit that it is even harder to detect than pure SM, and may additionally increase token value through deflation. Second, we analyze the profitability of SM under several difficulty adjustment schemes. For further information, please see our <a href="http://fc20.ifca.ai/preproceedings/4.pdf">paper</a>.
@@ -175,11 +180,6 @@ projects:
      challenges: [*confidentiality, *compliance]
      description: DECO is a privacy-preserving oracle protocol. Using cryptographic techniques, it lets users prove facts about thier web (TLS) sessions to oracles while hiding privacy-sensitive data. For more information, see <a href="https://www.deco.works/">deco.works</a>.
      
-  -
-     name: 'Confidence Clustering'
-     challenges: [*correctness]
-     description: This project is focused on developing a set of metrics that can increase confidence in the results of cryptocurrency clustering heuristics. These new techniques, which will output a probability of two addresses belonging to the same cluster rather than a binary yes/no answer, will enable more informed decisions and strengthen the use of exisiting heuristics by providing more evidence that their results are correct. 
-  
   -
      name: 'Teechain'
      challenges: [*scaling]
