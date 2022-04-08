@@ -89,7 +89,12 @@ projects:
      name: 'Publicly Auditable MPC-as-a-Service with succinct verification and universal setup'
      challenges: [*confidentiality, *correctness]
      description: In recent years, multiparty computation as a service (MPCaaS) has gained popularity as a way to build distributed privacy-preserving systems. We argue that for many such applications, we should also require that the MPC protocol is publicly auditable, meaning that anyone can check the given computation is carried out corectly -- even if the server nodes carrying out the computation are all corrupt. In a nutshell, the way to make an MPC protocol auditable is to combine an underlying MPC protocol with verifiable computing proof (in particular, a SNARK). Building a general-purpose MPCaaS from existing constructions would require us to perform a costly "trusted setup" every time we wish to run a new or modified application. To address this, we provide the first efficient construction for auditable MPC that has a one-time universal setup. Despite improving the trusted setup, we match the state-of-the-art in asymptotic performance--the server nodes incur a linear computation overhead and constant round communication overhead compared to the underlying MPC, and the audit size and verification are logarithmic in the application circuit size. We also provide an implementation and benchmarks that support our asymptotic analysis in example applications. Furthermore, compared with existing auditable MPC protocols, besides offering a universal setup our construction also has a 3x smaller proof, 3x faster verification time and comparable prover time. For further information, please see our <a href="https://arxiv.org/abs/2107.04248">paper</a>.
-     
+  
+  -
+     name: 'Saber'
+     challenges: [*correctness, *scaling] 
+     description: This project proposes the paradigm for parallel and asynchronous smart contract execution. Our paradigm distinguishes between consensus nodes and execution nodes. It allows different groups of execution nodes to execute transactions in parallel, and meanwhile, consensus nodes can continue ordering transactions and processing execution results in a non-blocking way. Due to our new dispute resolution strategy, it (empirically) only requires 10 execution nodes in each group. Moreover, it requires no coordination among execution nodes and can effectively prevent livelocks. For more information, please see our <a href="https://ieeexplore.ieee.org/document/9477197">paper</a>.
+  
   -
      name: 'GoAT: File Geolocation via Anchor Timestamping'
      challenges: [*correctness]
@@ -340,11 +345,6 @@ projects:
      challenges: [*scaling]
      description: Bitcoin-NG is a new protocol pioneered by IC3. It addresses the scalability bottleneck of Bitcoin by enabling the Bitcoin network to achieve the highest throughput allowed by the network conditions. Paradoxically, not only does it improve transaction throughput, it also reduces transaction latencies -- it is possible to get an initial transaction confirmation in seconds rather than in minutes. And it does so without changing Bitcoin’s open architecture and trust model. Our blockchain test bed Miniature World simulated Bitcoin-NG at 15% the size of the operational Bitcoin system, where we showed that Bitcoin–NG is only limited by the network. For more info, please see our <a href="http://arxiv.org/abs/1510.02037">paper</a>.
    
-  -
-     name: 'Saber'
-     challenges: [*correctness, *scaling] 
-     description: This project proposes the paradigm for parallel and asynchronous smart contract execution. Our paradigm distinguishes between consensus nodes and execution nodes. It allows different groups of execution nodes to execute transactions in parallel, and meanwhile, consensus nodes can continue ordering transactions and processing execution results in a non-blocking way. Due to our new dispute resolution strategy, it (empirically) only requires 10 execution nodes in each group. Moreover, it requires no coordination among execution nodes and can effectively prevent livelocks.
-  
   -   
      name: 'HiveMind'
      challenges: [*confidentiality]
