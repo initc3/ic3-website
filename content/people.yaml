@@ -797,19 +797,19 @@ alumni_students:
     bio: "Ayush Dubey is a Software Engineer with TensorFlow, focusing on distributed runtime and performance. He completed his PhD in Computer Science in 2017 at  Cornell University.\n"
   
   -
-    name: 'Lefteris Kokoris Kogias'
-    pic: lkokoris.jpg
+    name: 'Lefteris Kokoris-Kogias'
+    pic: Lefteris.jpg
     title:
     email: ekokoris@ist.ac.net
-    weburl: 'https://lefteriskk.github.io'
-    bio: "Lefteris is Research Scientist at Novi working on Decentralized Systems, Applied Cryptography and Distributed Computing. He will be joining IST Austria as an Assistant Professor in September 2021.\n"
+    weburl: 'https://ist.ac.at/en/research/kokoris-group/'
+    bio: "Lefteris is an Assistant Professor at IST Austria, before that he worked on the design of the Diem blockchains as part of Novi Facebook and got his PhD for EPFL. He is interested in increasing the digital trust of online information and processes, especially those that impact the physical world. He focuses on scalability of blockchains, being the first to introduce quorum-based permissionless blockcahins (Byzcoin) and permissionless sharding protocols (OmniLedger) as well as structured Mempools (Narwhal). His work is the first to break the 1,000, 10,000 and 100,000 transactions per second barriers. He is also interested in how to produce secure distributed randomness and setup private vaults that enable private data exchange over blockchains. For his work he has been awarded the IBM PhD Fellowship for 2018 and 2019, and the EPFL Thesis Distinction 2020."
   
   -
     name: 'Sinisa Matetic'
     pic: smatetic.png
     title:
     email: sinisa.matetic@inf.ethz.ch
-    weburl:
+    weburl: 
     bio: "Sinisa Matetic is research scientist at ETH Zurich. He was born in Split, Croatia. Prior to joining ETH Zurich, he worked as a Management Consultant at A.T. Kearney in the SEE region. Sinisa's research interest are in system security focusing on distributed systems, trusted hardware, blockchain-based technology design and integrity protection."
   
   -
