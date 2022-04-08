@@ -5,6 +5,7 @@
 - S. Das, T. Yurek, Z. Xiang, A. Miller, L. Kokoris-Kogias, and L. Ren. [Practical Asynchronous Distributed Key Generation](https://eprint.iacr.org/2021/1591.pdf). IEEE S&P, 2022.
 - I. Khaburzaniya, K. Chalkias, K. Lewi, and H. Malvai. [Aggregating and thresholdizing hash-based signatures using STARKs](https://eprint.iacr.org/2021/1048.pdf). ACM CCS, 2022.
 - I. Eyal. [On cryptocurrency wallet design](https://drops.dagstuhl.de/opus/volltexte/2022/15901/pdf/OASIcs-Tokenomics-2021-4.pdf). ICBE S&P, 2022
+- J. Liu, P. Li, R. Cheng, N. Asokan, and D. Song. [Parallel and Asynchronous Smart Contract Execution](https://ieeexplore.ieee.org/document/9477197). IEEE S&P, 2022.
 
 ## 2021 ##
 
