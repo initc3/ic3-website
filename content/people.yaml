@@ -590,6 +590,14 @@ students:
     weburl: "https://www.cs.cornell.edu/~byc/"
     bio: "Benjamin is a third year graduate student at Cornell University. His research interests span theoretical cryptography and the design of distributed protocols. Previously, he was an engineer at Algorand working on consensus."
     
+  - 
+    name: 'Weizhao Tang'
+    pic: Weizhao.jpeg
+    title:
+    email: wtang2@andrew.cmu.edu
+    weburl:
+    bio: "Weizhao received his Master's degree (2021) from Carnegie Mellon University. He is a Ph.D. student at Carnegie Mellon University supervised by Dr. Giulia Fanti. His research interests are privacy and security of distributed systems, particularly cryptocurrency systems based on blockchain."
+    
 researchers:
 
   -
