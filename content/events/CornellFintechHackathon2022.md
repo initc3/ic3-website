@@ -1,5 +1,5 @@
 ---
-name: 'Avalanche Hackathon 2022'
+name: 'Cornell FinTech Club Hackathon 2022'
 location: Ithaca, NY
 start: 2022-04-29
 end: 2022-05-01
