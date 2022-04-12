@@ -206,13 +206,21 @@ students:
     weburl: 'http://www0.cs.ucl.ac.uk/staff/S.Azouvi/'
     bio: "Sarah is a PhD student at University College London in the Information Security group. Her research interest are in Applied Cryptography and Game Theory, in the context of cryptocurrencies.\n"
   
+  -
+    name: 'Louis-Henri Merino'
+    pic:
+    title:
+    email: louis-henri.merino@epfl.ch
+    weburl:
+    bio: "Louis-Henri is currently a Ph.D. student in Computer Science at the Swiss Federal Institute of Technology (EPFL) in Lausanne. His research is in security and provacy, focusing on election security and open communication. As a Banneker Key Scholar, Louis-Henri graduated from the University of Maryland - College Park majoring in Computer Science and minoring in Cybersecurity and "Innovation abd Entrepreneurship". After graduation, He received a Fulbright Scholarship to perform research on e-voting systems at EPFL."
+    
   - 
     name: 'Cristina Basescu'
     pic:
     title:
     email: cristina.basescu@epfl.ch
     weburl:
-    bio: "Cristina is a Ph.D. student at Swiss Federal Institute of Technology (EPFL) in Lausanne, Switzerland, under the supervision of Prof. Bryan Ford. Cristina enjoys designing and building fast, reliable systems. Her research interests include fault tolerance and scalability in distributed systems, network security, and consensus protocols."  
+    bio: "Cristina is a Ph.D. student at the Swiss Federal Institute of Technology (EPFL) in Lausanne, Switzerland, under the supervision of Prof. Bryan Ford. Cristina enjoys designing and building fast, reliable systems. Her research interests include fault tolerance and scalability in distributed systems, network security, and consensus protocols."  
     
   -
     name: 'Surya Bakshi'
