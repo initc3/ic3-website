@@ -206,6 +206,14 @@ students:
     weburl: 'http://www0.cs.ucl.ac.uk/staff/S.Azouvi/'
     bio: "Sarah is a PhD student at University College London in the Information Security group. Her research interest are in Applied Cryptography and Game Theory, in the context of cryptocurrencies.\n"
   
+  - 
+    name: 'Cristina Basescu'
+    pic:
+    title:
+    email: cristina.basescu@epfl.ch
+    weburl:
+    bio: "Cristina is a Ph.D. student at Swiss Federal Institute of Technology (EPFL) in Lausanne, Switzerland, under the supervision of Prof. Bryan Ford. Cristina enjoys designing and building fast, reliable systems. Her research interests include fault tolerance and scalability in distributed systems, network security, and consensus protocols."  
+    
   -
     name: 'Surya Bakshi'
     pic: bakshi.png
