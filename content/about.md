@@ -46,7 +46,7 @@ Expected outcomes of our work include new cryptocurrency and smart contract solu
     reliability. These include financially enforceable cryptographic protocols whose security properties are backed
     by enforceable payments in case of a breach, as well as high-assurance, high performance systems for storing and
     handling high-value cryptocurrencies and confidential transactions. Please see our <a
-        href="http://www.initc3.org/projects.html">Projects page</a> for more info. All IC3 projects founded by our industry partners are open source.
+        href="http://www.initc3.org/projects.html">Projects page</a> for more info. All IC3 projects funded by our industry partners are open source.
         
 ## Governance
 
