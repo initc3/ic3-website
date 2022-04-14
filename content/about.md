@@ -46,7 +46,7 @@ Expected outcomes of our work include new cryptocurrency and smart contract solu
     reliability. These include financially enforceable cryptographic protocols whose security properties are backed
     by enforceable payments in case of a breach, as well as high-assurance, high performance systems for storing and
     handling high-value cryptocurrencies and confidential transactions. Please see our <a
-        href="http://www.initc3.org/projects.html">Projects page</a> for more info.
+        href="http://www.initc3.org/projects.html">Projects page</a> for more info. All IC3 projects founded by our industry partners are open source.
         
 ## Governance
 
@@ -62,7 +62,7 @@ IC3 has created for program chairs and other interested colleagues the following
 
 ## Contact
 
-For inquiries, please email the IC3 Community Manager at
+For inquiries, please email the IC3 Research Program Manager at
     <a href="mailto:sarahallen@cornell.edu">sarahallen@cornell.edu</a>.
     
 Want to be added to our email list? Register <a href="https://forms.gle/T1Ejcf5DPJ28erYe6">here</a>.
