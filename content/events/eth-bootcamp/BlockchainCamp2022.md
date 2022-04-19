@@ -33,5 +33,24 @@ We will offer two overlapping tracks: a coding track and a presentation track.
   For examples of what to expect please see the summary of the <a href="https://www.initc3.org/events/2021-07-25-ic3-blockchain-summer-camp">2021 Blockchain Camp</a>.
   
   
+  
+  <div class="ui center aligned basic segment">
+    <div class="ui centered image">
+      <img class="ui image" src="../images/events/blockchain-camp2022/tylerkell.jpg" alt="" />
+    </div>
+    <div class="ui centered image">
+      <img class="ui image" src="../images/events/blockchain-camp-2022/paddy.jpg" alt="" />
+    </div>
+    <div class="ui centered image">
+      <img class="ui image" src="../images/events/blockchain-camp-2022/bakshi.png" alt="" />
+    </div>
+    <div class="ui bottom attached message">
+      <strong> Tyler Kell, Patrick McCorry, and Surya Bakshi
+        2022 Blockchain Camp - Technical Committee </strong><br>
+    </div>
+  </div>
+  
+  
+  
   <strong> We hope to see you at the 2022 IC3 Blockchain Summer Camp! </strong>
   
