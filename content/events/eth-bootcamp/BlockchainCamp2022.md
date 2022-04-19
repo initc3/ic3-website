@@ -36,13 +36,13 @@ We will offer two overlapping tracks: a coding track and a presentation track.
   
   <div class="ui center aligned basic segment">
     <div class="ui centered image">
-      <img class="ui image" src="../images/events/blockchain-camp-2022/tylerkell.jpg" alt="" />
+      <img class="ui image" src="../images/events/blockchain-camp-2022/tylerkell.jpg" alt="" width="50"/>
     </div>
     <div class="ui centered image">
-      <img class="ui image" src="../images/events/blockchain-camp-2022/paddy.jpg" alt="" />
+      <img class="ui image" src="../images/events/blockchain-camp-2022/paddy.jpg" alt="" width="50"/>
     </div>
     <div class="ui centered image">
-      <img class="ui image" src="../images/events/blockchain-camp-2022/bakshi.png" alt="" />
+      <img class="ui image" src="../images/events/blockchain-camp-2022/bakshi.png" alt="" width="50"/>
     </div>
     <div class="ui bottom attached message">
       <strong> Tyler Kell, Patrick McCorry, and Surya Bakshi <br>
