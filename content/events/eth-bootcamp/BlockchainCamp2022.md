@@ -11,12 +11,27 @@ summary: Join us for the 7th Annual IC3 Blockchain Camp! This 7-day experience w
 </div>
 
 
-Join us for the 7th Annual IC3 Blcokchain Camp! This 7-day experience will be hosted in-person on the Cornell Campus in Ithaca, NY. Our Camp technical committee of Surya Bakshi, Tyler Kell and Patrick McCorry is preparing another immersive coding and learning experience.
+Register for the event <a href="https://docs.google.com/forms/d/e/1FAIpQLScZlV2vzok4o3oCMprgcvhwpn2hVwJbt1zYplSw0-SOgxA0Fg/viewform">here</a>.
+
+
+Join us for the 7th Annual IC3 Blockchain Camp! This 7-day experience will be hosted in-person on the Cornell Campus in Ithaca, NY. Our Camp technical committee of Surya Bakshi, Tyler Kell and Patrick McCorry is preparing another immersive coding and learning experience.
 
 In addition to tech talks, panels and projects, we are planning social activities, games, birds-of-a-feather discussions, and more.
 
 Topics will include DeFi, cryptography, privacy, NFTs, and more!
 
-<strong> Please note that this is an IC3 members event, limited to current IC3 partners, academic members, fellows, and alumni. Some special exceptions will be made if capacity allows. Please reach out to Sarah Allen (sarahallen@cornell.edu) if you hope to qualify for an exception. </strong>
+<strong> Please note that this is an IC3 members event, limited to current IC3 partners, academic members, fellows, and alumni. Some special exceptions will be made if capacity allows. Please reach out to Sarah Allen (<a href="mailto:sarahallen@cornell.edu">sarahallen@cornell.edu/a>) if you hope to qualify for an exception. </strong>
 
 We will offer two overlapping tracks: a coding track and a presentation track.
+
+  <strong> Option 1 (Coding): </strong> The coding track includes all presentations, social activities, and participation in a weeklong coding project on a 5-10 person team. In the coding track, you can expect to engage with leaders in the blockchain community - faculty, architects, developers, students.
+  
+  <strong> Option 2 (Presentation): </strong> The presentation track will open to those who want to participate in camp events without joining a coding team.
+  
+  Both tracks require pre-registration. Please us the <a href="https://docs.google.com/forms/d/e/1FAIpQLScZlV2vzok4o3oCMprgcvhwpn2hVwJbt1zYplSw0-SOgxA0Fg/viewform">registration form</a>. Those who register will receive additional details by email before the event. 
+  
+  For examples of what to expect please see the summary of the <a href="https://www.initc3.org/events/2021-07-25-ic3-blockchain-summer-camp">2021 Blockchain Camp</a>.
+  
+  
+  <strong> We hope to see you at the 2022 IC3 Blockchain Summer Camp! </strong>
+  
