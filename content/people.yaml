@@ -198,6 +198,14 @@ postdocs:
 
 students:
 
+  - 
+    name: 'Hongbo Zhang'
+    pic: Hongbo.png
+    title:
+    email: hongbo@cs.cornell.edu
+    weburl: 'https://www.cs.cornell.edu/~hongbo/'
+    bio: "Hongbo is a Ph.D. student in Computer Science at Cornell University advised by Robbert van Rennesse. He is interested in Computer Systems, cureently focusing on storage systems and smart contract virtual machines for blockchain systems. He obtained his Bachelor's degree from the University of Waterloo."
+    
   -
     name: 'Sarah Azouvi'
     pic: sazouvi.jpg
