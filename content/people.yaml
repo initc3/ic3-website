@@ -199,6 +199,14 @@ postdocs:
 students:
 
   - 
+    name: 'Haobin Ni'
+    pic: Haobin.jpeg
+    title:
+    email: haobin@cs.cornell.edu
+    weburl: 'http://haobin.cx/'
+    bio: "Haobin is a fifth-year Ph.D. student at Cornell University in the Department of Computer Science, co-advised by Greg Morrisett and Robbert van Rennesse. His research focuses on the formal verification of distributed systems. He is also involved in the SCIF project, a reentrancy-secure programming language for smart contracts based on information flow control."
+    
+  - 
     name: 'Hongbo Zhang'
     pic: Hongbo.png
     title:
