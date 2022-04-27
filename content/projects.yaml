@@ -32,7 +32,7 @@ projects:
 
   - 
      name: 'NFTs for Art and Collectables: Primer and Outlook'
-     challenges: [*good, *adf]
+     challenges: [*good, *migration]
      description: Non-fungible tokens (NFTs) are digital objects that reside on blockchains and are tipically associated with unique digital media, such as images or music. A recent frenzy of popular interest has given rise seemingly overnight to a multi-billion NFT market. Individual NFTs can sell for millions or tens of millions of dollars, shile creators ranging from traditional artists such as Damien Hirst and Grimes to mainstream consumer-goods companies such as Coca-Cola and Nike are producing their own NFT collections. This primer's focus is on NFTs for art and collectables. Our aim is to give non-technical readers a basic familiarity with the technology behind NFTs, the history of their development, the current state of the NFT community and marketplace, and a notion of how NFTs might evolve in the future. We also offer a brief overview of the dynamics of traditional art markets and discuss the similarities, differences, and points of intersection in NFT markets. We hope that readers will come away from this primer with a basic understanding of how blockchains, smart contracts, and cryptographic keys work, an appreciation of some of the novel ways in which NFTs are empowering artists, a picture of the variety of dynamism of NFTs projects and communities, and possibly a hankering to own at least a fractional Bored Ape. For further information, please see our <a href="https://www.arijuels.com/wp-content/uploads/2022/04/NFTs__Primer_and_Outlook.pdf">paper</a>.
      
   -
