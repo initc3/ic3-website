@@ -98,15 +98,15 @@
 - I. Eyal and E.G. Sirer. [Majority is not enough: bitcoin mining is vulnerable](https://dl.acm.org/doi/10.1145/3212998). ACM CCS, 2018. 
 - Y. Zhou, D. Kumar, S. Bakshi, J. Mason, A. Miller and M. Bailey. [Erays: Reverse Engineering Ethereum's Opaque Smart Contracts](https://www.usenix.org/conference/usenixsecurity18/presentation/zhou). USENIX Security, 2018.
 - G. Fanti, S. Bakshi, S. Venkatakrishnan, A. Miller, B. Denby, S. Bhargava and P. Viswanath. [Dandelion++: Lightweight Cryptocurrency Networking with Formal Anonymity Guarantees](https://arxiv.org/abs/1805.11060). ACM SIGMETRICS, 2018.
-- K. Lee and A. Miller. Authenticated Data Structures for Privacy-Preserving Monero Light Clients. IEEE Security & Privacy on the Blockchain, IEEE S&B, 2018 (to appear).
+- K. Lee and A. Miller. [Authenticated Data Structures for Privacy-Preserving Monero Light Clients](https://ieeexplore.ieee.org/document/8406557). IEEE S&P, 2018.
 - A.E. Gencer, S. Basu, I. Eyal, R.V. Renesse and E.G. Sirer. [Decentralization in Bitcoin and Ethereum Networks](https://fc18.ifca.ai/preproceedings/75.pdf). Financial Cryptography and Data Security (FC), 2018.
 - M. M&ouml;ser, K. Soska, E. Heilman, K. Lee, H. Heffan, S. Srivastava, K. Hogan, J. Hennessey, A. Miller, A. Narayanan and N. Christin. [An Empirical Analysis of Traceability in the Monero Blockchain](https://arxiv.org/pdf/1704.04299). PETS, 2018.
 - L. Breidenbach, P. Daian, F. Tramèr and A. Juels. [Enter the Hydra: Towards Principled Bug Bounties and Exploit-Resistant Smart Contracts](https://eprint.iacr.org/2017/1090)
 - P. McCorry, A. Hicks and S. Meiklejohn. [Smart Contracts for Bribing Miners](https://fc18.ifca.ai/bitcoin/papers/bitcoin18-final14.pdf). BITCOIN, 2018.
 - F. Zhang, P. Daian, I. Bentov and A. Juels. [Paralysis Proofs: Safe Access-Structure Updates for Cryptocurrencies and More](https://fc18.ifca.ai/bitcoin/papers/bitcoin18-final20.pdf). Advances in Financial Technologies (AFT), 2019. BITCOIN, 2018.
 - S. Azouvi, M. Maller and S. Meiklejohn. [Egalitarian Society or Benevolent Dictatorship: The State of Cryptocurrency Governance](https://fc18.ifca.ai/bitcoin/papers/bitcoin18-final13.pdf). BITCOIN, 2018.
-- E. Kokoris-Kogias, P. Jovanovic, L. Gasser, N. Gailly, E. Syta and B. Ford. [OmniLedger: A Secure, Scale-Out, Decentralized Ledger via Sharding](http://bford.info/pub/dec/omniledger.pdf). IEEE Security and Privacy, 2018.
-- S. Azouvi, P. McCorry, S. Meiklejohn. [ Betting on Blockchain Consensus with Fantomette](https://arxiv.org/abs/1805.06786).
+- E. Kokoris-Kogias, P. Jovanovic, L. Gasser, N. Gailly, E. Syta and B. Ford. [OmniLedger: A Secure, Scale-Out, Decentralized Ledger via Sharding](http://bford.info/pub/dec/omniledger.pdf). IEEE S&P, 2018.
+- S. Azouvi, P. McCorry, S. Meiklejohn. [Betting on Blockchain Consensus with Fantomette](https://arxiv.org/abs/1805.06786).
 
 ## 2017 ##
 
@@ -153,7 +153,7 @@
 - A. Miller and J.J. LaViola, Jr. [Anonymous Byzantine Consensus from Moderately-hard puzzles: A Model for Bitcoin](http://nakamotoinstitute.org/static/docs/anonymous-byzantine-consensus.pdf). (Tech Report) 2014.
 - M. Ghosh, M. Richardson, B. Ford and R.Jansen. [A TorPath to TorCoin: Proof-of-Bandwidth Altcoins for Compensating Relays](http://dedis.cs.yale.edu/dissent/papers/hotpets14-torpath.pdf). Workshop of Hot Topics in Privacy Enhancing Technologies 2014.
 - S. Barber, X. Boyen, E. Shi and E. Uzun. [Bitter to Better: How to Make Bitcoin a Better Digital Currency.](http://elaineshi.com/docs/bitcoin.pdf) In Financial Cryptography and Data Security (FC), 2012.
-- B. Ford, J. Strauss, C. Lesniewski-Laas, S. Rhea, F. Kaashoek and R. Morris. [Persistent Personal Names for Globally Connected Mobile Devices](https://www.usenix.org/legacy/events/osdi06/tech/full_papers/ford/ford.pdf). In USENIX OSDI, 2006.
+- B. Ford, J. Strauss, C. Lesniewski-Laas, S. Rhea, F. Kaashoek and R. Morris. [Persistent Personal Names for Globally Connected Mobile Devices](https://www.usenix.org/legacy/events/osdi06/tech/full_papers/ford/ford.pdf). USENIX OSDI, 2006.
 - M. Jakobsson and A. Juels. [Proofs of Work and Bread Pudding Protocols.](http://www.arijuels.com/wp-content/uploads/2013/09/JJ99.pdf) Communications and Multimedia Security (CMS), pp. 258-272, 1999.
 - A. Juels. [Trustee Tokens: Simple and Practical Tracing of Anonymous Digital Cash.](http://www.arijuels.com/wp-content/uploads/2013/09/J99.zip) Financial Cryptography, pp. 29-45, 1999.
 - M. Jakobsson and A. Juels. [X-Cash: Executable Digital Cash.](http://www.arijuels.com/wp-content/uploads/2013/09/JJ98.pdf) Financial Cryptography, pp. 16-27, 1998
