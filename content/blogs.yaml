@@ -33,6 +33,13 @@
  authors: Michael Mirkin, Yan Ji, Jonathan Pang, Ariah Klages-Mundt, Ittay Eyal, and Ari Juels
  summary: We have discovered a denial-of-service attack on Bitcoin-like blockchains that is much cheaper than previously described attacks. Such blockchains rely on incentives to provide security. We show how an attacker can disrupt those incentives to cause rational miners to stop mining.
 
+- 
+ date: 2020-02-26
+ url: https://decentralizedthoughts.github.io/2020-02-26-selfish-mining/
+ title: "Blockchain Selfish Mining"
+ authors: Ittay Eyal
+ summary: Proof of Work (PoW) Blockchains implement a form of State Machine Replication (SMR). Unlike classical SMR protocols, they are open, i.e., anyone can join the system, and the system incentivizes participants, called miners, to follow the protocol. Therefore, unlike classical SMR protocols, reasoning about blockchain security relies not only on bounding the number of malicious participants. One should crucially ask whether miners are indeed incentivized to follow the prescribed protocol. This is the topic of this post.
+ 
 -
  date: 2020-05-14
  url: https://decentralizedthoughts.github.io/2020-05-14-streamlet/
