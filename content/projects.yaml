@@ -191,7 +191,7 @@ projects:
      description: DECO is a privacy-preserving oracle protocol. Using cryptographic techniques, it lets users prove facts about thier web (TLS) sessions to oracles while hiding privacy-sensitive data. For more information, see <a href="https://www.deco.works/">deco.works</a>.
      
   -
-     name: 'Teechain'
+     name: 'Teechain: A Secure Payment Network with Asynchronous Blockchain Access'
      challenges: [*scaling]
      description: Teechain is the first asynchronous second layer payment network that allows users to execute immediate payments while not requiring parties to constantly monitor the blockchain. Teechain leverages trusted execution environments (TEEs) and uses a new variant of chain replication to ensure security against TEE compromise and side-channel attacks. Teechain achieves at least 33x better throughput than other existing payment networks. For more info, please see our <a href="https://www.teechain.network">paper</a>.
    
