@@ -379,7 +379,7 @@ students:
     pic: kwuest.jpg
     title:
     email: karl.wuest@inf.ethz.ch
-    weburl: 'http://www.syssec.ethz.ch/people/kwuest.html'
+    weburl:
     bio: "Karl is a PhD student in the System Security Group at ETH Zurich. His main research interest is blockchain technology with a focus on security and privacy.\n"
   
   -
@@ -403,7 +403,7 @@ students:
     pic: lunwang.png
     title:
     email: wanglun@berkeley.edu
-    weburl: 'http://wanglunucb.com'
+    weburl: 
     bio: "Lun Wang is a Ph.D. student in EECS at UC Berkeley working with Prof. Dawn Song. His research interest is in the intersection of machine learning and security, data privacy, programming language, blockchains and applied cryptography."
 
   -
@@ -467,7 +467,7 @@ students:
     pic: jun-you.jpg
     title:
     email: jl3956@cornell.edu
-    weburl: "http://orbxball.github.io"
+    weburl:
     bio: "Jun-You is a Computer Science Ph.D. student at Cornell University. He is interested in the research of cryptography, crypto security, and crypto economics; looking forward to leveraging the discovery from research to build a safer open financial system."
 
   -
