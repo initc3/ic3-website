@@ -680,7 +680,7 @@ fellows:
     title:
     email: ekaterina.volkova@unimelb.edu.au
     weburl: 'https://sites.google.com/view/evolkova'
-    bio: "Ekaterina is a Senior Lecturer (Assistant Professor) in the University of Melbourne, Finance Department. Prior to joining the program in 2012, Ekaterina graduated from Moscow State University with MA in Mathematics and from New Economic School with MA in Economics.\n"
+    bio: "Ekaterina is a Senior Lecturer (Assistant Professor) at the University of Melbourne, Finance Department. Prior to joining the program in 2012, Ekaterina graduated from Moscow State University with MA in Mathematics and from New Economic School with MA in Economics.\n"
   
   -
     name: 'Raymond Cheng'
@@ -696,7 +696,7 @@ fellows:
     title:
     email: fanz@cs.duke.edu
     weburl: 'http://fanzhang.me'
-    bio: "Fan Zhang is an incoming Assistant Professor in Computer Science at Duke University starting Fall of 2021. He is currently a security researcher at Chainlink Labs. His research primarily focuses on security/privacy/scalability problems in decentralized systems, especially those enabled by blockchain protocols and trusted execution environments (TEEs).\n"
+    bio: "Fan Zhang is an Assistant Professor in Computer Science at Duke University. He is also a security researcher at Chainlink Labs. His research primarily focuses on security/privacy/scalability problems in decentralized systems, especially those enabled by blockchain protocols and trusted execution environments (TEEs).\n"
   
   -
     name: 'Kai Mast'
@@ -704,7 +704,7 @@ fellows:
     title:
     email: kaimast@cs.wisc.edu
     weburl: 'http://kai-mast.de/'
-    bio: "Kai Mast is postdoctoral scholar in Computer Science at the University of Wisconsin in Madison. Hid research focuses on Byzantine fault-tolerant systems and databases.\n"
+    bio: "Kai Mast is postdoctoral scholar in Computer Science at the University of Wisconsin in Madison. His research focuses on Byzantine fault-tolerant systems and databases.\n"
   
   -
     name: 'Charles Chao Kang'
@@ -712,7 +712,7 @@ fellows:
     title:
     email: chaokang123@gmail.com
     weburl:
-    bio: "Charles Chao Kang is an incoming assistant professor at HKU Business School, the University of Hong Kong. Before that he was a doctoral student in Management (accounting, finance) at Cornell University. His research interests include information intermediaries, financial reporting, corporate governance, and cryptocurrencies."
+    bio: "Charles Chao Kang is an assistant professor at HKU Business School, the University of Hong Kong. Before that he was a doctoral student in Management (accounting, finance) at Cornell University. His research interests include information intermediaries, financial reporting, corporate governance, and cryptocurrencies."
 
   - 
     name: 'Ni Trieu'
@@ -720,15 +720,15 @@ fellows:
     title:
     email: nitrieu@asu.edu
     weburl: 'https://nitrieu.github.io/'
-    bio: "Ni Trieu is an Assistant Professor of computer science at Arizona State University. Her research interests are in cryptography and security, with a specific focus on secure computation and its applications such as private set intersection, private database queries, and privacy-preserving machine learning."
+    bio: "Ni Trieu is an Assistant Professor of Computer Science at Arizona State University. Her research interests are in cryptography and security, with a specific focus on secure computation and its applications such as private set intersection, private database queries, and privacy-preserving machine learning."
 
   -
     name: 'Ethan Cecchetti'
     pic: ethan.png
     title:
     email:
-    weburl: 'http://www.cs.cornell.edu/~ethan/'
-    bio: "Ethan Cecchetti will be joining the Maryland Cybersecurity Center at the University of Maryland as a post-doc in September 2021. He is interested in a wide range of research related to security and cryptography.\n"
+    weburl: 'https://ethan.umiacs.io/'
+    bio: "Ethan Cecchetti is a Post-Doc Associate in the Maryland Cybersecurity Center at the University of Maryland. He is interested in a wide range of research related to security and cryptography.\n"
   
   -
     name: 'Joshua Gancher'
@@ -743,7 +743,7 @@ fellows:
     pic: philipp-jovanovic.jpg
     title:
     email: p.jovanovic@ucl.ac.uk
-    weburl: 'https://zerobyte.io/'
+    weburl:
     bio: "Philipp Jovanovic is an Associate Professor in Information Security at University College London. Philipp's interests broadly include applied cryptography, information security, and decentralized systems. His research mission is to develop, analyze, and deploy scalable, privacy-enhancing, decentralized trust technologies that serve the end users and help to promote anti-fragile ecosystems.\n"
 
 
@@ -793,8 +793,8 @@ alumni_students:
     pic: sbano.jpg
     title:
     email: bano@fb.com
-    weburl: 'http://sheharbano.com'
-    bio: "Shehar Bano is a Research Scientist in Novi (Facebook) based in London. She is also a visiting researcher at the Department of Computer Science and Technology, University of Cambridge. Shehar's research interests centre on networked and distributed systems, particularly in the context of security and performance. Her key areas of research include blockchains, information control (censorship & discrimination), internet measurement, and malware and intrusion detection.\n"
+    weburl:
+    bio: "Shehar Bano is a Research Scientist at Novi (Facebook) based in London. She is also a visiting researcher at the Department of Computer Science and Technology, University of Cambridge. Shehar's research interests centre on networked and distributed systems, particularly in the context of security and performance. Her key areas of research include blockchains, information control (censorship & discrimination), internet measurement, and malware and intrusion detection.\n"
 
   -
     name: 'Alex Manuskin'
@@ -809,7 +809,7 @@ alumni_students:
     pic: oded.jpg
     title:
     email: odednaor@gmail.com
-    weburl: 'https://odednaor.work'
+    weburl: 
     bio: "Oded is a PhD candidate at the Technion. His research interests include blockchains, security, and distributed systems in general.\n"
 
   -
@@ -850,7 +850,7 @@ alumni_students:
     title:
     email: sinisa.matetic@inf.ethz.ch
     weburl: 
-    bio: "Sinisa Matetic is research scientist at ETH Zurich. He was born in Split, Croatia. Prior to joining ETH Zurich, he worked as a Management Consultant at A.T. Kearney in the SEE region. Sinisa's research interest are in system security focusing on distributed systems, trusted hardware, blockchain-based technology design and integrity protection."
+    bio: "Sinisa Matetic is a research scientist at ETH Zurich. He was born in Split, Croatia. Prior to joining ETH Zurich, he worked as a Management Consultant at A.T. Kearney in the SEE region. Sinisa's research interest are in system security focusing on distributed systems, trusted hardware, blockchain-based technology design and integrity protection."
   
   -
     name: 'Amani Moin'
@@ -858,7 +858,7 @@ alumni_students:
     title:
     email: aum4@cornell.edu
     weburl: 'https://amanium.github.io/'
-    bio: "Amani is PhD candidate in Economics with research in Corporate Finance and Financial Technology. She is also the Cheif Cryptoeconomist at AVA Labs.  Her research interests are in empirical corporate finance, machine learning, and cryptocurrencies.\n"
+    bio: "Amani is PhD candidate in Economics with research in Corporate Finance and Financial Technology. She is also the Chief Cryptoeconomist at AVA Labs.  Her research interests are in empirical corporate finance, machine learning, and cryptocurrencies.\n"
 
   -
     name: 'Adem Efe Gencer'
@@ -874,7 +874,7 @@ alumni_students:
     title:
     email: mustafa.al-bassam.16@ucl.ac.uk
     weburl: 'http://www0.cs.ucl.ac.uk/staff/M.AlBassam/'
-    bio: "Mustafa is a PhD student at the Information Security Research Group of the Department of Computer Science at University College London. His research interests include the intersections of peer-to-peer systems, distributed ledgers and information security.\n"
+    bio: "Mustafa completed his Ph.D. at the Information Security Research Group of the Department of Computer Science at University College London. He is CEO of Celestia Labs and Co-founder of Chainspace (acquired by Facebook). His research interests include the intersections of peer-to-peer systems, distributed ledgers and information security.\n"
 
   -
     name: 'Yael Doweck'
@@ -904,6 +904,6 @@ alumni_students:
     name: 'Kirill Nikitin'
     pic: knikitin.jpg
     title:
-    email: kirill.nikitin@epfl.ch
+    email: kirill@cornell.edu
     weburl: 'https://nikirill.com/'
-    bio: "Kirill Nikitin is a Ph.D. candidate at École polytechnique fédérale de Lausanne. His research interests revolve around the topics in system security, network security, and distributed systems. His current focus is on building secure and privacy-preserving decentralized systems.\n"
+    bio: "Kirill Nikitin is a Post-Doc researcher at Cornell Tech working with Prof. Vitaly Shmatikov. Previously, he completed his Ph.D. in Computer Science at École Polytechnique Fédérale de Lausanne (EPFL). His research interests revolve around the topics in system security, network security, and distributed systems. His current focus is on building secure and privacy-preserving decentralized systems.\n"
