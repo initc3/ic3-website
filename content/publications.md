@@ -66,6 +66,7 @@
 - P. McCorry, S. Bakshi, I. Bentov, S. Meiklejohn and A. Miller. [Pisa: Arbitration Outsourcing for State Channels](https://www.cs.cornell.edu/~iddo/pisa.pdf). ACM AFT, 2019.
 - M. Maller, S. Bowe, M. Kohlweiss, and S. Meiklejohn. [Sonic: Zero-Knowledge SNARKs from Linear-Size Universal and Updatable Structured Reference Strings](https://github.com/ebfull/sonic). ACM CCS, 2019.
 - S. Bano, A. Sonnino, M. Al-Bassam, S. Azouvi, P. McCorry, S. Meiklejohn, and G. Danezis. [SoK: Consensus in the Age of Blockchains](https://smeiklej.com/files/aft19a.pdf). ACM AFT, 2019.
+- A. Kharraz, Z. Ma, P. Murley, C. Lever, J. Mason, A. Miller, N. Borisov, M. Antonakakis, and M. Bailey. [Outguard: Detecting In-Browser Covert Cryptocurrency Mining in the Wild](https://dl.acm.org/doi/10.1145/3308558.3313665). ACM, 2019. 
 - H. Yousaf, G. Kappos, and S. Meiklejohn. [Tracing Transactions Across Cryptocurrency Ledgers](https://smeiklej.com/iles/usenix19.pdf). USENIX, 2019. 
 - P. Reibel, H. Yousaf, and S. Meiklejohn. [Why is a Ravencoin Like a TokenDesk? An Exploration of Code Diversity in the Cryptocurrency Landscape](https://smeiklej.com/files/fc19full.pdf). FC, 2019.
 - A. Sonnino, M. Al-Bassam, S. Bano, S. Meiklejohn, and G. Danezis. [Coconut: Threshold Issuance Selective Disclosure Credentials with Applications to Distributed Ledgers](https://smeiklej.com/files/ndss19.pdf). NDSS, 2019. 
