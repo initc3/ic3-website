@@ -474,9 +474,9 @@ students:
     name: 'Harjasleen Malvai'
     pic: jasleen.jpg
     title:
-    email: hmalvai2@illinois.edu
-    weburl:
-    bio: "Harjasleen Malvai is a PhD student at Cornell University with research interests in theoretical and applied cryptography as well as their applications to blockchains, she also maintains an interest in run-on sentences."
+    email: harjasleenmalvai@gmail.com
+    weburl: "https://jasleenmalvai.com/"
+    bio: "Harjasleen Malvai is a Ph.D. student with Prof. Andrew Miller at UIUC with research interests in theoretical and applied cryptography as well as their applications to blockchains, she also maintains an interest in run-on sentences."
 
   -
     name: 'Amit  Agarwal'
