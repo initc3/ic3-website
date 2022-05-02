@@ -62,6 +62,7 @@
 - D. Easley, M. O'Hara, and S. Basu. [From mining to markets: The evolution of bitcoin transaction fees](https://sciencedirect.com/science/article/pii/S0304405X19300583). Journal of Financial Economics (Volume 134, Issue 1), 2019. 
 - S.K.D. Maram, F. Zhang, L. Wang, A. Low, Y. Zhang, A. Juels, and D. Song. [CHURP: Dynamic-Committee Proactive Secret Sharing](https://eprint.iacr.org/2019/017). ACM CCS, 2019. 
 - E. Cecchetti, B. Fisch, I. Miers, and A. Juels. [PIEs: Public Incompressible Encodings for Decentralized Storage](https://eprint.iacr.org/2018/684.pdf). ACM CCS, 2019. 
+- P. Fauzi, S. Meiklejohn, R. Mercer, C. Orlandi. [Quisquis: A New Design for Anonymous Cryptocurrencies](https://smeiklej.com/files/asiacrypt19.pdf). ASIACRYPT, 2019.
 - I. Bentov, Y. Ji, F. Zhang, Y. Li, X. Zhao, L. Breidenbach, P. Daian and A. Juels. [Tesseract: Real-Time Cryptocurrency Exchange Using Trusted Hardware](https://eprint.iacr.org/2017/1153.pdf). ACM CCS, 2019. 
 - G. Fanti, J. Jiao, A. Makkuva, S. Oh, R. Rana, and P. Viswanath. [Barracuda: The Power of l-Polling in Proof-of-Stake Blockchains](https://swoh.web.engr.illinois.edu/polling.pdf). Best Paper Award, ACM MobiHoc, 2019. 
 - P. McCorry, S. Bakshi, I. Bentov, S. Meiklejohn and A. Miller. [Pisa: Arbitration Outsourcing for State Channels](https://www.cs.cornell.edu/~iddo/pisa.pdf). ACM AFT, 2019.
