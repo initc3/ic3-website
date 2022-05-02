@@ -32,7 +32,8 @@
 - F. Rezaei, S. Naseri, I. Eyal, and A. Houmansadr. [The Bitcoin Hunter: Detecting Bitcoin Traffic over Encrypted Channels](https://link.springer.com/chapter/10.1007/978-3-030-63086-7_10). ICCS S&P, 2020.
 - R. Bar-Zur, I. Eyal, and A. Tamar. [Efficient MDP Analysis for Self-Mining in Blockchains](https://arxiv.org/pdf/2007.05614.pdf). ACM AFT, 2020.
 - A. Klages-Mundt, D. Harz, L. Gudgeon, J-Y. Liu, and A. Minca. [Stablecoins 2.0: Economic Foundations and Risk-based Models](https://arxiv.org/abs/2006.12388). ACM AFT, 2020.
-- E.C. Cites, M. Maller, S. Meiklejohn, and R. Mercer. [Reputable List Curation from Decentralized Voting](https://smeiklej.com/files/pets20.pdf). PETS, 2020.
+- Y. Zhang, S. Setty, Q. Chen, L. Zhou, and L. Alvisi. [Byzantine Ordered Consensus without Byzantine Oligarchy](https://www.cs.cornell.edu/lorenzo/papers/Zhang20Byzantine.pdf). USENIX OSDI, 2020 (Best Paper Award).
+- C. Ding, D. Chu, E. Zhao, X. Li, L. Alvisi, and R. van Renesse. [Scalog: Seamless Reconfiguration and Total Order in a Scalable Shared Log](https://www.cs.cornell.edu/lorenzo/papers/Ding20Scalog.pdf). USENIX NSDI, 2020.
 - B. Y. Chan and E. Shi. [STREAMLET: Textbook Streamlined Blockchains](https://eprint.iacr.org/2020/088.pdf). ACM AFT, 2020.
 - M. Kelkar, F. Zhang, S. Goldfeder, and A. Juels. [Order-Fairness for Byzantine Consensus](https://eprint.iacr.org/2020/269). CRYPTO, 2020.
 - S. Allen, S. Capkun, I. Eyal, G. Fanti, B. Ford, J. Grimmelmann, A. Juels, K. Kostiainen, S. Meiklejohn, A. Miller, E. Prasad, K. Wust, and F. Zhang. [Design choices for central bank digital currency: Policy and technical considerations](http://brookings.edu/research/design-choices-for-central-bank-digital-currency-policy-and-technical-considerations/). Brookings Institute Working Paper, 2020.
