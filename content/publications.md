@@ -10,14 +10,13 @@
 ## 2021 ##
 
 - Y. Liu and R. Pass. [On the Possibility of Basing Cryptography on EXP not equal BPP](https://eprint.iacr.org/2021/535.pdf). Crypto, 2021 (Best Paper Award).
-- C. Acay, R. Recto, J. Gancher, A. C. Myers, and E. Shi. [Viaduct: An Extensible, Optimizing Compiler for Secure Distributed Programs](https://eprint.iacr.org/2021/468.pdf). PLDI, 2021. 
+- C. Acay, R. Recto, J. Gancher, A. C. Myers, and E. Shi. [Viaduct: An Extensible, Optimizing Compiler for Secure Distributed Programs](https://eprint.iacr.org/2021/468.pdf). ACM PLDI, 2021. 
 - I. Tsabary, M. Yechieli, and I. Eyal. [MAD-HTLC: Because HTLC is Crazy-Cheap to Attack](http://arxiv.org/abs/2006.12031). IEEE S&P, 2021.
 - K. Gurkan, P. Jovanovic, M. Maller, S. Meiklejohn, G. Stern, and A. Tomescu. [Aggregatable Distributed Key Generation](https://smeiklej.com/files/eurocrypt21.pdf). Eurocrypt, 2021. 
 - C. Hou, M. Zhou, Y. Ji, P. Daian, F. Tramer, G. Fanti, and A. Juels. [SquirRL: Automating Attack Discovery on Blockchain Incentive Mechanisms with Deep Reinforcement Learning](https://arxiv.org/pdf/1912.01798.pdf). NDSS, 2021.
 - E. Cecchetti, S. Yao, H. Ni, and A. C. Myers. [Compositional Security for Reentrant Applications](https://www.cs.cornell.edu/~ethan/papers/serif.pdf). IEEE S&P, 2021 (Best Paper Award).
 - A. Judmayer, N. Stifter, A. Zamyatin, I. Tsabary, I. Eyal, P. Gazi, S. Meiklejohn, and E. Weippl. [SOK: Algorithmic Incentive Manipulation Attacks on Permissionless PoW Cryptocurrencies](https://eprint.iacr.org/2020/1614.pdf). IC Financial Cryptography and Data Security, 2021.
 - D. Maram, H. Malvai, F. Zhang, N. Jean-Louis, A. Frolov, T. Kell, T. Lobban, C. Moy, A. Juels, and A. Miller. [CanDID: Can-Do Decentralized Identity with Legacy Compatibility, Sybil-Resistance, and Accountability](https://eprint.iacr.org/2020/934.pdf). IEEE S&P, 2021.
-- C. Acay, R. Recto, J. Gancher, A. Myers, and E. Shi. [Viaduct: An Extensible, Optimizing Compiler for Secure Distributed Programs](http://elaineshi.com/docs/viaduct.pdf). ACM PLDI, 2021
 - K. Thomas, D. Akhawe, M. Bailey, D. Boneh, E. Bursztein, S. Consolvo, N. Dell, Z. Durumeric, P. G. Kelley, D. Kumar, D. McCoy, S. Meiklejohn, T. Ristenpart, and G. Stringhini. [SoK: Hate, Harassment, and the Changing Landscape of Online Abuse](https://smeiklej.com/files/oakland21.pdf). IEEE S&P, 2021.
 - A. Judmayer, N. Stifter, A. Zamyatin, I. Tsabary, I. Eyal, P. Gazi, S. Meiklejohn, and E. Weippl. [Pay to Win: Cheap, Cross-Chain Bribing Attacks on PoW Cryptocurrencies](http://eprints.cs.univie.ac.at/7102/1/wtsc21b.pdf). IC Financial Cryptography and Data Security, 2021.
 - G. Kappos, H. Yousaf, A. M. Piotrowska, S. Kanjalkar, S. Delgado-Segura, A. Miller, and S. Meiklejohn. [An Empirical Analysis of Privacy in the Lightning Network](https://smeiklej.com/files/fc21.pdf). FC, 2021.
