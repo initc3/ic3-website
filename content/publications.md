@@ -112,6 +112,7 @@
 - F. Zhang, P. Daian, I. Bentov and A. Juels. [Paralysis Proofs: Safe Access-Structure Updates for Cryptocurrencies and More](https://fc18.ifca.ai/bitcoin/papers/bitcoin18-final20.pdf). Advances in Financial Technologies (AFT), 2019. BITCOIN, 2018.
 - S. Azouvi, M. Maller and S. Meiklejohn. [Egalitarian Society or Benevolent Dictatorship: The State of Cryptocurrency Governance](https://fc18.ifca.ai/bitcoin/papers/bitcoin18-final13.pdf). BITCOIN, 2018.
 - E. Kokoris-Kogias, P. Jovanovic, L. Gasser, N. Gailly, E. Syta and B. Ford. [OmniLedger: A Secure, Scale-Out, Decentralized Ledger via Sharding](http://bford.info/pub/dec/omniledger.pdf). IEEE S&P, 2018.
+- N. Crooks, M. Burke, E. Cecchetti, S. Harel, R. Agarwal, and L. Alvisi. [Obladi: Oblivious Serializable Transactions in the Cloud](https://www.cs.cornell.edu/lorenzo/papers/Crooks18Obladi.pdf). USENIX OSDI, 2018.
 - S. Azouvi, P. McCorry, S. Meiklejohn. [Betting on Blockchain Consensus with Fantomette](https://arxiv.org/abs/1805.06786).
 
 ## 2017 ##
