@@ -24,7 +24,7 @@
 - G. Kappos, H. Yousaf, A. M. Piotrowska, S. Kanjalkar, S. Delgado-Segura, A. Miller, and S. Meiklejohn. [An Empirical Analysis of Privacy in the Lightning Network](https://smeiklej.com/files/fc21.pdf). FC, 2021.
 - Y. Shibuya, G. Yamamoto, F. Kojima, E. Shi, S. Matsuo, and A. Laszka. [Selfish Mining Attacks Exacerbated by Elastic Hash Supply](https://arxiv.org/pdf/2103.08007.pdf). FC, 2021. 
 - T-H. H. Chan, W-K. Lin, K. Nayak, and E. Shi. [Perfectly Secure Oblivious Parallel RAM with O(log3N/loglogN) Overhead](https://eprint.iacr.org/2020/604). ITC, 2021.
-- A. Judmayer, N. Stifter, A. Zamyatin, I. Tsabary, I. Eyal, P. Gazi, S. Meiklejohn, and E. Weippl. [Pay-To-Win: Cheap, Crowdfundable, Cross-chain Algorithmic Incentive Manipulation Attacks on PoW Cryptocurrencies](https://eprint.iacr.org/2019/775.pdf). FC, 2021.
+- I. Abraham, P. Jovanovic, M. Maller, S. Meiklejohn, G. Stern, and A. Tomescu. [Reaching Consensus for Asynchronous Distributed Key Generation](https://arxiv.org/pdf/2102.09041.pdf). ACM PODC, 2021.
 
 ## 2020 ##
 
