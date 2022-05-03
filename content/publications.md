@@ -91,9 +91,8 @@
 - S. Delgado-Segura, S. Bakshi, C. Perez-Sola, J. Litton, A. Pachulski, A. Miller, and B. Bhattacharjee. [TxProbe: Discovering Bitcoin's Network Topology Using Orphan Transactions](https://arxiv.org/abs/1812.00942). FC, 2019. 
 -R. Cheng, F. Zhang, J. Kos, W. He, N. Hynes, N. Johnson, A. Juels, A. Miller and D. Song. [Ekiden: A Platform for Confidentiality-Preserving, Trustworthy, and Performant Smart Contract Execution](https://arxiv.org/abs/1804.05141). Euro S&P, 2019.
 - J. Grimmelmann. [All Smart Contracts Are Ambiguous](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3315703). Journal of Law & Innovation, 2019.
-- A. Hicks, V. Mavroudis, M. Al-Bassam, S. Meiklejohn and S.J. Murdoch. [ VAMS: Verifiable Auditing of Access to Confidential Data](https://arxiv.org/abs/1805.04772).
-- T.-H. H. Chan, R. Pass, and E. Shi. [Consensus through Herding](https://eprint.iacr.org/2019/251).
-- Y. Guo, R. Pass, and E. Shi. [ Synchronous, with a Chance of Partition Tolerance](https://eprint.iacr.org/2019/179). IACR Crypto, 2019.
+- A. Hicks, V. Mavroudis, M. Al-Bassam, S. Meiklejohn and S.J. Murdoch. [VAMS: Verifiable Auditing of Access to Confidential Data](https://arxiv.org/abs/1805.04772).
+- Y. Guo, R. Pass, and E. Shi. [Synchronous, with a Chance of Partition Tolerance](https://eprint.iacr.org/2019/179). IACR Crypto, 2019.
 - E. Shi. [Analysis of deterministic longest-chain protocols](https://eprint.iacr.org/2018/1079.pdf). IEEE CSF, 2019.
 - G. Fanti, N. Holden, Y. Peres, and G. Ranade. [Communication cost of consensus for nodes with limited memory](https://arxiv.org/pdf/1901.01665.pdf).
 
