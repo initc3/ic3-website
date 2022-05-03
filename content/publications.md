@@ -54,7 +54,6 @@
 - E. Shi [Path Oblivious Heap](https://eprint.iacr.org/2019/274). IEEE S&P, 2020.
 - B. Ford, P. Jovanovic, and E. Syta. [Que Sera Consensus: Simple Asynchronous Agreement with Private Coins and Threshold Logical Clocks](https://arxiv.org/abs/2003.02291).
 - B. Ford. [Technologizing Democracy or Democratizing Technology? A Layered-Architecture Perspective on Potentials and Challenges](https://bford.info/pub/soc/dt2-chapter-abs/). Final version to appear in the book; [Digital Technology and Democratic Theory](https://press.uchicago.edu/ucp/books/book/chicago/D/bo68657177.html). 
-- E. Shi. [Streamlined Blockchains: A Simple and Elegant Approach](https://eprint.iacr.org/2020/087.pdf).
 - A. Miller, Y. Zhang, and S. Kanjalkar. [Baby SNARK (do do dodo dodo)](https://github.com/initc3/babySNARK/blob/master/babysnark.pdf).
 - G. Avarikioti, E. Kokoris Kogias, R. Wattenhofer, and D. Zindros. [Brick: Asynchronous Payment Channels](https://arxiv.org/abs/1905.11360).
 - J. Wan, H. Xiao, E. Shi, and S. Devadas. [Expected Constant Round Byzantine Broadcast under Dishonest Majority](https://eprint.iacr.org/2020/590.pdf).
@@ -66,6 +65,7 @@
 - D. Easley, M. O'Hara, and S. Basu. [From mining to markets: The evolution of bitcoin transaction fees](https://sciencedirect.com/science/article/pii/S0304405X19300583). Journal of Financial Economics (Volume 134, Issue 1), 2019. 
 - S.K.D. Maram, F. Zhang, L. Wang, A. Low, Y. Zhang, A. Juels, and D. Song. [CHURP: Dynamic-Committee Proactive Secret Sharing](https://eprint.iacr.org/2019/017). ACM CCS, 2019. 
 - E. Cecchetti, B. Fisch, I. Miers, and A. Juels. [PIEs: Public Incompressible Encodings for Decentralized Storage](https://eprint.iacr.org/2018/684.pdf). ACM CCS, 2019. 
+- E. Shi. [Streamlined Blockchains: A Simple and Elegant Approach (A Tutorial and Survey)](https://eprint.iacr.org/2020/087.pdf). ASIACRYPT, 2019.
 - P. Fauzi, S. Meiklejohn, R. Mercer, C. Orlandi. [Quisquis: A New Design for Anonymous Cryptocurrencies](https://smeiklej.com/files/asiacrypt19.pdf). ASIACRYPT, 2019.
 - I. Bentov, Y. Ji, F. Zhang, Y. Li, X. Zhao, L. Breidenbach, P. Daian and A. Juels. [Tesseract: Real-Time Cryptocurrency Exchange Using Trusted Hardware](https://eprint.iacr.org/2017/1153.pdf). ACM CCS, 2019. 
 - G. Fanti, J. Jiao, A. Makkuva, S. Oh, R. Rana, and P. Viswanath. [Barracuda: The Power of l-Polling in Proof-of-Stake Blockchains](https://swoh.web.engr.illinois.edu/polling.pdf). Best Paper Award, ACM MobiHoc, 2019. 
