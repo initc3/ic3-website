@@ -109,7 +109,7 @@
 - K. Lee and A. Miller. [Authenticated Data Structures for Privacy-Preserving Monero Light Clients](https://ieeexplore.ieee.org/document/8406557). IEEE S&P, 2018.
 - A.E. Gencer, S. Basu, I. Eyal, R.V. Renesse and E.G. Sirer. [Decentralization in Bitcoin and Ethereum Networks](https://fc18.ifca.ai/preproceedings/75.pdf). Financial Cryptography and Data Security (FC), 2018.
 - M. M&ouml;ser, K. Soska, E. Heilman, K. Lee, H. Heffan, S. Srivastava, K. Hogan, J. Hennessey, A. Miller, A. Narayanan and N. Christin. [An Empirical Analysis of Traceability in the Monero Blockchain](https://arxiv.org/pdf/1704.04299). PETS, 2018.
-- L. Breidenbach, P. Daian, F. Tramèr and A. Juels. [Enter the Hydra: Towards Principled Bug Bounties and Exploit-Resistant Smart Contracts](https://eprint.iacr.org/2017/1090)
+- L. Breidenbach, P. Daian, F. Tramèr and A. Juels. [Enter the Hydra: Towards Principled Bug Bounties and Exploit-Resistant Smart Contracts](https://eprint.iacr.org/2017/1090). USENIX Security, 2018.
 - P. McCorry, A. Hicks and S. Meiklejohn. [Smart Contracts for Bribing Miners](https://fc18.ifca.ai/bitcoin/papers/bitcoin18-final14.pdf). BITCOIN, 2018.
 - F. Zhang, P. Daian, I. Bentov and A. Juels. [Paralysis Proofs: Safe Access-Structure Updates for Cryptocurrencies and More](https://fc18.ifca.ai/bitcoin/papers/bitcoin18-final20.pdf). Advances in Financial Technologies (AFT), 2019. BITCOIN, 2018.
 - S. Azouvi, M. Maller and S. Meiklejohn. [Egalitarian Society or Benevolent Dictatorship: The State of Cryptocurrency Governance](https://fc18.ifca.ai/bitcoin/papers/bitcoin18-final13.pdf). BITCOIN, 2018.
@@ -130,6 +130,7 @@
 - A. E. Gencer, R. V. Renesse and E. G. Sirer. [Service-Oriented Sharding with Aspen](http://arxiv.org/pdf/1611.06816v1). CoRR, 2016.
 - M. Borge, E. Kokoris-Kogias, P. Jovanovic, L. Gasser, N. Gailly and B. Ford. [Proof-of-Personhood: Redemocratizing Permissionless Cryptocurrencies](http://bford.info/pub/dec/pop.pdf). IEEE S&P, 2017.
 - E. Syta, P. Jovanovic, E. Kokoris-Kogias, N. Gailly, L. Gasser, I. Khoffi, M.J. Fischer and B. Ford. [Scalable Bias-Resistant Distributed Randomness](http://bford.info/pub/dec/random.pdf). IEEE S&P, 2017.
+- I. Eyal. [Blockchain Technology: Transforming Libertarian Cryptocurrency Dreams to Finance and Banking Realities](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8048646). IEEE S&P, 2017.
 - K. Nikitin, E. Kokoris-Kogias, P. Jovanovic, N. Gailly, L. Gasser, I. Khoffi, J. Cappos and B. Ford. [CHAINIAC: Proactive Software-Update Transparency via Collectively Signed Skipchains and Verified Builds](http://bford.info/pub/dec/chainiac.pdf). USENIX Security, 2017.
 
 ## 2016 ##
