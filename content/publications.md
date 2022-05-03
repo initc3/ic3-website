@@ -70,6 +70,7 @@
 - P. Fauzi, S. Meiklejohn, R. Mercer, C. Orlandi. [Quisquis: A New Design for Anonymous Cryptocurrencies](https://smeiklej.com/files/asiacrypt19.pdf). ASIACRYPT, 2019.
 - I. Bentov, Y. Ji, F. Zhang, Y. Li, X. Zhao, L. Breidenbach, P. Daian and A. Juels. [Tesseract: Real-Time Cryptocurrency Exchange Using Trusted Hardware](https://eprint.iacr.org/2017/1153.pdf). ACM CCS, 2019. 
 - G. Fanti, J. Jiao, A. Makkuva, S. Oh, R. Rana, and P. Viswanath. [Barracuda: The Power of l-Polling in Proof-of-Stake Blockchains](https://swoh.web.engr.illinois.edu/polling.pdf). Best Paper Award, ACM MobiHoc, 2019. 
+- A. Juels, L. Breidenbach, A. Coventry, S. Nazarov, S. Ellis, and B. Magauran. [Mixicles: Simple Private Decentralized Finance](https://assets.website-files.com/5f44d690acb168953e6181f6/5fa2f1616ac1b092226b3a86_mixicles.pdf). JBCN, 2019
 - P. McCorry, S. Bakshi, I. Bentov, S. Meiklejohn and A. Miller. [Pisa: Arbitration Outsourcing for State Channels](https://www.cs.cornell.edu/~iddo/pisa.pdf). ACM AFT, 2019.
 - M. Maller, S. Bowe, M. Kohlweiss, and S. Meiklejohn. [Sonic: Zero-Knowledge SNARKs from Linear-Size Universal and Updatable Structured Reference Strings](https://github.com/ebfull/sonic). ACM CCS, 2019.
 - S. Bano, A. Sonnino, M. Al-Bassam, S. Azouvi, P. McCorry, S. Meiklejohn, and G. Danezis. [SoK: Consensus in the Age of Blockchains](https://smeiklej.com/files/aft19a.pdf). ACM AFT, 2019.
