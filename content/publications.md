@@ -123,13 +123,14 @@
 - R. Pass and E. Shi. [Hybrid Consensus: Efficient Consensus in the Permissionless Model](https://ia.cr/2016/917). DISC, 2017.
 - R. Pass and E. Shi. [The Sleepy Model of Consensus](https://ia.cr/2016/918). ASIACRYPT, 2017.
 - E. Cecchetti, F. Zhang, Y. Ji, A. Kosba, A. Juels and E. Shi. [Solidus: Confidential Distributed Ledger Transactions via PVORM](https://eprint.iacr.org/2017/317). ACM CCS, 2017.
+- S. Matetic, M. Ahmed, K. Kostiainen, A. Dhar, D. Sommer, A. Gervais, A. Juels, and S. Capkun. [ROTE: Rollback Protection for Trusted Execution](https://eprint.iacr.org/2017/048.pdf). USENIX Security, 2017.
 - F. Zhang, I. Eyal, R. Escriva, A. Juels and R. V. Renesse. [REM: Resource-Efficient Mining for Blockchains](files/rem.pdf). USENIX Security, 2017.
 - P. Daian, I. Eyal, A. Juels and G. Sirer. [PieceWork: Generalized Outsourcing Control for Proofs of Work](files/PieceWork.pdf). BITCOIN, 2017.
 - F. Tramer, F. Zhang, H. Lin, J.P. Hubaux, A. Juels and E. Shi. [Sealed-Glass Proofs: Using Transparent Enclaves to Prove and Sell Knowledge.](https://eprint.iacr.org/2016/635). IEEE Euro S&P, 2017.
 - A. E. Gencer, R. V. Renesse and E. G. Sirer. [Service-Oriented Sharding with Aspen](http://arxiv.org/pdf/1611.06816v1). CoRR, 2016.
-- M. Borge, E. Kokoris-Kogias, P. Jovanovic, L. Gasser, N. Gailly and B. Ford. [Proof-of-Personhood: Redemocratizing Permissionless Cryptocurrencies](http://bford.info/pub/dec/pop.pdf). In IEEE Security and Privacy on the Blockchain, 2017.
-- E. Syta, P. Jovanovic, E. Kokoris-Kogias, N. Gailly, L. Gasser, I. Khoffi, M.J. Fischer and B. Ford. [Scalable Bias-Resistant Distributed Randomness](http://bford.info/pub/dec/random.pdf). In IEEE Security and Privacy, 2017.
-- K. Nikitin, E. Kokoris-Kogias, P. Jovanovic, N. Gailly, L. Gasser, I. Khoffi, J. Cappos and B. Ford. [CHAINIAC: Proactive Software-Update Transparency via Collectively Signed Skipchains and Verified Builds](http://bford.info/pub/dec/chainiac.pdf). In USENIX Security Symposium, 2017.
+- M. Borge, E. Kokoris-Kogias, P. Jovanovic, L. Gasser, N. Gailly and B. Ford. [Proof-of-Personhood: Redemocratizing Permissionless Cryptocurrencies](http://bford.info/pub/dec/pop.pdf). IEEE S&P, 2017.
+- E. Syta, P. Jovanovic, E. Kokoris-Kogias, N. Gailly, L. Gasser, I. Khoffi, M.J. Fischer and B. Ford. [Scalable Bias-Resistant Distributed Randomness](http://bford.info/pub/dec/random.pdf). IEEE S&P, 2017.
+- K. Nikitin, E. Kokoris-Kogias, P. Jovanovic, N. Gailly, L. Gasser, I. Khoffi, J. Cappos and B. Ford. [CHAINIAC: Proactive Software-Update Transparency via Collectively Signed Skipchains and Verified Builds](http://bford.info/pub/dec/chainiac.pdf). USENIX Security, 2017.
 
 ## 2016 ##
 
@@ -142,27 +143,27 @@
 - B. Marino and A. Juels. [Setting Standards for Altering and Undoing Smart Contracts](http://www.arijuels.com/wp-content/uploads/2016/06/Setting-Standards-for-Altering-and-Undoing-Smart-Contracts.docx). Rule ML, 2016.
 - K. Croman, C. Decker, I. Eyal, A.E. Gencer, A. Juels, A. Kosba, A. Miller, P. Saxena, E. Shi, E. G. Sirer, D. Song and R. Wattenhofer. [On Scaling Decentralized Blockchains (A Position Paper)](http://fc16.ifca.ai/bitcoin/papers/CDE+16.pdf). BITCOIN'16. (Full version [here](files/Scaling2016.pdf))
 - E. Zhai, D.I. Wolinsky, R. Chen, E. Syta, C. Teng and B. Ford. [AnonRep: Towards Tracking-Resistant Anonymous Reputation](http://bford.info/pub/dec/anonrep.pdf). In USENIX NSDI, 2016.
-- E. Syta, I. Tamas, D. Visher, D.I. Wolinsky, P. Jovanovic, L. Gasser, N. Gailly, I. Khoffi and B. Ford. [Keeping Authorities “Honest or Bust” with Decentralized Witness Cosigning](http://dedis.cs.yale.edu/dissent/papers/witness.pdf). In IEEE Symposium on Security and Privacy, 2016.
-- E.K. Kogias, P. Jovanovic, N. Gailly, I. Khoffi, L. Gasser and B. Ford. [Enhancing Bitcoin Security and Performance with Strong Consistency via Collective Signing](http://bford.info/pub/dec/byzcoin.pdf). In USENIX Security Symposium, 2016.
+- E. Syta, I. Tamas, D. Visher, D.I. Wolinsky, P. Jovanovic, L. Gasser, N. Gailly, I. Khoffi and B. Ford. [Keeping Authorities “Honest or Bust” with Decentralized Witness Cosigning](http://dedis.cs.yale.edu/dissent/papers/witness.pdf). IEEE S&P, 2016.
+- E.K. Kogias, P. Jovanovic, N. Gailly, I. Khoffi, L. Gasser and B. Ford. [Enhancing Bitcoin Security and Performance with Strong Consistency via Collective Signing](http://bford.info/pub/dec/byzcoin.pdf). USENIX Security, 2016.
 - A. Kosba, A. Miller, E. Shi, Z. Wen and C. Papamanthou. [Hawk: The Blockchain Model of Cryptography and Privacy-Preserving Smart Contracts.](https://eprint.iacr.org/2015/675.pdf) IEEE S&P, 2016.
 
 ## 2015 and Older ##
 
-- A. Miller, A. Kosba, J. Katz, E. Shi. [Nonoutsourceable Scratch-Off Puzzles to Discourage Bitcoin Mining Coalitions.](https://cs.umd.edu/~amiller/nonoutsourceable_full.pdf) ACM CCS 2015.
-- A. Kiayias, Q.Tang. Traitor-deterring Schemes: Using Bitcoin as Collateral for Digital Contents. ACM CCS, 2015
+- A. Miller, A. Kosba, J. Katz, E. Shi. [Nonoutsourceable Scratch-Off Puzzles to Discourage Bitcoin Mining Coalitions.](https://cs.umd.edu/~amiller/nonoutsourceable_full.pdf). ACM CCS, 2015.
+- A. Kiayias, Q.Tang. Traitor-deterring Schemes: Using Bitcoin as Collateral for Digital Contents. ACM CCS, 2015.
 - R. Pass and a. shelat. [Micropayments for Decentralized Currencies](files/micropay2.pdf). ACM CCS, 2015.
 - A. Miller, J. Litton, A. Pachulski, N. Gupta, D. Levin, N. Spring and B. Bhattacharjee. [Discovering bitcoin's public topology and influential nodes](http://cs.umd.edu/projects/coinscope/coinscope.pdf). Whitepaper, 2015.
 - I. Eyal. [The Miner's Dilemma](http://arxiv.org/abs/1411.7099). IEEE S&P, 2015.
-- J. Bonneau, A. Miller, J. Clark, A. Narayanan, J. A. Kroll, E. W. Felten. [SoK: Research Perspectives and Challenges for Bitcoin and Cryptocurrencies](http://www.ieee-security.org/TC/SP2015/papers-archived/6949a104.pdf), IEEE S&P, 2015.
+- J. Bonneau, A. Miller, J. Clark, A. Narayanan, J. A. Kroll, E. W. Felten. [SoK: Research Perspectives and Challenges for Bitcoin and Cryptocurrencies](http://www.ieee-security.org/TC/SP2015/papers-archived/6949a104.pdf). IEEE S&P, 2015.
 - A. Everspaugh, R. Chatterjee, S. Scott, A. Juels and T. Ristenpart. [The Pythia PRF Service](http://eprint.iacr.org/2015/644.pdf). USENIX Security, 2015. (Proposes a password-hardening system; securing Bitcoin brainwallets is one application.)
 - A. Miller, R. Jansen. Shadow-Bitcoin: [Scalable Simulation via Direct Execution of Multi-threaded Applications.](http://eprint.iacr.org/2015/469) USENIX CSET Workshop, 2015.
-- I. Eyal and E. G. Sirer. [Majority Is Not Enough: Bitcoin Mining Is Vulnerable.](http://www.cs.cornell.edu/~ie53/publications/btcProcFC.pdf) In Financial Cryptography and Data Security (FC), pp. 436-454, March 2014.
-- A. Miller, A. Juels, E. Shi, B. Parno and J. Katz. [Permacoin: Repurposing Bitcoin Work for Long-Term Data Preservation.](http://research.microsoft.com/pubs/217984/permacoin.pdf) IEEE Symposium on Security and Privacy (SP), 2014. (Note: Permacoin is an altcoin that "recycles" the resource costs of mining by creating a distributed storage system as a side-effect.)
-- J. Bonneau, A. Narayanan, A. Miller, J. Clark, J. A. Kroll and E.W. Felten. [Mixcoin: Anonymity for Bitcoin with accountable mixes](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Nv2jil0AAAAJ&citation_for_view=Nv2jil0AAAAJ:4xDN1ZYqzskC). Financial Cryptography and Data Security, 2014.
-- A. Miller and J.J. LaViola, Jr. [Anonymous Byzantine Consensus from Moderately-hard puzzles: A Model for Bitcoin](http://nakamotoinstitute.org/static/docs/anonymous-byzantine-consensus.pdf). (Tech Report) 2014.
+- I. Eyal and E. G. Sirer. [Majority Is Not Enough: Bitcoin Mining Is Vulnerable.](http://www.cs.cornell.edu/~ie53/publications/btcProcFC.pdf). Financial Cryptography and Data Security (FC), pp. 436-454, 2014.
+- A. Miller, A. Juels, E. Shi, B. Parno and J. Katz. [Permacoin: Repurposing Bitcoin Work for Long-Term Data Preservation.](http://research.microsoft.com/pubs/217984/permacoin.pdf). IEEE S&P, 2014. (Note: Permacoin is an altcoin that "recycles" the resource costs of mining by creating a distributed storage system as a side-effect.)
+- J. Bonneau, A. Narayanan, A. Miller, J. Clark, J. A. Kroll and E.W. Felten. [Mixcoin: Anonymity for Bitcoin with accountable mixes](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Nv2jil0AAAAJ&citation_for_view=Nv2jil0AAAAJ:4xDN1ZYqzskC). Financial Cryptography and Data Security (FC), 2014.
+- A. Miller and J.J. LaViola, Jr. [Anonymous Byzantine Consensus from Moderately-hard puzzles: A Model for Bitcoin](http://nakamotoinstitute.org/static/docs/anonymous-byzantine-consensus.pdf). Tech Report, 2014.
 - M. Ghosh, M. Richardson, B. Ford and R.Jansen. [A TorPath to TorCoin: Proof-of-Bandwidth Altcoins for Compensating Relays](http://dedis.cs.yale.edu/dissent/papers/hotpets14-torpath.pdf). Workshop of Hot Topics in Privacy Enhancing Technologies 2014.
 - S. Barber, X. Boyen, E. Shi and E. Uzun. [Bitter to Better: How to Make Bitcoin a Better Digital Currency.](http://elaineshi.com/docs/bitcoin.pdf) In Financial Cryptography and Data Security (FC), 2012.
 - B. Ford, J. Strauss, C. Lesniewski-Laas, S. Rhea, F. Kaashoek and R. Morris. [Persistent Personal Names for Globally Connected Mobile Devices](https://www.usenix.org/legacy/events/osdi06/tech/full_papers/ford/ford.pdf). USENIX OSDI, 2006.
 - M. Jakobsson and A. Juels. [Proofs of Work and Bread Pudding Protocols.](http://www.arijuels.com/wp-content/uploads/2013/09/JJ99.pdf) Communications and Multimedia Security (CMS), pp. 258-272, 1999.
-- A. Juels. [Trustee Tokens: Simple and Practical Tracing of Anonymous Digital Cash.](http://www.arijuels.com/wp-content/uploads/2013/09/J99.zip) Financial Cryptography, pp. 29-45, 1999.
-- M. Jakobsson and A. Juels. [X-Cash: Executable Digital Cash.](http://www.arijuels.com/wp-content/uploads/2013/09/JJ98.pdf) Financial Cryptography, pp. 16-27, 1998
+- A. Juels. [Trustee Tokens: Simple and Practical Tracing of Anonymous Digital Cash.](http://www.arijuels.com/wp-content/uploads/2013/09/J99.zip). FC, pp. 29-45, 1999.
+- M. Jakobsson and A. Juels. [X-Cash: Executable Digital Cash.](http://www.arijuels.com/wp-content/uploads/2013/09/JJ98.pdf). FC, pp. 16-27, 1998.
