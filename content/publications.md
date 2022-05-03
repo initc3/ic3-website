@@ -109,11 +109,14 @@
 - K. Lee and A. Miller. [Authenticated Data Structures for Privacy-Preserving Monero Light Clients](https://ieeexplore.ieee.org/document/8406557). IEEE S&P, 2018.
 - A.E. Gencer, S. Basu, I. Eyal, R.V. Renesse and E.G. Sirer. [Decentralization in Bitcoin and Ethereum Networks](https://fc18.ifca.ai/preproceedings/75.pdf). Financial Cryptography and Data Security (FC), 2018.
 - M. M&ouml;ser, K. Soska, E. Heilman, K. Lee, H. Heffan, S. Srivastava, K. Hogan, J. Hennessey, A. Miller, A. Narayanan and N. Christin. [An Empirical Analysis of Traceability in the Monero Blockchain](https://arxiv.org/pdf/1704.04299). PETS, 2018.
+- S. Meiklejohn and R. Mercer. [M&oul;bius: Trustless Tumbling for Transaction Privacy](https://smeiklej.com/files/pets18.pdf). PETS, 2018.
+- J. Groth, M. Kohlweiss, M. Maller, S. Meiklejohn, and I. Miers. [Updatable and Universal Common Reference Strings with Applications to zk-SNARKs](https://smeiklej.com/files/crypto18.pdf). CRYPTO, 2018.
 - L. Breidenbach, P. Daian, F. Tramèr and A. Juels. [Enter the Hydra: Towards Principled Bug Bounties and Exploit-Resistant Smart Contracts](https://eprint.iacr.org/2017/1090). USENIX Security, 2018.
-- P. McCorry, A. Hicks and S. Meiklejohn. [Smart Contracts for Bribing Miners](https://fc18.ifca.ai/bitcoin/papers/bitcoin18-final14.pdf). BITCOIN, 2018.
+- P. McCorry, A. Hicks and S. Meiklejohn. [Smart Contracts for Bribing Miners](https://fc18.ifca.ai/bitcoin/papers/bitcoin18-final14.pdf). Financial Cryptography and Data Security (FC), BITCOIN, 2018.
 - F. Zhang, P. Daian, I. Bentov and A. Juels. [Paralysis Proofs: Safe Access-Structure Updates for Cryptocurrencies and More](https://fc18.ifca.ai/bitcoin/papers/bitcoin18-final20.pdf). Advances in Financial Technologies (AFT), 2019. BITCOIN, 2018.
-- S. Azouvi, M. Maller and S. Meiklejohn. [Egalitarian Society or Benevolent Dictatorship: The State of Cryptocurrency Governance](https://fc18.ifca.ai/bitcoin/papers/bitcoin18-final13.pdf). BITCOIN, 2018.
+- S. Azouvi, M. Maller and S. Meiklejohn. [Egalitarian Society or Benevolent Dictatorship: The State of Cryptocurrency Governance](https://fc18.ifca.ai/bitcoin/papers/bitcoin18-final13.pdf). Financial Cryptography and Data Security, BITCOIN, 2018.
 - E. Kokoris-Kogias, P. Jovanovic, L. Gasser, N. Gailly, E. Syta and B. Ford. [OmniLedger: A Secure, Scale-Out, Decentralized Ledger via Sharding](http://bford.info/pub/dec/omniledger.pdf). IEEE S&P, 2018.
+- S. Meiklejohn. [Top Ten Obstacles along Distributed Ledgers' Path to Adoption](https://smeiklej.com/files/topten.pdf). IEEE S&P, 2018.
 - N. Crooks, M. Burke, E. Cecchetti, S. Harel, R. Agarwal, and L. Alvisi. [Obladi: Oblivious Serializable Transactions in the Cloud](https://www.cs.cornell.edu/lorenzo/papers/Crooks18Obladi.pdf). USENIX OSDI, 2018.
 
 ## 2017 ##
