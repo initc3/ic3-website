@@ -3,6 +3,7 @@
 ## 2022 ##
 
 - S. Das, T. Yurek, Z. Xiang, A. Miller, L. Kokoris-Kogias, and L. Ren. [Practical Asynchronous Distributed Key Generation](https://eprint.iacr.org/2021/1591.pdf). IEEE S&P, 2022.
+- T. Yurek, L. Luo, J. Fairoze, A. Kate, and A. Miller. [hbACSS: How to Robustly Share Many Secrets](https://eprint.iacr.org/2021/159.pdf). NDSS, 2022. (to appear)
 - I. Khaburzaniya, K. Chalkias, K. Lewi, and H. Malvai. [Aggregating and thresholdizing hash-based signatures using STARKs](https://eprint.iacr.org/2021/1048.pdf). ACM CCS, 2022.
 - I. Eyal. [On cryptocurrency wallet design](https://drops.dagstuhl.de/opus/volltexte/2022/15901/pdf/OASIcs-Tokenomics-2021-4.pdf). ICBE S&P, 2022
 - J. Liu, P. Li, R. Cheng, N. Asokan, and D. Song. [Parallel and Asynchronous Smart Contract Execution](https://ieeexplore.ieee.org/document/9477197). IEEE S&P, 2022.
@@ -20,6 +21,7 @@
 - F. Suri-Payer, M. Burke, Z. Wang, Y. Zhang, L. Alvisi, and N. Crooks. [Basil: Breaking Up BFT with ACID (transactions)](https://www.cs.cornell.edu/lorenzo/papers/Suri21Basil.pdf). ACM SOSP, 2021.
 - D. Maram, H. Malvai, F. Zhang, N. Jean-Louis, A. Frolov, T. Kell, T. Lobban, C. Moy, A. Juels, and A. Miller. [CanDID: Can-Do Decentralized Identity with Legacy Compatibility, Sybil-Resistance, and Accountability](https://eprint.iacr.org/2020/934.pdf). IEEE S&P, 2021.
 - K. Thomas, D. Akhawe, M. Bailey, D. Boneh, E. Bursztein, S. Consolvo, N. Dell, Z. Durumeric, P. G. Kelley, D. Kumar, D. McCoy, S. Meiklejohn, T. Ristenpart, and G. Stringhini. [SoK: Hate, Harassment, and the Changing Landscape of Online Abuse](https://smeiklej.com/files/oakland21.pdf). IEEE S&P, 2021.
+- S. Kanjalkar, Y. Zhang, S. Gandlur, and A. Miller. [Publicly Auditable MPC-as-a-Service with succinct verification and universal setup](https://arxiv.org/pdf/2107.04248.pdf). IEEE S&P, 2021.
 - A. Judmayer, N. Stifter, A. Zamyatin, I. Tsabary, I. Eyal, P. Gazi, S. Meiklejohn, and E. Weippl. [Pay to Win: Cheap, Cross-Chain Bribing Attacks on PoW Cryptocurrencies](http://eprints.cs.univie.ac.at/7102/1/wtsc21b.pdf). IC Financial Cryptography and Data Security, 2021.
 - G. Kappos, H. Yousaf, A. M. Piotrowska, S. Kanjalkar, S. Delgado-Segura, A. Miller, and S. Meiklejohn. [An Empirical Analysis of Privacy in the Lightning Network](https://smeiklej.com/files/fc21.pdf). FC, 2021.
 - Y. Shibuya, G. Yamamoto, F. Kojima, E. Shi, S. Matsuo, and A. Laszka. [Selfish Mining Attacks Exacerbated by Elastic Hash Supply](https://arxiv.org/pdf/2103.08007.pdf). FC, 2021. 
@@ -56,6 +58,7 @@
 - B. Ford, P. Jovanovic, and E. Syta. [Que Sera Consensus: Simple Asynchronous Agreement with Private Coins and Threshold Logical Clocks](https://arxiv.org/abs/2003.02291).
 - B. Ford. [Technologizing Democracy or Democratizing Technology? A Layered-Architecture Perspective on Potentials and Challenges](https://bford.info/pub/soc/dt2-chapter-abs/). Final version to appear in the book; [Digital Technology and Democratic Theory](https://press.uchicago.edu/ucp/books/book/chicago/D/bo68657177.html). 
 - A. Miller, Y. Zhang, and S. Kanjalkar. [Baby SNARK (do do dodo dodo)](https://github.com/initc3/babySNARK/blob/master/babysnark.pdf).
+- R. Paccagnella, P. Datta, W. Ul Hassan, A. Bates, C. Fletcher, A. Miller, and D. Tian. [CUSTOS: practical Tamper-Evident Auditing of Operating Systems Using Trusted Execution](https://rp8.web.engr.illinois.edu/papers/custos-ndss2020.pdf). NDSS, 2020.
 - G. Avarikioti, E. Kokoris Kogias, R. Wattenhofer, and D. Zindros. [Brick: Asynchronous Payment Channels](https://arxiv.org/abs/1905.11360).
 - J. Wan, H. Xiao, E. Shi, and S. Devadas. [Expected Constant Round Byzantine Broadcast under Dishonest Majority](https://eprint.iacr.org/2020/590.pdf).
 - T-H. H. Chan, N. Ephraim, A. Marcedone, A. Morgan, R. Pass, and E. Shi. [Blockchain with Varying Number of Players](https://eprint.iacr.org/2020/677.pdf).
@@ -73,6 +76,7 @@
 - A. Juels, L. Breidenbach, A. Coventry, S. Nazarov, S. Ellis, and B. Magauran. [Mixicles: Simple Private Decentralized Finance](https://assets.website-files.com/5f44d690acb168953e6181f6/5fa2f1616ac1b092226b3a86_mixicles.pdf). JBCN, 2019
 - P. McCorry, S. Bakshi, I. Bentov, S. Meiklejohn and A. Miller. [Pisa: Arbitration Outsourcing for State Channels](https://www.cs.cornell.edu/~iddo/pisa.pdf). ACM AFT, 2019.
 - M. Maller, S. Bowe, M. Kohlweiss, and S. Meiklejohn. [Sonic: Zero-Knowledge SNARKs from Linear-Size Universal and Updatable Structured Reference Strings](https://github.com/ebfull/sonic). ACM CCS, 2019.
+- D. Lu, T. Yurek, S. Kulshreshtha, R. Govind, R. Mahadev, A. Kate, and A. Miller. [HoneyBadgerMPC andAsynchroMix: Practical AsynchronousMPC and its Application to Anonymous Communication](https://eprint.iacr.org/2019/883.pdf). ACM CCS, 2019.
 - S. Bano, A. Sonnino, M. Al-Bassam, S. Azouvi, P. McCorry, S. Meiklejohn, and G. Danezis. [SoK: Consensus in the Age of Blockchains](https://smeiklej.com/files/aft19a.pdf). ACM AFT, 2019.
 - A. Kharraz, Z. Ma, P. Murley, C. Lever, J. Mason, A. Miller, N. Borisov, M. Antonakakis, and M. Bailey. [Outguard: Detecting In-Browser Covert Cryptocurrency Mining in the Wild](https://dl.acm.org/doi/10.1145/3308558.3313665). ACM, 2019. 
 - H. Yousaf, G. Kappos, and S. Meiklejohn. [Tracing Transactions Across Cryptocurrency Ledgers](https://smeiklej.com/iles/usenix19.pdf). USENIX, 2019. 
@@ -107,6 +111,7 @@
 - K. Lee and A. Miller. [Authenticated Data Structures for Privacy-Preserving Monero Light Clients](https://ieeexplore.ieee.org/document/8406557). IEEE S&P, 2018.
 - A.E. Gencer, S. Basu, I. Eyal, R.V. Renesse and E.G. Sirer. [Decentralization in Bitcoin and Ethereum Networks](https://fc18.ifca.ai/preproceedings/75.pdf). Financial Cryptography and Data Security (FC), 2018.
 - M. M&ouml;ser, K. Soska, E. Heilman, K. Lee, H. Heffan, S. Srivastava, K. Hogan, J. Hennessey, A. Miller, A. Narayanan and N. Christin. [An Empirical Analysis of Traceability in the Monero Blockchain](https://arxiv.org/pdf/1704.04299). PETS, 2018.
+- S.K. Kim, Z. Ma, S. Murali, J. Mason, A. Miller, and M. Bailey. [Measuring Ethereum Network Peers](https://dl.acm.org/doi/pdf/10.1145/3278532.3278542). ACM IMC, 2018. 
 - S. Meiklejohn and R. Mercer. [Mobius: Trustless Tumbling for Transaction Privacy](https://smeiklej.com/files/pets18.pdf). PETS, 2018.
 - J. Groth, M. Kohlweiss, M. Maller, S. Meiklejohn, and I. Miers. [Updatable and Universal Common Reference Strings with Applications to zk-SNARKs](https://smeiklej.com/files/crypto18.pdf). CRYPTO, 2018.
 - L. Breidenbach, P. Daian, F. Tramèr and A. Juels. [Enter the Hydra: Towards Principled Bug Bounties and Exploit-Resistant Smart Contracts](https://eprint.iacr.org/2017/1090). USENIX Security, 2018.
