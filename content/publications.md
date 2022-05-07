@@ -27,6 +27,7 @@
 - A. Judmayer, N. Stifter, A. Zamyatin, I. Tsabary, I. Eyal, P. Gazi, S. Meiklejohn, and E. Weippl. [Pay to Win: Cheap, Cross-Chain Bribing Attacks on PoW Cryptocurrencies](http://eprints.cs.univie.ac.at/7102/1/wtsc21b.pdf). IC Financial Cryptography and Data Security, 2021.
 - G. Kappos, H. Yousaf, A. M. Piotrowska, S. Kanjalkar, S. Delgado-Segura, A. Miller, and S. Meiklejohn. [An Empirical Analysis of Privacy in the Lightning Network](https://smeiklej.com/files/fc21.pdf). FC, 2021.
 - Y. Shibuya, G. Yamamoto, F. Kojima, E. Shi, S. Matsuo, and A. Laszka. [Selfish Mining Attacks Exacerbated by Elastic Hash Supply](https://arxiv.org/pdf/2103.08007.pdf). FC, 2021. 
+- K. Wust, L. Diana, K. Kostiainen, G. Karame, S. Matetic, and S. Capkun. [Bitcontracts: Supporting Smart Contracts in Legacy Blockchains](https://eprint.iacr.org/2019/857.pdf). NDSS, 2021.
 - T-H. H. Chan, W-K. Lin, K. Nayak, and E. Shi. [Perfectly Secure Oblivious Parallel RAM with O(log3N/loglogN) Overhead](https://eprint.iacr.org/2020/604). ITC, 2021.
 - K-M. Chung, T-H. H. Chan, T. Wen, and E. Shi. [Game-Theoretic Fairness Meets Multi-Party Protocols: The Case of Leader Election](https://eprint.iacr.org/2020/1591). CRYPTO, 2021. 
 - I. Abraham, P. Jovanovic, M. Maller, S. Meiklejohn, G. Stern, and A. Tomescu. [Reaching Consensus for Asynchronous Distributed Key Generation](https://arxiv.org/pdf/2102.09041.pdf). ACM PODC, 2021.
@@ -63,6 +64,7 @@
 - E. Shi [Path Oblivious Heap:Optimal and Practical Oblivious Priority Queue](https://eprint.iacr.org/2019/274). IEEE S&P, 2020.
 - B. Ford, P. Jovanovic, and E. Syta. [Que Sera Consensus: Simple Asynchronous Agreement with Private Coins and Threshold Logical Clocks](https://arxiv.org/abs/2003.02291).
 - E. Stefanov, M van Dijk, E. Shi, C. Fletcher, L. Ren, X. Yu, and S. Devadas. [A Retrospective on Path RAM](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8747366). IEEE S&P, 2020.
+- V. Mavroudis, K. Wust, A. Dhar, K. Kostiainen, and S. Capkun. [Snappy: Fast On-chain Payments with Practical Collaterals](https://arxiv.org/abs/2001.01278). NDSS, 2020.
 - T-H. H. Chan, R. Pass, and E. Shi. [Sublinear-Round Byzantine Agreement under Corrupt Majority](http://elaineshi.com/docs/ba-cormaj.pdf). IACR PKC, 2020.
 - B. Ford. [Technologizing Democracy or Democratizing Technology? A Layered-Architecture Perspective on Potentials and Challenges](https://bford.info/pub/soc/dt2-chapter-abs/). Final version to appear in the book; [Digital Technology and Democratic Theory](https://press.uchicago.edu/ucp/books/book/chicago/D/bo68657177.html). 
 - A. Miller, Y. Zhang, and S. Kanjalkar. [Baby SNARK (do do dodo dodo)](https://github.com/initc3/babySNARK/blob/master/babysnark.pdf).
@@ -81,9 +83,13 @@
 - E. Shi. [Streamlined Blockchains: A Simple and Elegant Approach (A Tutorial and Survey)](https://eprint.iacr.org/2020/087.pdf). ASIACRYPT, 2019.
 - P. Fauzi, S. Meiklejohn, R. Mercer, C. Orlandi. [Quisquis: A New Design for Anonymous Cryptocurrencies](https://smeiklej.com/files/asiacrypt19.pdf). ASIACRYPT, 2019.
 - I. Bentov, Y. Ji, F. Zhang, Y. Li, X. Zhao, L. Breidenbach, P. Daian and A. Juels. [Tesseract: Real-Time Cryptocurrency Exchange Using Trusted Hardware](https://eprint.iacr.org/2017/1153.pdf). ACM CCS, 2019. 
-- G. Fanti, J. Jiao, A. Makkuva, S. Oh, R. Rana, and P. Viswanath. [Barracuda: The Power of l-Polling in Proof-of-Stake Blockchains](https://swoh.web.engr.illinois.edu/polling.pdf). Best Paper Award, ACM MobiHoc, 2019. 
+- G. Fanti, J. Jiao, A. Makkuva, S. Oh, R. Rana, and P. Viswanath. [Barracuda: The Power of l-Polling in Proof-of-Stake Blockchains](https://swoh.web.engr.illinois.edu/polling.pdf). ACM MobiHoc, 2019 (Best Paper Award). 
 - A. Juels, L. Breidenbach, A. Coventry, S. Nazarov, S. Ellis, and B. Magauran. [Mixicles: Simple Private Decentralized Finance](https://assets.website-files.com/5f44d690acb168953e6181f6/5fa2f1616ac1b092226b3a86_mixicles.pdf). JBCN, 2019
+- M. Schneider, S. Matetic, A. Juels, A. Miller, and S. Capkun. [Secure Brokered Delegation Through DelegaTEE](https://ethz.ch/content/dam/ethz/special-interest/infk/inst-infsec/system-security-group-dam/research/publications/pub2019/delegatee_magazine.pdf). IEEE S&P, 2019.
 - P. McCorry, S. Bakshi, I. Bentov, S. Meiklejohn and A. Miller. [Pisa: Arbitration Outsourcing for State Channels](https://www.cs.cornell.edu/~iddo/pisa.pdf). ACM AFT, 2019.
+- S. Matetic, K. Wust, M. Schneider, K. Kostiainen, G. Karame, and S. Capkun. [BITE: Bitcoin Lightweight Client Privacy using Trusted Execution](https://eprint.iacr.org/2018/803). USENIX, 2019.
+- K. Wust, K. Kostiainen, V. Capkun, and S. Capkun. [PRCash: Fast, Private and Regulated Transactions for Digital Currencies](https://eprint.iacr.org/2018/412). FC, 2019.
+- K. Wust, S. Matetic, M. Schneider, I. Miers, K. Kostiainen, and S. Capkun. [ZLite: Lightweight Clients for Shielded Zcash Transactions using Trusted Execution](https://ethz.ch/content/dam/ethz/special-interest/infk/inst-infsec/system-security-group-dam/research/publications/pub2019/zlite.pdf). FC, 2019.
 - D. Dachman-Soled, C. Liu, C. Papamanthou, E. Shi, and U. Vishkin. [Oblivious Network RAM and Leveraging Parallelism to Achieve Obliviousness](https://link.springer.com/article/10.1007/s00145-018-9301-4). Journal of Cryptology, 2019.
 - M. Maller, S. Bowe, M. Kohlweiss, and S. Meiklejohn. [Sonic: Zero-Knowledge SNARKs from Linear-Size Universal and Updatable Structured Reference Strings](https://github.com/ebfull/sonic). ACM CCS, 2019.
 - D. Lu, T. Yurek, S. Kulshreshtha, R. Govind, R. Mahadev, A. Kate, and A. Miller. [HoneyBadgerMPC and AsynchroMix: Practical AsynchronousMPC and its Application to Anonymous Communication](https://eprint.iacr.org/2019/883.pdf). ACM CCS, 2019.
@@ -147,7 +153,7 @@
 - S. Matetic, M. Ahmed, K. Kostiainen, A. Dhar, D. Sommer, A. Gervais, A. Juels, and S. Capkun. [ROTE: Rollback Protection for Trusted Execution](https://eprint.iacr.org/2017/048.pdf). USENIX Security, 2017.
 - F. Zhang, I. Eyal, R. Escriva, A. Juels and R. V. Renesse. [REM: Resource-Efficient Mining for Blockchains](files/rem.pdf). USENIX Security, 2017.
 - P. Daian, I. Eyal, A. Juels and G. Sirer. [PieceWork: Generalized Outsourcing Control for Proofs of Work](files/PieceWork.pdf). BITCOIN, 2017.
-- F. Tramer, F. Zhang, H. Lin, J.P. Hubaux, A. Juels and E. Shi. [Sealed-Glass Proofs: Using Transparent Enclaves to Prove and Sell Knowledge.](https://eprint.iacr.org/2016/635). IEEE Euro S&P, 2017.
+- F. Tramer, F. Zhang, H. Lin, J.P. Hubaux, A. Juels and E. Shi. [Sealed-Glass Proofs: Using Transparent Enclaves to Prove and Sell Knowledge](https://eprint.iacr.org/2016/635). IEEE Euro S&P, 2017.
 - A. E. Gencer, R. V. Renesse and E. G. Sirer. [Service-Oriented Sharding with Aspen](http://arxiv.org/pdf/1611.06816v1). CoRR, 2016.
 - M. Borge, E. Kokoris-Kogias, P. Jovanovic, L. Gasser, N. Gailly and B. Ford. [Proof-of-Personhood: Redemocratizing Permissionless Cryptocurrencies](http://bford.info/pub/dec/pop.pdf). IEEE S&P, 2017.
 - E. Syta, P. Jovanovic, E. Kokoris-Kogias, N. Gailly, L. Gasser, I. Khoffi, M.J. Fischer and B. Ford. [Scalable Bias-Resistant Distributed Randomness](http://bford.info/pub/dec/random.pdf). IEEE S&P, 2017.
