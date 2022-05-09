@@ -842,7 +842,7 @@ alumni_students:
     title:
     email: h.yousaf@ucl.ac.uk
     weburl: 'http://www.haaroonyousaf.com/'
-    bio: "Haaroon received his Ph.D. in Computer Science from the Information Security Group at University College London (UCL) under the supervision of Professor Sarah Meiklejohn and Professor Jens Groth. Currently, he works in research at Pometry, a start-up he co-founded in 2021 with his colleague Ben Steer from Queen Mary. They focus on distributed temporal graph analytics, since most platforms are either too slow or cannot perform this kind of analysis.\n"
+    bio: "Haaroon received his Ph.D. in Computer Science from the Information Security Group at University College London (UCL) under the supervision of Professor Sarah Meiklejohn and Professor Jens Groth. Currently, he works in research at Pometry, a start-up he co-founded in 2021 with his colleague Ben Steer from Queen Mary. They focus on building a platform for distributed temporal graph analytics.\n"
   
   -
     name: 'Sinisa Matetic'
