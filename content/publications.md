@@ -18,7 +18,7 @@
 - C. Hou, M. Zhou, Y. Ji, P. Daian, F. Tramer, G. Fanti, and A. Juels. [SquirRL: Automating Attack Discovery on Blockchain Incentive Mechanisms with Deep Reinforcement Learning](https://arxiv.org/pdf/1912.01798.pdf). NDSS, 2021.
 - E. Cecchetti, S. Yao, H. Ni, and A. C. Myers. [Compositional Security for Reentrant Applications](https://www.cs.cornell.edu/~ethan/papers/serif.pdf). IEEE S&P, 2021 (Best Paper Award).
 - E. Shi. [Streamlet: An Absurdly Simple, Textbook Blockchain Protocol](https://eprint.iacr.org/2020/088.pdf). ASIA CCS, 2021.
-- A. Judmayer, N. Stifter, A. Zamyatin, I. Tsabary, I. Eyal, P. Gazi, S. Meiklejohn, and E. Weippl. [SOK: Algorithmic Incentive Manipulation Attacks on Permissionless PoW Cryptocurrencies](https://eprint.iacr.org/2020/1614.pdf). IC Financial Cryptography and Data Security, 2021.
+- A. Judmayer, N. Stifter, A. Zamyatin, I. Tsabary, I. Eyal, P. Gazi, S. Meiklejohn, and E. Weippl. [SoK: Algorithmic Incentive Manipulation Attacks on Permissionless PoW Cryptocurrencies](https://eprint.iacr.org/2020/1614.pdf). IC Financial Cryptography and Data Security, 2021.
 - F. Suri-Payer, M. Burke, Z. Wang, Y. Zhang, L. Alvisi, and N. Crooks. [Basil: Breaking Up BFT with ACID (transactions)](https://www.cs.cornell.edu/lorenzo/papers/Suri21Basil.pdf). ACM SOSP, 2021.
 - D. Maram, H. Malvai, F. Zhang, N. Jean-Louis, A. Frolov, T. Kell, T. Lobban, C. Moy, A. Juels, and A. Miller. [CanDID: Can-Do Decentralized Identity with Legacy Compatibility, Sybil-Resistance, and Accountability](https://eprint.iacr.org/2020/934.pdf). IEEE S&P, 2021.
 - K. Thomas, D. Akhawe, M. Bailey, D. Boneh, E. Bursztein, S. Consolvo, N. Dell, Z. Durumeric, P. G. Kelley, D. Kumar, D. McCoy, S. Meiklejohn, T. Ristenpart, and G. Stringhini. [SoK: Hate, Harassment, and the Changing Landscape of Online Abuse](https://smeiklej.com/files/oakland21.pdf). IEEE S&P, 2021.
@@ -27,6 +27,7 @@
 - A. Judmayer, N. Stifter, A. Zamyatin, I. Tsabary, I. Eyal, P. Gazi, S. Meiklejohn, and E. Weippl. [Pay to Win: Cheap, Cross-Chain Bribing Attacks on PoW Cryptocurrencies](http://eprints.cs.univie.ac.at/7102/1/wtsc21b.pdf). IC Financial Cryptography and Data Security, 2021.
 - G. Kappos, H. Yousaf, A. M. Piotrowska, S. Kanjalkar, S. Delgado-Segura, A. Miller, and S. Meiklejohn. [An Empirical Analysis of Privacy in the Lightning Network](https://smeiklej.com/files/fc21.pdf). FC, 2021.
 - Y. Shibuya, G. Yamamoto, F. Kojima, E. Shi, S. Matsuo, and A. Laszka. [Selfish Mining Attacks Exacerbated by Elastic Hash Supply](https://arxiv.org/pdf/2103.08007.pdf). FC, 2021. 
+- J. Liu, P. Li, R. Cheng, N. Asokan, and D. Song. [Parallel and asynchronous smart contract execution](https://ieeexplore.ieee.org/abstract/document/9477197). IEEE PDS, 2021. 
 - K. Wust, L. Diana, K. Kostiainen, G. Karame, S. Matetic, and S. Capkun. [Bitcontracts: Supporting Smart Contracts in Legacy Blockchains](https://eprint.iacr.org/2019/857.pdf). NDSS, 2021.
 - T-H. H. Chan, W-K. Lin, K. Nayak, and E. Shi. [Perfectly Secure Oblivious Parallel RAM with O(log3N/loglogN) Overhead](https://eprint.iacr.org/2020/604). ITC, 2021.
 - K-M. Chung, T-H. H. Chan, T. Wen, and E. Shi. [Game-Theoretic Fairness Meets Multi-Party Protocols: The Case of Leader Election](https://eprint.iacr.org/2020/1591). CRYPTO, 2021. 
@@ -44,6 +45,8 @@
 - Y. Zhang, S. Setty, Q. Chen, L. Zhou, and L. Alvisi. [Byzantine Ordered Consensus without Byzantine Oligarchy](https://www.cs.cornell.edu/lorenzo/papers/Zhang20Byzantine.pdf). USENIX OSDI, 2020 (Best Paper Award).
 - C. Ding, D. Chu, E. Zhao, X. Li, L. Alvisi, and R. van Renesse. [Scalog: Seamless Reconfiguration and Total Order in a Scalable Shared Log](https://www.cs.cornell.edu/lorenzo/papers/Ding20Scalog.pdf). USENIX NSDI, 2020.
 - T-H. H. Chan, K-M. Chung, W-K. Lin, and E. Shi. [MPC for MPC: Secure Computation on a Massively Parallel Computing Architecture](https://eprint.iacr.org/2020/240). ITCS, 2020.
+- Y. Peng, M. Du, F. Li, R. Cheng, and D. Song. [FalconDB: Blockchain-based Collaborative Database](https://dl.acm.org/doi/pdf/10.1145/3318464.3380594). ACM SIGMOD, 2020. 
+- A. Kosba, D. Papadopoulos, C. Papamanthou, and D. Song. [MIRAGE: Succinct Arguments for Randomized Algorithms with Applications to Universal zk-SNARKs](https://www.usenix.org/conference/usenixsecurity20/presentation/kosba). USENIX, 2020.
 - B. Y. Chan and E. Shi. [STREAMLET: Textbook Streamlined Blockchains](https://eprint.iacr.org/2020/088.pdf). ACM AFT, 2020.
 - M. Kelkar, F. Zhang, S. Goldfeder, and A. Juels. [Order-Fairness for Byzantine Consensus](https://eprint.iacr.org/2020/269). CRYPTO, 2020.
 - S. Allen, S. Capkun, I. Eyal, G. Fanti, B. Ford, J. Grimmelmann, A. Juels, K. Kostiainen, S. Meiklejohn, A. Miller, E. Prasad, K. Wust, and F. Zhang. [Design choices for central bank digital currency: Policy and technical considerations](http://brookings.edu/research/design-choices-for-central-bank-digital-currency-policy-and-technical-considerations/). Brookings Institute Working Paper, 2020.
@@ -89,6 +92,7 @@
 - P. McCorry, S. Bakshi, I. Bentov, S. Meiklejohn and A. Miller. [Pisa: Arbitration Outsourcing for State Channels](https://www.cs.cornell.edu/~iddo/pisa.pdf). ACM AFT, 2019.
 - S. Matetic, K. Wust, M. Schneider, K. Kostiainen, G. Karame, and S. Capkun. [BITE: Bitcoin Lightweight Client Privacy using Trusted Execution](https://eprint.iacr.org/2018/803). USENIX, 2019.
 - K. Wust, K. Kostiainen, V. Capkun, and S. Capkun. [PRCash: Fast, Private and Regulated Transactions for Digital Currencies](https://eprint.iacr.org/2018/412). FC, 2019.
+- Y. Kwon, J. Liu, M. Kim, D. Song, Y. Kim. [Impossibility of Full Decentralization in Permissionless Blockchains](https://arxiv.org/pdf/1905.05158.pdf). ACM AFT, 2019.
 - K. Wust, S. Matetic, M. Schneider, I. Miers, K. Kostiainen, and S. Capkun. [ZLite: Lightweight Clients for Shielded Zcash Transactions using Trusted Execution](https://ethz.ch/content/dam/ethz/special-interest/infk/inst-infsec/system-security-group-dam/research/publications/pub2019/zlite.pdf). FC, 2019.
 - D. Dachman-Soled, C. Liu, C. Papamanthou, E. Shi, and U. Vishkin. [Oblivious Network RAM and Leveraging Parallelism to Achieve Obliviousness](https://link.springer.com/article/10.1007/s00145-018-9301-4). Journal of Cryptology, 2019.
 - M. Maller, S. Bowe, M. Kohlweiss, and S. Meiklejohn. [Sonic: Zero-Knowledge SNARKs from Linear-Size Universal and Updatable Structured Reference Strings](https://github.com/ebfull/sonic). ACM CCS, 2019.
@@ -128,9 +132,10 @@
 - A.E. Gencer, S. Basu, I. Eyal, R.V. Renesse and E.G. Sirer. [Decentralization in Bitcoin and Ethereum Networks](https://fc18.ifca.ai/preproceedings/75.pdf). Financial Cryptography and Data Security (FC), 2018.
 - M. M&ouml;ser, K. Soska, E. Heilman, K. Lee, H. Heffan, S. Srivastava, K. Hogan, J. Hennessey, A. Miller, A. Narayanan and N. Christin. [An Empirical Analysis of Traceability in the Monero Blockchain](https://arxiv.org/pdf/1704.04299). PETS, 2018.
 - S.K. Kim, Z. Ma, S. Murali, J. Mason, A. Miller, and M. Bailey. [Measuring Ethereum Network Peers](https://dl.acm.org/doi/pdf/10.1145/3278532.3278542). ACM IMC, 2018. 
+- K. Karlsson, D. Adams, G. Rubambiza, Z. Xian, R. van Renesse, H. Weatherspoon, and S. Wicker. [Untethered: Deployable Blockchains for IoT Environments](https://dl.acm.org/doi/pdf/10.1145/3267809.3275450?msclkid=209b68d2cfe011ec8b47e004c8572761). ACM CC, 2018.
 - G. Karame, and S. Capkun. [Blockchain Security and Privacy](https://ethz.ch/content/dam/ethz/special-interest/infk/inst-infsec/system-security-group-dam/research/publications/pub2018/ieee-aug18.pdf). IEEE S&P, 2018.
 - K. Wust, and A. Gervais. [Do you need a Blockchain?](https://ethz.ch/content/dam/ethz/special-interest/infk/inst-infsec/system-security-group-dam/research/publications/pub2018/doyouneedablockchain.pdf). CVCBT, 2018.
-- H. Ritzdorf, K. Wust, A. Gervais, G. Felley, and S. Capkun. [TLS-N: Non-repudiation over TLS Enabling Ubiquitous Contect Signing](https://ethz.ch/content/dam/ethz/special-interest/infk/inst-infsec/system-security-group-dam/research/publications/pub2018/ndss2018ritzdorf.pdf). NDSS, 2018. 
+- H. Ritzdorf, K. Wust, A. Gervais, G. Felley, and S. Capkun. [TLS-N: Non-repudiation over TLS Enabling Ubiquitous Content Signing](https://ethz.ch/content/dam/ethz/special-interest/infk/inst-infsec/system-security-group-dam/research/publications/pub2018/ndss2018ritzdorf.pdf). NDSS, 2018. 
 - S. Meiklejohn and R. Mercer. [Mobius: Trustless Tumbling for Transaction Privacy](https://smeiklej.com/files/pets18.pdf). PETS, 2018.
 - J. Groth, M. Kohlweiss, M. Maller, S. Meiklejohn, and I. Miers. [Updatable and Universal Common Reference Strings with Applications to zk-SNARKs](https://smeiklej.com/files/crypto18.pdf). CRYPTO, 2018.
 - E. Prasad. [Central Banking in a Digital Age: Stock-Taking and Preliminary Thoughts](http://prasad.dyson.cornell.edu/doc/CentralBankingDigitalAge_Brookings.April18.pdf). Hutchins Center on Fiscal & Monetary Policy at Brookings, 2018.
@@ -145,6 +150,7 @@
 - T.-H. H. Chan, K. Nayak, and E. Shi. [Perfectly Secure Oblivious Parallel RAM](https://link.springer.com/chapter/10.1007/978-3-030-03810-6_23). TCC, 2018.
 - S. Meiklejohn. [Top Ten Obstacles along Distributed Ledgers' Path to Adoption](https://smeiklej.com/files/topten.pdf). IEEE S&P, 2018.
 - N. Crooks, M. Burke, E. Cecchetti, S. Harel, R. Agarwal, and L. Alvisi. [Obladi: Oblivious Serializable Transactions in the Cloud](https://www.cs.cornell.edu/lorenzo/papers/Crooks18Obladi.pdf). USENIX OSDI, 2018.
+- K. Karlosson, W. Jiang, S. Wicker, D. Adams, E. Ma, R. van Renesse, and H. Weatherspoon. [Vegvisir: A Partition-Tolerant Blockchain for the Internet-of-Things](https://vegvisir.cs.cornell.edu/html/files/papers/vegvisir-paper.pdf?msclkid=7a88eb34cfb211eca20eab9ab641e67c). IEEE DCS, 2018.
 - T-H. H. Chan, J. Katz, K. Nayak, A. Polychroniadou, and E. Shi. [More is Less: Perfectly Secure Oblivious Algorithms in the Multi-server Setting](https://link.springer.com/chapter/10.1007/978-3-030-03332-3_7). ASIACRYPT, 2018.
 
 ## 2017 ##
