@@ -128,6 +128,9 @@
 - A.E. Gencer, S. Basu, I. Eyal, R.V. Renesse and E.G. Sirer. [Decentralization in Bitcoin and Ethereum Networks](https://fc18.ifca.ai/preproceedings/75.pdf). Financial Cryptography and Data Security (FC), 2018.
 - M. M&ouml;ser, K. Soska, E. Heilman, K. Lee, H. Heffan, S. Srivastava, K. Hogan, J. Hennessey, A. Miller, A. Narayanan and N. Christin. [An Empirical Analysis of Traceability in the Monero Blockchain](https://arxiv.org/pdf/1704.04299). PETS, 2018.
 - S.K. Kim, Z. Ma, S. Murali, J. Mason, A. Miller, and M. Bailey. [Measuring Ethereum Network Peers](https://dl.acm.org/doi/pdf/10.1145/3278532.3278542). ACM IMC, 2018. 
+- G. Karame, and S. Capkun. [Blockchain Security and Privacy](https://ethz.ch/content/dam/ethz/special-interest/infk/inst-infsec/system-security-group-dam/research/publications/pub2018/ieee-aug18.pdf). IEEE S&P, 2018.
+- K. Wust, and A. Gervais. [Do you need a Blockchain?](https://ethz.ch/content/dam/ethz/special-interest/infk/inst-infsec/system-security-group-dam/research/publications/pub2018/doyouneedablockchain.pdf). CVCBT, 2018.
+- H. Ritzdorf, K. Wust, A. Gervais, G. Felley, and S. Capkun. [TLS-N: Non-repudiation over TLS Enabling Ubiquitous Contect Signing](https://ethz.ch/content/dam/ethz/special-interest/infk/inst-infsec/system-security-group-dam/research/publications/pub2018/ndss2018ritzdorf.pdf). NDSS, 2018. 
 - S. Meiklejohn and R. Mercer. [Mobius: Trustless Tumbling for Transaction Privacy](https://smeiklej.com/files/pets18.pdf). PETS, 2018.
 - J. Groth, M. Kohlweiss, M. Maller, S. Meiklejohn, and I. Miers. [Updatable and Universal Common Reference Strings with Applications to zk-SNARKs](https://smeiklej.com/files/crypto18.pdf). CRYPTO, 2018.
 - E. Prasad. [Central Banking in a Digital Age: Stock-Taking and Preliminary Thoughts](http://prasad.dyson.cornell.edu/doc/CentralBankingDigitalAge_Brookings.April18.pdf). Hutchins Center on Fiscal & Monetary Policy at Brookings, 2018.
