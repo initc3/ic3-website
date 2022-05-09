@@ -215,14 +215,6 @@ students:
     bio: "Hongbo is a Ph.D. student in Computer Science at Cornell University advised by Robbert van Rennesse. He is interested in Computer Systems, currently focusing on storage systems and smart contract virtual machines for blockchain systems. He obtained his Bachelor's degree from the University of Waterloo."
     
   -
-    name: 'Sarah Azouvi'
-    pic: sazouvi.jpg
-    title:
-    email: sarah.azouvi@protocol.ai
-    weburl: 'http://www0.cs.ucl.ac.uk/staff/S.Azouvi/'
-    bio: "Sarah is a PhD student at University College London in the Information Security group. Her research interest are in Applied Cryptography and Game Theory, in the context of cryptocurrencies.\n"
-  
-  -
     name: 'Louis-Henri Merino'
     pic:
     title:
@@ -796,6 +788,14 @@ alumni_students:
     weburl: 'https://github.com/amanusk'
     bio: "Alex is a researcher working on ZenGo-X. He is interested in distributed systems, scaling cryptocurrencies and security.\n"
 
+  -
+    name: 'Sarah Azouvi'
+    pic: sazouvi.jpg
+    title:
+    email: sarah.azouvi@protocol.ai
+    weburl: 'http://www0.cs.ucl.ac.uk/staff/S.Azouvi/'
+    bio: "Sarah is a research scientist at Protocol Labs, working in ConsensusLabs. Her interests lie at the intersection of Applied Cryptography, Distributed Systems, and Game Theory. During her Ph.D., she mostly worked on descentralized consensus protocols but also looked at other aspects of descentralized systems such as their governance.\n"
+  
   -
     name: 'Oded Naor'
     pic: oded.jpg
