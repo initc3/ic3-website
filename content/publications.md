@@ -47,6 +47,8 @@
 - A. Klages-Mundt, D. Harz, L. Gudgeon, J-Y. Liu, and A. Minca. [Stablecoins 2.0: Economic Foundations and Risk-based Models](https://arxiv.org/abs/2006.12388). ACM AFT, 2020.
 - Y. Zhang, S. Setty, Q. Chen, L. Zhou, and L. Alvisi. [Byzantine Ordered Consensus without Byzantine Oligarchy](https://www.cs.cornell.edu/lorenzo/papers/Zhang20Byzantine.pdf). USENIX OSDI, 2020 (Best Paper Award).
 - C. Ding, D. Chu, E. Zhao, X. Li, L. Alvisi, and R. van Renesse. [Scalog: Seamless Reconfiguration and Total Order in a Scalable Shared Log](https://www.cs.cornell.edu/lorenzo/papers/Ding20Scalog.pdf). USENIX NSDI, 2020.
+- V. Sivaraman, S. Bojja Venkatakrishnan, K. Ruan, P. Negi, L. Yang, R. Mittal, G. Fanti, and M. Alizadeh. [Routing cryptocurrency with the spider network](https://arxiv.org/pdf/1809.05088.pdf). NSDI, 2020. HotNets, 2018.
+- W. Tang, W. Wang, G. Fanti, and S. Oh. [Privacy-Utility Tradeoffs in Routing Cryptocurrency over Payment Channel Networks](https://arxiv.org/pdf/1909.02717.pdf). Sigmetrics, 2020.
 - T-H. H. Chan, K-M. Chung, W-K. Lin, and E. Shi. [MPC for MPC: Secure Computation on a Massively Parallel Computing Architecture](https://eprint.iacr.org/2020/240). ITCS, 2020.
 - Y. Peng, M. Du, F. Li, R. Cheng, and D. Song. [FalconDB: Blockchain-based Collaborative Database](https://dl.acm.org/doi/pdf/10.1145/3318464.3380594). ACM SIGMOD, 2020. 
 - A. Kosba, D. Papadopoulos, C. Papamanthou, and D. Song. [MIRAGE: Succinct Arguments for Randomized Algorithms with Applications to Universal zk-SNARKs](https://www.usenix.org/conference/usenixsecurity20/presentation/kosba). USENIX, 2020.
@@ -113,6 +115,7 @@
 - T.-H. H. Chan, R. Pass, and E. Shi. [Consensus Through Herding](https://link.springer.com/chapter/10.1007%2F978-3-030-17653-2_24). EUROCRYPT (1), 2019.
 - W.-K. Lin, E. Shi, and T. Xie. [Can We Overcome the n log n Barrier for Oblivious Sorting?](https://epubs.siam.org/doi/10.1137/1.9781611975482.148). SODA, 2019. 
 - T.-H. H. Chan, K.-M. Chung, B.M. Maggs, E. Shi. [Foundations of Differentially Oblivious Algorithms](https://epubs.siam.org/doi/10.1137/1.9781611975482.150). SODA, 2019. 
+- V. Bagaria, s. Kannan, D. Tse, G. Fanti, and P. Viswanath. [Prism: Deconstructing the Blockchain to Approach Physical Limits](https://arxiv.org/pdf/1810.08092.pdf). ACM CCS, 2019.
 - A. Farhadi, M.T. Hajiaghayi, K.G. Larsen, and E. Shi. [Lower bounds for external memory integer sorting via network coding](https://dl.acm.org/citation.cfm?doid=3313276.3316337). STOC, 2019.
 - S. Kanjalkar, J. Kuo, Y. Li, and A. Miller. [Short Paper: I Can't Believe It's Not Stake! Resource Exhaustion Attacks on PoS](https://fc19.ifca.ai/preproceedings/180-preproceedings.pdf). FC, 2019. 
 - A. Miller, I. Bentov, S. Bakshi, R. Kumaresan, and P. McCorry. [Sprites and State Channels: Payment Networks that Go Faster than Lightning](https://arxiv.org/abs/1702.05812). FC, 2019.
