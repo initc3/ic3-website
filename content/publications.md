@@ -6,7 +6,8 @@
 - T. Yurek, L. Luo, J. Fairoze, A. Kate, and A. Miller. [hbACSS: How to Robustly Share Many Secrets](https://eprint.iacr.org/2021/159.pdf). NDSS, 2022. (to appear)
 - I. Khaburzaniya, K. Chalkias, K. Lewi, and H. Malvai. [Aggregating and thresholdizing hash-based signatures using STARKs](https://eprint.iacr.org/2021/1048.pdf). ACM CCS, 2022.
 - G. Asharov, I. Komargodski, W-K. Lin, E. Peserico, and E. Shi. [Optimal Oblivious Parallel RAM](https://eprint.iacr.org/2020/1292.pdf). SODA, 2022.
-- I. Eyal. [On cryptocurrency wallet design](https://drops.dagstuhl.de/opus/volltexte/2022/15901/pdf/OASIcs-Tokenomics-2021-4.pdf). ICBE S&P, 2022
+- I. Eyal. [On cryptocurrency wallet design](https://drops.dagstuhl.de/opus/volltexte/2022/15901/pdf/OASIcs-Tokenomics-2021-4.pdf). ICBE S&P, 2022.
+- G. Asharov, T-H. H. Chan, K. Nayak, R. Pass, L. Ren, and E. Shi. [Locality-Preserving Oblivious RAM](https://eprint.iacr.org/2017/772). Journal of Cryptology, 2022.
 - J. Liu, P. Li, R. Cheng, N. Asokan, and D. Song. [Parallel and Asynchronous Smart Contract Execution](https://ieeexplore.ieee.org/document/9477197). IEEE S&P, 2022.
 
 ## 2021 ##
@@ -15,6 +16,7 @@
 - C. Acay, R. Recto, J. Gancher, A. C. Myers, and E. Shi. [Viaduct: An Extensible, Optimizing Compiler for Secure Distributed Programs](https://eprint.iacr.org/2021/468.pdf). ACM PLDI, 2021. 
 - I. Tsabary, M. Yechieli, and I. Eyal. [MAD-HTLC: Because HTLC is Crazy-Cheap to Attack](http://arxiv.org/abs/2006.12031). IEEE S&P, 2021.
 - K. Gurkan, P. Jovanovic, M. Maller, S. Meiklejohn, G. Stern, and A. Tomescu. [Aggregatable Distributed Key Generation](https://smeiklej.com/files/eurocrypt21.pdf). Eurocrypt, 2021. 
+- G. Asharov, I. Komargodski, W-K. Lin, and E. Shi. [Oblivious RAM with Worst-Case Logarithmic Overhead](https://eprint.iacr.org/2021/1123). CRYPTO, 2021.
 - C. Hou, M. Zhou, Y. Ji, P. Daian, F. Tramer, G. Fanti, and A. Juels. [SquirRL: Automating Attack Discovery on Blockchain Incentive Mechanisms with Deep Reinforcement Learning](https://arxiv.org/pdf/1912.01798.pdf). NDSS, 2021.
 - E. Cecchetti, S. Yao, H. Ni, and A. C. Myers. [Compositional Security for Reentrant Applications](https://www.cs.cornell.edu/~ethan/papers/serif.pdf). IEEE S&P, 2021 (Best Paper Award).
 - E. Shi. [Streamlet: An Absurdly Simple, Textbook Blockchain Protocol](https://eprint.iacr.org/2020/088.pdf). ASIA CCS, 2021.
@@ -29,6 +31,7 @@
 - Y. Shibuya, G. Yamamoto, F. Kojima, E. Shi, S. Matsuo, and A. Laszka. [Selfish Mining Attacks Exacerbated by Elastic Hash Supply](https://arxiv.org/pdf/2103.08007.pdf). FC, 2021. 
 - J. Liu, P. Li, R. Cheng, N. Asokan, and D. Song. [Parallel and asynchronous smart contract execution](https://ieeexplore.ieee.org/abstract/document/9477197). IEEE PDS, 2021. 
 - K. Wust, L. Diana, K. Kostiainen, G. Karame, S. Matetic, and S. Capkun. [Bitcontracts: Supporting Smart Contracts in Legacy Blockchains](https://eprint.iacr.org/2019/857.pdf). NDSS, 2021.
+- - B. Canakci, and R. van Renesse. [Scaling Membership of Byzantine Consensus](https://dl.acm.org/doi/abs/10.1145/3473138). ACM CCS, 2021.
 - T-H. H. Chan, W-K. Lin, K. Nayak, and E. Shi. [Perfectly Secure Oblivious Parallel RAM with O(log3N/loglogN) Overhead](https://eprint.iacr.org/2020/604). ITC, 2021.
 - K-M. Chung, T-H. H. Chan, T. Wen, and E. Shi. [Game-Theoretic Fairness Meets Multi-Party Protocols: The Case of Leader Election](https://eprint.iacr.org/2020/1591). CRYPTO, 2021. 
 - I. Abraham, P. Jovanovic, M. Maller, S. Meiklejohn, G. Stern, and A. Tomescu. [Reaching Consensus for Asynchronous Distributed Key Generation](https://arxiv.org/pdf/2102.09041.pdf). ACM PODC, 2021.
