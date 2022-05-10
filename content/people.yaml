@@ -131,7 +131,7 @@ faculty:
     pic: scapkun.jpg
     title:
     email: srdjan.capkun@inf.ethz.ch
-    weburl:
+    weburl: 'https://syssec.ethz.ch/people/capkun.html?msclkid=d0ece2d7d0a311ec87f1e5e30ac45cc2'
     bio: "Srdjan Capkun, is a Full Professor in the Department of Computer Science, ETH Zurich and Director of the Zurich Information Security and Privacy Center (ZISC). His research interests are in system and network security.\n"
   
   -
@@ -139,7 +139,7 @@ faculty:
     pic: bford.jpg
     title:
     email: bryan.ford@epfl.ch
-    weburl:
+    weburl: 'https://bford.info/?msclkid=5e274dc0d0a311ec8d8ef2687437bd14'
     bio: "Prof. Bryan Ford leads the Decentralized/Distributed Systems (DEDIS) lab at the Swiss Federal Institute of Technology in Lausanne (EPFL). Ford focuses broadly on building secure decentralized systems, touching on topics including private and anonymous communication technologies, Internet architecture, and secure operating systems.\n"
   
   -
