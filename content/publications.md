@@ -73,6 +73,7 @@
 - B. Ford, P. Jovanovic, and E. Syta. [Que Sera Consensus: Simple Asynchronous Agreement with Private Coins and Threshold Logical Clocks](https://arxiv.org/abs/2003.02291).
 - E. Stefanov, M van Dijk, E. Shi, C. Fletcher, L. Ren, X. Yu, and S. Devadas. [A Retrospective on Path RAM](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8747366). IEEE S&P, 2020.
 - V. Mavroudis, K. Wust, A. Dhar, K. Kostiainen, and S. Capkun. [Snappy: Fast On-chain Payments with Practical Collaterals](https://arxiv.org/abs/2001.01278). NDSS, 2020.
+- I. Sheff, X. Wang, R. van Renesse, and A. Myers. [Heterogeneous Paxos](https://www.cs.cornell.edu/andru/papers/hetcons/opodis20.pdf). OPODIS, 2020. 
 - T-H. H. Chan, R. Pass, and E. Shi. [Sublinear-Round Byzantine Agreement under Corrupt Majority](http://elaineshi.com/docs/ba-cormaj.pdf). IACR PKC, 2020.
 - B. Ford. [Technologizing Democracy or Democratizing Technology? A Layered-Architecture Perspective on Potentials and Challenges](https://bford.info/pub/soc/dt2-chapter-abs/). Final version to appear in the book; [Digital Technology and Democratic Theory](https://press.uchicago.edu/ucp/books/book/chicago/D/bo68657177.html). 
 - A. Miller, Y. Zhang, and S. Kanjalkar. [Baby SNARK (do do dodo dodo)](https://github.com/initc3/babySNARK/blob/master/babysnark.pdf).
