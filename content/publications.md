@@ -31,7 +31,8 @@
 - Y. Shibuya, G. Yamamoto, F. Kojima, E. Shi, S. Matsuo, and A. Laszka. [Selfish Mining Attacks Exacerbated by Elastic Hash Supply](https://arxiv.org/pdf/2103.08007.pdf). FC, 2021. 
 - J. Liu, P. Li, R. Cheng, N. Asokan, and D. Song. [Parallel and asynchronous smart contract execution](https://ieeexplore.ieee.org/abstract/document/9477197). IEEE PDS, 2021. 
 - K. Wust, L. Diana, K. Kostiainen, G. Karame, S. Matetic, and S. Capkun. [Bitcontracts: Supporting Smart Contracts in Legacy Blockchains](https://eprint.iacr.org/2019/857.pdf). NDSS, 2021.
-- - B. Canakci, and R. van Renesse. [Scaling Membership of Byzantine Consensus](https://dl.acm.org/doi/abs/10.1145/3473138). ACM CCS, 2021.
+- B. Ford. [Technologizing Democracy or Democratizing Technology? A Layered-Architecture Perspective on Potentials and Challenges](https://bford.info/pub/soc/dt2-chapter-abs/). [Digital Technology and Democratic Theory](https://press.uchicago.edu/ucp/books/book/chicago/D/bo68657177.html). Univ. of Chicago Press, 2021.
+- B. Canakci, and R. van Renesse. [Scaling Membership of Byzantine Consensus](https://dl.acm.org/doi/abs/10.1145/3473138). ACM CCS, 2021.
 - T-H. H. Chan, W-K. Lin, K. Nayak, and E. Shi. [Perfectly Secure Oblivious Parallel RAM with O(log3N/loglogN) Overhead](https://eprint.iacr.org/2020/604). ITC, 2021.
 - K-M. Chung, T-H. H. Chan, T. Wen, and E. Shi. [Game-Theoretic Fairness Meets Multi-Party Protocols: The Case of Leader Election](https://eprint.iacr.org/2020/1591). CRYPTO, 2021. 
 - I. Abraham, P. Jovanovic, M. Maller, S. Meiklejohn, G. Stern, and A. Tomescu. [Reaching Consensus for Asynchronous Distributed Key Generation](https://arxiv.org/pdf/2102.09041.pdf). ACM PODC, 2021.
@@ -71,12 +72,10 @@
 - E. Kokoris-Kogias, E.C. Alp, L. Gasser, P. Jovanovic, E. Syta, and B. Ford. [CALYPSO: Private Data Management for Decentralized Ledgers](https://eprint.iacr.org/2018/209).
 - G. Asharov, I. Komargodski, W-K. Lin, K. Nayak, E. Peserico, and E. Shi. [OptORAMa: Optimal Oblivious RAM](https://eprint.iacr.org/2018/892). EUROCRYPTO, 2020.
 - E. Shi [Path Oblivious Heap:Optimal and Practical Oblivious Priority Queue](https://eprint.iacr.org/2019/274). IEEE S&P, 2020.
-- B. Ford, P. Jovanovic, and E. Syta. [Que Sera Consensus: Simple Asynchronous Agreement with Private Coins and Threshold Logical Clocks](https://arxiv.org/abs/2003.02291).
 - E. Stefanov, M van Dijk, E. Shi, C. Fletcher, L. Ren, X. Yu, and S. Devadas. [A Retrospective on Path RAM](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8747366). IEEE S&P, 2020.
 - V. Mavroudis, K. Wust, A. Dhar, K. Kostiainen, and S. Capkun. [Snappy: Fast On-chain Payments with Practical Collaterals](https://arxiv.org/abs/2001.01278). NDSS, 2020.
 - I. Sheff, X. Wang, R. van Renesse, and A. Myers. [Heterogeneous Paxos](https://www.cs.cornell.edu/andru/papers/hetcons/opodis20.pdf). OPODIS, 2020. 
 - T-H. H. Chan, R. Pass, and E. Shi. [Sublinear-Round Byzantine Agreement under Corrupt Majority](http://elaineshi.com/docs/ba-cormaj.pdf). IACR PKC, 2020.
-- B. Ford. [Technologizing Democracy or Democratizing Technology? A Layered-Architecture Perspective on Potentials and Challenges](https://bford.info/pub/soc/dt2-chapter-abs/). Final version to appear in the book; [Digital Technology and Democratic Theory](https://press.uchicago.edu/ucp/books/book/chicago/D/bo68657177.html). 
 - A. Miller, Y. Zhang, and S. Kanjalkar. [Baby SNARK (do do dodo dodo)](https://github.com/initc3/babySNARK/blob/master/babysnark.pdf).
 - R. Paccagnella, P. Datta, W. Ul Hassan, A. Bates, C. Fletcher, A. Miller, and D. Tian. [CUSTOS: practical Tamper-Evident Auditing of Operating Systems Using Trusted Execution](https://rp8.web.engr.illinois.edu/papers/custos-ndss2020.pdf). NDSS, 2020.
 - G. Avarikioti, E. Kokoris Kogias, R. Wattenhofer, and D. Zindros. [Brick: Asynchronous Payment Channels](https://arxiv.org/abs/1905.11360).
@@ -97,6 +96,7 @@
 - A. Juels, L. Breidenbach, A. Coventry, S. Nazarov, S. Ellis, and B. Magauran. [Mixicles: Simple Private Decentralized Finance](https://assets.website-files.com/5f44d690acb168953e6181f6/5fa2f1616ac1b092226b3a86_mixicles.pdf). JBCN, 2019
 - M. Schneider, S. Matetic, A. Juels, A. Miller, and S. Capkun. [Secure Brokered Delegation Through DelegaTEE](https://ethz.ch/content/dam/ethz/special-interest/infk/inst-infsec/system-security-group-dam/research/publications/pub2019/delegatee_magazine.pdf). IEEE S&P, 2019.
 - P. McCorry, S. Bakshi, I. Bentov, S. Meiklejohn and A. Miller. [Pisa: Arbitration Outsourcing for State Channels](https://www.cs.cornell.edu/~iddo/pisa.pdf). ACM AFT, 2019.
+- E.C. Alp, L. Kokoris-Kogias, G. Fragkouli, and B. Ford. [Rethinking General-Purpose Decentralized Computing](https://dl.acm.org/doi/pdf/10.1145/3317550.3321448). ACM HotOS, 2019. 
 - S. Matetic, K. Wust, M. Schneider, K. Kostiainen, G. Karame, and S. Capkun. [BITE: Bitcoin Lightweight Client Privacy using Trusted Execution](https://eprint.iacr.org/2018/803). USENIX, 2019.
 - K. Wust, K. Kostiainen, V. Capkun, and S. Capkun. [PRCash: Fast, Private and Regulated Transactions for Digital Currencies](https://eprint.iacr.org/2018/412). FC, 2019.
 - Y. Kwon, J. Liu, M. Kim, D. Song, Y. Kim. [Impossibility of Full Decentralization in Permissionless Blockchains](https://arxiv.org/pdf/1905.05158.pdf). ACM AFT, 2019.
