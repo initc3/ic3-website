@@ -39,7 +39,8 @@
 ## 2020 ##
 
 - E. C. Crities, M. Maller, S. Meiklejohn, and R. Mercer. [Reputable List Curation from Decentralized Voting](https://eprint.iacr.org/2020/709.pdf). PETS, 2020.
-- A. Morgan, R. Pass, and A. Polychroniadou. [SPARKs: Succinct Parallelizable Arguments of Knowledge](https://eprint.iacr.org/2019/1341.pdf). EUROCRYPT, 2020.
+- A. Morgan, R. Pass, and A. Polychroniadou. [Succinct Non-Interactive Secure Computation](https://eprint.iacr.org/2019/1341.pdf). EUROCRYPT, 2020.
+- N. Ephraim, C. Freitag, I. Komargodski, and R. Pass. [SPARKs: Succinct Parallelizable Arguments of Knowledge](https://eprint.iacr.org/2020/994). EUROCRYPT, 2020.
 - E. Cecchetti, S. Yao, H. Ni, and A. C. Myers. [Securing Smart Contracts with Information Flow](https://www.cs.cornell.edu/~ethan/papers/ifc-contracts-fab20.pdf). FAB, 2020. 
 - G. Asharov, T-H. H. Chan, K. Nayak, R. Pass, L. Ren, and E. Shi. [Bucket oblivious sort: An extremely simple oblivious sort](https://epubs.siam.org/doi/abs/10.1137/1.9781611976014.2). SIAM, 2020.
 - F. Rezaei, S. Naseri, I. Eyal, and A. Houmansadr. [The Bitcoin Hunter: Detecting Bitcoin Traffic over Encrypted Channels](https://link.springer.com/chapter/10.1007/978-3-030-63086-7_10). ICCS S&P, 2020.
@@ -141,6 +142,7 @@
 - S.K. Kim, Z. Ma, S. Murali, J. Mason, A. Miller, and M. Bailey. [Measuring Ethereum Network Peers](https://dl.acm.org/doi/pdf/10.1145/3278532.3278542). ACM IMC, 2018. 
 - K. Karlsson, D. Adams, G. Rubambiza, Z. Xian, R. van Renesse, H. Weatherspoon, and S. Wicker. [Untethered: Deployable Blockchains for IoT Environments](https://dl.acm.org/doi/pdf/10.1145/3267809.3275450?msclkid=209b68d2cfe011ec8b47e004c8572761). ACM CC, 2018.
 - G. Karame, and S. Capkun. [Blockchain Security and Privacy](https://ethz.ch/content/dam/ethz/special-interest/infk/inst-infsec/system-security-group-dam/research/publications/pub2018/ieee-aug18.pdf). IEEE S&P, 2018.
+- B. Fisch, R. Pass, and A. Shelat. [Socially Optimal Mining Pools](https://arxiv.org/pdf/1703.03846.pdf). EC, 2018.
 - K. Wust, and A. Gervais. [Do you need a Blockchain?](https://ethz.ch/content/dam/ethz/special-interest/infk/inst-infsec/system-security-group-dam/research/publications/pub2018/doyouneedablockchain.pdf). CVCBT, 2018.
 - H. Ritzdorf, K. Wust, A. Gervais, G. Felley, and S. Capkun. [TLS-N: Non-repudiation over TLS Enabling Ubiquitous Content Signing](https://ethz.ch/content/dam/ethz/special-interest/infk/inst-infsec/system-security-group-dam/research/publications/pub2018/ndss2018ritzdorf.pdf). NDSS, 2018. 
 - S. Meiklejohn and R. Mercer. [Mobius: Trustless Tumbling for Transaction Privacy](https://smeiklej.com/files/pets18.pdf). PETS, 2018.
