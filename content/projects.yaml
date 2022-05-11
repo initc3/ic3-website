@@ -113,7 +113,7 @@ projects:
   -
      name: 'VyperFlow'
      challenges: [*correctness]
-     description: VyperFlow is a new programming language for blockchain-based smart contracts based on Vyper. It incorporates information flow control into its type system to maintain the integrity of date within a contract and avoid performing dangerous operations as a result of untrustworthy inputs. These techniques allow for static analysis that provably eliminates large classes of vulnerabilites, including the bugs that allowed attackers to extract and freeze tens of millions of dollars in two Parity Wallets incidents, as well as some reentrancy bugs like those that doomed the DAO.
+     description: VyperFlow is a new programming language for blockchain-based smart contracts based on Vyper. It incorporates information flow control into its type system to maintain the integrity of date within a contract and avoid performing dangerous operations as a result of untrustworthy inputs. These techniques allow for static analysis that provably eliminates large classes of vulnerabilites, including the bugs that allowed attackers to extract and freeze tens of millions of dollars in two Parity Wallets incidents, as well as some reentrancy bugs like those that doomed the DAO. For further information, please see our <a href="https://arxiv.org/abs/2103.08577?msclkid=4863e1a3d13911ec8531b3702ef77fe6">paper</a>.
 
   -
      name: 'AIRS: Automated Incentives for Reforestation Stewardship'
