@@ -2,6 +2,7 @@
 
 ## 2022 ##
 
+- A. de la Rocha, E. Kokoris-Kogias, J. Soares, and M. Vukolic. [Hierarchical consensus: A horizontal scaling framework for blockchains](https://research.protocol.ai/publications/hierarchical-consensus-a-horizontal-scaling-framework-for-blockchains/). DINPS, 2022.
 - G. Danezis, E. Kokoris-Kogias, A. Sonino, and A. Spiegelman. [Narwhal and Tusk: A DAG-based Mempool and Efficient BFT Consensus](https://arxiv.org/abs/2105.11827). EURO SYS, 2022 (Best Paper Award).
 - A. Lotem, S. Azouvi, P. McCorry, and A. Zohar. [Sliding Window Challenge Process for Congestion Detection](https://arxiv.org/pdf/2201.09009.pdf). FC, 2022.
 - A. Nitulescu, N. Gailly, and M. Maller. [SnarkPack: Practical SNARK Aggregation](https://eprint.iacr.org/2021/529.pdf). FC, 2022.
