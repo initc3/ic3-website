@@ -2,7 +2,13 @@
 
 ## 2022 ##
 
-- S. Das, T. Yurek, Z. Xiang, A. Miller, L. Kokoris-Kogias, and L. Ren. [Practical Asynchronous Distributed Key Generation](https://eprint.iacr.org/2021/1591.pdf). IEEE S&P, 2022.
+- G. Danezis, E. Kokoris-Kogias, A. Sonino, and A. Spiegelman. [Narwhal and Tusk: A DAG-based Mempool and Efficient BFT Consensus](https://arxiv.org/abs/2105.11827). EURO SYS, 2022 (Best Paper Award).
+- A. Lotem, S. Azouvi, P. McCorry, and A. Zohar. [Sliding Window Challenge Process for Congestion Detection](https://arxiv.org/pdf/2201.09009.pdf). FC, 2022.
+- A. Nitulescu, N. Gailly, and M. Maller. [SnarkPack: Practical SNARK Aggregation](https://eprint.iacr.org/2021/529.pdf). FC, 2022.
+- S. Cohen, R. Gelashvili, E. Kokoris-Kogias, Z. Li, D. Malkhi, A. Sonino, and A. Spiegelman. [Be Aware of Your Leaders](https://fc22.ifca.ai/preproceedings/32.pdf). FC, 2022.
+- R. Gelashvili, E. Kokoris-Kogias, A. Sonino, A. Spiegelman, and Z. Xiang. [Jolteon and Ditto: Network-Adaptive Efficient Consensus with Asynchronous Fallback](https://arxiv.org/abs/2106.10362). FC, 2022.
+- S. Azouvi, and A. Hicks. [Decentralization Conscious Players and System Reliability](https://arxiv.org/abs/2204.11980). FC, 2022. 
+- S. Das, T. Yurek, Z. Xiang, A. Miller, E. Kokoris-Kogias, and L. Ren. [Practical Asynchronous Distributed Key Generation](https://eprint.iacr.org/2021/1591.pdf). IEEE S&P, 2022.
 - T. Yurek, L. Luo, J. Fairoze, A. Kate, and A. Miller. [hbACSS: How to Robustly Share Many Secrets](https://eprint.iacr.org/2021/159.pdf). NDSS, 2022. (to appear)
 - I. Khaburzaniya, K. Chalkias, K. Lewi, and H. Malvai. [Aggregating and thresholdizing hash-based signatures using STARKs](https://eprint.iacr.org/2021/1048.pdf). ACM CCS, 2022.
 - G. Asharov, I. Komargodski, W-K. Lin, E. Peserico, and E. Shi. [Optimal Oblivious Parallel RAM](https://eprint.iacr.org/2020/1292.pdf). SODA, 2022.
