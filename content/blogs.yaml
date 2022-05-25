@@ -167,6 +167,12 @@
  authors: Sarah Allen, Ari Juels, Mukti Khaire, Tyler Kell and Siddhant Shrivastava
  summary: Fine artists exercising unprecedented control of their own markets, high tech art, cartoon images of rocks selling for millions of dollars, scams, cult-like followings - the NFT market has it all! In this post, we will briefly survey the traditional art market abd the NFT fine art market. The convergence of these things - NFT technology and the traditional art market - leads us to make predictions for the future of the market and technology. 
  
+-
+ date: 2022-05-25
+ url: https://medium.com/initc3org/strategic-latency-reduction-in-blockchain-peer-to-peer-networks-6599bf38fd53
+ title: "Strategic Latency Reduction in Blockchain Peer-to-Peer Networks"
+ authors: Weizhao Tang, Lucianna Kiffer, Giulia Fanti and Ari Juels
+ summary: In traditional financial systems, time equals money and network latency - i.e., the time for messages to travel in a network - has an outsized impact. Recently, network latency has become critical in blockchain peer-to-peer (P2P) networks as well. Among other impacts, low-latency connections in P2P networks can advantage arbitrageurs by giving them the ability to exploit the trades of other users for financial gain. In this blog post, we summarize a recent paper of ours that explores P2P network latency. We present Peri, a practical strategy that selects peers with low latencies from a local view of the P2P network. we demonstrate how startegic agents, i.e., self-interested P2P network actors, can use Peri to manipulate network latency to their advantage.
  
  
  
