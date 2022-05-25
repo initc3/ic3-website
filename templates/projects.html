@@ -27,6 +27,9 @@ IC3 has many projects underway to address what we identify as seven “Grand Cha
   <div class="item">
   <div class="content">
       <div class="header">{{ project.name }}</div>
+      {% if project.authors %}
+      <div class="meta">{{ project.authors }}</div>
+      {% endif %}
       <div class="meta">
         Support Grand Challenges:
         {% for c in project.challenges %}
