@@ -351,14 +351,6 @@ students:
     bio: "Sandra is a third year graduate student at EPFL. She is interested in network security, web security, and privacy.\n"
   
   -
-    name: 'Itay Tsabary'
-    pic: itay.jpg
-    title:
-    email:
-    weburl:
-    bio: "Itay Tsabary is a graduate student at the Technion. He is interested in distributed systems, cryptocurrencies and game theory.\n"
-  
-  -
     name: 'Nikhil Vanjani'
     pic: Nikhil Vanjani.png
     title:
@@ -773,6 +765,14 @@ alumni_postdocs:
 alumni_students:
 
   -
+    name: 'Itay Tsabary'
+    pic: itay.jpg
+    title:
+    email:
+    weburl:
+    bio: "Itay Tsabary completed his PhD at the Technion and was advised by Prof. Ittay Eyal. Currently, he works in research at StarkWare. He is interested in distributed systems, cryptocurrencies and game theory.\n"
+  
+  -
     name: 'Shehar Bano'
     pic: sbano.jpg
     title:
@@ -882,7 +882,7 @@ alumni_students:
     title:
     email:
     weburl:
-    bio: "Yael Doweck is a graduate student at the Technion. She is interested in distributed systems, cryptocurrencies and cryptocurrency exchanges.\n"
+    bio: "Yael Doweck graduated from the Technion and was advised by Prof. Ittay Eyal. Currently, she works at StarkWare. She is interested in distributed systems, cryptocurrencies and cryptocurrency exchanges.\n"
 
   -
     name: 'Kevin Sekniqi'
