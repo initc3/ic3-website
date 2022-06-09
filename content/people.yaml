@@ -199,6 +199,14 @@ postdocs:
 students:
 
   - 
+    name: 'Mahimna Kelkar'
+    pic: mahimna.jpg
+    title:
+    email: mahimna@cs.cornell.edu
+    weburl: 'https://www.cs.cornell.edu/~mahimna/'
+    bio: "Mahimna is a Ph.D. student in Computer Science at Cornell University where he is advised by Ari Juels. He is broadly interested in cryptography and security with some emphasis on blockchain protocols and applications." 
+    
+  - 
     name: 'Haobin Ni'
     pic: Haobin.jpeg
     title:
