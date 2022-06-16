@@ -301,14 +301,6 @@ students:
     email: crf87@cornell.edu
     weburl: http://www.cs.cornell.edu/~cfreitag/
     bio: "Cody Freitag is a graduate student at Cornell University. His research interests include theoretical cryptography and privacy and their applications to blockchain technologies and learning theory.\n"
-
-  -
-    name: 'Yue Guo'
-    pic: yguo.jpg
-    title:
-    email:
-    weburl:
-    bio: "Yue Guo is a first year PhD student at Cornell University Computer Science Department. She is interested in cryptography and system security.\n"
   
   -
     name: 'Yan Ji'
@@ -476,7 +468,7 @@ students:
     title:
     email: g.kappos@ucl.ac.uk
     weburl: "https://georgekap.github.io/"
-    bio: "George is a Computer Science Ph.D student at University College London working with Sarah Meiklejohn. He is researching Privacy in cryptocurrencies."
+    bio: "George is a Computer Science Ph.D. student at University College London working with Sarah Meiklejohn. He is researching privacy in cryptocurrencies."
 
   -
     name: 'Bolton Bailey'
@@ -756,6 +748,14 @@ alumni_postdocs:
 
 alumni_students:
 
+  -
+    name: 'Yue Guo'
+    pic: yguo.jpg
+    title:
+    email:
+    weburl:
+    bio: "Yue Guo completed her PhD program at Cornell University, Computer Science Department under the supervision of prof. Elaine Shi. Currently, she works at JP Morgan Research. She is interested in cryptography and system security.\n"
+    
   -
     name: 'Burcu Canakci'
     pic: raptor2.jpg
