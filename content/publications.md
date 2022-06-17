@@ -2,6 +2,7 @@
 
 ## 2022 ##
 
+- G. Kappos, H. Yousaf, R. Stutz, S. Rollet, B. Haslhofer, and S. Meiklejohn. [How to Peel a Million: Validating and Expanding Bitcoin Clusters](https://arxiv.org/abs/2205.13882). USENIX, 2022.
 - A. de la Rocha, E. Kokoris-Kogias, J. Soares, and M. Vukolic. [Hierarchical consensus: A horizontal scaling framework for blockchains](https://research.protocol.ai/publications/hierarchical-consensus-a-horizontal-scaling-framework-for-blockchains/). DINPS, 2022.
 - G. Danezis, E. Kokoris-Kogias, A. Sonino, and A. Spiegelman. [Narwhal and Tusk: A DAG-based Mempool and Efficient BFT Consensus](https://arxiv.org/abs/2105.11827). EURO SYS, 2022 (Best Paper Award).
 - K. Chalkias, P. Chatzigiannis, and Y. Ji. [Broken Proofs of Solvency in Blockchain Custodial Wallets and Exchanges](https://eprint.iacr.org/2022/043). CoDecFin - FC, 2022.
