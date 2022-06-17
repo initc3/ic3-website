@@ -2,6 +2,7 @@
 
 ## 2022 ##
 
+- H. Zhang, L-H. Merino, V. Estrada-Galinanes, and B. Ford. [Flash freezing Flash Boys: Countering Blockchain Front-Running](https://bford.info/pub/sec/f3b/f3b-dinps22.pdf). DINPS, 2022.
 - G. Kappos, H. Yousaf, R. Stutz, S. Rollet, B. Haslhofer, and S. Meiklejohn. [How to Peel a Million: Validating and Expanding Bitcoin Clusters](https://smeiklej.com/files/usenix22.pdf). USENIX, 2022.
 - A. de la Rocha, E. Kokoris-Kogias, J. Soares, and M. Vukolic. [Hierarchical consensus: A horizontal scaling framework for blockchains](https://research.protocol.ai/publications/hierarchical-consensus-a-horizontal-scaling-framework-for-blockchains/). DINPS, 2022.
 - G. Danezis, E. Kokoris-Kogias, A. Sonino, and A. Spiegelman. [Narwhal and Tusk: A DAG-based Mempool and Efficient BFT Consensus](https://arxiv.org/abs/2105.11827). EURO SYS, 2022 (Best Paper Award).
@@ -87,7 +88,7 @@
 - I. Sheff, X. Wang, R. van Renesse, and A. Myers. [Heterogeneous Paxos](https://www.cs.cornell.edu/andru/papers/hetcons/opodis20.pdf). OPODIS, 2020. 
 - T-H. H. Chan, R. Pass, and E. Shi. [Sublinear-Round Byzantine Agreement under Corrupt Majority](http://elaineshi.com/docs/ba-cormaj.pdf). IACR PKC, 2020.
 - A. Miller, Y. Zhang, and S. Kanjalkar. [Baby SNARK (do do dodo dodo)](https://github.com/initc3/babySNARK/blob/master/babysnark.pdf).
-- R. Paccagnella, P. Datta, W. Ul Hassan, A. Bates, C. Fletcher, A. Miller, and D. Tian. [CUSTOS: practical Tamper-Evident Auditing of Operating Systems Using Trusted Execution](https://rp8.web.engr.illinois.edu/papers/custos-ndss2020.pdf). NDSS, 2020.
+- R. Paccagnella, P. Datta, W. Ul Hassan, A. Bates, C. Fletcher, A. Miller, and D. Tian. [CUSTOS: Practical Tamper-Evident Auditing of Operating Systems Using Trusted Execution](https://rp8.web.engr.illinois.edu/papers/custos-ndss2020.pdf). NDSS, 2020.
 - G. Avarikioti, E. Kokoris Kogias, R. Wattenhofer, and D. Zindros. [Brick: Asynchronous Payment Channels](https://arxiv.org/abs/1905.11360).
 - J. Wan, H. Xiao, E. Shi, and S. Devadas. [Expected Constant Round Byzantine Broadcast under Dishonest Majority](https://eprint.iacr.org/2020/590.pdf). TCC, 2020.
 - J. Wan, H. Xiao, S. Devadas, and E. Shi. [Round-Efficient Byzantine Broadcast under Strongly Adaptive and Majority Corruptions](https://eprint.iacr.org/2020/1236). TCC, 2020.
