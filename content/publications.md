@@ -1,7 +1,12 @@
 # Published Papers
 
+## 2023 ##
+
+- K. Babel, P. Daian, M. Kelkar, and A. Juels. [Clockwork Finance: Automated Analysis of Economic Security in Smart Contracts](https://eprint.iacr.org/2021/1147). IEEE S&P, 2023.
+
 ## 2022 ##
 
+- M. Vuppalapati, K. Babel, A. Khandelwal, and R. Agarwal. [SHORTSTACK: Distributed, Fault-tolerant, Oblivious Data Access](https://eprint.iacr.org/2022/662). USENIX OSDI, 2022. 
 - H. Zhang, L-H. Merino, V. Estrada-Galinanes, and B. Ford. [Flash freezing Flash Boys: Countering Blockchain Front-Running](https://bford.info/pub/sec/f3b/f3b-dinps22.pdf). DINPS, 2022.
 - G. Kappos, H. Yousaf, R. Stutz, S. Rollet, B. Haslhofer, and S. Meiklejohn. [How to Peel a Million: Validating and Expanding Bitcoin Clusters](https://smeiklej.com/files/usenix22.pdf). USENIX, 2022.
 - A. de la Rocha, E. Kokoris-Kogias, J. Soares, and M. Vukolic. [Hierarchical consensus: A horizontal scaling framework for blockchains](https://research.protocol.ai/publications/hierarchical-consensus-a-horizontal-scaling-framework-for-blockchains/). DINPS, 2022.
