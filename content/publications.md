@@ -1,9 +1,5 @@
 # Published Papers
 
-## 2023 ##
-
-- K. Babel, P. Daian, M. Kelkar, and A. Juels. [Clockwork Finance: Automated Analysis of Economic Security in Smart Contracts](https://eprint.iacr.org/2021/1147). IEEE S&P, 2023.
-
 ## 2022 ##
 
 - M. Vuppalapati, K. Babel, A. Khandelwal, and R. Agarwal. [SHORTSTACK: Distributed, Fault-tolerant, Oblivious Data Access](https://eprint.iacr.org/2022/662). USENIX OSDI, 2022. 
