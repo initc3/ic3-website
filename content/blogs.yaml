@@ -174,5 +174,10 @@
  authors: Weizhao Tang, Lucianna Kiffer, Giulia Fanti and Ari Juels
  summary: In traditional financial systems, time equals money and network latency - i.e., the time for messages to travel in a network - has an outsized impact. Recently, network latency has become critical in blockchain peer-to-peer (P2P) networks as well. Among other impacts, low-latency connections in P2P networks can advantage arbitrageurs by giving them the ability to exploit the trades of other users for financial gain. In this blog post, we summarize a recent paper of ours that explores P2P network latency. We present Peri, a practical strategy that selects peers with low latencies from a local view of the P2P network. we demonstrate how startegic agents, i.e., self-interested P2P network actors, can use Peri to manipulate network latency to their advantage.
  
- 
+- 
+ date: 2022-06-21
+ url: https://decentralizedthoughts.github.io/2022-06-21-sandglass/
+ title: "Safe Permissionless Consensus"
+ authors: Youer Pu, Lorenzo Alvisi and Ittay Eyal
+ summary: The Nakamoto consensus protocol works in a permissionless model, where nodes can join and leave without notice. However, it guarantees agreement only probabilistically. Is this weaker guarantee a necessary concession to the severe demands of supporting a permissionless model? We show that, at least in a benign failure model, it is not. We present Sandglass, the first permissionless consensus algorithm that guarantees deterministic agreement and termination with probability 1 under general omission failures. Like Nakamoto, Sandglass adopts a hybrid synchronous communication model, where, at all times, a majority of nodes (though their number is unknown) are correct and synchronously connected, and allows nodes to join and leave at any time.     
  
