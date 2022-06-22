@@ -28,8 +28,10 @@
 
 - Y. Liu and R. Pass. [On the Possibility of Basing Cryptography on EXP not equal BPP](https://eprint.iacr.org/2021/535.pdf). Crypto, 2021 (Best Paper Award).
 - C. Acay, R. Recto, J. Gancher, A. C. Myers, and E. Shi. [Viaduct: An Extensible, Optimizing Compiler for Secure Distributed Programs](https://eprint.iacr.org/2021/468.pdf). ACM PLDI, 2021. 
+- A. Agarwal, J. Bartusek, V. Goyal, D. Khurana, and G. Malavolta. [Two-Round Maliciously Secure Computation with Super-Polynomial Simulation](https://eprint.iacr.org/2021/1230). TCC, 2021.
 - I. Tsabary, M. Yechieli, and I. Eyal. [MAD-HTLC: Because HTLC is Crazy-Cheap to Attack](http://arxiv.org/abs/2006.12031). IEEE S&P, 2021.
 - K. Gurkan, P. Jovanovic, M. Maller, S. Meiklejohn, G. Stern, and A. Tomescu. [Aggregatable Distributed Key Generation](https://smeiklej.com/files/eurocrypt21.pdf). Eurocrypt, 2021. 
+- A. Agarwal, J. Bartusek, V. Goyal, D. Khurana, and G. Malavolta. [Post-QuantumMulti-Party Computation in Constant Rounds](https://arxiv.org/pdf/2005.12904.pdf). Eurocrypt, 2021.
 - G. Asharov, I. Komargodski, W-K. Lin, and E. Shi. [Oblivious RAM with Worst-Case Logarithmic Overhead](https://eprint.iacr.org/2021/1123). CRYPTO, 2021.
 - C. Hou, M. Zhou, Y. Ji, P. Daian, F. Tramer, G. Fanti, and A. Juels. [SquirRL: Automating Attack Discovery on Blockchain Incentive Mechanisms with Deep Reinforcement Learning](https://arxiv.org/pdf/1912.01798.pdf). NDSS, 2021.
 - E. Cecchetti, S. Yao, H. Ni, and A. C. Myers. [Compositional Security for Reentrant Applications](https://www.cs.cornell.edu/~ethan/papers/serif.pdf). IEEE S&P, 2021 (Best Paper Award).
