@@ -5,9 +5,10 @@
 - I. Abraham, M. Ben-David, and S. Yandamuri. [Efficient and Adaptively Secure Asynchornous Binary Agreement via Binding Crusader Agreement](https://eprint.iacr.org/2022/711.pdf). PODC, 2022.
 - I. Abraham and G. Asharov. [Gradecast in Synchrony and Reliable Broadcast in Asynchrony with Optimal Resilience, Efficiency, and Unconditional Security](https://eprint.iacr.org/2022/264). PODC, 2022.
 - M. Vuppalapati, K. Babel, A. Khandelwal, and R. Agarwal. [SHORTSTACK: Distributed, Fault-tolerant, Oblivious Data Access](https://eprint.iacr.org/2022/662). USENIX OSDI, 2022. 
-- H. Zhang, L-H. Merino, V. Estrada-Galinanes, and B. Ford. [Flash freezing Flash Boys: Countering Blockchain Front-Running](https://bford.info/pub/sec/f3b/f3b-dinps22.pdf). DINPS, 2022.
 - G. Kappos, H. Yousaf, R. Stutz, S. Rollet, B. Haslhofer, and S. Meiklejohn. [How to Peel a Million: Validating and Expanding Bitcoin Clusters](https://smeiklej.com/files/usenix22.pdf). USENIX, 2022.
 - A. de la Rocha, E. Kokoris-Kogias, J. Soares, and M. Vukolic. [Hierarchical consensus: A horizontal scaling framework for blockchains](https://research.protocol.ai/publications/hierarchical-consensus-a-horizontal-scaling-framework-for-blockchains/). DINPS, 2022.
+- - H. Zhang, L-H. Merino, V. Estrada-Galinanes, and B. Ford. [Flash freezing Flash Boys: Countering Blockchain Front-Running](https://bford.info/pub/sec/f3b/f3b-dinps22.pdf). DINPS, 2022.
+- M. Kelkar, S. Deb, and S. Kannan. [Order-Fair Consensus in the Permissionless Setting](https://dl.acm.org/doi/abs/10.1145/3494105.3526239). APKC, 2022.
 - G. Danezis, E. Kokoris-Kogias, A. Sonino, and A. Spiegelman. [Narwhal and Tusk: A DAG-based Mempool and Efficient BFT Consensus](https://arxiv.org/abs/2105.11827). EURO SYS, 2022 (Best Paper Award).
 - K. Chalkias, P. Chatzigiannis, and Y. Ji. [Broken Proofs of Solvency in Blockchain Custodial Wallets and Exchanges](https://eprint.iacr.org/2022/043). CoDecFin - FC, 2022.
 - A. Lotem, S. Azouvi, P. McCorry, and A. Zohar. [Sliding Window Challenge Process for Congestion Detection](https://arxiv.org/pdf/2201.09009.pdf). FC, 2022.
@@ -33,6 +34,7 @@
 - K. Gurkan, P. Jovanovic, M. Maller, S. Meiklejohn, G. Stern, and A. Tomescu. [Aggregatable Distributed Key Generation](https://smeiklej.com/files/eurocrypt21.pdf). Eurocrypt, 2021. 
 - A. Agarwal, J. Bartusek, V. Goyal, D. Khurana, and G. Malavolta. [Post-Quantum Multi-Party Computation in Constant Rounds](https://arxiv.org/pdf/2005.12904.pdf). Eurocrypt, 2021.
 - G. Asharov, I. Komargodski, W-K. Lin, and E. Shi. [Oblivious RAM with Worst-Case Logarithmic Overhead](https://eprint.iacr.org/2021/1123). CRYPTO, 2021.
+- I. Dinur, S. Goldfeder, T. Halevi, Y. Ishai, M. Kelkar, V. Sharma, and G. Zaverucha. [MPC-Friendly Symmetric Cryptography from Alternating Moduli: Candidates, Protocols, and Applications](https://eprint.iacr.org/2021/885). CRYPTO, 2021.
 - C. Hou, M. Zhou, Y. Ji, P. Daian, F. Tramer, G. Fanti, and A. Juels. [SquirRL: Automating Attack Discovery on Blockchain Incentive Mechanisms with Deep Reinforcement Learning](https://arxiv.org/pdf/1912.01798.pdf). NDSS, 2021.
 - E. Cecchetti, S. Yao, H. Ni, and A. C. Myers. [Compositional Security for Reentrant Applications](https://www.cs.cornell.edu/~ethan/papers/serif.pdf). IEEE S&P, 2021 (Best Paper Award).
 - E. Shi. [Streamlet: An Absurdly Simple, Textbook Blockchain Protocol](https://eprint.iacr.org/2020/088.pdf). ASIA CCS, 2021.
