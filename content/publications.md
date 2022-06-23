@@ -74,6 +74,7 @@
 - M. Kelkar, F. Zhang, S. Goldfeder, and A. Juels. [Order-Fairness for Byzantine Consensus](https://eprint.iacr.org/2020/269). CRYPTO, 2020.
 - S. Allen, S. Capkun, I. Eyal, G. Fanti, B. Ford, J. Grimmelmann, A. Juels, K. Kostiainen, S. Meiklejohn, A. Miller, E. Prasad, K. Wust, and F. Zhang. [Design choices for central bank digital currency: Policy and technical considerations](http://brookings.edu/research/design-choices-for-central-bank-digital-currency-policy-and-technical-considerations/). Brookings Institute Working Paper, 2020.
 - Y. Liu and R. Pass. [On One-way Functions and Kolmogorov Complexity](https://eprint.iacr.org/2020/423.pdf). IEEE FOCS, 2020. 
+- P-C. Kuo, H. Chung, T-W. Chao, and C-M. Cheng. [Fair Byzantine Agreements for Blockchains](https://ieeexplore.ieee.org/document/9062491?source=authoralert). IEEE TEM, 2020 
 - K. Wust, S. Matetic, S. Egli, K. Kostiainen, and S. Capkun. [ACE: Asynchronous and Concurrent Execution of Complex Smart Contracts](https://eprint.iacr.org/2019/835.pdf). ACM CCS, 2020. 
 - A. Manuskin, M. Mirkin, and I. Eyal. [Ostraka: Secure Blockchain Scaling by Node Sharding](https://arxiv.org/abs/1907.03331). IEEE S&B, 2020.
 - F. Zhang, S. K. D. Maram, H. Malvai, S. Goldfeder, and A. Juels. [DECO: Liberating Web Data Using Decentralized Oracles for TLS](https://arxiv.org/abs/1909.00938). ACM CCS, 2020.
