@@ -112,6 +112,7 @@
 - G. Fanti, J. Jiao, A. Makkuva, S. Oh, R. Rana, and P. Viswanath. [Barracuda: The Power of l-Polling in Proof-of-Stake Blockchains](https://swoh.web.engr.illinois.edu/polling.pdf). ACM MobiHoc, 2019 (Best Paper Award). 
 - A. Juels, L. Breidenbach, A. Coventry, S. Nazarov, S. Ellis, and B. Magauran. [Mixicles: Simple Private Decentralized Finance](https://assets.website-files.com/5f44d690acb168953e6181f6/5fa2f1616ac1b092226b3a86_mixicles.pdf). JBCN, 2019
 - M. Schneider, S. Matetic, A. Juels, A. Miller, and S. Capkun. [Secure Brokered Delegation Through DelegaTEE](https://ethz.ch/content/dam/ethz/special-interest/infk/inst-infsec/system-security-group-dam/research/publications/pub2019/delegatee_magazine.pdf). IEEE S&P, 2019.
+- H. Kang, T. Dai, N. Jean-Louis, S. Tao, and X. Gu. [FabZK: Supporting Privacy-Preserving, Auditable Smart Contracts in Hyperledger Fabric](https://ieeexplore.ieee.org/document/8809514). IEEE DSN, 2019.
 - P. McCorry, S. Bakshi, I. Bentov, S. Meiklejohn and A. Miller. [Pisa: Arbitration Outsourcing for State Channels](https://www.cs.cornell.edu/~iddo/pisa.pdf). ACM AFT, 2019.
 - E.C. Alp, L. Kokoris-Kogias, G. Fragkouli, and B. Ford. [Rethinking General-Purpose Decentralized Computing](https://dl.acm.org/doi/pdf/10.1145/3317550.3321448). ACM HotOS, 2019. 
 - S. Matetic, K. Wust, M. Schneider, K. Kostiainen, G. Karame, and S. Capkun. [BITE: Bitcoin Lightweight Client Privacy using Trusted Execution](https://eprint.iacr.org/2018/803). USENIX, 2019.
