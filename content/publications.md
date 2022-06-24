@@ -17,6 +17,7 @@
 - R. Gelashvili, E. Kokoris-Kogias, A. Sonino, A. Spiegelman, and Z. Xiang. [Jolteon and Ditto: Network-Adaptive Efficient Consensus with Asynchronous Fallback](https://arxiv.org/abs/2106.10362). FC, 2022.
 - S. Azouvi, and A. Hicks. [Decentralization Conscious Players and System Reliability](https://arxiv.org/abs/2204.11980). FC, 2022. 
 - S. Das, T. Yurek, Z. Xiang, A. Miller, E. Kokoris-Kogias, and L. Ren. [Practical Asynchronous Distributed Key Generation](https://eprint.iacr.org/2021/1591.pdf). IEEE S&P, 2022.
+- I. Khaburzaniya, K. Chalkias, K. Lewi, and H. Malvai. [Aggregating and thresholdizing hash-based signatures using STARKs](https://eprint.iacr.org/2021/1048). Asia CCS, 2022.
 - K. Wu, G. Asharov, E. Shi. [A Complete Characterization of Game-Theoretically Fair, Multi-Party Coin Toss](https://eprint.iacr.org/2021/748). Eurocrypt, 2022.
 - T. Yurek, L. Luo, J. Fairoze, A. Kate, and A. Miller. [hbACSS: How to Robustly Share Many Secrets](https://eprint.iacr.org/2021/159.pdf). NDSS, 2022. (to appear)
 - I. Khaburzaniya, K. Chalkias, K. Lewi, and H. Malvai. [Aggregating and thresholdizing hash-based signatures using STARKs](https://eprint.iacr.org/2021/1048.pdf). ACM CCS, 2022.
