@@ -48,6 +48,7 @@
 - S. Kanjalkar, Y. Zhang, S. Gandlur, and A. Miller. [Publicly Auditable MPC-as-a-Service with succinct verification and universal setup](https://arxiv.org/pdf/2107.04248.pdf). IEEE S&P, 2021.
 - A. Judmayer, N. Stifter, A. Zamyatin, I. Tsabary, I. Eyal, P. Gazi, S. Meiklejohn, and E. Weippl. [Pay to Win: Cheap, Cross-Chain Bribing Attacks on PoW Cryptocurrencies](http://eprints.cs.univie.ac.at/7102/1/wtsc21b.pdf). IC Financial Cryptography and Data Security, 2021.
 - G. Kappos, H. Yousaf, A. M. Piotrowska, S. Kanjalkar, S. Delgado-Segura, A. Miller, and S. Meiklejohn. [An Empirical Analysis of Privacy in the Lightning Network](https://smeiklej.com/files/fc21.pdf). FC, 2021.
+- B. Bailey and S. Sankagiri. [Merkle trees optimized for stateless clients in bitcoin](https://eprint.iacr.org/2021/340.pdf). FC, 2021.
 - Y. Shibuya, G. Yamamoto, F. Kojima, E. Shi, S. Matsuo, and A. Laszka. [Selfish Mining Attacks Exacerbated by Elastic Hash Supply](https://arxiv.org/pdf/2103.08007.pdf). FC, 2021. 
 - J. Liu, P. Li, R. Cheng, N. Asokan, and D. Song. [Parallel and asynchronous smart contract execution](https://ieeexplore.ieee.org/abstract/document/9477197). IEEE PDS, 2021. 
 - K. Wust, L. Diana, K. Kostiainen, G. Karame, S. Matetic, and S. Capkun. [Bitcontracts: Supporting Smart Contracts in Legacy Blockchains](https://eprint.iacr.org/2019/857.pdf). NDSS, 2021.
@@ -169,13 +170,14 @@
 - H. Ritzdorf, K. Wust, A. Gervais, G. Felley, and S. Capkun. [TLS-N: Non-repudiation over TLS Enabling Ubiquitous Content Signing](https://ethz.ch/content/dam/ethz/special-interest/infk/inst-infsec/system-security-group-dam/research/publications/pub2018/ndss2018ritzdorf.pdf). NDSS, 2018. 
 - S. Meiklejohn and R. Mercer. [Mobius: Trustless Tumbling for Transaction Privacy](https://smeiklej.com/files/pets18.pdf). PETS, 2018.
 - J. Groth, M. Kohlweiss, M. Maller, S. Meiklejohn, and I. Miers. [Updatable and Universal Common Reference Strings with Applications to zk-SNARKs](https://smeiklej.com/files/crypto18.pdf). CRYPTO, 2018.
+- X. Yan, X.C. Lin, L. Yang, B. Wong, T. Brecht, H. Zhang, and K. Salem. [Carousel: Low-Latency Transaction Processing for Globally-Distributed Data](https://www.cs.cornell.edu/~hongbo/files/carousel-sigmod-2018.pdf). SIGMOD, 2018.
 - E. Prasad. [Central Banking in a Digital Age: Stock-Taking and Preliminary Thoughts](http://prasad.dyson.cornell.edu/doc/CentralBankingDigitalAge_Brookings.April18.pdf). Hutchins Center on Fiscal & Monetary Policy at Brookings, 2018.
 - L. Breidenbach, P. Daian, F. Tramèr and A. Juels. [Enter the Hydra: Towards Principled Bug Bounties and Exploit-Resistant Smart Contracts](https://eprint.iacr.org/2017/1090). USENIX Security, 2018.
 - P. McCorry, A. Hicks and S. Meiklejohn. [Smart Contracts for Bribing Miners](https://fc18.ifca.ai/bitcoin/papers/bitcoin18-final14.pdf). Financial Cryptography and Data Security (FC), BITCOIN, 2018.
 - E. Stefanov, M. van Dijk, E. Shi, T.-H. H. Chan, C. Fletcher, L. Ren, X. Yu, and S. Devadas. [Path ORAM: An Extremely Simple Oblivious RAM Protocol](https://eprint.iacr.org/2013/280.pdf). ACM CCS, 2018.
 - R. Pass, and E. Shi. [Thunderella: Blockchains with Optimistic Instant Confirmation](https://eprint.iacr.org/2017/913.pdf). EUROCRYPT, 2018.
 - F. Zhang, P. Daian, I. Bentov and A. Juels. [Paralysis Proofs: Safe Access-Structure Updates for Cryptocurrencies and More](https://fc18.ifca.ai/bitcoin/papers/bitcoin18-final20.pdf). Advances in Financial Technologies (AFT), 2019. BITCOIN, 2018.
-- S. Azouvi, M. Maller and S. Meiklejohn. [Egalitarian Society or Benevolent Dictatorship: The State of Cryptocurrency Governance](https://fc18.ifca.ai/bitcoin/papers/bitcoin18-final13.pdf). Financial Cryptography and Data Security, BITCOIN, 2018.
+- S. Azouvi, M. Maller and S. Meiklejohn. [Egalitarian Society or Benevolent Dictatorship: The State of Cryptocurrency Governance](https://fc18.ifca.ai/bitcoin/papers/bitcoin18-final13.pdf). FC, 2018. BITCOIN, 2018.
 - E. Kokoris-Kogias, P. Jovanovic, L. Gasser, N. Gailly, E. Syta and B. Ford. [OmniLedger: A Secure, Scale-Out, Decentralized Ledger via Sharding](http://bford.info/pub/dec/omniledger.pdf). IEEE S&P, 2018.
 - A. Kosba, C. Papamanthou, and E. Shi. [xJsnark: A Framework for Efficient Verifiable Computation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8418647). IEEE S&P, 2018.
 - T.-H. H. Chan, K. Nayak, and E. Shi. [Perfectly Secure Oblivious Parallel RAM](https://link.springer.com/chapter/10.1007/978-3-030-03810-6_23). TCC, 2018.
