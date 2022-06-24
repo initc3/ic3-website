@@ -7,7 +7,7 @@
 - M. Vuppalapati, K. Babel, A. Khandelwal, and R. Agarwal. [SHORTSTACK: Distributed, Fault-tolerant, Oblivious Data Access](https://eprint.iacr.org/2022/662). USENIX OSDI, 2022. 
 - G. Kappos, H. Yousaf, R. Stutz, S. Rollet, B. Haslhofer, and S. Meiklejohn. [How to Peel a Million: Validating and Expanding Bitcoin Clusters](https://smeiklej.com/files/usenix22.pdf). USENIX, 2022.
 - A. de la Rocha, E. Kokoris-Kogias, J. Soares, and M. Vukolic. [Hierarchical consensus: A horizontal scaling framework for blockchains](https://research.protocol.ai/publications/hierarchical-consensus-a-horizontal-scaling-framework-for-blockchains/). DINPS, 2022.
-- - H. Zhang, L-H. Merino, V. Estrada-Galinanes, and B. Ford. [Flash freezing Flash Boys: Countering Blockchain Front-Running](https://bford.info/pub/sec/f3b/f3b-dinps22.pdf). DINPS, 2022.
+- H. Zhang, L-H. Merino, V. Estrada-Galinanes, and B. Ford. [Flash freezing Flash Boys: Countering Blockchain Front-Running](https://bford.info/pub/sec/f3b/f3b-dinps22.pdf). DINPS, 2022.
 - M. Kelkar, S. Deb, and S. Kannan. [Order-Fair Consensus in the Permissionless Setting](https://dl.acm.org/doi/abs/10.1145/3494105.3526239). APKC, 2022.
 - G. Danezis, E. Kokoris-Kogias, A. Sonino, and A. Spiegelman. [Narwhal and Tusk: A DAG-based Mempool and Efficient BFT Consensus](https://arxiv.org/abs/2105.11827). EURO SYS, 2022 (Best Paper Award).
 - K. Chalkias, P. Chatzigiannis, and Y. Ji. [Broken Proofs of Solvency in Blockchain Custodial Wallets and Exchanges](https://eprint.iacr.org/2022/043). CoDecFin - FC, 2022.
@@ -20,6 +20,7 @@
 - I. Khaburzaniya, K. Chalkias, K. Lewi, and H. Malvai. [Aggregating and thresholdizing hash-based signatures using STARKs](https://eprint.iacr.org/2021/1048). Asia CCS, 2022.
 - K. Wu, G. Asharov, E. Shi. [A Complete Characterization of Game-Theoretically Fair, Multi-Party Coin Toss](https://eprint.iacr.org/2021/748). Eurocrypt, 2022.
 - T. Yurek, L. Luo, J. Fairoze, A. Kate, and A. Miller. [hbACSS: How to Robustly Share Many Secrets](https://eprint.iacr.org/2021/159.pdf). NDSS, 2022. (to appear)
+- V. Nair and B. Bailey. [Fast Anonymous Consensus and Private Authentication in Large Distributed Systems](https://nair.me/consensus.pdf). NDSS, 2022.
 - I. Khaburzaniya, K. Chalkias, K. Lewi, and H. Malvai. [Aggregating and thresholdizing hash-based signatures using STARKs](https://eprint.iacr.org/2021/1048.pdf). ACM CCS, 2022.
 - G. Asharov, I. Komargodski, W-K. Lin, E. Peserico, and E. Shi. [Optimal Oblivious Parallel RAM](https://eprint.iacr.org/2020/1292.pdf). SODA, 2022.
 - I. Eyal. [On cryptocurrency wallet design](https://drops.dagstuhl.de/opus/volltexte/2022/15901/pdf/OASIcs-Tokenomics-2021-4.pdf). ICBE S&P, 2022.
