@@ -26,6 +26,7 @@
 - I. Eyal. [On cryptocurrency wallet design](https://drops.dagstuhl.de/opus/volltexte/2022/15901/pdf/OASIcs-Tokenomics-2021-4.pdf). ICBE S&P, 2022.
 - G. Asharov, T-H. H. Chan, K. Nayak, R. Pass, L. Ren, and E. Shi. [Locality-Preserving Oblivious RAM](https://eprint.iacr.org/2017/772). Journal of Cryptology, 2022.
 - J. Liu, P. Li, R. Cheng, N. Asokan, and D. Song. [Parallel and Asynchronous Smart Contract Execution](https://ieeexplore.ieee.org/document/9477197). IEEE S&P, 2022.
+- M. Rosenberg, M. Maller, and I. Miers. [SNARKBlock: Federated Anonymous Blocklisting from Hidden Common Input Aggregate Proofs](https://eprint.iacr.org/2021/1577.pdf). IEEE S&P, 2022.
 
 ## 2021 ##
 
@@ -94,6 +95,7 @@
 - E. Kokoris-Kogias, E.C. Alp, L. Gasser, P. Jovanovic, E. Syta, and B. Ford. [CALYPSO: Private Data Management for Decentralized Ledgers](https://eprint.iacr.org/2018/209).
 - G. Asharov, I. Komargodski, W-K. Lin, K. Nayak, E. Peserico, and E. Shi. [OptORAMa: Optimal Oblivious RAM](https://eprint.iacr.org/2018/892). EUROCRYPTO, 2020.
 - E. Shi [Path Oblivious Heap:Optimal and Practical Oblivious Priority Queue](https://eprint.iacr.org/2019/274). IEEE S&P, 2020.
+- S. Bowe, A. Chiesa, M. Green, I. Miers, P. Mishra, and H. Wu. [ZEXE: Enabling Decentralized Private Computation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9152634). IEEE S&P, 2020.
 - E. Stefanov, M van Dijk, E. Shi, C. Fletcher, L. Ren, X. Yu, and S. Devadas. [A Retrospective on Path RAM](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8747366). IEEE S&P, 2020.
 - V. Mavroudis, K. Wust, A. Dhar, K. Kostiainen, and S. Capkun. [Snappy: Fast On-chain Payments with Practical Collaterals](https://arxiv.org/abs/2001.01278). NDSS, 2020.
 - I. Sheff, X. Wang, R. van Renesse, and A. Myers. [Heterogeneous Paxos](https://www.cs.cornell.edu/andru/papers/hetcons/opodis20.pdf). OPODIS, 2020. 
