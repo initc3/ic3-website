@@ -123,6 +123,7 @@
 - S. Matetic, K. Wust, M. Schneider, K. Kostiainen, G. Karame, and S. Capkun. [BITE: Bitcoin Lightweight Client Privacy using Trusted Execution](https://eprint.iacr.org/2018/803). USENIX, 2019.
 - K. Wust, K. Kostiainen, V. Capkun, and S. Capkun. [PRCash: Fast, Private and Regulated Transactions for Digital Currencies](https://eprint.iacr.org/2018/412). FC, 2019.
 - Y. Kwon, J. Liu, M. Kim, D. Song, Y. Kim. [Impossibility of Full Decentralization in Permissionless Blockchains](https://arxiv.org/pdf/1905.05158.pdf). ACM AFT, 2019.
+- K. Mast, L. Chen, and E.G. Sirer. [A Vision for Autonomous Blockchains backed by Secure Hardware](https://dl.acm.org/doi/pdf/10.1145/3342559.3365333). SysTEX, 2019.
 - K. Wust, S. Matetic, M. Schneider, I. Miers, K. Kostiainen, and S. Capkun. [ZLite: Lightweight Clients for Shielded Zcash Transactions using Trusted Execution](https://ethz.ch/content/dam/ethz/special-interest/infk/inst-infsec/system-security-group-dam/research/publications/pub2019/zlite.pdf). FC, 2019.
 - D. Dachman-Soled, C. Liu, C. Papamanthou, E. Shi, and U. Vishkin. [Oblivious Network RAM and Leveraging Parallelism to Achieve Obliviousness](https://link.springer.com/article/10.1007/s00145-018-9301-4). Journal of Cryptology, 2019.
 - M. Maller, S. Bowe, M. Kohlweiss, and S. Meiklejohn. [Sonic: Zero-Knowledge SNARKs from Linear-Size Universal and Updatable Structured Reference Strings](https://github.com/ebfull/sonic). ACM CCS, 2019.
