@@ -50,6 +50,7 @@
 - A. Judmayer, N. Stifter, A. Zamyatin, I. Tsabary, I. Eyal, P. Gazi, S. Meiklejohn, and E. Weippl. [Pay to Win: Cheap, Cross-Chain Bribing Attacks on PoW Cryptocurrencies](http://eprints.cs.univie.ac.at/7102/1/wtsc21b.pdf). IC Financial Cryptography and Data Security, 2021.
 - G. Kappos, H. Yousaf, A. M. Piotrowska, S. Kanjalkar, S. Delgado-Segura, A. Miller, and S. Meiklejohn. [An Empirical Analysis of Privacy in the Lightning Network](https://smeiklej.com/files/fc21.pdf). FC, 2021.
 - B. Bailey and S. Sankagiri. [Merkle trees optimized for stateless clients in bitcoin](https://eprint.iacr.org/2021/340.pdf). FC, 2021.
+- G. Avarikioti, E. Kokoris Kogias, R. Wattenhofer, and D. Zindros. [Brick: Asynchronous Payment Channels](https://arxiv.org/abs/1905.11360). FC, 2021.
 - Y. Shibuya, G. Yamamoto, F. Kojima, E. Shi, S. Matsuo, and A. Laszka. [Selfish Mining Attacks Exacerbated by Elastic Hash Supply](https://arxiv.org/pdf/2103.08007.pdf). FC, 2021. 
 - J. Liu, P. Li, R. Cheng, N. Asokan, and D. Song. [Parallel and asynchronous smart contract execution](https://ieeexplore.ieee.org/abstract/document/9477197). IEEE PDS, 2021. 
 - K. Wust, L. Diana, K. Kostiainen, G. Karame, S. Matetic, and S. Capkun. [Bitcontracts: Supporting Smart Contracts in Legacy Blockchains](https://eprint.iacr.org/2019/857.pdf). NDSS, 2021.
@@ -58,6 +59,7 @@
 - T-H. H. Chan, W-K. Lin, K. Nayak, and E. Shi. [Perfectly Secure Oblivious Parallel RAM with O(log3N/loglogN) Overhead](https://eprint.iacr.org/2020/604). ITC, 2021.
 - K-M. Chung, T-H. H. Chan, T. Wen, and E. Shi. [Game-Theoretic Fairness Meets Multi-Party Protocols: The Case of Leader Election](https://eprint.iacr.org/2020/1591). CRYPTO, 2021. 
 - I. Abraham, P. Jovanovic, M. Maller, S. Meiklejohn, G. Stern, and A. Tomescu. [Reaching Consensus for Asynchronous Distributed Key Generation](https://arxiv.org/pdf/2102.09041.pdf). ACM PODC, 2021.
+- E. Kokoris-Kogias, E.C. Alp, L. Gasser, P. Jovanovic, E. Syta, and B. Ford. [CALYPSO: Private Data Management for Decentralized Ledgers](https://eprint.iacr.org/2018/209). VLDB, 2021.
 
 ## 2020 ##
 
@@ -89,10 +91,10 @@
 - L. Gudgeon, P. Moreno-Sanchez, S. Roos, P. McCorry, and A. Gervais. [SoK: Layer-Two Blockchain Protocols](https://fc20.ifca.ai/preproceedings/150.pdf). FC, 2020. 
 - A. Kiayias, A. Miller, and D. Zindros. [Non-Interactive Proofs of Proof-of-Work](https://fc20.ifca.ai/preproceedings/74.pdf). FC, 2020.
 - A. Moin, K. Sekniqi, and E. G. Sirer. [SoK: A Classification Framework for Stablecoin Designs](https://fc20.ifca.ai/preproceedings/119.pdf). FC, 2020. 
-- S. Bano, A. Sonnino, M. Al-Bassam, S. Azouvi, P. McCorry, S. Meiklejohn, and G. Danezis. [SoK: Consensus in the Age of Blockchains](https://smeiklej.com/files/aft19a.pdf). AFT, 2020.
+- S. Bano, A. Sonnino, M. Al-Bassam, S. Azouvi, P. McCorry, S. Meiklejohn, and G. Danezis. [SoK: Consensus in the Age of Blockchains](https://smeiklej.com/files/aft19a.pdf). ACM AFT, 2020.
+- S. Azouvi, G. Danezis, and V. Nikolaenko. [Winkle: Foiling Long-Range Attacks in Proof-of-Stake Systems](https://eprint.iacr.org/2019/1440.pdf). ACM AFT, 2020.
 - K. A. Negy, P. Rizun, and E. G. Sirer. [Selfish Mining Re-Examined](https://fc20.ifca.ai/preproceedings/4.pdf). FC, 2020.
 - P. Daian, S. Goldfeder, T. Kell, Y. Li, X. Zhao, I. Bentov, L. Breidenbach, and A. Juels. [Flash Boys 2.0: Frontrunning, Transaction Reordering, and Consensus Instability in Decentralized Exchanges](https://arxiv.org/abs/1904.05234). IEEE S&P, 2020. Bloomberg article <a href="https://www.bloomberg.com/news/articles/2019-04-15/-flash-boys-trading-bots-are-running-wild-on-crypto-exchanges">here</a>.
-- E. Kokoris-Kogias, E.C. Alp, L. Gasser, P. Jovanovic, E. Syta, and B. Ford. [CALYPSO: Private Data Management for Decentralized Ledgers](https://eprint.iacr.org/2018/209).
 - G. Asharov, I. Komargodski, W-K. Lin, K. Nayak, E. Peserico, and E. Shi. [OptORAMa: Optimal Oblivious RAM](https://eprint.iacr.org/2018/892). EUROCRYPTO, 2020.
 - E. Shi [Path Oblivious Heap:Optimal and Practical Oblivious Priority Queue](https://eprint.iacr.org/2019/274). IEEE S&P, 2020.
 - S. Bowe, A. Chiesa, M. Green, I. Miers, P. Mishra, and H. Wu. [ZEXE: Enabling Decentralized Private Computation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9152634). IEEE S&P, 2020.
@@ -102,7 +104,6 @@
 - T-H. H. Chan, R. Pass, and E. Shi. [Sublinear-Round Byzantine Agreement under Corrupt Majority](http://elaineshi.com/docs/ba-cormaj.pdf). IACR PKC, 2020.
 - A. Miller, Y. Zhang, and S. Kanjalkar. [Baby SNARK (do do dodo dodo)](https://github.com/initc3/babySNARK/blob/master/babysnark.pdf).
 - R. Paccagnella, P. Datta, W. Ul Hassan, A. Bates, C. Fletcher, A. Miller, and D. Tian. [CUSTOS: Practical Tamper-Evident Auditing of Operating Systems Using Trusted Execution](https://rp8.web.engr.illinois.edu/papers/custos-ndss2020.pdf). NDSS, 2020.
-- G. Avarikioti, E. Kokoris Kogias, R. Wattenhofer, and D. Zindros. [Brick: Asynchronous Payment Channels](https://arxiv.org/abs/1905.11360).
 - J. Wan, H. Xiao, E. Shi, and S. Devadas. [Expected Constant Round Byzantine Broadcast under Dishonest Majority](https://eprint.iacr.org/2020/590.pdf). TCC, 2020.
 - J. Wan, H. Xiao, S. Devadas, and E. Shi. [Round-Efficient Byzantine Broadcast under Strongly Adaptive and Majority Corruptions](https://eprint.iacr.org/2020/1236). TCC, 2020.
 - S. Capkun and many others. [DP3T - Decentralized Privacy-Preserving Proximity Tracing](https://github.com/DP-3T/documents).
