@@ -155,6 +155,7 @@
 - T.-H. H. Chan, K.-M. Chung, B.M. Maggs, E. Shi. [Foundations of Differentially Oblivious Algorithms](https://epubs.siam.org/doi/10.1137/1.9781611975482.150). SODA, 2019. 
 - V. Bagaria, s. Kannan, D. Tse, G. Fanti, and P. Viswanath. [Prism: Deconstructing the Blockchain to Approach Physical Limits](https://arxiv.org/pdf/1810.08092.pdf). ACM CCS, 2019.
 - A. Farhadi, M.T. Hajiaghayi, K.G. Larsen, and E. Shi. [Lower bounds for external memory integer sorting via network coding](https://dl.acm.org/citation.cfm?doid=3313276.3316337). STOC, 2019.
+- C. Perez-Sola, S. Delgado-Segura, G. Navarro-Arribas, and J. Herrera-Joancomarti. [Another coin bites the dust: An analysis of dust in UTXO based cryptocurrencies](https://eprint.iacr.org/2018/513.pdf). Royal Society Publishing, 2019.
 - S. Kanjalkar, J. Kuo, Y. Li, and A. Miller. [Short Paper: I Can't Believe It's Not Stake! Resource Exhaustion Attacks on PoS](https://fc19.ifca.ai/preproceedings/180-preproceedings.pdf). FC, 2019. 
 - A. Miller, I. Bentov, S. Bakshi, R. Kumaresan, and P. McCorry. [Sprites and State Channels: Payment Networks that Go Faster than Lightning](https://arxiv.org/abs/1702.05812). FC, 2019.
 - S. Delgado-Segura, S. Bakshi, C. Perez-Sola, J. Litton, A. Pachulski, A. Miller, and B. Bhattacharjee. [TxProbe: Discovering Bitcoin's Network Topology Using Orphan Transactions](https://arxiv.org/abs/1812.00942). FC, 2019. 
@@ -167,6 +168,7 @@
 
 - E. Hildenbrandt, M. Saxena, X. Zhu, N. Rodrigues, P. Daian, D. Guth and G. Rosu. [KEVM: A Complete Semantics of the Ethereum Virtual Machine](https://www.ideals.illinois.edu/bitstream/handle/2142/97207/hildenbrandt-saxena-zhu-rodrigues-guth-daian-rosu-2017-tr_0818.pdf). CSF, 2018
 - I. Tsabary and I. Eyal. [The Gap Game](https://arxiv.org/abs/1805.05288). ACM CCS, 2018.
+- C. Perez-Sola, S. Delgado-Segura, S. Navarro-Arribas, and J. Herrera-Joancomarti. [Double-spending prevention for Bitcoin sero-confirmation transactions](https://link.springer.com/article/10.1007/s10207-018-0422-4). International Journal of Information Security, 2018.
 - G. Kappos, H. Yousaf, M. Maller and S. Meiklejohn. [An Empirical Analysis of Anonymity in Zcash](https://arxiv.org/abs/1805.03180). USENIX Security, 2018.
 - S. Matetic, M. Schneider, A. Miller, A. Juels and S. Capkun. [DelegaTEE: Brokered Delegation Using Trusted Execution Environments](https://eprint.iacr.org/2018/160). USENIX Security, 2018.
 - I. Eyal and E.G. Sirer. [Majority is not enough: bitcoin mining is vulnerable](https://dl.acm.org/doi/10.1145/3212998). ACM CCS, 2018. 
@@ -193,9 +195,12 @@
 - S. Azouvi, M. Maller and S. Meiklejohn. [Egalitarian Society or Benevolent Dictatorship: The State of Cryptocurrency Governance](https://fc18.ifca.ai/bitcoin/papers/bitcoin18-final13.pdf). FC, 2018. BITCOIN, 2018.
 - E. Kokoris-Kogias, P. Jovanovic, L. Gasser, N. Gailly, E. Syta and B. Ford. [OmniLedger: A Secure, Scale-Out, Decentralized Ledger via Sharding](http://bford.info/pub/dec/omniledger.pdf). IEEE S&P, 2018.
 - A. Kosba, C. Papamanthou, and E. Shi. [xJsnark: A Framework for Efficient Verifiable Computation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8418647). IEEE S&P, 2018.
+- S. Delgado-Segura, C. Perez-Sola, G. Navarro-Arribas, and J. Herrera-Joancomarti. [Cryptocurrency networks: a new P2P paradigm](https://www.hindawi.com/journals/misy/2018/2159082/). Mobile Information Systems, 2018.
+- S. Delgado-Segura, C. Perez-Sola, G. Navarro-Arribas, and J. Herrera-Joancomarti. [Analysis of the Bitcoin UTXO set](https://eprint.iacr.org/2017/1095.pdf). BITCOIN, 2018.
 - T.-H. H. Chan, K. Nayak, and E. Shi. [Perfectly Secure Oblivious Parallel RAM](https://link.springer.com/chapter/10.1007/978-3-030-03810-6_23). TCC, 2018.
 - S. Meiklejohn. [Top Ten Obstacles along Distributed Ledgers' Path to Adoption](https://smeiklej.com/files/topten.pdf). IEEE S&P, 2018.
 - N. Crooks, M. Burke, E. Cecchetti, S. Harel, R. Agarwal, and L. Alvisi. [Obladi: Oblivious Serializable Transactions in the Cloud](https://www.cs.cornell.edu/lorenzo/papers/Crooks18Obladi.pdf). USENIX OSDI, 2018.
+- S. Delgado-Segura, C. Perez-Sola, J. Herrera-Joancomarti, and G. Navarro-Arribas.[Bitcoin private key locked transactions](https://reader.elsevier.com/reader/sd/pii/S0020019018301704?token=78E669AD5E642F31CBB9B65165C00F4EA7216207E469D76D921A1BA8180F33036962272D03CBEF6C9EA3EEB41FD2E983&originRegion=us-east-1&originCreation=20220629212549). Information Processing Letters, 2018.
 - K. Karlosson, W. Jiang, S. Wicker, D. Adams, E. Ma, R. van Renesse, and H. Weatherspoon. [Vegvisir: A Partition-Tolerant Blockchain for the Internet-of-Things](https://vegvisir.cs.cornell.edu/html/files/papers/vegvisir-paper.pdf?msclkid=7a88eb34cfb211eca20eab9ab641e67c). IEEE DCS, 2018.
 - T-H. H. Chan, J. Katz, K. Nayak, A. Polychroniadou, and E. Shi. [More is Less: Perfectly Secure Oblivious Algorithms in the Multi-server Setting](https://link.springer.com/chapter/10.1007/978-3-030-03332-3_7). ASIACRYPT, 2018.
 
