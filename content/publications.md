@@ -144,6 +144,7 @@
 - A. Kharraz, Z. Ma, P. Murley, C. Lever, J. Mason, A. Miller, N. Borisov, M. Antonakakis, and M. Bailey. [Outguard: Detecting In-Browser Covert Cryptocurrency Mining in the Wild](https://dl.acm.org/doi/10.1145/3308558.3313665). ACM, 2019. 
 - H. Yousaf, G. Kappos, and S. Meiklejohn. [Tracing Transactions Across Cryptocurrency Ledgers](https://smeiklej.com/iles/usenix19.pdf). USENIX, 2019. 
 - P. Reibel, H. Yousaf, and S. Meiklejohn. [Why is a Ravencoin Like a TokenDesk? An Exploration of Code Diversity in the Cryptocurrency Landscape](https://smeiklej.com/files/fc19full.pdf). FC, 2019.
+- P. McCorry, C. Buckland, S. Bakshi, K. Wust, and A. Miller. [You Sank My Battleship! A Case Study to Evaluate State Channels as a Scaling Solution for Cryptocurrencies](https://fc19.ifca.ai/wtsc/Battleship.pdf). FC, 2019.
 - A. Sonnino, M. Al-Bassam, S. Bano, S. Meiklejohn, and G. Danezis. [Coconut: Threshold Issuance Selective Disclosure Credentials with Applications to Distributed Ledgers](https://smeiklej.com/files/ndss19.pdf). NDSS, 2019. 
 - J. Grimmelmann. [Continuity and Change in Internet Law](https://cacm.acm.org/magazines/2019/5/236418-continuity-and-change-in-internet-law/fulltext). Communications of the ACM, 2019. 
 - J. Grimmelmann. [Bone Crusher 2.0: The Fourth Annual Greg Lastowka Memorial Lecture](https://james.grimmelmann.net/files/articles/bone-crusher.pdf). 71 Rutgers University Law Review 843, 2019.
