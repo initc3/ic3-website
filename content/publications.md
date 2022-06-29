@@ -103,6 +103,7 @@
 - G. Asharov, I. Komargodski, W-K. Lin, K. Nayak, E. Peserico, and E. Shi. [OptORAMa: Optimal Oblivious RAM](https://eprint.iacr.org/2018/892). EUROCRYPTO, 2020.
 - E. Shi [Path Oblivious Heap:Optimal and Practical Oblivious Priority Queue](https://eprint.iacr.org/2019/274). IEEE S&P, 2020.
 - J. Lee, K. Nikitin, and S. Setty. [Replicated state machines without replicated execution](https://eprint.iacr.org/2020/195.pdf). IEEE S&P, 2020.
+- I. Abraham, D. Malkhi, K. Nayak, L. Ren, and M. Yin. [Sync HotStuff: Simple and Practical Synchronous State Machine Replication](https://eprint.iacr.org/2019/270.pdf). IEEE S&P, 2020.
 - S. Bowe, A. Chiesa, M. Green, I. Miers, P. Mishra, and H. Wu. [ZEXE: Enabling Decentralized Private Computation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9152634). IEEE S&P, 2020.
 - A. Sonnino, S. Bano, M. Al-Bassam, and G. Danezis. [Replay Attacks and Defenses Against Cross-shard Consensus in Sharded Distributed Ledgers](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9230373). IEEE S&P, 2020.
 - E. Stefanov, M van Dijk, E. Shi, C. Fletcher, L. Ren, X. Yu, and S. Devadas. [A Retrospective on Path RAM](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8747366). IEEE S&P, 2020.
@@ -126,6 +127,7 @@
 - I. Bentov, Y. Ji, F. Zhang, Y. Li, X. Zhao, L. Breidenbach, P. Daian and A. Juels. [Tesseract: Real-Time Cryptocurrency Exchange Using Trusted Hardware](https://eprint.iacr.org/2017/1153.pdf). ACM CCS, 2019. 
 - G. Fanti, J. Jiao, A. Makkuva, S. Oh, R. Rana, and P. Viswanath. [Barracuda: The Power of l-Polling in Proof-of-Stake Blockchains](https://swoh.web.engr.illinois.edu/polling.pdf). ACM MobiHoc, 2019 (Best Paper Award). 
 - A. Juels, L. Breidenbach, A. Coventry, S. Nazarov, S. Ellis, and B. Magauran. [Mixicles: Simple Private Decentralized Finance](https://assets.website-files.com/5f44d690acb168953e6181f6/5fa2f1616ac1b092226b3a86_mixicles.pdf). JBCN, 2019
+- M. Yin, D. Malkhi, M.K. Reiter, G.G. Gueta, and I. Abraham. [HotStuff: BFT Consensus with Linearity and Responsiveness](https://dl.acm.org/doi/10.1145/3293611.3331591). PODC, 2019.
 - M. Schneider, S. Matetic, A. Juels, A. Miller, and S. Capkun. [Secure Brokered Delegation Through DelegaTEE](https://ethz.ch/content/dam/ethz/special-interest/infk/inst-infsec/system-security-group-dam/research/publications/pub2019/delegatee_magazine.pdf). IEEE S&P, 2019.
 - H. Kang, T. Dai, N. Jean-Louis, S. Tao, and X. Gu. [FabZK: Supporting Privacy-Preserving, Auditable Smart Contracts in Hyperledger Fabric](https://ieeexplore.ieee.org/document/8809514). IEEE DSN, 2019.
 - P. McCorry, S. Bakshi, I. Bentov, S. Meiklejohn and A. Miller. [Pisa: Arbitration Outsourcing for State Channels](https://www.cs.cornell.edu/~iddo/pisa.pdf). ACM AFT, 2019.
