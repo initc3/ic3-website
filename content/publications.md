@@ -22,6 +22,7 @@
 - T. Yurek, L. Luo, J. Fairoze, A. Kate, and A. Miller. [hbACSS: How to Robustly Share Many Secrets](https://eprint.iacr.org/2021/159.pdf). NDSS, 2022. (to appear)
 - V. Nair and B. Bailey. [Fast Anonymous Consensus and Private Authentication in Large Distributed Systems](https://nair.me/consensus.pdf). NDSS, 2022.
 - I. Khaburzaniya, K. Chalkias, K. Lewi, and H. Malvai. [Aggregating and thresholdizing hash-based signatures using STARKs](https://eprint.iacr.org/2021/1048.pdf). ACM CCS, 2022.
+- N. Giridharan, L. Kokoris-Kogias, A. Sonnino, and A. Spiegelman. [Bullshark: DAG BFT Protocols Made Practical](https://arxiv.org/pdf/2201.05677.pdf). ACM CCS, 2022.
 - G. Asharov, I. Komargodski, W-K. Lin, E. Peserico, and E. Shi. [Optimal Oblivious Parallel RAM](https://eprint.iacr.org/2020/1292.pdf). SODA, 2022.
 - I. Eyal. [On cryptocurrency wallet design](https://drops.dagstuhl.de/opus/volltexte/2022/15901/pdf/OASIcs-Tokenomics-2021-4.pdf). ICBE S&P, 2022.
 - G. Asharov, T-H. H. Chan, K. Nayak, R. Pass, L. Ren, and E. Shi. [Locality-Preserving Oblivious RAM](https://eprint.iacr.org/2017/772). Journal of Cryptology, 2022.
