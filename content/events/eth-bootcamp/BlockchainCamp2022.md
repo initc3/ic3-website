@@ -58,8 +58,8 @@ We will offer two overlapping tracks: a coding track and a presentation track.
   <div class="ui center aligned basic segment">
     <div class="ui center image">
         <img class="ui image" src="../images/events/BlockchainCamp2022/DraftCampSchedule2022.png" alt="" />
-    <div>
-  <div>    
+    </div>
+  </div>    
   
   <strong> We hope to see you at the 2022 IC3 Blockchain Summer Camp! </strong>
   
