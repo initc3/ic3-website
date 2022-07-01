@@ -51,6 +51,15 @@ We will offer two overlapping tracks: a coding track and a presentation track.
   </div>
   
   
+  **Camp Draft Schedule**
+  
+  Monday through Friday will feature talks open to registered participants by blockchain leaders from academia, industry, and the open source community. Please see below a draft schedule.
+  
+  <div class="ui center aligned basic segment">
+    <div class="ui center image">
+        <img class="ui image" src="../images/events/BlockchainCamp2022/Draft Camp Schedule 2022.png" alt="" />
+    <div>
+  <div>    
   
   <strong> We hope to see you at the 2022 IC3 Blockchain Summer Camp! </strong>
   
