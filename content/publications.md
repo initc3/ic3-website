@@ -228,8 +228,8 @@
 
 ## 2016 ##
 
-- M. Milutinovic, W. He, H. Wu and M. Kanwal. 2016. [Proof of Luck: an Efficient Blockchain Consensus Protocol.](http://dl.acm.org/citation.cfm?doid=3007788.3007790). In Proceedings of the 1st Workshop on System Software for Trusted Execution (SysTEX '16).
-- K. Nayak, S. Kumar, A. Miller, E. Shi. [Stubborn Mining: Generalizing Selfish Mining and Combining with an Eclipse Attack.](https://eprint.iacr.org/2015/796). IEEE Euro S&P, 2016.
+- M. Milutinovic, W. He, H. Wu and M. Kanwal. 2016. [Proof of Luck: an Efficient Blockchain Consensus Protocol](http://dl.acm.org/citation.cfm?doid=3007788.3007790). In Proceedings of the 1st Workshop on System Software for Trusted Execution (SysTEX '16).
+- K. Nayak, S. Kumar, A. Miller, E. Shi. [Stubborn Mining: Generalizing Selfish Mining and Combining with an Eclipse Attack](https://eprint.iacr.org/2015/796). IEEE Euro S&P, 2016.
 - F. Zhang, E. Cecchetti, K. Croman, A. Juels and E. Shi. [Town Crier: An Authenticated Data Feed for Smart Contracts](https://eprint.iacr.org/2016/168.pdf). ACM CCS, 2016.
 - A. Miller, Y. Xia, K. Croman, E. Shi and D. Song. [The Honey Badger of BFT Protocols](https://eprint.iacr.org/2016/199). ACM CCS, 2016.
 - A. Juels, A. Kosba and E. Shi. [The Ring of Gyges: Investigating the Future of Criminal Smart Contracts](files/Gyges.pdf). ACM CCS, 2016.
@@ -239,24 +239,24 @@
 - E. Zhai, D.I. Wolinsky, R. Chen, E. Syta, C. Teng and B. Ford. [AnonRep: Towards Tracking-Resistant Anonymous Reputation](http://bford.info/pub/dec/anonrep.pdf). In USENIX NSDI, 2016.
 - E. Syta, I. Tamas, D. Visher, D.I. Wolinsky, P. Jovanovic, L. Gasser, N. Gailly, I. Khoffi and B. Ford. [Keeping Authorities “Honest or Bust” with Decentralized Witness Cosigning](http://dedis.cs.yale.edu/dissent/papers/witness.pdf). IEEE S&P, 2016.
 - E.K. Kogias, P. Jovanovic, N. Gailly, I. Khoffi, L. Gasser and B. Ford. [Enhancing Bitcoin Security and Performance with Strong Consistency via Collective Signing](http://bford.info/pub/dec/byzcoin.pdf). USENIX, 2016.
-- A. Kosba, A. Miller, E. Shi, Z. Wen and C. Papamanthou. [Hawk: The Blockchain Model of Cryptography and Privacy-Preserving Smart Contracts.](https://eprint.iacr.org/2015/675.pdf) IEEE S&P, 2016.
+- A. Kosba, A. Miller, E. Shi, Z. Wen and C. Papamanthou. [Hawk: The Blockchain Model of Cryptography and Privacy-Preserving Smart Contracts](https://eprint.iacr.org/2015/675.pdf). IEEE S&P, 2016.
 
 ## 2015 and Older ##
 
-- A. Miller, A. Kosba, J. Katz, E. Shi. [Nonoutsourceable Scratch-Off Puzzles to Discourage Bitcoin Mining Coalitions.](https://cs.umd.edu/~amiller/nonoutsourceable_full.pdf). ACM CCS, 2015.
+- A. Miller, A. Kosba, J. Katz, E. Shi. [Nonoutsourceable Scratch-Off Puzzles to Discourage Bitcoin Mining Coalitions](https://cs.umd.edu/~amiller/nonoutsourceable_full.pdf). ACM CCS, 2015.
 - A. Kiayias, Q.Tang. Traitor-deterring Schemes: Using Bitcoin as Collateral for Digital Contents. ACM CCS, 2015.
 - R. Pass and a. shelat. [Micropayments for Decentralized Currencies](files/micropay2.pdf). ACM CCS, 2015.
 - A. Miller, J. Litton, A. Pachulski, N. Gupta, D. Levin, N. Spring and B. Bhattacharjee. [Discovering bitcoin's public topology and influential nodes](http://cs.umd.edu/projects/coinscope/coinscope.pdf). Whitepaper, 2015.
 - I. Eyal. [The Miner's Dilemma](http://arxiv.org/abs/1411.7099). IEEE S&P, 2015.
 - J. Bonneau, A. Miller, J. Clark, A. Narayanan, J. A. Kroll, E. W. Felten. [SoK: Research Perspectives and Challenges for Bitcoin and Cryptocurrencies](http://www.ieee-security.org/TC/SP2015/papers-archived/6949a104.pdf). IEEE S&P, 2015.
 - A. Everspaugh, R. Chatterjee, S. Scott, A. Juels and T. Ristenpart. [The Pythia PRF Service](http://eprint.iacr.org/2015/644.pdf). USENIX, 2015. (Proposes a password-hardening system; securing Bitcoin brainwallets is one application.)
-- A. Miller, R. Jansen. Shadow-Bitcoin: [Scalable Simulation via Direct Execution of Multi-threaded Applications.](http://eprint.iacr.org/2015/469) USENIX CSET Workshop, 2015.
+- A. Miller, R. Jansen. Shadow-Bitcoin: [Scalable Simulation via Direct Execution of Multi-threaded Applications](http://eprint.iacr.org/2015/469) USENIX CSET Workshop, 2015.
 - I. Eyal and E. G. Sirer. [Majority Is Not Enough: Bitcoin Mining Is Vulnerable.](http://www.cs.cornell.edu/~ie53/publications/btcProcFC.pdf). FC, pp. 436-454, 2014.
-- A. Miller, A. Juels, E. Shi, B. Parno and J. Katz. [Permacoin: Repurposing Bitcoin Work for Long-Term Data Preservation.](http://research.microsoft.com/pubs/217984/permacoin.pdf). IEEE S&P, 2014. (Note: Permacoin is an altcoin that "recycles" the resource costs of mining by creating a distributed storage system as a side-effect.)
+- A. Miller, A. Juels, E. Shi, B. Parno and J. Katz. [Permacoin: Repurposing Bitcoin Work for Long-Term Data Preservation](http://research.microsoft.com/pubs/217984/permacoin.pdf). IEEE S&P, 2014. (Note: Permacoin is an altcoin that "recycles" the resource costs of mining by creating a distributed storage system as a side-effect.)
 - J. Bonneau, A. Narayanan, A. Miller, J. Clark, J. A. Kroll and E.W. Felten. [Mixcoin: Anonymity for Bitcoin with accountable mixes](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Nv2jil0AAAAJ&citation_for_view=Nv2jil0AAAAJ:4xDN1ZYqzskC). FC, 2014.
 - A. Miller and J.J. LaViola, Jr. [Anonymous Byzantine Consensus from Moderately-hard puzzles: A Model for Bitcoin](http://nakamotoinstitute.org/static/docs/anonymous-byzantine-consensus.pdf). Tech Report, 2014.
 - M. Ghosh, M. Richardson, B. Ford and R.Jansen. [A TorPath to TorCoin: Proof-of-Bandwidth Altcoins for Compensating Relays](http://dedis.cs.yale.edu/dissent/papers/hotpets14-torpath.pdf). Workshop of Hot Topics in Privacy Enhancing Technologies 2014.
-- S. Barber, X. Boyen, E. Shi and E. Uzun. [Bitter to Better: How to Make Bitcoin a Better Digital Currency.](http://elaineshi.com/docs/bitcoin.pdf). FC, 2012.
+- S. Barber, X. Boyen, E. Shi and E. Uzun. [Bitter to Better: How to Make Bitcoin a Better Digital Currency](http://elaineshi.com/docs/bitcoin.pdf). FC, 2012.
 - B. Ford, J. Strauss, C. Lesniewski-Laas, S. Rhea, F. Kaashoek and R. Morris. [Persistent Personal Names for Globally Connected Mobile Devices](https://www.usenix.org/legacy/events/osdi06/tech/full_papers/ford/ford.pdf). USENIX OSDI, 2006.
 - M. Jakobsson and A. Juels. [Proofs of Work and Bread Pudding Protocols.](http://www.arijuels.com/wp-content/uploads/2013/09/JJ99.pdf). ACM CMS, pp. 258-272, 1999.
 - A. Juels. [Trustee Tokens: Simple and Practical Tracing of Anonymous Digital Cash.](http://www.arijuels.com/wp-content/uploads/2013/09/J99.zip). FC, pp. 29-45, 1999.
