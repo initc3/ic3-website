@@ -53,7 +53,7 @@ We will offer two overlapping tracks: a coding track and a presentation track.
   
   **Camp Draft Schedule**
   
-  Monday through Friday will feature talks open to registered participants by blockchain leaders from academia, industry, and the open source community. Please see below a draft schedule.
+  Monday through Friday will feature talks open to registered participants by blockchain leaders from academia, industry, and the open source community. Please see below for a draft schedule.
   
   <div class="ui center aligned basic segment">
     <div class="ui center image">
