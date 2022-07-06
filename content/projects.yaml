@@ -30,6 +30,24 @@ challenges :
 
 projects:
 
+  - 
+     name: 'Blockchains as Infrasctructure and Semicommons'
+     authors: James Grimmelmann and A. Jason Windawi
+     challenges: [*compliance, *good]
+     description: Blockchains are not self-executing machines. They are resources systems, designed by people, maintained by people, and governed by people. Their technical protocols help to solve some difficult problems in shared resource management, but behind those protocols there are always communities of people struggling with familiar challenges in governing their provision and use of common infrastructure. In this Essay, we describe blockchains as shared, distributed transactional ledgers using two frameworks from commons theory. According to Brett Frischmann the theory of infrastructure provides an external view, showing how blockchains provide useful, generic infrastructure for recording transactions, and why that infrastructure is most naturally made available on common, non-discriminatory terms. According to Henri Smith the theory of semicommons provides an internal view, showing how blockchains intricately combine private resources (such as physical hardware and on-chain assets) with common resources (such as the shared transactional ledger and the blockchain protocol itself). We then detail how blockchains struggle with many the governance challenges that these frameworks predict, requiring blockchain communities to engage in extensive off-chain governance work to coordinate their uses and achieve consensus. Blockchains function as infrastructure and semicommons not in spite of the human element, but because of it. For more information, please see our <a href="https://james.grimmelmann.net/files/articles/blockchains-infrastructure-semicommons.pdf">paper</a>.
+
+  - 
+     name: 'Safe Permissionless Consensus'
+     authors: Youer Pu, Lorenzo Alvisi, and Ittay Eyal
+     challenges: [*scaling, *correctness]
+     description: According Nakamoto, consensus protocol works in a permissionless model, where nodes can join and leave without notice. However, it guarantees agreement only probabilistically. Is this weaker guarantee a necessary concession to the severe demands of supporting a permissionless model? This paper shows that, at least in a benign failure model, it is not. It presents Sandglass, the first permissionless consensus algorithm that guarantees deterministic agreement and termination with probability 1 under general omission failures. Like Nakamoto, Sandglass adopts a hybrid synchronous communication model, where, al the times, a majority of nodes (though their number is unknown) are correct and synchronously connected, and allows nodes to join and leave at any time. For further information, please see our <a href="https://eprint.iacr.org/2022/796">paper</a>.
+
+  -
+     name: 'Efficient and Adaptively Secure Asynchronous Binary Agreement via Binding Crusader Agreement'
+     authors: Ittai Abraham, Naama Ben-David, and Sravya Yandamuri
+     challenges: [*correctness]
+     description: We present a new abstraction based on crusader agreement called Binding Crusader Agreement (BCA) for solving binary consensus in the asynchronous setting against an adaptive adversary. BCA has the validity, agreement, and termination properties of crusader agreement in addition to a new property called binding. Binding states that before the first non-faulty party terminates, there is a value v{0,1} such  that no non-faulty party can output the value v in any continuation of the execution. We believe that reasoning about binding explicitly, as a first order goal, greatly helps algorithm design, clarity, and analysis. Using our framework, we solve several versions of asynchronous binary agreement against an adaptive adversary in a simple and modular manner that either improves or matches the efficiency of state of the art solutions. We do this via new BCA protocols, given a strong common coin, and via new Graded BCA protocols given an e-good common coin. For crash failures, we reduce the expected time to terminate and we provide termination bounds that are linear in the goodness of the common coin. For Byzantine failures, we improve the expected time to terminate in the computational setting with threshold signatures, and match the state of the art in the information theoretic setting, both with a strong common coin and with an e-good common coin. For further information, please see our <a href="https://eprint.iacr.org/2022/711">paper</a>.    
+     
   -
      name: 'F3B: A Low-Latency Commit-and-Reveal Architecture to Mitigate Blockchain Front-Running'
      authors: Haoqian Zhang, Louis-Henri Merino, Vero Estrada-Galinanes, and Bryan Ford
