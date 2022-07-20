@@ -599,6 +599,24 @@ projects:
      authors: Yanqing Peng, Min Du, Feifei Li, Raymond Cheng, and Dawn Song
      challenges: [*correctness, *confidentiality, *adf]
      description: Nowadays an emerging class of applications are based on collaboration over a shared database among different entities. However, the existing solutions on shared database may require trust on others, have high hardware demand that is unaffordablefor individual users, or have relatively low performance. In other words, there is a trilemma among security, compatibility and efficiency. In this paper, we present FalconDB, which enables different parties with limited hardware resources to efficiently and securely collaborate on a database. FalconDB adopts database servers with verification interfaces accessible to clients and stores the digests for query/update authentications on a blockchain. Using blockchain as a consensus platform and a distributed ledger, FalconDB is able to work without any trust on each other. Meanwhile, FalconDB requires only minimal storage cost on each client, and provides anywhere-available, real-time and concurrent access to the database. As a result, FalconDB overcomes the disadvantages of previous solutions, and enables individual users to paricipate in the collaboration with high efficiency, low storage cost and blockchain-level security guarantees. For more information, please see our <a href="https://dl.acm.org/doi/pdf/10.1145/3318464.3380594?msclkid=b6d17d55cfed11ec8d156b030b9fb962">paper</a>.
+  
+  -
+     name: 'Reputable List Curation from Decentralized Voting'
+     autors: Elizabeth C. Crites, Mary Maller, Sarah Meiklejohn, and Rebekah Mercer
+     challenges: [*scaling, *compliance]
+     description: Token-curated registries (TCRs) are a mechanism by which a set of users are able to jointly curate a reputable list about real-world information. Entries in the registry may have any form, so this primitive has been protposed for use -- and deployed -- in a variety of decentralized applications, ranging from the simple joint creation of lists to helping to prevent the spread of misinformation online. Despite this interest, the security of this primitive is not well understood, and indeed existing constructions do not achieve strong or provable notions of security or privacy. In this paper, we provide a formal cryptographic treatment of TCRs as well as a construction that provably hides the votes cast by individual curators. Along the way, we provide a model and proof of security for an underlying voting scheme, which may be of independent interest. We also demonstrate, via an implementation and evaluation, that our construction is practical enough to be deployed even on a constrained decentralized platform like Ethereum. For more information, please see our <a href="https://smeiklej.com/files/pets20.pdf">paper</a>.
+     
+  -
+     name: 'Blockchain with Varying Number of Players'
+     authors: T-H. Hubert Chan, Naomi Ephraim, Antonio Marcedone, Andrew Morgan, Rafael Pass, and Elaine Shi
+     challenges: [*scaling, *migration]
+     decsription: Nakamoto famous blockchain protocol enables achieving consensus in a so-called permissionless setting -- anyone can join (or leave) the protocol execution, and the protocol instructions do not depend on the identities of the players. His ingenious protocol prevents *sybil attacks* (where an adversary spawns any number of new players) by relying on computational puzzles (a.k.a. *moderately hard functions*) introduced by Dwork and Naor (Crypto 1992). Recent work by Garay et al. (EuroCrypt 2015) and Pass et al. (EuroCrypt 2017) demonstrate that this protocol provably achieves consistency and liveness assuming a) honest players control a majority of the computational power in the network, b) the puzzle-difficulty is appropriately set as a function of the maximum network message delay and the total computational power of the network, and c) the computational puzzle is modeled as a random oracle. These works, however, leave open the question of how to set the puzzle difficulty in a setting where the computational power in the network is changing. The Nakamoto protocol indeed also includes a description of a difficulty update procedure. a recent work by Garay et al. (Crypto 2017) indeed shows a variant of this difficulty adjustment procedure can be used to get a sound protocol as long as the computational power does not change too fast -- however, under two restrictions - 1) their analysis assumes that the attacker cannot delays network messages, and 2) the changes in computational power in the network changes are statically set (i.e., cannot be adapptively selected by the adversary). In this work, we show the same result but without these two restrictions, demonstrating the soundness of a (slightly different) difficulty update procedure, assuming only that the computational power in the network does not change too fast (as a function of the maximum network message delays), as an additional contribution, our analysis yields a tight bound on the *chain quality* of the protocol. Link to our <a href="https://eprint.iacr.org/2020/677.pdf">work</a>.
+     
+  - 
+     name: 'Expected Constant Round Byzantine Broadcast under Dishonest Majority'
+     authors: Jun Wan, Hanshen Xiao, Elaine Shi, and Srinivas Devadas
+     challenges: [*scaling, *migration]
+     description: Byzantine Broadcast (BB) is a central question in distributed systems, and an important challenge is to understand its round complexity. Under the honest majority setting, it is long known that there exist randomized protocols that can achieve BB in expected constant rounds, regardless of the number of nodes n. However, whether we can match the expected constant round complexity in the corrupt majority setting --- or more precisely, when f=>n/2+w(1) --- remains unknown, where f denotes the number of corrupt nodes. In this paper, we are the first to resolve this long-standing question. We show how to achieve BB in expected O((n/(n-f))2 rounds. Our results hold under both a static adversary and weakly adaptive adversary who cannot perform *after-the-fact removal* of messages already sent by a node before it becomes corrupt. For more information, please see our <a href="https://eprint.iacr.org/2020/590">paper</a>.
      
   - 
      name: 'HoneyBadgerMPC'
@@ -606,6 +624,12 @@ projects:
      challenges: [*scaling, *confidentiality, *compliance]
      description: Multi-Party Computation (MPC) is a flexible paradigm for computing on confidential data. HoneyBadgerMPC is an asynchronous MPC protocol and implementation that scales to large networks and provides blockchain-grade fault tolerance and availability guarantees. For more info, please see <a href="https://github.com/initc3/HoneyBadgerMPC/">HoneyBadgerMPC</a>.
 
+  - 
+     name: 'Multi-Perty Timed Commitments'
+     authors: Yael Doweck and Ittay Eyal
+     challenges: [*scaling, *migration]
+     description: The problem of obtaining secret commitments from multiple parties and revealing them after a certain time is useful for sealed-bid auctions, games, and other applications. Existing solutions, dating back to Rivest, Shamir and Wagner, either do not scale or rely on synchrony for the commitment phase and trust of t/n parties. We formalize the problem of implementing such commitments with a probabilistic delay and without the aforementioned assumptions as Multi-Party Timed Commitments (MPTC) and present a solution -- the Time-Capsule protocol. Like previous approaches, Tmie Capsule forms a puzzle whose solution reveals the committed values. But unlike previous solutions, no party has an advantage in solving the puzzle, and individual commitments cannot be revealed before the entire set is committed. A particular application of MPTC realizes an advancement in the study of decentralized systems. The state of the art in decentralized systems is manifested in blockchain systems that utilize Proof-of-Work to achieve censorship resistance. However, they are still vulnerable to frontrunning, an issue that is plaguing operational systems. By adapting Time Capsule, we allow it to be used for Proof-of-Work, preventing frontrunning by system operators and tunning the puzzle difficulty using the blockchain mechanism. For further information, please see our <a href="https://arxiv.org/pdf/2005.04883.pdf">paper</a>.
+     
   -
      name: 'SCIF: Smart Contract Information Flow'
      authors: Ethan Cecchetti, Siqiu Yao, Haobin Ni, and Andrew C. Myers
@@ -620,6 +644,7 @@ projects:
 
   -
      name: 'Confidence Clustering'
+     authors: Sarah Meiklejohn
      challenges: [*correctness]
      description: This project is focused on developing a set of metrics that can increase confidence in the results of cryptocurrency clustering heuristics. These new techniques, which will output a probability of two addresses belonging to the same cluster rather than a binary yes/no answer, will enable more informed decisions and strengthen the use of exisiting heuristics by providing more evidence that their results are correct.
 
