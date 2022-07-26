@@ -773,6 +773,12 @@ projects:
      authors: Enis Ceyhun Alp, Lefteris Kokoris-Kogias, Georgia Fragkouli, and Bryan Ford
      challenges: [*scaling, *compliance]
      description: While showing great promise, smart contracts are difficult to program correctly, as they need a deep understanding of cryptography and distributed algorithms,and offer limited functionality, as they have to be deterministic and cannot operate on secret data. In this paper we present Protean, a general-purpose decentralized computing platform that addresses these limitations by moving from a monolithic execution model, where all participating nodes store all the state and execute every computation, to a modular execution-model. Protean employs secure specialized modules, called functional units, for building decentralized applications that are currently insecure or impossible to implement with smart contracts. Each functional unit is a distributed system that provides a special-purpose functionality by exposing atomic transactions to the smart-contract developer. Combining these transactions into arbitrarily-defined worklfows, developers can build a larger class of decentralized applications, such as provably-secure and fair lotteries or e-voting. For further information, please see our <a href="https://dl.acm.org/doi/pdf/10.1145/3317550.3321448">paper</a>.
+  
+  -
+     name: 'Succinct Non-Interactive Secure Computation'
+     authors: Andrew Morgan, Rafael Pass, and Antigoni Polychroniadou
+     challenges: [*correctness]
+     description: We present the first maliciously secure protocol for succinct non-interactive secure two-party computation (SNISC) - Each player sends just a single message whose length is (essentially) independent of the running time of the function to be computed. The protocol does not require any trusted setup, satisfies superpolynomial-time simulation-based security (SPS), and is based on (subexponential) security of the Learning With Errors (LWE) assumption. We do not rely on SNARKs or *knowledge of exponent* - type assumptions. Since the protocol is non-interactive, the relaxation to SPS security is needed, as standard polynomial-time simulation is impossible - however, a slight variant of our main protocol yields a SNISC with polynomial-time simulation in the CRS model. For more information, please see our <a href="https://dl.acm.org/doi/pdf/10.1145/3317550.3321448">paper</a>.
      
   -
      name: 'Bone Crusher 2.0'
@@ -780,6 +786,12 @@ projects:
      challenges: [*compliance]
      description: The late legal scholar Greg Lastowka wrote about law, property, and self-government in virtual worlds like Ultima Online. His observations are relevant to blockchains and their communities of users. For more information, please read my <a href="https://james.grimmelmann.net/files/articles/bone-crusher.pdf">paper</a>.
 
+  -
+     name: 'A vision for autonomous blockchains backed by secure hardware'
+     authors: Kai Mast, Lequn Chen, and Emin Gun Sirer
+     challenges: [*scaling, *correctness]
+     description: Blockchains have emerged as a potential mechanism to enable immutable and consistent sharing of data across organizational boundaries. While much of the discussion on blockchains to date has been structured around public versus permissioned blockchains, both of these architectures have significant drawbacks. Public blockchains are energy inefficient, hard to scale and suffer from limited throughput and high latencies, while permissioned blockchains depend on specially designated nodes, potentially leak metainformation, and also suffer from scale and performance bottlenecks. This raises the question if blockchains, in their current form, are the only class of datastores that can provide such strong integrity guarantees. We introduce autonomous blockchains, an architecture based on free-standing, immutable, eidetic databases that implement independent timelines, linked together through interactions. Autonomous blockchains can be realized using trusted execution environments in combination with audit mechanisms. This architecture does not only provide blockchain-like integrity and auditability guarantees but also supports storing and querying private data. Further, multiple autonomous blockchains can be linked together through federated transactions to exchange data and order mutual operations. These transactions are amenable to audits and yield tamper-proof witnesses. Evaluation shows that this design can achieve high throughput while providing stronger integrity guarantees than conventional datastores. Link to our <a href="https://dl.acm.org/doi/pdf/10.1145/3342559.3365333">paper</a>.
+     
   - 
      name: 'All Smart Contracts Are Ambiguous'
      authors: James Grimmelmann
