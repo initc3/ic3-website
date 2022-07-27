@@ -198,6 +198,14 @@ postdocs:
 
 students:
 
+  -
+    name: 'James R. Austgen'
+    pic: JamesA.jpeg
+    title:
+    email: jra265@cornell.edu
+    weburl:
+    bio: "James is a Computer Science Ph.D. student at Cornell University working with prof. Ari Juels. His interests inlcude blockchains, cryptocurrency, privacy, and smart contracts."
+  
   - 
     name: 'Mahimna Kelkar'
     pic: mahimna.jpg
