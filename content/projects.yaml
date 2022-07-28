@@ -791,6 +791,24 @@ projects:
      authors: Kai Mast, Lequn Chen, and Emin Gun Sirer
      challenges: [*scaling, *correctness]
      description: Blockchains have emerged as a potential mechanism to enable immutable and consistent sharing of data across organizational boundaries. While much of the discussion on blockchains to date has been structured around public versus permissioned blockchains, both of these architectures have significant drawbacks. Public blockchains are energy inefficient, hard to scale and suffer from limited throughput and high latencies, while permissioned blockchains depend on specially designated nodes, potentially leak metainformation, and also suffer from scale and performance bottlenecks. This raises the question if blockchains, in their current form, are the only class of datastores that can provide such strong integrity guarantees. We introduce autonomous blockchains, an architecture based on free-standing, immutable, eidetic databases that implement independent timelines, linked together through interactions. Autonomous blockchains can be realized using trusted execution environments in combination with audit mechanisms. This architecture does not only provide blockchain-like integrity and auditability guarantees but also supports storing and querying private data. Further, multiple autonomous blockchains can be linked together through federated transactions to exchange data and order mutual operations. These transactions are amenable to audits and yield tamper-proof witnesses. Evaluation shows that this design can achieve high throughput while providing stronger integrity guarantees than conventional datastores. Link to our <a href="https://dl.acm.org/doi/pdf/10.1145/3342559.3365333">paper</a>.
+  
+  -
+     name: 'Divide and Scale: Formalization of Distributed Ledger Sharding Protocols'
+     authors: George Avarikioti, Eleftherios Kokoris-Kogias, and Roger Wattenhofer 
+     challenges: [*scaling, *correctness]
+     description: Sharding distributed ledgers is the most promising on-chain solution for scaling blockchain technology. In this work, we define and analyze the properties a sharded distributed ledger should fulfill. More specifically, we show that a sharded blockchain cannot be scalable under a fully adaptive adversary, but it can scale up to O(n/log n) under an epoch-adaptive adversary. This is possible only if the distributed ledger creates succinct proofs of the valid state updates at the end of each epoch. Our model builds upon and extends the Bitcoin backbone protocol by defining consistency and scalability. Consistency encompasses the need for atomic execution of cross-shard transactions to preserve safety, whereas scalability encapsulates the speedup a sharded system can gain in comparison to a non-sharded system. We introduce a protocol abstraction and highlight the sufficient components for secure and efficient sharding in our model. In order to show the power of our framework, we analyze the most prominent shared blockchains (Elastico, Monoxide, OmniLedger, RapidChain) and pinpoint where they fail to meet the desired properties. For further information, please see our <a href="https://arxiv.org/abs/1910.10434">paper</a>.
+  
+  -
+     name: 'Rationality is Self-Defeating in Permissionless Systems'
+     authors: Bryan Ford and Rainer Bohme
+     challenges: [*scaling]
+     description: We outline a metacircular argument explaining why it is rational to be irrational when attacking open-world decentralized systems, and why systems whose security depend on rationality assumptions are insecure. Link to our <a href="https://arxiv.org/abs/1910.08820">paper</a>.
+  
+  -
+     name: 'SoK: Communication Across Distributed Ledgers'
+     authors: Alexei Zamyatin,Mustafa Al-Bassam, Dionysis Zindros, Eleftherios Kokoris-Kogias, Pedro Moreno-Sanchez, Aggelos Kiayias, and William J. Knottenbelt 
+     challenges: [*scaling, *correctness]
+     description: Since the inception of Bitcoin, a plethora of distributed ledgers differing in design and purpose has been created. While by design, blockchains provide no means to securely communicate with external systems, numerous attempts towards trustless cross-chain communication have been proposed over the years. Today, cross-chain communication (CCC) palys a fundamental role in cryptocurrency exchanges, scalability efforts via sharding, extension of existing systems through sidechains, and bootstrapping of new blockchains. Unfortunately, existing proposals are designed ad-hoc for specific use-cases, making it hard to gain confidence in their correctness and composability. We provide the first systematic exposition of cross-chain communication protocols. We formalize the underlying research problem and show that CCC is impossible without a trusted third party, contrary to common beliefs in the blockchain community. With this result in mind, we develop a framework to design new and evaluate existing CCC protocols, focusing on the inherent trust assumptions thereof, and derive a classification covering the field of cross-chain communication to date. We conclude by discussing open challenges for CCC research and the implications of interoperability on the security and privacy of blockchains. For more information, please see our <a href="https://eprint.iacr.org/2019/1128">paper</a>.  
      
   - 
      name: 'All Smart Contracts Are Ambiguous'
@@ -804,6 +822,24 @@ projects:
      challenges: [*scaling, *correctness]
      description: Dozens of Proof-of-Stake cryptocurrencies are vulnerable to resource exhaustion attacks due to incomplete validation of blocks prior to allocating storage resources (disk, memory) to data from untrusted peers. For further details, please see our <a href="https://fc19.ifca.ai/preproceedings/180-preproceedings.pdf">paper</a>.
 
+  -
+     name: 'Prism: Scaling Bitcoin by 10,000x'
+     authors: Lei Yang, Vivek Bagaria, Gerui Wang, Mohammad Alizadeh, David Tse, Giulia Fanti, and Pramod Viswanath
+     challenges: [*scaling]
+     description: Bitcoin is the first fully decentralized permissionless blockchain protocol and achieves a high level of security - the ledger it maintains has guaranteed liveness and consistency properties as long as the adversary has less compute power than the honest nodes. However, its throughput is only 7 transactions per second and the confirmation latency can be up to hours. Prism is a new blockchain protocol which is designed to achieve a natural scaling of Bitcoin performance while maintaining its full security guarantees. We present an implementation of Prism which achieves a throughput of 70,000 transactions per second and confirmation latencies of tens of seconds. For more information, please see our <a href="https://arxiv.org/abs/1909.11261?msclkid=09761846d0a111ec882b9a6f80a8766f">paper</a>.
+  
+  -
+     name: 'Barracuda: The Power of l-polling in Proof-of-Stake Blockchains'
+     authors: Giulia Fanti, Jiantao Jiao, Ashok Makkuva, Sewoong Oh, Ranvir Rana, and Pramod Viswanath
+     challenges: [*scaling]
+     description: a blockchain is a database of sequential events that is maintained by a distributed group of nodes. A key consensus problem in blockchains is that of determining the next block (data element) in the sequence. Many blockchains address this by electing a new node to propose each new block. The new block is (typically) appended to the tip of the proposer local blockchain, and subsequently broadcast tp the rest of the network. Without network delay (or adversarial behavior), this procedure would give a perfect chain, since each proposer would have the same view of the blockchain. A major challenge in practice is forking. Due to network delays, a proposer may not yet have the most recent block, and may, therefore, create a side chain that branches from the middle of the main chain. Forking reduces throughput, since only one a single main chain can survive, and all other blocks are discarded. We propose a new P2P protocol for blockchains called Barracuda, in which each proposer, prior to proposing a block, polls l other nodes for their local blocktree information. Under a stochastic network model, we prove that this lightweight primitive improves throughput as if the entire network were a factor of l faster. We provide guidelines on how to implement Barracuda in practice, gurarnteeing robustness against several real-world factors. For further information, please see our <a href="https://arxiv.org/abs/1909.08719?msclkid=f098b6aed0a111ec93fd5e9c23e16585">paper</a>.
+  
+  -
+     name: 'A Classification Framework for Stablecoin Designs'
+     authors: Amani Moin, Emin Gun Sirer, and Kevin Sekniqi
+     challenges: [*migration]
+     description: Stablecoins promise to bridge fiat currencies with the world of cryptocurrencies. They provide a way for users to take advantage of the benefits of digital currencies, such as ability to transfer assets over the internet, provide assurance on minting schedules and scarcity, and enable new asset classes, while also partially mitigating their volatility risks. In this paper, we systematically discuss general design, decompose existing stablecoins into various component design elements, explore their strengths and drawbacks, and identify future directions. For more information, please see our <a href="https://arxiv.org/abs/1910.10098">paper</a>.
+     
   -
      name: 'DECO'
      authors: Fan Zhang, Sai Krishna Deepak Maram, Harjasleen Malvai, Steven Goldfeder, and Ari Juels
