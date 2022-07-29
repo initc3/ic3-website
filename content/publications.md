@@ -2,6 +2,7 @@
 
 ## 2022 ##
 
+- E. Prasad. [After the Fall: Bitcoin's true lagacy may be blockchain technology](https://www.tandfonline.com/doi/pdf/10.1080/00963402.2022.2087371?needAccess=true). Bulletin of the Atomic Scientists, 2022.
 - G. Fanti, K. Kostiainen, W. Howlett, J. Lipsky, O. Moehr, J.P. Schnapper-Casteras, and J. Wolff. [MISSING KEY: The Challenge of Cybersecurity and Central Bank Digital Currency](https://www.atlanticcouncil.org/wp-content/uploads/2022/06/Missing_key.pdf). Atlantic Council, 2022. 
 - I. Komargodski, S. Matsuo, E. Shi, and K. Wu. [log*-Round Game-Theoretically-Fair Leader Election](https://eprint.iacr.org/2022/791.pdf). CRYPTO, 2022.
 - I. Abraham, M. Ben-David, and S. Yandamuri. [Efficient and Adaptively Secure Asynchornous Binary Agreement via Binding Crusader Agreement](https://eprint.iacr.org/2022/711.pdf). PODC, 2022.
