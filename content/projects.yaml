@@ -30,12 +30,24 @@ challenges :
 
 projects:
 
+  -
+     name: 'After the fall: Bitcoin's true legacy may be blockchain technology'
+     authors: Eswar Prasad
+     challenges: [*migration]
+     description: Bitcoin and its peers have set off a technological revolution that will transform money, finance, and society. However, the future of cryptocurrencies as financial assets is far from certain - as can be seen from Bitcoin halving in value in six months since November 2021, the total value of all cryptocurrencies fell from $3 trillion to $1.3 trillion over this period. Rather, it is the underlying technology that enables cryptocurrency - the blockchain - that is likely to prove its true legacy. For further information, please my <a href="https://www.tandfonline.com/doi/pdf/10.1080/00963402.2022.2087371?needAccess=true">paper</a>.
+  
   - 
      name: 'Blockchains as Infrasctructure and Semicommons'
      authors: James Grimmelmann and A. Jason Windawi
      challenges: [*compliance, *good]
      description: Blockchains are not self-executing machines. They are resources systems, designed by people, maintained by people, and governed by people. Their technical protocols help to solve some difficult problems in shared resource management, but behind those protocols there are always communities of people struggling with familiar challenges in governing their provision and use of common infrastructure. In this Essay, we describe blockchains as shared, distributed transactional ledgers using two frameworks from commons theory. According to Brett Frischmann the theory of infrastructure provides an external view, showing how blockchains provide useful, generic infrastructure for recording transactions, and why that infrastructure is most naturally made available on common, non-discriminatory terms. According to Henri Smith the theory of semicommons provides an internal view, showing how blockchains intricately combine private resources (such as physical hardware and on-chain assets) with common resources (such as the shared transactional ledger and the blockchain protocol itself). We then detail how blockchains struggle with many the governance challenges that these frameworks predict, requiring blockchain communities to engage in extensive off-chain governance work to coordinate their uses and achieve consensus. Blockchains function as infrastructure and semicommons not in spite of the human element, but because of it. For more information, please see our <a href="https://james.grimmelmann.net/files/articles/blockchains-infrastructure-semicommons.pdf">paper</a>.
 
+  -
+     name: 'log*-Round Game-Theoretically-Fair Leader Election'
+     authors: Ilan Komargodski, Shinichiro Matsuo, Elaine Shi, and Ke Wu
+     challenges: [*migration, *correctness]
+     description: It is well-known that in the presence of majority coalitions, strongly fair coin toss is impossible. A line of recent works have shown that by relaxing the fairness notion to game theoretic, we can overcome this classical lower bound. In particular, Chung et al. (CRYPTO, 2021) showed how to achieve approximately (game-theoretically) fair leader election in the presence of majority coalitions, with round complexity as small as O(log log n) rounds. In this paper, we revisit the round complexity of game-theoretically fair leader election. We construct O(log* n) rounds leader election protocols that achieve (1-O(1))-approximate fairness in the presence of (1-O(1))n-sized coalitions. Our protocols achieve the same round-fairness trade-offs as Chung et al. and have the advantage of being conceptually simpler. Finally, we also obtain game-theoretically fair protocols for committee election which might be of independent interest. For more information, please see our <a href="https://eprint.iacr.org/2022/791">paper</a>.
+     
   - 
      name: 'Safe Permissionless Consensus'
      authors: Youer Pu, Lorenzo Alvisi, and Ittay Eyal
@@ -859,17 +871,71 @@ projects:
      description: DECO is a privacy-preserving oracle protocol. Using cryptographic techniques, it lets users prove facts about thier web (TLS) sessions to oracles while hiding privacy-sensitive data. For more information, see <a href="https://www.deco.works/">deco.works</a>.
 
   -
+     name: 'Impossibility of Full Decentralization in Permissionless Blockchains'
+     authors: Yujin Kwon, Jian Liu, Mingjeong Kim, Dawn Song, and Yongdae Kim
+     challenges: [*scaling]
+     description: Bitcoin uses the proof-of-work (PoW) mechanism where nodes earn rewards in return for the use of their computing resources. Although this incentive system has attracted many participants, power has, at the same time, been significantly biased towards a few nodes, called mining pools. In addition, poor decentralization appears not only in PoW-based coins but also in coins that adopt proof-of-stake (PoS) and delegated proof-of-stake (DPoS) mechanisms. For more information, please see our <a href="https://arxiv.org/pdf/1905.05158.pdf">paper</a>.  
+     
+  -
+     name: 'Asynchronous Consensus Without Rounds'
+     authors: Robbert van Renesse
+     challenges: [*migration]
+     description: Fault tolerant consensus protocols usually involve ordered rounds of voting between a collection of processes. In this paper, we derive a general specification of fault tolerant asynchronous consensus protocols and present a class of consensus protocols that refine this specification without using rounds. Crash-tolerant protocols in this class use 3f + 1 processes, while Byzantine-tolerant protocols use 5f + 1 processes. Link to my <a href="https://arxiv.org/pdf/1908.10716.pdf">work</a>.
+     
+  -
      name: 'Teechain: A Secure Payment Network with Asynchronous Blockchain Access'
      authors: Joshua Lind, Oded Naor, Ittay Eyal, Florian Kelbert, Peter Pietzuch, and Emin Gün Sirer
      challenges: [*scaling]
      description: Teechain is the first asynchronous second layer payment network that allows users to execute immediate payments while not requiring parties to constantly monitor the blockchain. Teechain leverages trusted execution environments (TEEs) and uses a new variant of chain replication to ensure security against TEE compromise and side-channel attacks. Teechain achieves at least 33x better throughput than other existing payment networks. For more info, please see our <a href="https://www.teechain.network">paper</a>.
 
   -
+     name: 'FabZK: Supporting Privacy-Preserving, Auditable Smart Contracts in Hyperledger Fabric'
+     authors: Hui Kang, Ting Dai, Nerla Jean-Louis, Shu Tao, and Xiaohui Gu
+     challenges: [*compliance, *correctness]
+     description: On a Blockchain network, transaction data are exposed to all participants. To preserve privacy and confidentiality in transactions, while still maintaining data immutability, we design and implement FabZK. FabZK conceals transaction details on a shared ledger by storing only encrypted data from each transaction (e.g., payment amount), and by anonymizing the transactional relationship (e.g., payer and payee) between members in a Blockchain network. It achieves both privacy and auditability by supporting verifiable Pedersen commitments and constructing zero-knowledge proofs. FabZK is implemented as an extension to the open source Hyperledger Fabric. It provides APIs to easily enable data privacy in both client code and chaincode. It also supports on-demand, automated auditing based on encrypted data. Our evaluation shows that FabZK offers strong privacy-preserving capabilities, while delivering reasonable performance for the applications developed based on its framework. For further information, please see our <a href="https://ieeexplore.ieee.org/document/8809514">paper</a>.
+     
+  -
+     name: 'HoneyBadgerMPC and AsynchroMix: Practical AsynchronousMPC and its Application to Anonymous Communication'
+     authors: Donghang Lu, Thomas Yurek, Samarth Kulshreshtha, Rahul Govind, Rahul Mahadev, Aniket Kate, and Andrew Miller 
+     challenges: [*scaling, *compliance]
+     description: Multiparty computation as a service (MPSaaS) is a promising approach for building privacy-preserving communication systems. However, in this paper, we argue that existing MPC implementations are inadequate for this application as they do not address fairness, let alone robustness. Even a single malicious server can cause the protocol to abort while seeing the output for itself, which in the context of an anonymous communication service would create a vulnerability to censorship and deanonymization attacks. To remedy this we propose a new MPC implementation, HoneyBadgerMPC, that combines a robust online phase with an optimistic offline phase that is efficient enough to run continously alongside the online phase. We use HoneyBadgerMPC to develop an application case study, called AsynchroMix, that provides an anonymous broadcast functionality. AsynchroMix features a novel MPC program that trades off between computation and communication, allowing for low-latency message mixing in varying settings. In a cloud-based distributed benchmark with 100 nodes, we demonstrate mixing a batch of 512 messages in around 20 seconds and up to 4096 messages in around two minutes. For more information, please see our <a href="https://eprint.iacr.org/2019/883.pdf">paper</a>.
+     
+  -
+     name: 'HotStuff: BFT Consensus with Linearity and Responsiveness' 
+     authors: Maofan Yin, Dahlia Malkhi, Micahel K. Reiter, Guy Golan Gueta, and Itai Abraham
+     challenges: [*migration, *correctness]
+     description: We present HotStuff, a leader-based Byzantine fault-tolerant replication protocol for the partially synchronous model. Once network communication becomes synchronous, HotStuff enables a correct leader to drive the protocol to consensus at the pace of actual (vs. maximum) network delay - a property called responsiveness - and with communication complexity that is linear in the number of replicas. To our knowledge, HotStuff is the first partially synchronous BFT replication protocol exhibiting these combined properties. Its simplicity enables it to be further pipelined and simplified into a practical, concise protocol for building large-scale replication services. For more information, please see our <a href="https://dl.acm.org/doi/pdf/10.1145/3293611.3331591">paper</a>.
+     
+  -
+     name: 'Bitcontracts: Supporting Smart Contracts in Legacy Blockchains'
+     authors: Karl Wust, Loris Diana, Kari Kostiainen, Ghassan Karame, Sinisa Matetic, and Srdjan Capkun
+     challenges: [*compliance, *confidentiality]
+     description: In this paper we propose Bitcontracts, a novel solution that enables secure and efficient execution of generic smart contracts on top of unmodified legacy cryptocurrencies like Bitcoin that do not support contracts natively. The starting point of our solution is an off-chain execution model, where the contract issuers appoints a set of service providers to execute the contract code. The contract execution results are accepted if a quorum of service providers reports the same results and clients are free to choose which such contracts they trust and use. The main technical contribution of this paper is how to realize such a trust model securely and efficiently without modifying the underlying blockchain. We also identify a set of generic properties that a blockchain system must support so that expressive smart contracts can be added safely, and analyze popular existing blockchains based on these criteria. For further information, please see our <a href="https://eprint.iacr.org/2019/857">paper</a>. 
+     
+  -
+     name: 'ACE: Asynchronous and Concurrent Execution of Complex Smart Contracts'
+     authors: Karl Wust, Sinisa Matetic, Silvan Egli, Kari Kostiainen, and Srdjan Capkun 
+     challenges: [*compliance, *adf]
+     description: Smart contracts are programmable, decentralized and transparent financial applications. Because smart contract platforms typically support Turing-complete programming languages, such systems are often said to enable arbitrary applications. However, the current permissionless smart contract systems impose heavy restrictions on the types of computations thata can be implemented. For example, the globally-replica ted and sequential execution model of Ethereum requires low gas limits that make many computations infeasible. In this paper, we propose a novel system called ACE whose main goal is to enable more complex smart contracts on permissionless blockcahins. ACE is based on an off-chain execution model where the contract issuers appoint a set of service providers to execute the contract code independent from the consensus layer. The primary advantage of ACE over previous solutions is that it allows one contract to safely call another contract that is executed by a different set of service providers. Thus, ACE is the first solution to enable off-chain execution of interactive smart contracts with flexible trust assumptions. Our evalution shows that ACE enables several orders of magnitude more complex smart contracts than standard Ethereum. For more information, please see our <a href="https://eprint.iacr.org/2019/835">paper</a>.  
+     
+  -
+     name: 'Threshold Logical Clocks for Asynchronous Distributed Coordination and Consensus'
+     authors: Bryan Ford
+     challenges: [*migration]
+     description: Consensus protocols for asynchronous networks are usually complex and inefficient, leading practical systems to rely on synchronous protocols. This paper attempts to simplify asynchronous consensus by building atop a novel threshold logical clock abstraction, which enables upper layers to operate as if on a synchronous network. This approach yields an asynchronous consensus protocol for fail-stop nodes that may be simpler and more robust than Paxos and its leader-based variants, requiring no common coins and achieving consensus in a constant expected number of rounds. The same approach can be strengthened against Byzantine failures by building on well-established techniques such as tamper-evident logging and gossip, accountable state machines, threshold signatures and witness cosigning, and verifiable secret sharing. This combination of existing abstractions and threshold logical clocks yields a modular, cleanly-layered approach to building practical and efficient Byzantine consensus, distributed, timestamping, and randomness beacons, and other critical services. Link to my <a href="https://arxiv.org/pdf/1907.07010.pdf">work</a>.  
+  
+  -
+     name: 'Fair Byzantine Agreements for Blockchains'
+     authors: Po-Chun Kuo, Hao Chung, Tzu-Wei Chao, and Chen-Mou Cheng
+     challenges: [*correctness]
+     description: The Byzantine general problem is the core problem that consensus algorithms are trying to solve, which is at the heart of the design of blockchains. As a result, we have seen numerous proposals of consensus algorithms in recent years, trying to improve the level of decentralization, performance, and security of blockchains. In our opinion, there are two most challenging issues when we consider the design of such algorithms in the context of powering blockchains in practice. First, the outcome of a consensus algorithm usually depends on the underlying incentive model, so each participant should have an equal probability of receiving rewards for its work. Secondly, the protocol should be able to resist network failures, such as cloud services shutdown, while maintaining high performance otherwise. We address these two critical issues in this paper. First, we propose a new metric, called fair validity, for measuring the performance of Byzantine agreements. Intuitively, fair validity provides a lower bound for the probability of acceptances of honest nodes proposals. This is a strong notion of fairness, and we argue that it is crucial for the success of a blockchain in practice. We then show that any Byzantine agreement could not achieve fair validity in an asynchronous network, so we will focus on synchronous protocols. This leads to our second contribution - we propose a fair, responsive, and partition-resilient Byzantine agreement protocol able to tolerate up to 1/3 corruptions. As we will show in the paper, our protocol achieves fair validity and is responsive in the sense that the termination time only depends on actual network delay, as opposed to arbitrary, pre-determined time-bound. Furthermore, our proposal is partition-resilient. Last but not least, experimental results show that our Byzantine agreement protocol outperforms a wide variety of state-of-the-art synchronous protocols, combining the best from both theoretic and practical worlds. For more information, please see our <a href="https://ieeexplore.ieee.org/document/9062491?source=authoralert">paper</a>.    
+     
+  -
      name: 'Ostraka'
      authors: Alex Manuskin, Michael Mirkin, and Ittay Eyal
      challenges: [*scaling]
      description: Currently, the capacity of a blockchain node can only scale by replacing hardware. For better performance, one must obtain newer hardware. Node capacity effects both initial sync time and block propagation time in the network. We utilize the parallel nature of the UTXO set to build a scalable node architecture. For more info, please see our <a href="https://arxiv.org/abs/1907.03331">paper</a>.
-
+ 
   - 
      name: 'Pay To Win: Cheap, Crowdfundable, Cross-chain Algorithmic Incentive Manipulation Attacks on PoW Cryptocurrencies'
      authors: Aljosha Judmayer, Nicholas Stifter, Alexei Zamyatin, Itay Tsabary, Ittay Eyal, Peter Gazi, Sarah Meiklejohn, and Edgar Weippl
@@ -882,6 +948,18 @@ projects:
      challenges: [*scaling]
      description: BFT consensus used by cryptocurrencies consists of two families, traditional consensus and Nakamoto's consensus. The former is usually leader-based, quadratic in message complexity. It requires precise membership knowledge, and suffers from leader bottleneck as it scales up in size. While the latter does not require membership, it is poor in performance and wasteful in energy due to PoW. This project proposes the third, new category of consensus protocols that is PoW-free, leader-less, committee-less, permission-less. It exerts the powerful meta-stability inspired by epidemic protocols, and operators as fast as the network propagates. For more info, please see our <a href="https://avalanchelabs.org/QmT1ry38PAmnhparPUmsUNHDEGHQusBLD6T5XJh4mUUn3v.pdf">avalabs.org</a>.
 
+  -
+     name: 'Robust and Scalable Consensus for Sharded Distributed Ledgers'
+     authors: Eleftherios Kokoris-Kogias
+     challenges: [*scaling]
+     description: ByzCoin, a promising alternative of Bitcoin, is a scalable consensus protocol used as a building block of many research and enterprise-level decentralized systems. In this paper, we show that ByzCoin is unsuitable for deployment in an anopen, adversarial network and instead introduce MOTOR. MOTOR is designed as a secure, robust, and scalable consensus suitable for permissionless sharded blockchains. MOTOR achieves these properties by making four key design choices - (a) it prioritizes robustness in adversarial environments while maintaining adequate scalability, (b) it employees provably correct cryptography that resists DoS attacks from individual nodes, (c) it deploys unpredictable rotating leaders to defend against mildly-adaptive adversaries and prevents censorship, and (d) it creates an incentive compatible reward mechanism. These choices are materialized as (a) a *rotating subleader* communication pattern that balances the scalability needs with the robustness requirements under failures, (b) deployment of provable secure BLS multi-signatures, (c) use of deterministic threshold signatures as a source of randomness and (d) careful design of the reward allocation mechanism. We have implemented MOTOR and compare it with ByzCoin. We show that MOTOR can scale similar to ByzCoin with an at most 2x overhead whereas it maintains good performance even under high-percentage of faults, unlike ByzCoin. Link to my <a href="https://eprint.iacr.org/2019/676">work</a>.     
+  
+  -
+     name: 'LazyLedger: A Distributed Data Availability Ledger with Client-Side Smart Contracts'
+     authors: Mustafa Al-Bassam
+     challenges: [*migration, *correctness]
+     description: We propose LazyLedger, a design for distributed ledgers where the blockchain is optimised for solely ordering and guaranteeing the availability of transaction data. Responsibility for executing and validating transactions relating to blockchain applications that they use. As the core function of the consensus system of a distributed ledger is to order transactions and ensure their availability, consensus participants do not necessarily need to be concerned with the contents of those transactions. This reduces the problem of block verification to data availability verification, which can be achieved probabilistically with sub-linear complexity, without downloading the whole block. The amount of resources required to reach consensus can thus be minimised, as transaction validity rules can be decoupled from consensus rules. We also implement and evaluate several example LazyLedger applications, and validate that the workload of clients of specific applications does not significantly increase when the workload of other applications that use the same chain increase. Link to my <a href="https://arxiv.org/pdf/1905.09274.pdf">work</a>.  
+     
   - 
      name: 'Charlotte'
      authors: Isaac Sheff, Xinwen Wang, Haobin Ni, Robbert van Renesse, and Andrew C. Myers
