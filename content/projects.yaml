@@ -31,7 +31,7 @@ challenges :
 projects:
 
   -
-     name: 'After the fall: Bitcoin's true legacy may be blockchain technology'
+     name: 'After the fall: Bitcoin true legacy may be blockchain technology'
      authors: Eswar Prasad
      challenges: [*migration]
      description: Bitcoin and its peers have set off a technological revolution that will transform money, finance, and society. However, the future of cryptocurrencies as financial assets is far from certain - as can be seen from Bitcoin halving in value in six months since November 2021, the total value of all cryptocurrencies fell from $3 trillion to $1.3 trillion over this period. Rather, it is the underlying technology that enables cryptocurrency - the blockchain - that is likely to prove its true legacy. For further information, please my <a href="https://www.tandfonline.com/doi/pdf/10.1080/00963402.2022.2087371?needAccess=true">paper</a>.
