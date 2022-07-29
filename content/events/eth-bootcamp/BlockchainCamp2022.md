@@ -51,13 +51,13 @@ We will offer two overlapping tracks: a coding track and a presentation track.
   </div>
   
   
-  **Camp Draft Schedule**
+  **Camp Schedule**
   
-  Monday through Friday will feature talks open to registered participants by blockchain leaders from academia, industry, and the open source community. Please see below for a draft schedule.
+  The camp will cover a range of exciting blockchain topics including DeFi, cryptography, scaling, NFTs, and more! Content will include talks, tutorials, and panels hosted by blockchain leaders, academia, industry, and the open source community. Please see below the camp schedule.
   
   <div class="ui center aligned basic segment">
     <div class="ui center image">
-        <img class="ui image" src="../images/events/blockchain-camp-2022/DraftCampSchedule2022.png" alt="" />
+        <img class="ui image" src="../images/events/blockchain-camp-2022/BlockchainCampSchedule2022.png" alt="" />
     </div>
   </div>    
   
