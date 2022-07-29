@@ -6,6 +6,8 @@
 - I. Komargodski, S. Matsuo, E. Shi, and K. Wu. [log*-Round Game-Theoretically-Fair Leader Election](https://eprint.iacr.org/2022/791.pdf). CRYPTO, 2022.
 - I. Abraham, M. Ben-David, and S. Yandamuri. [Efficient and Adaptively Secure Asynchornous Binary Agreement via Binding Crusader Agreement](https://eprint.iacr.org/2022/711.pdf). PODC, 2022.
 - I. Abraham and G. Asharov. [Gradecast in Synchrony and Reliable Broadcast in Asynchrony with Optimal Resilience, Efficiency, and Unconditional Security](https://eprint.iacr.org/2022/264). PODC, 2022.
+- I. Abraham, T-H. Hubert Chan, D. Dolev, K. Nayak, R. Pass, L. Ren, and E. Shi. [Communication complexity of Byzantine Agreement, revisited](https://link.springer.com/article/10.1007/s00446-022-00428-8). PODC, 2022.
+- N. Ben-David, B.Y. Chan, and E. Shi. [Revisiting the Power of Non-Equivocation in Distributed Protocols](https://dl.acm.org/doi/abs/10.1145/3519270.3538427). PODC, 2022.
 - M. Vuppalapati, K. Babel, A. Khandelwal, and R. Agarwal. [SHORTSTACK: Distributed, Fault-tolerant, Oblivious Data Access](https://eprint.iacr.org/2022/662). USENIX OSDI, 2022. 
 - G. Kappos, H. Yousaf, R. Stutz, S. Rollet, B. Haslhofer, and S. Meiklejohn. [How to Peel a Million: Validating and Expanding Bitcoin Clusters](https://smeiklej.com/files/usenix22.pdf). USENIX, 2022.
 - A. de la Rocha, E. Kokoris-Kogias, J. Soares, and M. Vukolic. [Hierarchical consensus: A horizontal scaling framework for blockchains](https://research.protocol.ai/publications/hierarchical-consensus-a-horizontal-scaling-framework-for-blockchains/). DINPS, 2022.
