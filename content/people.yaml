@@ -206,6 +206,14 @@ students:
     weburl:
     bio: "James is a Computer Science Ph.D. student at Cornell University working with prof. Ari Juels. His interests include blockchains, cryptocurrency, privacy, and smart contracts."
   
+  -
+    name: 'Ke Wu'
+    pic: Ke.jpeg
+    title:
+    email: kew2@andrew.cmu.edu
+    weburl: 'https://kewucs.com/'
+    bio: "Ke Wu is a PhD student at Carnegie Mellon University, advised by Elaine Shi. She is interested in the intersection of cryptography and game theory, as well as coding theory and related areas in theoretical computer science."
+    
   - 
     name: 'Mahimna Kelkar'
     pic: mahimna.jpg
