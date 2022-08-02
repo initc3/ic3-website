@@ -207,6 +207,14 @@ students:
     bio: "James is a Computer Science Ph.D. student at Cornell University working with prof. Ari Juels. His interests include blockchains, cryptocurrency, privacy, and smart contracts."
   
   -
+    name: 'Zhe Ye'
+    pic: Zhe.jpg
+    title:
+    email: zhey@berkeley.edu
+    weburl:
+    bio: "Zhe Ye is a Ph.D. student in Computer Science at UC Berkeley advised by prof. Dawn Song. His research interests include the scalability and security of decentralized systems."
+   
+  -
     name: 'Ke Wu'
     pic: Ke.jpg
     title:
