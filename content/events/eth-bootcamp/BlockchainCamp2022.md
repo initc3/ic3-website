@@ -57,7 +57,7 @@ We will offer two overlapping tracks: a coding track and a presentation track.
   
   <div class="ui center aligned basic segment">
     <div class="ui center image">
-        <img class="ui image" src="../images/events/blockchain-camp-2022/BlockchainCampSchedule2022.png" alt="" />
+        <img class="ui image" src="../images/events/blockchain-camp-2022/UpdatedCampSchedule2022.jpg" alt="" />
     </div>
   </div>    
   
