@@ -221,6 +221,14 @@ students:
     email: kew2@andrew.cmu.edu
     weburl: 'https://kewucs.com/'
     bio: "Ke Wu is a PhD student at Carnegie Mellon University, advised by Elaine Shi. She is interested in the intersection of cryptography and game theory, as well as coding theory and related areas in theoretical computer science."
+  
+  -
+    name: 'Ujval Misra'
+    pic: Ujval.jpg
+    title:
+    email: ujval@berkeley.edu
+    weburl: 'https://ujval.co/'
+    bio: "Ujval is a PhD student at UC Berkeley working with Dawn Song. His research interests broadly lie in security, privacy and decentralized trust."
     
   - 
     name: 'Mahimna Kelkar'
