@@ -44,14 +44,6 @@ staff:
     bio: "Jim Ballingall is the IC3 Executive Director, responsible for community outreach, engagement, and support of the IC3 partners and ecosystem. Jim earned a Ph.D. in Applied Physics from Cornell, and a B.S. in\n    Engineering Physics from U.C. Berkeley. Jim also directs the\n    Industry-Academia Partnership, a consortium founded by Cornell with\n    other top universities and leading companies pursuing next generation\n    computing technologies. At a recent IC3 NYC Meetup, he stated, \"The\n    summer of 2016 saw $50M+ security breaches in both Ethereum and Bitcoin;\n    these underscore the urgent need for fast and reliable blockchain\n    solutions rooted in truly rigorous cryptography, game theory and\n    computer science...IC3 is committed to collaborate with its partners to\n    fulfill that need, with practical open source solutions that overcome\n    the greatest challenges to widespread blockchain adoption.\"\n"
 
   -
-    name: 'Tyler Kell'
-    pic: tylerkell.jpg
-    title: 'Research Engineer'
-    email: sk3259@cornell.edu
-    weburl:
-    bio: 'Tyler Kell is a research engineer at IC3. In a previous life, Tyler was a penetration tester, and enjoys an extensive history of breaking security assumptions.'
-
-  -
     name: 'Sarah Allen'
     pic: sarah-allen.jpg
     title: 'IC3 Research Program Manager'
@@ -775,7 +767,15 @@ alumni_researchers:
     weburl:
     bio: "Linus is working with his team of engineers to interface between PhD-students from Bryan Ford’s lab and industry partners. He likes to work with semester students, too, and help them to understand the implication of decentralised, distributed systems, and how ECC fits into that picture. His long-term goal is to build software for scalable, self-organizing communities. The current effort is at <a href=\"https://github.com/dedis/cothority\">Cothority</a>.\n"
  
- 
+  -
+    name: 'Tyler Kell'
+    pic: tylerkell.jpg
+    title: 'Research Engineer'
+    email: sk3259@cornell.edu
+    weburl:
+    bio: 'Tyler Kell is a research engineer at IC3. In a previous life, Tyler was a penetration tester, and enjoys an extensive history of breaking security assumptions.'
+
+
 alumni_postdocs:
 
   -
