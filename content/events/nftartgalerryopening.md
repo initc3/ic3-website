@@ -7,7 +7,7 @@ summary: Please join us for an evening of art and research talks to celebrate th
 ---
 
 <div class="ui piled segment'>
-  <img class="ui centered image" src="../images/events/blockchain-camp-2022/ic3 logo new.png" alt="" />
+  <img class="ui centered image" src="../images/events/NFTartgalleryopening2022/ic3 logo new.png" alt="" />
 </div>
    
                                                                                                     
