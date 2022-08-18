@@ -11,10 +11,10 @@ summary: Please join us for an evening of art and research talks to celebrate th
 </div>
    
                                                                                                     
-<strong> Register for the event <a href="https://www.eventbrite.com/e/nft-art-gallery-opening-at-cornell-tech-presented-by-ic3-tickets-403154515007">here</a>. </strong>
+**Register for the event <a href="https://www.eventbrite.com/e/nft-art-gallery-opening-at-cornell-tech-presented-by-ic3-tickets-403154515007">here</a>.**
          
      
-<strong> About this event </strong>
+**About this event**
                                                                                                                                                     
 The Initiative for CryptoCurrencies and Contracts (IC3) invites you to an evening of art, cutting-edge research, and NFTs. Join us for the inaugural NFT art gallery opening at Cornell Tech in New York City. Light refreshments will be served.
                                                                                                                                                     
@@ -22,7 +22,7 @@ Non-Fungible Tokens (NFTs) have created an exciting new area of research at the 
                                                                                                                                                     
 On display will be historically important NFTs loaned to IC3 during the event for an experiential experiment. 
                                                                                                                                                     
-<strong> Featured event speakers will include: </strong>    
+**Featured event speakers will include:**  
                                                                                                                                                     
   - Ittay Eyal (Technion)
   - James Grimmelmann (Cornell Tech)
@@ -31,7 +31,7 @@ On display will be historically important NFTs loaned to IC3 during the event fo
   - Fernanda Viegas (Harvard University)
   - Martin Wattenberg (Harvard University)
                                                                                                                                                     
-<strong> event topics will include: </strong>  
+**Event topics will include:** 
                                                                                                                                                     
   - Combatting bots in NFT drops and marketplaces
   - NFT copyright
