@@ -6,7 +6,7 @@ end: 2022-10-03
 summary: Please join us for an evening of art and research talks to celebrate the opening of the NFT art gallery at Cornell Tech in New York City.
 ---
 
-<div class="ui piled segment'>
+<div class="ui piled segment">
   <img class="ui centered image" src="../images/events/NFTartgalleryopening2022/ic3 logo new.png" alt="" />
 </div>
    
