@@ -20,16 +20,18 @@ Thank you to everyone who joined us for the 7th Annual IC3 Blockchain Camp! This
 
 # Camp Sponsors
 
-<div class="ui small images" align="center">
-	<img class="ui image" id="chainlink" src="images/events/blockchain-camp-2022/chainlink.png">
-	<img class="ui image" id="ethereum" src="images/events/blockchain-camp-2022/ethereum.png">
-	<img class="ui image" id="fidelity fcat" src="images/events/blockchain-camp-2022/FCAT logo.png">
- 	<img class="ui image" id="ibm" src="images/events/blockchain-camp-2022/ibm.png">
- 	<img class="ui image" style="height:70px !important;" id="intel" src="images/events/blockchain-camp-2022/intel.png">
- 	<img class="ui image" id="jpm" src="images/events/blockchain-camp-2022/jpm.png">
-	<img class="ui image" id="novi" src="images/events/blockchain-camp-2022/Meta.jpg">
-	<img class="ui image" id="protocollabs" src="images/events/blockchain-camp-2022/protocol-labs.png">
-	<img class="ui image" id="cog" src="images/events/blockchain-camp-2022/COG.png">
+<div class="ui center aligned basic segment">
+    <div class="ui small images">
+	<img class="ui image" id="chainlink" src="images/events/blockchain-camp-2022/chainlink.png" />
+	<img class="ui image" id="ethereum" src="images/events/blockchain-camp-2022/ethereum.png" />
+	<img class="ui image" id="fidelity fcat" src="images/events/blockchain-camp-2022/FCAT logo.png" />
+ 	<img class="ui image" id="ibm" src="images/events/blockchain-camp-2022/ibm.png" />
+ 	<img class="ui image" style="height:70px !important;" id="intel" src="images/events/blockchain-camp-2022/intel.png" />
+ 	<img class="ui image" id="jpm" src="images/events/blockchain-camp-2022/jpm.png" />
+	<img class="ui image" id="novi" src="images/events/blockchain-camp-2022/Meta.jpg" />
+	<img class="ui image" id="protocollabs" src="images/events/blockchain-camp-2022/protocol-labs.png" />
+	<img class="ui image" id="cog" src="images/events/blockchain-camp-2022/COG.png" />
+    </div>
 </div>
 
 # Camp Schedule and Activities
@@ -83,7 +85,7 @@ Project teams self-selected projects on sunday after considering the project pro
 <div class="ui piled segment">
     <img class="ui centered image" src="../images/events/blockchain-camp-2022/Project1.jpg" alt="" />
     <div class="ui bottom attached message">
-	    <strong>First Place</strong>: ***Client Security***<br>
+    <strong>First Place: "Client Security"</strong><br>
     <strong>Team Members</strong>: Ittay Eyal (project leader), Roi Bar-Zur (project leader), Kristian Gaylord, and Nicolas Serrano<br>
     <strong>Summary</strong>: ...<br>
     <strong>Resources</strong>: ...<br>    
@@ -93,9 +95,9 @@ Project teams self-selected projects on sunday after considering the project pro
 <div class="ui piled segment">
     <img class="ui centered image" src="../images/events/blockchain-camp-2022/Project2.jpg" alt="" />
     <div class="ui bottom attached message">
-    Second Place: <strong>Surprising Enclave Applications using Oasis Sapphire</strong><br>
-    Team Members: Andrew Miller (project leader), Sylvain Bellemare (project leader), Nerla Jean-Louis, Kevin Yu, Afonso Tinoco, and Zhengxun Wu<br>
-    Summary: ...<br>
+    <strong>Second Place: "Surprising Enclave Applications using Oasis Sapphire"</strong><br>
+    <strong>Team Members</strong>: Andrew Miller (project leader), Sylvain Bellemare (project leader), Nerla Jean-Louis, Kevin Yu, Afonso Tinoco, and Zhengxun Wu<br>
+    <strong>Summary</strong>: ...<br>
     Resources: ...<br>    
     </div>
 </div>
@@ -103,7 +105,7 @@ Project teams self-selected projects on sunday after considering the project pro
 <div class="ui piled segment">
     <img class="ui centered image" src="../images/events/blockchain-camp-2022/Project3.jpg" alt="" />
     <div class="ui bottom attached message">
-    <strong>Third Place</strong>: Application-Specific EVMs using Precompiled Contracts<br>
+    <strong>Third Place: "Application-Specific EVMs using Precompiled Contracts"</strong><br>
     <strong>Team Members</strong>: Patrick Kiefer (project leader), Edward Mehrez (project leader), Preston Rozwood (project leader), Connor Stein, Jim Tao, and Antenhe Tena<br>
     <strong>Summary</strong>: ...<br>
     <strong>Resources</strong>: ...<br>    
