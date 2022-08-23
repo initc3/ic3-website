@@ -21,15 +21,15 @@ Thank you to everyone who joined us for the 7th Annual IC3 Blockchain Camp! This
 # Camp Sponsors
 
 <div class="ui small images" align="center">
-	<img class="ui image sponsor logo" id="chainlink" src="images/events/blockchain-camp-2022/chainlink.png">
-	<img class="ui image sponsor logo" id="ethereum" src="images/events/blockchain-camp-2022/ethereum.png">
-	<img class="ui image sponsor logo" id="fidelity fcat" src="images/events/blockchain-camp-2022/FCAT logo.png">
- 	<img class="ui image sponsor logo" id="ibm" src="images/events/blockchain-camp-2022/ibm.png">
- 	<img class="ui image sponsor logo" style="height:70px !important;" id="intel" src="images/events/blockchain-camp-2022/intel.png">
- 	<img class="ui image sponsor logo" id="jpm" src="images/events/blockchain-camp-2022/jpm.png">
-	<img class="ui image sponsor logo" id="novi" src="images/events/blockchain-camp-2022/Meta.jpg">
-	<img class="ui image sponsor logo" id="protocollabs" src="images/events/blockchain-camp-2022/protocol-labs.png">
-	<img class="ui image sponsor logo" id="cog" src="images/events/blockchain-camp-2022/COG.png">
+	<img class="ui image" id="chainlink" src="images/events/blockchain-camp-2022/chainlink.png">
+	<img class="ui image" id="ethereum" src="images/events/blockchain-camp-2022/ethereum.png">
+	<img class="ui image" id="fidelity fcat" src="images/events/blockchain-camp-2022/FCAT logo.png">
+ 	<img class="ui image" id="ibm" src="images/events/blockchain-camp-2022/ibm.png">
+ 	<img class="ui image" style="height:70px !important;" id="intel" src="images/events/blockchain-camp-2022/intel.png">
+ 	<img class="ui image" id="jpm" src="images/events/blockchain-camp-2022/jpm.png">
+	<img class="ui image" id="novi" src="images/events/blockchain-camp-2022/Meta.jpg">
+	<img class="ui image" id="protocollabs" src="images/events/blockchain-camp-2022/protocol-labs.png">
+	<img class="ui image" id="cog" src="images/events/blockchain-camp-2022/COG.png">
 </div>
 
 # Camp Schedule and Activities
@@ -80,4 +80,12 @@ Project teams self-selected projects on sunday after considering the project pro
 
 **The Top 3 Projects:**
 
-
+<div class="ui pliled segment">
+    <img class="ui centered image" src="../images/events/blockchain-camp-2022/Project1.jpg" alt="" />
+    <div class="ui bottom attached message">
+    <strong>First Place: Client Security</strong><br>
+    <strong>Summary</strong>: ...<br>
+    <strong>Team Members</strong>: Roi Bar-Zur (project leader), Ittay Eyal (project leader), Kristian Gaylord, and Nicolas Serrano<br>
+    <strong>Resources</strong>: ...<br>    
+    </div>
+</div>
