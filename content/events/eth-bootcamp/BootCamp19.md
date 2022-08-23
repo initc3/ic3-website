@@ -71,7 +71,7 @@ There were 12 project teams. Awards were made to the top 3 teams at the Celebrat
 
 # Top 3 Projects - Award Winners at the Celebration and Awards Dinner
 
-<div class="ui pliled segment">
+<div class="ui piled segment">
     <img class="ui centered image" src="../images/events/boot-camp-2019/first place boot camp.jpg" alt="" />
     <div class="ui bottom attached message">
     <strong>First Place: Unconditional Key Knowledge</strong><br>
@@ -80,7 +80,7 @@ There were 12 project teams. Awards were made to the top 3 teams at the Celebrat
     </div>
 </div>
 
-<div class="ui pliled segment">
+<div class="ui piled segment">
     <img class="ui centered image" src="../images/events/boot-camp-2019/second place boot camp.jpg" alt="" />
     <div class="ui bottom attached message">
     <strong>Second Place: Coercion Resistance</strong><br>
@@ -89,7 +89,7 @@ There were 12 project teams. Awards were made to the top 3 teams at the Celebrat
     </div>
 </div>
 
-<div class="ui pliled segment">
+<div class="ui piled segment">
     <img class="ui centered image" src="../images/events/boot-camp-2019/third place boot camp.jpg" alt="" />
     <div class="ui bottom attached message">
     <strong>Third Place: Ethsites</strong><br>
