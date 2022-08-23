@@ -22,15 +22,15 @@ Thank you to everyone who joined us for the 7th Annual IC3 Blockchain Camp! This
 
 <div class="ui center aligned basic segment">
     <div class="ui small images">
-	<img class="ui image" id="chainlink" src="images/events/blockchain-camp-2022/chainlink.png" />
-	<img class="ui image" id="ethereum" src="images/events/blockchain-camp-2022/ethereum.png" />
-	<img class="ui image" id="fidelity fcat" src="images/events/blockchain-camp-2022/FCAT logo.png" />
- 	<img class="ui image" id="ibm" src="images/events/blockchain-camp-2022/ibm.png" />
- 	<img class="ui image" style="height:70px !important;" id="intel" src="images/events/blockchain-camp-2022/intel.png" />
- 	<img class="ui image" id="jpm" src="images/events/blockchain-camp-2022/jpm.png" />
-	<img class="ui image" id="novi" src="images/events/blockchain-camp-2022/Meta.jpg" />
-	<img class="ui image" id="protocollabs" src="images/events/blockchain-camp-2022/protocol-labs.png" />
-	<img class="ui image" id="cog" src="images/events/blockchain-camp-2022/COG.png" />
+	<img class="ui image" id="chainlink" src="../images/events/blockchain-camp-2022/chainlink.png" />
+	<img class="ui image" id="ethereum" src="../images/events/blockchain-camp-2022/ethereum.png" />
+	<img class="ui image" id="fidelity fcat" src="../images/events/blockchain-camp-2022/FCAT logo.png" />
+ 	<img class="ui image" id="ibm" src="../images/events/blockchain-camp-2022/ibm.png" />
+ 	<img class="ui image" style="height:70px !important;" id="intel" src="../images/events/blockchain-camp-2022/intel.png" />
+ 	<img class="ui image" id="jpm" src="../images/events/blockchain-camp-2022/jpm.png" />
+	<img class="ui image" id="novi" src="../images/events/blockchain-camp-2022/Meta.jpg" />
+	<img class="ui image" id="protocollabs" src="../images/events/blockchain-camp-2022/protocol-labs.png" />
+	<img class="ui image" id="cog" src="../images/events/blockchain-camp-2022/COG.png" />
     </div>
 </div>
 
