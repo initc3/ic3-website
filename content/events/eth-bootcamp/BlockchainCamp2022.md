@@ -93,17 +93,17 @@ Project teams self-selected projects on sunday after considering the project pro
 <div class="ui piled segment">
     <img class="ui centered image" src="../images/events/blockchain-camp-2022/Project2.jpg" alt="" />
     <div class="ui bottom attached message">
-    <strong>Second Place</strong>: ***Surprising Enclave Applications using Oasis Sapphire***<br>
-    <strong>Team Members</strong>: Andrew Miller (project leader), Sylvain Bellemare (project leader), Nerla Jean-Louis, Kevin Yu, Afonso Tinoco, and Zhengxun Wu<br>
-    <strong>Summary</strong>: ...<br>
-    <strong>Resources</strong>: ...<br>    
+    Second Place: <strong>Surprising Enclave Applications using Oasis Sapphire</strong><br>
+    Team Members: Andrew Miller (project leader), Sylvain Bellemare (project leader), Nerla Jean-Louis, Kevin Yu, Afonso Tinoco, and Zhengxun Wu<br>
+    Summary: ...<br>
+    Resources: ...<br>    
     </div>
 </div>
 
 <div class="ui piled segment">
     <img class="ui centered image" src="../images/events/blockchain-camp-2022/Project3.jpg" alt="" />
     <div class="ui bottom attached message">
-	    <strong>Third Place</strong>: ***Application-Specific EVMs using Precompiled Contracts***<br>
+    <strong>Third Place</strong>: Application-Specific EVMs using Precompiled Contracts<br>
     <strong>Team Members</strong>: Patrick Kiefer (project leader), Edward Mehrez (project leader), Preston Rozwood (project leader), Connor Stein, Jim Tao, and Antenhe Tena<br>
     <strong>Summary</strong>: ...<br>
     <strong>Resources</strong>: ...<br>    
