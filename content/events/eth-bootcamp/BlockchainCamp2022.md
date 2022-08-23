@@ -65,12 +65,12 @@ Content included talks, tutorials, and panels hosted by blockchain leaders, acad
 </div>
 
 
-The camp also featured social events including a rump session, games session, opening and closing dinners at the Statler Hotel, and a reception at the Herbert F. Johndon Museum of Art.
+The camp also featured social events including a rump session, games session, opening and closing dinners at the Statler Hotel, and a reception at the Herbert F. Johnson Museum of Art. IC3 Partner, Chainlink hosted a party for camp attendees at the Big Red Barn on the Cornell campus.
 
 <div class="ui piled segment">
   <img class="ui centered image" src="../images/events/blockchain-camp-2022/MuseumDinner.jpg" alt="" />
   <div class="ui bottom centered attached message">
-    <strong>Our Wednesday reception at HFJ Museum of Art.
+    <strong>Our Wednesday reception at Johnson Museum of Art.
 </strong><br>
   </div>    
 </div>
