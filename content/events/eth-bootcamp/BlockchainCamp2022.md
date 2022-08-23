@@ -80,12 +80,52 @@ Project teams self-selected projects on sunday after considering the project pro
 
 **The Top 3 Projects:**
 
-<div class="ui pliled segment">
+<div class="ui piled segment">
     <img class="ui centered image" src="../images/events/blockchain-camp-2022/Project1.jpg" alt="" />
     <div class="ui bottom attached message">
     <strong>First Place: Client Security</strong><br>
+    <strong>Team Members</strong>: Ittay Eyal (project leader), Roi Bar-Zur (project leader), Kristian Gaylord, and Nicolas Serrano<br>
     <strong>Summary</strong>: ...<br>
-    <strong>Team Members</strong>: Roi Bar-Zur (project leader), Ittay Eyal (project leader), Kristian Gaylord, and Nicolas Serrano<br>
     <strong>Resources</strong>: ...<br>    
     </div>
 </div>
+
+<div class="ui piled segment">
+    <img class="ui centered image" src="../images/events/blockchain-camp-2022/Project2.jpg" alt="" />
+    <div class="ui bottom attached message">
+    <strong>Second Place: Surprising Enclave Applications using Oasis Sapphire</strong><br>
+    <strong>Team Members</strong>: Andrew Miller (project leader), Sylvain Bellemare (project leader), Nerla Jean-Louis, Kevin Yu, Afonso Tinoco, and Zhengxun Wu<br>
+    <strong>Summary</strong>: ...<br>
+    <strong>Resources</strong>: ...<br>    
+    </div>
+</div>
+
+<div class="ui piled segment">
+    <img class="ui centered image" src="../images/events/blockchain-camp-2022/Project3.jpg" alt="" />
+    <div class="ui bottom attached message">
+    <strong>Third Place: Application-Specific EVMs using Precompiled Contracts</strong><br>
+    <strong>Team Members</strong>: Patrick Kiefer (project leader), Edward Mehrez (project leader), Preston Rozwood (project leader), Connor Stein, Jim Tao, and Antenhe Tena<br>
+    <strong>Summary</strong>: ...<br>
+    <strong>Resources</strong>: ...<br>    
+    </div>
+</div>
+
+**Additional Projects:**
+
+***Atomic NFTs***
+
+Members: Phil Daian (project leader), Tyler Kell (project leader), Jessy Huang, James Austgen, Austin Liu, and Sarisht Wadhwa
+Summary: Our project explored using a proof of complete knowledge to create an atomic NFT, and NFT that can only ever be held by an address whose owner has demonstrated having unencumbered access to its private key. The idea behind complete knowledge is that it demonstrates that the owner has control to do anything, and thus cannot be bribed or coerced into behaving a certain way, thwarting guaranteed voting bribery systems and preventing an NFT from being fractionalized inside a smart contract.
+Resources: <a href="https://github.com/jessyio/ck and https://github.com/sarisht/AtomicNFT">here</a>.
+
+***Privacy-preserving additions to PBS and MEV-Boost***
+
+Members: Mikerah Quintyne-Collins (project leader), Surya Bakshi (project leader), Chris Buckland, Quintus Kilbourn, Xinyuan Sun, Leland Lee, and Parth Gargava
+Summary: We studied solutions to privacy in the MEV-Boost architecture designed for PBS in the next iteration of Ethereum. Solving privacy was a challenging task, instead we explored a few classes of solutions. both cryptographic and incentive protocols as well, and outlined them in an etresear.ch post. We aim to continue this work going forward and mopre closely study the threshold encryption approach, proposed by some, as a solution.
+Resources: <a href="https://ethresear.ch/t/approaches-to-complete-privacy-for-mev-boost/13376">here</a>.
+
+***Addressing Capital Efficiency in Decentralized Spot Markets***
+
+Members: Songwei Chen (project leader), Wayne Chen (project leader), Michael Mirkin, Fan Zhang, Bineet Mishra, Weizhao Tang, Haoqian Zhang, and Marwa Mouallem
+Summary:
+Resources:
