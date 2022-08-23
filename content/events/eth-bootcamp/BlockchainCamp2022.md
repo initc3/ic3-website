@@ -7,14 +7,30 @@ summary: Thank you to everyone who joined us for the 7th Annual IC3 Blockchain C
 ---
 
 
+Thank you to everyone who joined us for the 7th Annual IC3 Blockchain Camp! This 7-day experience was hosted in-person on the Cornell Campus in Ithaca, NY. Our Camp technical committee of Surya Bakshi, Tyler Kell and Patrick McCorry prepared an immersive coding and learning experience with talks, panels, whiteboard sessions, and a week-long hackathon. 
+
 <div class="ui piled segment">
   <img class="ui centered image" src="../images/events/blockchain-camp-2022/Group.jpg" alt="" />
   <div class="ui bottom attached message">
-    <strong>We took this partial group picture on Saturday!
+    <strong>We took this partial group picture on Saturday on the steps of Gates Hall!
 </strong><br>
   </div>    
 </div>
 
+
+# Camp Sponsors
+
+<div class="ui small images" align="center">
+	<img class="ui image sponsor logo" id="chainlink" src="images/events/blockchain-camp-2022/chainlink.png">
+	<img class="ui image sponsor logo" id="ethereum" src="images/events/blockchain-camp-2022/ethereum.png">
+	<img class="ui image sponsor logo" id="fidelity fcat" src="images/events/blockchain-camp-2022/FCAT logo.png">
+ 	<img class="ui image sponsor logo" id="ibm" src="images/events/blockchain-camp-2022/ibm.png">
+ 	<img class="ui image sponsor logo" style="height:70px !important;" id="intel" src="images/events/blockchain-camp-2022/intel.png">
+ 	<img class="ui image sponsor logo" id="jpm" src="images/events/blockchain-camp-2022/jpm.png">
+	<img class="ui image sponsor logo" id="novi" src="images/events/blockchain-camp-2022/Meta.jpg">
+	<img class="ui image sponsor logo" id="protocollabs" src="images/events/blockchain-camp-2022/protocol-labs.png">
+	<img class="ui image sponsor logo" id="cog" src="images/events/blockchain-camp-2022/COG.png">
+</div>
 
 # Camp Schedule and Activities
 
@@ -52,7 +68,7 @@ The camp also featured social events including a rump session, games session, op
 <div class="ui piled segment">
   <img class="ui centered image" src="../images/events/blockchain-camp-2022/MuseumDinner.jpg" alt="" />
   <div class="ui bottom centered attached message">
-    <strong>Our Wednesday reception at HFJ Museum or Art.
+    <strong>Our Wednesday reception at HFJ Museum of Art.
 </strong><br>
   </div>    
 </div>
@@ -63,4 +79,5 @@ The camp also featured social events including a rump session, games session, op
 Project teams self-selected projects on sunday after considering the project proposals. The teams coded throughout the week, and made project presentations and demos on Saturday. Six hackathon teams submitted projects this year. Projects were judged by Sarah Azouvi (Protocol Labs), Lorenz Breidenbach (Chainlink), and Soumya Basu (Cornell).
 
 **The Top 3 Projects:**
+
 
