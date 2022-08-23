@@ -84,7 +84,7 @@ faculty:
     title:
     email: lorenzo@cs.cornell.edu
     weburl: 'http://www.cs.cornell.edu/lorenzo/'
-    bio: "Lorenzo Alvisi holds an Endowed Professorship in Computer Science at      Cornell University. His research interests are in the\n     theory and practice of distributed computing, with a particular focus\n     on dependability. He is a Fellow of the ACM, IEEE, and Alfred P. Sloan\n     Foundation, and the recipient of a Humboldt Research Award.  He serves\n     on the editorial boards of ACM Transactions on Computer Systems and\n     Springer’s Distributed Computing, and on the council of CRA’s Computing\n     Community Consortium.\n"
+    bio: "Lorenzo Alvisi holds an Endowed Professorship in Computer Science at Cornell University. His research interests are in the theory and practice of distributed computing, with a particular focus on dependability. He is a Fellow of the ACM, IEEE, and Alfred P. Sloan Foundation, and the recipient of a Humboldt Research Award. He serves on the editorial boards of ACM Transactions on Computer Systems and Springer’s Distributed Computing, and on the council of CRA’s Computing Community Consortium.\n"
   
   -
     name: 'James Grimmelmann'
@@ -94,6 +94,14 @@ faculty:
     weburl: 'http://james.grimmelmann.net/'
     bio: "James Grimmelmann is a professor of law at Cornell Tech and Cornell Law School. He studies how laws regulating software affect freedom, wealth, and power. He helps lawyers and technologists understand each other, applying ideas from computer science to problems in law and vice versa. He is the author of the casebook Internet Law: Cases and Problems and of over forty scholarly articles and essays on digital copyright, search engine regulation, privacy on social networks, online governance, and other topics in computer and Internet law. He teaches courses in property, intellectual property, and Internet law.\n"
 
+  -
+    name: ' Christine Parlour'
+    pic: Christine.jpeg
+    title:
+    email: parlour@haas.berkeley.edu
+    weburl: 'https://sites.google.com/berkeley.edu/thefinanceparlour/'
+    bio: "Christine A. Parlour is the Sylvan C. Coleman Chair of Finance and Accounting at Berkeley Haas. Most of her work is in institutionally complex areas, such as market microstructure, FinTech and Banking. Her current work focuses on changes in the payments system and the effects on bank balance sheets and FinTech, especially Decentralized Finance. She has written for major finance and economics journals. She has been on the Nasdaq Economic Advisory Board and is currently on the steering committee for the New Special Study of Securities Markets. She is the current president of the Western Finance Association, past president of the Finance Theory Group and co-director of Berkeley Center for Responsible, Decentralized Intelligence (RDI). \n"  
+    
   -
     name: 'Andrew Myers'
     pic: myers.jpg
