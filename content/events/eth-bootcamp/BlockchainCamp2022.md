@@ -7,11 +7,9 @@ summary: Thank you to everyone who joined us for the 7th Annual IC3 Blockchain C
 ---
 
 
-# Participants
-
 <div class="ui piled segment">
   <img class="ui centered image" src="../images/events/blockchain-camp-2022/Group.jpg" alt="" />
-  <div class="ui bottom centered attached message">
+  <div class="ui bottom attached message">
     <strong>We took this partial group picture on Saturday!
 </strong><br>
   </div>    
@@ -52,7 +50,7 @@ Content included talks, tutorials, and panels hosted by blockchain leaders, acad
 The camp also featured social events including a rump session, games session, opening and closing dinners at the Statler Hotel, and a reception at the Herbert F. Johndon Museum of Art.
 
 <div class="ui piled segment">
-  <img class="ui centered image" src="../images/events/blockchain-camp-2022/Museum.jpg" alt="" />
+  <img class="ui centered image" src="../images/events/blockchain-camp-2022/MuseumDinner.jpg" alt="" />
   <div class="ui bottom centered attached message">
     <strong>Our Wednesday reception at HFJ Museum or Art.
 </strong><br>
