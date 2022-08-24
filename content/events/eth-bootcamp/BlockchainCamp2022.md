@@ -120,7 +120,7 @@ Members: Phil Daian (project leader), Tyler Kell (project leader), Jessy Huang, 
 
 Summary: Our project explored using a proof of complete knowledge to create an atomic NFT, and NFT that can only ever be held by an address whose owner has demonstrated having unencumbered access to its private key. The idea behind complete knowledge is that it demonstrates that the owner has control to do anything, and thus cannot be bribed or coerced into behaving a certain way, thwarting guaranteed voting bribery systems and preventing an NFT from being fractionalized inside a smart contract.
 
-Resources: <a href="https://github.com/jessyio/ck and https://github.com/sarisht/AtomicNFT">here</a>.
+Resources: <a href="https://github.com/jessyio/ck">here</a> and <a href="https://github.com/sarisht/AtomicNFT">here</a>.
 
 ***Privacy-preserving additions to PBS and MEV-Boost***
 
