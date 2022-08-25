@@ -86,9 +86,12 @@ Project teams self-selected projects on Sunday after considering the project pro
     <img class="ui centered image" src="../images/events/blockchain-camp-2022/Project1.jpg" alt="" />
     <div class="ui bottom attached message">
     <strong>First Place: "Client Security"</strong><br>
-    <strong>Team Members</strong>: Ittay Eyal (project leader), Roi Bar-Zur (project leader), Kristian Gaylord, and Nicolas Serrano<br>
-    <strong>Summary</strong>: ...<br>
-    <strong>Resources</strong>: ...<br>    
+    <strong>Team Members</strong>: Roi Bar-Zur (project leader), Ittay Eyal (project leader), Zerui Cheng, Kristian Gaylord, Shutong Qu, Mohammad Rezaei, Nicolas Serrano, and Lulu Zhou<br>
+    <strong>Summary</strong>: Blockchain technology empowers users to directly control their digital assets (e.g., cryptocurrency and NFTs). But, with great power comes great responsibility. Users are also responsible for the security of their own assets. As we can learn from many stories of losses and hacks, this is far from trivial. Our <a href="https://crypto-wallet-designer.github.io/crypto-key-calculator/">website</a> lets users design and deploy a smart contract to secure funds using multiple keys. The user chooses a number of keys and inserts information about the keys (how likely is each key to be safe/lost/leaked/stolen). The website outputs a suggested wallet (optimal up to 6 keys) and lets the user deploy it to Ethereum with their own public keys. Then, the contract can be used with our <a href="https://github.com/Crypto-Wallet-Designer/wallet-client-cli/">command line interface</a>. This project is based on the <a href="https://walletdesign.dev/">previous website</a> and the <a href="https://eprint.iacr.org/2021/1522">research paper</a> by Ittay Eyal (presented at Tokenomics 2021).<br>
+    <strong>Resources</strong>: - <a href="https://walletdesign.dev/">previous website</a><br>    
+	    			- <a href="https://eprint.iacr.org/2021/1522">research paper</a><br>
+	    			- <a href="https://crypto-wallet-designer.github.io/crypto-key-calculator/">current website</a><br>
+	  			- <a href="https://github.com/Crypto-Wallet-Designer/wallet-client-cli/">GitHub</a><br>
     </div>
 </div>
 
