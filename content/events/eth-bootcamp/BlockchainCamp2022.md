@@ -120,7 +120,7 @@ Members: Phil Daian (project leader), Tyler Kell (project leader), Jessy Huang, 
 
 Summary: Our project explored using a proof of complete knowledge to create an atomic NFT, and NFT that can only ever be held by an address whose owner has demonstrated having unencumbered access to its private key. The idea behind complete knowledge is that it demonstrates that the owner has control to do anything, and thus cannot be bribed or coerced into behaving a certain way, thwarting guaranteed voting bribery systems and preventing an NFT from being fractionalized inside a smart contract.
 
-Resources: <a href="https://github.com/jessyio/ck">here</a> and <a href="https://github.com/sarisht/AtomicNFT">here</a>.
+Resources: <a href="https://github.com/jessyio/ck">GitHub (Jessy)</a> and <a href="https://github.com/sarisht/AtomicNFT">GitHub (Sarisht)</a>.
 
 ***Privacy-preserving additions to PBS and MEV-Boost***
 
@@ -128,7 +128,7 @@ Members: Mikerah Quintyne-Collins (project leader), Surya Bakshi (project leader
 
 Summary: We studied solutions to privacy in the MEV-Boost architecture designed for PBS in the next iteration of Ethereum. Solving privacy was a challenging task, instead we explored a few classes of solutions. both cryptographic and incentive protocols as well, and outlined them in an etresear.ch post. We aim to continue this work going forward and mopre closely study the threshold encryption approach, proposed by some, as a solution.
 
-Resources: <a href="https://ethresear.ch/t/approaches-to-complete-privacy-for-mev-boost/13376">here</a>.
+Resources: <a href="https://ethresear.ch/t/approaches-to-complete-privacy-for-mev-boost/13376">website</a>.
 
 ***Addressing Capital Efficiency in Decentralized Spot Markets***
 
