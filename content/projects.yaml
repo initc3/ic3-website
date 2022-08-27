@@ -1160,7 +1160,7 @@ projects:
 
   -
      name: 'Mobius: Trustless Tumbling for Transaction Privacy'
-     authors: Sarah Meiklejohn and Rekekah Mercer
+     authors: Sarah Meiklejohn and Rebekah Mercer
      challenges: [*correctness, *confidentiality]
      description: Cryptocurrencies allow users to securely transfer money without relying on a trusted intermediary, and the transparency of their underlying ledgers also enables public verifiability. This openness, however, comes at a cost to privacy, as even though the pseudonyms users go by are not linked to their real-world identities, all movement of money among these pseudonyms is traceable. In this paper, we present Mobius, an Ethereum-based tumbler or mixing service. Mobius achieves strong notions of anonymity, as even malicious senders cannot identify which pseudonyms belong to the recipients to whom they sent money, and is able to resist denial-of-service attacks. It also achieves a much lower off-chain communication complexity than all existing tumblers, with senders and recipients needing to send only two initial messages in order to engage in an arbitrary number of transactions. For further information, please see our <a href="https://smeiklej.com/files/pets18.pdf">paper</a>.   
      
