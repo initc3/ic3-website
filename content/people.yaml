@@ -415,14 +415,6 @@ students:
     bio: "Tom Yurek is a PhD student at UIUC working with Andrew Miller. He is interested in Privacy and Applied Cryptography."
   
   -
-    name: 'Lun Wang'
-    pic: lunwang.png
-    title:
-    email: wanglun@berkeley.edu
-    weburl: 
-    bio: "Lun Wang is a Ph.D. student in EECS at UC Berkeley working with Prof. Dawn Song. His research interest is in the intersection of machine learning and security, data privacy, programming language, blockchains and applied cryptography."
-
-  -
     name: 'Jiaheng Zhang'
     pic: jiaheng.jpg
     title:
@@ -827,7 +819,15 @@ alumni_students:
     email: bc633@cornell.edu
     weburl:
     bio: "Burcu completed his graduate program at Cornell University working with Robbert van Renesse. Currently, he has joined Microsoft Research Cambridge.\n"
-    
+  
+  -
+    name: 'Lun Wang'
+    pic: lunwang.png
+    title:
+    email: wanglun@berkeley.edu
+    weburl: 
+    bio: "Lun Wang obtained his Ph.D. from University of California, Berkeley advised by prof. Dawn Song. Currently, he has joined Google. His research interest is in the intersection of machine learning and security, data privacy, programming language, blockchains and applied cryptography.\n"
+
   -
     name: 'Karl W&uuml;st'
     pic: kwuest.jpg
