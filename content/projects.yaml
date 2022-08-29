@@ -140,7 +140,7 @@ projects:
      
   -
      name: 'Measuring Miner Decentralization in Proof-of-Work Blockchains'
-     authors: Soumya Basu, Sishan Long, and Emin Gun Sirer
+     authors: Soumya Basu, Sishan Long, and Emin Gün Sirer
      challenges: [*scaling]
      description: Proof-of-Work cryptocurrencies began with the promise of a more egalitarian future with a decentralized monetary system with no powerful entities in charge. While this vision is far from realized, these cryptocurrencies are still touted to be much more decentralized than traditional centralized systems. While it is well understood that cryptocurrencies are centralized, it is still unclear what the underlying causes are. This work aims to address this gap and examines some of the forces behind mining centralization. The internals of cryptocurrency mining is very opaque and difficult to study since it traditionally requires forming relationships with miners, who are typically reticent to share internal information about their competitive advantages. This work takes a different approach by combining large-scale statistical techniques with publicly available blockchain data in order to answer previously intractable questions. The crux of our analysis technique is based on the simple observation that some miners can utilize their hashpower more efficiently due to their position in the network. By teasing out that effect, we de-bias the mining power distribution to get a more accurate estimate. Using that de-biased mining power distribution, we can answer questions about the network position of miners in each cryptocurrency network. Finally, during the course of this study, we observed some unusual  mining behaviors which we highlight. For more information, please see our <a href="https://arxiv.org/abs/2203.16058">paper</a>.       
      
@@ -152,7 +152,7 @@ projects:
      
   -
      name: 'Efficient MDP Analysis for Selfish-Mining in Blockchains'
-     authors: Roi Bar Zur, Ittay Eyal, and Aviv Tamar
+     authors: Roi Bar-Zur, Ittay Eyal, and Aviv Tamar
      challenges: [*correctness, *compliance]
      description: A proof of work (PoW) blockchain protocol distributes rewards to its participants, called miners, according to their share of the total computational power. Sufficiently large miners can perform selfish mining - deviate from the protocol to gain more than their fair share. Such systems are thus secure if all miners are smaller than a threshold size so their best response following the protocol. To find the threshold, one has to identify the optimal strategy for miners of different sizes, i.e., solve a Markov Decision Process (MDP). However, because of the PoW difficulty adjustment mechanism, the miners' utility is a non-linear ratio function. We therefore call this an Average Reward Ratio (ARR) MDP. Sapishtein et al. were the first to solve ARR MDPs by solving a series of standard MDPs that converge to ARR MDP solution. In this work, we present a novel technique for solving an ARR MDP by solving a single standard MDP. The crux of our approach is to argument the MDP such that it terminates randomly, within an expected number of rounds. We call this Probabilistic Termination Optimization (PTO), and the technique applies to any MDP whose utility is a ratio function. We bound the approximation error of PTO - it is inversely proportional to the expected number of rounds before termination, a parameter that we control. Empirically, PTO's complexity is an order of magnitude lower than the state of the art. PTO can be easily applied to different blockchains. We use it to tighten the bound on the threshold for selfish mining in Ethereum. Link to our <a href="https://dl.acm.org/doi/abs/10.1145/3419614.3423264">paper</a>.
 
@@ -320,7 +320,7 @@ projects:
 
   - 
      name: 'CedrusDB: Persistent Key-Value Store with Memory-Mapped Lazy-Trie'
-     authors: Maofin Yin, Hongbo Zhang, Robbert van Renesse, and Emin Gun Sirer
+     authors: Maofin Yin, Hongbo Zhang, Robbert van Renesse, and Emin Gün Sirer
      challenges: [*migration, *correctness]
      description: As a result of RAM becoming cheaper, there has been a trend in key-value store design towards maintaining a fast in-memory index (such as a hash table) while logging user operations to disk, allowing high performance under failure-free conditions while still being able to recover from failures. This design, however, comes at the cost of long recovery times or expensive checkpoint operations. This paper presents a new in-memory index that is also storage-friendly. A *lazy-trie* is a variant of the hash-trie data structure that achieves near-optimal height, has practical storage overhead, and can be maintained on-disk with standard write-ahead logging. We implemented CedrusDB, persistent key-value store based on a lazy-trie. The Lazy-trie is kept on disk while made available in memory using standard memory-mapping. The lazy-trie organization in virtual memory allows CedrusDB to better leverage concurrent processing than other on-disk index schemes (LSMs, B+ -trees). CedrusDB achieves comparable or superior performance to recent log-based in-memory key-value stores in mixed workloads while being able to recover quickly from failures. For further information, please see our <a href="https://arxiv.org/pdf/2005.13762.pdf">paper</a>. 
      
@@ -482,7 +482,7 @@ projects:
      
   -
      name: 'AIRS: Automated Incentives for Reforestation Stewardship'
-     authors: Sishan Long, Ari Juels, Frederike Groschupp, Srdjan Capkun, Karl Wust, and Kari Kostiainen
+     authors: Sishan Long, Ari Juels, Frederike Groschupp, Srdjan Capkun, Karl Wüst, and Kari Kostiainen
      challenges: [*good]
      description: The accelerating effect of global climate change is a major challenge for humanity. One critical component of any comprehensive solution is reforestation. As large and effective carbon sinks, forests are important to both conserve and expand. Not all types of forest, though, are equally effective at carbon sequestration. To create, monitor, and manage effective reforestation programs, it is essential that we be able to measure forest carbon accurately and with high geospatial precision. Our project will build infrastructure that, (1) Provides an accurate and trustworthy source of data on forest carbon and (2) Implements a system of automated monetary rewards for local inhabitants to conserve and/or increase forests that effectively reduce carbon emissions. By combining the two capabilities of reliable quantification and targeted rewards, we believe we can provide powerful support for climate change programs that aim to realize the value of forests as a part of the global economy. For instance, the REDD+ program, under development by parties to the United Nations Framework Convention on Climate Change, aims to incentivize developing countries to reduce emissions resulting from deforestation and forest degradation, thus conserving and enhancing forest carbon sticks. We will build a public performance-based payment system using two blockchain technologies. The first is an *oracle*, a trustworthy source of data for blockchain applications, it obtains and analyzes satellite data to relay trustworthy statistics on forest carbon. The second key component is a *smart contract*, a blockchain application that consumes data from the oracle and sends cryptocurrency rewards to forest stewards. Our system will also automatically identify the legitimate stakeholders/stewards of forested land by combining local land registry records, geolocation via smartphones, and fraud/anomaly detection.
 
@@ -590,7 +590,7 @@ projects:
 
   -
      name: 'Design choices for central bank digital currency: Policy and technical considerations'
-     authors: Sarah Allen, Srdjan Capkun, Ittay Eyal, Giulia Fanti, Bryan Ford, James Grimmelmann, Ari Juels, Kari Kostiainen, Sarah Meiklejohn, Andrew Miller, Eswar Prasad, Karl Wust, and Fan Zhang
+     authors: Sarah Allen, Srdjan Capkun, Ittay Eyal, Giulia Fanti, Bryan Ford, James Grimmelmann, Ari Juels, Kari Kostiainen, Sarah Meiklejohn, Andrew Miller, Eswar Prasad, Karl Wüst, and Fan Zhang
      challenges: [*scaling, *confidentiality, *correctness]
      description: Central banks around the world are exploring and in some cases even piloting Central Bank Digital Currencies (CBDCs). CBDCs promise to realize a broad range of new capabilities, including direct government disbursements to citizens, frictionless consumer payment and money-transfer systems, and a range of new financial instruments and monetary policy levers. CBDCs also give rise, however, to a host of challenging technical goals and design questions that are qualitatively and quantitatively different from those in existing government and consumer payment systems. A well-functioning CBDC will require an extremely resilient, secure, and performant new infrastructure, with the ability to onboard, authenticate, and support users on a massive scale. It will necessitate an architecture simple enough to support modular design and rigorous security analysis, but flexible enough to accommodate current and future functional requirements and use cases. A CBDC will also in some way need to address an innate tension between privacy and transparency, protecting user data from abuse while selectively permitting data mining for end-user services, policymakers, and law enforcement investigations and interventions. In this paper, we enumerate the fundamental technical design challenges facing CBDC designers, with a particular focus on performance, privacy, and security. Through a survey of relevant academic and industry research and deployed systems, we discuss the state of the art in technologies that can address the challenges involved in successful CBDC deployment. We also present a vision of the rich range of functionalities and use cases that a well-designed CBDC platform could ultimately offer users. For further information, please see our <a href="https://www.brookings.edu/wp-content/uploads/2020/07/Design-Choices-for-CBDC_Final-for-web.pdf">paper</a>.  
   
@@ -752,7 +752,7 @@ projects:
      
   -
      name: 'Snappy: Fast On-chain Payments with Practical Collaterals'
-     authors: Vasilios Mavroudis, Karl Wust, Aritra Dhar, Kari Kostiainen, and Srdjan Capkun
+     authors: Vasilios Mavroudis, Karl Wüst, Aritra Dhar, Kari Kostiainen, and Srdjan Capkun
      challenges: [*correctness, *compliance]
      description: Permissionless blockchains offer many advantages but also have significant limitations including high latency. This prevents their use in important scenarios such as retail payments, where merchants should approve payments fast. Prior works have attempted to mitigate this problem by moving transactions off the chain. However, such Layer-2 solutions have their own problems --- a) payment channels require a separate deposit towards each merchant and thus significant locked-in funds from customers, b) payment hubs require very large operator deposits that depend on the number of customers, and c) side-chains require trusted validators. In this paper, we propose Snappy, a novel solution that enables recipients, like merchants, to safely accept fast payments. In Snappy, all payments are on the chain, while small customer collaterals and moderate merchant collaterals act as payment guarantees. Besides receiving payments, merchants also act as statekeepers who collectively track and approve incoming payments using majority voting. In case of a double-spending attack, the victim merchant can recover lost funds either from the collateral of the malicious customer or a colluding statekeeper (merchant). Snappy overcomes the main problems of previous solutions - (1) a single customer collateral can be used to shop with many merchants, (2) merchant collaterals are independent of the number of customers, and (3) validators do not have to be trusted. Our Ethereum prototype shows that safe, fast (<2 seconds) and cheap payments are possible on existing blockchains. For more information, please see our <a href="https://arxiv.org/abs/2001.01278">paper</a>.    
      
@@ -800,7 +800,7 @@ projects:
 
   -
      name: 'A vision for autonomous blockchains backed by secure hardware'
-     authors: Kai Mast, Lequn Chen, and Emin Gun Sirer
+     authors: Kai Mast, Lequn Chen, and Emin Gün Sirer
      challenges: [*scaling, *correctness]
      description: Blockchains have emerged as a potential mechanism to enable immutable and consistent sharing of data across organizational boundaries. While much of the discussion on blockchains to date has been structured around public versus permissioned blockchains, both of these architectures have significant drawbacks. Public blockchains are energy inefficient, hard to scale and suffer from limited throughput and high latencies, while permissioned blockchains depend on specially designated nodes, potentially leak metainformation, and also suffer from scale and performance bottlenecks. This raises the question if blockchains, in their current form, are the only class of datastores that can provide such strong integrity guarantees. We introduce autonomous blockchains, an architecture based on free-standing, immutable, eidetic databases that implement independent timelines, linked together through interactions. Autonomous blockchains can be realized using trusted execution environments in combination with audit mechanisms. This architecture does not only provide blockchain-like integrity and auditability guarantees but also supports storing and querying private data. Further, multiple autonomous blockchains can be linked together through federated transactions to exchange data and order mutual operations. These transactions are amenable to audits and yield tamper-proof witnesses. Evaluation shows that this design can achieve high throughput while providing stronger integrity guarantees than conventional datastores. Link to our <a href="https://dl.acm.org/doi/pdf/10.1145/3342559.3365333">paper</a>.
   
@@ -848,7 +848,7 @@ projects:
   
   -
      name: 'A Classification Framework for Stablecoin Designs'
-     authors: Amani Moin, Emin Gun Sirer, and Kevin Sekniqi
+     authors: Amani Moin, Emin Gün Sirer, and Kevin Sekniqi
      challenges: [*migration]
      description: Stablecoins promise to bridge fiat currencies with the world of cryptocurrencies. They provide a way for users to take advantage of the benefits of digital currencies, such as ability to transfer assets over the internet, provide assurance on minting schedules and scarcity, and enable new asset classes, while also partially mitigating their volatility risks. In this paper, we systematically discuss general design, decompose existing stablecoins into various component design elements, explore their strengths and drawbacks, and identify future directions. For more information, please see our <a href="https://arxiv.org/abs/1910.10098">paper</a>.
   
@@ -908,13 +908,13 @@ projects:
      
   -
      name: 'Bitcontracts: Supporting Smart Contracts in Legacy Blockchains'
-     authors: Karl Wust, Loris Diana, Kari Kostiainen, Ghassan Karame, Sinisa Matetic, and Srdjan Capkun
+     authors: Karl Wüst, Loris Diana, Kari Kostiainen, Ghassan Karame, Sinisa Matetic, and Srdjan Capkun
      challenges: [*compliance, *confidentiality]
      description: In this paper we propose Bitcontracts, a novel solution that enables secure and efficient execution of generic smart contracts on top of unmodified legacy cryptocurrencies like Bitcoin that do not support contracts natively. The starting point of our solution is an off-chain execution model, where the contract issuers appoints a set of service providers to execute the contract code. The contract execution results are accepted if a quorum of service providers reports the same results and clients are free to choose which such contracts they trust and use. The main technical contribution of this paper is how to realize such a trust model securely and efficiently without modifying the underlying blockchain. We also identify a set of generic properties that a blockchain system must support so that expressive smart contracts can be added safely, and analyze popular existing blockchains based on these criteria. For further information, please see our <a href="https://eprint.iacr.org/2019/857">paper</a>. 
      
   -
      name: 'ACE: Asynchronous and Concurrent Execution of Complex Smart Contracts'
-     authors: Karl Wust, Sinisa Matetic, Silvan Egli, Kari Kostiainen, and Srdjan Capkun 
+     authors: Karl Wüst, Sinisa Matetic, Silvan Egli, Kari Kostiainen, and Srdjan Capkun 
      challenges: [*compliance, *adf]
      description: Smart contracts are programmable, decentralized and transparent financial applications. Because smart contract platforms typically support Turing-complete programming languages, such systems are often said to enable arbitrary applications. However, the current permissionless smart contract systems impose heavy restrictions on the types of computations thata can be implemented. For example, the globally-replica ted and sequential execution model of Ethereum requires low gas limits that make many computations infeasible. In this paper, we propose a novel system called ACE whose main goal is to enable more complex smart contracts on permissionless blockcahins. ACE is based on an off-chain execution model where the contract issuers appoint a set of service providers to execute the contract code independent from the consensus layer. The primary advantage of ACE over previous solutions is that it allows one contract to safely call another contract that is executed by a different set of service providers. Thus, ACE is the first solution to enable off-chain execution of interactive smart contracts with flexible trust assumptions. Our evalution shows that ACE enables several orders of magnitude more complex smart contracts than standard Ethereum. For more information, please see our <a href="https://eprint.iacr.org/2019/835">paper</a>.  
      
@@ -1034,7 +1034,7 @@ projects:
   
   -
      name: 'You Sank My Battleship! A Case Study to Evaluate State Channels as a Scaling Solution for Cryptocurrencies' 
-     authors: Patrick McCorry, Chris Buckland, Surya Bakshi, Karl Wust, and Andrew Miller
+     authors: Patrick McCorry, Chris Buckland, Surya Bakshi, Karl Wüst, and Andrew Miller
      challenges: [*scaling]
      description: Off-chain protocols (or so-called Layer 2) are heralded as a scaling solution for cryptocurrencies. One prominent approach, state channels, allows a group of parties to transact amongst themselves and the global blockchain is only used as a last resort to self-enforce any disputed transactions. To evaluate state channels as a scaling solution, we provide a proof of concept implementation for a two-player battleship game. It fits a category of applications that are not considered reasonable to execute on the blockchain, but it is widely perceived as an ideal application for off-chain protocols. We explore the minimal modifications required to deploy the battleship game as a state channel and propose a new state channel construction, Kitsune, which combines features from existing constructions. While in the optimistic case we demonstrate the battleship game can be played efficiently in a state channel, the requirement for unanimous off-chain agreement introduces new economic and time-based attacks that can render the game as unreasonable to play. For more information, please see our <a href="https://fc19.ifca.ai/wtsc/Battleship.pdf">work</a>.    
      
@@ -1058,7 +1058,7 @@ projects:
   
   -
      name: 'Towards a Functional Fee Market for Cryptocurrencies' 
-     authors: Soumya Basu, David Easley, Maureen O'Hara, and Emin Gun Sirer
+     authors: Soumya Basu, David Easley, Maureen O'Hara, and Emin Gün Sirer
      challenges: [*correctness]
      description: Blockchain-based cryptocurrencies prioritize transactions based on their fees, creating a unique kind of fee market. Empirically, this market has failed to yield stable equilibria with predictable prices for desired levels of service. We argue that this is due to the absence of a dominant strategy equilibrium in the current fee mechanism. We propose an alternative fee setting mechanism that is inspired by generalized second price auctions. The design of such a mechanism is challenging because miners can use any criteria for including transactions and can manipulate the results of the auction after seeing the proposed fees. Nonetheless, we show that our proposed protocol is free from manipulation as the number of users increases. We further show that, for a large number of users and miners, the gain from manipulation is small for all parties. This results in users proposing fees that represent their true utility and lower variance of revenue for miners. Historical analysis shows that Bitcoin users could have saved $272,528,000 in transaction fees while miners could have reduced the variance of fee income by an average factor of 7.4 times. For further information, please see our <a href="https://arxiv.org/abs/1901.06830v1">paper</a>. 
   
@@ -1178,7 +1178,7 @@ projects:
   
   -
      name: 'TLS-N: Non-repudiation over TLS Enabling Ubiquitous Content Signing'
-     authors: Hubert Ritzdorf, Karl Wust, Arthur Gervais, Guillaume Felley, and Srdjan Capkun
+     authors: Hubert Ritzdorf, Karl Wüst, Arthur Gervais, Guillaume Felley, and Srdjan Capkun
      challenges: [*scaling]
      description: An internet user wanting to share observed content is typically restricted to primitive techniques such as screenshots, web caches or share button-like solutions. These acclaimed proofs, however, are either trivial to falsify or require trust in centralized entities (e.g., search engine caches). This motivates the need for a seamless and standardized internet-wide non-repudiation mechanism, allowing users to share data from news sources, social websites or financial data feeds in a provably secure manner. Additionally, blockchain oracles that enable data-rich smart contracts typically rely on a trusted third party (e.g., TLSNotary or Intel SGX). A decentralized method to transfer web-based content into a permissionless blockchain without additional trusted third party would allow for smart contract applications to flourish. In this work, we present TLS-N, the first TLS extension that provides source non-repudiation and solves both of the mentioned challenges. TLS-N generates non-interactive proofs about the content of a TLS session that can be efficiently verified by third parties and blockchain based smart contracts. As such, TLS-N increases the accountability for content provided on the web and enables a practical and decentralized blockchain oracle for web content. TLs-N is compatible with TLS 1.3 and adds a minor overhead to a typical TLS session. When a proof is generated, parts of the TLS session (e.g., passwords, cookies) can be hidden for privacy reasons, while the remaining content can be verified. Practical demonstrations can be found <a href="https://tls-n.org/">here</a>. For more information, please see our <a href="https://eprint.iacr.org/2017/578">paper</a>. 
      
@@ -1190,7 +1190,7 @@ projects:
 
   - 
      name: 'Do you need a Blockchain?'
-     authors: Karl wust and Arthur Gervais
+     authors: Karl Wüst and Arthur Gervais
      challenges: [*scaling, *confidentiality]
      description: Blockchain is being praised as a technological innovation which allows to revolutionize how society trades and interacts. This reputation is in particular attributable to its properties of allowing mutually mistrusting entities to exchange financial value and interact without relying on a trusted third party. A blockchain moreover provides an integrity protected data storage and allows to provide process transparency. In this article we critically analyze whether a blockchain is indeed the appropriate technical solution for a particular application scenario. We differentiate between permissionless (e.g., Bitcoin/Ethereum) and permissioned (e.g., Hyperledger/Corda) blockchains and contrast their properties to those of a centrally managed database. We provide a structured methodology to determine the appropriate technical solution to solve a particular application problem. Given our methodology, we analyze in depth three use cases --- Supply Chain Management, Interbank and International Payments, and Decentralized Autonomous Organizations and conclude the article with an outlook for further opportunities. For more information, please see our <a href="https://eprint.iacr.org/2017/375?msclkid=d0ee2f21cfaf11ec9ec4b94ca68ab4cd">paper</a>.      
   
@@ -1292,6 +1292,6 @@ projects:
 
   -
      name: 'Bitcoin-NG: A Next-generation Blockchain Protocol'
-     authors: Ittay Eyal, Adem Efe Gencer, Emin Gun Sirer, and Robbert van Renesse
+     authors: Ittay Eyal, Adem Efe Gencer, Emin Gün Sirer, and Robbert van Renesse
      challenges: [*scaling]
      description: Bitcoin-NG is a new protocol pioneered by IC3. It addresses the scalability bottleneck of Bitcoin by enabling the Bitcoin network to achieve the highest throughput allowed by the network conditions. Paradoxically, not only does it improve transaction throughput, it also reduces transaction latencies -- it is possible to get an initial transaction confirmation in seconds rather than in minutes. And it does so without changing Bitcoin’s open architecture and trust model. Our blockchain test bed Miniature World simulated Bitcoin-NG at 15% the size of the operational Bitcoin system, where we showed that Bitcoin–NG is only limited by the network. For more info, please see our <a href="http://arxiv.org/abs/1510.02037">paper</a>.
