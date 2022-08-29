@@ -28,7 +28,7 @@ Our thanks to Eirik Ulversøy, a.k.a. *Kitten Mittens*, and to Dapper Labs for t
   - James Grimmelmann (Cornell Tech)
   - Ari Juels (Cornell Tech)
   - Mukti Khaire (Cornell Tech)
-  - Fernanda Viegas (Harvard University)
+  - Fernanda Viégas (Harvard University)
   - Martin Wattenberg (Harvard University)
                                                                                                                                                     
 **Event topics will include:** 
