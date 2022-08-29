@@ -188,3 +188,10 @@
  authors: Ari Juels
  summary: Bitcoin and blockchains - the technology that makes cryptocurrencies such as Bitcoin possible - have become inescapable phenomena in finance and even popular culture. Despite their rise in popularity, though, there is considerable bewilderment around blockchains and their capabilities. In this talk, Ari Juels, the Weill Family Foundation and Joan and Stanford I. Weill Professor at Cornell Tech and Co-Director of the Initiative for CryptoCurrencies and Contracts (IC3), will aim to demistify this intriguing technology. He will explain how blockchains mean much more than Bitcoin and indeed how blockchain-based digital apes may be harbingers of our future in leisure and the arts. We hope to see you at this virtual event.  
  
+-
+ date:2022-08-27
+ url: https://medium.com/initc3org/decentralizing-databases-with-basil-604827608ff8
+ title: "Decentralizing Databases with Basil"
+ authors: Florian Suri-Payer and Natacha Crooks
+ summary: Applications want to retain database functionality when decentralizing their systems. Unfortunately, straightforward designs atop today's blockchain system fall short of this task. The current separation between the ordering layer and the application materialization layer in blockchain based designs precludes the design of expressive, and high performance transactional systems. In our recent work <a href="https://dl.acm.org/doi/abs/10.1145/3477132.3483552?casa_token=1-8n4ZLMN_gAAAAA%3AP_MCtY9YgtRibYd3MOASkwhBqpmzt-XKBCub4dTFBaA1Q2fprMQZN9l7KzRaOvB0swI3FLeUwOqFkL8">"Basil: Breaking up BFT with ACID (transactions)"</a> we explore how to merge these layers for improved scalability and usability. 
+  
