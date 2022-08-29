@@ -20,7 +20,7 @@ The Initiative for CryptoCurrencies and Contracts (IC3) invites you to an evenin
                                                                                                                                                     
 Non-Fungible Tokens (NFTs) have created an exciting new area of research at the intersection of computer science, art, law, and economics. The event will feature the unveiling of an artist-made glass projection screen showcasing a gallery of NFTs that represent the latest NFT research from IC3. It will also feature talks highlighting advances in NFT technology from faculty and students across a range of disciplines. 
                                                                                                                                                     
-Our thanks to Eirik Ulversoy, a.k.a. *Kitten Mittens*, and to Dapper Labs for their generous loan of historically important and rare CryptoKitties for our experiment at the event in the psychology of NFT viewing.  
+Our thanks to Eirik Ulversøy, a.k.a. *Kitten Mittens*, and to Dapper Labs for their generous loan of historically important and rare CryptoKitties for our experiment at the event in the psychology of NFT viewing.  
                                                                                                                                                     
 **Featured event speakers will include:**  
                                                                                                                                                     
