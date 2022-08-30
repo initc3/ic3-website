@@ -31,6 +31,24 @@ challenges :
 projects:
 
   -
+     name: 'Going Incognito in the Metaverse'
+     authors: Vivek Nair, Gonzalo Murilla Garrido, and Dawn Song
+     challenges: [*correctness, *compliance]
+     description: Virtual reality (VR) telepresence applications and the so-called *metaverse* promise to be the next major medium of interaction with the internet. However, with numerous recent studies showing the ease at which VR users can be profiled, deanonymized, and data harvested, metaverse platforms carry all the privacy risks of the current internet and more while at present having none of the defensive privacy tools we are accustomed to using on the web. To remedy this, we present the first known method of implementing an *incognito mode* for VR. Our technique leverages local differential privacy to quantifiably obscure sensitive user data attributes, with a focus on intelligently adding noise when and where it is needed most to maximize privacy while minimizing usability impact. Moreover, our system is capable of flexibly adapting to the unique needs of each metaverse application to further optimize this trade-off. We implement our solution as a universal Unity (C#) plugin that we the evaluate using several popular VR applictions. Upon faithfully replicating the most well-known VR privacy attacks studies, we show a significant degradation of attacker capabilities when using our proposed solution. For more information, please see our <a href="https://arxiv.org/abs/2208.05604">work</a>.  
+     
+  -
+     name: 'Multi-Factor Key Derivation Function (MFKDF)'
+     authors: Vivek Nair and Dawn Song
+     challenges: [*correctness, *compliance]
+     description: We present the first general construction of a Multi-Factor Key Derivation Function (MFKDF). Our function expands upon password-based key derivation functions (PBKDFs) with support for using other popular authentication factors like TOTP, HOTP, and hardware tokens in the key derivation process. In doing so, it provides an exponential security improvement over PBKDFs with less than 12ms of additional computational overhead in a typical web browser. We further present a threshold MFKDF construction, allowing for client-side key recovery and reconstruction if a factor is lost. Finally, by *stacking* derived keys, we provide a means of cryptographically enforcing arbitrarily specific key derivation policies. The result is a paradigm shift toward direct cryptographic protection of user data using all available authentication factors, with no noticeable change to the user experience. We demonstrate the ability of our solution to not only significantly improve the security of existing systems implementing PBKDFs, but also to enable new applications where PBKDFs would not be considered a feasible approach. For further information, please see our <a href="https://arxiv.org/abs/2208.05586">paper</a>.
+     
+  -
+     name: 'The IC3 NFT License'
+     authors: James Grimmelmann
+     challenges: [*correctness]
+     description: The IC3 NFT license is a copyright license specifically designed for use with NFTs. This document describes the technical, conceptual, and doctrinal challenges posed by NFT licensing and explains the design decisions made in drafting a license to solve them. The license itself, which is designed to be used in conjunction with a technical process (such as the one described in Ethereum Improvement Proposal 5218). links a creative work to an NFT so that when the NFT is transferred, so is the license. Link to my <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4169092">work</a>.
+     
+  -
      name: 'After the fall: Bitcoin true legacy may be blockchain technology'
      authors: Eswar Prasad
      challenges: [*migration]
