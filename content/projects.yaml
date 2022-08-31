@@ -1,24 +1,24 @@
-challenges :
+challenges:
   - &scaling
-    name : 'Secure Scaling and Performance'
+    name: 'Secure Scaling and Performance'
     description : 'Scaling up blockchains to handle intensive global workloads for both permissionless decentralized blockchains, and permissioned/consortium blockchains supporting &gt;100,000 transactions/sec.'
-    color : 'brown'
+    color: 'brown'
   - &correctness
-    name : 'Correctness by Design and Construction'
+    name: 'Correctness by Design and Construction'
     description : 'Making it easy, and even automatic, for blockchain developers to produce secure protocols and code, by utilizing (1) programming language techniques to create correct code, and (2) cryptographic protocols with security proofs.'
-    color : 'blue'
+    color: 'blue'
   - &confidentiality
-    name : 'Confidentiality'
+    name: 'Confidentiality'
     description : 'Combining transparency with confidentiality in blockchains, by utilizing (1) cryptographic techniques, as well as (2) trusted-hardware.'
-    color : 'green'
+    color: 'green'
   - &adf
-    name : 'Authenticated Data Feeds'
+    name: 'Authenticated Data Feeds'
     description : 'Supporting a robust ecosystem of trustworthy data feeds for blockchains and contributing high-trust data feed solutions.'
-    color : 'olive'
+    color: 'olive'
   - &compliance
-    name : 'Safety and Compliance'
+    name: 'Safety and Compliance'
     description : 'Enabling techniques and protocols for effective monitoring and targeted intervention in blockchains, informed by evaluations of traditional contract law and risks of crime in smart contracts.'
-    color : 'violet'
+    color: 'violet'
   - &migration
     name: 'Sound Migration'
     description: 'Formulating practical migration paths to production blockchain deployments and enabling integration of new blockchain systems with legacy systems.'
@@ -1176,6 +1176,24 @@ projects:
      challenges: [*confidentiality]
      description: Organizational networks are vulnerable to traffic analysis attacks that enable adversaries to infer sensitive information from network traffic - even if encryption is used. Typical anonymous communication networks are tailored to the Internet and are poorly suited for organizational networks. We present PriFi, an anonymous communication protocol for LANs, which protects users against eavesdroppers and provides high-performance traffic-analysis resistance. PriFi builds on Dining Cryptographers networks (DC-nets), but reduces the high communication latency of prior designs via a new client/relay/server architecture, in which the client packets remain on their usual network path without additional hops, and in which a set of remote servers assist the anonymization process without adding latency. PriFi also solves the challenge of equivocation attacks, which are not addressed by related work, by encrypting traffic based on communication history. Our evaluation shows that PriFi introduces modest latency overhead (~100ms for 100 clienrs) and is compatible with delay-sensitive applications such as Voice-over-IP. For more information, please see our <a href="https://bford.info/pub/sec/prifi/pets20-prifi.pdf">paper</a>.
 
+  -
+     name: 'Foundations of Differentially Oblivious Algorithms'
+     authors: T-H. Hubert Chan, Kai-Min Chung, Bruce Maggs, and Elaine Shi
+     challenges: [*confidentiality]
+     description: It is well-known that a program's memory access pattern can leak information about its input. To thwart such leakage, most existing works adopt the solution of oblivious RAM (ORAM) simulation. Such a notion has stimulated much debate. Some have argued that the notion of ORAM is too strong, and suffers from a logarithmic lower bound on simulation overhead. Despite encouraging progress in designing efficient ORAM algorithms, it would nonetheless be desirable to avoid the oblivious simulation overhead. Others have argued that obliviousness, without protection of length-leakage, is too weak, and have demonstrated examples where entire databases can be reconstructed merely from length-leakage. nspired by the elegant notion of differential privacy, we initiate the study of a new notion of access pattern privacy, which we call "(ϵ,δ)-differential obliviousness''. We separate the notion of (ϵ,δ)-differential obliviousness from classical obliviousness by considering several fundamental algorithmic abstractions including sorting small-length keys, merging two sorted lists, and range query data structures (akin to binary search trees). We show that by adopting differential obliviousness with reasonable choices of ϵ and δ, not only can one circumvent several impossibilities pertaining to the classical obliviousness notion, but also in several cases, obtain meaningful privacy with little overhead relative to the non-private baselines (i.e., having privacy "almost for free''). On the other hand, we show that for very demanding choices of ϵ and δ, the same lower bounds for oblivious algorithms would be preserved for (ϵ,δ)-differential obliviousness. For more information, please see our <a href="https://eprint.iacr.org/2017/1033.pdf">paper</a>.
+     
+  -
+     name: 'Blockchain Technology: Transforming Libertarian Cryptocurrency Dreams to Finance and Banking Realities'
+     authors: Ittay Eyal
+     challenges: [*scaling]
+     description: The financial technology (FinTech) sector sees high potential value in cryptocurrency blockchain protocols, or distributed-ledger technology (DLT). However, the requirements and guarantees of blockchains for cryptocurrencies do not match those of FinTech— from transaction throughput to security primitives and privacy. The author explores how blockchain research beyond Bitcoin is closing these gaps and some of the challenges that remain. Link to my <a href="https://dl.acm.org/doi/10.1109/MC.2017.3571042">work</a>.
+     
+  - 
+     name: 'Thunderella: Blockchains with Optimistic Instant Confirmation'
+     authors: Rafael Pass and Elaine Shi
+     challenges: [*scaling, *migration]
+     description: State machine replication, or *consensus*, is a central abstraction for distributed systems where a set of nodes seek to agree on an ever-growing, linearly-ordered log. In this paper, we propose a practical new paradigm called Thunderella for achieving state machine replication by combining a fast, asynchronous path with a (slow) synchronous *fall-back* path (which only gets executed if something goes wrong). As a consequence, we get simple state machine replications that essentially are as robust as the best synchronous protocols, yet *optimistically* (if a super majority of the players are honest), the protocol *instantly* confirms transactions. We provide instantiations of this paradigm in both permissionless (using proof-of-work) and permissioned settings. Most notably, this yields a new blockchain protocol (for the permissionless setting) that remains resilient assuming only that a majority of the computing power is controlled by honest players, yet optimistically — if 3/4 of the computing power is controlled by honest players, and a special player called the *accelerator*, is honest—transactions are confirmed as fast as the actual message delay in the network. We additionally show the 3/4 optimistic bound is tight for protocols that are resilient assuming only an honest majority. For more information, please see our <a href="https://eprint.iacr.org/2017/913.pdf">paper</a>.
+     
   -
      name: 'Mobius: Trustless Tumbling for Transaction Privacy'
      authors: Sarah Meiklejohn and Rebekah Mercer
