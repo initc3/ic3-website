@@ -758,12 +758,12 @@ fellows:
 alumni_faculty:
 
   -
-    name: 'Emin G&uuml;n Sirer'
+    name: 'Emin Gün Sirer'
     pic: gun.jpg
     title: 'Former IC3 Co-Director'
     email: el33th4x0r@gmail.com
     weburl: 'http://www.cs.cornell.edu/people/egs/'
-    bio: 'Emin G&uumln Sirer is the CEO and co-founder of Ava Labs. His research interests span distributed systems, cryptocurrencies, and software infrastructure for large scale services.'
+    bio: 'Emin Gün Sirer is the CEO and co-founder of Ava Labs. His research interests span distributed systems, cryptocurrencies, and software infrastructure for large scale services.'
 
   -
     name: 'Patrick McCorry'
@@ -789,7 +789,7 @@ alumni_researchers:
     title: 'Research Engineer'
     email: sk3259@cornell.edu
     weburl:
-    bio: 'Tyler Kell was a research engineer at IC3. In a previous life, Tyler was a penetration tester, and enjoys an extensive history of breaking security assumptions.'
+    bio: 'Tyler Kell has joined Upshot One where he will be focusing on smart contracts related to NFT analytics and appraisal. In a previous life, Tyler was a penetration tester, and enjoys an extensive history of breaking security assumptions.'
 
 
 alumni_postdocs:
