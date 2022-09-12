@@ -319,6 +319,12 @@ projects:
      description: We propose the first maliciously secure multi-party computation (MPC) protocol for general functionalities in two rounds, without any trusted setup. Since polynomial-time simulation is impossible in two rounds, we achieve the relaxed notion of superpolynomial-time simulation security [Pass, EUROCRYPT'03]. Prior to our work, no such maliciously secure protocols were known even in the two-party setting for functionalities where both parties receive outputs. Our protocol is based on the sub-exponential security of standard assumptions plus a special type of non-interactive non-malleable commitment. At the heart of our approach is a two-round multi-party conditional disclosure of secrets (MCDS) protocol in the plain model from bilinear maps, which is constructed from techniques introduced in [Benhamouda and Lin, TCC'20]. For further information, please see our <a href="https://eprint.iacr.org/2021/1230">paper</a>.
  
   -
+     name: 'Decentralized Governance of Stablecoins with Closed Form Valuation'
+     authors: Lucy Huo, Ariah Klages-Mundt, Andreea Minca, Frederik Christian Münter, and Mads Rude Wind
+     challenges: [*correctness]
+     description: We model incentive security in non-custodial stablecoins and derive conditions for participation in a stablecoin system across risk absorbers (vaults/CDPs) and holders of governance tokens. We apply option pricing theory to derive closed form solutions to the stakeholders’ problems, and to value their positions within the capital structure of the stablecoin. We derive the optimal interest rate that is incentive compatible, as well as conditions for the existence of equilibria without governance attacks, and discuss implications for designing secure protocols. For more information, please see our <a href="https://arxiv.org/pdf/2109.08939.pdf">paper</a>.
+     
+  -
      name: 'Private Attacks in Longest Chain Proof-of-Stake Protocols with Single Secret Leader Elections'
      authors: Sarah Azouvi and Daniele Cappelletti
      challenges: [*compliance, *correctness]
@@ -687,6 +693,12 @@ projects:
      authors: T-H. Hubert Chan, Rafael Pass, and Elaine Shi 
      challenges: [*correctness, *migration]
      description: Although Byzantine Agreement (BA) has been studied for three decades, perhaps somewhat surprisingly, there still exist significant gaps in our understanding regarding its round complexity. A long-standing open question is the following - can we achieve BA with sublinear round complexity under corrupt majority? Due to the beautiful works by Garay et al. (FOCS 2007) and Fitzi and Nielsen (DISC 2009), we have partial and affirmative answers to this question albeit for the narrow regime f=n/2 + O(n) where f is the number of corrupt nodes and n is the total number of nodes. So far, no positive result is known about the setting f>0.51n even for static corruption! In this paper, we make progress along this somewhat stagnant front. We show that there exists a corrupt-majority BA protocol that terminates in O(1/e log 1/delta) rounds in the worst case, satisfies consistency with probability at least 1-delta, and tolerates (1-e) fraction of corrupt nodes. Our protocol secures against an adversary that can corrupt nodes adaptively during the protocol execution but cannot perform "after-the-fact'' removal of honest messages that have already been sent prior to corruption. Our upper bound is optimal up to a logarithmic factor in light of the elegant Omega(1/e) lower bound by Garay et al. (FOCS 2007). For more information, please see our <a href="http://elaineshi.com/docs/ba-cormaj.pdf">paper</a>.    
+  
+  -
+     name: 'While Stability Lasts: A Stochastic Model of Non-Custodial Stablecoins'
+     authors: Ariah Klages-Mundt and Andreea Minca
+     challenges: [*correctness]
+     description: The "Black Thursday'' crisis in cryptocurrency markets demonstrated deleveraging risks in over-collateralized non-custodial stablecoins. We develop a stochastic model that helps explain deleveraging crises in these over-collateralized systems. In our model, the stablecoin supply is decided by speculators who optimize the profitability of a leveraged position while incorporating the forward-looking cost of collateral liquidations, which involves the endogenous price of the stablecoin. We formally characterize regimes that are interpreted as stable and unstable for the stablecoin. We prove bounds on quadratic variation and the probability of large deviations in the stable domain and we demonstrate distinctly greater price variance in the unstable domain. We identify a deflationary deleveraging spiral by means of a submartingale. These deleveraging spirals, which resemble short squeezes, lead to faster collateral drawdown (and potential shortfalls) and are accompanied by higher price variance, as experienced on Black Thursday. We conclude by discussing non-custodial ways in which the issues raised in this paper can be mitigated. For further information, please see our <a href="https://arxiv.org/abs/2004.01304v3">paper</a>.
      
   -
      name: 'An Empirical Analysis of Privacy in the Lightning Network'
