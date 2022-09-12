@@ -29,7 +29,6 @@
 - S. Azouvi, and A. Hicks. [Decentralization Conscious Players and System Reliability](https://arxiv.org/abs/2204.11980). FC, 2022. 
 - D.T. Nguyen and N. Trieu. [MPCCache: Privacy-Preserving Multi-Party Cooperative Cache Sharing at the Edge](https://fc22.ifca.ai/preproceedings/59.pdf). FC, 2022.
 - P. Vesely, K. Gurkan, M. Straka, A. Gabizon, P. Jovanovic, G. Konstantopoulos, A. Oines, M. Olszewski, and E. Tromer. [Plumo: An Ultralight Blockchain Client](https://fc22.ifca.ai/preproceedings/84.pdf). FC, 2022.
-- S. Das, T. Yurek, Z. Xiang, A. Miller, E. Kokoris-Kogias, and L. Ren. [Practical Asynchronous Distributed Key Generation](https://eprint.iacr.org/2021/1591.pdf). IEEE S&P, 2022.
 - I. Khaburzaniya, K. Chalkias, K. Lewi, and H. Malvai. [Aggregating and thresholdizing hash-based signatures using STARKs](https://eprint.iacr.org/2021/1048). Asia CCS, 2022.
 - K. Wu, G. Asharov, E. Shi. [A Complete Characterization of Game-Theoretically Fair, Multi-Party Coin Toss](https://eprint.iacr.org/2021/748). Eurocrypt, 2022.
 - T. Yurek, L. Luo, J. Fairoze, A. Kate, and A. Miller. [hbACSS: How to Robustly Share Many Secrets](https://eprint.iacr.org/2021/159.pdf). NDSS, 2022. (to appear)
@@ -39,16 +38,17 @@
 - G. Asharov, I. Komargodski, W-K. Lin, E. Peserico, and E. Shi. [Optimal Oblivious Parallel RAM](https://eprint.iacr.org/2020/1292.pdf). SODA, 2022.
 - I. Eyal. [On cryptocurrency wallet design](https://drops.dagstuhl.de/opus/volltexte/2022/15901/pdf/OASIcs-Tokenomics-2021-4.pdf). ICBE S&P, 2022.
 - G. Asharov, T-H. H. Chan, K. Nayak, R. Pass, L. Ren, and E. Shi. [Locality-Preserving Oblivious RAM](https://eprint.iacr.org/2017/772). Journal of Cryptology, 2022.
-- J. Liu, P. Li, R. Cheng, N. Asokan, and D. Song. [Parallel and Asynchronous Smart Contract Execution](https://ieeexplore.ieee.org/document/9477197). IEEE S&P, 2022.
 - M. Rosenberg, M. Maller, and I. Miers. [SNARKBlock: Federated Anonymous Blocklisting from Hidden Common Input Aggregate Proofs](https://eprint.iacr.org/2021/1577.pdf). IEEE S&P, 2022.
+- S. Das, T. Yurek, Z. Xiang, A. Miller, E. Kokoris-Kogias, and L. Ren. [Practical Asynchronous Distributed Key Generation](https://eprint.iacr.org/2021/1591.pdf). IEEE S&P, 2022.
+- M. Zhou, T. Wang, T-H. Hubert Chan, G. Fanti, and E. Shi. [Locally Differentially Private Sparse Vector Aggregation](https://arxiv.org/pdf/2112.03449.pdf). IEEE S&P, 2022.
 
 ## 2021 ##
 
 - Y. Liu and R. Pass. [On the Possibility of Basing Cryptography on EXP not equal BPP](https://eprint.iacr.org/2021/535.pdf). Crypto, 2021 (Best Paper Award).
-- C. Acay, R. Recto, J. Gancher, A. C. Myers, and E. Shi. [Viaduct: An Extensible, Optimizing Compiler for Secure Distributed Programs](https://eprint.iacr.org/2021/468.pdf). ACM PLDI, 2021. 
-- M. Krol, A. Sonnino, M. Al-Bassam, A.G. Tasiopoulos, E. Riviere, and I. Psaras. [Proof-of-Prestige: A Useful Work Reward System for Unverifiable Tasks](https://dl.acm.org/doi/pdf/10.1145/3419483). ACM TIT, 2021.
-- S. Azouvi and D. Cappelletti. [Private Attacks in Longest Chain Proof-of-Stake Protocolswith Single Secret Leader Elections](https://dl.acm.org/doi/pdf/10.1145/3479722.3480996). ACM AFT, 2021.
-- M. Krol, O. Ascigil, S. Rene, A. Sonnino, M. Al-Bassam, and E. Riviere. [Shard Scheduler: object placement and migration in sharded account-based blockchains](https://dl.acm.org/doi/pdf/10.1145/3479722.3480989). ACM AFT, 2021.
+- C. Acay, R. Recto, J. Gancher, A. C. Myers, and E. Shi. [Viaduct: An Extensible, Optimizing Compiler for Secure Distributed Programs](https://eprint.iacr.org/2021/468.pdf). PLDI, 2021. 
+- M. Krol, A. Sonnino, M. Al-Bassam, A.G. Tasiopoulos, E. Riviere, and I. Psaras. [Proof-of-Prestige: A Useful Work Reward System for Unverifiable Tasks](https://dl.acm.org/doi/pdf/10.1145/3419483). TIT, 2021.
+- S. Azouvi and D. Cappelletti. [Private Attacks in Longest Chain Proof-of-Stake Protocolswith Single Secret Leader Elections](https://dl.acm.org/doi/pdf/10.1145/3479722.3480996). AFT, 2021.
+- M. Krol, O. Ascigil, S. Rene, A. Sonnino, M. Al-Bassam, and E. Riviere. [Shard Scheduler: object placement and migration in sharded account-based blockchains](https://dl.acm.org/doi/pdf/10.1145/3479722.3480989). AFT, 2021.
 - A. Agarwal, J. Bartusek, V. Goyal, D. Khurana, and G. Malavolta. [Two-Round Maliciously Secure Computation with Super-Polynomial Simulation](https://eprint.iacr.org/2021/1230). TCC, 2021.
 - I. Tsabary, M. Yechieli, and I. Eyal. [MAD-HTLC: Because HTLC is Crazy-Cheap to Attack](http://arxiv.org/abs/2006.12031). IEEE S&P, 2021.
 - K. Gurkan, P. Jovanovic, M. Maller, S. Meiklejohn, G. Stern, and A. Tomescu. [Aggregatable Distributed Key Generation](https://smeiklej.com/files/eurocrypt21.pdf). Eurocrypt, 2021. 
@@ -61,9 +61,10 @@
 - A. Judmayer, N. Stifter, A. Zamyatin, I. Tsabary, I. Eyal, P. Gazi, S. Meiklejohn, and E. Weippl. [SoK: Algorithmic Incentive Manipulation Attacks on Permissionless PoW Cryptocurrencies](https://eprint.iacr.org/2020/1614.pdf). FC, 2021.
 - M. Al-Bassam, A. Sonnino, V. Buterin, and I. Khoffi. [Fraud and Data Availability Proofs: Detecting Invalid Blocks in Light Clients](https://dl.acm.org/doi/10.1007/978-3-662-64331-0_15). FC, 2021.
 - A. Zamyatin, M. Al-Bassam, D. Zindros, E. Kokoris-Kogias, P. Moreno-Sanchez, A. Kiayias, and W.J. Knottenbelt. [SoK: Communication Across Distributed Ledgers](https://eprint.iacr.org/2019/1128.pdf). FC, 2021.
-- F. Suri-Payer, M. Burke, Z. Wang, Y. Zhang, L. Alvisi, and N. Crooks. [Basil: Breaking Up BFT with ACID (transactions)](https://www.cs.cornell.edu/lorenzo/papers/Suri21Basil.pdf). ACM SOSP, 2021.
+- F. Suri-Payer, M. Burke, Z. Wang, Y. Zhang, L. Alvisi, and N. Crooks. [Basil: Breaking Up BFT with ACID (transactions)](https://www.cs.cornell.edu/lorenzo/papers/Suri21Basil.pdf). SOSP, 2021.
 - D. Maram, H. Malvai, F. Zhang, N. Jean-Louis, A. Frolov, T. Kell, T. Lobban, C. Moy, A. Juels, and A. Miller. [CanDID: Can-Do Decentralized Identity with Legacy Compatibility, Sybil-Resistance, and Accountability](https://eprint.iacr.org/2020/934.pdf). IEEE S&P, 2021.
 - K. Thomas, D. Akhawe, M. Bailey, D. Boneh, E. Bursztein, S. Consolvo, N. Dell, Z. Durumeric, P. G. Kelley, D. Kumar, D. McCoy, S. Meiklejohn, T. Ristenpart, and G. Stringhini. [SoK: Hate, Harassment, and the Changing Landscape of Online Abuse](https://smeiklej.com/files/oakland21.pdf). IEEE S&P, 2021.
+- J. Liu, P. Li, R. Cheng, N. Asokan, and D. Song. [Parallel and Asynchronous Smart Contract Execution](https://ieeexplore.ieee.org/document/9477197). IEEE S&P, 2021.
 - E. Prasad. [Digital Currencies: Risk or Promise? The Case for Central Bank Digital Currencies](https://heinonline.org/HOL/Page?handle=hein.journals/catoj41&div=24&g_sent=1&casa_token=&collection=journals). Cato Journal, 2021.
 - S. Kanjalkar, Y. Zhang, S. Gandlur, and A. Miller. [Publicly Auditable MPC-as-a-Service with succinct verification and universal setup](https://arxiv.org/pdf/2107.04248.pdf). IEEE S&P, 2021.
 - A. Judmayer, N. Stifter, A. Zamyatin, I. Tsabary, I. Eyal, P. Gazi, S. Meiklejohn, and E. Weippl. [Pay to Win: Cheap, Cross-Chain Bribing Attacks on PoW Cryptocurrencies](http://eprints.cs.univie.ac.at/7102/1/wtsc21b.pdf). FC, 2021.
@@ -75,11 +76,11 @@
 - J. Liu, P. Li, R. Cheng, N. Asokan, and D. Song. [Parallel and asynchronous smart contract execution](https://ieeexplore.ieee.org/abstract/document/9477197). IEEE PDS, 2021. 
 - K. Wüst, L. Diana, K. Kostiainen, G. Karame, S. Matetic, and S. Capkun. [Bitcontracts: Supporting Smart Contracts in Legacy Blockchains](https://eprint.iacr.org/2019/857.pdf). NDSS, 2021.
 - B. Ford. [Technologizing Democracy or Democratizing Technology? A Layered-Architecture Perspective on Potentials and Challenges](https://bford.info/pub/soc/dt2-chapter-abs/). [Digital Technology and Democratic Theory](https://press.uchicago.edu/ucp/books/book/chicago/D/bo68657177.html). Univ. of Chicago Press, 2021.
-- B. Canakci, and R. van Renesse. [Scaling Membership of Byzantine Consensus](https://dl.acm.org/doi/abs/10.1145/3473138). ACM CCS, 2021.
+- B. Canakci, and R. van Renesse. [Scaling Membership of Byzantine Consensus](https://dl.acm.org/doi/abs/10.1145/3473138). CCS, 2021.
 - T-H. H. Chan, W-K. Lin, K. Nayak, and E. Shi. [Perfectly Secure Oblivious Parallel RAM with O(log3N/loglogN) Overhead](https://eprint.iacr.org/2020/604). ITC, 2021.
 - K-M. Chung, T-H. H. Chan, T. Wen, and E. Shi. [Game-Theoretic Fairness Meets Multi-Party Protocols: The Case of Leader Election](https://eprint.iacr.org/2020/1591). CRYPTO, 2021. 
-- I. Abraham, P. Jovanovic, M. Maller, S. Meiklejohn, G. Stern, and A. Tomescu. [Reaching Consensus for Asynchronous Distributed Key Generation](https://arxiv.org/pdf/2102.09041.pdf). ACM PODC, 2021.
-- I. Keidar, E. Kokoris-Kogias, O. Naor, and A. Spiegelman. [All You Need is DAG](https://arxiv.org/pdf/2102.08325.pdf). ACM PODC, 2021.
+- I. Abraham, P. Jovanovic, M. Maller, S. Meiklejohn, G. Stern, and A. Tomescu. [Reaching Consensus for Asynchronous Distributed Key Generation](https://arxiv.org/pdf/2102.09041.pdf). PODC, 2021.
+- I. Keidar, E. Kokoris-Kogias, O. Naor, and A. Spiegelman. [All You Need is DAG](https://arxiv.org/pdf/2102.08325.pdf). PODC, 2021.
 - E. Kokoris-Kogias, E.C. Alp, L. Gasser, P. Jovanovic, E. Syta, and B. Ford. [CALYPSO: Private Data Management for Decentralized Ledgers](https://eprint.iacr.org/2018/209). VLDB, 2021.
 
 ## 2020 ##
