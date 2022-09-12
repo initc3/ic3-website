@@ -2,9 +2,10 @@
 
 ## 2022 ##
 
+- S.M. Werner, D. Perez, L. Gudgeon, A. Klages-Mundt, D. Harz, and W.J. Knottenbelt. [SoK: Decentralized Finance (DeFi)](https://arxiv.org/pdf/2101.08778.pdf). AFT, 2022.
 - L. Huo, A. Klages-Mundt, A. Minca, F.C. Münter, and M. Rude Wind. [Decentralized Governance of Stablecoins with Closed Form Valuation](https://arxiv.org/pdf/2109.08939.pdf). MARBLE, 2022
 - A. Klages-Mundt and A. Minca. [While stability lasts: A stochastic model ofnoncustodial stablecoins](https://onlinelibrary.wiley.com/doi/epdf/10.1111/mafi.12357). Mathematical Finance Journal, 2022.
-- H. Chung and E. Shi. [Foundations of Transaction Fee Mechanism Design](https://arxiv.org/pdf/2111.03151.pdf). ACM EC, 2022.
+- H. Chung and E. Shi. [Foundations of Transaction Fee Mechanism Design](https://arxiv.org/pdf/2111.03151.pdf). EC, 2022.
 - T. Xie, Y. Zhang, and D. Song. [Orion: Zero Knowledge Proof with Linear Prover Time](https://eprint.iacr.org/2022/1010). CRYPTO, 2022.
 - I. Komargodski, S. Matsuo, E. Shi, and K. Wu. [log*-Round Game-Theoretically-Fair Leader Election](https://eprint.iacr.org/2022/791). CRYPTO, 2022.
 - E. Prasad. [After the Fall: Bitcoin's true lagacy may be blockchain technology](https://www.tandfonline.com/doi/pdf/10.1080/00963402.2022.2087371?needAccess=true). Bulletin of the Atomic Scientists, 2022.
@@ -26,6 +27,8 @@
 - S. Cohen, R. Gelashvili, E. Kokoris-Kogias, Z. Li, D. Malkhi, A. Sonnino, and A. Spiegelman. [Be Aware of Your Leaders](https://fc22.ifca.ai/preproceedings/32.pdf). FC, 2022.
 - R. Gelashvili, E. Kokoris-Kogias, A. Sonino, A. Spiegelman, and Z. Xiang. [Jolteon and Ditto: Network-Adaptive Efficient Consensus with Asynchronous Fallback](https://arxiv.org/abs/2106.10362). FC, 2022.
 - S. Azouvi, and A. Hicks. [Decentralization Conscious Players and System Reliability](https://arxiv.org/abs/2204.11980). FC, 2022. 
+- D.T. Nguyen and N. Trieu. [MPCCache: Privacy-Preserving Multi-Party Cooperative Cache Sharing at the Edge](https://fc22.ifca.ai/preproceedings/59.pdf). FC, 2022.
+- P. Vesely, K. Gurkan, M. Straka, A. Gabizon, P. Jovanovic, G. Konstantopoulos, A. Oines, M. Olszewski, and E. Tromer. [Plumo: An Ultralight Blockchain Client](https://fc22.ifca.ai/preproceedings/84.pdf). FC, 2022.
 - S. Das, T. Yurek, Z. Xiang, A. Miller, E. Kokoris-Kogias, and L. Ren. [Practical Asynchronous Distributed Key Generation](https://eprint.iacr.org/2021/1591.pdf). IEEE S&P, 2022.
 - I. Khaburzaniya, K. Chalkias, K. Lewi, and H. Malvai. [Aggregating and thresholdizing hash-based signatures using STARKs](https://eprint.iacr.org/2021/1048). Asia CCS, 2022.
 - K. Wu, G. Asharov, E. Shi. [A Complete Characterization of Game-Theoretically Fair, Multi-Party Coin Toss](https://eprint.iacr.org/2021/748). Eurocrypt, 2022.
