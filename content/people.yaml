@@ -213,6 +213,14 @@ students:
     email: co255@cornell.edu
     weburl:
     bio: "Carolina is a Computer Science PhD student at Cornell University. She is broadly interested in applied cryptography and security."
+  
+  -
+    name: 'Daniel Rabetti'
+    pic: Daniel.jpg
+    title:
+    email: rabetti@mail.tau.ac.il
+    weburl: 'https://www.danielrabetti.me/'
+    bio: "Daniel Rabetti is a financial economist pursuing a Ph.D. in Business at Tel Aviv University, and currently visiting Cornell University. Daniel's research interest lies at the intersection of financial innovation and disclosure - as means to mitigate asymmetric information in alternative financing markets. He has been working on academic research in the field of economics of blockchain, industrial organization, and disclosure in unregulated markets. Daniel's work has been featured in prominent conferences in accounting, finance, computer science, blockchain, and economics, and his work is currently on the path for publication in distinguished peer-reviewed academic journals."
     
   -
     name: 'Kyle Soska'
