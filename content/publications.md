@@ -200,6 +200,13 @@
 - J. Grimmelmann. [All Smart Contracts Are Ambiguous](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3315703). Journal of Law & Innovation, 2019.
 - Y. Guo, R. Pass, and E. Shi. [Synchronous, with a Chance of Partition Tolerance](https://eprint.iacr.org/2019/179). CRYPTO, 2019.
 - E. Shi. [Analysis of deterministic longest-chain protocols](https://eprint.iacr.org/2018/1079.pdf). IEEE CSF, 2019.
+- P. Fauzi, A. Meiklejohn, R. Mercer, and C. Orlandi. [Quisquis: A New Design for Anonymous Cryptocurrencies](https://eprint.iacr.org/2018/990). SBC, 2019.
+- S. Basu. [bloXroute: A Network for Tomorrow's Blockchain](https://www.youtube.com/watch?v=Z1hw1bMfafs). SBC, 2019.
+- T-H. Hubert Chan, Y. Guo, R. Pass, and E. Shi. [New and Simple Consensus Algorithms for ThunderCore’s Main-Net](https://www.youtube.com/watch?v=iwe1NxbX40A). SBC, 2019.
+- P. McCorry, S. Bakshi, A. Miller, S. Meiklejohn, I. Bentov, C. Buckland, and K. Wüst. [State Channels as a Scaling Solution for Cryptocurrencies](https://www.youtube.com/watch?v=XiWG0P1TJUY&feature=youtu.be). SBC, 2019.
+- S. Azouvi, P. McCorry, and S. Meiklejohn. [Betting on Blockchain Consensus with Fantômette](https://arxiv.org/abs/1805.06786). SBC, 2019.
+- S. Bowe, A. Chiesa, M. Green, I. Miers, P. Mishra, and H. Wu. [Zexe: Enabling Decentralized Private Computation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9152634). SBC, 2019.
+- N. Gailly, N. Liochon, O. Bégassat, and B. Kolad. [Handel: Practical Multi-Signature Aggregation for Large Byzantine Committees](https://arxiv.org/abs/1906.05132). SBC, 2019.
 
 ## 2018 ##
 
