@@ -31,10 +31,11 @@
 - G. Kappos, H. Yousaf, R. Stutz, S. Rollet, B. Haslhofer, and S. Meiklejohn. [How to Peel a Million: Validating and Expanding Bitcoin Clusters](https://smeiklej.com/files/usenix22.pdf). USENIX, 2022.
 - M. Kelkar, Phi Hung Le, Mariana Raykova, and Karn Seth. [Secure Poisson Regression](https://www.usenix.org/system/files/sec22summer_kelkar.pdf). USENIX, 2022.
 - J. Zhang, T. Xie, T. Hoang, E. Shi, and Y. Zhang. [Polynomial Commitment with a One-to-Many Prover and Applications](https://www.usenix.org/conference/usenixsecurity22/presentation/zhang-jiaheng). USENIX, 2022.
+- A. Shamis, P. Pietzuch, B. Canakci, M. Castro, C. Fournet, E. Ashton, A. Chamayou, S. Clebsch, A. Delignat-Lavaud, M. Kerner, J. Maffre, O. Vrousgou, C. M. Wintersteiger, M. Costa, and M. Russinovich.[IA-CCF: Individual Accountability for Permissioned Ledgers](https://www.usenix.org/system/files/nsdi22-paper-shamis.pdf). NDSI, 2022.
 - A. de la Rocha, E. Kokoris-Kogias, J. Soares, and M. Vukolic. [Hierarchical consensus: A horizontal scaling framework for blockchains](https://research.protocol.ai/publications/hierarchical-consensus-a-horizontal-scaling-framework-for-blockchains/). DINPS, 2022.
 - H. Zhang, L-H. Merino, V. Estrada-Galinanes, and B. Ford. [Flash freezing Flash Boys: Countering Blockchain Front-Running](https://bford.info/pub/sec/f3b/f3b-dinps22.pdf). DINPS, 2022.
 - M. Kelkar, S. Deb, and S. Kannan. [Order-Fair Consensus in the Permissionless Setting](https://dl.acm.org/doi/abs/10.1145/3494105.3526239). APKC, 2022.
-- G. Danezis, E. Kokoris-Kogias, A. Sonino, and A. Spiegelman. [Narwhal and Tusk: A DAG-based Mempool and Efficient BFT Consensus](https://arxiv.org/abs/2105.11827). EUROSYS, 2022 (Best Paper Award).
+- G. Danezis, E. Kokoris-Kogias, A. Sonino, and A. Spiegelman. [Narwhal and Tusk: A DAG-based Mempool and Efficient BFT Consensus](https://arxiv.org/abs/2105.11827). EuroSys, 2022 (Best Paper Award).
 - K. Chalkias, P. Chatzigiannis, and Y. Ji. [Broken Proofs of Solvency in Blockchain Custodial Wallets and Exchanges](https://eprint.iacr.org/2022/043). CoDecFin - FC, 2022.
 - A. Lotem, S. Azouvi, P. McCorry, and A. Zohar. [Sliding Window Challenge Process for Congestion Detection](https://arxiv.org/pdf/2201.09009.pdf). FC, 2022.
 - A. Nitulescu, N. Gailly, and M. Maller. [SnarkPack: Practical SNARK Aggregation](https://eprint.iacr.org/2021/529.pdf). FC, 2022.
@@ -43,9 +44,9 @@
 - S. Azouvi, and A. Hicks. [Decentralization Conscious Players and System Reliability](https://arxiv.org/abs/2204.11980). FC, 2022. 
 - D.T. Nguyen and N. Trieu. [MPCCache: Privacy-Preserving Multi-Party Cooperative Cache Sharing at the Edge](https://fc22.ifca.ai/preproceedings/59.pdf). FC, 2022.
 - P. Vesely, K. Gurkan, M. Straka, A. Gabizon, P. Jovanovic, G. Konstantopoulos, A. Oines, M. Olszewski, and E. Tromer. [Plumo: An Ultralight Blockchain Client](https://fc22.ifca.ai/preproceedings/84.pdf). FC, 2022.
-- I. Khaburzaniya, K. Chalkias, K. Lewi, and H. Malvai. [Aggregating and thresholdizing hash-based signatures using STARKs](https://eprint.iacr.org/2021/1048). Asia CCS, 2022.
+- I. Khaburzaniya, K. Chalkias, K. Lewi, and H. Malvai. [Aggregating and thresholdizing hash-based signatures using STARKs](https://eprint.iacr.org/2021/1048). ASIA CCS, 2022.
 - K. Wu, G. Asharov, E. Shi. [A Complete Characterization of Game-Theoretically Fair, Multi-Party Coin Toss](https://eprint.iacr.org/2021/748). Eurocrypt, 2022.
-- T. Yurek, L. Luo, J. Fairoze, A. Kate, and A. Miller. [hbACSS: How to Robustly Share Many Secrets](https://eprint.iacr.org/2021/159.pdf). NDSS, 2022. (to appear)
+- T. Yurek, L. Luo, J. Fairoze, A. Kate, and A. Miller. [hbACSS: How to Robustly Share Many Secrets](https://eprint.iacr.org/2021/159.pdf). NDSS, 2022.
 - V. Nair and B. Bailey. [Fast Anonymous Consensus and Private Authentication in Large Distributed Systems](https://nair.me/consensus.pdf). NDSS, 2022.
 - I. Khaburzaniya, K. Chalkias, K. Lewi, and H. Malvai. [Aggregating and thresholdizing hash-based signatures using STARKs](https://eprint.iacr.org/2021/1048.pdf). ACM CCS, 2022.
 - N. Giridharan, L. Kokoris-Kogias, A. Sonnino, and A. Spiegelman. [Bullshark: DAG BFT Protocols Made Practical](https://arxiv.org/pdf/2201.05677.pdf). ACM CCS, 2022.
