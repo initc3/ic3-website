@@ -2,6 +2,9 @@
 
 ## 2022 ##
 
+- Y. Pu, L. Alvisi, and I. Eyal. [Safe Permissionless Consensus](https://eprint.iacr.org/2022/796). DISC, 2022.
+- I. Abraham, N. Crooks, N. Giridharan, H. Howard, and F. Suri-Payer. [It's not easy to relax: liveness in chained BFT protocols](https://arxiv.org/pdf/2205.11652.pdf). DISC, 2022.
+- O. Naor and I. Keidar. [On Payment Channels in Asynchronous Money Transfer Systems](https://arxiv.org/abs/2202.06693). DISC, 2022.
 - M. Kelkar, S. Deb, S. Long, A. Juels, and S. Kannan. [Themis: Fast, Strong Order-Fairness in Byzantine Consensus](https://eprint.iacr.org/2021/1465.pdf). SBC, 2022.
 - S. Werner, D. Perez, L. Gudgeon, A. Klages-Mundt, D. Harz, and W. Knottenbelt. [SoK: Decentralized Finance (DeFi)](https://arxiv.org/abs/2101.08778). SBC, 2022.
 - A. Klages-Mundt and S. Schuldenzucker. [Gyroscope P-AMM: Designing an Autonomous Primary Market for Stabilizing Non-custodial Stablecoins](https://www.youtube.com/watch?v=rbcGjQgbksk&t=3542s). SBC, 2022.
