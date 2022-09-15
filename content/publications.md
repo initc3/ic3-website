@@ -27,6 +27,7 @@
 - I. Abraham and G. Asharov. [Gradecast in Synchrony and Reliable Broadcast in Asynchrony with Optimal Resilience, Efficiency, and Unconditional Security](https://eprint.iacr.org/2022/264). PODC, 2022.
 - I. Abraham, T-H. Hubert Chan, D. Dolev, K. Nayak, R. Pass, L. Ren, and E. Shi. [Communication complexity of Byzantine Agreement, revisited](https://link.springer.com/article/10.1007/s00446-022-00428-8). PODC, 2022.
 - N. Ben-David, B.Y. Chan, and E. Shi. [Revisiting the Power of Non-Equivocation in Distributed Protocols](https://dl.acm.org/doi/abs/10.1145/3519270.3538427). PODC, 2022.
+- S. Badrinarayanan, P. Miao, and T. Xie. [Updatable Private Set Intersection](https://www.petsymposium.org/popets/2022/popets-2022-0051.pdf). PoPETS, 2022.
 - M. Vuppalapati, K. Babel, A. Khandelwal, and R. Agarwal. [SHORTSTACK: Distributed, Fault-tolerant, Oblivious Data Access](https://eprint.iacr.org/2022/662). OSDI, 2022. 
 - G. Kappos, H. Yousaf, R. Stutz, S. Rollet, B. Haslhofer, and S. Meiklejohn. [How to Peel a Million: Validating and Expanding Bitcoin Clusters](https://smeiklej.com/files/usenix22.pdf). USENIX, 2022.
 - M. Kelkar, Phi Hung Le, Mariana Raykova, and Karn Seth. [Secure Poisson Regression](https://www.usenix.org/system/files/sec22summer_kelkar.pdf). USENIX, 2022.
