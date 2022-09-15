@@ -2,6 +2,7 @@
 
 ## 2022 ##
 
+- C. Freitag, R. Pass, and N. Sirkin. [Parallelizable Delegation from LWE](https://eprint.iacr.org/2022/1025). TCC, 2022.
 - Y. Pu, L. Alvisi, and I. Eyal. [Safe Permissionless Consensus](https://eprint.iacr.org/2022/796). DISC, 2022.
 - I. Abraham, N. Crooks, N. Giridharan, H. Howard, and F. Suri-Payer. [It's not easy to relax: liveness in chained BFT protocols](https://arxiv.org/pdf/2205.11652.pdf). DISC, 2022.
 - O. Naor and I. Keidar. [On Payment Channels in Asynchronous Money Transfer Systems](https://arxiv.org/abs/2202.06693). DISC, 2022.
@@ -21,7 +22,7 @@
 - S.M. Werner, D. Perez, L. Gudgeon, A. Klages-Mundt, D. Harz, and W.J. Knottenbelt. [SoK: Decentralized Finance (DeFi)](https://arxiv.org/pdf/2101.08778.pdf). AFT, 2022.
 - L. Huo, A. Klages-Mundt, A. Minca, F.C. Münter, and M. Rude Wind. [Decentralized Governance of Stablecoins with Closed Form Valuation](https://arxiv.org/pdf/2109.08939.pdf). MARBLE, 2022
 - A. Klages-Mundt and A. Minca. [While stability lasts: A stochastic model of noncustodial stablecoins](https://onlinelibrary.wiley.com/doi/epdf/10.1111/mafi.12357). Mathematical Finance Journal, 2022.
-- E. Prasad. [After the Fall: Bitcoin's true lagacy may be blockchain technology](https://www.tandfonline.com/doi/pdf/10.1080/00963402.2022.2087371?needAccess=true). Bulletin of the Atomic Scientists, 2022.
+- E. Prasad. [After the Fall: Bitcoin's true legacy may be blockchain technology](https://www.tandfonline.com/doi/pdf/10.1080/00963402.2022.2087371?needAccess=true). Bulletin of the Atomic Scientists, 2022.
 - G. Fanti, K. Kostiainen, W. Howlett, J. Lipsky, O. Moehr, J.P. Schnapper-Casteras, and J. Wolff. [MISSING KEY: The Challenge of Cybersecurity and Central Bank Digital Currency](https://www.atlanticcouncil.org/wp-content/uploads/2022/06/Missing_key.pdf). Atlantic Council, 2022. 
 - H. Chung and E. Shi. [Foundations of Transaction Fee Mechanism Design](https://arxiv.org/pdf/2111.03151.pdf). EC, 2022.
 - T. Xie, Y. Zhang, and D. Song. [Orion: Zero Knowledge Proof with Linear Prover Time](https://eprint.iacr.org/2022/1010). CRYPTO, 2022.
