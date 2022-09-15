@@ -56,6 +56,7 @@
 - N. Giridharan, L. Kokoris-Kogias, A. Sonnino, and A. Spiegelman. [Bullshark: DAG BFT Protocols Made Practical](https://arxiv.org/pdf/2201.05677.pdf). ACM CCS, 2022.
 - G. Asharov, I. Komargodski, W-K. Lin, E. Peserico, and E. Shi. [Optimal Oblivious Parallel RAM](https://eprint.iacr.org/2020/1292.pdf). SODA, 2022.
 - I. Eyal. [On cryptocurrency wallet design](https://drops.dagstuhl.de/opus/volltexte/2022/15901/pdf/OASIcs-Tokenomics-2021-4.pdf). ICBE S&P, 2022.
+- N. Gailly, M. Maller, and A. Nitulescu. [SnarkPack: Practical SNARK Aggregation](https://eprint.iacr.org/archive/2021/529/1630960802.pdf). RWC, 2022.
 - G. Asharov, T-H. H. Chan, K. Nayak, R. Pass, L. Ren, and E. Shi. [Locality-Preserving Oblivious RAM](https://eprint.iacr.org/2017/772). Journal of Cryptology, 2022.
 - M. Rosenberg, M. Maller, and I. Miers. [SNARKBlock: Federated Anonymous Blocklisting from Hidden Common Input Aggregate Proofs](https://eprint.iacr.org/2021/1577.pdf). IEEE S&P, 2022.
 - S. Das, T. Yurek, Z. Xiang, A. Miller, E. Kokoris-Kogias, and L. Ren. [Practical Asynchronous Distributed Key Generation](https://eprint.iacr.org/2021/1591.pdf). IEEE S&P, 2022.
