@@ -28,7 +28,7 @@ Our thanks to Eirik Ulversøy, a.k.a. *Kitten Mittens*, and to Dapper Labs for t
   - Mukti Khaire (Cornell) - "Are NFTs 'Art'"
   - Phil Daian (Cornell) - "A Journey Through Glass and Blockchains"
   - James Grimmelmann (Cornell) - "Why NFT Licensing Is Hard"
-  - Fernanda Viégas and Martin Wattenberg (Harvard University) - "The Aura of Ones and Zeros" (via Zoom)
+  - Fernanda Viégas and Martin Wattenberg (Harvard) - "The Aura of Ones and Zeros" (via Zoom)
   - Yan Ji (Cornell) - "NFT Fair Drops With Decentralized Identities"
   - Ittay Eyal (Technion) - "Wallet Design"
   - Deepak Maram (Cornell) - "Reliable NFT storage with GoAT"
