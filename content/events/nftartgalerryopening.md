@@ -22,22 +22,16 @@ Non-Fungible Tokens (NFTs) have created an exciting new area of research at the 
                                                                                                                                                     
 Our thanks to Eirik Ulversøy, a.k.a. *Kitten Mittens*, and to Dapper Labs for their generous loan of historically important and rare CryptoKitties for our experiment at the event in the psychology of NFT viewing.  
                                                                                                                                                     
-**Featured event speakers will include:**  
+**Event program:**  
                                                                                                                                                     
-  - Ittay Eyal (Technion)
-  - James Grimmelmann (Cornell Tech)
-  - Ari Juels (Cornell Tech)
-  - Mukti Khaire (Cornell Tech)
-  - Fernanda Viégas (Harvard University)
-  - Martin Wattenberg (Harvard University)
-                                                                                                                                                    
-**Event topics will include:** 
-                                                                                                                                                    
-  - Combatting bots in NFT drops and marketplaces
-  - NFT copyright
-  - NFTs and traditional art markets
-  - NFT fractionalization and *atomic* NFTs 
-  - Physical encounters with NFTs
-  - NFT key management and lifecycle
-                                                                                                                                                    
-Full program to come.                                                                                                                                                    
+  - Ari Juels (Cornell) - "Intro: What This Event Is All About"
+  - Mukti Khaire (Cornell) - "Are NFTs 'Art'"
+  - Phil Daian (Cornell) - "A Journey Through Glass and Blockchains"
+  - James Grimmelmann (Cornell) - "Why NFT Licensing Is Hard"
+  - Fernanda Viégas and Martin Wattenberg (Harvard University) - "The Aura of Ones and Zeros" (via Zoom)
+  - Yan Ji (Cornell) - "NFT Fair Drops With Decentralized Identities"
+  - Ittay Eyal (Technion) - "Wallet Design"
+  - Deepak Maram (Cornell) - "Reliable NFT storage with GoAT"
+  - Kushal Babel (Cornell) - "The Science behind Atomic NFTs"
+                                                                                                                                                             
+**PLEASE NOTE: THIS IS AN IN-PERSON EVENT, WITH NO ONLINE COMPONENT.**
