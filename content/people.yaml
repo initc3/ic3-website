@@ -215,6 +215,14 @@ students:
     bio: "Carolina is a Computer Science PhD student at Cornell University. She is broadly interested in applied cryptography and security."
   
   -
+    name: 'Marwa Moallem'
+    pic: Marwa.jpg
+    title:
+    email: marwamouallem@gmail.com
+    weburl:
+    bio: "Marwa is a graduate student at the Technion working with professor Ittay Eyal. She is interested in cryptography and game theory."
+    
+  -
     name: 'Daniel Rabetti'
     pic: Daniel.jpg
     title:
