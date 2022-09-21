@@ -31,7 +31,6 @@ Our thanks to Eirik Ulversøy, a.k.a. *Kitten Mittens*, and to Dapper Labs for t
   - Fernanda Viégas and Martin Wattenberg (Harvard) - "The Aura of Ones and Zeros" (via Zoom)
   - Yan Ji (Cornell) - "NFT Fair Drops With Decentralized Identities"
   - Ittay Eyal (Technion) - "Wallet Design"
-  - Deepak Maram (Cornell) - "Reliable NFT storage with GoAT"
   - Kushal Babel (Cornell) - "The Science behind Atomic NFTs"
                                                                                                                                                              
 **PLEASE NOTE: THIS IS AN IN-PERSON EVENT, WITH NO ONLINE COMPONENT.**
