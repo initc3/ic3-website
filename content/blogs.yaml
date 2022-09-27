@@ -194,4 +194,11 @@
  title: "Decentralizing Databases with Basil"
  authors: Florian Suri-Payer and Natacha Crooks
  summary: Applications want to retain database functionality when decentralizing their systems. Unfortunately, straightforward designs atop today's blockchain system fall short of this task. The current separation between the ordering layer and the application materialization layer in blockchain based designs precludes the design of expressive, and high performance transactional systems. In our recent work <a href="https://dl.acm.org/doi/abs/10.1145/3477132.3483552?casa_token=1-8n4ZLMN_gAAAAA%3AP_MCtY9YgtRibYd3MOASkwhBqpmzt-XKBCub4dTFBaA1Q2fprMQZN9l7KzRaOvB0swI3FLeUwOqFkL8">Basil - Breaking up BFT with ACID (transactions)</a> we explore how to merge these layers for improved scalability and usability. 
-  
+
+-
+ date: 2022-09-26
+ url: https://medium.com/initc3org/anchored-nfts-33148b905105
+ title: "Anchored NFTs"
+ authors: Ari Juels
+ summary: Museums exist not just to house original works of art, but as shrines to be visited by art lovers. Physical works of art — oil paintings, for instance — look very different in person than in posters or digital images. I've spent twenty minutes staring at <a href="https://www.nga.gov/collection/art-object-page.1236.html">this Vermeer</a> in person. I can assure you that the sacred hush magically rendered by the artist in the original painting is all but obliterated in reproduction. There’s another facet to appreciation of art, though, one that’s not just about brushstrokes or esthetic nuance. Why, after all, do people flock to see the Mona Lisa when they can barely make it out through the ten-foot thick protective barrier of tourists? 
+ 
