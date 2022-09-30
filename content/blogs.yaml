@@ -209,3 +209,11 @@
  authors: Ari Juels
  summary: Museums exist not just to house original works of art, but as shrines to be visited by art lovers. Physical works of art — oil paintings, for instance — look very different in person than in posters or digital images. I've spent twenty minutes staring at <a href="https://www.nga.gov/collection/art-object-page.1236.html">this Vermeer</a> in person. I can assure you that the sacred hush magically rendered by the artist in the original painting is all but obliterated in reproduction. There’s another facet to appreciation of art, though, one that’s not just about brushstrokes or esthetic nuance. Why, after all, do people flock to see the Mona Lisa when they can barely make it out through the ten-foot thick protective barrier of tourists? 
 
+-
+ date: 2022-09-30
+ url: https://medium.com/initc3org/atomic-nfts-cdc1c30deec6
+ title: "Atomic NFTs"
+ authors: James Austgen, Kushal Babel, Phil Daian, Ari Juels, adn Mahimna Kelkar
+ summary: Atomic NFTs introduce new cryptographic techniques in order to enable NFT creators to prevent fractionalization of their NFTs. Our work promises to give creators stronger control over how their NFTs are bought and sold. We stress that Atomic NFTs are a preliminary research concept. More research needs to be done to make them truly practical. We believe, however, that practicality is on the horizon and that Atomic NFTs could someday become a standard option in NFT creation.
+ 
+ 
