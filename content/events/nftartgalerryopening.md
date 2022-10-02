@@ -28,7 +28,7 @@ Our thanks to Eirik Ulversøy, a.k.a. *Kitten Mittens*, and to Dapper Labs for t
 
 6:00 PM - NFT Talks
                                                                                                                                                     
-   ***Ari Juels (Cornell) - "Intro: What This Event Is All About"***
+   - Ari Juels (Cornell) - "Intro: What This Event Is All About"
 
    ***Mukti Khaire (Cornell) - "Are NFTs 'Art'"***
 
@@ -47,5 +47,6 @@ Our thanks to Eirik Ulversøy, a.k.a. *Kitten Mittens*, and to Dapper Labs for t
    ***Kushal Babel (Cornell) - "The Science behind Atomic NFTs"***
 
 8:00 PM - Reception & Networking
+
                                                                                                                                                              
 **PLEASE NOTE: THIS IS AN IN-PERSON EVENT, WITH NO ONLINE COMPONENT.**
