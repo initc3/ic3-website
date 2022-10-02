@@ -22,15 +22,23 @@ Non-Fungible Tokens (NFTs) have created an exciting new area of research at the 
                                                                                                                                                     
 Our thanks to Eirik Ulversøy, a.k.a. *Kitten Mittens*, and to Dapper Labs for their generous loan of historically important and rare CryptoKitties for our experiment at the event in the psychology of NFT viewing.  
                                                                                                                                                     
-**Event program:**  
+**Event Agenda:**  
+
+5:30 PM - Check-in
+6:00 PM - NFT Talks
                                                                                                                                                     
-  - Ari Juels (Cornell) - "Intro: What This Event Is All About"
-  - Mukti Khaire (Cornell) - "Are NFTs 'Art'"
-  - Phil Daian (Cornell) - "A Journey Through Glass and Blockchains"
-  - James Grimmelmann (Cornell) - "Why NFT Licensing Is Hard"
-  - Fernanda Viégas and Martin Wattenberg (Harvard) - "The Aura of Ones and Zeros" (via Zoom)
-  - Yan Ji (Cornell) - "NFT Fair Drops With Decentralized Identities"
-  - Ittay Eyal (Technion) - "Wallet Design"
-  - Kushal Babel (Cornell) - "The Science behind Atomic NFTs"
+**- Ari Juels (Cornell) - "Intro: What This Event Is All About"
+**- Mukti Khaire (Cornell) - "Are NFTs 'Art'"
+**- Phil Daian (Cornell) - "A Journey Through Glass and Blockchains"
+**- James Grimmelmann (Cornell) - "Why NFT Licensing Is Hard"**
+
+7:00 PM - Break (15 minutes)
+
+**- Fernanda Viégas and Martin Wattenberg (Harvard) - "The Aura of Ones and Zeros" (via Zoom)
+**- Yan Ji (Cornell) - "NFT Fair Drops With Decentralized Identities"
+**- Ittay Eyal (Technion) - "Wallet Design"
+**- Kushal Babel (Cornell) - "The Science behind Atomic NFTs"
+
+8:00 PM - Reception & Networking
                                                                                                                                                              
 **PLEASE NOTE: THIS IS AN IN-PERSON EVENT, WITH NO ONLINE COMPONENT.**
