@@ -1,5 +1,9 @@
 # Published Papers
 
+## 2023 ##
+
+- K. Babel, P. Daian, M. Kelkar, and A. Juels. [Clockwork Finance: Automated Analysis of Economic Security in Smart Contracts](https://eprint.iacr.org/2021/1147.pdf). IEEE S&P, 2023. (to appear)
+
 ## 2022 ##
 
 - C. Freitag, R. Pass, and N. Sirkin. [Parallelizable Delegation from LWE](https://eprint.iacr.org/2022/1025). TCC, 2022.
