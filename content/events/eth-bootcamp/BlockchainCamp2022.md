@@ -96,9 +96,7 @@ Project teams self-selected projects on Sunday after considering the project pro
     <img class="ui centered image" src="../images/events/blockchain-camp-2022/Project2.jpg" alt="" />
     <div class="ui bottom attached message">
     <strong>Second Place: "Surprising Enclave Applications using Oasis Sapphire"</strong><br>
-    <strong>Team Members</strong>: Andrew Miller (project leader), Sylvain Bellemare (project leader), Nerla Jean-Louis, Kevin Yu, Afonso Tinoco, and Zhengxun Wu<br>
-    <strong>Summary</strong>: ...<br>
-    <strong>Resources</strong>: ...<br>    
+    <strong>Team Members</strong>: Andrew Miller (project leader), Sylvain Bellemare (project leader), Nerla Jean-Louis, Kevin Yu, Afonso Tinoco, and Zhengxun Wu<br> 
     </div>
 </div>
 
@@ -106,9 +104,7 @@ Project teams self-selected projects on Sunday after considering the project pro
     <img class="ui centered image" src="../images/events/blockchain-camp-2022/Project3.jpg" alt="" />
     <div class="ui bottom attached message">
     <strong>Third Place: "Application-Specific EVMs using Precompiled Contracts"</strong><br>
-    <strong>Team Members</strong>: Patrick Kiefer (project leader), Edward Mehrez (project leader), Preston Rozwood (project leader), Connor Stein, Jim Tao, and Antenhe Tena<br>
-    <strong>Summary</strong>: ...<br>
-    <strong>Resources</strong>: ...<br>    
+    <strong>Team Members</strong>: Patrick Kiefer (project leader), Edward Mehrez (project leader), Preston Rozwood (project leader), Connor Stein, Jim Tao, and Antenhe Tena<br>  
     </div>
 </div>
 
@@ -134,6 +130,4 @@ Resources: <a href="https://ethresear.ch/t/approaches-to-complete-privacy-for-me
 
 Members: Songwei Chen (project leader), Wayne Chen (project leader), Michael Mirkin, Fan Zhang, Bineet Mishra, Weizhao Tang, Haoqian Zhang, and Marwa Mouallem
 
-Summary:...
-
-Resources:
+***See you all next year!***
