@@ -11,7 +11,7 @@ summary: Please join us for an evening of art and research talks to celebrate th
 </div>
    
                                                                                                     
-**Register for the event <a href="https://www.eventbrite.com/e/nft-art-gallery-opening-at-cornell-tech-presented-by-ic3-tickets-403154515007">here</a>.**
+**NFT Talks Recording <a href="https://www.youtube.com/watch?v=8u1MKhZsZK0&t=79s">here</a>.**
          
      
 **About this event**
