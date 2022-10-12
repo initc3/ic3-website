@@ -11,7 +11,7 @@ summary: Please join us for an evening of art and research talks to celebrate th
 </div>
    
                                                                                                     
-**NFT Talks Recording <a href="https://www.youtube.com/watch?v=8u1MKhZsZK0&t=79s">here</a>.**
+**NFT Talks recording <a href="https://www.youtube.com/watch?v=8u1MKhZsZK0">here</a>.**
          
      
 **About this event**
