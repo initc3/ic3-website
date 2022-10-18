@@ -9,15 +9,19 @@ summary: Thank you all for joining us for an evening of art and research talks t
 <div class="ui piled segment">
   <img class="ui centered image" src="../images/events/NFTartgalleryopening2022/ic3 logo new.png" alt="" />
 </div>
-   
-                                                                                                                                                               
+  
+  
+**About the Event:**
+
 The Initiative for CryptoCurrencies and Contracts (IC3) hosted an inaugural NFT art gallery opening at Cornell Tech in New York City.
                                                                                                                                                     
 Non-Fungible Tokens (NFTs) have created an exciting new area of research at the intersection of computer science, art, law, and economics. The event featured the unveiling of an artist-made glass projection screen showcasing a gallery of NFTs that represent the latest NFT research from IC3. It also featured talks highlighting advances in NFT technology from faculty and students across a range of disciplines. 
                                                                                                                                                     
 Our thanks to Eirik Ulversøy, a.k.a. *Kitten Mittens*, and to Dapper Labs for their generous loan of historically important and rare CryptoKitties for our experiment at the event in the psychology of NFT viewing.  
 
+
 ***Please visit the <a href="https://www.youtube.com/watch?v=8u1MKhZsZK0">IC3 YouTube channel</a> to listen to the NFT Talks recording.***
+
 
 **Speakers:**
 
@@ -39,3 +43,4 @@ Our thanks to Eirik Ulversøy, a.k.a. *Kitten Mittens*, and to Dapper Labs for t
    - Kushal Babel (Cornell) - "The Science behind Atomic NFTs"
    
 
+**Thank you for your participation and we hope to see you at future IC3 events!**
