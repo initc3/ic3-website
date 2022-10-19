@@ -9,9 +9,12 @@ summary: Thank you all for joining us for an evening of art and research talks t
 <div class="ui center aligned basic segment">
     <div class="ui center image">
         <img class="ui image" src="../images/events/NFTartgalleryopening2022/Ari.jpg" alt="" />
+    </div>
+    <div class="ui center image">
         <img class="ui image" src="../images/events/NFTartgalleryopening2022/Ari1.jpg" alt="" />
-          <strong>Prof. Ari Juels giving an Intro to NFTs.
-</strong><br>
+    </div>
+    <div class="ui bottom attached message">
+        <strong>Prof. Ari Juels giving an Intro to NFTs.</strong><br>
     </div>
 </div> 
   
