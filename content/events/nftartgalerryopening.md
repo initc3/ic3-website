@@ -6,34 +6,14 @@ end: 2022-10-03
 summary: Thank you all for joining us for an evening of art and research talks to celebrate the opening of the NFT Art Gallery at Cornell Tech in New York City.
 ---
 
-<div class="ui center aligned basic segment">
-    <div class="ui center image">
-        <img class="ui image" src="../images/events/NFTartgalleryopening2022/Ari.jpg" alt="" width="550"/>
-    </div>
-    <div class="ui center image">
-        <img class="ui image" src="../images/events/NFTartgalleryopening2022/Ari1.jpg" alt="" width="460"/>
-    </div>
-    <div class="ui bottom attached message">
-        <strong>Prof. Ari Juels giving an Intro to NFTs.
-    </strong><br>
-    </div>
-</div> 
-  
-  
 **About the Event:**
 
 The Initiative for CryptoCurrencies and Contracts (IC3) hosted an inaugural NFT art gallery opening at Cornell Tech in New York City.
-                                                                                                                                                    
-Non-Fungible Tokens (NFTs) have created an exciting new area of research at the intersection of computer science, art, law, and economics. The event featured the unveiling of an artist-made glass projection screen showcasing a gallery of NFTs that represent the latest NFT research from IC3. It also featured talks highlighting advances in NFT technology from faculty and students across a range of disciplines. 
-                                                                                                                                                    
-Our thanks to Eirik Ulversøy, a.k.a. *Kitten Mittens*, and to Dapper Labs for their generous loan of historically important and rare CryptoKitties for our experiment at the event in the psychology of NFT viewing.  
-
 
 ***Please visit the <a href="https://www.youtube.com/channel/UCz-eTbD4kHkYxGhUfXawHow">IC3 YouTube channel</a> to listen to the full, as well as individual NFT Talks recordings.***
 
 
 **Speakers:**
-
                                                                                                                            
    - Ari Juels (Cornell) - "Intro: What This Event Is All About"
 
@@ -50,6 +30,41 @@ Our thanks to Eirik Ulversøy, a.k.a. *Kitten Mittens*, and to Dapper Labs for t
    - Ittay Eyal (Technion) - "Wallet Design"
 
    - Kushal Babel (Cornell) - "The Science behind Atomic NFTs"
+
+
+<div class="ui center aligned basic segment">
+    <div class="ui center image">
+        <img class="ui image" src="../images/events/NFTartgalleryopening2022/Ari.jpg" alt="" width="550"/>
+    </div>
+    <div class="ui center image">
+        <img class="ui image" src="../images/events/NFTartgalleryopening2022/Ari1.jpg" alt="" width="460"/>
+    </div>
+    <div class="ui bottom attached message">
+        <strong>Prof. Ari Juels giving an Intro to NFTs.
+    </strong><br>
+    </div>
+</div>   
+
+
+Non-Fungible Tokens (NFTs) have created an exciting new area of research at the intersection of computer science, art, law, and economics. The event featured the unveiling of an artist-made glass projection screen showcasing a gallery of NFTs that represent the latest NFT research from IC3. It also featured talks highlighting advances in NFT technology from faculty and students across a range of disciplines. 
+
+
+<div class="ui center aligned basic segment">
+    <div class="ui center image">
+        <img class="ui image" src="../images/events/NFTartgalleryopening2022/6.jpg" alt="" width="500"/>
+    </div>
+    <div class="ui center image">
+        <img class="ui image" src="../images/events/NFTartgalleryopening2022/3.jpg" alt="" width="500"/>
+    </div>
+    <div class="ui bottom attached message">
+        <strong>CryptoKitties on display at the NFT Gallery.
+    </strong><br>
+    </div>
+</div> 
+ 
+ 
+Our thanks to Eirik Ulversøy, a.k.a. *Kitten Mittens*, and to Dapper Labs for their generous loan of historically important and rare CryptoKitties for our experiment at the event in the psychology of NFT viewing.  
+
    
 <div class="ui center aligned basic segment">
     <div class="ui center image">
