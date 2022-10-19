@@ -50,7 +50,7 @@ Non-Fungible Tokens (NFTs) have created an exciting new area of research at the 
 
 <div class="ui center aligned basic segment">
     <div class="ui center image">
-        <img class="ui image" src="../images/events/NFTartgalleryopening2022/6.jpg" alt="" width="475"/>
+        <img class="ui image" src="../images/events/NFTartgalleryopening2022/6.jpg" alt="" width="480"/>
     </div>
     <div class="ui center image">
         <img class="ui image" src="../images/events/NFTartgalleryopening2022/3.jpg" alt="" width="500"/>
