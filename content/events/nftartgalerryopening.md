@@ -20,7 +20,7 @@ Non-Fungible Tokens (NFTs) have created an exciting new area of research at the 
 Our thanks to Eirik Ulversøy, a.k.a. *Kitten Mittens*, and to Dapper Labs for their generous loan of historically important and rare CryptoKitties for our experiment at the event in the psychology of NFT viewing.  
 
 
-***Please visit the <a href="https://www.youtube.com/watch?v=8u1MKhZsZK0">IC3 YouTube channel</a> to listen to the full, as well as individual NFT Talks recordings.***
+***Please visit the <a href="https://www.youtube.com/channel/UCz-eTbD4kHkYxGhUfXawHow">IC3 YouTube channel</a> to listen to the full, as well as individual NFT Talks recordings.***
 
 
 **Speakers:**
