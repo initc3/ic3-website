@@ -6,9 +6,14 @@ end: 2022-10-03
 summary: Thank you all for joining us for an evening of art and research talks to celebrate the opening of the NFT Art Gallery at Cornell Tech in New York City.
 ---
 
-<div class="ui piled segment">
-  <img class="ui centered image" src="../images/events/NFTartgalleryopening2022/ic3 logo new.png" alt="" />
-</div>
+<div class="ui center aligned basic segment">
+    <div class="ui center image">
+        <img class="ui image" src="../images/events/NFTartgalleryopening2022/Ari.jpg" alt="" />
+        <img class="ui image" src="../images/events/NFTartgalleryopening2022/Ari1.jpg" alt="" />
+          <strong>Prof. Ari Juels giving an Intro to NFTs.
+</strong><br>
+    </div>
+</div> 
   
   
 **About the Event:**
