@@ -7,6 +7,8 @@ summary: Thank you all for joining us for an evening of art and research talks t
 ---
 
 
+
+
 The Initiative for CryptoCurrencies and Contracts (IC3) hosted an inaugural NFT art gallery opening at Cornell Tech in New York City.
 
 ***Please visit the <a href="https://www.youtube.com/channel/UCz-eTbD4kHkYxGhUfXawHow">IC3 YouTube channel</a> to listen to the full, as well as individual NFT Talks recordings.***
