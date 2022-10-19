@@ -20,7 +20,7 @@ Non-Fungible Tokens (NFTs) have created an exciting new area of research at the 
 Our thanks to Eirik Ulversøy, a.k.a. *Kitten Mittens*, and to Dapper Labs for their generous loan of historically important and rare CryptoKitties for our experiment at the event in the psychology of NFT viewing.  
 
 
-***Please visit the <a href="https://www.youtube.com/watch?v=8u1MKhZsZK0">IC3 YouTube channel</a> to listen to the NFT Talks recording.***
+***Please visit the <a href="https://www.youtube.com/watch?v=8u1MKhZsZK0">IC3 YouTube channel</a> to listen to the full, as well as individual NFT Talks recordings.***
 
 
 **Speakers:**
@@ -42,5 +42,12 @@ Our thanks to Eirik Ulversøy, a.k.a. *Kitten Mittens*, and to Dapper Labs for t
 
    - Kushal Babel (Cornell) - "The Science behind Atomic NFTs"
    
+<div class="ui center aligned basic segment">
+    <div class="ui center image">
+        <img class="ui image" src="../images/events/NFTartgalleryopening2022/9.jpg" alt="" />
+          <strong>Guests enjoying light refreshments at the NFT Gallery Opening.
+</strong><br>
+    </div>
+</div>    
 
 **Thank you for your participation and we hope to see you at future IC3 events!**
