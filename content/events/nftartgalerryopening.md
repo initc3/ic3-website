@@ -6,7 +6,6 @@ end: 2022-10-03
 summary: Thank you all for joining us for an evening of art and research talks to celebrate the opening of the NFT Art Gallery at Cornell Tech in New York City.
 ---
 
-**About the Event:**
 
 The Initiative for CryptoCurrencies and Contracts (IC3) hosted an inaugural NFT art gallery opening at Cornell Tech in New York City.
 
@@ -51,7 +50,7 @@ Non-Fungible Tokens (NFTs) have created an exciting new area of research at the 
 
 <div class="ui center aligned basic segment">
     <div class="ui center image">
-        <img class="ui image" src="../images/events/NFTartgalleryopening2022/6.jpg" alt="" width="500"/>
+        <img class="ui image" src="../images/events/NFTartgalleryopening2022/6.jpg" alt="" width="470"/>
     </div>
     <div class="ui center image">
         <img class="ui image" src="../images/events/NFTartgalleryopening2022/3.jpg" alt="" width="500"/>
