@@ -28,7 +28,7 @@ The Initiative for CryptoCurrencies and Contracts (IC3) hosted an inaugural NFT 
 
    - Ittay Eyal (Technion) - "Wallet Design"
 
-   - Kushal Babel (Cornell) - "The Science behind Atomic NFTs"
+   - Kushal Babel (Cornell) - "<a href="https://www.youtube.com/watch?v=I3CleYyfa14">The Science behind Atomic NFTs</a>"
 
 
 <div class="ui center aligned basic segment">
