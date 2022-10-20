@@ -14,19 +14,19 @@ The Initiative for CryptoCurrencies and Contracts (IC3) hosted an inaugural NFT 
 
 **Speakers:**
                                                                                                                            
-   - Ari Juels (Cornell) - "Intro: What This Event Is All About"
+   - Ari Juels (Cornell) - "<a href="https://www.youtube.com/watch?v=sOOBH4M7n98&t=2s">Intro: What This Event Is All About</a>"
 
-   - Mukti Khaire (Cornell) - "Are NFTs 'Art'"
+   - Mukti Khaire (Cornell) - "<a href="https://www.youtube.com/watch?v=hurwm4Gg5I4">Are NFTs 'Art'</a>"
 
-   - Phil Daian (Cornell) - "A Journey Through Glass and Blockchains"
+   - Phil Daian (Cornell) - "<a href="https://www.youtube.com/watch?v=ktPjtJf6mNY">A Journey Through Glass and Blockchains</a>"
 
-   - James Grimmelmann (Cornell) - "Why NFT Licensing Is Hard"
+   - James Grimmelmann (Cornell) - "<a href="https://www.youtube.com/watch?v=7WVE-UksgX4">Why NFT Licensing Is Hard</a>"
 
-   - Fernanda Viégas (Harvard) and Martin Wattenberg (Harvard) - "The Aura of Ones and Zeros" (via Zoom)
+   - Fernanda Viégas (Harvard) and Martin Wattenberg (Harvard) - "<a href="https://www.youtube.com/watch?v=LJzLM86qjoQ">The Aura of Ones and Zeros</a>"
 
-   - Yan Ji (Cornell) - "NFT Fair Drops With Decentralized Identities"
+   - Yan Ji (Cornell) - "<a href="https://www.youtube.com/watch?v=_UTYKm2B5OQ">NFT Fair Drops With Decentralized Identities</a>"
 
-   - Ittay Eyal (Technion) - "Wallet Design"
+   - Ittay Eyal (Technion) - "<a href="https://www.youtube.com/watch?v=KighG1sASH4">Wallet Design</a>"
 
    - Kushal Babel (Cornell) - "<a href="https://www.youtube.com/watch?v=I3CleYyfa14">The Science behind Atomic NFTs</a>"
 
