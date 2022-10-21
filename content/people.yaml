@@ -316,7 +316,7 @@ students:
     title:
     email: sbakshi3@illinois.edu
     weburl: 'http://sbaks0820.github.io'
-    bio: "Surya is a 3rd year PhD student at the University of Illinois working with Andrew Miller in the Decentralized Systems Lab.\n"
+    bio: "Surya is a PhD student at the University of Illinois working with Andrew Miller in the Decentralized Systems Lab.\n"
   
   -
     name: 'Soumya Basu'
@@ -332,7 +332,7 @@ students:
     title:
     email: enis.alp@epfl.ch
     weburl:
-    bio: "Ceyhun is a fifth year PhD student at the Swiss Federal Institute of Technology in Lausanne (EPFL), Switzerland, under the supervision of Prof. Bryan Ford. His research interests are in distributed systems, smart contracts, and security.\n"
+    bio: "Ceyhun is a PhD student at the Swiss Federal Institute of Technology in Lausanne (EPFL), Switzerland, under the supervision of Prof. Bryan Ford. His research interests are in distributed systems, smart contracts, and security.\n"
   
   -
     name: 'Philip Daian'
@@ -348,7 +348,7 @@ students:
     title:
     email: nephraim@cs.cornell.edu
     weburl:
-    bio: "Naomi Ephraim is a fifth year graduate student at Cornell University. Her research interests are in theoretical cryptography.\n"
+    bio: "Naomi Ephraim is a graduate student at Cornell University. Her research interests are in theoretical cryptography.\n"
   
   -
     name: 'Kasra Edalat Nejad'
@@ -388,7 +388,7 @@ students:
     title:
     email: sm2686@cornell.edu
     weburl: 'https://sites.google.com/view/deepak-maram/home'
-    bio: 'Deepak is a first year PhD student at Cornell University working with Ari Juels.'
+    bio: "Deepak is a PhD student at Cornell University working with Ari Juels.\n"
 
   -
     name: 'Michael Mirkin'
@@ -399,20 +399,12 @@ students:
     bio: "Michael Mirkin is a graduate student at the Technion. He's interested in distributed systems, cryptography, and P2P networks."
 
   -
-    name: 'Youer Pu'
-    pic: youerpu.jpg
-    title:
-    email: yp348@cornell.edu
-    weburl:
-    bio: 'Youer is a graduate student in Cornell University working with Lorenzo Alvisi.'
-
-  -
     name: 'Sandra Siby'
     pic: ssiby.jpg
     title:
     email: sandra.siby@epfl.ch
     weburl:
-    bio: "Sandra is a third year graduate student at EPFL. She is interested in network security, web security, and privacy.\n"
+    bio: "Sandra is a graduate student at EPFL. She is interested in network security, web security, and privacy.\n"
   
   -
     name: 'Nikhil Vanjani'
@@ -436,7 +428,7 @@ students:
     title:
     email: jiaheng_zhang@berkeley.edu
     weburl:
-    bio: "Jiaheng is a first-year Ph.D. student in the Security Group of Computer Science at UC Berkeley. He is broadly interested in Computer Security and Cryptography, especially Zero Knowledge Proof. His current advisor is Prof. Dawn Song. Before coming to Berkeley, he received his B.Eng. degree in Computer Science from ACM Honors Class at Shanghai Jiao Tong University. He also was an intern at Cornell, advised by Prof. Elaine Shi."
+    bio: "Jiaheng is a Ph.D. student in the Security Group of Computer Science at UC Berkeley. He is broadly interested in Computer Security and Cryptography, especially Zero Knowledge Proof. His current advisor is Prof. Dawn Song. Before coming to Berkeley, he received his B.Eng. degree in Computer Science from ACM Honors Class at Shanghai Jiao Tong University. He also was an intern at Cornell, advised by Prof. Elaine Shi."
 
   -
     name: 'Yunqi Li'
@@ -588,7 +580,7 @@ students:
     title:
     email: nerlaj2@illinois.edu
     weburl: "https://www.ner.la"
-    bio: "Nerla is a third year Ph.D. candidate at University of Illinois Champaign Urbana. She received her undergraduate degree at Cornell University in 2017 in computer science and biological engineering. She then worked at IBM Research for two years until starting her Ph.D. She is interested in distributed systems and security research."
+    bio: "Nerla is a Ph.D. student at University of Illinois Champaign Urbana. She received her undergraduate degree at Cornell University in 2017 in computer science and biological engineering. She then worked at IBM Research for two years until starting her Ph.D. She is interested in distributed systems and security research."
 
   -
     name: 'Siqiu Yao'
@@ -620,7 +612,7 @@ students:
     title:
     email: yl2866@cornell.edu
     weburl:
-    bio: "Yanyi is a third-year computer science Ph.D student at Cornell Tech. His interests are in cryptography and theoretical computer science in general, and recently his research focuses on Kolmogorov complexity and one-way functions. He is co-advised by Rafael Pass and Elaine Shi. He obtained his bachelor's degree in computer science at Tsinghua University."
+    bio: "Yanyi is a Computer Science Ph.D. student at Cornell Tech. His interests are in cryptography and theoretical computer science in general, and recently his research focuses on Kolmogorov complexity and one-way functions. He is co-advised by Rafael Pass and Elaine Shi. He obtained his bachelor's degree in computer science at Tsinghua University."
     
   -
     name: 'Mingxun Zhou'
@@ -628,7 +620,7 @@ students:
     title:
     email: mingxunz@andrew.cmu.edu
     weburl: "https://cs.cmu.edu/~mingxunz"
-    bio: "Mingxun Zhou is a Ph.D student in the Computer Science Department at Carnegie Mellon University. His research interests include privacy-preserving algorithm design and the algorithmic foundation of blockchain. He is currently co-advised by Elaine Shi and Guilia Fanti. Before joining CMU, he received his bachelor's degree from Peking University."
+    bio: "Mingxun Zhou is a Ph.D. student in the Computer Science Department at Carnegie Mellon University. His research interests include privacy-preserving algorithm design and the algorithmic foundation of blockchain. He is currently co-advised by Elaine Shi and Guilia Fanti. Before joining CMU, he received his bachelor's degree from Peking University."
 
   - 
     name: 'Hao Chung' 
@@ -644,7 +636,7 @@ students:
     title:
     email: byc25@cornell.edu
     weburl: "https://www.cs.cornell.edu/~byc/"
-    bio: "Benjamin is a third year graduate student at Cornell University. His research interests span theoretical cryptography and the design of distributed protocols. Previously, he was an engineer at Algorand working on consensus."
+    bio: "Benjamin is a graduate student at Cornell University. His research interests span theoretical cryptography and the design of distributed protocols. Previously, he was an engineer at Algorand working on consensus."
     
   - 
     name: 'Weizhao Tang'
@@ -827,6 +819,14 @@ alumni_students:
     email:
     weburl:
     bio: "Yue Guo completed her PhD program at Cornell University, Computer Science Department under the supervision of prof. Elaine Shi. Currently, she works at JP Morgan Research. She is interested in cryptography and system security.\n"
+    
+  -
+    name: 'Youer Pu'
+    pic: youerpu.jpg
+    title:
+    email: yp348@cornell.edu
+    weburl:
+    bio: "Youer completed her PhD program at Cornell University under the supervision of prof. Lorenzo Alvisi.\n"
     
   -
     name: 'Burcu Canakci'
