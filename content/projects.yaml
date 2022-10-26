@@ -76,7 +76,7 @@ projects:
      name: 'The IC3 NFT License'
      authors: James Grimmelmann
      challenges: [*correctness]
-     description: The IC3 NFT license is a copyright license specifically designed for use with NFTs. This document describes the technical, conceptual, and doctrinal challenges posed by NFT licensing and explains the design decisions made in drafting a license to solve them. The license itself, which is designed to be used in conjunction with a technical process (such as the one described in Ethereum Improvement Proposal 5218). links a creative work to an NFT so that when the NFT is transferred, so is the license. Link to my <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4169092">work</a>.
+     description: The IC3 NFT license is a copyright license specifically designed for use with NFTs. This document describes the technical, conceptual, and doctrinal challenges posed by NFT licensing and explains the design decisions made in drafting a license to solve them. The license itself, which is designed to be used in conjunction with a technical process (such as the one described in Ethereum Improvement Proposal 5218), links a creative work to an NFT so that when the NFT is transferred, so is the license. Link to my <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4169092">work</a>.
      
   -
      name: 'After the fall: Bitcoin true legacy may be blockchain technology'
