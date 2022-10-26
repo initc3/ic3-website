@@ -319,14 +319,6 @@ students:
     bio: "Surya is a PhD student at the University of Illinois working with Andrew Miller in the Decentralized Systems Lab.\n"
   
   -
-    name: 'Soumya Basu'
-    pic: soumya.jpg
-    title:
-    email: 'soumya@cs.cornell.edu'
-    weburl: 'http://www.soumyabasu.com'
-    bio: "Soumya Basu is a graduate student in Cornell CS working with Emin Gün Sirer. He is primarily looking at how to provide strong security guarantees in blockchain technology without sacrificing performance. He also spends some time looking at the financial incentives involved in decentralized cryptocurrencies. For more up to date information, please visit his website.\n"
-
-  -
     name: 'Enis Ceyhun Alp'
     pic: eceyhun.jpg
     title:
@@ -712,7 +704,7 @@ fellows:
     title:
     email: fanz@cs.duke.edu
     weburl: 'http://fanzhang.me'
-    bio: "Fan Zhang is an Assistant Professor in Computer Science at Duke University. He will be joining Yale University as an Assistant Professor starting Fall 2022. He is also a security researcher at Chainlink Labs. His research primarily focuses on security/privacy/scalability problems in decentralized systems, especially those enabled by blockchain protocols and trusted execution environments (TEEs).\n"
+    bio: "Fan Zhang is an Assistant Professor in Computer Science at Yale University. He is also a security researcher at Chainlink Labs. His research primarily focuses on security/privacy/scalability problems in decentralized systems, especially those enabled by blockchain protocols and trusted execution environments (TEEs).\n"
   
   -
     name: 'Kai Mast'
@@ -811,6 +803,14 @@ alumni_postdocs:
     bio: "Iddo Bentov is a postdoc at Cornell University, and author of a number of academic papers on cryptography and cryptocurrency. He has been involved in the Bitcoin space since mid-2011, and also works on succinct zero-knowledge proofs at SCIPR Lab.\n"
 
 alumni_students:
+
+ -
+    name: 'Soumya Basu'
+    pic: soumya.jpg
+    title:
+    email: 'soumya@cs.cornell.edu'
+    weburl: 'http://www.soumyabasu.com'
+    bio: "Soumya Basu completed his Ph.D. program at Cornell CS under the supervision of Emin Gün Sirer. He is primarily looking at how to provide strong security guarantees in blockchain technology without sacrificing performance. He also spends some time looking at the financial incentives involved in decentralized cryptocurrencies. For more up to date information, please visit his website.\n"
 
   -
     name: 'Yue Guo'
