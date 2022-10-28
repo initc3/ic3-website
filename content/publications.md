@@ -2,6 +2,7 @@
 
 ## 2023 ##
 
+- H. Chung and E. Shi. [Foundations of Transaction Fee Mechanism Design](https://arxiv.org/abs/2111.03151). SODA, 2023. (to appear)
 - K. Babel, P. Daian, M. Kelkar, and A. Juels. [Clockwork Finance: Automated Analysis of Economic Security in Smart Contracts](https://eprint.iacr.org/2021/1147.pdf). IEEE S&P, 2023. (to appear)
 - R. Bar-Zur, A. Abu-Hanna, I. Eyal, and A. Tamar. [WeRLman: To Tackle Whale (Transactions), Go Deep (RL)](https://eprint.iacr.org/2022/175). IEEE S&P, 2023. (to appear)
 
