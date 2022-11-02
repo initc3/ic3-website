@@ -1,8 +1,10 @@
+---
 name: 'IC3 Winter Retreat 2023'
 location: Eurotel Victoria - Les Diablerets, Switzerland
 start: 2023-01-15
 end: 2023-01-18
 summary: Join us for 
+---
 
 <div class="ui piled segment">
   <img class=" centered image" src="../images/events/WinterRetreat2023/ic3 logo new.jpg" alt="" />
