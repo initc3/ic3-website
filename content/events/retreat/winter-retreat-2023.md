@@ -7,7 +7,7 @@ summary: Join us for the 2023 IC3 Winter Retreat which will be hosted in-person 
 ---
 
 <div class="ui piled segment">
-  <img class="centered image" src="../images/events/WinterRetreat2023/ic3 logo new.png" alt="" />
+  <img class="ui centered image" src="../images/events/WinterRetreat2023/ic3 logo new.png" alt="" />
 </div>
 
 
@@ -23,18 +23,20 @@ Join us for the 2023 IC3 Winter Retreat which will be hosted in-person at the <a
     <img class="ui image" src="../images/events/WinterRetreat2023/bakshi.png" alt="" width="200"/>
   </div>
   <div class="ui centered image">
-    <img class="ui image" src="../images/events/WinterRetreat2023/lorenz.jpg" alt="" width="175"/>
+    <img class="ui image" src="../images/events/WinterRetreat2023/lorenz.jpg" alt="" width="170"/>
   </div>
   <div class="ui centered image">
     <img class="ui image" src="../images/events/WinterRetreat2023/paddy.jpg" alt="" width="200"/>
   </div>
   <div class="ui centered image">
-    <img class="ui image" src="../images/events/WinterRetreat2023/haaroon.jpg" alt="" width="175"/>
+    <img class="ui image" src="../images/events/WinterRetreat2023/haaroon.jpg" alt="" width="170"/>
   </div>
   <div class="ui bottom attached message">
     <strong> Surya Bakshi, Lorenz Breidenbach, Patrick McCorry, and Haaroon Yousaf <br>
       2023 Winter Retreat - Technical Committee </strong><br>
   </div>
 </div>  
-  
+
+More information to follow!
+
 <strong> We hope to see you at the IC3 Winter Retreat! </strong>
