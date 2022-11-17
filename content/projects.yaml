@@ -33,7 +33,7 @@ projects:
   -
      name: 'Quicksilver: Censorship-Resilient and Confidential Collateralized Second-Layer Payments'
      authors: Kari Kostiainen, Sven Gnap, and Ghassan Karame
-     challenges: [*scaling. *correctness, *migration]
+     challenges: [*scaling, *correctness, *migration]
      description: Permissionless blockchains are too slow for applications like point-of-sale payments. While several techniques have been proposed to speed up blockchain payments, none of them are satisfactory for application scenarios like retail shopping. In particular, existing solutions like payment channels require users to lock up significant funds and schemes based on pre-defined validators enable easy transaction censoring. In this paper, we develop Quicksilver, the first blockchain payment scheme that works with practical collaterals and is fast, censorship-resilient, and confidential at the same time.We implement Quicksilver for EVM-compatible chains and show that censoring-resilient payments are fast and affordable on currently popular blockchains platforms like Ethereum and Polygon. For more information, please see our <a href="https://eprint.iacr.org/2022/1520.pdf">paper</a>. 
      
   -
