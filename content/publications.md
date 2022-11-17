@@ -8,6 +8,8 @@
 
 ## 2022 ##
 
+- K. Wüst, K. Kostiainen, N. Delius, and S. Capkun. [Platypus: A Central Bank Digital Currency with Unlinkable
+Transactions and Privacy-Preserving Regulation](https://dl.acm.org/doi/pdf/10.1145/3548606.3560617). SIGSAG, 2022.
 - C. Freitag, R. Pass, and N. Sirkin. [Parallelizable Delegation from LWE](https://eprint.iacr.org/2022/1025). TCC, 2022.
 - Y. Pu, L. Alvisi, and I. Eyal. [Safe Permissionless Consensus](https://eprint.iacr.org/2022/796). DISC, 2022.
 - I. Abraham, N. Crooks, N. Giridharan, H. Howard, and F. Suri-Payer. [It's not easy to relax: liveness in chained BFT protocols](https://arxiv.org/pdf/2205.11652.pdf). DISC, 2022.
