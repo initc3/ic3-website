@@ -255,6 +255,14 @@ students:
     bio: "Zhe Ye is a Ph.D. student in Computer Science at UC Berkeley advised by prof. Dawn Song. His research interests include the scalability and security of decentralized systems."
    
   -
+    name: 'Xiaoyuan Liu'
+    pic: Xiaoyuan.jpg
+    title:
+    email: xiaoyuanliu@berkeley.edu
+    weburl: 'https://xiaoyuanliu.cn/'
+    bio: "Xiaoyuan Liu is a Ph.D. student in the EECS department at UC Berkeley advised by Professor Dawn Song. Before joining UC Berkeley, he received his Bachelor's degree from ACM Honors Class, Shanghai Jiao Tong University. He is broadly interested in computer security, systems, and machine learning, especially building systems that enable secure and privacy-preserving data processing or solve real-world security problems."
+    
+  -
     name: 'Ke Wu'
     pic: Ke.jpg
     title:
