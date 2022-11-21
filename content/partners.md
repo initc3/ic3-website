@@ -11,6 +11,7 @@ Foundation to advance the science and technology of blockchains.
 	<img class="ui image sponsor logo" id="novi" src="images/partners/Meta.jpg">
 	<img class="ui image sponsor logo" id="protocollabs" src="images/partners/protocol-labs.png">
 	<img class="ui image sponsor logo" id="cog" src="images/partners/COG.png">
+	<img class="ui image sponsor logo" id="Avalanche" src="images/partners/Avalanche.png">
 </div>
 
 
