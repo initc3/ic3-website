@@ -37,6 +37,16 @@ Join us for the 2023 IC3 Winter Retreat which will be hosted in-person at the <a
   </div>
 </div>  
 
-More information to follow!
+***Draft Agenda***
+
+- January 15th - Arrival & Dinner
+
+- January 16th - Full Day Program
+
+- January 17th - Half Day Program & Half Day Fun
+
+- January 18th - Breakfast & Departure 
+
+More details to follow!
 
 <strong> We hope to see you at the IC3 Winter Retreat! </strong>
