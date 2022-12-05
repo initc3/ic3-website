@@ -51,7 +51,7 @@ projects:
   -
      name: 'Empowering Data Centers for Next Generation Trusted Computing'
      authors: Aritra Dhar, Supraja Sridhara, Shweta Shinde, Srdjan Capkun, and Renzo Andri
-     challenges: [*scaling, correctness]
+     challenges: [*scaling, *correctness]
      description: Modern data centers have grown beyond CPU nodes to provide domain-specific accelerators such as GPUs and FPGAs to their customers. From a security standpoint, cloud customers want to protect their data. They are willing to pay additional costs for trusted execution environments such as enclaves provided by Intel SGX and AMD SEV. Unfortunately, the customers have to make a critical choice - either use domain-specific accelerators for speed or use CPU-based confidential computing solutions. To bridge this gap, we aim to enable data-center scale confidential computing that expands across CPUs and accelerators. We argue that having wide-scale TEE-support for accelerators presents a technically easier solution, but is far away from being a reality. Instead, our hybrid design provides enclaved execution guarantees for computation distributed over multiple CPU nodes and devices with/without TEE support. Our solution scales gracefully in two dimensions - it can handle a large number of heterogeneous nodes and it can accommodate TEE-enabled devices as and when they are available in the future. We observe marginal overheads of 0.42–8% on real-world AI data center workloads that are independent of the number of nodes in the data center. We add custom TEE support to two accelerators (AI and storage) and integrate it into our solution, thus demonstrating that it can cater to future TEE devices. Link to our <a href="https://arxiv.org/pdf/2211.00306.pdf">work</a>.
      
   -
