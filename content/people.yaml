@@ -216,7 +216,7 @@ students:
   
   -
     name: 'Carolin Beer'
-    pic: Carolin.jpg
+    pic:
     title:
     email: carolin.beer@inf.ethz.ch
     weburl: 'https://syssec.ethz.ch/people/cbeer.html'
