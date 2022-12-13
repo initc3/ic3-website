@@ -215,5 +215,11 @@
  title: "Atomic NFTs"
  authors: James Austgen, Kushal Babel, Phil Daian, Ari Juels, adn Mahimna Kelkar
  summary: Atomic NFTs introduce new cryptographic techniques in order to enable NFT creators to prevent fractionalization of their NFTs. Our work promises to give creators stronger control over how their NFTs are bought and sold. We stress that Atomic NFTs are a preliminary research concept. More research needs to be done to make them truly practical. We believe, however, that practicality is on the horizon and that Atomic NFTs could someday become a standard option in NFT creation.
- 
+
+-
+ date: 2022-12-13
+ url: https://medium.com/initc3org/tee-based-smart-contracts-and-sealing-pitfalls-eccd5d751329
+ title: "TEE-based Smart Contracts and Sealing Pitfalls"
+ authors: Andrew Miller
+ summary: Last week the rest of the sgx.fail team and I posted a research preprint that included a vulnerability disclosure affecting Secret Network. Secret Network is the first smart contract system based on Trusted Execution Environments (TEEs) to go live in production. However, there are several rival projects with closely related tech that have launched public testnets, namely Oasis, Phala, and Obscuro. Our disclosure kicked off a broader discussion, with all these projects reaching out and/or making public statements (Phala’s) (Oasis’s) (Secret’s) explaining to what degree they would have been affected and about the mitigations they have in development. The four projects have been building most independently of each other, but TEE/SGX compromise presents a common threat to all of them, suggesting an opportunity to work together.
  
