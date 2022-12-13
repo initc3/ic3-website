@@ -215,7 +215,7 @@ students:
     bio: "Carolina is a Computer Science PhD student at Cornell University. She is broadly interested in applied cryptography and security."
   
   -
-    name: 'Carolin Beer'
+    name: 'Carolin Beer' 
     pic:
     title:
     email: carolin.beer@inf.ethz.ch
