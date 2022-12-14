@@ -335,6 +335,22 @@ students:
     bio: "Surya is a PhD student at the University of Illinois working with Andrew Miller in the Decentralized Systems Lab.\n"
   
   -
+    name: 'Simone Colombo'
+    pic:
+    title:
+    email: simone.colombo@epfl.ch
+    weburl:
+    bio: "Simone is a PhD student at Swiss Federal Institute of Technology in Lausanne (EPFL), Switzerland, under the supervision of Prof. Bryan Ford. His research focuses on cryptography, security and privacy.\n"
+    
+  -
+    name: 'Pasindu Tennage'
+    pic: Pasindu.jpg
+    title:
+    email: pasindu.tennage@epfl.ch
+    weburl:
+    bio: "Pasindu is a PhD student at Swiss Federal Institute of Technology in Lausanne (EPFL), Switzerland, under the supervision of Prof. Bryan Ford. Pasindu enjoys designing and building new distributed algorithms and performance tuning. Pasindu's research interests include consensus algorithms, resilient systems and performance optimization.\n"
+    
+  -
     name: 'Enis Ceyhun Alp'
     pic: eceyhun.jpg
     title:
