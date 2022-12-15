@@ -958,7 +958,7 @@ alumni_students:
 
   -
     name: 'Haaroon Yousaf'
-    pic: hyousaf.jpg
+    pic: hyousaf.jpg 
     title:
     email: h.yousaf@ucl.ac.uk
     weburl: 'http://www.haaroonyousaf.com/'
