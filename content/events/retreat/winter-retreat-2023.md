@@ -40,7 +40,7 @@ The retreat agenda will consist of 10-minute talks (8 minutes + Q&A), panels, gr
 
 <table class="ui celled unstackable table">
 <tbody>
-<tr> <td><strong>Sunday</strong> </td> <td> </td> </tr>
+<tr> <td><strong>Sunday</strong> </td> <td> </td> </tr> 
 <tr> <td>19:00 - onwards</td> <td><em>Arrival Reception and Dinner</em> </td> </tr>
 <tr> <td><strong>Monday</strong> </td> <td> </td> </tr>
 <tr> <td>08:00 - 08:45</td> <td><em>Breakfast</em> </td> </tr>
