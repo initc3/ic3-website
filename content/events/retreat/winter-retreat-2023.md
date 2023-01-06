@@ -40,9 +40,9 @@ The retreat agenda will consist of 10-minute talks (8 minutes + Q&A), panels, gr
 
 <table class="ui celled unstackable table">
 <tbody>
-<tr> <td><strong>Sunday</strong> </td> </tr>
+<tr> <td><strong>Sunday</strong> </td> <td> </td> </tr>
 <tr> <td>19:00 - onwards</td> <td><em>Arrival Reception and Dinner</em> </td> </tr>
-<tr> <td><strong>Monday</strong> </td> </tr>
+<tr> <td><strong>Monday</strong> </td> <td> </td> </tr>
 <tr> <td>08:00 - 08:45</td> <td><em>Breakfast</em> </td> </tr>
 <tr> <td>08:45 - 09:00</td> <td><em>Welcome</em> - Jim Ballingall</td> </tr>
 <tr> <td>09:00 - 10:00</td> <td><em>Session 1: Consensus</em> - Session Chair</td> </tr>
@@ -80,7 +80,7 @@ The retreat agenda will consist of 10-minute talks (8 minutes + Q&A), panels, gr
                     5. </td> </tr>
 <tr> <td>17:00 - 18:00</td> <td><em>Networking Reception</em> </td> </tr>
 <tr> <td>19:00 - onwards</td> <td><em>Dinner</em> </td> </tr>
-<tr> <td><strong>Tuesday</strong> </td> </tr>
+<tr> <td><strong>Tuesday</strong> </td> <td> </td> </tr>
 <tr> <td>08:00 - 08:45</td> <td><em>Breakfast</em> </td> </tr>  
 <tr> <td>08:45 - 13:00</td> <td><em>Local Activities</em> </td> </tr> 
 <tr> <td>13:00 - 14:00</td> <td><em>Lunch</em> </td> </tr> 
@@ -102,9 +102,8 @@ The retreat agenda will consist of 10-minute talks (8 minutes + Q&A), panels, gr
 <tr> <td> </td> <td>Session Chair: Sarah Meiklejohn </td> </tr>
 <tr> <td>17:45 - 18:00</td> <td><em>Closing Remarks</em> - </td> </tr>
 <tr> <td>19:00 - onwards</td> <td><em>Chalet Dinner!</em> </td> </tr>
-<tr> <td><strong>Wednesday</strong> </td> </tr>
+<tr> <td><strong>Wednesday </strong> </td> <td> </td> </tr>
 <tr> <td>08:00 - 08:45</td> <td><em>Breakfast and See You Next Time!</em> </td> </tr>
-
 
 </tbody>
 </table>
