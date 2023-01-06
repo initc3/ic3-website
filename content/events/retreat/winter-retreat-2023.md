@@ -11,9 +11,6 @@ summary: Join us for the 2023 IC3 Winter Retreat which will be hosted in-person 
 </div>
 
 
-<strong> Register for the event <a href="https://docs.google.com/forms/d/13IF0F4TR5-5FUO0ZoWFoHDrlgFwcJBy-UjNT5vBcWlk/edit">here</a>. </strong>
-
-
 Join us for the 2023 IC3 Winter Retreat which will be hosted in-person at the <a href="https://www.eurotel-victoria.ch/en">Eurotel Victoria</a> in Les Diablerets, Switzerland! Our technical committee of Surya Bakshi, Lorenz Breidenbach, Patrick McCorry, and Haaroon Yousaf is preparing another immersive learning experience.
 
 <strong> Please note that this is an IC3 member event, limited to current IC3 partners, academic members, fellows, and alumni. Some special exceptions will be made if capacity allows. Please reach out to Oana Gherman (<a href="mailto:og64@cornell.edu">og64@cornell.edu</a>) if you hope to qualify for an exception. </strong> 
@@ -41,40 +38,40 @@ Join us for the 2023 IC3 Winter Retreat which will be hosted in-person at the <a
 
 The retreat agenda will consist of 10-minute talks (8 minutes + Q&A), panels, group discussions and fun activities. For details see below.
 
-*Sunday - January 15, 2023*
+<table class="ui celled unstackable table">
+<tbody>
+<tr> <td><strong>Sunday - January 15, 2023</strong></td> </tr>
+<tr> <td>19:00 - onwards</td> <td><em>Arrival Reception and Dinner</em> </td> </tr>
+<tr> <td><strong>Monday - January 16, 2023</strong></td> </tr>
+<tr> <td>08:00 - 08:45</td> <td><em>Breakfast</em> </td> </tr>
+<tr> <td>08:45 - 09:00</td> <td><em>Welcome</em> - Jim Ballingall</td> </tr>
+<tr> <td>09:00 - 10:00</td> <td><em>Session 1: Consensus</em> - Session Chair</td> </tr>
+<tr> <td> </td> <td>1. Ujval Misra - Specular: Towards Trust-minimized Blockchain Execution Scalability with EVM-native Fraud Proofs <br>
+                    2. Matan Yechieli - Low-Latency Blockchains with DAG Holography <br>
+                    3. Christian Cashin - Asymmetric Byzantine Consensus <br>
+                    4. Ignacio Amores Sesar - A Security Analysis of Avalanche Consensus <br>
+                    5. Luca Zanolini - Quorum Systems in Permissionless Network</td> </tr> 
+<tr> <td>10:00 - 10:30</td> <td><em>Break</em> - 30 minutes</td> </tr>
+<tr> <td>10:30 - 11:10</td> <td><em>Session 2: Enabling DeFi</em> - Session Chair</td> </tr>
+<tr> <td> </td> <td>1. Ariah Klages-Mundt - Designing Autonomous Markets for Stablecoin Monetary Policy <br>
+                    2. Eleftherios Kokoris-Kogias - The Sui Smart Contracts Platform <br>
+                    3. Stephen Buttolph and Patrick O'Grady - Cross-Subnet Messaging <br>
+                    4. Deepak Maram - Designing secure crypto wallets</td> </tr>
+<tr> <td>11:10 - 12:00</td> <td><em>Fireside Chat - Proof of Stake</em> </td> </tr>
+<tr> <td> </td> <td>Moderator: Andrew Miller <br>
+                    Participants:</td> </tr>
+<tr> <td>12:00 - 13:30</td> <td><em>Lunch</em> </td> </tr>
+<tr> <td>13:30 - 14:30</td> <td><em>Session 3: Cryptography</em> - Session Chair</td> </tr>
+<tr> <td> </td> <td>1. James Austgen - Complete Knowledge: How to Destroy a Secret-Sharing Scheme <br>
+                    2. Mahimna Kelkar - Complete Knowledge <br>
+                    3. Amit Agarwal - Concretely efficient two party secure comparison <br>
+                    4. Orestis Alpos - Do Not Trust in Numbers: Practical Distributed Cryptography With General Trust <br>
+                    5. Jens Groth - <br>
+                    6. Andrew Miller - TEE blockchains</td> </tr>
 
-19:00 - onwards **Arrival Reception and Dinner**
 
-*Monday - January 16, 2023*
-
-08:00 - 08:45 **Breakfast**
-08:45 - 09:00 **Welcome - Jim Ballingall**
-09:00 - 10:00 **Session 1 - Consensus - Session Chair**
-              1. Ujval Misra - Specular: Towards Trust-minimized Blockchain Execution Scalability with EVM-native Fraud Proofs
-              2. Matan Yechieli - Low-Latency Blockchains with DAG Holography
-              3. Christian Cashin - Asymmetric Byzantine Consensus
-              4. Ignacio Amores Sesar - A Security Analysis of Avalanche Consensus
-              5. Luca Zanolini - Quorum Systems in Permissionless Network
-10:00 - 10:30 **Break - 30 minutes**
-10:30 - 11:10 **Session 2 - Enabling DeFi - Session Chair**
-              1. Ariah Klages-Mundt - Designing Autonomous Markets for Stablecoin Monetary Policy
-              2. Eleftherios Kokoris-Kogias - The Sui Smart Contracts Platform
-              3. Stephen Buttolph and Patrick O'Grady - Cross-Subnet Messaging
-              4. Deepak Maram - Designing secure crypto wallets
-11:10 - 12:00 **Fireside Chat - Proof of Stake**
-              Moderator: Andrew Miller
-              Participants:
-12:00 - 13:30 **Lunch**
-13:30 - 14:30 **Session 3 - Cryptography - Session Chair**
-              1. James Austgen - Complete Knowledge: How to Destroy a Secret-Sharing Scheme
-              2. Mahimna Kelkar - Complete Knowledge
-              3. Amit Agarwal - Concretely efficient two party secure comparison
-              4. Orestis Alpos - Do Not Trust in Numbers: Practical Distributed Cryptography With General Trust
-              5. Jens Groth - 
-              6. Andrew Miller - TEE blockchains
-
-
-Please see a draft agenda [here](../files/retreat/2023 Schedule Draft.pdf).
+</tbody>
+</table>
 
 More updates to follow!
 
