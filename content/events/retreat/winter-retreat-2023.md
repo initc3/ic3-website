@@ -104,7 +104,7 @@ The retreat agenda will consist of 10-minute talks (8 minutes + Q&A), panels, gr
 <tr> <td>19:00 - onwards</td> <td><em>Chalet Dinner!</em> </td> </tr>
 <tr> <td><strong>Wednesday </strong> </td> <td> </td> </tr>
 <tr> <td>08:00 - 08:45</td> <td><em>Breakfast</em> </td> </tr>
-<tr> <td>08:45 - onwards</tr> <td><em>See You Next Time!</em> </td> </tr>
+<tr> <td>08:45 - onwards</td> <td><em>See You Next Time!</em> </td> </tr>
 
 </tbody>
 </table>
