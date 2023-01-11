@@ -57,7 +57,8 @@ The retreat agenda will consist of 10-minute talks (8 minutes + Q&A), panels, gr
 <tr> <td> </td> <td>1. Ariah Klages-Mundt - Designing Autonomous Markets for Stablecoin Monetary Policy <br>
                     2. Eleftherios Kokoris-Kogias - The Sui Smart Contracts Platform <br>
                     3. Stephen Buttolph and Patrick O'Grady - Cross-Subnet Messaging <br>
-                    4. Deepak Maram - Designing secure crypto wallets</td> </tr>
+                    4. Deepak Maram - Designing secure crypto wallets <br>
+                    5. Bryan Ford - Privacy-Preserving Personhood-Based Credentials</td> </tr>
 <tr> <td>11:10 - 12:00</td> <td><em>Fireside Chat</em> </td> </tr>
 <tr> <td> </td> <td>Moderator: Andrew Miller <br>
                     Participants:</td> </tr>
@@ -89,7 +90,7 @@ The retreat agenda will consist of 10-minute talks (8 minutes + Q&A), panels, gr
                     2. Carolina Ortega Perez - Whistleblower Protocols <br>
                     3. Thomas Yurek - What Went Wrong with Secret Network <br>
                     4. Jens Groth - <br>
-                    5. </td> </tr>
+                    5. Michael Mirkin - Sprints: intermitent mining protocol</td> </tr>
 <tr> <td>15:00 - 15:30</td> <td><em>Break</em> - 30 minutes</td> </tr>
 <tr> <td>15:30 - 16:20</td> <td><em>Session 6: Understanding Blockchains</em> - Session Chair</td> </tr>
 <tr> <td> </td> <td>1. Zhe Ye - Smart Contract Execution Property Graph <br>
