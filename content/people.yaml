@@ -344,7 +344,7 @@ students:
     
   -
     name: 'Pasindu Tennage'
-    pic: pasindu.jpg
+    pic:
     title:
     email: pasindu.tennage@epfl.ch
     weburl:
