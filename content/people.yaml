@@ -15,7 +15,7 @@ associate_directors:
     title: 'IC3 Associate Director'
     email: ittay@technion.ac.il
     weburl: 'http://webee.technion.ac.il/people/ittay/'
-    bio: 'Ittay Eyal is a senior lecturer (Assistant Professor) of Electrical Engineering at the Technion. His research focuses on distributed systems, particularly the security and scalability of cryptocurrency technologies.'
+    bio: 'Ittay Eyal is an Associate Professor of Electrical and Computer Engineering at the Technion. His research focuses on the security and scalability of decentralized systems, including blockchain performance, blockchain and smart-contract mechanism design, and authentication.' 
   
   -
     name: 'Andrew Miller'
