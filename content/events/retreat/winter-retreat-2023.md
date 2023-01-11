@@ -89,7 +89,7 @@ The retreat agenda will consist of 10-minute talks (8 minutes + Q&A), panels, gr
 <tr> <td> </td> <td>1. Mikerah Quintyne-Collins - Knapsack and Knapsack Auctions in MPC <br>
                     2. Carolina Ortega Perez - Whistleblower Protocols <br>
                     3. Thomas Yurek - What Went Wrong with Secret Network <br>
-                    4. Jens Groth - <br>
+                    4. Jens Groth - Native BTC integration and threshold ECDSA signing service on the Internet Computer <br>
                     5. Michael Mirkin - Sprints: intermitent mining protocol</td> </tr>
 <tr> <td>15:00 - 15:30</td> <td><em>Break</em> - 30 minutes</td> </tr>
 <tr> <td>15:30 - 16:20</td> <td><em>Session 6: Understanding Blockchains</em> - Session Chair</td> </tr>
