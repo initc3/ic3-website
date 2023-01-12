@@ -95,7 +95,7 @@ The retreat agenda will consist of 10-minute talks (8 minutes + Q&A), panels, gr
 <tr> <td>15:30 - 16:20</td> <td><em>Session 6: Understanding Blockchains</em> - Session Chair</td> </tr>
 <tr> <td> </td> <td>1. Zhe Ye - Smart Contract Execution Property Graph <br>
                     2. Kushal Babel - Lanturn: Measuring Cryptoeconomic Smart-Contract Security through Learning <br>
-                    3. Sarah Meiklejohn - <br>
+                    3. Sarah Meiklejohn - De-Anonymization in Bitcoin <br>
                     4. Duc V. Le- Modeling Resources in Permissionless Longest-chain Total-order Broadcast <br>
                     5. Dr. Vero Estrada-Galiñanes - Towards a fair sharing economy in decentralized systems</td> </tr>
 <tr> <td>16:20 - 16:45</td> <td><em>Break</em> - 25 minutes</td> </tr>
