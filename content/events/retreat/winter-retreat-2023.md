@@ -34,7 +34,7 @@ Join us for the 2023 IC3 Winter Retreat which will be hosted in-person at the <a
   </div>
 </div>  
 
-***Draft Agenda***
+***Event Agenda***
 
 The retreat agenda will consist of 10-minute talks (8 minutes + Q&A), panels, group discussions and fun activities. For details see below.
 
