@@ -79,7 +79,7 @@ The retreat agenda will consist of 10-minute talks (8 minutes + Q&A), panels, gr
                     3. Jovana Micic - Quick Order Fairness <br>
                     4. Chris Buckland - Rollup delay attacks <br>
                     5. Arthur Gervais - Whitehat Hacks?</td> </tr>
-<tr> <td>17:00 - 18:00</td> <td><em>Networking/Sightseeing</em> </td> </tr>
+<tr> <td>17:00 - 19:00</td> <td><em>Networking/Sightseeing</em> </td> </tr>
 <tr> <td>19:00 - onwards</td> <td><em>Dinner</em> </td> </tr>
 <tr> <td><strong>Tuesday</strong> </td> <td> </td> </tr>
 <tr> <td>08:00 - 08:45</td> <td><em>Breakfast</em> </td> </tr>  
