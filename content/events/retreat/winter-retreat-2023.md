@@ -46,7 +46,7 @@ The retreat agenda will consist of 10-minute talks (8 minutes + Q&A), panels, gr
 <tr> <td><strong>Monday</strong> </td> <td> </td> </tr>
 <tr> <td>08:00 - 08:45</td> <td><em>Breakfast</em> </td> </tr>
 <tr> <td>08:45 - 09:00</td> <td><em>Welcome</em> - Jim Ballingall</td> </tr>
-<tr> <td>09:00 - 10:00</td> <td><em>Session 1: Consensus</em> - Session Chair</td> </tr>
+<tr> <td>09:00 - 10:00</td> <td><em>Session 1: Consensus</em> - Session Chair: Andrew Miller</td> </tr>
 <tr> <td> </td> <td>1. Ujval Misra - Specular: Towards Trust-minimized Blockchain Execution Scalability with EVM-native Fraud Proofs <br>
                     2. Matan Yechieli - Low-Latency Blockchains with DAG Holography <br>
                     3. Christian Cachin - Asymmetric Byzantine Consensus <br>
