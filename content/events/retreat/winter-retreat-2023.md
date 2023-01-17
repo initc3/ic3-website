@@ -85,14 +85,14 @@ The retreat agenda will consist of 10-minute talks (8 minutes + Q&A), panels, gr
 <tr> <td>08:00 - 08:45</td> <td><em>Breakfast</em> </td> </tr>  
 <tr> <td>08:45 - 13:00</td> <td><em>Local Activities</em> </td> </tr> 
 <tr> <td>13:00 - 14:00</td> <td><em>Lunch</em> </td> </tr> 
-<tr> <td>14:00 - 15:00</td> <td><em>Session 5: Cryptography II</em> - Session Chair</td> </tr>
+<tr> <td>14:00 - 15:00</td> <td><em>Session 5: Cryptography II</em> - Session Chair: Philipp Jovanovic</td> </tr>
 <tr> <td> </td> <td>1. Mikerah Quintyne-Collins - Knapsack and Knapsack Auctions in MPC <br>
                     2. Carolina Ortega Perez - Whistleblower Protocols <br>
                     3. Thomas Yurek - What Went Wrong with Secret Network <br>
                     4. Jens Groth - Native BTC integration and threshold ECDSA signing service on the Internet Computer <br>
                     5. Michael Mirkin - Sprints: intermitent mining protocol</td> </tr>
 <tr> <td>15:00 - 15:30</td> <td><em>Break</em> - 30 minutes</td> </tr>
-<tr> <td>15:30 - 16:20</td> <td><em>Session 6: Understanding Blockchains</em> - Session Chair</td> </tr>
+<tr> <td>15:30 - 16:20</td> <td><em>Session 6: Understanding Blockchains</em> - Session Chair: Lorenz Breidenbach</td> </tr>
 <tr> <td> </td> <td>1. Zhe Ye - Smart Contract Execution Property Graph <br>
                     2. Kushal Babel - Lanturn: Measuring Cryptoeconomic Smart-Contract Security through Learning <br>
                     3. Sarah Meiklejohn - De-Anonymization in Bitcoin <br>
