@@ -52,6 +52,14 @@ staff:
     bio: 'Sarah Allen is the IC3 Research Program Manager, supporting interactions among faculty, students, industry partners, and broader blockchain community. She works to promote collaborative, multidisciplinary blockchain research.'
 
   -
+    name: Jia (Bria) Han
+    pic: Bria.jpeg
+    title: 'IC3 Program Coordinator'
+    email: jh2584@cornell.edu
+    weburl:
+    bio: 'Bria Han is the IC3 Program Coordinator, supporting IC3 faculty, students, industry partners and broader blockchain community by promoting collaborative interactions. She graduated from Harvard University and has multidisciplinary interests in enterprise blockchain, blockchain law and policy.'
+    
+  -
     name: 'Sylvain Bellemare'
     pic: sylvain.jpg
     title: 'Research Engineer'
