@@ -62,7 +62,7 @@ staff:
   -
     name: 'Sylvain Bellemare'
     pic: sylvain.jpg
-    title: 'Research Engineer'
+    title: 'IC3 Research Engineer'
     email: sb2522@cornell.edu
     weburl:
     bio: "Sylvain is a research engineer at IC3. His role at IC3 involves helping with implementing and testing software prototypes, meanwhile applying software engineering best practices. His interest is in distributed systems and cryptographic protocols."
@@ -70,10 +70,10 @@ staff:
   -
     name: 'Oana Gherman'
     pic: oana.jpg
-    title: 'Sr. Administrative Assistant'
+    title: 'IC3 Sr. Administrative Assistant'
     email: og64@cornell.edu 
     weburl:
-    bio: "Oana Gherman is the IC3 Senior Administrative Assistant, responsible for supporting the IC3 members and coordinating IC3 events."
+    bio: "Oana Gherman is the IC3 Senior Administrative Assistant, responsible for supporting the IC3 directors, faculty, students and industry partners and for planning and coordinating IC3 events."
 
 chiefscientist:
   - 
