@@ -519,7 +519,7 @@ students:
     bio: "Harjasleen Malvai is a Ph.D. student with Prof. Andrew Miller at UIUC with research interests in theoretical and applied cryptography as well as their applications to blockchains, she also maintains an interest in run-on sentences."
 
   -
-    name: 'Amit  Agarwal'
+    name: 'Amit Agarwal'
     pic: amit.jpg
     title:
     email: amita2@illinois.edu
@@ -541,14 +541,6 @@ students:
     email: aak228@cornell.edu
     weburl:
     bio: "Ariah Klages-Mundt is an Applied Math PhD student at Cornell University. His research is at the intersection of computer science and economics on the design of decentralized finance (DeFi) protocols and economic networks. He brings prior experience working in the financial technology sector."
-
-  - 
-    name: 'George Kappos'
-    pic: kappos.jpg
-    title:
-    email: g.kappos@ucl.ac.uk
-    weburl: "https://georgekap.github.io/"
-    bio: "George is a Computer Science Ph.D. student at University College London working with Sarah Meiklejohn. He is researching privacy in cryptocurrencies."
 
   -
     name: 'Bolton Bailey'
@@ -1027,3 +1019,11 @@ alumni_students:
     email: kirill@cornell.edu
     weburl: 'https://nikirill.com/'
     bio: "Kirill Nikitin is a Post-Doc researcher at Cornell Tech working with Prof. Vitaly Shmatikov. Previously, he completed his Ph.D. in Computer Science at École Polytechnique Fédérale de Lausanne (EPFL). His research interests revolve around the topics in system security, network security, and distributed systems. His current focus is on building secure and privacy-preserving decentralized systems.\n"
+
+  - 
+    name: 'George Kappos'
+    pic: kappos.jpg
+    title:
+    email: g.kappos@ucl.ac.uk
+    weburl: "https://georgekap.github.io/"
+    bio: "George completed his Ph.D in Computer Science at University College London working with Sarah Meiklejohn. He is researching privacy in cryptocurrencies and has joined Chainalysis.\n"
