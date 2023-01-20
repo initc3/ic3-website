@@ -487,6 +487,14 @@ students:
     bio: "Kushal Babel is a Computer Science graduate student at Cornell University. He aims to leverage his experience with programming languages, systems research and traditional finance to build better security protocols and exciting blockchain applications."
 
   -
+    name: 'Youer Pu'
+    pic: youerpu.jpg
+    title:
+    email: yp348@cornell.edu
+    weburl:
+    bio: "Youer is pursuing a Ph.D. degree at Cornell University under the supervision of prof. Lorenzo Alvisi.\n"
+ 
+  -
     name: 'Friederike Groschupp'
     pic: Groschupp.jpg
     title:
@@ -835,14 +843,6 @@ alumni_students:
     email:
     weburl:
     bio: "Yue Guo completed her PhD program at Cornell University, Computer Science Department under the supervision of prof. Elaine Shi. Currently, she works at JP Morgan Research. She is interested in cryptography and system security.\n"
-    
-  -
-    name: 'Youer Pu'
-    pic: youerpu.jpg
-    title:
-    email: yp348@cornell.edu
-    weburl:
-    bio: "Youer completed her PhD program at Cornell University under the supervision of prof. Lorenzo Alvisi.\n"
     
   -
     name: 'Burcu Canakci'
