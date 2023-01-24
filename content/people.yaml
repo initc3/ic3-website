@@ -367,14 +367,6 @@ students:
     bio: "Ceyhun is a PhD student at the Swiss Federal Institute of Technology in Lausanne (EPFL), Switzerland, under the supervision of Prof. Bryan Ford. His research interests are in distributed systems, smart contracts, and security.\n"
   
   -
-    name: 'Philip Daian'
-    pic: phil.jpg
-    title:
-    email:
-    weburl: 'https://pdaian.com/'
-    bio: "Philip Daian is a Computer Science graduate student at Cornell University. He brings experience in the formal verification and automotive domains, and looks forward to building the next generation of efficient and open financial cryptosystems.\n"
-  
-  -
     name: 'Naomi Ephraim'
     pic: naomi.jpg
     title:
@@ -406,14 +398,6 @@ students:
     weburl:
     bio: "Yan Ji is a Computer Science graduate student at Cornell University. She is interested in blockchain technologies and other areas intersecting security, applied cryptography and distributed systems."
   
-  -
-    name: 'Krishna Deepak Maram'
-    pic: deepak.jpg
-    title:
-    email: sm2686@cornell.edu
-    weburl: 'https://sites.google.com/view/deepak-maram/home'
-    bio: "Deepak is a PhD student at Cornell University working with Ari Juels.\n"
-
   -
     name: 'Michael Mirkin'
     pic: mirkin.jpg
@@ -1036,3 +1020,19 @@ alumni_students:
     weburl:
     bio: "Nicolas was a software engineer before enrolling as a doctoral student at EPFL working in the decentralized systems group DEDIS. Upon completion of his Ph.D. program he has joined Protocol Labs as a Research Engineer. His research interests are decentralized systems & applied cryptography.\n"
   
+  -
+    name: 'Philip Daian'
+    pic: phil.jpg
+    title:
+    email:
+    weburl: 'https://pdaian.com/'
+    bio: "Philip Daian is a Computer Science graduate student at Cornell University. He brings experience in the formal verification and automotive domains, and looks forward to building the next generation of efficient and open financial cryptosystems.\n"
+
+  -
+    name: 'Krishna Deepak Maram'
+    pic: deepak.jpg
+    title:
+    email: sm2686@cornell.edu
+    weburl: 'https://sites.google.com/view/deepak-maram/home'
+    bio: "Deepak completed his Ph.D. degree at Cornell University working with Ari Juels and has joined Mysten Labs.\n"
+
