@@ -33,6 +33,7 @@ Transactions and Privacy-Preserving Regulation](https://dl.acm.org/doi/pdf/10.11
 - E. Prasad. [After the Fall: Bitcoin's true legacy may be blockchain technology](https://www.tandfonline.com/doi/pdf/10.1080/00963402.2022.2087371?needAccess=true). Bulletin of the Atomic Scientists, 2022.
 - G. Fanti, K. Kostiainen, W. Howlett, J. Lipsky, O. Moehr, J.P. Schnapper-Casteras, and J. Wolff. [MISSING KEY: The Challenge of Cybersecurity and Central Bank Digital Currency](https://www.atlanticcouncil.org/wp-content/uploads/2022/06/Missing_key.pdf). Atlantic Council, 2022. 
 - H. Chung and E. Shi. [Foundations of Transaction Fee Mechanism Design](https://arxiv.org/pdf/2111.03151.pdf). EC, 2022.
+- J. H-Y. Chiang, B. David, I. Eyal, and T. Gong. [FairPoS: Input Fairness in Proof-of-Stake with Adaptive Security](https://dl.acm.org/doi/abs/10.1145/3534056.3535005). SYSTOR, 2022.
 - T. Xie, Y. Zhang, and D. Song. [Orion: Zero Knowledge Proof with Linear Prover Time](https://eprint.iacr.org/2022/1010). CRYPTO, 2022.
 - I. Komargodski, S. Matsuo, E. Shi, and K. Wu. [log*-Round Game-Theoretically-Fair Leader Election](https://eprint.iacr.org/2022/791.pdf). CRYPTO, 2022.
 - I. Abraham, M. Ben-David, and S. Yandamuri. [Efficient and Adaptively Secure Asynchornous Binary Agreement via Binding Crusader Agreement](https://eprint.iacr.org/2022/711.pdf). PODC, 2022.
