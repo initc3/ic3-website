@@ -163,4 +163,4 @@ Our final dinner was a raclette dinner hosted at a historic chalet.
   </div>
 </div>  
 
-We hope to see you at the next IC3 Winter Retreat!
+<strong> We hope to see you at the next IC3 Winter Retreat! </strong>
