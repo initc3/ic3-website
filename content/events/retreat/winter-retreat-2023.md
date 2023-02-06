@@ -38,7 +38,6 @@ In addition to our technical sessions, we had the opportunity to appreciate the 
 
 <div class="ui piled segment">
   <img class="ui centered image" src="../images/events/WinterRetreat2023/IMG_2659.jpeg" alt="" />
-  </div>
   <div class="ui bottom attached message">
     <strong> Our snowshoeing group! </strong><br>
   </div>
