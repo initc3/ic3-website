@@ -26,13 +26,13 @@ Thank you to all who joined us for the 2023 IC3 Winter Retreat at the <a href="h
 
 <div class="ui center aligned basic segment">
     <div class="ui small images">
-	<img class="ui image" id="chainlink" src="../images/events/blockchain-camp-2022/chainlink.png" />
-	<img class="ui image" id="ethereum" src="../images/events/blockchain-camp-2022/ethereum.png" />
-	<img class="ui image" id="fidelity fcat" src="../images/events/blockchain-camp-2022/FCAT logo.png" />
- 	<img class="ui image" id="jpm" src="../images/events/blockchain-camp-2022/jpm.png" />
-	<img class="ui image" id="protocollabs" src="../images/events/blockchain-camp-2022/protocol-labs.png" />
-	<img class="ui image" id="cog" src="../images/events/blockchain-camp-2022/COG.png" />
-  <img class="ui image sponsor logo" id="Avalanche" src="images/partners/Avalanche.png">    
+	<img class="ui image" id="chainlink" src="../images/events/WinterRetreat2023/chainlink.png" />
+	<img class="ui image" id="ethereum" src="../images/events/WinterRetreat2023/ethereum.png" />
+	<img class="ui image" id="fidelity fcat" src="../images/events/WinterRetreat2023/FCAT logo.png" />
+ 	<img class="ui image" id="jpm" src="../images/events/WinterRetreat2023/jpm.png" />
+	<img class="ui image" id="protocollabs" src="../images/events/WinterRetreat2023/protocol-labs.png" />
+	<img class="ui image" id="cog" src="../images/events/WinterRetreat2023/COG.png" />
+        <img class="ui image" id="Avalanche" src="images/events/WinterRetreat2023/Avalanche.png">    
     </div>
 </div>
 
@@ -50,6 +50,7 @@ The retreat agenda consisted of 10-minute talks covering a variety of cutting ed
 
 
 ***Event Agenda***
+
 <table class="ui celled unstackable table">
 <tbody>
 <tr> <td><strong>Sunday</strong> </td> <td> </td> </tr> 
@@ -110,7 +111,7 @@ The retreat agenda consisted of 10-minute talks covering a variety of cutting ed
 <tr> <td>16:20 - 16:45</td> <td><em>Break</em> - 25 minutes</td> </tr>
 <tr> <td>16:45 - 17:45</td> <td><em>Town Hall Session - Identifying Gaps in IC3’s Research Agenda</em> </td> </tr>
 <tr> <td> </td> <td>Session Chair: Sarah Meiklejohn </td> </tr>
-<tr> <td>17:45 - 18:00</td> <td><em>Closing Remarks</em> - </td> </tr>
+<tr> <td>17:45 - 18:00</td> <td><em>Closing Remarks</em> - Jim Ballingall</td> </tr>
 <tr> <td>19:00 - onwards</td> <td><em>Chalet Dinner!</em> </td> </tr>
 <tr> <td><strong>Wednesday </strong> </td> <td> </td> </tr>
 <tr> <td>08:00 - 08:45</td> <td><em>Breakfast</em> </td> </tr>
@@ -164,8 +165,10 @@ Our final dinner was a raclette dinner hosted at a historic chalet.
     <img class="ui image" src="../images/events/WinterRetreat2023/haaroon.jpg" alt="" width="170"/>
   </div>
   <div class="ui bottom attached message">
-    <strong> Thanks to our 2023 Winter Retreat - Technical Committee Surya Bakshi, Lorenz Breidenbach, Patrick McCorry, and Haaroon Yousaf </strong><br>
+    <strong> Thanks to our 2023 Winter Retreat - Technical Committee Surya Bakshi, Lorenz Breidenbach, Patrick McCorry, and Haaroon Yousaf 
+</strong><br>
   </div>
 </div>  
 
-<strong> We hope to see you at the next IC3 Winter Retreat! </strong>
+<strong> We hope to see you at the next IC3 Winter Retreat! 
+</strong>
