@@ -6,10 +6,6 @@ end: 2023-01-18
 summary: Thank you to all who joined us for the 2023 IC3 Winter Retreat at the <a href="https://www.eurotel-victoria.ch/en">Eurotel Victoria</a> in Les Diablerets, Switzerland! Our technical committee of Surya Bakshi, Lorenz Breidenbach, Patrick McCorry, and Haaroon Yousaf prepared another immersive blockchain learning experience.
 ---
 
-<div class="ui piled segment">
-  <img class="ui centered image" src="../images/events/WinterRetreat2023/ic3 logo new.png" alt="" />
-</div>
-
 
 Thank you to all who joined us for the 2023 IC3 Winter Retreat at the <a href="https://www.eurotel-victoria.ch/en">Eurotel Victoria</a> in Les Diablerets, Switzerland! Our technical committee of Surya Bakshi, Lorenz Breidenbach, Patrick McCorry, and Haaroon Yousaf prepared another immersive blockchain learning experience.
 
@@ -32,7 +28,7 @@ Thank you to all who joined us for the 2023 IC3 Winter Retreat at the <a href="h
  	<img class="ui image" id="jpm" src="../images/events/WinterRetreat2023/jpm.png" />
 	<img class="ui image" id="protocollabs" src="../images/events/WinterRetreat2023/protocol-labs.png" />
 	<img class="ui image" id="cog" src="../images/events/WinterRetreat2023/COG.png" />
-        <img class="ui image" id="Avalanche" src="images/events/WinterRetreat2023/Avalanche.png" />    
+        <img class="ui image" id="Avalanche" src="../images/events/WinterRetreat2023/Avalanche.png" />    
     </div>
 </div>
 
