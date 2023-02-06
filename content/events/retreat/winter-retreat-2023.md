@@ -17,7 +17,7 @@ Thank you to all who joined us for the 2023 IC3 Winter Retreat at the <a href="h
 <div class="ui piled segment">
   <img class="ui centered image" src="../images/events/WinterRetreat2023/IMG_2637.jpeg" alt="" />
   </div>
-  <div class="ui bottom attached message">
+  <div class="ui bottom centered attached message">
     <strong> Our group picture from the 2023 IC3 Winter Retreat </strong><br>
   </div>
 </div>
@@ -28,7 +28,7 @@ The retreat agenda consisted of 10-minute talks covering a variety of cutting ed
 <div class="ui piled segment">
   <img class="ui centered image" src="../images/events/WinterRetreat2023/IMG_2593.jpeg" alt="" />
   </div>
-  <div class="ui bottom attached message">
+  <div class="ui bottom centered attached message">
     <strong> A lightning talk from the 2023 IC3 Winter Retreat </strong><br>
   </div>
 </div>
@@ -45,7 +45,6 @@ In addition to our technical sessions, we had the opportunity to appreciate the 
 
 <div class="ui piled segment">
   <img class="ui centered image" src="../images/events/WinterRetreat2023/IMG_2685.jpeg" alt="" />
-  </div>
   <div class="ui bottom attached message">
     <strong> Snowshoeing through Les Diablerets! </strong><br>
   </div>
