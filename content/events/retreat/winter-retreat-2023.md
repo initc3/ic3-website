@@ -3,7 +3,7 @@ name: 'IC3 Winter Retreat'
 location: Eurotel Victoria - Les Diablerets, Switzerland
 start: 2023-01-15
 end: 2023-01-18
-summary: Join us for the 2023 IC3 Winter Retreat which will be hosted in-person at the <a href="https://www.eurotel-victoria.ch/en">Eurotel Victoria</a> in Les Diablerets, Switzerland! Our technical committee of Surya Bakshi, Lorenz Breidenbach, Patrick McCorry, and Haaroon Yousaf is preparing another immersive learning experience.
+summary: Thank you to all who joined us for the 2023 IC3 Winter Retreat at the <a href="https://www.eurotel-victoria.ch/en">Eurotel Victoria</a> in Les Diablerets, Switzerland! Our technical committee of Surya Bakshi, Lorenz Breidenbach, Patrick McCorry, and Haaroon Yousaf prepared another immersive blockchain learning experience.
 ---
 
 <div class="ui piled segment">
@@ -11,33 +11,59 @@ summary: Join us for the 2023 IC3 Winter Retreat which will be hosted in-person 
 </div>
 
 
-Join us for the 2023 IC3 Winter Retreat which will be hosted in-person at the <a href="https://www.eurotel-victoria.ch/en">Eurotel Victoria</a> in Les Diablerets, Switzerland! Our technical committee of Surya Bakshi, Lorenz Breidenbach, Patrick McCorry, and Haaroon Yousaf is preparing another immersive learning experience.
+Thank you to all who joined us for the 2023 IC3 Winter Retreat at the <a href="https://www.eurotel-victoria.ch/en">Eurotel Victoria</a> in Les Diablerets, Switzerland! Our technical committee of Surya Bakshi, Lorenz Breidenbach, Patrick McCorry, and Haaroon Yousaf prepared another immersive blockchain learning experience.
 
-<strong> Please note that this is an IC3 member event, limited to current IC3 partners, academic members, fellows, and alumni. Some special exceptions will be made if capacity allows. Please reach out to Oana Gherman (<a href="mailto:og64@cornell.edu">og64@cornell.edu</a>) if you hope to qualify for an exception. </strong> 
 
-<div class="ui center aligned basic segment">
-  <div class="ui centered image">
-    <img class="ui image" src="../images/events/WinterRetreat2023/bakshi.png" alt="" width="200"/>
-  </div>
-  <div class="ui centered image">
-    <img class="ui image" src="../images/events/WinterRetreat2023/lorenz.jpg" alt="" width="170"/>
-  </div>
-  <div class="ui centered image">
-    <img class="ui image" src="../images/events/WinterRetreat2023/paddy.jpg" alt="" width="200"/>
-  </div>
-  <div class="ui centered image">
-    <img class="ui image" src="../images/events/WinterRetreat2023/haaroon.jpg" alt="" width="170"/>
+<div class="ui piled segment">
+  <img class="ui centered image" src="../images/events/WinterRetreat2023/IMG_2637.HEIC" alt="" />
   </div>
   <div class="ui bottom attached message">
-    <strong> Surya Bakshi, Lorenz Breidenbach, Patrick McCorry, and Haaroon Yousaf <br>
-      2023 Winter Retreat - Technical Committee </strong><br>
+    <strong> Our group picture from the 2023 IC3 Winter Retreat </strong><br>
   </div>
-</div>  
+</div>
+
+
+The retreat agenda consisted of 10-minute talks covering a variety of cutting edge blockchain topics, a panel, a Town Hall session, and social activities with our IC3 colleagues. Our featured technical sessions focused on consensus, enabling DeFi, cryptography, understanding blockchains, MEV and centralization, and identifying gaps in IC3’s research agenda. See the full agenda below. 
+
+<div class="ui piled segment">
+  <img class="ui centered image" src="../images/events/WinterRetreat2023/IMG_2593.HEIC" alt="" />
+  </div>
+  <div class="ui bottom attached message">
+    <strong> A lightning talk from the 2023 IC3 Winter Retreat </strong><br>
+  </div>
+</div>
+
+
+In addition to our technical sessions, we had the opportunity to appreciate the beautiful scenery surrounding Les Diablerets on a guided snowshoeing excursion. 
+
+<div class="ui piled segment">
+  <img class="ui centered image" src="../images/events/WinterRetreat2023/IMG_2659.HEIC" alt="" />
+  </div>
+  <div class="ui bottom attached message">
+    <strong> Our snowshoeing group! </strong><br>
+  </div>
+</div>
+
+<div class="ui piled segment">
+  <img class="ui centered image" src="../images/events/WinterRetreat2023/IMG_2685.HEIC" alt="" />
+  </div>
+  <div class="ui bottom attached message">
+    <strong> Snowshoeing through Les Diablerets! </strong><br>
+  </div>
+</div>
+
+Our final dinner was a raclette dinner hosted at a historic chalet. 
+
+<div class="ui piled segment">
+  <img class="ui centered image" src="../images/events/WinterRetreat2023/IMG_2718.HEIC" alt="" />
+  </div>
+  <div class="ui bottom attached message">
+    <strong> The chalet dinner to end the retreat! </strong><br>
+  </div>
+</div>
+
 
 ***Event Agenda***
-
-The retreat agenda will consist of 10-minute talks (8 minutes + Q&A), panels, group discussions and fun activities. For details see below.
-
 <table class="ui celled unstackable table">
 <tbody>
 <tr> <td><strong>Sunday</strong> </td> <td> </td> </tr> 
@@ -53,15 +79,12 @@ The retreat agenda will consist of 10-minute talks (8 minutes + Q&A), panels, gr
                     4. Ignacio Amores Sesar - A Security Analysis of Avalanche Consensus <br>
                     5. Luca Zanolini - Quorum Systems in Permissionless Network</td> </tr> 
 <tr> <td>10:00 - 10:30</td> <td><em>Break</em> - 30 minutes</td> </tr>
-<tr> <td>10:30 - 11:10</td> <td><em>Session 2: Enabling DeFi</em> - Session Chair: Patrick McCorry</td> </tr>
+<tr> <td>10:30 - 11:30</td> <td><em>Session 2: Enabling DeFi</em> - Session Chair: Patrick McCorry</td> </tr>
 <tr> <td> </td> <td>1. Ariah Klages-Mundt - Designing Autonomous Markets for Stablecoin Monetary Policy <br>
                     2. Eleftherios Kokoris-Kogias - The Sui Smart Contracts Platform <br>
                     3. Stephen Buttolph and Patrick O'Grady - Cross-Subnet Messaging <br>
                     4. Deepak Maram - Designing secure crypto wallets <br>
                     5. Bryan Ford - Privacy-Preserving Personhood-Based Credentials</td> </tr>
-<tr> <td>11:10 - 12:00</td> <td><em>Fireside Chat on Off-Chain Computation and Privacy</em> </td> </tr>
-<tr> <td> </td> <td>Moderator: Andrew Miller <br>
-                    Participants: Chris Buckland, Barnabé Monnot, Mikerah Quintyne-Collins</td> </tr>
 <tr> <td>12:00 - 13:30</td> <td><em>Lunch</em> </td> </tr>
 <tr> <td>13:30 - 14:30</td> <td><em>Session 3: Cryptography I</em> - Session Chair: Sarah Meiklejohn</td> </tr>
 <tr> <td> </td> <td>1. James Austgen - Complete Knowledge: How to Destroy a Secret-Sharing Scheme <br>
@@ -110,6 +133,23 @@ The retreat agenda will consist of 10-minute talks (8 minutes + Q&A), panels, gr
 </tbody>
 </table>
 
-More updates to follow!
 
-<strong> We hope to see you at the IC3 Winter Retreat! </strong>
+<div class="ui center aligned basic segment">
+  <div class="ui centered image">
+    <img class="ui image" src="../images/events/WinterRetreat2023/bakshi.png" alt="" width="200"/>
+  </div>
+  <div class="ui centered image">
+    <img class="ui image" src="../images/events/WinterRetreat2023/lorenz.jpg" alt="" width="170"/>
+  </div>
+  <div class="ui centered image">
+    <img class="ui image" src="../images/events/WinterRetreat2023/paddy.jpg" alt="" width="200"/>
+  </div>
+  <div class="ui centered image">
+    <img class="ui image" src="../images/events/WinterRetreat2023/haaroon.jpg" alt="" width="170"/>
+  </div>
+  <div class="ui bottom attached message">
+    <strong> Thanks to our 2023 Winter Retreat - Technical Committee Surya Bakshi, Lorenz Breidenbach, Patrick McCorry, and Haaroon Yousaf </strong><br>
+  </div>
+</div>  
+
+<strong> We hope to see you at the next IC3 Winter Retreat! </strong>
