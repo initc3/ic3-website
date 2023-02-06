@@ -39,11 +39,10 @@ The retreat agenda consisted of 10-minute talks covering a variety of cutting ed
 <div class="ui piled segment">
   <img class="ui centered image" src="../images/events/WinterRetreat2023/IMG_2593.jpeg" alt="" />
   <div class="ui bottom centered attached message">
-    <strong> A lightning talk from the 2023 IC3 Winter Retreat 
+    <strong> A lightning talk from the 2023 IC3 Winter Retreat. 
 </strong><br>
   </div>
-</div>
-
+</div><br>
 
 ***Event Agenda***
 
@@ -114,15 +113,14 @@ The retreat agenda consisted of 10-minute talks covering a variety of cutting ed
 <tr> <td>08:45 - onwards</td> <td><em>See You Next Time!</em> </td> </tr>
 
 </tbody>
-</table>
-
+</table><br>
 
 In addition to our technical sessions, we had the opportunity to appreciate the beautiful scenery surrounding Les Diablerets on a guided snowshoeing excursion. 
 
 <div class="ui piled segment">
   <img class="ui centered image" src="../images/events/WinterRetreat2023/IMG_2659.jpeg" alt="" />
   <div class="ui bottom attached message">
-    <strong> Our snowshoeing group! 
+    <strong> Our snowshoeing group. 
 </strong><br>
   </div>
 </div>
@@ -141,7 +139,7 @@ Our final dinner was a raclette dinner hosted at a historic chalet.
   <img class="ui centered image" src="../images/events/WinterRetreat2023/IMG_2718.jpeg" alt="" />
   </div>
   <div class="ui bottom attached message">
-    <strong> The chalet dinner to end the retreat! 
+    <strong> The chalet dinner to end the retreat. 
 </strong><br>
   </div>
 </div>
@@ -161,8 +159,7 @@ Our final dinner was a raclette dinner hosted at a historic chalet.
     <img class="ui image" src="../images/events/WinterRetreat2023/haaroon.jpg" alt="" width="170" />
   </div>
   <div class="ui bottom attached message">
-    <strong> Thanks to our 2023 Winter Retreat - Technical Committee Surya Bakshi, Lorenz Breidenbach, Patrick McCorry, and Haaroon Yousaf 
-</strong><br>
+    <strong> Thanks to our 2023 Winter Retreat - Technical Committee Surya Bakshi, Lorenz Breidenbach, Patrick McCorry, and Haaroon Yousaf! </strong><br>
   </div>
 </div>  
 
