@@ -15,7 +15,7 @@ Thank you to all who joined us for the 2023 IC3 Winter Retreat at the <a href="h
 
 
 <div class="ui piled segment">
-  <img class="ui centered image" src="../images/events/WinterRetreat2023/IMG_2637.HEIC" alt="" />
+  <img class="ui centered image" src="../images/events/WinterRetreat2023/IMG_2637.jpeg" alt="" />
   </div>
   <div class="ui bottom attached message">
     <strong> Our group picture from the 2023 IC3 Winter Retreat </strong><br>
@@ -26,7 +26,7 @@ Thank you to all who joined us for the 2023 IC3 Winter Retreat at the <a href="h
 The retreat agenda consisted of 10-minute talks covering a variety of cutting edge blockchain topics, a panel, a Town Hall session, and social activities with our IC3 colleagues. Our featured technical sessions focused on consensus, enabling DeFi, cryptography, understanding blockchains, MEV and centralization, and identifying gaps in IC3’s research agenda. See the full agenda below. 
 
 <div class="ui piled segment">
-  <img class="ui centered image" src="../images/events/WinterRetreat2023/IMG_2593.HEIC" alt="" />
+  <img class="ui centered image" src="../images/events/WinterRetreat2023/IMG_2593.jpeg" alt="" />
   </div>
   <div class="ui bottom attached message">
     <strong> A lightning talk from the 2023 IC3 Winter Retreat </strong><br>
@@ -37,7 +37,7 @@ The retreat agenda consisted of 10-minute talks covering a variety of cutting ed
 In addition to our technical sessions, we had the opportunity to appreciate the beautiful scenery surrounding Les Diablerets on a guided snowshoeing excursion. 
 
 <div class="ui piled segment">
-  <img class="ui centered image" src="../images/events/WinterRetreat2023/IMG_2659.HEIC" alt="" />
+  <img class="ui centered image" src="../images/events/WinterRetreat2023/IMG_2659.jpeg" alt="" />
   </div>
   <div class="ui bottom attached message">
     <strong> Our snowshoeing group! </strong><br>
@@ -45,7 +45,7 @@ In addition to our technical sessions, we had the opportunity to appreciate the 
 </div>
 
 <div class="ui piled segment">
-  <img class="ui centered image" src="../images/events/WinterRetreat2023/IMG_2685.HEIC" alt="" />
+  <img class="ui centered image" src="../images/events/WinterRetreat2023/IMG_2685.jpeg" alt="" />
   </div>
   <div class="ui bottom attached message">
     <strong> Snowshoeing through Les Diablerets! </strong><br>
@@ -55,7 +55,7 @@ In addition to our technical sessions, we had the opportunity to appreciate the 
 Our final dinner was a raclette dinner hosted at a historic chalet. 
 
 <div class="ui piled segment">
-  <img class="ui centered image" src="../images/events/WinterRetreat2023/IMG_2718.HEIC" alt="" />
+  <img class="ui centered image" src="../images/events/WinterRetreat2023/IMG_2718.jpeg" alt="" />
   </div>
   <div class="ui bottom attached message">
     <strong> The chalet dinner to end the retreat! </strong><br>
