@@ -32,7 +32,7 @@ Thank you to all who joined us for the 2023 IC3 Winter Retreat at the <a href="h
  	<img class="ui image" id="jpm" src="../images/events/WinterRetreat2023/jpm.png" />
 	<img class="ui image" id="protocollabs" src="../images/events/WinterRetreat2023/protocol-labs.png" />
 	<img class="ui image" id="cog" src="../images/events/WinterRetreat2023/COG.png" />
-        <img class="ui image" id="Avalanche" src="images/events/WinterRetreat2023/Avalanche.png">    
+        <img class="ui image" id="Avalanche" src="images/events/WinterRetreat2023/Avalanche.png" />    
     </div>
 </div>
 
