@@ -16,47 +16,35 @@ Thank you to all who joined us for the 2023 IC3 Winter Retreat at the <a href="h
 
 <div class="ui piled segment">
   <img class="ui centered image" src="../images/events/WinterRetreat2023/IMG_2637.jpeg" alt="" />
-  </div>
-  <div class="ui bottom centered attached message">
-    <strong> Our group picture from the 2023 IC3 Winter Retreat </strong><br>
+  <div class="ui bottom attached message">
+  <strong> Our group picture from the 2023 IC3 Winter Retreat 
+</strong><br>
   </div>
 </div>
 
+# Retreat Sponsors
+
+<div class="ui center aligned basic segment">
+    <div class="ui small images">
+	<img class="ui image" id="chainlink" src="../images/events/blockchain-camp-2022/chainlink.png" />
+	<img class="ui image" id="ethereum" src="../images/events/blockchain-camp-2022/ethereum.png" />
+	<img class="ui image" id="fidelity fcat" src="../images/events/blockchain-camp-2022/FCAT logo.png" />
+ 	<img class="ui image" id="jpm" src="../images/events/blockchain-camp-2022/jpm.png" />
+	<img class="ui image" id="protocollabs" src="../images/events/blockchain-camp-2022/protocol-labs.png" />
+	<img class="ui image" id="cog" src="../images/events/blockchain-camp-2022/COG.png" />
+  <img class="ui image sponsor logo" id="Avalanche" src="images/partners/Avalanche.png">    
+    </div>
+</div>
+
+# Retreat Agenda and Activities
 
 The retreat agenda consisted of 10-minute talks covering a variety of cutting edge blockchain topics, a panel, a Town Hall session, and social activities with our IC3 colleagues. Our featured technical sessions focused on consensus, enabling DeFi, cryptography, understanding blockchains, MEV and centralization, and identifying gaps in IC3’s research agenda. See the full agenda below. 
 
 <div class="ui piled segment">
   <img class="ui centered image" src="../images/events/WinterRetreat2023/IMG_2593.jpeg" alt="" />
-  </div>
   <div class="ui bottom centered attached message">
-    <strong> A lightning talk from the 2023 IC3 Winter Retreat </strong><br>
-  </div>
-</div>
-
-
-In addition to our technical sessions, we had the opportunity to appreciate the beautiful scenery surrounding Les Diablerets on a guided snowshoeing excursion. 
-
-<div class="ui piled segment">
-  <img class="ui centered image" src="../images/events/WinterRetreat2023/IMG_2659.jpeg" alt="" />
-  <div class="ui bottom attached message">
-    <strong> Our snowshoeing group! </strong><br>
-  </div>
-</div>
-
-<div class="ui piled segment">
-  <img class="ui centered image" src="../images/events/WinterRetreat2023/IMG_2685.jpeg" alt="" />
-  <div class="ui bottom attached message">
-    <strong> Snowshoeing through Les Diablerets! </strong><br>
-  </div>
-</div>
-
-Our final dinner was a raclette dinner hosted at a historic chalet. 
-
-<div class="ui piled segment">
-  <img class="ui centered image" src="../images/events/WinterRetreat2023/IMG_2718.jpeg" alt="" />
-  </div>
-  <div class="ui bottom attached message">
-    <strong> The chalet dinner to end the retreat! </strong><br>
+    <strong> A lightning talk from the 2023 IC3 Winter Retreat 
+</strong><br>
   </div>
 </div>
 
@@ -130,6 +118,36 @@ Our final dinner was a raclette dinner hosted at a historic chalet.
 
 </tbody>
 </table>
+
+
+In addition to our technical sessions, we had the opportunity to appreciate the beautiful scenery surrounding Les Diablerets on a guided snowshoeing excursion. 
+
+<div class="ui piled segment">
+  <img class="ui centered image" src="../images/events/WinterRetreat2023/IMG_2659.jpeg" alt="" />
+  <div class="ui bottom attached message">
+    <strong> Our snowshoeing group! 
+</strong><br>
+  </div>
+</div>
+
+<div class="ui piled segment">
+  <img class="ui centered image" src="../images/events/WinterRetreat2023/IMG_2685.jpeg" alt="" />
+  <div class="ui bottom attached message">
+    <strong> Snowshoeing through Les Diablerets! 
+</strong><br>
+  </div>
+</div>
+
+Our final dinner was a raclette dinner hosted at a historic chalet. 
+
+<div class="ui piled segment">
+  <img class="ui centered image" src="../images/events/WinterRetreat2023/IMG_2718.jpeg" alt="" />
+  </div>
+  <div class="ui bottom attached message">
+    <strong> The chalet dinner to end the retreat! 
+</strong><br>
+  </div>
+</div>
 
 
 <div class="ui center aligned basic segment">
