@@ -49,7 +49,7 @@ Content included talks, tutorials, and panels hosted by blockchain leaders, acad
 
 <div class="ui piled segment">
   <img class="ui centered image" src="../images/events/blockchain-camp-2022/Panel.jpg" alt="" />
-  <div class="ui bottom centered attached message">
+  <div class="ui bottom attached message">
     <strong>The wildcard panel covered a range of blockchain hot topics.
 </strong><br>
   </div>    
@@ -58,7 +58,7 @@ Content included talks, tutorials, and panels hosted by blockchain leaders, acad
 
 <div class="ui piled segment">
   <img class="ui centered image" src="../images/events/blockchain-camp-2022/Ari.jpg" alt="" />
-  <div class="ui bottom centered attached message">
+  <div class="ui bottom attached message">
     <strong>Prof. Ari Juels presented research about NFTs.
 </strong><br>
   </div>    
@@ -69,7 +69,7 @@ The camp also featured social events including a rump session, games session, op
 
 <div class="ui piled segment">
   <img class="ui centered image" src="../images/events/blockchain-camp-2022/MuseumDinner.jpg" alt="" />
-  <div class="ui bottom centered attached message">
+  <div class="ui bottom attached message">
     <strong>Our Wednesday reception at Johnson Museum of Art.
 </strong><br>
   </div>    
