@@ -146,20 +146,20 @@ Our final dinner was a raclette dinner hosted at a historic chalet.
 
 <div class="ui center aligned basic segment">
   <div class="ui centered image">
-    <img class="ui image" src="../images/events/WinterRetreat2023/bakshi.png" alt="" width="200" />
+    <img class="ui image" src="../images/events/WinterRetreat2023/bakshi.png" alt="" width="200"/>
   </div>
   <div class="ui centered image">
-    <img class="ui image" src="../images/events/WinterRetreat2023/lorenz.jpg" alt="" width="170" />
+    <img class="ui image" src="../images/events/WinterRetreat2023/lorenz.jpg" alt="" width="170"/>
   </div>
   <div class="ui centered image">
-    <img class="ui image" src="../images/events/WinterRetreat2023/paddy.jpg" alt="" width="200" />
+    <img class="ui image" src="../images/events/WinterRetreat2023/paddy.jpg" alt="" width="200"/>
   </div>
   <div class="ui centered image">
-    <img class="ui image" src="../images/events/WinterRetreat2023/haaroon.jpg" alt="" width="170" />
+    <img class="ui image" src="../images/events/WinterRetreat2023/haaroon.jpg" alt="" width="170"/>
   </div>
   <div class="ui bottom attached message">
-    <strong>Thanks to our 2023 Winter Retreat - Technical Committee <br>
-	    Surya Bakshi, Lorenz Breidenbach, Patrick McCorry, and Haaroon Yousaf!</strong><br>
+    <strong>Thanks to our 2023 Winter Retreat - Technical Committee!<br> 
+	    Surya Bakshi, Lorenz Breidenbach, Patrick McCorry, and Haaroon Yousaf</strong><br>
   </div>
 </div>  
 
