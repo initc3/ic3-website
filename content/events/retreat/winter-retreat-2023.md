@@ -137,7 +137,6 @@ Our final dinner was a raclette dinner hosted at a historic chalet.
 
 <div class="ui piled segment">
   <img class="ui centered image" src="../images/events/WinterRetreat2023/IMG_2718.jpeg" alt="" />
-  </div>
   <div class="ui bottom attached message">
     <strong> The chalet dinner to end the retreat. 
 </strong><br>
