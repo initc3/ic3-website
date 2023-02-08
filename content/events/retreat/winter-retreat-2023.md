@@ -159,8 +159,10 @@ Our final dinner was a raclette dinner hosted at a historic chalet.
     <img class="ui image" src="../images/events/WinterRetreat2023/haaroon.jpg" alt="" width="170" />
   </div>
   <div class="ui bottom attached message">
-    <strong>Thanks to our 2023 Winter Retreat - Technical Committee Surya Bakshi, Lorenz Breidenbach, Patrick McCorry, and Haaroon Yousaf!</strong><br>
+    <strong>Thanks to our 2023 Winter Retreat - Technical Committee <br>
+	    Surya Bakshi, Lorenz Breidenbach, Patrick McCorry, and Haaroon Yousaf!</strong><br>
   </div>
 </div>  
 
-# We hope to see you at the next IC3 Winter Retreat!
+
+<strong>We hope to see you at the next IC3 Winter Retreat!</strong>
