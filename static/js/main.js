@@ -27,6 +27,7 @@
    'vmware': 'http://www.vmware.com',
    'ethereum': 'http://ethereum.org',
    'cog': 'https://www.cogsnetwork.com',
+   'avalabs': 'https://www.avalabs.org',
  };
 
 $(document).ready(function() {
