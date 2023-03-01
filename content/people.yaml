@@ -333,14 +333,6 @@ students:
     email: cristina.basescu@epfl.ch
     weburl:
     bio: "Cristina is a Ph.D. student at the Swiss Federal Institute of Technology (EPFL) in Lausanne, Switzerland, under the supervision of Prof. Bryan Ford. Cristina enjoys designing and building fast, reliable systems. Her research interests include fault tolerance and scalability in distributed systems, network security, and consensus protocols."  
-    
-  -
-    name: 'Surya Bakshi'
-    pic: bakshi.png
-    title:
-    email: sbakshi3@illinois.edu
-    weburl: 'http://sbaks0820.github.io'
-    bio: "Surya is a PhD student at the University of Illinois working with Andrew Miller in the Decentralized Systems Lab.\n"
   
   -
     name: 'Simone Colombo'
@@ -828,6 +820,14 @@ alumni_students:
     weburl: 'http://www.soumyabasu.com'
     bio: "Soumya Basu completed his Ph.D. program at Cornell CS under the supervision of Emin Gün Sirer. He is primarily looking at how to provide strong security guarantees in blockchain technology without sacrificing performance. He also spends some time looking at the financial incentives involved in decentralized cryptocurrencies. For more up to date information, please visit his website.\n"
 
+  -
+    name: 'Surya Bakshi'
+    pic: bakshi.png
+    title:
+    email: sbakshi3@illinois.edu
+    weburl: 'http://sbaks0820.github.io'
+    bio: "Surya completed his Ph.D. program at the University of Illinois Urbana-Champaign working with Andrew Miller in the Decentralized Systems Lab and joined Offchain Labs.\n"
+ 
   -
     name: 'Yue Guo'
     pic: yguo.jpg
