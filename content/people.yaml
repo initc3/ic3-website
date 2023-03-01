@@ -328,7 +328,7 @@ students:
     
   - 
     name: 'Cristina Basescu'
-    pic:
+    pic: raptor2.jpg
     title:
     email: cristina.basescu@epfl.ch
     weburl:
@@ -336,7 +336,7 @@ students:
   
   -
     name: 'Simone Colombo'
-    pic:
+    pic: Raptor.jpg
     title:
     email: simone.colombo@epfl.ch
     weburl:
@@ -344,7 +344,7 @@ students:
     
   -
     name: 'Pasindu Tennage'
-    pic:
+    pic: raptor3.jpg
     title:
     email: pasindu.tennage@epfl.ch
     weburl:
