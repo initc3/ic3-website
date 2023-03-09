@@ -2,7 +2,7 @@
 
 ## 2023 ##
 
-- T. Yurek, Z. Xiang, Y. Xia, and A. Miller. [Long Live The Honey Badger: Robust Asynchronous DPSS and its Applications](https://eprint.iacr.org/2022/971). USENIX, 2023. (to appear)
+- T. Yurek, Z. Xiang, Y. Xia, and A. Miller. [Long Live The Honey Badger: Robust Asynchronous DPSS and its Applications](https://eprint.iacr.org/2022/971). USENIX, 2023. (to appear) 
 - T. Kell, H. Yousaf, S. Allen, S. Meiklejohn, and A. Juels. [Forsage: Anatomy of a Smart-Contract Pyramid Scheme](https://www.arijuels.com/wp-content/uploads/2021/07/Forsage.pdf). FC, 2023. (to appear)
 - H. Chung and E. Shi. [Foundations of Transaction Fee Mechanism Design](https://arxiv.org/abs/2111.03151). SODA, 2023. (to appear)
 - K. Babel, P. Daian, M. Kelkar, and A. Juels. [Clockwork Finance: Automated Analysis of Economic Security in Smart Contracts](https://eprint.iacr.org/2021/1147.pdf). IEEE S&P, 2023. (to appear)
