@@ -1,6 +1,6 @@
 ---
 name: 'IC3 Blockchain Camp 2023'
-location: Roosevelt Island - New York, NY
+location: Cornell Tech (Roosevelt Island) New York, NY
 start: 2023-06-12
 end: 2023-06-18
 summary: Join us for the 8th Annual IC3 Blockchain Camp! This 7-day experience will be hosted for the first time on the Cornell Tech Campus on Roosevelt Island in New York, NY. 
@@ -32,20 +32,20 @@ For examples of what to expect please see the summary of the <strong> <a href="h
 
 **Accommodation Information**
 
-We strongly recommend taking advantage of the special hotel room rate offered to IC3 Camp participants and reserve your room at the <strong> <a href="https://www.graduatehotels.com/new-york/">Graduate Hotel</a> </strong> (<strong> located on the Cornell Tech campus </strong>) on Roosevelt Island by using this <a href="https://www.graduatehotels.com/new-york/#/booking/step-1?group=202306IC3C">link</a> before <strong> April 25th, 2023 </strong>. After this date, the rate and availability will not be guaranteed. Please keep in mind that your reservation will incur an additional $39/night per hotel policy (not included in the special rate).
+We strongly recommend taking advantage of the special hotel room rate offered to IC3 Camp participants and reserve your room at the <strong> <a href="https://www.graduatehotels.com/new-york/">Graduate Hotel</a> </strong> (<strong>located on the Cornell Tech campus</strong>) on Roosevelt Island by using this <a href="https://www.graduatehotels.com/new-york/#/booking/step-1?group=202306IC3C">link</a> before <strong> April 25th, 2023 </strong>. After this date, the rate and availability will not be guaranteed. Please keep in mind that your reservation will incur an additional $39/night per hotel policy (not included in the special rate).
 
 <div class="ui center aligned basic segment">
   <div class="ui centered image">
     <img class="ui image" src="../images/events/WinterRetreat2023/bakshi.png" alt="" width="200"/>
   </div>
   <div class="ui centered image">
-    <img class="ui image" src="../images/events/WinterRetreat2023/lorenz.jpg" alt="" width="170"/>
+    <img class="ui image" src="../images/events/WinterRetreat2023/lorenz.jpg" alt="" width="165"/>
   </div>
   <div class="ui centered image">
     <img class="ui image" src="../images/events/WinterRetreat2023/paddy.jpg" alt="" width="200"/>
   </div>
   <div class="ui centered image">
-    <img class="ui image" src="../images/events/WinterRetreat2023/haaroon.jpg" alt="" width="170"/>
+    <img class="ui image" src="../images/events/WinterRetreat2023/haaroon.jpg" alt="" width="165"/>
   </div>
   <div class="ui bottom attached message">
     <strong>2023 Blockchain Camp - Technical Committee<br> 
