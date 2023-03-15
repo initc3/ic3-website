@@ -231,7 +231,7 @@
  summary: In a <a href="https://www.arijuels.com/wp-content/uploads/2023/01/Complete_Knowledge.pdf">paper</a> we've released today, we introduce a new cryptographic notion that we call proofs of complete knowledge (CK). We also report on a prototype that offers a path to making CK practical for use with smartphones.
 
 -
- date: 2023-03-15
+ date: 2023-03-14
  url: https://medium.com/@aklamun/the-svb-bank-run-and-the-usdc-crisis-e882029a9d4d
  title: "The SVB Bank Run and the USDC Crisis"
  authors: Ariah Klages-Mundt
