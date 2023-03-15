@@ -30,7 +30,7 @@ Both tracks require pre-registration. Please use the <strong> <a href="https://d
 
 For examples of what to expect please see the summary of the <strong> <a href="https://www.initc3.org/events/2022-08-01-ic3-blockchain-camp-2022">2022 Blockchain Camp</a> </strong>. 
 
-# Accommodation Information #
+## Accommodation Information
 
 We strongly recommend taking advantage of the special hotel room rate offered to IC3 Camp participants and reserve your room at the <strong> <a href="https://www.graduatehotels.com/new-york/">Graduate Hotel</a> </strong> (<strong>located on the Cornell Tech campus</strong>) on Roosevelt Island by using this <a href="https://www.graduatehotels.com/new-york/#/booking/step-1?group=202306IC3C">link</a> before <strong> April 25th, 2023 </strong>. After this date, the rate and availability will not be guaranteed. Please keep in mind that your reservation will incur an additional $39/night per hotel policy (not included in the special rate).
 
