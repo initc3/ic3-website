@@ -16,9 +16,10 @@ Join us for the 8th Annual IC3 Blockchain Camp! This 7-day experience will be ho
 
 In addition to tech talks, panels and projects, we are planning social activities, games, birds-of-a-feather discussions, and more. Topics will include DeFi, DAO, cryptography, Metaverse, NFTs, gaming and more! 
 
-<strong> Please note that this is an IC3 members event, limited to current IC3 partners, academic members, fellows, and alumni. Some special exceptions will be made if capacity allows. Please reach out to Bria Han (<a href="mailto:jh2584@cornell.edu">jh2584@cornell.edu</a>) if you hope to qualify for an exception. </strong>
 
-**If you are non-IC3 affiliated and interested in partipating in the 2023 IC3 Blockchain Camp please fill out the <a href="https://j0fsjzfawcv.typeform.com/to/olWnSlaN">Sponsorship Interest Form</a>.**
+### Important Note
+
+*This is an IC3 members event, limited to current IC3 partners, academic members, fellows, and alumni. Some special exceptions will be made if capacity allows. Please reach out to Bria Han (<strong><a href="mailto:jh2584@cornell.edu">jh2584@cornell.edu</a></strong>) if you hope to qualify for an exception. Also, if you are non-IC3 affiliated and interested in partipating in the 2023 IC3 Blockchain Camp please fill out the <strong><a href="https://j0fsjzfawcv.typeform.com/to/olWnSlaN">Sponsorship Interest Form</a></strong>.*
 
 
 ### Program Information
@@ -32,6 +33,7 @@ We will offer two overlapping tracks: a coding track and a presentation track.
 Both tracks require pre-registration. Please use the <strong> <a href="https://docs.google.com/forms/d/e/1FAIpQLSd-mrUUoQhlbu9_-6iZ1o_F_VdgRSgef2Ry4O-jQXhXf5d3IA/viewform">registration form</a> </strong>. Those who register will receive additional details by email before the event.
 
 For examples of what to expect please see the summary of the <strong> <a href="https://www.initc3.org/events/2022-08-01-ic3-blockchain-camp-2022">2022 Blockchain Camp</a> </strong>. 
+
 
 ### Accommodation Information
 
