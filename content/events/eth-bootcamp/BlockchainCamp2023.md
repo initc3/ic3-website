@@ -20,6 +20,8 @@ Topics will include DeFi, DAO, cryptography, Metaverse, NFTs, gaming and more!
 
 <strong> Please note that this is an IC3 members event, limited to current IC3 partners, academic members, fellows, and alumni. Some special exceptions will be made if capacity allows. Please reach out to Bria Han (<a href="mailto:jh2584@cornell.edu">jh2584@cornell.edu</a>) if you hope to qualify for an exception. </strong>
 
+*If you are non-IC3 affiliated and interested in partipating in the 2023 IC3 Blockchain Camp please fill out the <strong><a href="https://j0fsjzfawcv.typeform.com/to/olWnSlaN">Sponsorship Interest Form</a></strong>.*
+
 We will offer two overlapping tracks: a coding track and a presentation track.
 
 <strong> Option 1 (Coding): </strong> The coding track includes all presentations, social activities, and participation in a weeklong coding project on a 5 - 10 person team. In the coding track, you can expect to engage with leaders in the blockchain community - faculty, architects, developers, students.
