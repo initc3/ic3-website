@@ -203,6 +203,13 @@ postdocs:
     weburl: 'http://stevengoldfeder.com'
     bio: "Steven Goldfeder is an IC3 postdoc at Cornell Tech where he works at the intersection of crypto(graphy) and crypto(currencies). He holds a PhD from Princeton University and is a co-author of the leading textbook on cryptocurrencies."
 
+  -
+    name: 'Yujin Kwon'
+    pic: yujin.jpg
+    title:
+    email: yujinyujin9393@gmail.com
+    weburl:
+    bio: "I'm a postdoc at UC Berkeley. I received BS and PhD from KAIST in 2016 and 2021, respectively. My research is involved in DeFi, blockchains, privacy, game theory, economics, and data analysis." 
 
 students:
 
