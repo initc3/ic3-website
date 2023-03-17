@@ -31,6 +31,18 @@ challenges:
 projects:
 
   -
+     name: 'SGXonerated: Finding (and Partially Fixing) Privacy Flaws in TEE-based Smart Contract Platforms Without Breaking the TEE'
+     authors: Nerla Jean-Louis, Yunqi Li, Yan Ji, Harjasleen Malvai, Thomas Yurek, Sylvain Bellemare, and Andrew Miller
+     challenges: [*correctness, *compliance]
+     description: TEE-based smart contracts are an emerging blockchain architecture, offering fully programmable privacy with better performance than alternatives like secure multiparty computation. They can also support compatibility with existing smart contract languages, such that existing (plaintext) applications can be readily ported, picking up privacy enhancements automatically. While previous analysis of TEE-based smart contracts have focused on failures of TEE itself, we asked whether other aspects might be understudied. We focused on state consistency, a concern area highlighted by Li et al., as well as new concerns including access pattern leakage and software upgrade mechanisms. We carried out a code review of a cohort of four TEE-based smart contract platforms. These include Secret Network, the first to market with in-use applications, as well as Oasis, Phala, and Obscuro, which have at least released public test networks. The first and most broadly applicable result is that access pattern leakage occurs when handling persistent contract storage. On Secret Network, its fine-grained access pattern is catastrophic for the transaction privacy of SNIP-20 tokens. If ERC-20 tokens were naively ported to Oasis they would be similarly vulnerable; the others in the cohort leak coarse-grained information at approximately the page level (4 kilobytes). Improving and characterizing this will require adopting techniques from ORAMs or encrypted databases. Second, the importance of state consistency has been underappreciated, in part because exploiting such vulnerabilities is thought to be impractical. We show they are fully practical by building a proof-of-concept tool that breaks all advertised privacy properties of SNIP-20 tokens, able to query the balance of individual accounts and the token amount of each transfer. We additionally demonstrate MEV attacks against the Sienna Swap application. As a final consequence of lacking state consistency, the developers have inadvertently introduced a decryption backdoor through their software upgrade process. We have helped the Secret developers mitigate this through a coordinated vulnerability disclosure, after which their state consistency should be roughly on par with the rest. For further information, please see our <a href="https://eprint.iacr.org/2023/378">paper</a>.
+     
+  -
+     name: 'SCIF: Smart Contract Information Flow'
+     authors: Siqiu Yao, Haobin Ni, and Andrew Myers
+     challenges: [*correctness]
+     description: SCIF is a new programming language for building compositionally secure smart contracts. Smart contracts implemented in SCIF are checked by the compiler for their security properties before they are deployed. SCIF is especially designed to support building secure systems in which multiple smart contracts interact. It detects and prevents common security vulnerabilities such as use of untrusted information, reentrancy attacks, and confused deputy attacks. For more information, please see our <a href="https://www.cs.cornell.edu/projects/scif/">work</a>.
+   
+  -
      name: 'Complete Knowledge: Preventing Encumbrance of Cryptographic Secrets'
      authors: Mahimna Kelkar, Kushal Babel, Philip Daian, James Austgen, Vitalik Buterin, and Ari Juels
      challenges: [*correctness, *confidentiality]
