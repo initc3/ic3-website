@@ -14,13 +14,14 @@ summary: Join us for the 8th Annual IC3 Blockchain Camp! This 7-day experience w
 
 Join us for the 8th Annual IC3 Blockchain Camp! This 7-day experience will be hosted for the first time on the Cornell Tech Campus on Roosevelt Island, New York City, NY. Our Camp technical committee of Surya Bakshi, Haaroon Yousaf, Lorenz Breidenbach, and Patrick McCorry is preparing another immersive coding and learning experience. 
 
-In addition to tech talks, panels and projects, we are planning social activities, games, birds-of-a-feather discussions, and more.
-
-Topics will include DeFi, DAO, cryptography, Metaverse, NFTs, gaming and more! 
+In addition to tech talks, panels and projects, we are planning social activities, games, birds-of-a-feather discussions, and more. Topics will include DeFi, DAO, cryptography, Metaverse, NFTs, gaming and more! 
 
 <strong> Please note that this is an IC3 members event, limited to current IC3 partners, academic members, fellows, and alumni. Some special exceptions will be made if capacity allows. Please reach out to Bria Han (<a href="mailto:jh2584@cornell.edu">jh2584@cornell.edu</a>) if you hope to qualify for an exception. </strong>
 
-*If you are non-IC3 affiliated and interested in partipating in the 2023 IC3 Blockchain Camp please fill out the <strong><a href="https://j0fsjzfawcv.typeform.com/to/olWnSlaN">Sponsorship Interest Form</a></strong>.*
+**If you are non-IC3 affiliated and interested in partipating in the 2023 IC3 Blockchain Camp please fill out the <a href="https://j0fsjzfawcv.typeform.com/to/olWnSlaN">Sponsorship Interest Form</a>.**
+
+
+### Program Information
 
 We will offer two overlapping tracks: a coding track and a presentation track.
 
