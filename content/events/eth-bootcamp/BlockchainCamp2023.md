@@ -18,20 +18,20 @@ In addition to tech talks, panels and projects, we are planning social activitie
 
 ### REGISTRATION & SPONSORSHIP
 
-Please register for the event <strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSd-mrUUoQhlbu9_-6iZ1o_F_VdgRSgef2Ry4O-jQXhXf5d3IA/viewform">here</a></strong>.
+**All interested participants, please register for the event <a href="https://docs.google.com/forms/d/e/1FAIpQLSd-mrUUoQhlbu9_-6iZ1o_F_VdgRSgef2Ry4O-jQXhXf5d3IA/viewform">here</a>.**
 
 This is an IC3 members event, limited to current IC3 partners, academic members, fellows, and alumni. Some special exceptions will be made if capacity allows. Please reach out to Bria Han (<strong><a href="mailto:jh2584@cornell.edu">jh2584@cornell.edu</a></strong>) if you hope to qualify for an exception. 
 
-Non-IC3 affiliated and interested in partipating in the 2023 IC3 Blockchain Camp, please fill out the <strong><a href="https://j0fsjzfawcv.typeform.com/to/olWnSlaN">Sponsorship Interest Form</a></strong>. 
+*Note: Non-IC3 affiliated paticipants interested in attending the 2023 IC3 Blockchain Camp, please fill out the <strong><a href="https://j0fsjzfawcv.typeform.com/to/olWnSlaN">Sponsorship Interest Form</a></strong>.* 
 
-**Summer Camp Sponsorship - $15k, includes:
+**Summer Camp Sponsorship - $15k, includes:**
 
-• Support for the Summer Camp, including scholarships for students attending for free, and on-going IC3 research.
-• Donor Brand logo displayed on the IC3 camp page, and social media outreach.
-• Participation for one person for the full week of Hacking and Learning, plus participation in the Celebration Dinner on June 18th.
-• Periodic fun activities.
+• Support for the Summer Camp, including scholarships for students attending for free, and on-going IC3 research. <br>
+• Donor Brand logo displayed on the IC3 camp page, and social media outreach. <br>
+• Participation for one person for the full week of Hacking and Learning, plus attending the Summer Camp closing party. <br>
+• Fun group activities. <br>
 
-*IC3 Partner Members 
+**IC3 Partner Members**
 
 Up to two employees of IC3 Partner Members (see current list of members <a href="https://www.initc3.org/partners.html">here</a>) may participate free of charge. 
 
