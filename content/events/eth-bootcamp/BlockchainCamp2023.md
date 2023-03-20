@@ -18,23 +18,22 @@ In addition to tech talks, panels and projects, we are planning social activitie
 
 ### REGISTRATION & SPONSORSHIP
 
-**All interested participants, please register for the event <a href="https://docs.google.com/forms/d/e/1FAIpQLSd-mrUUoQhlbu9_-6iZ1o_F_VdgRSgef2Ry4O-jQXhXf5d3IA/viewform">here</a>.**
+**Students:** We are offering free access for a limited number of well-qualified full-time students enrolled at the IC3 campuses (Cornell, Cornell Tech, EPFL, ETH Zurich, UCL, UC Berkeley, UIUC, and the Technion). Please apply <strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSd-mrUUoQhlbu9_-6iZ1o_F_VdgRSgef2Ry4O-jQXhXf5d3IA/viewform">here</a></strong>.
 
-This is an IC3 members event, limited to current IC3 partners, academic members, fellows, and alumni. Some special exceptions will be made if capacity allows. Please reach out to Bria Han (<strong><a href="mailto:jh2584@cornell.edu">jh2584@cornell.edu</a></strong>) if you hope to qualify for an exception. 
+**Industry/Professional Participants:** All must be affiliated with an IC3 Member or a Blockchain Summer Camp Sponsor (see details below).
 
-*Note: Non-IC3 affiliated paticipants interested in attending the 2023 IC3 Blockchain Summer Camp, please fill out the <strong><a href="https://j0fsjzfawcv.typeform.com/to/olWnSlaN">Sponsorship Interest Form</a></strong>.* 
-
-**Blockchain Summer Camp Sponsorship - $15k, includes:**
+**Blockchain Summer Camp Donor Sponsorship - $15k includes:**
 
 • Support for the Camp, including scholarships for students attending for free, and on-going IC3 research. <br>
 • Donor Brand logo displayed on the IC3 Camp page, and social media outreach. <br>
 • Participation for one person for the full week of Hacking and Learning, plus attending the Camp closing party. <br>
-• Fun group activities. <br>
+• Periodic Fun activities. <br>
 
-**IC3 Partner Members**
+**IC3 Members**
 
 Up to two employees of IC3 Partner Members (see current list of members <a href="https://www.initc3.org/partners.html">here</a>) may participate free of charge. 
 
+All Industry/Professional participants, please apply <strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSd-mrUUoQhlbu9_-6iZ1o_F_VdgRSgef2Ry4O-jQXhXf5d3IA/viewform">here</a></strong>.
 
 ### PROGRAM
 
