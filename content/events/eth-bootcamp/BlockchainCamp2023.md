@@ -30,9 +30,9 @@ We will offer two overlapping tracks: a coding track and a presentation track.
 
 <strong> Option 2 (Presentation): </strong> The presentation track will be open to those who want to participate in camp events without joining a coding team.
 
-Both tracks require pre-registration. Please use the <strong> <a href="https://docs.google.com/forms/d/e/1FAIpQLSd-mrUUoQhlbu9_-6iZ1o_F_VdgRSgef2Ry4O-jQXhXf5d3IA/viewform">registration form</a> </strong>. Those who register will receive additional details by email before the event.
+Both tracks require pre-registration. Please use the <strong> <a href="https://docs.google.com/forms/d/e/1FAIpQLSd-mrUUoQhlbu9_-6iZ1o_F_VdgRSgef2Ry4O-jQXhXf5d3IA/viewform">registration form</a></strong>. Those who register will receive additional details by email before the event.
 
-For examples of what to expect please see the summary of the <strong> <a href="https://www.initc3.org/events/2022-08-01-ic3-blockchain-camp-2022">2022 Blockchain Camp</a> </strong>. 
+For examples of what to expect please see the summary of the <strong> <a href="https://www.initc3.org/events/2022-08-01-ic3-blockchain-camp-2022">2022 Blockchain Camp</a></strong>. 
 
 
 ### Accommodation Information
