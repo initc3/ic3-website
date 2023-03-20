@@ -1,9 +1,9 @@
 ---
-name: 'IC3 Blockchain Camp 2023'
+name: 'IC3 Blockchain Summer Camp 2023'
 location: Cornell Tech (Roosevelt Island) New York, NY
 start: 2023-06-12
 end: 2023-06-18
-summary: Join us for the 8th Annual IC3 Blockchain Camp! This 7-day experience will be hosted for the first time on the Cornell Tech Campus on Roosevelt Island in New York, NY. 
+summary: Join us for the 8th Annual IC3 Blockchain Summer Camp! This 7-day experience will be hosted for the first time on the Cornell Tech Campus on Roosevelt Island in New York, NY. 
 ---
 
 <div class="ui piled segment">
@@ -11,7 +11,7 @@ summary: Join us for the 8th Annual IC3 Blockchain Camp! This 7-day experience w
 </div>
 
 
-Join us for the 8th Annual IC3 Blockchain Camp! This 7-day experience will be hosted for the first time on the Cornell Tech Campus on Roosevelt Island, New York City, NY. Our Camp technical committee of Surya Bakshi, Haaroon Yousaf, Lorenz Breidenbach, and Patrick McCorry is preparing another immersive coding and learning experience. 
+Join us for the 8th Annual IC3 Blockchain Summer Camp! This 7-day experience will be hosted for the first time on the Cornell Tech Campus on Roosevelt Island, New York City, NY. Our Camp technical committee of Surya Bakshi, Haaroon Yousaf, Lorenz Breidenbach, and Patrick McCorry is preparing another immersive coding and learning experience. 
 
 In addition to tech talks, panels and projects, we are planning social activities, games, birds-of-a-feather discussions, and more. Topics will include DeFi, DAO, cryptography, Metaverse, NFTs, gaming and more! 
 
@@ -22,13 +22,13 @@ In addition to tech talks, panels and projects, we are planning social activitie
 
 This is an IC3 members event, limited to current IC3 partners, academic members, fellows, and alumni. Some special exceptions will be made if capacity allows. Please reach out to Bria Han (<strong><a href="mailto:jh2584@cornell.edu">jh2584@cornell.edu</a></strong>) if you hope to qualify for an exception. 
 
-*Note: Non-IC3 affiliated paticipants interested in attending the 2023 IC3 Blockchain Camp, please fill out the <strong><a href="https://j0fsjzfawcv.typeform.com/to/olWnSlaN">Sponsorship Interest Form</a></strong>.* 
+*Note: Non-IC3 affiliated paticipants interested in attending the 2023 IC3 Blockchain Summer Camp, please fill out the <strong><a href="https://j0fsjzfawcv.typeform.com/to/olWnSlaN">Sponsorship Interest Form</a></strong>.* 
 
-**Summer Camp Sponsorship - $15k, includes:**
+**Blockchain Summer Camp Sponsorship - $15k, includes:**
 
-• Support for the Summer Camp, including scholarships for students attending for free, and on-going IC3 research. <br>
-• Donor Brand logo displayed on the IC3 camp page, and social media outreach. <br>
-• Participation for one person for the full week of Hacking and Learning, plus attending the Summer Camp closing party. <br>
+• Support for the Camp, including scholarships for students attending for free, and on-going IC3 research. <br>
+• Donor Brand logo displayed on the IC3 Camp page, and social media outreach. <br>
+• Participation for one person for the full week of Hacking and Learning, plus attending the Camp closing party. <br>
 • Fun group activities. <br>
 
 **IC3 Partner Members**
