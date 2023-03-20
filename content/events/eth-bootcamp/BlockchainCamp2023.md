@@ -10,19 +10,33 @@ summary: Join us for the 8th Annual IC3 Blockchain Camp! This 7-day experience w
   <img class="ui centered image" src="../images/events/blockchain-camp-2023/ic3 logo new.png" alt="" />
 </div>
 
-<strong> Register for the event <a href="https://docs.google.com/forms/d/e/1FAIpQLSd-mrUUoQhlbu9_-6iZ1o_F_VdgRSgef2Ry4O-jQXhXf5d3IA/viewform">here</a>. </strong>
 
 Join us for the 8th Annual IC3 Blockchain Camp! This 7-day experience will be hosted for the first time on the Cornell Tech Campus on Roosevelt Island, New York City, NY. Our Camp technical committee of Surya Bakshi, Haaroon Yousaf, Lorenz Breidenbach, and Patrick McCorry is preparing another immersive coding and learning experience. 
 
 In addition to tech talks, panels and projects, we are planning social activities, games, birds-of-a-feather discussions, and more. Topics will include DeFi, DAO, cryptography, Metaverse, NFTs, gaming and more! 
 
 
-### Important Note
+### REGISTRATION & SPONSORSHIP
 
-*This is an IC3 members event, limited to current IC3 partners, academic members, fellows, and alumni. Some special exceptions will be made if capacity allows. Please reach out to Bria Han (<strong><a href="mailto:jh2584@cornell.edu">jh2584@cornell.edu</a></strong>) if you hope to qualify for an exception. Also, if you are non-IC3 affiliated and interested in partipating in the 2023 IC3 Blockchain Camp please fill out the <strong><a href="https://j0fsjzfawcv.typeform.com/to/olWnSlaN">Sponsorship Interest Form</a></strong>.*
+Please register for the event <strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSd-mrUUoQhlbu9_-6iZ1o_F_VdgRSgef2Ry4O-jQXhXf5d3IA/viewform">here</a></strong>.
+
+This is an IC3 members event, limited to current IC3 partners, academic members, fellows, and alumni. Some special exceptions will be made if capacity allows. Please reach out to Bria Han (<strong><a href="mailto:jh2584@cornell.edu">jh2584@cornell.edu</a></strong>) if you hope to qualify for an exception. 
+
+Non-IC3 affiliated and interested in partipating in the 2023 IC3 Blockchain Camp, please fill out the <strong><a href="https://j0fsjzfawcv.typeform.com/to/olWnSlaN">Sponsorship Interest Form</a></strong>. 
+
+**Summer Camp Sponsorship - $15k, includes:
+
+• Support for the Summer Camp, including scholarships for students attending for free, and on-going IC3 research.
+• Donor Brand logo displayed on the IC3 camp page, and social media outreach.
+• Participation for one person for the full week of Hacking and Learning, plus participation in the Celebration Dinner on June 18th.
+• Periodic fun activities.
+
+*IC3 Partner Members 
+
+Up to two employees of IC3 Partner Members (see current list of members <a href="https://www.initc3.org/partners.html">here</a>) may participate free of charge. 
 
 
-### Program Information
+### PROGRAM
 
 We will offer two overlapping tracks: a coding track and a presentation track.
 
@@ -35,7 +49,7 @@ Both tracks require pre-registration. Please use the <strong> <a href="https://d
 For examples of what to expect please see the summary of the <strong> <a href="https://www.initc3.org/events/2022-08-01-ic3-blockchain-camp-2022">2022 Blockchain Camp</a></strong>. 
 
 
-### Accommodation Information
+### ACCOMMODATIONS
 
 We strongly recommend taking advantage of the special hotel room rate offered to IC3 Camp participants and reserve your room at the <strong> <a href="https://www.graduatehotels.com/new-york/">Graduate Hotel</a> </strong> (<strong>located on the Cornell Tech campus</strong>) on Roosevelt Island by using this <strong><a href="https://www.graduatehotels.com/new-york/#/booking/step-1?group=202306IC3C">link</a></strong> before <strong> April 25th, 2023 </strong>. After this date, the rate and availability will not be guaranteed. Please keep in mind that your reservation will incur an additional $39/night per hotel policy (not included in the special rate).
 
