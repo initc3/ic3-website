@@ -231,8 +231,29 @@
  summary: In a <a href="https://www.arijuels.com/wp-content/uploads/2023/01/Complete_Knowledge.pdf">paper</a> we've released today, we introduce a new cryptographic notion that we call proofs of complete knowledge (CK). We also report on a prototype that offers a path to making CK practical for use with smartphones.
 
 -
+ date: 2023-01-26
+ url: https://blog.chain.link/self-custody-with-a-little-help-from-chainlink-deco/
+ title: "Self-Custody—With a Little Help From Chainlink DECO"
+ authors: Ari Juels
+ summary: Independence from centralized institutions is among the most important of the revolutionary ideas at the heart of crypto. If you keep your crypto assets in a centralized exchange, the exchange holds them on your behalf. That means complete dependence on the integrity of the exchange. If it’s hacked or collapses, your funds can disappear. 
+
+-
+ date: 2023-03-07
+ url: https://collective.flashbots.net/t/decentralized-crypto-needs-you-to-be-a-geographical-decentralization-maxi/1385
+ title: "Decentralized crypto needs you: to be a geographical decentralization maxi"
+ authors: Phil Daian
+ summary: In this post, we take a look at trends in MEV that we believe have the opportunity to centralize and weaken the core mission and value proposition of cryptocurrency. We argue that the most important only exit from a future where power dynamics in cryptocurrency become centralized and predatory is through geographic decentralization. We then explore the relationship between geographic decentralization and privacy, which in our opinion will be a dominant economic phenomenon in the next decade of MEV evolution.
+ 
+-
  date: 2023-03-14
  url: https://medium.com/initc3org/the-svb-bank-run-and-the-usdc-crisis-e882029a9d4d
  title: "The SVB Bank Run and the USDC Crisis"
  authors: Ariah Klages-Mundt
  summary: 7 of the largest 10 stablecoins depegged as a massive bank run effect rippled across crypto. What happened and what the lessons are for the space. Starting Friday, March 11, and persisting through the weekend, most major stablecoins lost their peg and stablecoin liquidity virtually evaporated.
+
+-
+ date: 2023-03-15
+ url: https://stonecoldpat.substack.com/p/deconstructing-rollups
+ title: "Deconstructing Rollups"
+ authors: Patrick McCorry
+ summary: A very interesting talk by Kelvin Fichter argues that zk rollups do not exist and how rollups actually work. Let’s take a fun snippet from it.
