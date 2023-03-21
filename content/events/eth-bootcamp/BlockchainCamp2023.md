@@ -30,9 +30,9 @@ Up to two employees of IC3 Partner Members (see current list of members <a href=
 ***Blockchain Summer Camp Donor Sponsorship - $15k includes:***
 
 • Support for the Camp, including scholarships for students attending for free, and on-going IC3 research. <br>
-• Donor Brand logo displayed on the IC3 Camp page, and social media outreach. <br>
-• Participation for one person for the full week of Hacking and Learning, plus attending the Camp closing party. <br>
-• Periodic Fun activities. <br> 
+• Donor brand logo displayed on the Camp page, and social media outreach. <br>
+• Participation for one person for the full week of hacking and learning, plus attending the Camp closing party. <br>
+• Periodic fun activities. <br> 
 
 All Industry/Professional participants, please apply <strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSd-mrUUoQhlbu9_-6iZ1o_F_VdgRSgef2Ry4O-jQXhXf5d3IA/viewform">here</a></strong>.
 
