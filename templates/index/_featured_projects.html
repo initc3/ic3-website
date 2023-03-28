@@ -1,14 +1,14 @@
 <!-- projects -->
 <h1 class="ui header"><i class="lightbulb icon"></i> <div class="content ic3-color">Featured Projects</div>
 </h1>
-<h2 class="ui header">Complete Knowledge: Preventing Encumbrance of Cryptographic Secrets
+<h2 class="ui header">STAMP: Lightweight TEE-Assisted MPC for Efficient Privacy-Preserving Machine Learning
   <div class="sub header">
 
   </div>
 </h2>
 <div class="">
     <p>
-      Most cryptographic protocols model a player’s knowledge of secrets in a simple way. Informally, the player knows a secret in the sense that she can directly furnish it as a (private) input to a protocol, e.g., to digitally sign a message. The growing availability of Trusted Execution Environments (TEEs) and secure multiparty computation, however, undermines this model of knowledge. Such tools can encumber a secret sk and permit a chosen player to access sk conditionally, without actually knowing sk. By permitting selective access to sk by an adversary, encumbrance of secrets can enable vote-selling in cryptographic voting schemes, illegal sale of credentials for online services, and erosion of deniability in anonymous messaging systems. Unfortunately, existing proof-of-knowledge protocols fail to demonstrate that a secret is unencumbered. We therefore introduce and formalize a new notion called complete knowledge (CK). A proof (or argument) of CK shows that a prover does not just know a secret, but also has fully unencumbered knowledge, i.e., unrestricted ability to use the secret. We introduce two practical CK schemes that use special-purpose hardware, specifically TEEs and off-the-shelf mining ASICs. We prove the security of these schemes and explore their practical deployment with a complete, end-to-end prototype that supports both. We show how CK can address encumbrance attacks identified in previous work. Finally, we introduce two new applications enabled by CK that involve proving ownership of blockchain assets.
+      In this paper, we propose STAMP, an end-to-end 3-party MPC protocol for efficient privacy-preserving machine learning inference assisted by a lightweight TEE (LTEE), which will be far easier to secure and deploy than today’s large TEEs. STAMP provides three main advantages over the state-of-the-art - (i) STAMP achieves significant performance improvements compared to state-of-the-art MPC protocols, with only a small LTEE that is comparable to a discrete security chip such as the Trusted Platform Module (TPM) or on-chip security subsystems in SoCs similar to the Apple enclave processor. In a semi-honest setting with WAN/GPU, STAMP is 4×-63× faster than Falcon (PoPETs’21) and AriaNN (PoPETs’22) and 3.8×-12× more communication efficient. We achieve even higher performance improvements in a malicious setting. (ii) STAMP guarantees security with abort against malicious adversaries under honest majority assumption. (iii) STAMP is not limited by the size of secure memory in a TEE and can support high-capacity modern neural networks like ResNet18 and Transformer.
       For further details, please check out our <a href="https://www.initc3.org/projects.html">Projects Page</a>.
     </p>
     Keywords:
@@ -17,27 +17,27 @@
           TEEs 
         </div>
         <div class="ui basic label">
-          Complete Knowledge 
+          TPM 
         </div>
         <div class="ui basic label">
-          Proof-of-Knowledge
+          MPC protocols
         </div>
         <div class="ui basic label">
-          Blockchain
+          Security
         </div>
     </span>
 </div>
 <h2 class="ui header">More projects:</h2>
 <ul>
     <li>
-        <strong>Bingo</strong>: Adaptively Secure Packed Asynchronous Verifiable Secret Sharing and Asynchronous Distributed Key Generation
+        <strong>tlock</strong>: Practical Timelock Encryption from Threshold BLS
     <li>
-        <strong>Specular</strong>: Towards Trust-minimized Blockchain Execution Scalability with EVM-native Fraud Proofs 
+        <strong>Security</strong>: Interactive Authentication 
     <li>
-        <strong>FairPoS</strong>: Input Fairness in Proof-of-Stake with Adaptive Security
+        <strong>Complete Knowledge</strong>: Preventing Encumbrance of Cryptographic Secrets
     <li>
-        <strong>FinTech</strong>: Liquidity Fragmentation on Decentralized Exchanges
+        <strong>SGXonerated</strong>: Finding (and Partially Fixing) Privacy Flaws in TEE-based Smart Contract Platforms Without Breaking the TEE
     <li>
-        <strong>STAMP</strong>: Lightweight TEE-Assisted MPC for Efficient Privacy-Preserving Machine Learning
+        <strong>zkBridge</strong>: Trustless Cross-chain Bridges Made Practical
 </ul>
 <i class="arrow circle right icon"></i><a href="{{ SITE_ROOT }}/projects.html">Even more projects...</a>
