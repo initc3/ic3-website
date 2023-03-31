@@ -3,11 +3,11 @@
 ## 2023 ##
 
 - T. Yurek, Z. Xiang, Y. Xia, and A. Miller. [Long Live The Honey Badger: Robust Asynchronous DPSS and its Applications](https://eprint.iacr.org/2022/971). USENIX, 2023. (to appear) 
-- T. Kell, H. Yousaf, S. Allen, S. Meiklejohn, and A. Juels. [Forsage: Anatomy of a Smart-Contract Pyramid Scheme](https://www.arijuels.com/wp-content/uploads/2021/07/Forsage.pdf). FC, 2023. (to appear)
-- H. Chung and E. Shi. [Foundations of Transaction Fee Mechanism Design](https://arxiv.org/abs/2111.03151). SODA, 2023. (to appear)
+- W. Tang, L. Kiffer, G. Fanti, and A. Juels. [Strategic Latency Reduction in Blockchain Peer-to-Peer Networks](https://arxiv.org/abs/2205.06837). SIGMETRICS, 2023. (to appear)
 - K. Babel, P. Daian, M. Kelkar, and A. Juels. [Clockwork Finance: Automated Analysis of Economic Security in Smart Contracts](https://eprint.iacr.org/2021/1147.pdf). IEEE S&P, 2023. (to appear)
 - R. Bar-Zur, A. Abu-Hanna, I. Eyal, and A. Tamar. [WeRLman: To Tackle Whale (Transactions), Go Deep (RL)](https://eprint.iacr.org/2022/175). IEEE S&P, 2023. (to appear)
-- W. Tang, L. Kiffer, G. Fanti, and A. Juels. [Strategic Latency Reduction in Blockchain Peer-to-Peer Networks](https://arxiv.org/abs/2205.06837). SIGMETRICS, 2023. (to appear)
+- T. Kell, H. Yousaf, S. Allen, S. Meiklejohn, and A. Juels. [Forsage: Anatomy of a Smart-Contract Pyramid Scheme](https://www.arijuels.com/wp-content/uploads/2021/07/Forsage.pdf). FC, 2023. (to appear)
+- H. Chung and E. Shi. [Foundations of Transaction Fee Mechanism Design](https://arxiv.org/abs/2111.03151). SODA, 2023.
 - E. Prasad. [The Future of Money and Its Implications for Society, Central Banks, and the International Monetary System](https://deliverypdf.ssrn.com/delivery.php?ID=777119081090116117124014125066064029085046025068004010066002010113105012019024007013007035074033050001045040036127125028010120027084055021091124070100067106091082003094098098112090118096026118019103093087099115099065&EXT=pdf&INDEX=TRUE). Federal Reserve Bank of St. Louis Review, 2023. (to appear)
 
 ## 2022 ##
