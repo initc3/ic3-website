@@ -9,6 +9,9 @@
 - T. Kell, H. Yousaf, S. Allen, S. Meiklejohn, and A. Juels. [Forsage: Anatomy of a Smart-Contract Pyramid Scheme](https://www.arijuels.com/wp-content/uploads/2021/07/Forsage.pdf). FC, 2023. (to appear)
 - K.E. Nejad, W. Lueks, J.P. Martin, S. Ledésert, A. L'Hôte, B. Thomas, L. Girod, and C. Troncoso. [DatashareNetwork: A Decentralized Privacy-Preserving Search Engine for Investigative Journalists](https://arxiv.org/abs/2005.14645). RWC, 2023.
 - N. Gailly, K. Melissaris, and Y. Romailler. [tlock: Practical Timelock Encryption from Threshold BLS](https://eprint.iacr.org/2023/189). RWC, 2023.
+- H. Malvai, L. Kokoris-Kogias, A. Sonnino, E. Ghoshk, E. Ozturk, K. Lewi, and S. Lawlor. [Parakeet: Practical Key Transparency for
+End-to-End Encrypted Messaging](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_f545_paper.pdf). NDSS, 2023.
+- S. Wadhwa, J. Stoeter, F. Zhang, and K. Nayak. [He-HTLC: Revisiting Incentives in HTLC](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_f775_paper.pdf). NDSS, 2023.
 - H. Chung and E. Shi. [Foundations of Transaction Fee Mechanism Design](https://arxiv.org/abs/2111.03151). SODA, 2023.
 - E. Prasad. [The Future of Money and Its Implications for Society, Central Banks, and the International Monetary System](https://deliverypdf.ssrn.com/delivery.php?ID=777119081090116117124014125066064029085046025068004010066002010113105012019024007013007035074033050001045040036127125028010120027084055021091124070100067106091082003094098098112090118096026118019103093087099115099065&EXT=pdf&INDEX=TRUE). Federal Reserve Bank of St. Louis Review, 2023. (to appear)
 
