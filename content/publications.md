@@ -40,6 +40,7 @@ Transactions and Privacy-Preserving Regulation](https://dl.acm.org/doi/pdf/10.11
 - L. Huo, A. Klages-Mundt, A. Minca, F.C. Münter, and M. Rude Wind. [Decentralized Governance of Stablecoins with Closed Form Valuation](https://arxiv.org/pdf/2109.08939.pdf). MARBLE, 2022
 - A. Klages-Mundt and A. Minca. [While stability lasts: A stochastic model of noncustodial stablecoins](https://onlinelibrary.wiley.com/doi/epdf/10.1111/mafi.12357). Mathematical Finance Journal, 2022.
 - E. Prasad. [After the Fall: Bitcoin's true legacy may be blockchain technology](https://www.tandfonline.com/doi/pdf/10.1080/00963402.2022.2087371?needAccess=true). Bulletin of the Atomic Scientists, 2022.
+- A. Lehar and C.A. Parlour. [Systemic fragility in decentralized markets](https://www.bis.org/publ/work1062.pdf). BIS, 2022.
 - G. Fanti, K. Kostiainen, W. Howlett, J. Lipsky, O. Moehr, J.P. Schnapper-Casteras, and J. Wolff. [MISSING KEY: The Challenge of Cybersecurity and Central Bank Digital Currency](https://www.atlanticcouncil.org/wp-content/uploads/2022/06/Missing_key.pdf). Atlantic Council, 2022. 
 - H. Chung and E. Shi. [Foundations of Transaction Fee Mechanism Design](https://arxiv.org/pdf/2111.03151.pdf). EC, 2022.
 - J. H-Y. Chiang, B. David, I. Eyal, and T. Gong. [FairPoS: Input Fairness in Proof-of-Stake with Adaptive Security](https://dl.acm.org/doi/abs/10.1145/3534056.3535005). SYSTOR, 2022.
