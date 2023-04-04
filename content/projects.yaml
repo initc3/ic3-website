@@ -31,6 +31,12 @@ challenges:
 projects:
 
   -
+     name: 'Deep Bribe: Predicting the Rise of Bribery in Blockchain Mining with Deep RL'
+     authors: Roi Bar-Zur, Danielle Dori, Sharon Vardi, Ittay Eyal, and Aviv Tamar
+     challenges: [*correctness, *compliance]
+     description: Blockchain security relies on incentives to ensure participants, called miners, cooperate and behave as the protocol dictates. Such protocols have a security threshold – a miner whose relative computational power is larger than the threshold can deviate to improve her revenue. Moreover, blockchain participants can behave in a petty compliant manner: usually follow the protocol, but deviate to increase revenue when deviation cannot be distinguished externally from the prescribed behavior. The effect of petty compliant miners on the security threshold of blockchains is not well understood. Due to the complexity of the analysis, it remained an open question since Carlsten et al. identified it in 2016. In this work, we use deep Reinforcement Learning (RL) to analyze how a rational miner performs selfish mining by deviating from the protocol to maximize revenue when petty compliant miners are present. We find that a selfish miner can exploit petty compliant miners to increase her revenue by bribing them. Our method reveals that the security threshold is lower when petty compliant miners are present. In particular, with parameters estimated from the Bitcoin blockchain, we find the threshold drops from the known value of 25% to only 21% (or 19%) when 50% (or 75%) of the other miners are petty compliant. Hence, our deep RL analysis puts the open question to rest; the presence of petty compliant miners exacerbates a blockchain’s vulnerability to selfish mining and is a major security threat. For further details, please see our <a href="https://eprint.iacr.org/2023/472.pdf">paper</a>.
+     
+  -
      name: 'SGXonerated: Finding (and Partially Fixing) Privacy Flaws in TEE-based Smart Contract Platforms Without Breaking the TEE'
      authors: Nerla Jean-Louis, Yunqi Li, Yan Ji, Harjasleen Malvai, Thomas Yurek, Sylvain Bellemare, and Andrew Miller
      challenges: [*correctness, *compliance]
