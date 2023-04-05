@@ -754,6 +754,14 @@ fellows:
     bio: "Joshua Gancher is a post-doc at Carnegie Mellon University. His research is about using techniques from formal methods and program verification to certify cryptographic implementations and proofs.\n"
   
   -
+    name: 'Sandra Siby'
+    pic: ssiby.jpg
+    title:
+    email: sandra.siby@epfl.ch
+    weburl:
+    bio: "Sandra completed her Ph.D. at EPFL and has joined Imperial College London as a Postdoctoral Research Associate. She is interested in network security, web security, and privacy.\n"
+  
+  -
     name: 'Philipp Jovanovic'
     pic: philipp-jovanovic.jpg
     title:
@@ -819,14 +827,6 @@ alumni_students:
     weburl: 'http://www.soumyabasu.com'
     bio: "Soumya Basu completed his Ph.D. program at Cornell CS under the supervision of Emin Gün Sirer. He is primarily looking at how to provide strong security guarantees in blockchain technology without sacrificing performance. He also spends some time looking at the financial incentives involved in decentralized cryptocurrencies. For more up to date information, please visit his website.\n"
 
-  -
-    name: 'Sandra Siby'
-    pic: ssiby.jpg
-    title:
-    email: sandra.siby@epfl.ch
-    weburl:
-    bio: "Sandra completed her Ph.D. at EPFL and has joined Imperial College London as a Postdoctoral Research Associate. She is interested in network security, web security, and privacy.\n"
-  
   -
     name: 'Yue Guo'
     pic: yguo.jpg
