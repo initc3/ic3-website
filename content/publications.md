@@ -74,6 +74,7 @@ Transactions and Privacy-Preserving Regulation](https://dl.acm.org/doi/pdf/10.11
 - V. Nair and B. Bailey. [Fast Anonymous Consensus and Private Authentication in Large Distributed Systems](https://nair.me/consensus.pdf). NDSS, 2022.
 - I. Khaburzaniya, K. Chalkias, K. Lewi, and H. Malvai. [Aggregating and thresholdizing hash-based signatures using STARKs](https://eprint.iacr.org/2021/1048.pdf). ACM CCS, 2022.
 - N. Giridharan, L. Kokoris-Kogias, A. Sonnino, and A. Spiegelman. [Bullshark: DAG BFT Protocols Made Practical](https://arxiv.org/pdf/2201.05677.pdf). ACM CCS, 2022.
+- K. Babel and L. Baker. [Strategic Peer Selection Using Transaction Value and Latency](https://dl.acm.org/doi/abs/10.1145/3560832.3563440). ACM CCS DeFi, 2022.
 - G. Asharov, I. Komargodski, W-K. Lin, E. Peserico, and E. Shi. [Optimal Oblivious Parallel RAM](https://eprint.iacr.org/2020/1292.pdf). SODA, 2022.
 - I. Eyal. [On cryptocurrency wallet design](https://drops.dagstuhl.de/opus/volltexte/2022/15901/pdf/OASIcs-Tokenomics-2021-4.pdf). ICBE S&P, 2022.
 - N. Gailly, M. Maller, and A. Nitulescu. [SnarkPack: Practical SNARK Aggregation](https://eprint.iacr.org/archive/2021/529/1630960802.pdf). RWC, 2022.
