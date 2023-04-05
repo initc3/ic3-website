@@ -406,14 +406,6 @@ students:
     bio: "Michael Mirkin is a graduate student at the Technion. He's interested in distributed systems, cryptography, and P2P networks."
 
   -
-    name: 'Sandra Siby'
-    pic: ssiby.jpg
-    title:
-    email: sandra.siby@epfl.ch
-    weburl:
-    bio: "Sandra is a graduate student at EPFL. She is interested in network security, web security, and privacy.\n"
-  
-  -
     name: 'Nikhil Vanjani'
     pic: Nikhil Vanjani.png
     title:
@@ -823,10 +815,18 @@ alumni_students:
     name: 'Soumya Basu'
     pic: soumya.jpg
     title:
-    email: 'soumya@cs.cornell.edu'
+    email: soumya@cs.cornell.edu
     weburl: 'http://www.soumyabasu.com'
     bio: "Soumya Basu completed his Ph.D. program at Cornell CS under the supervision of Emin Gün Sirer. He is primarily looking at how to provide strong security guarantees in blockchain technology without sacrificing performance. He also spends some time looking at the financial incentives involved in decentralized cryptocurrencies. For more up to date information, please visit his website.\n"
 
+  -
+    name: 'Sandra Siby'
+    pic: ssiby.jpg
+    title:
+    email: sandra.siby@epfl.ch
+    weburl:
+    bio: "Sandra completed her Ph.D. at EPFL and has joined Imperial College London as a Postdoctoral Research Associate. She is interested in network security, web security, and privacy.\n"
+  
   -
     name: 'Yue Guo'
     pic: yguo.jpg
