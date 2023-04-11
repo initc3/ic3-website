@@ -30,6 +30,12 @@ challenges:
 
 projects:
 
+  - 
+     name: 'The Blockchain Imitation Game'
+     authors: Kaihua Qin, Stefanos Chaliasos, Liyi Zhou, Benjamin Livshits, Dawn Song, and Arthur Gervais
+     challenges: [*correctness, *compliance]
+     description: The use of blockchains for automated and adversarial trading has become commonplace. However, due to the transparent nature of blockchains, an adversary is able to observe any pending, not-yet-mined transactions, along with their execution logic. This transparency further enables a new type of adversary, which copies and front-runs profitable pending transactions in real-time, yielding significant financial gains. Shedding light on such “copy-paste” malpractice, this paper introduces the Blockchain Imitation Game and proposes a generalized imitation attack methodology called APE. Leveraging dynamic program analysis techniques, APE supports the automatic synthesis of adversarial smart contracts. Over a timeframe of one year (1st of August, 2021 to 31st of July, 2022), APE could have yielded 148.96M USD in profit on Ethereum, and 42.70M USD on BNB Smart Chain (BSC). Not only as a malicious attack, we further show the potential of transaction and contract imitation as a defensive strategy. Within one year, we find that APE could have successfully imitated 13 and 22 known Decentralized Finance (DeFi) attacks on Ethereum and BSC, respectively. Our findings suggest that blockchain validators can imitate attacks in real-time to prevent intrusions in DeFi. For further details, see our <a href="https://www.usenix.org/system/files/sec23fall-prepub-331-qin.pdf">work</a>.
+     
   -
      name: 'Deep Bribe: Predicting the Rise of Bribery in Blockchain Mining with Deep RL'
      authors: Roi Bar-Zur, Danielle Dori, Sharon Vardi, Ittay Eyal, and Aviv Tamar
