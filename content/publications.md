@@ -3,6 +3,7 @@
 ## 2023 ##
 
 - T. Yurek, Z. Xiang, Y. Xia, and A. Miller. [Long Live The Honey Badger: Robust Asynchronous DPSS and its Applications](https://eprint.iacr.org/2022/971). USENIX, 2023. (to appear) 
+- V. Nair and D. Song. [Multi-Factor Key Derivation Function (MFKDF) for Fast, Flexible, Secure, & Practical Key Management](https://arxiv.org/abs/2208.05586). USENIX, 2023. (to appear)
 - W. Tang, L. Kiffer, G. Fanti, and A. Juels. [Strategic Latency Reduction in Blockchain Peer-to-Peer Networks](https://arxiv.org/abs/2205.06837). SIGMETRICS, 2023. (to appear)
 - K. Babel, P. Daian, M. Kelkar, and A. Juels. [Clockwork Finance: Automated Analysis of Economic Security in Smart Contracts](https://eprint.iacr.org/2021/1147.pdf). IEEE S&P, 2023. (to appear)
 - R. Bar-Zur, A. Abu-Hanna, I. Eyal, and A. Tamar. [WeRLman: To Tackle Whale (Transactions), Go Deep (RL)](https://eprint.iacr.org/2022/175). IEEE S&P, 2023. (to appear)
