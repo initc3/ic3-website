@@ -222,6 +222,14 @@ students:
     bio: "James is a Computer Science Ph.D. student at Cornell University working with prof. Ari Juels. His interests include blockchains, cryptocurrency, privacy, and smart contracts."
   
   -
+    name: 'Siyuan Zhuang'
+    pic: Siyuan.jpg
+    title:
+    email: s.z@berkeley.edu
+    weburl:
+    bio: "Siyuan Zhuang is a fourth-year PhD student at UC Berkeley Sky Computing Lab, co-advised by Prof. Dawn Song and Ion Stoica. His research focuses on machine learning systems, distributed systems and decentralized systems. In addition to his primary research interests, Siyuan has recently been actively involved in the development of Vicuna, an open-source chatbot impressing GPT-4 with 90% ChatGPT quality."
+    
+  -
     name: 'Carolina Ortega Perez'
     pic: carolina.jpg
     title:
