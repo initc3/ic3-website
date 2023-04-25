@@ -30,6 +30,18 @@ challenges:
 
 projects:
 
+  -
+     name: 'Unpacking How Decentralized Autonomous Organizations (DAOs) Work in Practice'
+     authors: Tanusree Sharma, Yujin Kwon, Kornrapat Pongmala, Henry Wang, Andrew Miller, Dawn Song, and Yang Wang
+     challenges: [*confidentiality, *adf, *compliance]
+     description: Decentralized Autonomous Organizations (DAOs) have emerged as a novel way to coordinate a group of (pseudonymous) entities towards a shared vision (e.g., promoting sustainability), utilizing self-executing smart contracts on blockchains to support decentralized governance and decision-making. In just a few years, over 4,000 DAOs have been launched in various domains, such as investment, education, health, and research. Despite such rapid growth and diversity, it is unclear how these DAOs actually work in practice and to what extent they are effective in achieving their goals. Given this, we aim to unpack how (well) DAOs work in practice. We conducted an in-depth analysis of a diverse set of 10 DAOs of various categories and smart contracts, leveraging on-chain (e.g., voting results) and off-chain data (e.g., community discussions) as well as our interviews with DAO organizers/members. Specifically, we defined metrics to characterize key aspects of DAOs, such as the degrees of decentralization and autonomy. We observed CompoundDAO, AssangeDAO, Bankless, and Krausehouse having poor decentralization in voting, while decentralization has improved over time for one-person-one-vote DAOs (e.g., Proof of Humanity). Moreover, the degree of autonomy varies among DAOs, with some (e.g., Compound and Krausehouse) relying more on third parties than others. Lastly, we offer a set of design implications for future DAO systems based on our findings. For further information, see our <a href="https://arxiv.org/pdf/2304.09822.pdf">work</a>.
+     
+  -
+     name: 'Trees and Turtles: Modular Abstractions for State Machine Replication Protocols'
+     authors: Natalie Neamtu, Haobin Ni, and Robbert van Renesse
+     challenges: [*correctness]
+     description: We present two abstractions for designing modular state machine replication (SMR) protocols - trees and turtles. A tree captures the set of possible state machine histories, while a turtle represents a subprotocol that tries to find agreement in this tree. We showcase the applicability of these abstractions by constructing crash-tolerant SMR protocols out of abstract tree turtles and providing examples of tree turtle implementations. The modularity of tree turtles allows a generic approach for adding a leader for liveness. We expect that these abstractions will simplify reasoning and formal verification of SMR protocols as well as facilitate innovation in protocol designs. For more details, see our <a href="https://arxiv.org/pdf/2304.07850.pdf">paper</a>.
+     
   - 
      name: 'The Blockchain Imitation Game'
      authors: Kaihua Qin, Stefanos Chaliasos, Liyi Zhou, Benjamin Livshits, Dawn Song, and Arthur Gervais
