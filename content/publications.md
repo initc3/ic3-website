@@ -9,6 +9,7 @@
 - K. Babel, P. Daian, M. Kelkar, and A. Juels. [Clockwork Finance: Automated Analysis of Economic Security in Smart Contracts](https://eprint.iacr.org/2021/1147.pdf). IEEE S&P, 2023. (to appear)
 - R. Bar-Zur, A. Abu-Hanna, I. Eyal, and A. Tamar. [WeRLman: To Tackle Whale (Transactions), Go Deep (RL)](https://eprint.iacr.org/2022/175). IEEE S&P, 2023. (to appear)
 - T. Kell, H. Yousaf, S. Allen, S. Meiklejohn, and A. Juels. [Forsage: Anatomy of a Smart-Contract Pyramid Scheme](https://www.arijuels.com/wp-content/uploads/2021/07/Forsage.pdf). FC, 2023. (to appear)
+- M. Zhou, E. Shi, T-H. H. Chan, and S. Maimon. [A Theory of Composition for Differential Obliviousness](https://eprint.iacr.org/2022/1357.pdf). Eurocrypt, 2023.
 - K.E. Nejad, W. Lueks, J.P. Martin, S. Ledésert, A. L'Hôte, B. Thomas, L. Girod, and C. Troncoso. [DatashareNetwork: A Decentralized Privacy-Preserving Search Engine for Investigative Journalists](https://arxiv.org/abs/2005.14645). RWC, 2023.
 - N. Gailly, K. Melissaris, and Y. Romailler. [tlock: Practical Timelock Encryption from Threshold BLS](https://eprint.iacr.org/2023/189). RWC, 2023.
 - H. Malvai, L. Kokoris-Kogias, A. Sonnino, E. Ghoshk, E. Ozturk, K. Lewi, and S. Lawlor. [Parakeet: Practical Key Transparency for
