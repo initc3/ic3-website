@@ -8,7 +8,10 @@
 - W. Tang, L. Kiffer, G. Fanti, and A. Juels. [Strategic Latency Reduction in Blockchain Peer-to-Peer Networks](https://arxiv.org/abs/2205.06837). SIGMETRICS, 2023. (to appear)
 - K. Babel, P. Daian, M. Kelkar, and A. Juels. [Clockwork Finance: Automated Analysis of Economic Security in Smart Contracts](https://eprint.iacr.org/2021/1147.pdf). IEEE S&P, 2023. (to appear)
 - R. Bar-Zur, A. Abu-Hanna, I. Eyal, and A. Tamar. [WeRLman: To Tackle Whale (Transactions), Go Deep (RL)](https://eprint.iacr.org/2022/175). IEEE S&P, 2023. (to appear)
-- T. Kell, H. Yousaf, S. Allen, S. Meiklejohn, and A. Juels. [Forsage: Anatomy of a Smart-Contract Pyramid Scheme](https://www.arijuels.com/wp-content/uploads/2021/07/Forsage.pdf). FC, 2023. (to appear)
+- T. Kell, H. Yousaf, S. Allen, S. Meiklejohn, and A. Juels. [Forsage: Anatomy of a Smart-Contract Pyramid Scheme](https://www.arijuels.com/wp-content/uploads/2021/07/Forsage.pdf). FC, 2023.
+- S. Cohen, G. Goren, L. Kokoris-Kogias, A. Sonnino, and A. Spiegelman. [Proof of Availability & Retrieval in a Modular Blockchain Architecture](https://fc23.ifca.ai/preproceedings/150.pdf). FC, 2023.
+- K. Qin, J. Ernstberger, L. Zhou, P. Jovanovic, and A. Gervais. [Mitigating Decentralized Finance Liquidations with Reversible Call Options](https://fc23.ifca.ai/preproceedings/168.pdf). FC, 2023.
+- C. Stefo, Z. Xiang, and L. Kokoris-Kogias. [Executing and Proving over Dirty Ledgers](https://fc23.ifca.ai/preproceedings/170.pdf). FC, 2023.
 - M. Zhou, E. Shi, T-H. H. Chan, and S. Maimon. [A Theory of Composition for Differential Obliviousness](https://eprint.iacr.org/2022/1357.pdf). Eurocrypt, 2023.
 - C. Freitag, A. Ghoshal, and I. Komargodski. [Optimal Security for Keyed Hash Functions:
 Avoiding Time-Space Tradeoffs for Finding Collisions](https://eprint.iacr.org/2023/348.pdf). Eurocrypt, 2023.
