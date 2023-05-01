@@ -31,6 +31,12 @@ challenges:
 projects:
 
   -
+     name: 'Blockchain Large Language Models'
+     authors: Yu Gai, Liyi Zhou, Kaihua Qin, Dawn Song, and Arthur Gervais
+     challenges: [*scaling, *correctness]
+     description: This paper presents a dynamic, real-time approach to detecting anomalous blockchain transactions. The proposed tool, TXRANK, generates tracing representations of blockchain activity and trains from scratch a large language model to act as a real-time Intrusion Detection System. Unlike traditional methods, TXRANK is designed to offer an unrestricted search space and does not rely on predefined rules or patterns, enabling it to detect a broader range of anomalies. We demonstrate the effectiveness of TXRANK through its use as an anomaly detection tool for Ethereum transactions. In our experiments, it effectively identifies abnormal transactions among a dataset of 68M transactions and has a batched throughput of 2284 transactions per second on average. Our results show that, TXRANK identifies abnormal transactions by ranking 49 out of 124 attacks among the top-3 most abnormal transactions interacting with their victim contracts. This work makes contributions to the field of blockchain transaction analysis by introducing a custom data encoding compatible with the transformer architecture, a domain-specific tokenization technique, and a tree encoding method specifically crafted for the Ethereum Virtual Machine (EVM) trace representation. For more details, see our <a href="https://arxiv.org/pdf/2304.12749.pdf">work</a>. 
+     
+  -
      name: 'Unpacking How Decentralized Autonomous Organizations (DAOs) Work in Practice'
      authors: Tanusree Sharma, Yujin Kwon, Kornrapat Pongmala, Henry Wang, Andrew Miller, Dawn Song, and Yang Wang
      challenges: [*confidentiality, *adf, *compliance]
