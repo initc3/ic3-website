@@ -31,6 +31,18 @@ challenges:
 projects:
 
   -
+     name: 'Sprints: Intermittent Blockchain PoW Mining'
+     authors: Michael Mirkin, Lulu Zhou, Ittay Eyal, and Fan Zhang
+     challenges: [*scaling, *good]
+     description: Cryptocurrencies and decentralized platforms are rapidly gaining traction since Nakamoto’s discovery of Bitcoin’s blockchain protocol. These systems use Proof of Work (PoW) to achieve unprecedented security for digital assets. However, the significant power consumption and ecological impact of PoW are leading policymakers to consider stark measures against them and prominent systems to explore alternatives. But these alternatives imply stepping away from key security aspects of PoW. We present Sprints, a blockchain protocol that achieves almost the same security guarantees as PoW blockchains, but with an order-of-magnitude lower ecological impact, taking into account both power and hardware. To achieve this, Sprints forces miners to mine intermittently. It interleaves Proof of Delay (PoD, e.g., using a Verifiable Delay Function) and PoW, where only the latter bears a significant resource expenditure. We prove that in Sprints the attacker’s success probability is the same as that of legacy PoW. To evaluate practical performance, we analyze the effect of shortened PoW duration, showing a minor reduction in resilience (49% instead of 50%). We confirm the results with a full implementation using 100 patched Bitcoin clients in an emulated network. For more details, see our <a href="https://eprint.iacr.org/2023/626.pdf">work</a>.
+ 
+  -
+     name: 'Breaking Blockchain Rationality with Out-of-Band Collusion'
+     authors: Haoqian Zhang, Mahsa Bastankhah, Louis-Henri Merino, Vero Estrada-Galiñanes, and Bryan Ford
+     challenges: [*correctness, *compliance]
+     description: Blockchain systems often rely on rationality assumptions for their security, expecting that nodes are motivated to maximize their profits. These systems thus design their protocols to incentivize nodes to execute the honest protocol but fail to consider out-of-band collusion. Existing works analyzing rationality assumptions are limited in their scope, either by focusing on a specific protocol or relying on non-existing financial instruments. We propose a general rational attack on rationality by leveraging an external channel that incentivizes nodes to collude against the honest protocol. Our approach involves an attacker creating an out-of-band bribery smart contract to motivate nodes to double-spend their transactions in exchange for shares in the attacker’s profits. We provide a game theory model to prove that any rational node is incentivized to follow the malicious protocol. We discuss our approach to attacking the Bitcoin and Ethereum blockchains, demonstrating that irrational behavior can be rational in real-world blockchain systems when analyzing rationality in a larger ecosystem. We conclude that rational assumptions only appear to make the system more secure and offer a false sense of security under the flawed analysis. For more information, see our <a href="https://arxiv.org/pdf/2305.00554.pdf">paper</a>. 
+  
+  -
      name: 'Blockchain Large Language Models'
      authors: Yu Gai, Liyi Zhou, Kaihua Qin, Dawn Song, and Arthur Gervais
      challenges: [*scaling, *correctness]
