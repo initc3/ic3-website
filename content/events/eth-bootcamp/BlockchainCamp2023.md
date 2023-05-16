@@ -16,6 +16,13 @@ Join us for the 8th Annual IC3 Blockchain Camp! This 7-day experience will be ho
 In addition to tech talks, panels and projects, we are planning social activities, games, birds-of-a-feather discussions, and more. Topics will include DeFi, DAO, cryptography, Metaverse, NFTs, gaming and more! 
 
 
+### CAMP SCHEDULE (DRAFT)
+
+<div class="ui piled segment">
+  <img class="ui centered image" src="../images/events/blockchain-camp-2023/Draft Agenda - Camp 2023.jpg" alt="" />
+</div>
+
+
 ### REGISTRATION & SPONSORSHIP
 
 **Students:** We are offering free access for a limited number of well-qualified full-time students enrolled at the IC3 campuses (Cornell, Cornell Tech, EPFL, ETH Zurich, UCL, UC Berkeley, UIUC, and the Technion). Please apply <strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSd-mrUUoQhlbu9_-6iZ1o_F_VdgRSgef2Ry4O-jQXhXf5d3IA/viewform">here</a></strong>.
