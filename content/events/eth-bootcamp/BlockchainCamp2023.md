@@ -18,6 +18,8 @@ In addition to tech talks, panels and projects, we are planning social activitie
 
 ### CAMP SCHEDULE (DRAFT)
 
+Information is subject to change.
+
 <div class="ui piled segment">
   <img class="ui centered image" src="../images/events/blockchain-camp-2023/Draft Agenda - Camp 2023.jpg" alt="" />
 </div>
@@ -62,7 +64,7 @@ For examples of what to expect please see the summary of the <strong> <a href="h
 
 ### ACCOMMODATIONS
 
-We strongly recommend taking advantage of the special hotel room rate offered to IC3 Camp participants and reserve your room at the <strong> <a href="https://www.graduatehotels.com/new-york/">Graduate Hotel</a> </strong> (<strong>located on the Cornell Tech campus</strong>) on Roosevelt Island by using this <strong><a href="https://www.graduatehotels.com/new-york/#/booking/step-1?group=202306IC3C">link</a></strong> before <strong> May 9th, 2023 </strong>. After this date, the rate and availability will not be guaranteed. Please keep in mind that your reservation will incur an additional $39/night per hotel policy (not included in the special rate). Please reach out to Oana Gherman (<strong><a href="mailto:og64@cornell.edu">oana.gherman@cornell.edu</a></strong>) if you have any questions. 
+We strongly recommend to reserve your room at the <strong> <a href="https://www.graduatehotels.com/new-york/">Graduate Hotel</a> </strong> (<strong>located on the Cornell Tech campus</strong>) on Roosevelt Island due to its proximity to the event location. Please reach out to Oana Gherman (<strong><a href="mailto:og64@cornell.edu">oana.gherman@cornell.edu</a></strong>) if you have any questions. 
 
 <div class="ui center aligned basic segment">
   <div class="ui centered image">
@@ -84,5 +86,3 @@ We strongly recommend taking advantage of the special hotel room rate offered to
 </div>  
 
 <strong> We hope to see you at the 2023 IC3 Blockchain Camp in NYC! </strong>
-
-INFORMATION IS SUBJECT TO CHANGE!
