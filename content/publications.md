@@ -11,6 +11,7 @@
 - M. Rosenberg, J. White, C. Garman, and I. Miers. [zk-creds: Flexible Anonymous Credentials from zkSNARKs and Existing Identity Infrastructure](https://eprint.iacr.org/2022/878.pdf). IEEE S&P, 2023.
 - L. Zhou, X. Xiong, J. Ernstberger, S. Chaliasos, Z. Wang, Y. Wang, K. Qin, R. Wattenhofer, D. Song, and A. Gervais. [SoK: Decentralized Finance (DeFi) Attacks](https://arxiv.org/pdf/2208.13035.pdf). IEEE S&P, 2023.
 - C. Parlour. [An Introduction to Web3 with Implications for Financial Services](https://www.atlantafed.org/-/media/documents/research/publications/policy-hub/2023/05/15/03--introduction-to-web3-with-implilcations-for-financial-services.pdf). Federal Reserve Bank of Atlanta's Policy Hub, 2023. 
+- N. Neamtu, H. Ni, and L. Alvisi. [Trees and Turtles: Modular Abstractions for State Machine Replication Protocols](https://arxiv.org/pdf/2304.07850.pdf). PaPoC, 2023.
 - T. Kell, H. Yousaf, S. Allen, S. Meiklejohn, and A. Juels. [Forsage: Anatomy of a Smart-Contract Pyramid Scheme](https://www.arijuels.com/wp-content/uploads/2021/07/Forsage.pdf). FC, 2023.
 - S. Cohen, G. Goren, L. Kokoris-Kogias, A. Sonnino, and A. Spiegelman. [Proof of Availability & Retrieval in a Modular Blockchain Architecture](https://fc23.ifca.ai/preproceedings/150.pdf). FC, 2023.
 - K. Qin, J. Ernstberger, L. Zhou, P. Jovanovic, and A. Gervais. [Mitigating Decentralized Finance Liquidations with Reversible Call Options](https://fc23.ifca.ai/preproceedings/168.pdf). FC, 2023.
