@@ -6,8 +6,9 @@
 - V. Nair and D. Song. [Multi-Factor Key Derivation Function (MFKDF) for Fast, Flexible, Secure, & Practical Key Management](https://arxiv.org/abs/2208.05586). USENIX, 2023. (to appear)
 - K. Qin, S. Chaliasos, L. Zhou, B. Livshits, D. Song, and A. Gervais. [The Blockchain Imitation Game](https://www.usenix.org/system/files/sec23fall-prepub-331-qin.pdf). USENIX, 2023. (to appear)
 - W. Tang, L. Kiffer, G. Fanti, and A. Juels. [Strategic Latency Reduction in Blockchain Peer-to-Peer Networks](https://arxiv.org/abs/2205.06837). SIGMETRICS, 2023. (to appear)
-- K. Babel, P. Daian, M. Kelkar, and A. Juels. [Clockwork Finance: Automated Analysis of Economic Security in Smart Contracts](https://eprint.iacr.org/2021/1147.pdf). IEEE S&P, 2023. (to appear)
-- R. Bar-Zur, A. Abu-Hanna, I. Eyal, and A. Tamar. [WeRLman: To Tackle Whale (Transactions), Go Deep (RL)](https://eprint.iacr.org/2022/175). IEEE S&P, 2023. (to appear)
+- K. Babel, P. Daian, M. Kelkar, and A. Juels. [Clockwork Finance: Automated Analysis of Economic Security in Smart Contracts](https://eprint.iacr.org/2021/1147.pdf). IEEE S&P, 2023.
+- R. Bar-Zur, A. Abu-Hanna, I. Eyal, and A. Tamar. [WeRLman: To Tackle Whale (Transactions), Go Deep (RL)](https://eprint.iacr.org/2022/175). IEEE S&P, 2023.
+- C. Parlour. [An Introduction to Web3 with Implications for Financial Services](https://www.atlantafed.org/-/media/documents/research/publications/policy-hub/2023/05/15/03--introduction-to-web3-with-implilcations-for-financial-services.pdf). Federal Reserve Bank of Atlanta's Policy Hub, 2023. 
 - T. Kell, H. Yousaf, S. Allen, S. Meiklejohn, and A. Juels. [Forsage: Anatomy of a Smart-Contract Pyramid Scheme](https://www.arijuels.com/wp-content/uploads/2021/07/Forsage.pdf). FC, 2023.
 - S. Cohen, G. Goren, L. Kokoris-Kogias, A. Sonnino, and A. Spiegelman. [Proof of Availability & Retrieval in a Modular Blockchain Architecture](https://fc23.ifca.ai/preproceedings/150.pdf). FC, 2023.
 - K. Qin, J. Ernstberger, L. Zhou, P. Jovanovic, and A. Gervais. [Mitigating Decentralized Finance Liquidations with Reversible Call Options](https://fc23.ifca.ai/preproceedings/168.pdf). FC, 2023.
