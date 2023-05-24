@@ -21,7 +21,7 @@ In addition to tech talks, panels and projects, we are planning social activitie
 Information is subject to change.
 
 <div class="ui piled segment">
-  <img class="ui centered image" src="../images/events/blockchain-camp-2023/Draft Agenda 5.22.23.jpg" alt="" /> 
+  <img class="ui centered image" src="../images/events/blockchain-camp-2023/Draft Agenda 5.24.23.jpg" alt="" /> 
 </div>
 
 
