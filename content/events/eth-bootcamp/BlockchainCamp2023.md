@@ -20,9 +20,7 @@ In addition to tech talks, panels and projects, we are planning social activitie
 
 Information is subject to change.
 
-<div class="ui piled segment">
-  <img class="ui centered image" src="../images/events/blockchain-camp-2023/Draft Agenda 5.31.23.jpg" alt="" /> 
-</div>
+<iframe height="1115" width="1115" src="https://docs.google.com/spreadsheets/d/1tpP5R08VMvJ1WpLx78f5o9v_K7-w5uyDTco99y7FHoc/pubhtml?gid=632563106&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 
 ### REGISTRATION & SPONSORSHIP
