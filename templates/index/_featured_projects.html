@@ -1,43 +1,43 @@
 <!-- projects -->
 <h1 class="ui header"><i class="lightbulb icon"></i> <div class="content ic3-color">Featured Projects</div>
 </h1>
-<h2 class="ui header">STAMP: Lightweight TEE-Assisted MPC for Efficient Privacy-Preserving Machine Learning
+<h2 class="ui header">Piano: Extremely Simple, Single-Server PIR with Sublinear Server Computation
   <div class="sub header">
 
   </div>
 </h2>
 <div class="">
     <p>
-      In this paper, we propose STAMP, an end-to-end 3-party MPC protocol for efficient privacy-preserving machine learning inference assisted by a lightweight TEE (LTEE), which will be far easier to secure and deploy than today’s large TEEs. STAMP provides three main advantages over the state-of-the-art - (i) STAMP achieves significant performance improvements compared to state-of-the-art MPC protocols, with only a small LTEE that is comparable to a discrete security chip such as the Trusted Platform Module (TPM) or on-chip security subsystems in SoCs similar to the Apple enclave processor. In a semi-honest setting with WAN/GPU, STAMP is 4×-63× faster than Falcon (PoPETs’21) and AriaNN (PoPETs’22) and 3.8×-12× more communication efficient. We achieve even higher performance improvements in a malicious setting. (ii) STAMP guarantees security with abort against malicious adversaries under honest majority assumption. (iii) STAMP is not limited by the size of secure memory in a TEE and can support high-capacity modern neural networks like ResNet18 and Transformer.
+      We construct a sublinear-time single-server pre-processing Private Information Retrieval (PIR) scheme with optimal client storage and server computation (up to poly-logarithmic factors), only relying on the assumption of the existence of One Way Functions (OWF). Our scheme achieves amortized O˜( √ n) online server computation and client computation and O( √ n) online communication per query, and requires Oeλ( √ n) client storage. Unlike prior single-server PIR schemes that rely on heavy cryptographic machinery such as Homomorphic Encryption, our scheme only utilizes lightweight cryptography such as PRFs, which is easily instantiated in practice. To our knowledge, this is the first practical implementation of a single-server sublinear-time PIR scheme. Compared to existing linear time single-server solutions, our schemes are faster by 10 − 300× and are comparable to the fastest two-server schemes. In particular, for a 100GB database of 1.6 billion entries, our experiments show that our scheme has less than 40ms online computation time on a single core.
       For further details, please check out our <a href="https://www.initc3.org/projects.html">Projects Page</a>.
     </p>
     Keywords:
     <span class="ui small labels">
         <div class="ui basic label">
-          TEEs 
+          PIR 
         </div>
         <div class="ui basic label">
-          TPM 
+          PRFs 
         </div>
         <div class="ui basic label">
-          MPC protocols
+          OWF
         </div>
         <div class="ui basic label">
-          Security
+          Cryptography
         </div>
     </span>
 </div>
 <h2 class="ui header">More projects:</h2>
 <ul>
     <li>
-        <strong>tlock</strong>: Practical Timelock Encryption from Threshold BLS
+        <strong>Simplex Consensus</strong>: A Simple and Fast Consensus Protocol
     <li>
-        <strong>Security</strong>: Interactive Authentication 
+        <strong>Deep Bribe</strong>: Predicting the Rise of Bribery in Blockchain Mining with Deep RL
     <li>
-        <strong>Complete Knowledge</strong>: Preventing Encumbrance of Cryptographic Secrets
+        <strong>CBDCs</strong>: A Simple Model of a Central Bank Digital Currency
     <li>
-        <strong>SGXonerated</strong>: Finding (and Partially Fixing) Privacy Flaws in TEE-based Smart Contract Platforms Without Breaking the TEE
+        <strong>Trees and Turtles</strong>: Modular Abstractions for State Machine Replication Protocols
     <li>
-        <strong>zkBridge</strong>: Trustless Cross-chain Bridges Made Practical
+        <strong>Raft-Forensics</strong>: High Performance CFT Consensus with Accountability for Byzantine Faults
 </ul>
 <i class="arrow circle right icon"></i><a href="{{ SITE_ROOT }}/projects.html">Even more projects...</a>
