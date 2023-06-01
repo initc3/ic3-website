@@ -20,7 +20,7 @@ In addition to tech talks, panels and projects, we are planning social activitie
 
 Information is subject to change.
 
-<iframe height="1115" width="1115" src="https://docs.google.com/spreadsheets/d/1tpP5R08VMvJ1WpLx78f5o9v_K7-w5uyDTco99y7FHoc/pubhtml?gid=632563106&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe height="1115" width="1115" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS2fDoTGq6M76zk8MIN2Wvvq5uc5I6DaG8YZAEbeRurEMU2j5pLpwUqJvUO78IrfnTzng1mhNiUoqg_/pubhtml?gid=632563106&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 
 ### REGISTRATION & SPONSORSHIP
