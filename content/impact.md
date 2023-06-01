@@ -16,6 +16,7 @@ In addition to our scholarship, IC3 has been extremely active in the open source
 
 ## Startups Involving IC3 Members
 
+- *<a href="https://gyro.finance/">Gyroscope</a>*: FTL Labs is building Gyroscope, a decentralized stablecoin on Ethereum. An early alpha version of Gyroscope was developed as an IC3 bootcamp project.
 - *<a href="http://offchainlabs.com">Arbitrum</a>*: Offchain Labs is building Arbitrum, a scaling solution for Ethereum.
 - *<a href="https://avalanchelabs.org">Ava Labs, Inc.</a>*: Ava Labs is funded by Andresen-Horowitz, Metastable, Polychain, and others, is building a next generation blockchain platform that provides <a href="https://news.bitcoin.com/bch-avalanche-transactions-show-finality-speeds-10x-faster-then-ethereum/">unprecedented performance</a> and functionality.
 - *<a href="https://bloxroute.com">bloXroute</a>*: bloXroute is a high performance blockchain infrastructure company, co-founded by IC3 members, that is building a fast networking layer for all blockchains.
