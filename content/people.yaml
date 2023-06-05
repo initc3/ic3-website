@@ -412,14 +412,6 @@ students:
     email: nikhilvanjani61@gmail.com
     weburl: 'https://nikhilvanjani.github.io/'
     bio: "Nikhil Vanjani is a Ph.D. student at Carnegie Mellon University, where he is advised by prof. Elaine Shi. His research interests include cryptography and blockchains."
-    
-  -
-    name: 'Tom Yurek'
-    pic: tyurek.jpg
-    title:
-    email: yurek2@illinois.edu
-    weburl:
-    bio: "Tom Yurek is a PhD student at UIUC working with Andrew Miller. He is interested in Privacy and Applied Cryptography."
   
   -
     name: 'Jiaheng Zhang'
@@ -1051,4 +1043,11 @@ alumni_students:
     weburl: http://www.cs.cornell.edu/~cfreitag/
     bio: "Cody Freitag completed his Ph.D. at Cornell Tech. His research interests include theoretical cryptography and privacy and their applications to blockchain technologies and learning theory.\n"
   
+  -
+    name: 'Tom Yurek'
+    pic: tyurek.jpg
+    title:
+    email: yurek2@illinois.edu
+    weburl:
+    bio: "Tom Yurek completed his Ph.D. at UIUC working with Andrew Miller. He is interested in Privacy and Applied Cryptography."
 
