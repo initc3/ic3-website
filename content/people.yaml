@@ -525,14 +525,6 @@ students:
     weburl: "https://boltonb2.web.engr.illinois.edu/"
     bio: "Bolton is a PhD Student at UIUC. His research interests are in Formal Methods, SNARKs, and Cryptographic Protocols."
 
-  -
-    name: 'Matan Yechieli'
-    pic: raptor3.jpg
-    title:
-    email: matany@campus.technion.ac.il
-    weburl:
-    bio: "Matan is a graduate student at the Technion. His research interests include blockchain systems, security, and cryptocurrencies."
-
   - 
     name: 'Florian Suri-Payer'
     pic: florian.JPG
@@ -1050,4 +1042,12 @@ alumni_students:
     email: yurek2@illinois.edu
     weburl:
     bio: "Tom Yurek completed his Ph.D. at UIUC working with Andrew Miller. He is interested in Privacy and Applied Cryptography."
+  
+  -
+    name: 'Matan Yechieli'
+    pic: raptor3.jpg
+    title:
+    email: matany@campus.technion.ac.il
+    weburl:
+    bio: "Matan completed his Master of Science program at the Technion under the supervision of prof. Ittay Eyal. His research interests include blockchain systems, security, and cryptocurrencies."
 
