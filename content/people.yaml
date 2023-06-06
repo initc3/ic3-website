@@ -230,6 +230,14 @@ students:
     bio: "James is a Computer Science Ph.D. student at Cornell University working with prof. Ari Juels. His interests include blockchains, cryptocurrency, privacy, and smart contracts."
   
   -
+    name: 'Luofeng Zhou'
+    pic: Luofeng.jpg
+    title:
+    email: luofengzhou@gmail.com
+    weburl: 
+    bio: "Luofeng is a PhD student in Finance at the New York University Stern School of Business and an external member of the Digital Economy and Financial Technology (DEFT) Research Lab. He is broadly interested in blockchain innovations and their economic implications, especially in the mechanism design of blockchain.\n"
+    
+  -
     name: 'Siyuan Zhuang'
     pic: Siyuan.jpg
     title:
