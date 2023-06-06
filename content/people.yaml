@@ -166,6 +166,14 @@ faculty:
     weburl: 'http://www.cs.berkeley.edu/~dawnsong/'
     bio: 'Dawn Song is Professor of Computer Science at UC Berkeley. Prior to joining UC Berkeley, she was an Assistant Professor at Carnegie Mellon University from 2002 to 2007. Her research interest lies in security and privacy issues in computer systems. She is the recipient of many prestigious awards including the MacArthur Fellowship, the Guggenheim Fellowship, the NSF CAREER Award, the Alfred P. Sloan Research Fellowship, the MIT Technology Review TR-35 Award, and Best Paper Awards from top conferences. She is the founder of Ensighta Security Inc., which was acquired by FireEye Inc.'
 
+  - 
+    name: Will Cong
+    pic: Will.jpg
+    title:
+    email: will.cong@cornell.edu
+    weburl: 'https://www.linwilliamcong.com/'
+    bio: "Will Cong is a Finance Professor and the current holder of the Rudd Family Endowed Professorship in Management at Cornell University. He is also a Department editor at the Management Science, Research Associate at the NBER, founding director of FinTech at Cornell Initiative, (co-)founder of the Digital Economy and Financial Technology (DEFT) Lab and multiple international research forums (e.g., ABFR and CBER), and was formerly a faculty member at the University of Chicago, Kauffman Junior Fellow, Poets & Quants World Best Business School Professor, George P. Shultz Scholar, and Lieberman Fellow at Stanford University. He studies applied economic theory, financial economics, and information economics, with a focus on interdisciplinary topics entailing tokenomics, IO and design of blockchains, DeFi, AI for finance, and how digitization and big data interact with and influence competition, growth, and entrepreneurship. He is the recipient of numerous best paper prizes and grants and has been a highly sought-after keynote speaker at various international conferences and advisor for leading FinTech firms, quant funds, and regulatory agencies around the globe.\n"
+    
   -
     name: 'Eswar Prasad'
     pic: eswar.jpg
