@@ -16,7 +16,7 @@ Join us for the 8th Annual IC3 Blockchain Camp! This 7-day experience will be ho
 In addition to tech talks, panels and projects, we are planning social activities, games, birds-of-a-feather discussions, and more. Topics will include DeFi, DAO, cryptography, Metaverse, NFTs, gaming and more! 
 
 
-### CAMP SCHEDULE (DRAFT)
+### CAMP SCHEDULE
 
 Information is subject to change.
 
