@@ -270,5 +270,5 @@
  url: https://initc3org.medium.com/the-sting-framework-sf-ef00702c88c7
  title: "The Sting Framework (SF)"
  authors: Kushal Babel, Nerla Jean-Louis, Mahimna Kelkar, Yunqi Li, Carolina Ortega Perez, Aditya Asgoankar, Sylvain Bellemare, Ari Juels, and Andrew Miller
- summary: TLDR: The Sting Framework (SF) is a new idea for bolstering the security of systems at risk of information leakage. SF addresses the case where a corrupt service (called a Subversion Service) arises that enables adversaries to exploit such leakage. SF presumes a player, called an informer, that wishes to alert the community to the presence of the corrupt service — either as a public service or to claim a bounty. SF enables the informer to generate a publicly verifiable proof that the corrupt service exists.
+ summary: TLDR - The Sting Framework (SF) is a new idea for bolstering the security of systems at risk of information leakage. SF addresses the case where a corrupt service (called a Subversion Service) arises that enables adversaries to exploit such leakage. SF presumes a player, called an informer, that wishes to alert the community to the presence of the corrupt service — either as a public service or to claim a bounty. SF enables the informer to generate a publicly verifiable proof that the corrupt service exists.
  
