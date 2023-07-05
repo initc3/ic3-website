@@ -6,7 +6,14 @@
 - T. Yurek, Z. Xiang, Y. Xia, and A. Miller. [Long Live The Honey Badger: Robust Asynchronous DPSS and its Applications](https://eprint.iacr.org/2022/971). USENIX, 2023. (to appear) 
 - V. Nair and D. Song. [Multi-Factor Key Derivation Function (MFKDF) for Fast, Flexible, Secure, & Practical Key Management](https://arxiv.org/abs/2208.05586). USENIX, 2023. (to appear)
 - K. Qin, S. Chaliasos, L. Zhou, B. Livshits, D. Song, and A. Gervais. [The Blockchain Imitation Game](https://www.usenix.org/system/files/sec23fall-prepub-331-qin.pdf). USENIX, 2023. (to appear)
-- W. Tang, L. Kiffer, G. Fanti, and A. Juels. [Strategic Latency Reduction in Blockchain Peer-to-Peer Networks](https://arxiv.org/abs/2205.06837). SIGMETRICS, 2023. (to appear)
+- J. Ernstberger, J. Lauinger, F. Elsheimy, L. Zhou, S. Steinhorst, R. Canetti, A. Miller, A. Gervais, and D. Song. [SoK: Data Sovereignty](https://eprint.iacr.org/2023/967). EuroS&P, 2023.
+- V. Nair and D. Song. [Multi-Factor Credential Hashing for Asymmetric Brute-Force Attack Resistance](https://arxiv.org/abs/2306.08169). EuroS&P, 2023.
+- Z. Li, A. Sonnino, and P. Jovanovic. [Performance of EdDSA and BLS Signatures in Committee-Based Consensus](https://dl.acm.org/doi/abs/10.1145/3584684.3597265). ApPLIED, 2023.
+- X. Wang and R. van Renesse. [Disaggregating Applications Using Uniservices](https://dl.acm.org/doi/pdf/10.1145/3584684.3597271). ApPLIED, 2023.
+- N. Giridharan, F. Suri-Payer, M. Ding, H. Howard, I. Abraham, and N. Crooks. [BeeGees: Stayin’ Alive in Chained BFT](https://dl.acm.org/doi/pdf/10.1145/3583668.3594572). PODC, 2023.
+- J. Wan, A. Momose, L. Ren, E. Shi, and Z. Xiang. [On the Amortized Communication Complexity of Byzantine Broadcast](https://dl.acm.org/doi/abs/10.1145/3583668.3594596). PODC, 2023.
+- W. Tang, L. Kiffer, G. Fanti, and A. Juels. [Strategic Latency Reduction in Blockchain Peer-to-Peer Networks](https://arxiv.org/abs/2205.06837). SIGMETRICS, 2023.
+- A. Goldberg, G. Fanti, and N.B. Shah. [Batching of Tasks by Users of Pseudonymous Forums: Anonymity Compromise and Protection](https://arxiv.org/abs/2211.12686). SIGMETRICS, 2023.
 - J. Grimmelmann. [The Structure and Legal Interpretation of Computer Programs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4445484). 1 Journal of Cross-Disciplinary Research in Computational Law no. 3, art. 19, 2023.
 - K. Babel, P. Daian, M. Kelkar, and A. Juels. [Clockwork Finance: Automated Analysis of Economic Security in Smart Contracts](https://eprint.iacr.org/2021/1147.pdf). IEEE S&P, 2023.
 - R. Bar-Zur, A. Abu-Hanna, I. Eyal, and A. Tamar. [WeRLman: To Tackle Whale (Transactions), Go Deep (RL)](https://eprint.iacr.org/2022/175). IEEE S&P, 2023.
