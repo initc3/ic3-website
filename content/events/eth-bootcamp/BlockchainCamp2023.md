@@ -16,7 +16,7 @@ Thank you to all who joined us for the 8th Annual IC3 Blockchain Camp! This 7-da
 <div class="ui piled segment">
   <img class="ui centered image" src="../images/events/blockchain-camp-2023/Group photo - outside 1.png" alt="" />
   <div class="ui bottom attached message">
-    <strong>Our 2023 IC3 Blockchain Camp group photo in the Cornell Tech plaza!
+    <strong>Our 2023 IC3 Blockchain Camp group photo on the Cornell Tech campus!
 </strong><br>
   </div>    
 </div>
@@ -24,7 +24,7 @@ Thank you to all who joined us for the 8th Annual IC3 Blockchain Camp! This 7-da
 
 ### CAMP SPONSORS
 
-We would like to offer a special thank you for their generous support for this year's edition to <a href="https://www.reclaimprotocol.org/">Reclaim Protocol</a> by CreatorOS Inc. and <a href="https://www.fenbushicapital.vc/index_en.html>Fenbushi Capital</a>, and closing party sponsor <a href="https://chainlinklabs.com/">Chainlink Labs</a>.
+We would like to offer a special thank you for their generous support for this year's edition to <a href="https://www.reclaimprotocol.org/">Reclaim Protocol</a> by CreatorOS Inc. and <a href="https://www.fenbushicapital.vc/index_en.html">Fenbushi Capital</a>, and closing party sponsor <a href="https://chainlinklabs.com/">Chainlink Labs</a>.
 
 <div class="ui center aligned basic segment">
     <div class="ui small images">
