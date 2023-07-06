@@ -45,7 +45,7 @@ Our five-day content program included research talks about DeFi, infrastructure,
 <iframe height="1115" width="1115" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS2fDoTGq6M76zk8MIN2Wvvq5uc5I6DaG8YZAEbeRurEMU2j5pLpwUqJvUO78IrfnTzng1mhNiUoqg_/pubhtml?gid=632563106&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 <div class="ui piled segment">
-  <img class="ui centered image" src="../images/events/blockchain-camp-2023/Ari.jpg" alt="" />
+  <img class="ui centered image" src="../images/events/blockchain-camp-2023/Ari.jpg" alt="" width="1000"/>
   <div class="ui bottom attached message">
     <strong>IC3 Director Ari Juels (Cornell Tech) introduced the camp
 </strong><br>
@@ -53,7 +53,7 @@ Our five-day content program included research talks about DeFi, infrastructure,
 </div>
 
 <div class="ui piled segment">
-  <img class="ui centered image" src="../images/events/blockchain-camp-2023/Panel.jpg" alt="" />
+  <img class="ui centered image" src="../images/events/blockchain-camp-2023/Panel.jpg" alt="" width="1000"/>
   <div class="ui bottom attached message">
     <strong>IC3 Associate Director Andrew Miller led a panel about layer-2 protocols, DAOs, and public goods with panelists Kelvin Fichter (Optimism), Harry Kalodner (Arbitrum), and Ye Zhang (Scroll) 
 </strong><br>
@@ -61,7 +61,7 @@ Our five-day content program included research talks about DeFi, infrastructure,
 </div>
 
 <div class="ui piled segment">
-  <img class="ui centered image" src="../images/events/blockchain-camp-2023/Jens.jpg" alt="" />
+  <img class="ui centered image" src="../images/events/blockchain-camp-2023/Jens.jpg" alt="" width="1000"/>
   <div class="ui bottom attached message">
     <strong>Jens Groth (Dfinity) led a tutorial on zero knowledge proofs
 </strong><br>
@@ -76,13 +76,13 @@ In addition to tech talks, panels and projects, we sailed the Hudson River. Here
    </div>
    <div class="ui centered image">
      <img class="ui image" src="../images/events/blockchain-camp-2023/party 3.jpg" alt="" width="500"/>
-   </div>
+   </div><br>
    <div class="ui centered image">
      <img class="ui image" src="../images/events/blockchain-camp-2023/party 2.jpg" alt="" width="500"/>
    </div>
    <div class="ui centered image">
      <img class="ui image" src="../images/events/blockchain-camp-2023/party.jpg" alt="" width="500"/>
-   </div>
+   </div></br>
    <div class="ui bottom attached message">
 	<strong>IC3 Partner Chainlink hosted our closing party at the Sanctuary on Roosevelt Island, complete with a live jazz band.</strong>
    </div>
@@ -100,8 +100,8 @@ Project teams self-selected projects on Monday after considering the project pro
     <div class="ui bottom attached message">
     <strong>First Place: "TEE"</strong><br>
     <strong>Team Members</strong>: Andrew Miller (project leader), Sylvain Bellemare (project leader), Gabriel Arrouye (project leader), Bunmi Akintade, Yunqi Li, James Austgen, Zhengxun Wu, Surya Bakshi, Swei Chen, Amber Seira, and Nerla Jean-Louis<br>
-    <strong>Summary</strong>: TEE smart contracts like Secret, Oasis, Phala, Obscuro, are the hot new programming framework. See more details <a href="https://blockchainsplusx.github.io/">here</a>. There’s an obstacle to providing privacy, which is the need to use ORAM or even a linear scan to avoid side channels. Read <a href="https://eprint.iacr.org/2023/378">SGXonerated</a>. Basically, Secret Network have not been able to provide strong privacy after the disclosure. Can we fix it? It turns out there’s a surprisingly simple way to use the existing programming models to provide off-chain computation, "Rolls ups for free using TEEs." Basically, we are using the integrity&privacy property of the TEE as a way to skip needing a zk Rollup or dispute period, etc. We will use as a starting point the dockerized development environment from the sgxonerated paper. We could explore using Oasis instead of SN in two concurrent task forces.
-    <strong>Resources</strong>: This concept is described <a href="https://forum.scrt.network/t/tradeoffs-discussion-access-pattern-hiding-spicy-printfs/6884/15?u=amiller">here</a> as a proposed contribution to Secret Network, and something Obscuro/Oasis etc could adopt.
+    <strong>Summary</strong>: TEE smart contracts like Secret, Oasis, Phala, Obscuro, are the hot new programming framework. See more details <a href="https://blockchainsplusx.github.io/">here</a>. There’s an obstacle to providing privacy, which is the need to use ORAM or even a linear scan to avoid side channels. Read <a href="https://eprint.iacr.org/2023/378">SGXonerated</a>. Basically, Secret Network have not been able to provide strong privacy after the disclosure. Can we fix it? It turns out there’s a surprisingly simple way to use the existing programming models to provide off-chain computation, "Rolls ups for free using TEEs." Basically, we are using the integrity&privacy property of the TEE as a way to skip needing a zk Rollup or dispute period, etc. We will use as a starting point the dockerized development environment from the sgxonerated paper. We could explore using Oasis instead of SN in two concurrent task forces.<br>
+    <strong>Resources</strong>: This concept is described <a href="https://forum.scrt.network/t/tradeoffs-discussion-access-pattern-hiding-spicy-printfs/6884/15?u=amiller">here</a> as a proposed contribution to Secret Network, and something Obscuro/Oasis etc could adopt. More details <a href="https://docs.google.com/document/d/1BYV_kMxGsgEHdDZhOlI8S0KtWhD_JZ0tHBeI4T1mTpc/edit">here</a>.
     </div>
 </div>
 
