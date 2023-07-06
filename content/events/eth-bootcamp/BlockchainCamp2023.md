@@ -46,26 +46,9 @@ Our five-day content program included research talks about DeFi, infrastructure,
 
 
 
-For examples of what to expect please see the summary of the <strong> <a href="https://www.initc3.org/events/2022-08-01-ic3-blockchain-camp-2022">2022 Blockchain Camp</a></strong>. 
+<div class="ui piled segment">
+  <img class="ui centered image" src="../images/events/blockchain-camp-2023/Group photo - Tata.png" alt="" />
+  </div>    
+</div>
 
-
-<div class="ui center aligned basic segment">
-  <div class="ui centered image">
-    <img class="ui image" src="../images/events/WinterRetreat2023/bakshi.png" alt="" width="200"/>
-  </div>
-  <div class="ui centered image">
-    <img class="ui image" src="../images/events/WinterRetreat2023/lorenz.jpg" alt="" width="165"/>
-  </div>
-  <div class="ui centered image">
-    <img class="ui image" src="../images/events/WinterRetreat2023/paddy.jpg" alt="" width="200"/>
-  </div>
-  <div class="ui centered image">
-    <img class="ui image" src="../images/events/WinterRetreat2023/haaroon.jpg" alt="" width="165"/>
-  </div>
-  <div class="ui bottom attached message">
-    <strong>2023 Blockchain Camp - Technical Committee<br> 
-	    Surya Bakshi, Lorenz Breidenbach, Patrick McCorry, and Haaroon Yousaf</strong><br>
-  </div>
-</div>  
-
-<strong> We hope to see you at future IC3 events! </strong>
+<strong> Thanks again to all who participated in the 2023 IC3 Blockchain Camp and we hope to see you at future IC3 events! </strong>
