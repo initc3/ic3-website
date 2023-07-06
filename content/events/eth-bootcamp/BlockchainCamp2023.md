@@ -22,7 +22,7 @@ Thank you to all who joined us for the 8th Annual IC3 Blockchain Camp! This 7-da
 </div>
 
 
-### CAMP SPONSORS
+### Sponsors
 
 We would like to offer a special thank you for their generous support for this year's edition to <a href="https://www.reclaimprotocol.org/">Reclaim Protocol</a> by CreatorOS Inc. and <a href="https://www.fenbushicapital.vc/index_en.html">Fenbushi Capital</a>, and closing party sponsor <a href="https://chainlinklabs.com/">Chainlink Labs</a>.
 
@@ -38,7 +38,7 @@ We would like to offer a special thank you for their generous support for this y
     </div>
 </div>
 
-### CAMP SCHEDULE & ACTIVITIES
+### Schedule & Activities
 
 Our five-day content program included research talks about DeFi, infrastructure, DAOs, cryptography, Metaverse, NFTs, gaming, and more, as well as our seven-day hackathon. 
 
@@ -72,21 +72,29 @@ In addition to tech talks, panels and projects, we sailed the Hudson River. Here
 
 <div class="ui center aligned basic segment">
    <div class="ui centered image">
-     <img class="ui image" src="../images/events/blockchain-camp-2023/party.jpg" alt="" />
+     <img class="ui image" src="../images/events/blockchain-camp-2023/party.jpg" alt="" width="500"/>
    </div>
    <div class="ui centered image">
-     <img class="ui image" src="../images/events/blockchain-camp-2023/party 1.jpg" alt="" />
+     <img class="ui image" src="../images/events/blockchain-camp-2023/party 1.jpg" alt="" width="500"/>
    </div>
    <div class="ui centered image">
-     <img class="ui image" src="../images/events/blockchain-camp-2023/party 3.jpg" alt="" />
+     <img class="ui image" src="../images/events/blockchain-camp-2023/party 3.jpg" alt="" width="500"/>
    </div>
    <div class="ui centered image">
-     <img class="ui image" src="../images/events/blockchain-camp-2023/party 2.jpg" alt="" />
+     <img class="ui image" src="../images/events/blockchain-camp-2023/party 2.jpg" alt="" width="500"/>
    </div>
    <div class="ui bottom attached message">
 	<strong>IC3 Partner Chainlink hosted our closing party at the Sanctuary on Roosevelt Island, complete with a live jazz band.</strong>
    </div>
 </div>
+
+Participants stayed at the Graduate Hotel on the Cornell Tech campus on Roosevelt Island.
+
+### The Hackathon 
+Project teams self-selected projects on Monday after considering the project proposals. The teams coded throughout the week, and made project presentations and demos on Saturday. Six hackathon teams submitted projects this year. Projects were judged by Sarah Allen (IC3), Patrick McCorry (Arbitrum Foundation), and Surya Bakshi (Offchain Labs). The judging criteria were novelty, practicality, user experience, technical difficulty, and maturity of development within the week.
+
+## Top 3 Projects:
+
 
 <div class="ui piled segment">
   <img class="ui centered image" src="../images/events/blockchain-camp-2023/Group photo - Tata.png" alt="" />
