@@ -44,11 +44,42 @@ Our five-day content program included research talks about DeFi, infrastructure,
 
 <iframe height="1115" width="1115" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS2fDoTGq6M76zk8MIN2Wvvq5uc5I6DaG8YZAEbeRurEMU2j5pLpwUqJvUO78IrfnTzng1mhNiUoqg_/pubhtml?gid=632563106&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
+<div class="ui piled segment">
+  <img class="ui centered image" src="../images/events/blockchain-camp-2023/Ari.jpeg" alt="" />
+  <div class="ui bottom attached message">
+    <strong>IC3 Director Ari Juels (Cornell Tech) introduced the camp
+</strong><br>
+  </div>    
+</div>
 
+<div class="ui piled segment">
+  <img class="ui centered image" src="../images/events/blockchain-camp-2023/panel.jpeg" alt="" />
+  <div class="ui bottom attached message">
+    <strong>IC3 Associate Director Andrew Miller led a panel about layer-2 protocols, DAOs, and public goods with panelists Kelvin Fichter (Optimism), Harry Kalodner (Arbitrum), and Ye Zhang (Scroll) 
+</strong><br>
+  </div>    
+</div>
+
+<div class="ui piled segment">
+  <img class="ui centered image" src="../images/events/blockchain-camp-2023/jens.jpeg" alt="" />
+  <div class="ui bottom attached message">
+    <strong>Jens Groth (Dfinity) led a tutorial on zero knowledge proofs
+</strong><br>
+  </div>    
+</div>
+
+In addition to tech talks, panels and projects, we sailed the Hudson River. 
+
+<div class="ui piled segment">
+  <img class="ui centered video" src="../images/events/blockchain-camp-2023/cruise.mov" alt="" />
+  <div class="ui bottom attached message">
+    <strong>A short video from our sail from the Chelsea Piers to the Statue of Liberty and back
+</strong><br>
+  </div>    
+</div>
 
 <div class="ui piled segment">
   <img class="ui centered image" src="../images/events/blockchain-camp-2023/Group photo - Tata.png" alt="" />
-  </div>    
 </div>
 
 <strong> Thanks again to all who participated in the 2023 IC3 Blockchain Camp and we hope to see you at future IC3 events! </strong>
