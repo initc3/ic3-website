@@ -53,7 +53,7 @@ Our five-day content program included research talks about DeFi, infrastructure,
 </div>
 
 <div class="ui piled segment">
-  <img class="ui centered image" src="../images/events/blockchain-camp-2023/panel.jpeg" alt="" />
+  <img class="ui centered image" src="../images/events/blockchain-camp-2023/Panel.jpeg" alt="" />
   <div class="ui bottom attached message">
     <strong>IC3 Associate Director Andrew Miller led a panel about layer-2 protocols, DAOs, and public goods with panelists Kelvin Fichter (Optimism), Harry Kalodner (Arbitrum), and Ye Zhang (Scroll) 
 </strong><br>
@@ -61,14 +61,32 @@ Our five-day content program included research talks about DeFi, infrastructure,
 </div>
 
 <div class="ui piled segment">
-  <img class="ui centered image" src="../images/events/blockchain-camp-2023/jens.jpeg" alt="" />
+  <img class="ui centered image" src="../images/events/blockchain-camp-2023/Jens.jpeg" alt="" />
   <div class="ui bottom attached message">
     <strong>Jens Groth (Dfinity) led a tutorial on zero knowledge proofs
 </strong><br>
   </div>    
 </div>
 
-In addition to tech talks, panels and projects, we sailed the Hudson River. Here is a short <a href="https://github.com/initc3/ic3-website/assets/100302535/74417df6-1abd-427c-b708-7d50cccbee38">video</a> from our sail from the Chelsea Piers to the Statue of Liberty and back.
+In addition to tech talks, panels and projects, we sailed the Hudson River. Here is a short <a href="https://github.com/initc3/ic3-website/assets/100302535/74417df6-1abd-427c-b708-7d50cccbee38"><strong>video</strong></a> from our sail from the Chelsea Piers to the Statue of Liberty and back.
+
+<div class="ui center aligned basic segment">
+   <div class="ui centered image">
+     <img class="ui image" src="../images/events/blockchain-camp-2023/party.jpeg" alt="" />
+   </div>
+   <div class="ui centered image">
+     <img class="ui image" src="../images/events/blockchain-camp-2023/party 1.jpeg" alt="" />
+   </div>
+   <div class="ui centered image">
+     <img class="ui image" src="../images/events/blockchain-camp-2023/party 3.jpeg" alt="" />
+   </div>
+   <div class="ui centered image">
+     <img class="ui image" src="../images/events/blockchain-camp-2023/party 2.jpeg" alt="" />
+   </div>
+   <div class="ui bottom attached message">
+	<strong>IC3 Partner Chainlink hosted our closing party at the Sanctuary on Roosevelt Island, complete with a live jazz band.</strong>
+   </div>
+</div>
 
 <div class="ui piled segment">
   <img class="ui centered image" src="../images/events/blockchain-camp-2023/Group photo - Tata.png" alt="" />
