@@ -76,10 +76,10 @@ In addition to tech talks, panels and projects, we sailed the Hudson River. Here
    </div><br>
    <div class="ui centered image">
      <img class="ui image" src="../images/events/blockchain-camp-2023/party 3.jpg" alt="" width="500"/>
-   </div><br>
+   </div>
    <div class="ui centered image">
      <img class="ui image" src="../images/events/blockchain-camp-2023/party 2.jpg" alt="" width="500"/>
-   </div><br>
+   </div>
    <div class="ui centered image">
      <img class="ui image" src="../images/events/blockchain-camp-2023/party.jpg" alt="" width="500"/>
    </div></br>
@@ -104,6 +104,55 @@ Project teams self-selected projects on Monday after considering the project pro
     <strong>Resources</strong>: This concept is described <a href="https://forum.scrt.network/t/tradeoffs-discussion-access-pattern-hiding-spicy-printfs/6884/15?u=amiller">here</a> as a proposed contribution to Secret Network, and something Obscuro/Oasis etc could adopt. More details <a href="https://docs.google.com/document/d/1BYV_kMxGsgEHdDZhOlI8S0KtWhD_JZ0tHBeI4T1mTpc/edit">here</a>.
     </div>
 </div>
+
+<div class="ui piled segment">
+    <img class="ui centered image" src="../images/events/blockchain-camp-2023/second.jpg" alt="" />
+    <div class="ui bottom attached message">
+    <strong>First Place: "DECO"</strong><br>
+    <strong>Team Members</strong>: Lorenz Breidenbach (project leader), Harjasleen Malvai (lproject leader), Alexandru Topliceanu (project leader), Ulisses Kee, Tom Yurek, Roi Bar-Zur, Marwa Moallem, Nihar Shah, Dahlia Malkhi, and Parth Gargava<br>
+    <strong>Summary</strong>: In this project, we will be building an end-to-end system that allows users who satisfy certain criteria to obtain an identity and use it. In particular, we will be simulating a Chainlink DAO – a governance smart contract handling voting. In our DAO, only users who are especially involved (as shown by their online interactions with Chainlink) with Chainlink and could even be called true believers 🦹 can qualify to enroll. We will use one or more external web sources to confirm how enthusiastic a user is about Chainlink, use these to generate attested credentials and finally, gather credentials to form identities. Those who are enthusiastic about Chainlink are obviously very smart and cool 😎. So, like all cool people, they are both opinionated and privacy conscious – they do not want to reveal personal information and they also do not want to reveal what they vote for, lest it be divisive. These privacy requirements pose interesting challenges!<br>
+    <strong>Resources</strong>: <a href="[https://walletdesign.dev/](https://docs.google.com/document/d/1_lBw0_Z-w3V2n9vBb4JjI6qzgyVObR1cKdap_FpoUgs/edit)">Proposal writeup and resources</a><br>
+    </div>
+</div>
+
+<div class="ui piled segment">
+    <img class="ui centered image" src="../images/events/blockchain-camp-2023/third.jpg" alt="" />
+    <div class="ui bottom attached message">
+    <strong>First Place: "EIP 1559"</strong><br>
+    <strong>Team Members</strong>: Juan Pablo Madrigal Cianci (project leader), Chris Buckland, Abhimanyu Rawat, and Yuki Yuminaga<br>
+    <strong>Summary</strong>: The recent surge in blockchain technology and decentralized applications (dApps) has laid bare the limitations of existing Ethereum transaction systems, thereby triggering a pressing demand for an efficient and predictable gas fee structure. The proposed project aims to address this challenge by integrating the EIP 1559 mechanism with gas lanes, an innovative approach to enhance transaction predictability and network scalability.
+Ethereum Improvement Proposal 1559 (EIP 1559) has already marked a significant shift in the way transaction fees operate on the Ethereum network. With its introduction, users can enjoy more predictable gas fees and improved transaction inclusion reliability, while simultaneously mitigating some of the issues related to miner extractable value (MEV). Nonetheless, during periods of high demand, the problem of transaction congestion remains, which calls for a solution that can further optimize the process.
+This is where the idea of a multi-dimensional EIP1559 mechanism (AKA ‘gas lanes’) comes into play. Gas lanes propose the segregation of transactions into different ‘lanes’ based on several criteria [2]. This criteria could be, e.g., compute vs storage intensive messages [3]. An additional criteria could be grouping messages by the types of user.
+The intention is to ensure that higher priority transactions can proceed unimpeded, even during network congestion, effectively creating a fast lane for urgent transactions. This strategy is akin to implementing traffic lanes in traditional road networks to handle different traffic needs and improve overall efficiency. By combining the benefits of EIP 1559 and the gas lanes concept, this project aims to create a next-generation transaction system for Ethereum, capable of enhancing user experience and supporting the growing needs of the Ethereum ecosystem. This amalgamation not only promises to streamline transaction processes but also ensures sustainability and scalability, thereby making Ethereum more accessible and reliable for users worldwide.<br>
+    <strong>Resources</strong>: For details, see <a href="https://hackmd.io/@cryptoecon/SyQf3wqSn">here</a>.
+    </div>
+</div>
+
+**Additional Projects:**
+
+***Metamath***
+
+Team Members: Bolton Bailey (project leader), Jiasun Li, and Deepak Maram
+
+Summary: There is a great potential for synergy between zero-knowledge proofs (which allow for succinct cryptographic checking of any computational statement) and formal proofs (which allow any mathematical statement to be checked computationally). In this project, we looked at using the many zero-knowledge codebases that have proliferated in the last few years to check Metamath, a language for formal theorem proving. Metamath has a variety of implementations (https://us.metamath.org/other.html#verifiers) and has the potential to be a good benchmark between systems, as well as being independently useful as a backend to many formal method projects.
+
+Resources: <a href="https://us.metamath.org/other.html#verifiers">Metamath Topics</a>.
+
+***Unirep***
+
+Team Members: Vivian Jeng (project leader), Chiali Tsai (project leader), Nico Serrano, and Joy Wang
+
+Summary: UniRep is a zero-knowledge protocol that securely manages user data through anonymous identifiers, enabling trustless interactions and enhanced user privacy in applications. UniRep expands the notion of reputation to include various user data aspects, such as preferences, activity, alignments, and ownership. Using anonymous identifiers (epoch keys), The protocol allows for trustless engagement with applications while preserving user privacy. This approach promotes non-custodial applications that don't hold user data, reducing data breach risks and emphasizing security for both users and developers.
+
+Resources: <a href="https://github.com/Unirep/Unirep">GitHub</a> and <a href="https://developer.unirep.io/">website</a>.
+
+***Cross chain perpetuals***
+
+Team Members: Dheeraj Chakilam (project leader), Haaroon Yousaf, Ali Farahbakhsh, Louis-Henri Merino, Abhay Khanna, Sean Wells, Kosala Yapa, and Shamseer Chettiyankandy
+
+Summary: We used layer zero, axelar, hyperlane or another protocol to build a perpetual swap aggregator across chains.
+
+Resources:
 
 <div class="ui piled segment">
   <img class="ui centered image" src="../images/events/blockchain-camp-2023/Group photo - Tata.png" alt="" />
