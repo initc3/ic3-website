@@ -24,8 +24,6 @@ Thank you to all who joined us for the 8th Annual IC3 Blockchain Camp! This 7-da
 
 ### Sponsors
 
-We would like to offer a special thank you for their generous support for this year's edition to <a href="https://www.reclaimprotocol.org/">Reclaim Protocol</a> by CreatorOS Inc. and <a href="https://www.fenbushicapital.vc/index_en.html">Fenbushi Capital</a>, and closing party sponsor <a href="https://chainlinklabs.com/">Chainlink Labs</a>.
-
 <div class="ui center aligned basic segment">
     <div class="ui small images">
 	<img class="ui image" id="chainlink" src="../images/events/blockchain-camp-2023/chainlink.png" />
@@ -37,6 +35,9 @@ We would like to offer a special thank you for their generous support for this y
         <img class-"ui image" id="avalanche" src="../images/events/blockchain-camp-2023/avalanche.png" /> 
     </div>
 </div>
+
+We would like to offer a special thank you for their generous support for this year's edition to <a href="https://www.reclaimprotocol.org/">Reclaim Protocol</a> by CreatorOS Inc. and <a href="https://www.fenbushicapital.vc/index_en.html">Fenbushi Capital</a>, and closing party sponsor <a href="https://chainlinklabs.com/">Chainlink Labs</a>.
+
 
 ### Schedule & Activities
 
