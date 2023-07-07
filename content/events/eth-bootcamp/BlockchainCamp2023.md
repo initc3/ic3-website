@@ -148,7 +148,6 @@ Team Members: Dheeraj Chakilam (project leader), Haaroon Yousaf, Ali Farahbakhsh
 
 Summary: We used layer zero, axelar, hyperlane or another protocol to build a perpetual swap aggregator across chains.
 
-Resources:
 
 <div class="ui piled segment">
   <img class="ui centered image" src="../images/events/blockchain-camp-2023/Group photo - Tata.png" alt="" />
