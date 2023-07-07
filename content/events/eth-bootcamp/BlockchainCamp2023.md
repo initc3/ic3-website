@@ -63,26 +63,24 @@ Our five-day content program included research talks about DeFi, infrastructure,
 <div class="ui piled segment">
   <img class="ui centered image" src="../images/events/blockchain-camp-2023/Jens.jpg" alt="" width="750"/>
   <div class="ui bottom attached message">
-    <strong>Jens Groth (Dfinity) led a tutorial on zero knowledge proofs
+    <strong>Jens Groth (Dfinity/University College London) led a tutorial on zero knowledge proofs
 </strong><br>
   </div>    
 </div>
 
-In addition to tech talks, panels and projects, we sailed the Hudson River. Here is a short <a href="https://github.com/initc3/ic3-website/assets/100302535/74417df6-1abd-427c-b708-7d50cccbee38"><strong>video</strong></a> from our sail from the Chelsea Piers to the Statue of Liberty and back.
+In addition to tech talks, panels and projects, we sailed the <a href="https://github.com/initc3/ic3-website/assets/100302535/74417df6-1abd-427c-b708-7d50cccbee38"><strong>Hudson River</strong></a>. Here is a glimpse from our sail from the Chelsea Piers to the Statue of Liberty and back. 
+
+<div class="ui piled segment">
+  <img class="ui centered image" src="../images/events/blockchain-camp-2023/boat.jpg" alt="" width="750"/>    
+</div>
 
 <div class="ui center aligned basic segment">
-   <div class="ui centered image">
-     <img class="ui image" src="../images/events/blockchain-camp-2023/party 1.jpg" alt="" width="500"/>
-   </div>
-   <div class="ui centered image">
-     <img class="ui image" src="../images/events/blockchain-camp-2023/party 3.jpg" alt="" width="500"/>
-   </div><br>
    <div class="ui centered image">
      <img class="ui image" src="../images/events/blockchain-camp-2023/party 2.jpg" alt="" width="500"/>
    </div>
    <div class="ui centered image">
      <img class="ui image" src="../images/events/blockchain-camp-2023/party.jpg" alt="" width="500"/>
-   </div></br>
+   </div>
    <div class="ui bottom attached message">
 	<strong>IC3 Partner Chainlink hosted our closing party at the Sanctuary on Roosevelt Island, complete with a live jazz band.</strong>
    </div>
@@ -91,7 +89,7 @@ In addition to tech talks, panels and projects, we sailed the Hudson River. Here
 Participants stayed at the Graduate Hotel on the Cornell Tech campus on Roosevelt Island.
 
 ### The Hackathon 
-Project teams self-selected projects on Monday after considering the project proposals. The teams coded throughout the week, and made project presentations and demos on Saturday. Six hackathon teams submitted projects this year. Projects were judged by Sarah Allen (IC3), Patrick McCorry (Arbitrum Foundation), and Surya Bakshi (Offchain Labs). The judging criteria were novelty, practicality, user experience, technical difficulty, and maturity of development within the week.
+Project teams self-selected projects on Monday after considering the project proposals. The teams coded throughout the week, and made project presentations and demos on Sunday. Six hackathon teams submitted projects this year. Projects were judged by Sarah Allen (IC3), Patrick McCorry (Arbitrum Foundation), and Surya Bakshi (Offchain Labs). The judging criteria were novelty, practicality, user experience, technical difficulty, and maturity of development within the week.
 
 **Top 3 Projects:** 
 
