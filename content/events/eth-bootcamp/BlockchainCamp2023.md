@@ -69,7 +69,7 @@ Our five-day content program included research talks about DeFi, infrastructure,
   </div>    
 </div>
 
-In addition to tech talks, panels and projects, we sailed the <a href="https://github.com/initc3/ic3-website/assets/100302535/74417df6-1abd-427c-b708-7d50cccbee38"><strong>Hudson River</strong></a>. Here is a glimpse from our sail from the Chelsea Piers to the Statue of Liberty and back. 
+In addition to tech talks, panels and projects, we sailed the Hudson River (see <a href="https://github.com/initc3/ic3-website/assets/100302535/74417df6-1abd-427c-b708-7d50cccbee38"><strong>video</strong></a>). Here is a glimpse from our sail from the Chelsea Piers to the Statue of Liberty and back. 
 
 <div class="ui piled segment">
   <img class="ui centered image" src="../images/events/blockchain-camp-2023/boat.jpg" alt="" width="750"/>    
