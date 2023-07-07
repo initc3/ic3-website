@@ -106,7 +106,7 @@ Project teams self-selected projects on Monday after considering the project pro
 <div class="ui piled segment">
     <img class="ui centered image" src="../images/events/blockchain-camp-2023/second.jpg" alt="" />
     <div class="ui bottom attached message">
-    <strong>First Place: "DECO"</strong><br>
+    <strong>Second Place: "DECO"</strong><br>
     <strong>Team Members</strong>: Lorenz Breidenbach (project leader), Harjasleen Malvai (lproject leader), Alexandru Topliceanu (project leader), Ulisses Kee, Tom Yurek, Roi Bar-Zur, Marwa Moallem, Nihar Shah, Dahlia Malkhi, and Parth Gargava<br>
     <strong>Summary</strong>: In this project, we built an end-to-end system that allows users who satisfy certain criteria to obtain an identity and use it. In particular, we simulated a Chainlink DAO – a governance smart contract handling voting. In our DAO, only users who are especially involved (as shown by their online interactions with Chainlink) with Chainlink and could even be called true believers 🦹 can qualify to enroll. We used one or more external web sources to confirm how enthusiastic a user is about Chainlink, use these to generate attested credentials and finally, gather credentials to form identities. Those who are enthusiastic about Chainlink are obviously very smart and cool 😎. So, like all cool people, they are both opinionated and privacy conscious – they do not want to reveal personal information and they also do not want to reveal what they vote for, lest it be divisive. These privacy requirements pose interesting challenges!<br>
     <strong>Resources</strong>: <a href="https://docs.google.com/document/d/1_lBw0_Z-w3V2n9vBb4JjI6qzgyVObR1cKdap_FpoUgs/edit">Proposal writeup</a><br>
@@ -116,7 +116,7 @@ Project teams self-selected projects on Monday after considering the project pro
 <div class="ui piled segment">
     <img class="ui centered image" src="../images/events/blockchain-camp-2023/third.jpg" alt="" />
     <div class="ui bottom attached message">
-    <strong>First Place: "EIP 1559"</strong><br>
+    <strong>Third Place: "EIP 1559"</strong><br>
     <strong>Team Members</strong>: Juan Pablo Madrigal Cianci (project leader), Chris Buckland, Abhimanyu Rawat, and Yuki Yuminaga<br>
     <strong>Summary</strong>: The recent surge in blockchain technology and decentralized applications (dApps) has laid bare the limitations of existing Ethereum transaction systems, thereby triggering a pressing demand for an efficient and predictable gas fee structure. The proposed project aims to address this challenge by integrating the EIP 1559 mechanism with gas lanes, an innovative approach to enhance transaction predictability and network scalability.<br>
     <strong>Resources</strong>: For details, see <a href="https://hackmd.io/@cryptoecon/SyQf3wqSn">here</a>.
