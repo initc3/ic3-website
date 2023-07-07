@@ -99,8 +99,8 @@ Project teams self-selected projects on Monday after considering the project pro
     <div class="ui bottom attached message">
     <strong>First Place: "TEE"</strong><br>
     <strong>Team Members</strong>: Andrew Miller (project leader), Sylvain Bellemare (project leader), Gabriel Arrouye (project leader), Bunmi Akintade, Yunqi Li, James Austgen, Zhengxun Wu, Swei Chen, Amber Seira, and Nerla Jean-Louis<br>
-    <strong>Summary</strong>: TEE smart contracts like Secret, Oasis, Phala, Obscuro, are the hot new programming framework (see more details <a href="https://blockchainsplusx.github.io/">here</a>). There’s an obstacle to providing privacy, which is the need to use ORAM or even a linear scan to avoid side channels. Read <a href="https://eprint.iacr.org/2023/378">SGXonerated</a>. Basically, Secret Network have not been able to provide strong privacy after the disclosure. Can we fix it? It turns out there’s a surprisingly simple way to use the existing programming models to provide off-chain computation, "Rolls ups for free using TEEs." Basically, we are using the integrity&privacy property of the TEE as a way to skip needing a zk Rollup or dispute period, etc. We used as a starting point the dockerized development environment from the SGXonerated paper. We could explore using Oasis instead of SN in two concurrent task forces.<br>
-    <strong>Resources</strong>: This concept is described <a href="https://forum.scrt.network/t/tradeoffs-discussion-access-pattern-hiding-spicy-printfs/6884/15?u=amiller">here</a> as a proposed contribution to Secret Network, and something Obscuro/Oasis etc could adopt. More details <a href="https://docs.google.com/document/d/1BYV_kMxGsgEHdDZhOlI8S0KtWhD_JZ0tHBeI4T1mTpc/edit">here</a>.
+    <strong>Summary</strong>: TEE smart contracts like Secret, Oasis, Phala, Obscuro are a hot new programming frameworks. However, they have faced a significant obstacle to providing privacy, which is the need to use ORAM (e.g., linear scan or tree-based ORAM) to avoid access pattern side channels. This problem was pointed out by the <a href="https://eprint.iacr.org/2023/378">SGXonerated paper</a>, but since the vulnerability disclosure there has not been a viable solution. It turns out there’s a promising approach based on “off-chain computing” with TEE-based smart contracts. Basically the TEE-based smart contract can act like a zk Rollup, using encryption and authentication. The basic concept was proposed on the <a href="https://forum.scrt.network/t/tradeoffs-discussion-access-pattern-hiding-spicy-printfs/6884/15?u=amiller">Secret Network forum</a>, although it is applicable to Obscuro and Oasis as well. In this hackathon project we developed Proofs of Concept of “Off-chain ORAM” to provide token privacy in two separate networks: Oasis Sapphire (EVM based), Secret Network (CosmWasm based). We also experimented with alternative ways to explain the concept, such as a toy example “Hash Machine” that illustrates the off-chain computing concept (and developed in a third network, Obscuro, also EVM based). Our Sapphire deployment was the furthest along, and our project presentation culminated with a live demo against the Sapphire test network. We also developed User Interface mockups. Our open source codebase and blog post (in progress) will help these TEE-based systems enhance their privacy.<br>
+    <strong>Resources</strong>: <a href="https://forum.scrt.network/t/tradeoffs-discussion-access-pattern-hiding-spicy-printfs/6884/15?u=amiller">Secret Network forum</a>
     </div>
 </div>
 
@@ -132,7 +132,7 @@ Team Members: Bolton Bailey (project leader), Jiasun Li, and Deepak Maram
 
 Summary: There is a great potential for synergy between zero-knowledge proofs (which allow for succinct cryptographic checking of any computational statement) and formal proofs (which allow any mathematical statement to be checked computationally). In this project, we looked at using the many zero-knowledge codebases that have proliferated in the last few years to check Metamath, a language for formal theorem proving. Metamath has a variety of implementations (see <a href="https://us.metamath.org/other.html#verifiers">here</a>) and has the potential to be a good benchmark between systems, as well as being independently useful as a backend to many formal method projects.
 
-Resources: <a href="https://us.metamath.org/other.html#verifiers">Metamath Topics</a>.
+Resources: <a href="https://us.metamath.org/other.html#verifiers">Metamath Topics</a>
 
 ***Unirep***
 
@@ -140,7 +140,7 @@ Team Members: Vivian Jeng (project leader), Chiali Tsai (project leader), Nico S
 
 Summary: UniRep is a zero-knowledge protocol that securely manages user data through anonymous identifiers, enabling trustless interactions and enhanced user privacy in applications. UniRep expands the notion of reputation to include various user data aspects, such as preferences, activity, alignments, and ownership. Using anonymous identifiers (epoch keys), The protocol allows for trustless engagement with applications while preserving user privacy. This approach promotes non-custodial applications that don't hold user data, reducing data breach risks and emphasizing security for both users and developers.
 
-Resources: <a href="https://github.com/Unirep/Unirep">GitHub</a> and <a href="https://developer.unirep.io/">website</a>.
+Resources: <a href="https://github.com/Unirep/Unirep">GitHub</a> and <a href="https://developer.unirep.io/">website</a>
 
 ***Cross chain perpetuals***
 
