@@ -31,6 +31,24 @@ challenges:
 projects:
 
   -
+     name: 'Buying Time: Latency Racing vs. Bidding in Fair Transaction Ordering'
+     authors: Akaki Mamageishvili, Mahimna Kelkar, Jan Christoph Schlegel, and Edward W. Felten
+     challenges: [*correctness]
+     description: We design a practical algorithm for transaction ordering that takes into account both transaction timestamps and bids. The algorithm guarantees that users get their transactions published with bounded delay against a bid, while it extracts a fair value from sophisticated users that have an edge in latency, by moving expenditure from investment in latency improvement technology to bidding. The algorithm creates a score from timestamps and bids, and orders transactions based on the score. We first show that a scoring rule is the only type of rule that satisfies the independence of latency races. We provide an economic analysis of the protocol in an environment of private information, where investment in latency is made ex-ante or interim stages, while bidding happens at the interim stage where private signals have been observed. The algorithm is useful for transaction sequencing in rollups or in other environments where the sequencer has privileged access to order flows. For more details, see our <a href="https://arxiv.org/pdf/2306.02179.pdf">paper</a>.
+     
+  -
+     name: 'Scaling Smart Contracts via Layer-2 Technologies: Some Empirical Evidence'
+     authors: Lin William Cong, Xiang Hui, Catherine E. Tucker, and Luofeng Zhou
+     challenges: [*correctness, *compliance]
+     description: Blockchain-based smart contracts can potentially replace certain traditional contracts through decentralized enforcement and reduced transaction costs. However, scalability is a key bottleneck hindering their broader application and adoption, often leading to concentrated or exclusive networks. To avoid falling short of the original promise of the technology, firms actively explore "layer-2'' methods for scaling. We provide some initial evidence on the economic implications of a layer-2 scaling solution, which moves information aggregation from on-chain to off-chain peer-to-peer networks. A parallel-system experiment allows clean identification because we observe the same unit in the treatment and control systems at the same time. We find that this scaling solution reduces operating costs by 76%, and importantly, leads to decentralization with lower market concentration and more participation, which in turn improves data accuracy. The findings provide initial evidence of how blockchain and smart contracting technologies evolve towards achieving decentralized and scalable trust. For details, see our <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4312355">work</a>.
+     
+  -
+     name: 'Towards Automated Security Analysis of Smart Contracts based on Execution Property Graph'
+     authors: Kaihua Qin, Zhe Ye, Zhun Wang, Weilin Li, Liyi Zhou, Chao Zhang, Dawn Song, and Arthur Gervais
+     challenges: [*correctness, *compliance]
+     description: Identifying and mitigating vulnerabilities in smart contracts is crucial, especially considering the rapid growth and increasing complexity of Decentralized Finance (DeFi) platforms. To address the challenges associated with securing these contracts, we introduce a versatile dynamic analysis framework specifically designed for the Ethereum Virtual Machine (EVM). This comprehensive framework focuses on tracking contract executions, capturing valuable runtime information, while introducing and employing the Execution Property Graph (EPG) to propose a unique graph traversal technique that swiftly detects potential smart contract attacks. Our approach showcases its efficacy with rapid average graph traversal time per transaction and high true positive rates. The successful identification of a zero-day vulnerability affecting Uniswap highlights the framework’s potential to effectively uncover smart contract vulnerabilities in complex DeFi systems. For more information, please see our <a href="https://arxiv.org/pdf/2305.14046.pdf">paper</a>.
+     
+  -
      name: 'Auditing Decentralized Finance (DeFi) Protocols'
      authors: Daniel Rabetti
      challenges: [*correctness, *confidentiality, *compliance]
