@@ -213,7 +213,7 @@ projects:
   -
      name: 'SCIF: Smart Contract Information Flow'
      authors: Siqiu Yao, Haobin Ni, and Andrew Myers
-     challenges: [*correctness]
+     challenges: [*correctness, *compliance]
      description: SCIF is a new programming language for building compositionally secure smart contracts. Smart contracts implemented in SCIF are checked by the compiler for their security properties before they are deployed. SCIF is especially designed to support building secure systems in which multiple smart contracts interact. It detects and prevents common security vulnerabilities such as use of untrusted information, reentrancy attacks, and confused deputy attacks. For more information, please see our <a href="https://www.cs.cornell.edu/projects/scif/">work</a>.
  
   -
