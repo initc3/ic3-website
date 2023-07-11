@@ -120,7 +120,7 @@ Project teams self-selected projects on Monday after considering the project pro
     <strong>Third Place: "EIP 1559"</strong><br>
     <strong>Team Members</strong>: Juan Pablo Madrigal Cianci (project leader), Chris Buckland, Abhimanyu Rawat, and Yuki Yuminaga<br>
     <strong>Summary</strong>: The recent surge in blockchain technology and decentralized applications (dApps) has laid bare the limitations of existing Ethereum transaction systems, thereby triggering a pressing demand for an efficient and predictable gas fee structure. The proposed project aims to address this challenge by integrating the EIP 1559 mechanism with gas lanes, an innovative approach to enhance transaction predictability and network scalability.<br>
-    <strong>Resources</strong>: <a href="https://hackmd.io/@cryptoecon/SyQf3wqSn">Project proposal</a>, <a href="https://docs.google.com/presentation/d/1JUbohtgtUdbbvKGQnK8uRNlWvKbrcKDk6Fpgtg952E8/edit#slide=id.g253389beb6e_0_15">Project demo</a>.
+    <strong>Resources</strong>: <a href="https://hackmd.io/@cryptoecon/SyQf3wqSn">Proposal</a> and <a href="https://docs.google.com/presentation/d/1JUbohtgtUdbbvKGQnK8uRNlWvKbrcKDk6Fpgtg952E8/edit#slide=id.g253389beb6e_0_15">Demo</a>.
     </div>
 </div>
 
