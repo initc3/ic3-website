@@ -6,7 +6,7 @@
 - K. Qin, S. Chaliasos, L. Zhou, B. Livshits, D. Song, and A. Gervais. [The Blockchain Imitation Game](https://www.usenix.org/system/files/sec23fall-prepub-331-qin.pdf). SBC, 2023. (to appear)
 - M. Mirkin, L. Zhou, I. Eyal, and F. Zhang [Sprints: Intermittent Blockchain Mining](https://eprint.iacr.org/2023/626.pdf). SBC, 2023. (to appear)
 - N. Jean-Louis, Y. Li, Y. Ji, H. Malvai, T. Yurek, S. Bellemare, and A. Miller. [SGXonerated: Finding (and Partially Fixing) Privacy Flaws in TEE-based Smart Contract Platforms Without Breaking the TEE](https://eprint.iacr.org/2023/378). SBC, 2023. (to appear)
-- K. Babel, M. Javaheripi, M. Kelkar, Y. Ji, F. Koushanfar, and A. Juels. [Lanturn: Measuring Economic Security of Smart Contracts Through Adaptive Learning]. SBC, 2023. (to appear)
+- K. Babel, M. Javaheripi, M. Kelkar, Y. Ji, F. Koushanfar, and A. Juels. Lanturn: Measuring Economic Security of Smart Contracts Through Adaptive Learning. SBC, 2023. (to appear)
 - I. Tsabary, A. Manuskin, and I. Eyal. [LedgerHedger: Gas Reservation for Smart-Contract Security](https://eprint.iacr.org/2022/056.pdf). SBC, 2023. (to appear) 
 - T. Yurek, Z. Xiang, Y. Xia, and A. Miller. [Long Live The Honey Badger: Robust Asynchronous DPSS and its Applications](https://eprint.iacr.org/2022/971). USENIX, 2023. (to appear) 
 - V. Nair and D. Song. [Multi-Factor Key Derivation Function (MFKDF) for Fast, Flexible, Secure, & Practical Key Management](https://arxiv.org/abs/2208.05586). USENIX, 2023. (to appear)
