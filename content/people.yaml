@@ -381,14 +381,6 @@ students:
     weburl:
     bio: "Louis-Henri is currently a Ph.D. student in Computer Science at the Swiss Federal Institute of Technology (EPFL) in Lausanne. His research is in security and privacy, focusing on election security and open communication. As a Banneker Key Scholar, Louis-Henri graduated from the University of Maryland - College Park majoring in Computer Science and minoring in Cybersecurity, Innovation and Entrepreneurship. After graduation, He received a Fulbright Scholarship to perform research on e-voting systems at EPFL."
     
-  - 
-    name: 'Cristina Basescu'
-    pic: raptor2.jpg
-    title:
-    email: cristina.basescu@epfl.ch
-    weburl:
-    bio: "Cristina is a Ph.D. student at the Swiss Federal Institute of Technology (EPFL) in Lausanne, Switzerland, under the supervision of Prof. Bryan Ford. Cristina enjoys designing and building fast, reliable systems. Her research interests include fault tolerance and scalability in distributed systems, network security, and consensus protocols."  
-  
   -
     name: 'Simone Colombo'
     pic: Raptor.jpg
@@ -548,14 +540,6 @@ students:
     email: gq35@cornell.edu
     weburl: "https://gengmoqi.github.io/"
     bio: "Gengmo is a Computer Science Ph.D. student at Cornell University. His interest broadly include security and privacy, distributed systems, and cryptoeconomics."
-
-  -
-    name: 'Ariah Klages-Mundt'
-    pic: ariah.png
-    title:
-    email: aak228@cornell.edu
-    weburl:
-    bio: "Ariah Klages-Mundt is an Applied Math PhD student at Cornell University. His research is at the intersection of computer science and economics on the design of decentralized finance (DeFi) protocols and economic networks. He brings prior experience working in the financial technology sector."
 
   -
     name: 'Bolton Bailey'
@@ -1090,4 +1074,21 @@ alumni_students:
     email: matany@campus.technion.ac.il
     weburl:
     bio: "Matan completed his Master of Science program at the Technion under the supervision of prof. Ittay Eyal. His research interests include blockchain systems, security, and cryptocurrencies."
+
+  - 
+    name: 'Cristina Basescu'
+    pic: raptor2.jpg
+    title:
+    email: cristina.basescu@epfl.ch
+    weburl:
+    bio: "Cristina completed her Ph.D. at the Swiss Federal Institute of Technology (EPFL) in Lausanne, Switzerland, under the supervision of Prof. Bryan Ford. She enjoys designing and building fast, reliable systems. Her research interests include fault tolerance and scalability in distributed systems, network security, and consensus protocols."  
+
+  -
+    name: 'Ariah Klages-Mundt'
+    pic: ariah.png
+    title:
+    email: aak228@cornell.edu
+    weburl:
+    bio: "Ariah Klages-Mundt completed his Ph.D. in Applied Math at Cornell University. His research is at the intersection of computer science and economics on the design of decentralized finance (DeFi) protocols and economic networks. He brings prior experience working in the financial technology sector."
+
 
