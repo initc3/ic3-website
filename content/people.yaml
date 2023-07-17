@@ -236,7 +236,15 @@ students:
     email: jra265@cornell.edu
     weburl:
     bio: "James is a Computer Science Ph.D. student at Cornell University working with prof. Ari Juels. His interests include blockchains, cryptocurrency, privacy, and smart contracts."
-  
+
+  -
+    name: 'Silei Ren'
+    pic: Silei.jpg
+    title:
+    email: sr2262@cornell.edu
+    weburl:
+    bio: "Silei Ren is a computer science graduate student at Cornell University. He is interested in security, cryptography and programming language.\n"
+    
   -
     name: 'Luofeng Zhou'
     pic: Luofeng.jpg
