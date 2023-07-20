@@ -605,14 +605,6 @@ students:
     weburl: 
     bio: "Haoqian is a Ph.D. candidate at the Swiss Federal Institute of Technology in Lausanne (EPFL). His research interests lie in the general area of decentralized systems, particularly in blockchain, as well as their applications in cryptocurrency and smart contracts."
 
-  - 
-    name: 'Bineet Mishra'
-    pic: bineet.jpg
-    title:
-    email: bm596@cornell.edu
-    weburl: "https://economics.cornell.edu/bineet-mishra"
-    bio: "Bineet is a Ph.D. candidate in the Economics Department at Cornell University. His main research interests are at the intersection of macroeconomics and finance. His current research agenda aims to understand the implications of new financial technologies, such as introduction of Central Bank Digital Currency (CBDC), for monetary policy and financial stability. Additionally, he works on international capital flows, with special focus on the safe assets, to understand the effects of financial linkages and spillovers among the countries."
-
   -
     name: 'Yanyi Liu'
     pic: yanyi.jpg
@@ -1089,6 +1081,14 @@ alumni_students:
     title:
     email: aak228@cornell.edu
     weburl:
-    bio: "Ariah Klages-Mundt completed his Ph.D. in Applied Math at Cornell University. His research is at the intersection of computer science and economics on the design of decentralized finance (DeFi) protocols and economic networks. He brings prior experience working in the financial technology sector."
+    bio: "Ariah Klages-Mundt completed his Ph.D. in Applied Math at Cornell University and he is leading the R&D team at <a href="https://gyro.finance/">Gyroscope</a>. His research is at the intersection of computer science and economics on the design of decentralized finance (DeFi) protocols and economic networks. He brings prior experience working in the financial technology sector."
+
+  - 
+    name: 'Bineet Mishra'
+    pic: bineet.jpg
+    title:
+    email: bm596@cornell.edu
+    weburl: "https://economics.cornell.edu/bineet-mishra"
+    bio: "Bineet completed his Ph.D. in Economics at Cornell University. His main research interests are at the intersection of macroeconomics and finance. His current research agenda aims to understand the implications of new financial technologies, such as introduction of Central Bank Digital Currency (CBDC), for monetary policy and financial stability. Additionally, he works on international capital flows, with special focus on the safe assets, to understand the effects of financial linkages and spillovers among the countries."
 
 
