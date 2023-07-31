@@ -31,6 +31,24 @@ challenges:
 projects:
 
   -
+     name: 'SoK: Public Randomness'
+     authors: Alizera Kavousi, Zhipeng Wang, and Philipp Jovanovic 
+     challenges: [*confidentiality, *adf]
+     description: Public randomness is a fundamental component in many cryptographic protocols and distributed systems and often plays a crucial role in ensuring their security, fairness, and transparency properties. Driven by the surge of interest in blockchain and cryptocurrency platforms and the usefulness of such component in those areas, designing secure protocols to generate public randomness in a distributed manner has received considerable attention in recent years. This paper presents a systematization of knowledge on the topic of public randomness with a focus on cryptographic tools providing public verifiability and key themes underlying these systems. We provide concrete insights on how state-of-the-art protocols achieve this task efficiently in an adversarial setting and present various research gaps that may be suitable for future research. For details, see our <a href="https://eprint.iacr.org/2023/1121.pdf">work</a>.
+
+  -
+     name: 'BlindPerm: Efficient MEV Mitigation with an Encrypted Mempool and Permutation'
+     authors: Alizera Kavousi, Duc V. Le, Philipp Jovanovic, and George Danezis
+     challenges: [*correctness]
+     description: Maximal extractable value (MEV) in the context of blockchains and cryptocurrencies refers to the highest potential profit that an actor, particularly a miner or validator, can achieve through their ability to include, exclude, or re-order transactions within the blocks. MEV has become a topic of concern within the Web3 community as it impacts the fairness and security of the cryptocurrency ecosystem. In this work, we propose and explore techniques that utilize randomized permutations to shuffle the order of transactions of a committed block before they are executed. We also show that existing MEV mitigation approaches using an encrypted mempool can be readily extended by permutation-based techniques, thus providing multi-layer protection. With a focus on BFT consensus, we then propose BlindPerm, a framework enhancing an encrypted mempool with permutation at essentially no additional overheads and present various optimizations. Finally, we demonstrate how to extend our mitigation technique to support PoW longest-chain consensus protocols. For more information, see our <a href="https://eprint.iacr.org/2023/1061">paper</a>.
+
+  -
+     name: 'SoK: Privacy-Preserving Data Synthesis'
+     authors: Yuzheng Hu, Fan Wu, Qinbin Li, Yunhui Long, Gonzalo Munilla Garrido, Chang Ge, Bolin Ding, David Forsyth, Bo Li, and Dawn Song
+     challenges: [*correctness, *compliance]
+     description: As the prevalence of data analysis grows, safeguarding data privacy has become a paramount concern. Consequently, there has been an upsurge in the development of mechanisms aimed at privacy-preserving data analyses. However, these approaches are task-specific, designing algorithms for new tasks is a cumbersome process. As an alternative, one can create synthetic data that is (ideally) devoid of private information. This paper focuses on privacy-preserving data synthesis (PPDS) by providing a comprehensive overview, analysis, and discussion of the field. Specifically, we put forth a master recipe that unifies two prominent strands of research in PPDS - statistical methods and deep learning (DL)-based methods. Under the master recipe, we further dissect the statistical methods into choices of modeling and representation, and investigate the DL-based methods by different generative modeling principles. To consolidate our findings, we provide comprehensive reference tables, distill key takeaways, and identify open problems in the existing literature. In doing so, we aim to answer the following questions - What are the design principles behind different PPDS methods? How can we categorize these methods, and what are the advantages and disadvantages associated with each category? Can we provide guidelines for method selection in different real-world scenarios? We proceed to benchmark several prominent DL-based methods on the task of private image synthesis and conclude that DP-MERF is an all-purpose approach. Finally, upon systematizing the work over the past decade, we identify future directions and call for actions from researchers. For further details, see our <a href="https://arxiv.org/pdf/2307.02106.pdf">work</a>.
+     
+  -
      name: 'Tit-for-Token: fair rewards for moving data in decentralized storage networks'
      authors: Vahid Heidaripour Lakhani, Leander Jehl, Georgy Ishmaev, and Vero Estrada-Galiñanes
      challenges: [*correctness, *confidentiality]
@@ -39,7 +57,7 @@ projects:
   -
      name: 'Timed Secret Sharing'
      authors: Alizera Kavousi, Aydin Abadi, and Philipp Jovanovic
-     challenges: [correctness]
+     challenges: [*correctness]
      description: Secret sharing has been a promising tool in cryptographic schemes for decades. It allows a dealer to split a secret into some pieces of shares that carry no sensitive information on their own when being treated individually but lead to the original secret when having a sufficient number of them together. Existing schemes lack considering a guaranteed delay prior to secret reconstruction and implicitly assume once the dealer shares the secret, a sufficient number of shareholders will get together and recover the secret at their wish. This, however, may lead to security breaches when a timely reconstruction of the secret matters as the early knowledge of a single revealed share is catastrophic assuming a threshold adversary. This paper presents the notion of timed secret sharing (TSS), providing lower and upper time bounds for secret reconstruction with the use of time-based cryptography. The recent advances in the literature including short-lived proofs [Asiacrypt 2022], enable us to realize an upper time bound shown to be useful in breaking public goods game, an inherent issue in secret sharing-based systems. Moreover, we establish an interesting trade-off between time and fault tolerance in a secret sharing scheme by having dealer gradually release additional shares over time, offering another approach with the same goal. We propose several constructions that offer a range of security properties while maintaining practical efficiency. Our constructions leverage a variety of techniques and state-of-the-art primitives. For further details, see our <a href="https://eprint.iacr.org/2023/1024">work</a>.
      
   -
