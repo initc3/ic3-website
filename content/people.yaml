@@ -238,6 +238,14 @@ students:
     bio: "James is a Computer Science Ph.D. student at Cornell University working with prof. Ari Juels. His interests include blockchains, cryptocurrency, privacy, and smart contracts."
 
   -
+    name: 'Zhun Wang'
+    pic: Zhun.png
+    title:
+    email: zhun.wang@berkeley.edu
+    weburl:
+    bio: "Zhun Wang is a Ph.D. student in the EECS department at UC Berkeley advised by Prof. Dawn Song. Before joining UC Berkeley, he obtained a bachelor's degree in Physics from Peking University and worked in VUL337 security group in Tsinghua University for about two years. He is interested in general computer security topics, especially in system security and blockchain security."
+    
+  -
     name: 'Silei Ren'
     pic: Silei.jpg
     title:
