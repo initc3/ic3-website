@@ -2,6 +2,10 @@
 
 ## 2023 ##
 
+- H. Zhang, L-H. Merino, V. Estrada-Galinanes, and B. Ford. [F3B: A Low-Overhead Blockchain Architecture with Per-Transaction Front-Running Protection](https://arxiv.org/pdf/2205.08529.pdf). AFT, 2023. (to appear)
+- D. Beaver, K. Chalkias, M. Kelkar, L. Kokoris-Kogias, K. Lewi, L. de Naurois, V. Nicolaenko, A. Roy, and A. Sonnino. [STROBE: Streaming Threshold Random Beacons](https://eprint.iacr.org/2021/1643). AFT, 2023. (to appear)
+- J. Hsin-yu Chiang, B. David, I. Eyal, and T. Gong. [FairPoS: Input Fairness in Permissionless Consensus](https://eprint.iacr.org/2022/1442). AFT, 2023. (to appear)
+- A. Mamageishvili, M. Kelkar, J. C. Schlegel, and E. W. Felten. [Buying Time: Latency Racing vs. Bidding for Transaction Ordering](https://arxiv.org/pdf/2306.02179.pdf). AFT, 2023. (to appear)
 - Y. Pu, A. Farahbakhsh, L. Alvisi, and I. Eyal. [Gorilla: Safe Permissionless Byzantine Consensus](https://eprint.iacr.org/2022/796). DISC, 2023. (to appear)
 - I. Abraham, D. Dolev, I. Eyal, and J. Halpern. [Colordag: An Incentive-Compatible Blockchain](https://eprint.iacr.org/2022/308). DISC, 2023. (to appear)
 - E. Prasad. [A Simple Model of a Central Bank Digital Currency](http://prasad.dyson.cornell.edu/doc/MishraPrasad_JFS_Revision_Mar23.pdf). Journal of Financial Stability, 2023. (to appear)
