@@ -4,7 +4,7 @@ IC3 recognizes that questions may arise as to whether membership on the part of 
 
 - IC3 performs joint fundraising on behalf of its members, but holds a competitive internal grant award process. Thus, IC3 members enjoy a balance of cooperation and competition analogous to that in the broader community. Serving as co-PIs on an internal IC3 grant, however, would be considered a COI.
 
-- IC3 spans eight academic institutions, and represents a diverse range of academic backgrounds and interests. There is considerable variation in the degree of participation and collaboration among its members. Some IC3 members belong to other (sometimes even competing) academic organizations. IC3 membership alone therefore does not automatically signify a degree of common interest that would introduce undue bias into the academic review process.  
+- IC3 spans ten academic institutions, and represents a diverse range of academic backgrounds and interests. There is considerable variation in the degree of participation and collaboration among its members. Some IC3 members belong to other (sometimes even competing) academic organizations. IC3 membership alone therefore does not automatically signify a degree of common interest that would introduce undue bias into the academic review process.  
 
 We do, however, believe that the Co-Directors of IC3 have a close collaborative relationship tantamount to co-authorship or roles as joint PIs on a common grant. Thus, it is the practice of IC3 Co-Directors to treat one another as conflicts in any peer review process. Additionally, many IC3 members have ongoing research collaborations and co-authorship which they treat in the standard way as COIs in the reviewing process.
 
