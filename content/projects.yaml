@@ -31,6 +31,12 @@ challenges:
 projects:
 
   -
+     name: 'Liquidity fragmentation on decentralized exchanges'
+     authors: Alfred Lehar, Christine Parlour, and Marius Zoican
+     challenges: [*scaling]
+     description: We study economies of scale in liquidity provision on decentralized exchanges, focusing on the impact of fixed transaction costs such as gas prices on liquidity providers (LPs). Small LPs are disproportionately affected by the fixed cost, resulting in liquidity supply fragmentation between low- and high-fee pools. Analyzing Uniswap data, we find that high-fee pools attract 56% of liquidity supply but execute only 35% of trading volume. Large (institutional) LPs dominate low-fee pools, frequently adjusting positions in response to substantial trading volume. In contrast, small (retail) LPs converge to high-fee pools, accepting lower execution probabilities to mitigate smaller liquidity management costs. For more details, see our <a href="https://arxiv.org/pdf/2307.13772.pdf">work</a>.
+     
+  -
      name: 'SoK: Public Randomness'
      authors: Alizera Kavousi, Zhipeng Wang, and Philipp Jovanovic 
      challenges: [*confidentiality, *adf]
@@ -71,6 +77,12 @@ projects:
      authors: Naqib Zarin, Isaac Sheff, and Stefanie Roos
      challenges: [*correctness, *compliance]
      description: At the core of each blockchain system, parties communicate through a peer-to-peer (P2P) overlay. Unfortunately, recent evidence suggests these P2P overlays represent a significant bottleneck for transaction throughput and scalability. Furthermore, they enable a number of attacks. We argue that these performance and security problems arise because current P2P overlays cannot fully capture the complexity of a blockchain system as they do not offer flexibility to accommodate node heterogeneity. We propose a novel approach to address these issues - P2P Overlay Domains with Sovereignty (PODS), which allows nodes in a single overlay to belong to multiple heterogeneous groups, called domains. Each domain features its own set of protocols, tailored to the characteristics and needs of its nodes. To demonstrate the effectiveness of PODS, we design and implement two novel node discovery protocols - FedKad and SovKad. Using a custom simulator, we show that node discovery using PODS (SovKad) architecture outperforms both single overlay (Kademlia) and multi-overlay (FedKad) architectures in terms of hop count and success rate, though FedKad requires slightly less bandwidth. For more details, see our <a href="https://arxiv.org/pdf/2306.16153.pdf">paper</a>.
+
+  -
+     name: 'BBCA-LEDGER: High Throughput Consensus meets Low Latency'
+     authors: Chrysoula Stathakopoulou, Michael Wei, Maofan Yin, Hongbo Zhang, and Dahlia Malkhi
+     challenges: [*correctness, *compliance]
+     description: This paper presents BBCA-LEDGER*, a Byzantine log replication technology for partially synchronous networks enabling blocks to be broadcast in parallel, such that each broadcast is finalized independently and instantaneously into an individual slot in the log. Every finalized broadcast is eventually committed to the total ordering, so that all network bandwidth has utility in disseminating blocks. Finalizing log slots in parallel achieves both high throughput and low latency. BBCA-LEDGER is composed of two principal protocols that interweave together, a low-latency/high-throughput happy path, and a high-throughput DAG-based fallback path. The happy path employs a novel primitive called BBCA, a consistent broadcast enforcing unique slot numbering. In steady state, BBCA ensures that a transaction can be committed with low latency, in just 3 network steps. Under network partitions or faults, we harness recent advances in BFT and build a fallback mechanism on a direct acyclic graph (DAG) created by BBCA broadcasts. In this manner, BBCA-LEDGER exhibits the throughput benefits of DAG-based BFT in face of gaps. For further details, see our <a href="https://arxiv.org/pdf/2306.14757.pdf">work</a>.
      
   -
      name: 'Do you still need a manual smart contract audit?'
@@ -84,6 +96,12 @@ projects:
      challenges: [*correctness, *confidentiality]
      description: Society appears to be on the verge of recognizing the need for control over sensitive data in modern web applications. Recently, many systems claim to give control to individuals, promising the preeminent goal of data sovereignty. However, despite recent attention, research and industry efforts are fragmented and lack a holistic system overview. In this paper, we provide the first transecting systematization of data sovereignty by drawing from a dispersed body of knowledge. We clarify the field by identifying its three main areas - (i) decentralized identity, (ii) decentralized access control and (iii) policy-compliant decentralized computation. We find that literature lacks a cohesive set of formal definitions. Each area is considered in isolation, and priorities in industry and academia are not aligned due to a lack of clarity regarding user control. To solve this issue, we propose formal definitions for each sub-area. By highlighting that data sovereignty transcends the domain of decentralized identity, we aim to guide future works to embrace a broader perspective on user control. In each section, we augment our definition with security and privacy properties, discuss the state of the art and proceed to identify open challenges. We conclude by highlighting synergies between areas, emphasizing the real-world benefit obtained by further developing data sovereign systems. For details, see our <a href="https://eprint.iacr.org/2023/967">work</a>.
 
+  -
+     name: 'What Drives the (In)stability of a Stablecoin?'
+     authors: Yujin Kwon, Kornrapat Pongmala, Kaihua Qin, Ariah Klages-Mundt, Philipp Jovanovic, Christine Parlour, Arthur Gervais, and Dawn Song
+     challenges: [*compliance]
+     description: In May 2022, an apparent speculative attack, followed by market panic, led to the precipitous downfall of UST, one of the most popular stablecoins at that time. However, UST is not the only stablecoin to have been depegged in the past. Designing resilient and long-term stable coins, therefore, appears to present a hard challenge. To further scrutinize existing stablecoin designs and ultimately lead to more robust systems, we need to understand where volatility emerges. Our work provides a game-theoretical model aiming to help identify why stablecoins suffer from a depeg. This game-theoretical model reveals thatstablecoins have different price equilibria depending on the coin’s architecture and mechanism to minimize volatility. Moreover, our theory is supported by extensive empirical data, spanning 1 year. To that end, we collect daily prices for 22 stablecoins and on-chain data from five blockchains including the Ethereum and the Terra blockchain. For more details, see our <a href="https://arxiv.org/pdf/2307.11754.pdf">paper</a>.
+     
   -
      name: 'Disaggregating Applications Using Uniservices'
      authors: Xinwen Wang and Robbert van Renesse
