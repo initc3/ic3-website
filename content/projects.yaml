@@ -31,6 +31,12 @@ challenges:
 projects:
 
   -
+     name: 'Oracle Counterpoint: Relationships between On-chain and Off-chain Market Data'
+     authors: Zhimeng Yang, Ariah Klages-Mundt, and Lewis Gudgeon
+     challenges: [*correctness]
+     description: We investigate the theoretical and empirical relationships between activity in on-chain markets and pricing in off-chain cryptocurrency markets (e.g., ETH/USD prices). The motivation is to develop methods for proxying off-chain market data using data and computation that is in principle verifiable on-chain and could provide an alternative approach to blockchain price oracles. We explore relationships in PoW mining, PoS validation, block space markets, network decentralization, usage and monetary velocity, and on-chain Automated Market Makers (AMMs). We select key features from these markets, which we analyze through graphical models, mutual information, and ensemble machine learning models to explore the degree to which off-chain pricing information can be recovered entirely on-chain. We find that a large amount of pricing information is contained in on-chain data, but that it is generally hard to recover precise prices except on short time scales of retraining the model. We discuss how even noisy information recovered from on-chain data could help to detect anomalies in oracle-reported prices on-chain. For more details, see our <a href="https://arxiv.org/pdf/2303.16331.pdf">paper</a>. 
+     
+  -
      name: 'Liquidity fragmentation on decentralized exchanges'
      authors: Alfred Lehar, Christine Parlour, and Marius Zoican
      challenges: [*scaling]
@@ -65,6 +71,12 @@ projects:
      authors: Alizera Kavousi, Aydin Abadi, and Philipp Jovanovic
      challenges: [*correctness]
      description: Secret sharing has been a promising tool in cryptographic schemes for decades. It allows a dealer to split a secret into some pieces of shares that carry no sensitive information on their own when being treated individually but lead to the original secret when having a sufficient number of them together. Existing schemes lack considering a guaranteed delay prior to secret reconstruction and implicitly assume once the dealer shares the secret, a sufficient number of shareholders will get together and recover the secret at their wish. This, however, may lead to security breaches when a timely reconstruction of the secret matters as the early knowledge of a single revealed share is catastrophic assuming a threshold adversary. This paper presents the notion of timed secret sharing (TSS), providing lower and upper time bounds for secret reconstruction with the use of time-based cryptography. The recent advances in the literature including short-lived proofs [Asiacrypt 2022], enable us to realize an upper time bound shown to be useful in breaking public goods game, an inherent issue in secret sharing-based systems. Moreover, we establish an interesting trade-off between time and fault tolerance in a secret sharing scheme by having dealer gradually release additional shares over time, offering another approach with the same goal. We propose several constructions that offer a range of security properties while maintaining practical efficiency. Our constructions leverage a variety of techniques and state-of-the-art primitives. For further details, see our <a href="https://eprint.iacr.org/2023/1024">work</a>.
+
+  -
+     name: 'Crypto Wash Trading'
+     authors: Lin Will Cong, Xi Li, Ke Tang, and Yang Yang
+     challenges: [*correctness, *compliance]
+     description: We present a systematic approach to detect fake transactions on cryptocurrency exchanges by exploiting robust statistical and behavioral regularities associated with authentic trading. Our sample consists of 29 centralized exchanges, among which the regulated ones feature transaction patterns consistently observed in financial markets and nature. In contrast, unregulated exchanges display abnormal first-significant-digit distributions, size rounding, and transaction tail distributions, indicating widespread manipulation unlikely driven by specific trading strategy or exchange heterogeneity. We then quantify the wash trading on each unregulated exchange, which averaged over 70% of the reported volume. We further document how these fabricated volumes (trillions of dollars annually) improve exchange ranking, temporarily distort prices, and relate to exchange characteristics (e.g., age and user base), market conditions, and regulation. Overall, our study cautions against potential market manipulations on centralized crypto exchanges with concentrated power and limited disclosure requirements, and highlights the importance of FinTech regulation. For further details, see our <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3530220">work</a>.
      
   -
      name: 'Financial and Informational Integration Through Oracle Networks'
