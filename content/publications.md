@@ -2,6 +2,7 @@
 
 ## 2023 ##
 
+- P. Tennage, C. Basescu, L. Kokoris-Kogias, E. Syta, P. Jovanovic, V. Estrada-Galiñanes, and B. Ford. [QuePaxa: Escaping the tyranny of timeouts in consensus]. SOSP, 2023. (to appear)
 - H. Zhang, L-H. Merino, V. Estrada-Galinanes, and B. Ford. [F3B: A Low-Overhead Blockchain Architecture with Per-Transaction Front-Running Protection](https://arxiv.org/pdf/2205.08529.pdf). AFT, 2023. (to appear)
 - D. Beaver, K. Chalkias, M. Kelkar, L. Kokoris-Kogias, K. Lewi, L. de Naurois, V. Nicolaenko, A. Roy, and A. Sonnino. [STROBE: Streaming Threshold Random Beacons](https://eprint.iacr.org/2021/1643). AFT, 2023. (to appear)
 - J. Hsin-yu Chiang, B. David, I. Eyal, and T. Gong. [FairPoS: Input Fairness in Permissionless Consensus](https://eprint.iacr.org/2022/1442). AFT, 2023. (to appear)
