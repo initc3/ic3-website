@@ -412,15 +412,7 @@ students:
     email: enis.alp@epfl.ch
     weburl:
     bio: "Ceyhun is a PhD student at the Swiss Federal Institute of Technology in Lausanne (EPFL), Switzerland, under the supervision of Prof. Bryan Ford. His research interests are in distributed systems, smart contracts, and security.\n"
-  
-  -
-    name: 'Naomi Ephraim'
-    pic: naomi.jpg
-    title:
-    email: nephraim@cs.cornell.edu
-    weburl:
-    bio: "Naomi Ephraim is a graduate student at Cornell University. Her research interests are in theoretical cryptography.\n"
-  
+    
   -
     name: 'Kasra Edalat Nejad'
     pic: kedalat.jpg
@@ -1057,7 +1049,7 @@ alumni_students:
     title:
     email: crf87@cornell.edu
     weburl: 'http://www.cs.cornell.edu/~cfreitag/'
-    bio: "Cody Freitag completed his Ph.D. at Cornell Tech. His research interests include theoretical cryptography and privacy and their applications to blockchain technologies and learning theory.\n"
+    bio: "I just received my PhD in computer science at Cornell University (although technically at the Cornell Tech campus), advised by Rafael Pass. I will soon start as a postdoctoral researcher at Northeastern University with Daniel Wichs and Boston University with Ran Canetti, where I will be fortunately funded by a Khoury College Distinguished Postdoctoral Fellowship. My research primarily focuses on the theoretical foundations of cryptography. In particular, I'm interested in cryptographic proof systems and their applications in the decentralized setting of blockchains. I've also been interested in non-uniform models of security and differential privacy. \n"
   
   -
     name: 'Tom Yurek'
@@ -1098,3 +1090,11 @@ alumni_students:
     email: bm596@cornell.edu
     weburl: 'https://economics.cornell.edu/bineet-mishra'
     bio: "Bineet completed his Ph.D. in Economics at Cornell University. His main research interests are at the intersection of macroeconomics and finance. His current research agenda aims to understand the implications of new financial technologies, such as introduction of Central Bank Digital Currency (CBDC), for monetary policy and financial stability. Additionally, he works on international capital flows, with special focus on the safe assets, to understand the effects of financial linkages and spillovers among the countries."
+
+  -
+    name: 'Naomi (Ephraim) Sirkin'
+    pic: naomi.jpg
+    title:
+    email: nephraim@cs.cornell.edu
+    weburl:
+    bio: "I am an assistant professor of computer science at Drexel University. My research interests are in the foundations of cryptography. In particular, I've recently been interested in interactive proof systems, program obfuscation, and cryptographic lower bounds. I received my Ph.D. in Computer Science from Cornell University in 2022, advised by Professor Rafael Pass. Previously, I received my B.S. in Computer Science from Johns Hopkins University. \n"
