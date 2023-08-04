@@ -50,7 +50,7 @@ Expected outcomes of our work include new cryptocurrency and smart contract solu
         
 ## Governance
 
-IC3 distributes funds internally primarily according to a competitive grant process, conducted at least twice yearly. 
+IC3 distributes funds internally primarily according to a competitive grant process, conducted twice yearly. 
     We have committed to the following priorities: fostering collaboration between IC3 researchers and partners, 
     technology transfer for IC3 research, career support for junior faculty, promoting participation of women and 
     minorities in the blockchain technology area, and encouraging interdisciplinary and cross-campus collaboration 
