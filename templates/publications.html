@@ -33,12 +33,12 @@
 
 <div class="ui publication divided items">
 
+{{ published_papers }}
+
 <h1>Preprints</h1>
 
 {% for p in preprints %}
   {{ p_item(p) }}
 {% endfor %}
-
-{{ published_papers }}
 
 {% endblock %}
