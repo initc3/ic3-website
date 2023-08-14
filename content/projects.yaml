@@ -30,6 +30,12 @@ challenges:
 
 projects:
 
+  - 
+     name: 'Gorilla: Safe Permissionless Byzantine Consensus'
+     authors: Youer Pu, Ali Farahbakhsh, Lorenzo Alvisi, and Ittay Eyal
+     challenges: [*scaling, *correctness, *compliance]
+     description: Nakamoto's consensus protocol works in a permissionless model and tolerates Byzantine failures, but only offers probabilistic agreement. Recently, the Sandglass protocol has shown such weaker guarantees are not a necessary consequence of a permissionless model; yet, Sandglass only tolerates benign failures, and operates in an unconventional partially synchronous model. We present Gorilla Sandglass, the first Byzantine tolerant consensus protocol to guarantee, in the same synchronous model adopted by Nakamoto, deterministic agreement and termination with probability 1 in a permissionless setting. We prove the correctness of Gorilla by mapping executions that would violate agreement or termination in Gorilla to executions in Sandglass, where we know such violations are impossible. Establishing termination proves particularly interesting, as the mapping requires reasoning about infinite executions and their probabilities. For further details, see our <a href="https://arxiv.org/abs/2308.04080">work</a>.
+     
   -
      name: 'Oracle Counterpoint: Relationships between On-chain and Off-chain Market Data'
      authors: Zhimeng Yang, Ariah Klages-Mundt, and Lewis Gudgeon
