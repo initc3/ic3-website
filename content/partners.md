@@ -1,7 +1,9 @@
 # IC3 Partners and Donors
 
 IC3 acknowledges and appreciates a generous gift from the VMware
-Foundation to advance the science and technology of blockchains.
+Foundation to advance the science and technology of blockchains. <br>
+
+We acknowledge RetroPGF2 for support of IC3 from the Optimism Foundation.
 
 <div class="ui small images" align="center">
 	<img class="ui image sponsor logo" id="chainlink" src="images/partners/chainlink.png">
@@ -11,6 +13,7 @@ Foundation to advance the science and technology of blockchains.
 	<img class="ui image sponsor logo" id="protocollabs" src="images/partners/protocol-labs.png">
 	<img class="ui image sponsor logo" id="cog" src="images/partners/COG.png">
 	<img class="ui image sponsor logo" id="avalabs" src="images/partners/Avalanche.png">
+	<img class="ui image sponsor logo" id="optimism" src="images/partners/Optimism.jpg">
 </div>
 
 
