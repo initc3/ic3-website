@@ -15,8 +15,8 @@
 - N. Jean-Louis, Y. Li, Y. Ji, H. Malvai, T. Yurek, S. Bellemare, and A. Miller. [SGXonerated: Finding (and Partially Fixing) Privacy Flaws in TEE-based Smart Contract Platforms Without Breaking the TEE](https://eprint.iacr.org/2023/378). SBC, 2023. (to appear)
 - K. Babel, M. Javaheripi, M. Kelkar, Y. Ji, F. Koushanfar, and A. Juels. Lanturn: Measuring Economic Security of Smart Contracts Through Adaptive Learning. SBC, 2023. (to appear)
 - I. Tsabary, A. Manuskin, and I. Eyal. [LedgerHedger: Gas Reservation for Smart-Contract Security](https://eprint.iacr.org/2022/056.pdf). SBC, 2023. (to appear)
-- I. Abraham, P. Jovanovic, M. Maller, S. Meiklejohn, and G. Stern. [Bingo: Adaptivity and Asynchrony in Verifiable Secret Sharing and Distributed Key Generation](https://eprint.iacr.org/2022/1759.pdf). CRYPTO, 2023. (to appear)
-- A.R. Choudhuri, S. Garg, A. Jain, Z. Jin, and J. Zhang. [Correlation Intractability and SNARGs from Sub-exponential DDH](https://eprint.iacr.org/2022/1486.pdf). CRYPTO, 2023. (to appear)
+- I. Abraham, P. Jovanovic, M. Maller, S. Meiklejohn, and G. Stern. [Bingo: Adaptivity and Asynchrony in Verifiable Secret Sharing and Distributed Key Generation](https://eprint.iacr.org/2022/1759.pdf). CRYPTO, 2023.
+- A.R. Choudhuri, S. Garg, A. Jain, Z. Jin, and J. Zhang. [Correlation Intractability and SNARGs from Sub-exponential DDH](https://eprint.iacr.org/2022/1486.pdf). CRYPTO, 2023.
 - T. Yurek, Z. Xiang, Y. Xia, and A. Miller. [Long Live The Honey Badger: Robust Asynchronous DPSS and its Applications](https://eprint.iacr.org/2022/971). USENIX, 2023.
 - S. Colombo, K. Nikitin, H. Corrigan-Gibbs, D.J. Wu, and B. Ford. [Authenticated private information retrieval](https://www.usenix.org/conference/usenixsecurity23/presentation/colombo). USENIX, 2023.
 - S. Das, Z. Xiang, L. Kokoris-Kogias, and L. Ren. [Practical Asynchronous High-threshold Distributed Key Generation and Distributed Polynomial Sampling](https://www.usenix.org/system/files/sec23fall-prepub-454-das.pdf). USENIX, 2023.
