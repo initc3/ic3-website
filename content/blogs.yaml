@@ -271,4 +271,10 @@
  title: "The Sting Framework (SF)"
  authors: Kushal Babel, Nerla Jean-Louis, Mahimna Kelkar, Yunqi Li, Carolina Ortega Perez, Aditya Asgoankar, Sylvain Bellemare, Ari Juels, and Andrew Miller
  summary: TLDR - The Sting Framework (SF) is a new idea for bolstering the security of systems at risk of information leakage. SF addresses the case where a corrupt service (called a Subversion Service) arises that enables adversaries to exploit such leakage. SF presumes a player, called an informer, that wishes to alert the community to the presence of the corrupt service — either as a public service or to claim a bounty. SF enables the informer to generate a publicly verifiable proof that the corrupt service exists.
- 
+
+-
+ date: 2023-08-25
+ url: https://medium.com/@dsl_uiuc/tee-rollups-fixing-access-patterns-in-tee-based-smart-contracts-with-off-chain-computing-b2f3acfe335f
+ title: "TEE Rollups: Fixing Access Patterns in TEE-based Smart Contracts with Off-chain Computing"
+ authors: Andrew Miller, Nerla Jean-Louis, Yunqi Li, and James Austgen
+ summary: Enhancing smart contract privacy is a critical stride towards the development of more useful blockchain applications. Trusted execution environments (TEEs) or secure enclaves are being used in multiple networks (<a href="https://scrt.network/">Secret Network</a>, <a href="https://oasisprotocol.org/">Oasis Network</a>, <ahref="https://obscu.ro/"Obscuro</a>, etc) to enable privacy without significantly increasing computational costs. However, the utilization of TEEs also brings forth challenges, specifically in designing secure network architectures that fully capitalize on the strengths of TEEs while mitigating potential risks. Our recent <a href="https://eprint.iacr.org/2023/378">paper</a> detailing several attacks on these TEE based blockchain networks that broke user privacy guarantees without doing the hard work of breaking into the TEE hardware.
