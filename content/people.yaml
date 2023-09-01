@@ -93,7 +93,15 @@ faculty:
     email: lorenzo@cs.cornell.edu
     weburl: 'http://www.cs.cornell.edu/lorenzo/'
     bio: "Lorenzo Alvisi holds an Endowed Professorship in Computer Science at Cornell University. His research interests are in the theory and practice of distributed computing, with a particular focus on dependability. He is a Fellow of the ACM, IEEE, and Alfred P. Sloan Foundation, and the recipient of a Humboldt Research Award. He serves on the editorial boards of ACM Transactions on Computer Systems and Springer’s Distributed Computing, and on the council of CRA’s Computing Community Consortium.\n"
-  
+
+  -
+    name: 'Christian Cachin'
+    pic: Christian.jpg
+    title:
+    email: christian.cachin@unibe.ch
+    weburl: 'https://crypto.unibe.ch/cc/'
+    bio: "Christian Cachin is a professor of Computer Science at the University of Bern, where he has been leading the Cryptology and Data Security Research Group since 2019. With a background in cryptography, he is interested in all aspects of security in distributed systems and especially in cryptographic protocols, consistency, consensus, blockchains, and cloud-computing security.\n"
+    
   -
     name: 'James Grimmelmann'
     pic: james.jpg
@@ -227,8 +235,26 @@ postdocs:
     weburl:
     bio: "I'm a postdoc at UC Berkeley. I received BS and PhD from KAIST in 2016 and 2021, respectively. My research is involved in DeFi, blockchains, privacy, game theory, economics, and data analysis." 
 
+  -
+    name: 'Philipp Schneider'
+    pic: PhilippS.jpg
+    title:
+    email: philipp.schneider2@unibe.ch
+    weburl: 'https://crypto.unibe.ch/ps/'
+    bio: "Philipp Schneider is a Postdoctoral Researcher at the University of Bern, within the CRYPTO group led by Professor Christian Cachin. His research interests revolve around computational and security aspects of distributed systems.\n"
+
+  - 
+    name: 'Jayamine Alupotha'
+    pic: Jayamine.jpg
+    title:
+    email: jayamine.alupotha@gmail.com
+    weburl: 'https://crypto.unibe.ch/ja/'
+    bio: "Jayamine Alupotha is a Postdoctoral Researcher in the University of Bern's CRYPTO group led by Professor Christian Cachin. She is mainly into privacy-preserving cryptographic protocols.\n"
+
 students:
 
+  - 
+    name: 
   -
     name: 'James Austgen'
     pic: JamesA.jpg
