@@ -93,7 +93,15 @@ faculty:
     email: lorenzo@cs.cornell.edu
     weburl: 'http://www.cs.cornell.edu/lorenzo/'
     bio: "Lorenzo Alvisi holds an Endowed Professorship in Computer Science at Cornell University. His research interests are in the theory and practice of distributed computing, with a particular focus on dependability. He is a Fellow of the ACM, IEEE, and Alfred P. Sloan Foundation, and the recipient of a Humboldt Research Award. He serves on the editorial boards of ACM Transactions on Computer Systems and Springer’s Distributed Computing, and on the council of CRA’s Computing Community Consortium.\n"
-  
+
+  -
+    name: 'Christian Cachin'
+    pic: Christian.jpg
+    title:
+    email: christian.cachin@unibe.ch
+    weburl: 'https://crypto.unibe.ch/cc/'
+    bio: "Christian Cachin is a professor of Computer Science at the University of Bern, where he has been leading the Cryptology and Data Security Research Group since 2019. With a background in cryptography, he is interested in all aspects of security in distributed systems and especially in cryptographic protocols, consistency, consensus, blockchains, and cloud-computing security.\n"
+    
   -
     name: 'James Grimmelmann'
     pic: james.jpg
@@ -227,8 +235,64 @@ postdocs:
     weburl:
     bio: "I'm a postdoc at UC Berkeley. I received BS and PhD from KAIST in 2016 and 2021, respectively. My research is involved in DeFi, blockchains, privacy, game theory, economics, and data analysis." 
 
+  -
+    name: 'Philipp Schneider'
+    pic: PhilippS.jpg
+    title:
+    email: philipp.schneider2@unibe.ch
+    weburl: 'https://crypto.unibe.ch/ps/'
+    bio: "Philipp Schneider is a Postdoctoral Researcher at the University of Bern, within the CRYPTO group led by Professor Christian Cachin. His research interests revolve around computational and security aspects of distributed systems.\n"
+
+  - 
+    name: 'Jayamine Alupotha'
+    pic: Jayamine.jpg
+    title:
+    email: jayamine.alupotha@gmail.com
+    weburl: 'https://crypto.unibe.ch/ja/'
+    bio: "Jayamine Alupotha is a Postdoctoral Researcher in the University of Bern's CRYPTO group led by Professor Christian Cachin. She is mainly into privacy-preserving cryptographic protocols.\n"
+
+  -
+    name: 'Kyle Soska'
+    pic: Kyle.jpg
+    title:
+    email: soska2@illinois.edu
+    weburl:
+    bio: "I am an early cryptocurrency enthusiast that got my start by studying Silk Road and the darknet marketplace ecosystem in late 2013 during my PhD at Carnegie Mellon University and since then have been working on applications and privacy of decentralized ledger technologies in a Postdoc at UIUC. More recently I have focused my attention on cryptocurrency finance, both centralized (BitMEX, Binance, etc.) and decentralized with particular interest on the economics and incentives of DeFi primitives such as staking, farming, play2earn, algo stablecoins and more.\n"
+
 students:
 
+  - 
+    name: 'Jovana Mićić'
+    pic: Jovana.jpg
+    title:
+    email: jovana.micic@unibe.ch
+    weburl: 'https://crypto.unibe.ch/jm/'
+    bio: "Jovana is a Ph.D. student at the University of Bern, supervised by Professor Christian Cachin. Her research interests are consensus protocols and the security of distributed systems.\n"
+
+  -
+    name: 'Ignacio Amores Sesar'
+    pic: Ignacio.jpg
+    title:
+    email: ignacio.amores@unibe.ch
+    weburl: 'https://crypto.unibe.ch/ias/'
+    bio: "Ignacio is a Ph.D. candidate at the University of Bern under the supervision of Christian Cachin. His research interests lie in the study of different consensus mechanisms with a special interest in their security.\n"
+
+  -
+    name: 'François-Xavier Wicht'
+    pic: François.jpg
+    title:
+    email: francois-xavier.wicht@unibe.ch
+    weburl: 'https://crypto.unibe.ch/fxw/'
+    bio: "François-Xavier Wicht is a first-year PhD student at the University of Bern under the supervision of Christian Cachin. His research interests lie mostly in privacy in cryptocurrencies and blockchains.\n"
+
+  -
+    name: 'Mariarosaria Barbaraci'
+    pic: Mariarosaria.jpg
+    title: 
+    email: mariarosaria.barbaraci@unibe.ch
+    weburl: 'https://crypto.unibe.ch/mb/'
+    bio: "Mariarosaria is a Ph.D. student at the University of Bern, supervised by Professor Christian Cachin. Her research interests explore distributed cryptography and its practical integration in real-world systems, with a specific emphasis on blockchain technology.\n"
+    
   -
     name: 'James Austgen'
     pic: JamesA.jpg
@@ -276,15 +340,7 @@ students:
     email: s.z@berkeley.edu
     weburl:
     bio: "Siyuan Zhuang is a fourth-year PhD student at UC Berkeley Sky Computing Lab, co-advised by Prof. Dawn Song and Ion Stoica. His research focuses on machine learning systems, distributed systems and decentralized systems. In addition to his primary research interests, Siyuan has recently been actively involved in the development of Vicuna, an open-source chatbot impressing GPT-4 with 90% ChatGPT quality."
-    
-  -
-    name: 'Carolina Ortega Perez'
-    pic: carolina.jpg
-    title:
-    email: co255@cornell.edu
-    weburl:
-    bio: "Carolina is a Computer Science PhD student at Cornell University. She is broadly interested in applied cryptography and security."
-  
+
   -
     name: 'Carolin Beer' 
     pic: Carolin.jpg
@@ -301,22 +357,6 @@ students:
     weburl:
     bio: "Marwa is a graduate student at the Technion working with professor Ittay Eyal. She is interested in cryptography and game theory."
     
-  -
-    name: 'Daniel Rabetti'
-    pic: Daniel.jpg
-    title:
-    email: rabetti@mail.tau.ac.il
-    weburl: 'https://www.danielrabetti.me/'
-    bio: "Daniel Rabetti is a financial economist pursuing a Ph.D. in Business at Tel Aviv University, and currently visiting Cornell University. Daniel's research interest lies at the intersection of financial innovation and disclosure - as means to mitigate asymmetric information in alternative financing markets. He has been working on academic research in the field of economics of blockchain, industrial organization, and disclosure in unregulated markets. Daniel's work has been featured in prominent conferences in accounting, finance, computer science, blockchain, and economics, and his work is currently on the path for publication in distinguished peer-reviewed academic journals."
-    
-  -
-    name: 'Kyle Soska'
-    pic: Kyle.jpg
-    title:
-    email: soska2@illinois.edu
-    weburl:
-    bio: 'I am an early cryptocurrency enthusiast that got my start by studying Silk Road and the darknet marketplace ecosystem in late 2013 during my PhD at Carnegie Mellon University and since then have been working on applications and privacy of decentralized ledger technologies in a Postdoc at UIUC. More recently I have focused my attention on cryptocurrency finance, both centralized (BitMEX, Binance, etc.) and decentralized with particular interest on the economics and incentives of DeFi primitives such as staking, farming, play2earn, algo stablecoins and more. For more information on my work, please visit <a href="https://cryptotrade.cylab.cmu.edu/">here</a>.'
-   
   -
     name: 'Deevashwer Rathee'
     pic: Deevashwer.jpeg
