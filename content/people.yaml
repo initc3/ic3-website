@@ -295,7 +295,7 @@ students:
 
   -
     name: 'David Lehnherr'
-    pic: David.jpg
+    pic:
     title:
     email: david.lehnherr@unibe.ch
     weburl: 'https://crypto.unibe.ch/dl/'
