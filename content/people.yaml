@@ -276,15 +276,7 @@ students:
     email: s.z@berkeley.edu
     weburl:
     bio: "Siyuan Zhuang is a fourth-year PhD student at UC Berkeley Sky Computing Lab, co-advised by Prof. Dawn Song and Ion Stoica. His research focuses on machine learning systems, distributed systems and decentralized systems. In addition to his primary research interests, Siyuan has recently been actively involved in the development of Vicuna, an open-source chatbot impressing GPT-4 with 90% ChatGPT quality."
-    
-  -
-    name: 'Carolina Ortega Perez'
-    pic: carolina.jpg
-    title:
-    email: co255@cornell.edu
-    weburl:
-    bio: "Carolina is a Computer Science PhD student at Cornell University. She is broadly interested in applied cryptography and security."
-  
+
   -
     name: 'Carolin Beer' 
     pic: Carolin.jpg
@@ -300,14 +292,6 @@ students:
     email: marwamouallem@gmail.com
     weburl:
     bio: "Marwa is a graduate student at the Technion working with professor Ittay Eyal. She is interested in cryptography and game theory."
-    
-  -
-    name: 'Daniel Rabetti'
-    pic: Daniel.jpg
-    title:
-    email: rabetti@mail.tau.ac.il
-    weburl: 'https://www.danielrabetti.me/'
-    bio: "Daniel Rabetti is a financial economist pursuing a Ph.D. in Business at Tel Aviv University, and currently visiting Cornell University. Daniel's research interest lies at the intersection of financial innovation and disclosure - as means to mitigate asymmetric information in alternative financing markets. He has been working on academic research in the field of economics of blockchain, industrial organization, and disclosure in unregulated markets. Daniel's work has been featured in prominent conferences in accounting, finance, computer science, blockchain, and economics, and his work is currently on the path for publication in distinguished peer-reviewed academic journals."
     
   -
     name: 'Kyle Soska'
