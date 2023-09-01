@@ -268,6 +268,30 @@ students:
     email: jovana.micic@unibe.ch
     weburl: 'https://crypto.unibe.ch/jm/'
     bio: "Jovana is a Ph.D. student at the University of Bern, supervised by Professor Christian Cachin. Her research interests are consensus protocols and the security of distributed systems.\n"
+
+  -
+    name: 'Ignacio Amores Sesar'
+    pic: Ignacio.jpg
+    title:
+    email: ignacio.amores@unibe.ch
+    weburl: 'https://crypto.unibe.ch/ias/'
+    bio: "Ignacio is a Ph.D. candidate at the University of Bern under the supervision of Christian Cachin. His research interests lie in the study of different consensus mechanisms with a special interest in their security.\n"
+
+  -
+    name: 'François-Xavier Wicht'
+    pic: François.jpg
+    title:
+    email: francois-xavier.wicht@unibe.ch
+    weburl: 'https://crypto.unibe.ch/fxw/'
+    bio: "François-Xavier Wicht is a first-year PhD student at the University of Bern under the supervision of Christian Cachin. His research interests lie mostly in privacy in cryptocurrencies and blockchains.\n"
+
+  -
+    name: 'Mariarosaria Barbaraci'
+    pic: Mariarosaria.jpg
+    title: 
+    email: mariarosaria.barbaraci@unibe.ch
+    weburl: 'https://crypto.unibe.ch/mb/'
+    bio: "Mariarosaria is a Ph.D. student at the University of Bern, supervised by Professor Christian Cachin. Her research interests explore distributed cryptography and its practical integration in real-world systems, with a specific emphasis on blockchain technology.\n"
     
   -
     name: 'James Austgen'
