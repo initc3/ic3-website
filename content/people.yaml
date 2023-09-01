@@ -251,6 +251,14 @@ postdocs:
     weburl: 'https://crypto.unibe.ch/ja/'
     bio: "Jayamine Alupotha is a Postdoctoral Researcher in the University of Bern's CRYPTO group led by Professor Christian Cachin. She is mainly into privacy-preserving cryptographic protocols.\n"
 
+  -
+    name: 'Kyle Soska'
+    pic: Kyle.jpg
+    title:
+    email: soska2@illinois.edu
+    weburl:
+    bio: "I am an early cryptocurrency enthusiast that got my start by studying Silk Road and the darknet marketplace ecosystem in late 2013 during my PhD at Carnegie Mellon University and since then have been working on applications and privacy of decentralized ledger technologies in a Postdoc at UIUC. More recently I have focused my attention on cryptocurrency finance, both centralized (BitMEX, Binance, etc.) and decentralized with particular interest on the economics and incentives of DeFi primitives such as staking, farming, play2earn, algo stablecoins and more. For more information on my work, please visit <a href="https://cryptotrade.cylab.cmu.edu/">here</a>."
+
 students:
 
   - 
@@ -325,14 +333,6 @@ students:
     weburl:
     bio: "Marwa is a graduate student at the Technion working with professor Ittay Eyal. She is interested in cryptography and game theory."
     
-  -
-    name: 'Kyle Soska'
-    pic: Kyle.jpg
-    title:
-    email: soska2@illinois.edu
-    weburl:
-    bio: "I am an early cryptocurrency enthusiast that got my start by studying Silk Road and the darknet marketplace ecosystem in late 2013 during my PhD at Carnegie Mellon University and since then have been working on applications and privacy of decentralized ledger technologies in a Postdoc at UIUC. More recently I have focused my attention on cryptocurrency finance, both centralized (BitMEX, Binance, etc.) and decentralized with particular interest on the economics and incentives of DeFi primitives such as staking, farming, play2earn, algo stablecoins and more. For more information on my work, please visit <a href="https://cryptotrade.cylab.cmu.edu/">here</a>.\n"
-   
   -
     name: 'Deevashwer Rathee'
     pic: Deevashwer.jpeg
