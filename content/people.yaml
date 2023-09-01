@@ -292,6 +292,14 @@ students:
     email: mariarosaria.barbaraci@unibe.ch
     weburl: 'https://crypto.unibe.ch/mb/'
     bio: "Mariarosaria is a Ph.D. student at the University of Bern, supervised by Professor Christian Cachin. Her research interests explore distributed cryptography and its practical integration in real-world systems, with a specific emphasis on blockchain technology.\n"
+
+  -
+    name: 'David Lehnherr'
+    pic: David.jpg
+    title:
+    email: david.lehnherr@unibe.ch
+    weburl: 'https://crypto.unibe.ch/dl/'
+    bio: "David Lehnherr is a Ph.D student at the University of Bern, supervised by Professor Christian Cachin. He is interested in the  formal epistemic foundations of secure distributed computing.\n"
     
   -
     name: 'James Austgen'
