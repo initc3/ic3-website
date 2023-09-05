@@ -261,6 +261,14 @@ postdocs:
 
 students:
 
+  -
+    name: 'Joshua Turcotti'
+    pic: Joshua.jpg
+    title:
+    email: jturcotti@cs.cornell.edu
+    weburl: 'https://www.jturcotti.com/'
+    bio: "Joshua Turcotti is a PhD student at Cornell University working with Andrew Myers to develop novel program analyses for safe and secure systems. His work has targeted safe concurrency, nullability analysis at scale, and optimized deployment of runtime assertions.\n"
+    
   - 
     name: 'Jovana Mićić'
     pic: Jovana.jpg
