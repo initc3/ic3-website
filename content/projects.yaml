@@ -30,6 +30,24 @@ challenges:
 
 projects:
 
+  -
+     name: 'Efficient Oblivious Sorting and Shuffling for Hardware Enclaves'
+     authors: Tianyao Gu, Yilei Wang, Bingnan Chen, Afonso Tinoco, Elaine Shi, and Ke Yi
+     challenges: [*correctness, *confidentiality]
+     description: Oblivious sorting is arguably the most important building block in the design of efficient oblivious algorithms. We propose new oblivious sorting algorithms for hardware enclaves. Our algorithms achieve asymptotic optimality in terms of both computational overhead and the number of page swaps the enclave has to make to fetch data from insecure memory or disk. We also aim to minimize the concrete constants inside the big-O. One of our algorithms achieve bounds tight to the constant in terms of the number of page swaps. We have implemented our algorithms and made them publicly available through open source. In comparison with (an unoptimized version of) bitonic sort, which is asymptotically non-optimal but the de facto algorithm used in practice, we achieve a speedup of 2000 times for 12 GB inputs. For more details, see our <a href="https://eprint.iacr.org/2023/1258">paper</a>.
+
+  -
+     name: 'Web3 Reputation: Introducing Dynamic Incentives into Distributed Networks'
+     authors: Lin William Cong and Luofeng Zhou
+     challenges: [*correctness]
+     description: We introduce dynamic incentives into distributed systems via formally incorporating (decentralized) suppliers/users' reputation. Reputation aligns contributors’ incentives with platform welfare and makes myopic service providers internalize their long-term impacts. Starting with Proof-of-Stake (PoS) as an example, we show that Web3 reputation allows networks to support more throughput with same amount of staking, and averts cryptocurrency price shocks to suppliers by transferring cyclicality risks in transaction fees to users. We further analyze how dynamic incentives mitigate moral hazard in decentralized reporting game (e.g., for modeling oracle networks), and demonstrate how decentralization solves wealth concentration caused by dynamic incentives. Our findings validate proposals of adding Web3 reputation to distributed networks for efficiency improvements and long-run sustainability. For information, see our <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4540862">work</a>.
+
+  -
+     name: 'Arke: Scalable and Byzantine Fault Tolerant Privacy-Preserving Contact Discovery'
+     authors: Nicolas Mohnblatt, Alberto Sonnino, Kobi Gurkan, and Philipp Jovanovic
+     challenges: [*scaling, *correctness]
+     description: Contact discovery is a crucial component of social applications, facilitating interactions between registered contacts. This work introduces Arke, a novel approach to contact discovery that addresses the limitations of existing solutions in terms of privacy, scalability, and reliance on trusted third parties. Arke ensures the unlinkability of user interactions, mitigates enumeration attacks, and operates without single points of failure or trust. Notably, Arke is the first contact discovery system whose performance is independent of the total number of users and the first that can operate in a Byzantine setting. It achieves its privacy goals through an unlinkable handshake mechanism built on top of an identity-based non-interactive key exchange. By leveraging a custom distributed architecture, Arke forgoes the expense of consensus to achieve scalability while maintaining consistency in a Byzantine fault tolerant environment. Performance evaluations demonstrate that Arke can support enough throughput to operate at a planetary scale while maintaining sub-second latencies in a large geo-distributed setting. For more details, see our <a href="https://eprint.iacr.org/2023/1218">paper</a>.
+     
   - 
      name: 'Gorilla: Safe Permissionless Byzantine Consensus'
      authors: Youer Pu, Ali Farahbakhsh, Lorenzo Alvisi, and Ittay Eyal
