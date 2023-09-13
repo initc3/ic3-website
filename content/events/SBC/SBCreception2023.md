@@ -10,19 +10,18 @@ summary: Thank you to all who joined us for the IC3 Members & Friends Reception 
 Thank you to all who joined us for the IC3 Members & Friends Reception at SBC（Science of Blockchain Conference) 2023！Held at the President's Terrace, an iconic rooftop bar in Palo Alto, the event boasted breathtaking views of Stanford, the Santa Cruz Mountains, and a California sunset. This event provided an opportunity for IC3 academic researchers, industry partners and invited guests to mingle and discuss the latest in blockchain research.
 
 A special shoutout to the IC3 reception sponsors whose generous support made this event possible!
-
-    - <a href="https://fenbushi.digital/">Fenbushi Capital</a>
+- <a href="https://fenbushi.digital/">Fenbushi Capital</a>
     
-    - <a href="https://www.reclaimprotocol.org/">Reclaim Protocol</a>
+- <a href="https://www.reclaimprotocol.org/">Reclaim Protocol</a>
     
-    - <a href="https://gopluslabs.io/">GoPlus Labs</a>
+- <a href="https://gopluslabs.io/">GoPlus Labs</a>
     
-    - <a href="https://www.trgc.io/">TRGC</a>
+- <a href="https://www.trgc.io/">TRGC</a>
 
 
 <div class="ui center aligned basic segment">
     <div class="ui center image">
-        <img class="ui image" src="../images/events/SBC2023/1.jpg" alt="" width="500"/>
+        <img class="ui image" src="../images/events/SBC2023/1.jpg" alt="" width="495"/>
     </div>
     <div class="ui center image">
         <img class="ui image" src="../images/events/SBC2023/2.jpg" alt="" width="445"/>
@@ -44,12 +43,12 @@ Attendees included IC3 Directors, Faculty, PhD students, industry partners, and 
     </div>
     <div class="ui center image">
         <img class="ui image" src="../images/events/SBC2023/5.jpg" alt="" width="500"/>
+    </div><br>
+    <div class="ui center image">
+        <img class="ui image" src="../images/events/SBC2023/6.jpg" alt="" width="505"/>
     </div>
     <div class="ui center image">
-        <img class="ui image" src="../images/events/SBC2023/6.jpg" alt="" width="500"/>
-    </div>
-    <div class="ui center image">
-        <img class="ui image" src="../images/events/SBC2023/7.jpg" alt="" width="495"/>
+        <img class="ui image" src="../images/events/SBC2023/7.jpg" alt="" width="500"/>
     </div>
     <div class="ui bottom attached message">
         <strong>Attendees enjoyed a selection of local food and drinks and the reception lasted from the end of the conference day well into the evening.
