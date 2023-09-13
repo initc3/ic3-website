@@ -27,7 +27,6 @@ A special shoutout to the IC3 reception sponsors whose generous support made thi
     <div class="ui center image">
         <img class="ui image" src="../images/events/SBC2023/2.jpg" alt="" width="445"/>
     </div><br>
-    
     <div class="ui center image">
         <img class="ui image" src="../images/events/SBC2023/3.jpg" alt="" />
     </div>
@@ -44,11 +43,10 @@ Attendees included IC3 Directors, Faculty, PhD students, industry partners, and 
         <img class="ui image" src="../images/events/SBC2023/4.jpg" alt="" width="500"/>
     </div>
     <div class="ui center image">
-        <img class="ui image" src="../images/events/SBC2023/5.jpg" alt="" width="500"/>
+        <img class="ui image" src="../images/events/SBC2023/6.jpg" alt="" width="500"/>
     </div><br>
-    
     <div class="ui center image">
-        <img class="ui image" src="../images/events/SBC2023/6.jpg" alt="" width="515"/>
+        <img class="ui image" src="../images/events/SBC2023/5.jpg" alt="" width="500"/>
     </div>
     <div class="ui center image">
         <img class="ui image" src="../images/events/SBC2023/7.jpg" alt="" width="500"/>
