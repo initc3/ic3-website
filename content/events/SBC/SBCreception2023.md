@@ -11,13 +11,13 @@ Thank you to all who joined us for the IC3 Members & Friends Reception at SBC（
 
 A special shoutout to the IC3 reception sponsors whose generous support made this event possible!
 
-    - <strong><a href="https://fenbushi.digital/">Fenbushi Capital</a></strong>
+    - <a href="https://fenbushi.digital/">Fenbushi Capital</a>
     
-    - <strong><a href="https://www.reclaimprotocol.org/">Reclaim Protocol</a></strong>
+    - <a href="https://www.reclaimprotocol.org/">Reclaim Protocol</a>
     
-    - <strong><a href="https://gopluslabs.io/">GoPlus Labs</a></strong>
+    - <a href="https://gopluslabs.io/">GoPlus Labs</a>
     
-    - <strong><a href="https://www.trgc.io/">TRGC</a></strong>
+    - <a href="https://www.trgc.io/">TRGC</a>
 
 
 <div class="ui center aligned basic segment">
@@ -25,7 +25,7 @@ A special shoutout to the IC3 reception sponsors whose generous support made thi
         <img class="ui image" src="../images/events/SBC2023/1.jpg" alt="" width="500"/>
     </div>
     <div class="ui center image">
-        <img class="ui image" src="../images/events/SBC2023/2.jpg" alt="" width="450"/>
+        <img class="ui image" src="../images/events/SBC2023/2.jpg" alt="" width="445"/>
     </div><br>
     <div class="ui center image">
         <img class="ui image" src="../images/events/SBC2023/3.jpg" alt="" />
@@ -49,7 +49,7 @@ Attendees included IC3 Directors, Faculty, PhD students, industry partners, and 
         <img class="ui image" src="../images/events/SBC2023/6.jpg" alt="" width="500"/>
     </div>
     <div class="ui center image">
-        <img class="ui image" src="../images/events/SBC2023/7.jpg" alt="" width="510"/>
+        <img class="ui image" src="../images/events/SBC2023/7.jpg" alt="" width="495"/>
     </div>
     <div class="ui bottom attached message">
         <strong>Attendees enjoyed a selection of local food and drinks and the reception lasted from the end of the conference day well into the evening.
