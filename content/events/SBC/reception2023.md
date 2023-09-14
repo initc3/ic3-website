@@ -22,10 +22,10 @@ A special shoutout to the IC3 reception sponsors whose generous support made thi
 
 <div class="ui center aligned basic segment">
     <div class="ui center image">
-        <img class="ui image" src="../images/events/SBC2023/1.jpg" alt="" width="490" height="550"/>
+        <img class="ui image" src="../images/events/SBC2023/1.jpg" alt="" />
     </div>
     <div class="ui center image">
-        <img class="ui image" src="../images/events/SBC2023/2.jpg" alt="" width="500" height="505"/>
+        <img class="ui image" src="../images/events/SBC2023/2.jpg" alt="" />
     </div>
     <div class="ui clearing horizontal divider">
         <i class="certificate icon"></i>
