@@ -1,6 +1,6 @@
 
 ---
-name: 'IC3 Winter Retreat'
+name: 'IC3 Winter Retreat 2020'
 location: Virtual!
 start: 2020-12-07
 end: 2020-12-08
