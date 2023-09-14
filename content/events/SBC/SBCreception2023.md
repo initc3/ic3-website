@@ -22,7 +22,7 @@ A special shoutout to the IC3 reception sponsors whose generous support made thi
 
 <div class="ui center aligned basic segment">
     <div class="ui center image">
-        <img class="ui image" src="../images/events/SBC2023/1.jpg" alt="" width="500" height="525"/>
+        <img class="ui image" src="../images/events/SBC2023/1.jpg" alt="" width="527" height="525"/>
     </div>
     <div class="ui center image">
         <img class="ui image" src="../images/events/SBC2023/2.jpg" alt="" width="500" height="525"/>
