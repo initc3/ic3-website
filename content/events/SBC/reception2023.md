@@ -7,9 +7,6 @@ summary: Thank you to all who joined us for the IC3 Members & Friends Reception 
 ---
 
 
-Thank you to all who joined us for the IC3 Members & Friends Reception at SBC（Science of Blockchain Conference) 2023！Held at the President's Terrace, an iconic rooftop bar in Palo Alto, the event boasted breathtaking views of Stanford, the Santa Cruz Mountains, and a California sunset. This event provided an opportunity for IC3 academic researchers, industry partners and invited guests to mingle and discuss the latest in blockchain research.
-
-
 Attendees included IC3 Directors, Faculty, PhD students, industry partners, and other friends of the academic research community. The reception allowed dedicated time for IC3 member connections during SBC, which is co-organized by IC3 with Stanford's CBR and Berkeley’s RDI.
 
 <div class="ui center aligned basic segment">
@@ -44,7 +41,6 @@ A special shoutout to the IC3 reception sponsors whose generous support made thi
 - <a href="https://gopluslabs.io/">GoPlus Labs</a>
     
 - <a href="https://www.trgc.io/">TRGC</a>
-
 
 <div class="ui center aligned basic segment">
     <div class="ui center image">
