@@ -22,16 +22,10 @@ A special shoutout to the IC3 reception sponsors whose generous support made thi
 
 <div class="ui center aligned basic segment">
     <div class="ui center image">
-        <img class="ui image" src="../images/events/SBC2023/1.jpg?raw=true" alt="alt text" width="500" height="500"/>
+        <img class="ui image" src="../images/events/SBC2023/5.jpg" alt="alt text" width="500"/>
     </div>
     <div class="ui center image">
-        <img class="ui image" src="../images/events/SBC2023/2.jpg?raw=true" alt="alt text" width="500" height="500"/>
-    </div>
-    <div class="ui clearing horizontal divider">
-        <i class="certificate icon"></i>
-    </div>
-    <div class="ui center image">
-        <img class="ui image" src="../images/events/SBC2023/3.jpg" alt="" />
+        <img class="ui image" src="../images/events/SBC2023/6.jpg" alt="alt text" width="500"/>
     </div>
     <div class="ui bottom attached message">
         <strong>President's Terrace at the Graduate Hotel Palo Alto.
