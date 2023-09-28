@@ -1,5 +1,9 @@
 # Published Papers
 
+## 2024 ##
+
+- K. Sowon, E. Luhanga, L.F. Cranor, G. Fanti, C. Tucker, and A. Gueye. [The Role of User-Agent Interactions on Mobile Money Practices in Kenya and Tanzania](https://arxiv.org/pdf/2309.00226.pdf). IEEE S&P, 2024 (to appear)
+  
 ## 2023 ##
 
 - B.Y. Chan and R. Pass. [Simplex Consensus: A Fast and Simple Consensus Protocol](https://eprint.iacr.org/2023/463). TCC, 2023 (to appear)
