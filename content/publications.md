@@ -2,6 +2,7 @@
 
 ## 2023 ##
 
+- B.Y. Chan and R. Pass. [Simplex Consensus: A Fast and Simple Consensus Protocol](https://eprint.iacr.org/2023/463). TCC, 2023 (to appear)
 - K. Babel, M. Javaheripi, M. Kelkar, Y. Ji, F. Koushanfar, and A. Juels. [Lanturn: Measuring Economic Security of Smart Contracts Through Adaptive Learning](https://eprint.iacr.org/2023/1338.pdf). ACM CCS, 2023. (to appear)
 - P. Tennage, C. Basescu, L. Kokoris-Kogias, E. Syta, P. Jovanovic, V. Estrada-Galiñanes, and B. Ford. [QuePaxa: Escaping the tyranny of timeouts in consensus]. SOSP, 2023. (to appear)
 - H. Zhang, L-H. Merino, V. Estrada-Galinanes, and B. Ford. [F3B: A Low-Overhead Blockchain Architecture with Per-Transaction Front-Running Protection](https://arxiv.org/pdf/2205.08529.pdf). AFT, 2023. (to appear)
@@ -51,7 +52,7 @@ Avoiding Time-Space Tradeoffs for Finding Collisions](https://eprint.iacr.org/20
 End-to-End Encrypted Messaging](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_f545_paper.pdf). NDSS, 2023.
 - S. Wadhwa, J. Stoeter, F. Zhang, and K. Nayak. [He-HTLC: Revisiting Incentives in HTLC](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_f775_paper.pdf). NDSS, 2023.
 - H. Chung and E. Shi. [Foundations of Transaction Fee Mechanism Design](https://arxiv.org/abs/2111.03151). SODA, 2023.
-- E. Prasad. [The Future of Money and Its Implications for Society, Central Banks, and the International Monetary System](https://deliverypdf.ssrn.com/delivery.php?ID=777119081090116117124014125066064029085046025068004010066002010113105012019024007013007035074033050001045040036127125028010120027084055021091124070100067106091082003094098098112090118096026118019103093087099115099065&EXT=pdf&INDEX=TRUE). Federal Reserve Bank of St. Louis Review, 2023. (to appear)
+- E. Prasad. [The Future of Money and Its Implications for Society, Central Banks, and the International Monetary System](https://deliverypdf.ssrn.com/delivery.php?ID=777119081090116117124014125066064029085046025068004010066002010113105012019024007013007035074033050001045040036127125028010120027084055021091124070100067106091082003094098098112090118096026118019103093087099115099065&EXT=pdf&INDEX=TRUE). Federal Reserve Bank of St. Louis Review, 2023.
 
 ## 2022 ##
 
