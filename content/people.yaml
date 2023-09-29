@@ -478,12 +478,12 @@ students:
     bio: "Ceyhun is a PhD student at the Swiss Federal Institute of Technology in Lausanne (EPFL), Switzerland, under the supervision of Prof. Bryan Ford. His research interests are in distributed systems, smart contracts, and security.\n"
     
   -
-    name: 'Kasra Edalat Nejad'
+    name: 'Kasra EdalatNejad'
     pic: kedalat.jpg
     title:
     email: kasra.edalat@epfl.ch
-    weburl: 'http://ce.sharif.edu/~kedalat/'
-    bio: "Kasra Edalat Nejad is a Ph.D. student at EPFL. His research interests span the areas of privacy and security.\n"
+    weburl: 'https://kasra.edalat.dev/'
+    bio: "Kasra EdalatNejad is a Ph.D. student at EPFL. His research interests span the areas of privacy and security.\n"
   
   -
     name: 'Yan Ji'
