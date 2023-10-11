@@ -13,10 +13,22 @@ summary: We are thrilled to announce that the IC3 2024 Winter Retreat will once 
 Join us for the IC3 2024 Winter Retreat which will return once more to <a href="https://www.eurotel-victoria.ch/en">Eurotel Victoria</a> in Les Diablerets, Switzerland! Our technical committee of Surya Bakshi, Lorenz Breidenbach, Patrick McCorry, and Haaroon Yousaf is preparing another immersive blockchain learning experience. 
 
 <p align="center">
-  #### <a href="https://docs.google.com/forms/d/e/1FAIpQLSdVjC4tavFO15DNs4JN7kdDZDtPDqtlJFr9372d0rKJjmSgFg/viewform?usp=sharing">Register Now!</a> ####
+  ### <a href="https://docs.google.com/forms/d/e/1FAIpQLSdVjC4tavFO15DNs4JN7kdDZDtPDqtlJFr9372d0rKJjmSgFg/viewform?usp=sharing">REGISTER NOW!</a> ###
 </p>
 
 We strongly encourage all members and partners to register ASAP due to limited capacity. Early registrations are also crucial for us to finalize logistics and ensure a seamless experience for all attendees.
+
+
+## Note for Current Partners: ##
+Each partner company can send up to 5 employees to attend IC3 2024 Winter Retreat.
+
+## Important Note for Visa Applicants: ##
+For participants who require visas to enter Switzerland, we urge you to initiate the visa application process immediately. Securing a visa for first-time visitor involves several steps, including scheduling an appointment at the Swiss consulate or embassy. Starting early ensures you have sufficient time to complete all necessary procedures. Should you require an invitation letter for your visa application, please contact Oana Gherman at <a href="mailto:og64@cornell.edu">og64@cornell.edu</a>.
+
+## What to Expect: ##
+• <strong>Engaging Discussions:</strong> Dive into insightful discussions on the latest advancements and trends in blockchain. <br>
+• <strong>Social Opportunities:</strong> Connect with fellow researchers, industry experts, and IC3 partners, fostering collaborations and friendships through networking and group activities. <br>
+• <strong>Breathtaking Scenery:</strong> Immerse yourself in the stunning natural beauty of Les Diablerets. </br>
 
 
 <div class="ui center aligned basic segment">
