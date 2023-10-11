@@ -12,7 +12,7 @@ summary: We are thrilled to announce that the IC3 2024 Winter Retreat will once 
 
 Join us for the IC3 2024 Winter Retreat which will return once more to <a href="https://www.eurotel-victoria.ch/en">Eurotel Victoria</a> in Les Diablerets, Switzerland! Our technical committee of Surya Bakshi, Lorenz Breidenbach, Patrick McCorry, and Haaroon Yousaf is preparing another immersive blockchain learning experience. 
 
-<h2 style="text-align: center;"> <a href="https://docs.google.com/forms/d/e/1FAIpQLSdVjC4tavFO15DNs4JN7kdDZDtPDqtlJFr9372d0rKJjmSgFg/viewform?usp=sharing">REGISTER NOW!</a> </h2>
+<h2 style="text-align: center;"> <a href="https://docs.google.com/forms/d/e/1FAIpQLSdVjC4tavFO15DNs4JN7kdDZDtPDqtlJFr9372d0rKJjmSgFg/viewform?usp=sharing">REGISTER HERE!</a> </h2>
 
 We strongly encourage all members and partners to register ASAP due to limited capacity. Early registrations are also crucial for us to finalize logistics and ensure a seamless experience for all attendees.
 
