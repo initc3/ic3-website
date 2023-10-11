@@ -9,3 +9,28 @@ summary: We are thrilled to announce that the IC3 2024 Winter Retreat will once 
 <div class="ui piled segment">
   <img class="ui centered image" src="../images/events/WinterRetreat2024/ic3 logo new.png" alt="" />
 </div>
+
+Join us for the IC3 2024 Winter Retreat which will return once more to <a href="https://www.eurotel-victoria.ch/en">Eurotel Victoria</a> in Les Diablerets, Switzerland! Our technical committee of Surya Bakshi, Lorenz Breidenbach, Patrick McCorry, and Haaroon Yousaf is preparing another immersive blockchain learning experience. We strongly encourage all members and partners to register ASAP due to limited capacity. Early registrations are also crucial for us to finalize logistics and ensure a seamless experience for all attendees.
+
+
+<div class="ui center aligned basic segment">
+  <div class="ui centered image">
+    <img class="ui image" src="../images/events/WinterRetreat2024/bakshi.png" alt="" width="200"/>
+  </div>
+  <div class="ui centered image">
+    <img class="ui image" src="../images/events/WinterRetreat2024/lorenz.jpg" alt="" width="170"/>
+  </div>
+  <div class="ui centered image">
+    <img class="ui image" src="../images/events/WinterRetreat2024/paddy.jpg" alt="" width="200"/>
+  </div>
+  <div class="ui centered image">
+    <img class="ui image" src="../images/events/WinterRetreat2024/haaroon.jpg" alt="" width="170"/>
+  </div>
+  <div class="ui bottom attached message">
+    <strong>Surya Bakshi, Lorenz Breidenbach, Patrick McCorry, and Haaroon Yousaf<br> 
+	    2024 Winter Retreat - Technical Committee</strong><br>
+  </div>
+</div>  
+
+
+<strong>Looking forward to seeing there!</strong>
