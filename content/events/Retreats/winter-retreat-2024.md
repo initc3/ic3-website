@@ -17,9 +17,6 @@ Join us for the IC3 2024 Winter Retreat which will return once more to <a href="
 We strongly encourage all members and partners to register ASAP due to limited capacity. Early registrations are also crucial for us to finalize logistics and ensure a seamless experience for all attendees.
 
 
-## Note for Current Partners: ##
-Each partner company can send up to 5 employees to attend IC3 2024 Winter Retreat.
-
 ## Important Note for Visa Applicants: ##
 For participants who require visas to enter Switzerland, we urge you to initiate the visa application process immediately. Securing a visa for first-time visitor involves several steps, including scheduling an appointment at the Swiss consulate or embassy. Starting early ensures you have sufficient time to complete all necessary procedures. Should you require an invitation letter for your visa application, please contact Oana Gherman at <a href="mailto:og64@cornell.edu">og64@cornell.edu</a>.
 
