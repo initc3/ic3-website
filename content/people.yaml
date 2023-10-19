@@ -452,6 +452,14 @@ students:
     email: louis-henri.merino@epfl.ch
     weburl:
     bio: "Louis-Henri is currently a Ph.D. student in Computer Science at the Swiss Federal Institute of Technology (EPFL) in Lausanne. His research is in security and privacy, focusing on election security and open communication. As a Banneker Key Scholar, Louis-Henri graduated from the University of Maryland - College Park majoring in Computer Science and minoring in Cybersecurity, Innovation and Entrepreneurship. After graduation, He received a Fulbright Scholarship to perform research on e-voting systems at EPFL."
+
+  -
+    name: 'Shailesh Mishra'
+    pic: Shailesh.jpg
+    title:
+    email: shailesh.mishra@epfl.ch
+    weburl:
+    bio: "Shailesh is a PhD student at EPFL, where he is supervised by Prof. Bryan Ford. His research focuses on security and privacy.\n"
     
   -
     name: 'Simone Colombo'
@@ -463,19 +471,11 @@ students:
     
   -
     name: 'Pasindu Tennage'
-    pic: raptor3.jpg
+    pic: Pasindu.jpg
     title:
     email: pasindu.tennage@epfl.ch
     weburl:
     bio: "Pasindu is a PhD student at Swiss Federal Institute of Technology in Lausanne (EPFL), Switzerland, under the supervision of Prof. Bryan Ford. Pasindu enjoys designing and building new distributed algorithms and performance tuning. Pasindu's research interests include consensus algorithms, resilient systems and performance optimization.\n"
-    
-  -
-    name: 'Enis Ceyhun Alp'
-    pic: eceyhun.jpg
-    title:
-    email: enis.alp@epfl.ch
-    weburl:
-    bio: "Ceyhun is a PhD student at the Swiss Federal Institute of Technology in Lausanne (EPFL), Switzerland, under the supervision of Prof. Bryan Ford. His research interests are in distributed systems, smart contracts, and security.\n"
     
   -
     name: 'Kasra EdalatNejad'
@@ -524,14 +524,6 @@ students:
     email: yungil3@illinois.edu
     weburl:
     bio: "Yunqi Li is a PhD student at UIUC working with Andrew Miller. She is interested in system security, P2P network, and blockchain technology."
-
-  -
-    name: 'Sishan Long'
-    pic: longsishan.jpg
-    title:
-    email: sl3275@cornell.edu
-    weburl: 'https://longsishan.com'
-    bio: "Sishan Long is a graduate student at Cornell University. She is interested in blockchain technologies."
 
   -
     name: 'Roi Bar-Zur'
@@ -884,6 +876,14 @@ alumni_postdocs:
 alumni_students:
 
   -
+    name: 'Enis Ceyhun Alp'
+    pic: eceyhun.jpg
+    title:
+    email: enis.alp@epfl.ch
+    weburl:
+    bio: "Ceyhun completed his PhD program at the Swiss Federal Institute of Technology (EPFL) in Lausanne, Switzerland under the supervision of Prof. Bryan Ford. His research interests are in distributed systems, smart contracts, and security.\n"
+    
+  -
     name: 'Soumya Basu'
     pic: soumya.jpg
     title:
@@ -1057,8 +1057,16 @@ alumni_students:
     title:
     email: kevin@sekniqi.com
     weburl: 'https://sekniqi.com/'
-    bio: 'Kevin Sekniqi is COO at Ava Labs.'
+    bio: "Kevin Sekniqi is COO at Ava Labs.\n"
 
+  -
+    name: 'Sishan Long'
+    pic: longsishan.jpg
+    title:
+    email: sl3275@cornell.edu
+    weburl: 'https://longsishan.com'
+    bio: "Sishan Long completed her program at Cornell University advised by prof. Ari Juels, and has joined Espresso Systems. She is interested in blockchain technologies.\n"
+    
   -
     name: 'Maofan (Ted) Yin'
     pic: tedyin.jpg
