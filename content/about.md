@@ -62,8 +62,8 @@ IC3 has created for program chairs and other interested colleagues the following
 
 ## Contact
 
-For inquiries, please email the IC3 Research Program Manager at
-    <a href="mailto:sarahallen@cornell.edu">sarahallen@cornell.edu</a>.
+For inquiries, please email Bria Han, IC3 Community Manager at
+    <a href="mailto:jh2584@cornell.edu">jh2584@cornell.edu</a>.
     
 Want to be added to our email list? Register <a href="https://forms.gle/T1Ejcf5DPJ28erYe6">here</a>.
 
