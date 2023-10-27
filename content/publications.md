@@ -9,15 +9,17 @@
 
 - B.Y. Chan and R. Pass. [Simplex Consensus: A Fast and Simple Consensus Protocol](https://eprint.iacr.org/2023/463). TCC, 2023 (to appear)
 - K. Babel, M. Javaheripi, M. Kelkar, Y. Ji, F. Koushanfar, and A. Juels. [Lanturn: Measuring Economic Security of Smart Contracts Through Adaptive Learning](https://eprint.iacr.org/2023/1338.pdf). ACM CCS, 2023. (to appear)
+- M. Kelkar, S. Deb, S. Long, A. Juels, and S. Kannan. [Themis: Fast, Strong Order-Fairness in Byzantine Consensus](https://eprint.iacr.org/2021/1465.pdf). ACM CCS, 2023. (to appear)
+- D. Zagieboylo, C. Sherk, A. Myers, and G.E. Suh. [SpecVerilog: Adapting Information Flow Control for Secure Speculation](https://www.cs.cornell.edu/andru/papers/specverilog/specverilog.pdf). ACM CCS, 2023. (to appear)
 - W. Wang, Y. Lu, C. Papamanthou, and F. Zhang. [The Locality of Memory Checking](https://eprint.iacr.org/2023/1358). ACM CCS, 2023 (to appear)
-- P. Tennage, C. Basescu, L. Kokoris-Kogias, E. Syta, P. Jovanovic, V. Estrada-Galiñanes, and B. Ford. [QuePaxa: Escaping the tyranny of timeouts in consensus](https://bford.info/pub/os/quepaxa/quepaxa.pdf). SOSP, 2023. (to appear)
-- H. Zhang, L-H. Merino, V. Estrada-Galinanes, and B. Ford. [F3B: A Low-Overhead Blockchain Architecture with Per-Transaction Front-Running Protection](https://arxiv.org/pdf/2205.08529.pdf). AFT, 2023. (to appear)
-- D. Beaver, K. Chalkias, M. Kelkar, L. Kokoris-Kogias, K. Lewi, L. de Naurois, V. Nicolaenko, A. Roy, and A. Sonnino. [STROBE: Streaming Threshold Random Beacons](https://eprint.iacr.org/2021/1643). AFT, 2023. (to appear)
-- J. Hsin-yu Chiang, B. David, I. Eyal, and T. Gong. [FairPoS: Input Fairness in Permissionless Consensus](https://eprint.iacr.org/2022/1442). AFT, 2023. (to appear)
-- A. Mamageishvili, M. Kelkar, J. C. Schlegel, and E. W. Felten. [Buying Time: Latency Racing vs. Bidding for Transaction Ordering](https://arxiv.org/pdf/2306.02179.pdf). AFT, 2023. (to appear)
-- Y. Pu, A. Farahbakhsh, L. Alvisi, and I. Eyal. [Gorilla: Safe Permissionless Byzantine Consensus](https://eprint.iacr.org/2022/796). DISC, 2023. (to appear)
-- I. Abraham, D. Dolev, I. Eyal, and J. Halpern. [Colordag: An Incentive-Compatible Blockchain](https://eprint.iacr.org/2022/308). DISC, 2023. (to appear)
-- E. Prasad. [A Simple Model of a Central Bank Digital Currency](http://prasad.dyson.cornell.edu/doc/MishraPrasad_JFS_Revision_Mar23.pdf). Journal of Financial Stability, 2023. (to appear)
+- P. Tennage, C. Basescu, L. Kokoris-Kogias, E. Syta, P. Jovanovic, V. Estrada-Galiñanes, and B. Ford. [QuePaxa: Escaping the tyranny of timeouts in consensus](https://bford.info/pub/os/quepaxa/quepaxa.pdf). SOSP, 2023.
+- H. Zhang, L-H. Merino, V. Estrada-Galinanes, and B. Ford. [F3B: A Low-Overhead Blockchain Architecture with Per-Transaction Front-Running Protection](https://arxiv.org/pdf/2205.08529.pdf). AFT, 2023.
+- D. Beaver, K. Chalkias, M. Kelkar, L. Kokoris-Kogias, K. Lewi, L. de Naurois, V. Nicolaenko, A. Roy, and A. Sonnino. [STROBE: Streaming Threshold Random Beacons](https://eprint.iacr.org/2021/1643). AFT, 2023.
+- J. Hsin-yu Chiang, B. David, I. Eyal, and T. Gong. [FairPoS: Input Fairness in Permissionless Consensus](https://eprint.iacr.org/2022/1442). AFT, 2023.
+- A. Mamageishvili, M. Kelkar, J. C. Schlegel, and E. W. Felten. [Buying Time: Latency Racing vs. Bidding for Transaction Ordering](https://arxiv.org/pdf/2306.02179.pdf). AFT, 2023.
+- Y. Pu, A. Farahbakhsh, L. Alvisi, and I. Eyal. [Gorilla: Safe Permissionless Byzantine Consensus](https://eprint.iacr.org/2022/796). DISC, 2023.
+- I. Abraham, D. Dolev, I. Eyal, and J. Halpern. [Colordag: An Incentive-Compatible Blockchain](https://eprint.iacr.org/2022/308). DISC, 2023.
+- E. Prasad. [A Simple Model of a Central Bank Digital Currency](http://prasad.dyson.cornell.edu/doc/MishraPrasad_JFS_Revision_Mar23.pdf). Journal of Financial Stability, 2023.
 - K. Qin, S. Chaliasos, L. Zhou, B. Livshits, D. Song, and A. Gervais. [The Blockchain Imitation Game](https://www.usenix.org/system/files/sec23fall-prepub-331-qin.pdf). SBC, 2023.
 - M. Mirkin, L. Zhou, I. Eyal, and F. Zhang [Sprints: Intermittent Blockchain Mining](https://eprint.iacr.org/2023/626.pdf). SBC, 2023.
 - N. Jean-Louis, Y. Li, Y. Ji, H. Malvai, T. Yurek, S. Bellemare, and A. Miller. [SGXonerated: Finding (and Partially Fixing) Privacy Flaws in TEE-based Smart Contract Platforms Without Breaking the TEE](https://eprint.iacr.org/2023/378). SBC, 2023.
