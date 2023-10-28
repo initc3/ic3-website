@@ -36,6 +36,7 @@
 - S. Das, Z. Xiang, L. Kokoris-Kogias, and L. Ren. [Practical Asynchronous High-threshold Distributed Key Generation and Distributed Polynomial Sampling](https://www.usenix.org/system/files/sec23fall-prepub-454-das.pdf). USENIX, 2023.
 - V. Nair and D. Song. [Multi-Factor Key Derivation Function (MFKDF) for Fast, Flexible, Secure, & Practical Key Management](https://arxiv.org/abs/2208.05586). USENIX, 2023.
 - K. Qin, S. Chaliasos, L. Zhou, B. Livshits, D. Song, and A. Gervais. [The Blockchain Imitation Game](https://www.usenix.org/system/files/sec23fall-prepub-331-qin.pdf). USENIX, 2023.
+- I. Sheff, X. Wang, K. Babel, H. Ni, R. van Renesse, and A. Myers. [Charlotte: Reformulating Blockchains into a Web of Composable Attested Data Structures for Cross-Domain Applications](https://dl.acm.org/doi/abs/10.1145/3607534). TOCS, 2023.
 - J. Ernstberger, J. Lauinger, F. Elsheimy, L. Zhou, S. Steinhorst, R. Canetti, A. Miller, A. Gervais, and D. Song. [SoK: Data Sovereignty](https://eprint.iacr.org/2023/967). EuroS&P, 2023.
 - V. Nair and D. Song. [Multi-Factor Credential Hashing for Asymmetric Brute-Force Attack Resistance](https://arxiv.org/abs/2306.08169). EuroS&P, 2023.
 - Z. Li, A. Sonnino, and P. Jovanovic. [Performance of EdDSA and BLS Signatures in Committee-Based Consensus](https://dl.acm.org/doi/abs/10.1145/3584684.3597265). ApPLIED, 2023.
