@@ -2,12 +2,13 @@
 
 ## 2024 ##
 
-- K. Sowon, E. Luhanga, L.F. Cranor, G. Fanti, C. Tucker, and A. Gueye. [The Role of User-Agent Interactions on Mobile Money Practices in Kenya and Tanzania](https://arxiv.org/pdf/2309.00226.pdf). IEEE S&P, 2024 (to appear)
-- T. Liu, T. Xie, J. Zhang, D. Song, and Y. Zhang. [Pianist: Scalable zkRollups via Fully Distributed Zero-Knowledge Proofs](https://eprint.iacr.org/2023/1271). IEEE S&P, 2024 (to appear)
+- K. Sowon, E. Luhanga, L.F. Cranor, G. Fanti, C. Tucker, and A. Gueye. [The Role of User-Agent Interactions on Mobile Money Practices in Kenya and Tanzania](https://arxiv.org/pdf/2309.00226.pdf). IEEE S&P, 2024. (to appear)
+- T. Liu, T. Xie, J. Zhang, D. Song, and Y. Zhang. [Pianist: Scalable zkRollups via Fully Distributed Zero-Knowledge Proofs](https://eprint.iacr.org/2023/1271). IEEE S&P, 2024. (to appear)
+- M. Zhou, A. Park, E. Shi, and W. Zheng. [Piano: Extremely Simple, Single-Server PIR with Sublinear Server Computation](https://eprint.iacr.org/2023/452). IEEE S&P, 2024. (to appear)
   
 ## 2023 ##
 
-- B.Y. Chan and R. Pass. [Simplex Consensus: A Fast and Simple Consensus Protocol](https://eprint.iacr.org/2023/463). TCC, 2023 (to appear)
+- B.Y. Chan and R. Pass. [Simplex Consensus: A Fast and Simple Consensus Protocol](https://eprint.iacr.org/2023/463). TCC, 2023. (to appear)
 - K. Babel, M. Javaheripi, M. Kelkar, Y. Ji, F. Koushanfar, and A. Juels. [Lanturn: Measuring Economic Security of Smart Contracts Through Adaptive Learning](https://eprint.iacr.org/2023/1338.pdf). ACM CCS, 2023. (to appear)
 - M. Kelkar, S. Deb, S. Long, A. Juels, and S. Kannan. [Themis: Fast, Strong Order-Fairness in Byzantine Consensus](https://eprint.iacr.org/2021/1465.pdf). ACM CCS, 2023. (to appear)
 - D. Zagieboylo, C. Sherk, A. Myers, and G.E. Suh. [SpecVerilog: Adapting Information Flow Control for Secure Speculation](https://www.cs.cornell.edu/andru/papers/specverilog/specverilog.pdf). ACM CCS, 2023. (to appear)
