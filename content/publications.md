@@ -22,6 +22,7 @@
 - Y. Pu, A. Farahbakhsh, L. Alvisi, and I. Eyal. [Gorilla: Safe Permissionless Byzantine Consensus](https://eprint.iacr.org/2022/796). DISC, 2023.
 - I. Abraham, D. Dolev, I. Eyal, and J. Halpern. [Colordag: An Incentive-Compatible Blockchain](https://eprint.iacr.org/2022/308). DISC, 2023.
 - C. Cachin, D. Lehnherr, and T. Studer. [Synergistic Knowledge](https://link.springer.com/chapter/10.1007/978-3-031-44274-2_41). SSS, 2023.
+- O. Alpos and C. Cachin. [Do Not Trust in Numbers: Practical Distributed Cryptography with General Trust](https://link.springer.com/chapter/10.1007/978-3-031-44274-2_40). SSS, 2023.
 - E. Prasad. [A Simple Model of a Central Bank Digital Currency](http://prasad.dyson.cornell.edu/doc/MishraPrasad_JFS_Revision_Mar23.pdf). Journal of Financial Stability, 2023.
 - K. Qin, S. Chaliasos, L. Zhou, B. Livshits, D. Song, and A. Gervais. [The Blockchain Imitation Game](https://www.usenix.org/system/files/sec23fall-prepub-331-qin.pdf). SBC, 2023.
 - M. Mirkin, L. Zhou, I. Eyal, and F. Zhang [Sprints: Intermittent Blockchain Mining](https://eprint.iacr.org/2023/626.pdf). SBC, 2023.
