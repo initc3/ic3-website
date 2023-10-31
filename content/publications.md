@@ -14,6 +14,7 @@
 - D. Zagieboylo, C. Sherk, A. Myers, and G.E. Suh. [SpecVerilog: Adapting Information Flow Control for Secure Speculation](https://www.cs.cornell.edu/andru/papers/specverilog/specverilog.pdf). ACM CCS, 2023. (to appear)
 - N. Tyagi, A. Arun, C. Freitag, R. Wahby, J. Bonneau, and D. Mazières. [Riggs: Decentralized Sealed-Bid Auctions](https://eprint.iacr.org/2023/1336). ACM CCS, 2023. (to appear)
 - W. Wang, Y. Lu, C. Papamanthou, and F. Zhang. [The Locality of Memory Checking](https://eprint.iacr.org/2023/1358). ACM CCS, 2023 (to appear)
+- V. Nair, D. Song, and G. Munilla-Garrido. [Going Incognito in the Metaverse: Achieving Theoretically Optimal Privacy-Usability Tradeoffs in VR](https://arxiv.org/abs/2208.05604). UIST, 2023 (Best Paper Award).
 - P. Tennage, C. Basescu, L. Kokoris-Kogias, E. Syta, P. Jovanovic, V. Estrada-Galiñanes, and B. Ford. [QuePaxa: Escaping the tyranny of timeouts in consensus](https://bford.info/pub/os/quepaxa/quepaxa.pdf). SOSP, 2023.
 - H. Zhang, L-H. Merino, V. Estrada-Galinanes, and B. Ford. [F3B: A Low-Overhead Blockchain Architecture with Per-Transaction Front-Running Protection](https://arxiv.org/pdf/2205.08529.pdf). AFT, 2023.
 - D. Beaver, K. Chalkias, M. Kelkar, L. Kokoris-Kogias, K. Lewi, L. de Naurois, V. Nicolaenko, A. Roy, and A. Sonnino. [STROBE: Streaming Threshold Random Beacons](https://eprint.iacr.org/2021/1643). AFT, 2023.
@@ -22,7 +23,7 @@
 - Y. Pu, A. Farahbakhsh, L. Alvisi, and I. Eyal. [Gorilla: Safe Permissionless Byzantine Consensus](https://eprint.iacr.org/2022/796). DISC, 2023.
 - I. Abraham, D. Dolev, I. Eyal, and J. Halpern. [Colordag: An Incentive-Compatible Blockchain](https://eprint.iacr.org/2022/308). DISC, 2023.
 - C. Cachin, D. Lehnherr, and T. Studer. [Synergistic Knowledge](https://link.springer.com/chapter/10.1007/978-3-031-44274-2_41). SSS, 2023.
-- O. Alpos and C. Cachin. [Do Not Trust in Numbers: Practical Distributed Cryptography with General Trust](https://link.springer.com/chapter/10.1007/978-3-031-44274-2_40). SSS, 2023.
+- O. Alpos and C. Cachin. [Do Not Trust in Numbers: Practical Distributed Cryptography with General Trust](https://link.springer.com/chapter/10.1007/978-3-031-44274-2_40). SSS, 2023 (Best Student Award).
 - E. Prasad. [A Simple Model of a Central Bank Digital Currency](http://prasad.dyson.cornell.edu/doc/MishraPrasad_JFS_Revision_Mar23.pdf). Journal of Financial Stability, 2023.
 - K. Qin, S. Chaliasos, L. Zhou, B. Livshits, D. Song, and A. Gervais. [The Blockchain Imitation Game](https://www.usenix.org/system/files/sec23fall-prepub-331-qin.pdf). SBC, 2023.
 - M. Mirkin, L. Zhou, I. Eyal, and F. Zhang [Sprints: Intermittent Blockchain Mining](https://eprint.iacr.org/2023/626.pdf). SBC, 2023.
