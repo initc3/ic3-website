@@ -46,4 +46,4 @@ For participants who require visas to enter Switzerland, we urge you to initiate
 </div>  
 
 
-<strong>Looking forward to seeing there!</strong>
+<strong>Looking forward to seeing you there!</strong>
