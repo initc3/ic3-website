@@ -18,7 +18,7 @@ We strongly encourage all members and partners to register ASAP due to limited c
 
 
 ## Important Note for Visa Applicants: ##
-For participants who require visas to enter Switzerland, we urge you to initiate the visa application process immediately. Securing a visa for first-time visitor involves several steps, including scheduling an appointment at the Swiss consulate or embassy. Starting early ensures you have sufficient time to complete all necessary procedures. Should you require an invitation letter for your visa application, please contact Oana Gherman at <a href="mailto:og64@cornell.edu">og64@cornell.edu</a>.
+For participants who require visas to enter Switzerland, we urge you to initiate the visa application process immediately. Securing a visa for first-time visitors involves several steps, including scheduling an appointment at the Swiss consulate or embassy. Starting early ensures you have sufficient time to complete all necessary procedures. Should you require an invitation letter for your visa application, please contact Oana Gherman at <a href="mailto:og64@cornell.edu">og64@cornell.edu</a>.
 
 ## What to Expect: ##
 • <strong>Engaging Discussions:</strong> Dive into insightful discussions on the latest advancements and trends in blockchain. <br>
