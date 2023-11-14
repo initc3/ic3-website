@@ -701,7 +701,7 @@ students:
     weburl:
     bio: "Weizhao received his Master's degree (2021) from Carnegie Mellon University. He is a Ph.D. student at Carnegie Mellon University supervised by Dr. Giulia Fanti. His research interests are privacy and security of distributed systems, particularly cryptocurrency systems based on blockchain."
     
-researchers:
+researchers & engineers:
 
   -
     name: 'Dr. Kari Kostiainen'
@@ -718,6 +718,14 @@ researchers:
     email: 
     weburl: 'https://ch.linkedin.com/in/veronicaestrada'
     bio: "Vero Estrada-Galinanes is a well-established researcher scientist member of DEDIS lab at EPFL. She was formerly an Associate Professor and research deputy leader at the Resilient Systems lab at University of Stavanger, Norway. She gained international experience acquired in academic environments, in the industry, as well as, in the public sector. She got a PhD thesis from University of Neuchatel, Switzerland, and has been with the Storage Systems Research Center at UCSC, USA. She was the recipient of SNSF, MEXT (Monbukagakusho), and CONICET grants. Her research areas of interest are decentralized p2p systems, complex systems, distributed data structures, cryptoeconomics, and their cross-disciplinary applications to empower individuals, communities and societies."
+
+  -
+    name: 'Pierluca Borsò'
+    pic: Pierluca.jpeg
+    title:
+    email: pierluca.borso@epfl.ch
+    weburl:
+    bio: "Pierluca Borsò is an engineer, an entrepreneur and a lecturer in Decentralized Systems Engineering at the Swiss Federal Institute of Technology in Lausanne (EPFL), where he also heads the engineering team at the Decentralized/Distributed Systems lab. As an entrepreneur, he leads the Anansi Solutions consulting firm, which acts as a strategic partner to a diverse array of clients across multiple industries." 
 
 fellows:
 
