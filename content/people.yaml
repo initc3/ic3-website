@@ -590,14 +590,6 @@ students:
     bio: "Amit is a PhD student under Professor Andrew Miller at UIUC currently doing research in theoretical and applied cryptography. His other research interests include consensus algorithms, quantum computation, and algorithm design."
 
   -
-    name: 'Gengmo Qi'
-    pic: gengmo.png
-    title:
-    email: gq35@cornell.edu
-    weburl: "https://gengmoqi.github.io/"
-    bio: "Gengmo is a Computer Science Ph.D. student at Cornell University. His interest broadly include security and privacy, distributed systems, and cryptoeconomics."
-
-  -
     name: 'Bolton Bailey'
     pic: boltonbailey.jpg
     title:
@@ -1178,3 +1170,11 @@ alumni_students:
     email: nephraim@cs.cornell.edu
     weburl:
     bio: "I am an assistant professor of computer science at Drexel University. My research interests are in the foundations of cryptography. In particular, I've recently been interested in interactive proof systems, program obfuscation, and cryptographic lower bounds. I received my Ph.D. in Computer Science from Cornell University in 2022, advised by Professor Rafael Pass. Previously, I received my B.S. in Computer Science from Johns Hopkins University. \n"
+
+  -
+    name: 'Gengmo Qi'
+    pic: gengmo.png
+    title:
+    email: gq35@cornell.edu
+    weburl: "https://gengmoqi.github.io/"
+    bio: "Gengmo completed his Ph.D. program in Computer Science at Cornell University and has joined Drangonfly as a research partner. His interest broadly include security and privacy, distributed systems, and cryptoeconomics."
