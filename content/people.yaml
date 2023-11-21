@@ -510,14 +510,6 @@ students:
     bio: "Nikhil Vanjani is a Ph.D. student at Carnegie Mellon University, where he is advised by prof. Elaine Shi. His research interests include cryptography and blockchains."
   
   -
-    name: 'Jiaheng Zhang'
-    pic: jiaheng.jpg
-    title:
-    email: jiaheng_zhang@berkeley.edu
-    weburl:
-    bio: "Jiaheng is a Ph.D. student in the Security Group of Computer Science at UC Berkeley. He is broadly interested in Computer Security and Cryptography, especially Zero Knowledge Proof. His current advisor is Prof. Dawn Song. Before coming to Berkeley, he received his B.Eng. degree in Computer Science from ACM Honors Class at Shanghai Jiao Tong University. He also was an intern at Cornell, advised by Prof. Elaine Shi."
-
-  -
     name: 'Yunqi Li'
     pic: yunqi-li.jpg
     title:
@@ -1178,3 +1170,11 @@ alumni_students:
     email: gq35@cornell.edu
     weburl: "https://gengmoqi.github.io/"
     bio: "Gengmo completed his Ph.D. program in Computer Science at Cornell University and has joined Drangonfly as a research partner. His interest broadly include security and privacy, distributed systems, and cryptoeconomics."
+
+  -
+    name: 'Jiaheng Zhang'
+    pic: jiaheng.jpg
+    title:
+    email: jiaheng_zhang@berkeley.edu
+    weburl:
+    bio: "Jiaheng obtained his Ph.D. in Computer Science at UC Berkeley, where he was advised by prof. Dawn Song. He has joined the School of Computing at National University of Singapore (NUS) as an Assistant Professor in Fall 2023. He is broadly interested in computer security and cryptography, especially zero-knowledge proofs and applications on blockchain and machine learning models. Before coming to Berkeley, he received his B.Eng. degree in Computer Science from ACM Honors Class at Shanghai Jiao Tong University. He was also an intern at Cornell, advised by Prof. Elaine Shi."
