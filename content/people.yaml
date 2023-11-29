@@ -817,6 +817,13 @@ fellows:
     weburl:
     bio: "Philipp Jovanovic is an Associate Professor in Information Security at University College London. Philipp's interests broadly include applied cryptography, information security, and decentralized systems. His research mission is to develop, analyze, and deploy scalable, privacy-enhancing, decentralized trust technologies that serve the end users and help to promote anti-fragile ecosystems.\n"
 
+  -
+    name: 'Jiaheng Zhang'
+    pic: jiaheng.jpg
+    title:
+    email: jiaheng_zhang@berkeley.edu
+    weburl:
+    bio: "Jiaheng obtained his Ph.D. in Computer Science at UC Berkeley, where he was advised by prof. Dawn Song. He has joined the School of Computing at National University of Singapore (NUS) as an Assistant Professor in Fall 2023. He is broadly interested in computer security and cryptography, especially zero-knowledge proofs and applications on blockchain and machine learning models. Before coming to Berkeley, he received his B.Eng. degree in Computer Science from ACM Honors Class at Shanghai Jiao Tong University. He was also an intern at Cornell, advised by Prof. Elaine Shi."
 
 alumni_faculty:
 
@@ -1170,11 +1177,3 @@ alumni_students:
     email: gq35@cornell.edu
     weburl: "https://gengmoqi.github.io/"
     bio: "Gengmo completed his Ph.D. program in Computer Science at Cornell University and has joined Drangonfly as a research partner. His interest broadly include security and privacy, distributed systems, and cryptoeconomics."
-
-  -
-    name: 'Jiaheng Zhang'
-    pic: jiaheng.jpg
-    title:
-    email: jiaheng_zhang@berkeley.edu
-    weburl:
-    bio: "Jiaheng obtained his Ph.D. in Computer Science at UC Berkeley, where he was advised by prof. Dawn Song. He has joined the School of Computing at National University of Singapore (NUS) as an Assistant Professor in Fall 2023. He is broadly interested in computer security and cryptography, especially zero-knowledge proofs and applications on blockchain and machine learning models. Before coming to Berkeley, he received his B.Eng. degree in Computer Science from ACM Honors Class at Shanghai Jiao Tong University. He was also an intern at Cornell, advised by Prof. Elaine Shi."
