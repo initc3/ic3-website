@@ -786,14 +786,6 @@ fellows:
     bio: "Ethan Cecchetti is a Post-Doc Associate in the Maryland Cybersecurity Center at the University of Maryland. He will be joining the University of Wisconsin - Madison as an Assistant Professor of Computer Sciences starting Fall 2023. He is interested in a wide range of research related to security and cryptography.\n"
   
   -
-    name: 'Joshua Gancher'
-    pic: josh.png
-    title:
-    email: jgancher@andrew.cmu.edu
-    weburl: 'https://gancher.dev/'
-    bio: "Joshua Gancher is a post-doc at Carnegie Mellon University. His research is about using techniques from formal methods and program verification to certify cryptographic implementations and proofs.\n"
-  
-  -
     name: 'Sandra Siby'
     pic: ssiby.jpg
     title:
@@ -872,6 +864,14 @@ alumni_postdocs:
     weburl:
     bio: "Iddo Bentov is a postdoc at Cornell University, and author of a number of academic papers on cryptography and cryptocurrency. He has been involved in the Bitcoin space since mid-2011, and also works on succinct zero-knowledge proofs at SCIPR Lab.\n"
 
+  -
+    name: 'Joshua Gancher'
+    pic: josh.png
+    title:
+    email: jgancher@andrew.cmu.edu
+    weburl: 'https://gancher.dev/'
+    bio: "Joshua Gancher is a post-doc at Carnegie Mellon University. His research is about using techniques from formal methods and program verification to certify cryptographic implementations and proofs.\n"
+  
 alumni_students:
 
   -
