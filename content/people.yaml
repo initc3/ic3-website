@@ -746,14 +746,6 @@ fellows:
     bio: "Ekaterina is a Senior Lecturer (Assistant Professor) at the University of Melbourne, Finance Department. Prior to joining the program in 2012, Ekaterina graduated from Moscow State University with MA in Mathematics and from New Economic School with MA in Economics.\n"
   
   -
-    name: 'Raymond Cheng'
-    pic: rcheng.jpg
-    title:
-    email: me@raymondcheng.net
-    weburl: 'https://raymondcheng.net/about/'
-    bio: "Raymond Cheng is a research scientist, entrepreneur, open source software developer, and adjunct professor, who is passionate about building technology that improves the lives and freedoms of internet users. He has made contributions in a wide range of areas in distributed systems and security, including data privacy, secure computing, blockchains, and scalable network systems.\n"
-  
-  -
     name: 'Fan Zhang'
     pic: fan.jpg
     title:
@@ -1177,3 +1169,12 @@ alumni_students:
     email: gq35@cornell.edu
     weburl: "https://gengmoqi.github.io/"
     bio: "Gengmo completed his Ph.D. program in Computer Science at Cornell University and has joined Drangonfly as a research partner. His interest broadly include security and privacy, distributed systems, and cryptoeconomics."
+ 
+  -
+    name: 'Raymond Cheng'
+    pic: rcheng.jpg
+    title:
+    email: me@raymondcheng.net
+    weburl: 'https://raymondcheng.net/about/'
+    bio: "Raymond Cheng is a research scientist, entrepreneur, open source software developer, and adjunct professor, who is passionate about building technology that improves the lives and freedoms of internet users. He has made contributions in a wide range of areas in distributed systems and security, including data privacy, secure computing, blockchains, and scalable network systems.\n"
+  
