@@ -31,6 +31,30 @@ challenges:
 projects:
 
   -
+     name: 'We will DAG you'
+     authors: Ignacio Amores-Sesar and Christian Cachin
+     challenges: [*scaling, *confidentiality]
+     description: DAG-based protocols have been proposed as potential solutions to the latency and throughput limitations of traditional permissionless consensus protocols. However, their adoption has been hindered by security concerns and a lack of a solid foundation to guarantee improvements in both throughput and latency. In this paper, we present a construction that rigorously demonstrates how DAG-based protocols can achieve superior throughput and latency compared to chain-based consensus protocols, all while maintaining the same level of security guarantees. For more details, please see our <a href="https://arxiv.org/pdf/2311.03092.pdf">work</a>.
+     
+  -
+     name: 'DAO Decentralization: Voting-Bloc Entropy, Bribery, and Dark DAOs'
+     authors: James Austgen, Andrés Fábrega, Sarah Allen, Kushal Babel, Mahimna Kelkar, and Ari Juels
+     challenges: [*correctness, *compliance]
+     description: Decentralized Autonomous Organizations (DAOs) use smart contracts to foster communities working toward common goals. Existing definitions of decentralization, however-the 'D' in DAO-fall short of capturing key properties characteristic of diverse and equitable participation. We propose a new metric called Voting-Bloc Entropy (VBE, pronounced ''vibe'') that formalizes a broad notion of decentralization in voting on DAO proposals. VBE measures the similarity of participants' utility functions across a set of proposals. We use VBE to prove a number of results about the decentralizing effects of vote delegation, proposal bundling, bribery, and quadratic voting. Our results lead to practical suggestions for enhancing DAO decentralization. One of our results highlights the risk of systemic bribery with increasing DAO decentralization. To show that this threat is realistic, we present the first practical realization of a Dark DAO, a proposed mechanism for privacy-preserving corruption of identity systems, including those used in DAO voting. Our Dark-DAO prototype uses trusted execution environments (TEEs) in the Oasis Sapphire blockchain for attacks on Ethereum DAOs. It demonstrates that Dark DAOs constitute a realistic future concern for DAO governance. For more information, see our <a href="https://arxiv.org/abs/2311.03530">paper</a>.
+     
+  -
+     name: 'Open Problems in DAOs'
+     authors: Joshua Tan, Tara Merk, Sarah Hubbard, Eliza R. Oak, Joni Pirovich, Ellie Rennie, Rolf Hoefer, Michael Zargham, Jason Potts, Chris Berg, Reuben Youngblom, Primavera De Filippi, Seth Frey, Jeff Strnad, Morshed Mannan, Kelsie Nabben, Silke Noa Elrifai, Jake Hartnell, Benjamin Mako Hill, Tobin South, Alexia Maddox, Woojin Lim, Ari Juels, and Dan Boneh
+     challenges: [*correctness]
+     description: Decentralized autonomous organizations (DAOs) are a new, rapidly-growing class of organizations governed by smart contracts. Here we describe how researchers can contribute to the emerging science of DAOs and digitally-constituted organizations. From granular privacy primitives to mechanism designs to model laws, we identify high-impact problems in the DAO ecosystem where existing gaps might be tackled through a new data set or by applying tools and ideas from existing research fields such as political science, computer science, economics, law, and organizational science. Our recommendations encompass exciting research questions as well as promising business opportunities. We call on the wider research community to join the global effort to invent the next generation of organizations. For more details, see our <a href="https://arxiv.org/pdf/2310.19201.pdf">work</a>. 
+     
+  -
+     name: 'Sui Lutris: A Blockchain Combining Broadcast and Consensus'
+     authors: Sam Blackshear, Andrey Chursin, George Danezis, Anastasios Kichidis, Lefteris Kokoris-Kogias, Xun Li, Mark Logan, Ashok Menon, Todd Nowacki, Alberto Sonnino, Brandon Williams, and Lu Zhang
+     challenges: [*scaling, *correctness, *compliance]
+     description: Sui Lutris is the first smart-contract platform to sustainably achieve sub-second finality. It achieves this significant decrease in latency by employing consensusless agreement not only for simple payments but for a large variety of transactions. Unlike prior work, Sui Lutris neither compromises expressiveness nor throughput and can run perpetually without restarts. Sui Lutris achieves this by safely integrating consensuless agreement with a high-throughput consensus protocol that is invoked out of the critical finality path but makes sure that when a transaction is at risk of inconsistent concurrent accesses its settlement is delayed until the total ordering is resolved. Building such a hybrid architecture is especially delicate during reconfiguration events, where the system needs to preserve the safety of the consensusless path without compromising the long-term liveness of potentially misconfigured clients. We thus develop a novel reconfiguration protocol, the first to show the safe and efficient reconfiguration of a consensusless blockchain. Sui Lutris is currently running in production as part of a major smart-contract platform. Combined with the Move Programming language it enables the safe execution of smart contracts that expose objects as a first-class resource. In our experiments Sui Lutris achieves latency lower than 0.5 seconds for throughput up to 5,000 certificates per second (150k ops/s with bundling), compared to the state-of-the-art real-world consensus latencies of 3 seconds. Furthermore, it gracefully handles validators crash-recovery and does not suffer visible performance degradation during reconfiguration. For more information, see our <a href="https://arxiv.org/abs/2310.18042">paper</a>.
+     
+  -
      name: 'Advances in Blockchain and Crypto Economics'
      authors: Bruno Biais, Agostino Capponi, Lin William Cong, Vishal Gaur, and Kay Giesecke
      challenges: [*scaling, *correctness]
