@@ -793,6 +793,14 @@ fellows:
     weburl: 'https://ist.ac.at/en/research/kokoris-group/'
     bio: "Lefteris is an Assistant Professor at IST Austria, before that he worked on the design of the Diem blockchains as part of Novi Facebook and got his PhD for EPFL. He is interested in increasing the digital trust of online information and processes, especially those that impact the physical world. He focuses on scalability of blockchains, being the first to introduce quorum-based permissionless blockchains (Byzcoin) and permissionless sharding protocols (OmniLedger) as well as structured Mempools (Narwhal). His work is the first to break the 1,000, 10,000 and 100,000 transactions per second barriers. He is also interested in how to produce secure distributed randomness and setup private vaults that enable private data exchange over blockchains. For his work he has been awarded the IBM PhD Fellowship for 2018 and 2019, and the EPFL Thesis Distinction 2020."
 
+  -
+    name: 'Naomi (Ephraim) Sirkin'
+    pic: naomi.jpg
+    title:
+    email: nephraim@cs.cornell.edu
+    weburl:
+    bio: "I am an Assistant Professor of Computer Science at Drexel University. My research interests are in the foundations of cryptography. In particular, I've recently been interested in interactive proof systems, program obfuscation, and cryptographic lower bounds. I received my Ph.D. in Computer Science from Cornell University in 2022, advised by Professor Rafael Pass. Previously, I received my B.S. in Computer Science from Johns Hopkins University. \n"
+
 alumni_faculty:
 
   -
@@ -809,7 +817,7 @@ alumni_faculty:
     title:
     email: stonecoldpat@gmail.com
     weburl: 'http://stonecoldpat.github.io'
-    bio: "Patrick McCorry is the CEO of PISA Research. His research focuses on cryptocurrencies, smart contracts, applied cryptography, and decentralized systems.\n"
+    bio: "Patrick McCorry is the CEO of PISA Research. He was an Assistant Professor at King's College London in Cryptocurrencies and Security Engineering. As well, he was a researcher at University College London, University of Illinois at Urbana-Champaign and Newcastle University. Many moons ago, he also worked at IBM UK on the CICS Portfolio which is used by most banks in the world. His research focuses on cryptocurrencies, smart contracts, applied cryptography, and decentralized systems.\n"
 
 alumni_researchers:
 
@@ -824,7 +832,7 @@ alumni_researchers:
   -
     name: 'Tyler Kell'
     pic: tylerkell.jpg
-    title: 'Research Engineer'
+    title:
     email: sk3259@cornell.edu
     weburl:
     bio: 'Tyler Kell has joined Upshot One where he will be focusing on smart contracts related to NFT analytics and appraisal. In a previous life, Tyler was a penetration tester, and enjoys an extensive history of breaking security assumptions.'
@@ -879,6 +887,14 @@ alumni_postdocs:
     email: sandra.siby@epfl.ch
     weburl:
     bio: "Sandra completed her Ph.D. at EPFL and has joined Imperial College London as a Postdoctoral Research Associate. She is interested in network security, web security, and privacy.\n"
+  
+  -
+    name: 'Cody Freitag'
+    pic: cfreitag.jpg
+    title:
+    email: crf87@cornell.edu
+    weburl: 'http://www.cs.cornell.edu/~cfreitag/'
+    bio: "I just received my PhD in computer science at Cornell University (although technically at the Cornell Tech campus), advised by Rafael Pass. I will soon start as a postdoctoral researcher at Northeastern University with Daniel Wichs and Boston University with Ran Canetti, where I will be fortunately funded by a Khoury College Distinguished Postdoctoral Fellowship. My research primarily focuses on the theoretical foundations of cryptography. In particular, I'm interested in cryptographic proof systems and their applications in the decentralized setting of blockchains. I've also been interested in non-uniform models of security and differential privacy. \n"
   
 alumni_students:
 
@@ -1107,14 +1123,6 @@ alumni_students:
     bio: "Deepak completed his Ph.D. degree at Cornell University working with Ari Juels and has since joined Mysten Labs.\n"
     
   -
-    name: 'Cody Freitag'
-    pic: cfreitag.jpg
-    title:
-    email: crf87@cornell.edu
-    weburl: 'http://www.cs.cornell.edu/~cfreitag/'
-    bio: "I just received my PhD in computer science at Cornell University (although technically at the Cornell Tech campus), advised by Rafael Pass. I will soon start as a postdoctoral researcher at Northeastern University with Daniel Wichs and Boston University with Ran Canetti, where I will be fortunately funded by a Khoury College Distinguished Postdoctoral Fellowship. My research primarily focuses on the theoretical foundations of cryptography. In particular, I'm interested in cryptographic proof systems and their applications in the decentralized setting of blockchains. I've also been interested in non-uniform models of security and differential privacy. \n"
-  
-  -
     name: 'Tom Yurek'
     pic: tyurek.jpg
     title:
@@ -1153,14 +1161,6 @@ alumni_students:
     email: bm596@cornell.edu
     weburl: 'https://economics.cornell.edu/bineet-mishra'
     bio: "Bineet completed his Ph.D. in Economics at Cornell University. His main research interests are at the intersection of macroeconomics and finance. His current research agenda aims to understand the implications of new financial technologies, such as introduction of Central Bank Digital Currency (CBDC), for monetary policy and financial stability. Additionally, he works on international capital flows, with special focus on the safe assets, to understand the effects of financial linkages and spillovers among the countries."
-
-  -
-    name: 'Naomi (Ephraim) Sirkin'
-    pic: naomi.jpg
-    title:
-    email: nephraim@cs.cornell.edu
-    weburl:
-    bio: "I am an assistant professor of computer science at Drexel University. My research interests are in the foundations of cryptography. In particular, I've recently been interested in interactive proof systems, program obfuscation, and cryptographic lower bounds. I received my Ph.D. in Computer Science from Cornell University in 2022, advised by Professor Rafael Pass. Previously, I received my B.S. in Computer Science from Johns Hopkins University. \n"
 
   -
     name: 'Gengmo Qi'
