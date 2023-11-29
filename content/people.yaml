@@ -730,14 +730,6 @@ fellows:
     bio: "Ahmed Kosba is an assistant professor at the Computer and Systems Engineering Department at the Faculty of Engineering at Alexandria University. His reseach interests are in the areas of applied cryptography and security, with a focus on verifiable computation, zero-knowledge proofs and blockchains.\n"
   
   -
-    name: 'Isaac Sheff'
-    pic: isaac.jpg
-    title:
-    email: isaac@heliax.dev
-    weburl: 'https://isaacsheff.com'
-    bio: "Isaac Sheff is a Computer Science Post-Doc at MPI-SWS. His research is primarily in distributed systems, with emphasis on security and heterogeneous trust.\n"
-  
-  -
     name: 'Ekaterina Volkova'
     pic: ekaterina.jpg
     title:
@@ -776,14 +768,6 @@ fellows:
     email:
     weburl: 'https://ethan.umiacs.io/'
     bio: "Ethan Cecchetti is a Post-Doc Associate in the Maryland Cybersecurity Center at the University of Maryland. He will be joining the University of Wisconsin - Madison as an Assistant Professor of Computer Sciences starting Fall 2023. He is interested in a wide range of research related to security and cryptography.\n"
-  
-  -
-    name: 'Sandra Siby'
-    pic: ssiby.jpg
-    title:
-    email: sandra.siby@epfl.ch
-    weburl:
-    bio: "Sandra completed her Ph.D. at EPFL and has joined Imperial College London as a Postdoctoral Research Associate. She is interested in network security, web security, and privacy.\n"
   
   -
     name: 'Philipp Jovanovic'
@@ -879,7 +863,23 @@ alumni_postdocs:
     email: kirill@cornell.edu
     weburl: 'https://nikirill.com/'
     bio: "Kirill Nikitin is a Post-Doc researcher at Cornell Tech working with Prof. Vitaly Shmatikov. Previously, he completed his Ph.D. in Computer Science at École Polytechnique Fédérale de Lausanne (EPFL). His research interests revolve around the topics in system security, network security, and distributed systems. His current focus is on building secure and privacy-preserving decentralized systems.\n"
+  
+  -
+    name: 'Isaac Sheff'
+    pic: isaac.jpg
+    title:
+    email: isaac@heliax.dev
+    weburl: 'https://isaacsheff.com'
+    bio: "Isaac Sheff is a Computer Science Post-Doc at MPI-SWS. His research is primarily in distributed systems, with emphasis on security and heterogeneous trust.\n"
 
+  -
+    name: 'Sandra Siby'
+    pic: ssiby.jpg
+    title:
+    email: sandra.siby@epfl.ch
+    weburl:
+    bio: "Sandra completed her Ph.D. at EPFL and has joined Imperial College London as a Postdoctoral Research Associate. She is interested in network security, web security, and privacy.\n"
+  
 alumni_students:
 
   -
