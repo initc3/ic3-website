@@ -754,14 +754,6 @@ fellows:
     bio: "Fan Zhang is an Assistant Professor in Computer Science at Yale University. He is also a security researcher at Chainlink Labs. His research primarily focuses on security/privacy/scalability problems in decentralized systems, especially those enabled by blockchain protocols and trusted execution environments (TEEs).\n"
   
   -
-    name: 'Kai Mast'
-    pic: kai.png
-    title:
-    email: kaimast@cs.wisc.edu
-    weburl: 'http://kai-mast.de/'
-    bio: "Kai Mast is postdoctoral scholar in Computer Science at the University of Wisconsin in Madison. His research focuses on Byzantine fault-tolerant systems and databases.\n"
-  
-  -
     name: 'Charles Chao Kang'
     pic: kang.jpg
     title:
@@ -871,7 +863,23 @@ alumni_postdocs:
     email: jgancher@andrew.cmu.edu
     weburl: 'https://gancher.dev/'
     bio: "Joshua Gancher is a post-doc at Carnegie Mellon University. His research is about using techniques from formal methods and program verification to certify cryptographic implementations and proofs.\n"
-  
+   
+  -
+    name: 'Kai Mast'
+    pic: kai.png
+    title:
+    email: kaimast@cs.wisc.edu
+    weburl: 'http://kai-mast.de/'
+    bio: "Kai Mast is postdoctoral scholar in Computer Science at the University of Wisconsin in Madison. His research focuses on Byzantine fault-tolerant systems and databases.\n"
+ 
+  -
+    name: 'Kirill Nikitin'
+    pic: knikitin.jpg
+    title:
+    email: kirill@cornell.edu
+    weburl: 'https://nikirill.com/'
+    bio: "Kirill Nikitin is a Post-Doc researcher at Cornell Tech working with Prof. Vitaly Shmatikov. Previously, he completed his Ph.D. in Computer Science at École Polytechnique Fédérale de Lausanne (EPFL). His research interests revolve around the topics in system security, network security, and distributed systems. His current focus is on building secure and privacy-preserving decentralized systems.\n"
+
 alumni_students:
 
   -
@@ -968,7 +976,7 @@ alumni_students:
     title:
     email: odednaor@gmail.com
     weburl: 
-    bio: "Oded is a PhD candidate at the Technion. His research interests include blockchains, security, and distributed systems in general.\n"
+    bio: "Oded obtained his Masters under the supervision of prof. Ittay Eyal and is a PhD candidate at the Technion. His research interests include blockchains, security, and distributed systems in general.\n"
 
   -
     name: 'Lorenz Breidenbach'
@@ -1066,14 +1074,6 @@ alumni_students:
     weburl: 'https://www.cs.cornell.edu/~tedyin/'
     bio: "Ted completed his Ph.D. at Cornell University, co-advised by Prof. Emin Gun Sirer and Prof. Robbert van Renesse. He's previously worked closely with Dr. Dahlia Malkhi. His research focuses on fundamental problems of fault-tolerance, consensus protocols, and peer-to-peer systems. He's currently tackling challenges in blockchains, from a system perspective."
   
-  -
-    name: 'Kirill Nikitin'
-    pic: knikitin.jpg
-    title:
-    email: kirill@cornell.edu
-    weburl: 'https://nikirill.com/'
-    bio: "Kirill Nikitin is a Post-Doc researcher at Cornell Tech working with Prof. Vitaly Shmatikov. Previously, he completed his Ph.D. in Computer Science at École Polytechnique Fédérale de Lausanne (EPFL). His research interests revolve around the topics in system security, network security, and distributed systems. His current focus is on building secure and privacy-preserving decentralized systems.\n"
-
   - 
     name: 'George Kappos'
     pic: kappos.jpg
