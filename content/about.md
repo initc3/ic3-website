@@ -52,8 +52,7 @@ Expected outcomes of our work include new cryptocurrency and smart contract solu
 
 IC3 distributes funds internally primarily according to a competitive grant process, conducted twice yearly. 
     We have committed to the following priorities: fostering collaboration between IC3 researchers and partners, 
-    technology transfer for IC3 research, career support for junior faculty, promoting participation of women and 
-    minorities in the blockchain technology area, and encouraging interdisciplinary and cross-campus collaboration 
+    technology transfer for IC3 research, career support for junior faculty, promoting participation of scientists and practitioners with a diverse range of backgrounds in the blockchain technology area, and encouraging interdisciplinary and cross-campus collaboration 
     among IC3 faculty. IC3 Co-Directors meet monthly.
     
 IC3 has created for program chairs and other interested colleagues the following statement on conflicts of interest for 
