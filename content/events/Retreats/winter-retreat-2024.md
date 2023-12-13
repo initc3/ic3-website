@@ -49,6 +49,8 @@ For participants who require visas to enter Switzerland, we urge you to initiate
                     4. Valeriy Zamaraiev (1kx) - Accounting and Settlement in Distributed Systems <br>
                     5. Patrick O'Grady (Ava Labs) - Coaxium: Utilizing Filtered Pre-Consensus Commitments, Temporal Account Partitioning, and Account Fraud Proofs to Provide Consensus-Agnostic* Blockchain Scaling</td> </tr>
 <tr> <td>11:10 - 12:00</td> <td><em>Birds of a Feather Session</em> </td> </tr>
+<tr> <td> </td> <td>Moderator: TBD <br>
+                    Participants: TBD</td> </tr>
 <tr> <td>12:00 - 13:30</td> <td><em>Lunch</em> </td> </tr>
 <tr> <td>13:30 - 14:30</td> <td><em>Session 3: Governance</em> - Session Chair: TBD</td> </tr>
 <tr> <td> </td> <td>1. Christian Cachin (Univ. of Bern) - Flexible and asymmetric distributed trust <br>
