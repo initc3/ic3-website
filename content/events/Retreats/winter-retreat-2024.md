@@ -39,7 +39,7 @@ For participants who require visas to enter Switzerland, we urge you to initiate
 <tr> <td> </td> <td>1. Shailesh Mishra (EPFL) - Social Key Recovery <br>
                     2. Gregory Neven (Chainlink Labs) - vetKeys: How a Blockchain Can Keep Many Secrets <br>
                     3. Marwa Mouallem (Technion) - Asynchronous Authentication <br>
-                    4. Mariarosaria Barbaraci (Univ. of Bern) - Threshold Cryptography and Blockchain: a Perfect Match <br>
+                    4. Mariarosaria Barbaraci (Univ. of Bern) - Threshold Cryptography and Blockchain: A Perfect Match <br>
                     5. Andrew Miller (UIUC) - SUAVE Sirrah: Speedrunning a TEE coprocessor</td> </tr> 
 <tr> <td>10:00 - 10:20</td> <td><em>Break</em> - 20 minutes</td> </tr>
 <tr> <td>10:20 - 11:10</td> <td><em>Session 2: Cryptography Pt 2 and Distributed Systems</em> - Session Chair: TBD</td> </tr>
