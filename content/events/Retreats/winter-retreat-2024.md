@@ -27,6 +27,8 @@ For participants who require visas to enter Switzerland, we urge you to initiate
 
 ## Event Agenda##
 
+Information listed below is subject to change. 
+
 <table class="ui celled unstackable table">
 <tbody>
 <tr> <td><strong>Monday</strong> </td> <td> </td> </tr> 
@@ -81,17 +83,18 @@ For participants who require visas to enter Switzerland, we urge you to initiate
 		    5. Benjamin Chan (Cornell Tech) - Simplex Consensus, A Simple and Fast Consensus Protocol <br>
                     6. Pasindu Tennage (EPFL) - QuePaxa: Escaping the tyranny of timeout problem in consensus</td> </tr>
 <tr> <td>15:00 - 15:30</td> <td><em>Break</em> - 30 minutes</td> </tr>
-<tr> <td>15:30 - 16:20</td> <td><em>Session 6: MEV</em> - Session Chair: TBD</td> </tr>
+<tr> <td>15:30 - 16:30</td> <td><em>Session 6: MEV</em> - Session Chair: TBD</td> </tr>
 <tr> <td> </td> <td>1. Hongyin Chen (PKU & Technion) - Overcoming the Smart Contact Processing Bottleneck with Mechanism Design <br>
                     2. Akaki Mamageishvili (Offchain Labs) - Buying Time: Latency Racing vs. Bidding for Transaction Ordering <br>
                     3. Lioba Heimbach (ETH Zurich) - The Potential of Self-Regulation for Front-Running Prevention on DEXes <br>
                     4. Lucianna Kiffer (ETH Zurich) - Measuring the initial adoption of PBS <br>
-                    5. Benjamin Chan (Cornell Tech) - The Costs of Swapping on the Uniswap Protocol</td> </tr>
-<tr> <td>16:20 - 16:45</td> <td><em>Break</em> - 25 minutes</td> </tr>
-<tr> <td>16:45 - 17:30</td> <td><em>Panel: Next Steps for the Industry-Academic Blockchain Research Interface</em> </td> </tr>
+	            5. Benjamin Chan (Cornell Tech) - The Costs of Swapping on the Uniswap Protocol <br>
+                    6. Julian Ma (Ethereum Foundation) - An Economic Framework to Evaluate AMM Designs</td> </tr>
+<tr> <td>16:30 - 16:55</td> <td><em>Break</em> - 25 minutes</td> </tr>
+<tr> <td>16:55 - 17:40</td> <td><em>Panel: Next Steps for the Industry-Academic Blockchain Research Interface</em> </td> </tr>
 <tr> <td> </td> <td>Moderator: TBD <br>
                     Panelists: TBD</td> </tr>
-<tr> <td>17:30 - 17:45</td> <td><em>Closing Remarks</em> - Jim Ballingall</td> </tr>
+<tr> <td>17:40 - 17:55</td> <td><em>Closing Remarks</em> - Jim Ballingall</td> </tr>
 <tr> <td>19:00 - onwards</td> <td><em>Chalet Dinner!</em> </td> </tr>
 <tr> <td><strong>Thursday</strong> </td> <td> </td> </tr>
 <tr> <td>08:00 - 08:45</td> <td><em>Breakfast</em> </td> </tr>
