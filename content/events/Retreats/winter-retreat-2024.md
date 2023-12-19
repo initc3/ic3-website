@@ -35,7 +35,7 @@ Information listed below is subject to change.
 <tr> <td>15:00 - 18:00</td> <td><em>Arrival and Check-In</em> </td> </tr>
 <tr> <td>18:00 - onwards</td> <td><em>Welcome Reception and Dinner</em> </td> </tr>
 <tr> <td><strong>Tuesday</strong> </td> <td> </td> </tr>
-<tr> <td>08:00 - 08:45</td> <td><em>Breakfast</em> </td> </tr>
+<tr> <td>08:00 - 08:45</td> <td><em>Breakfast and Event Check-in</em> </td> </tr>
 <tr> <td>08:45 - 09:00</td> <td><em>Welcome</em> - Jim Ballingall</td> </tr>
 <tr> <td>09:00 - 10:00</td> <td><em>Session 1: Cryptography</em> - Session Chair: TBD</td> </tr>
 <tr> <td> </td> <td>1. Shailesh Mishra (EPFL) - Social Key Recovery <br>
@@ -49,7 +49,8 @@ Information listed below is subject to change.
                     2. Amit Agarwal (UIUC) - Blackbox verifiable outsourcing <br>
                     3. Nerla Jean-Louis (UIUC) - TBD <br>
                     4. Valeriy Zamaraiev (1kx) - Accounting and Settlement in Distributed Systems <br>
-                    5. Patrick O'Grady (Ava Labs) - Coaxium: Utilizing Filtered Pre-Consensus Commitments, Temporal Account Partitioning, and Account Fraud Proofs to Provide Consensus-Agnostic* Blockchain Scaling</td> </tr>
+	            5. Patrick O'Grady (Ava Labs) - Coaxium: Utilizing Filtered Pre-Consensus Commitments, Temporal Account Partitioning, and Account Fraud Proofs to Provide Consensus-Agnostic* Blockchain Scaling <br>  
+                    6. Hongbo Zhang (Cornell University) - TBD</td> </tr>
 <tr> <td>11:10 - 12:00</td> <td><em>Birds of a Feather Session</em> </td> </tr>
 <tr> <td> </td> <td>Moderator: TBD <br>
                     Participants: TBD</td> </tr>
