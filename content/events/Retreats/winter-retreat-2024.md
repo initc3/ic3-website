@@ -12,10 +12,6 @@ summary: We are thrilled to announce that the IC3 2024 Winter Retreat will once 
 
 Join us for the IC3 2024 Winter Retreat which will return once more to <a href="https://www.eurotel-victoria.ch/en">Eurotel Victoria</a> in Les Diablerets, Switzerland! Our technical committee of Surya Bakshi, Lorenz Breidenbach, Patrick McCorry, and Haaroon Yousaf is preparing another immersive blockchain learning experience. 
 
-<h2 style="text-align: center;"> <a href="https://docs.google.com/forms/d/e/1FAIpQLSdVjC4tavFO15DNs4JN7kdDZDtPDqtlJFr9372d0rKJjmSgFg/viewform?usp=sharing">REGISTER HERE!</a> </h2>
-
-We strongly encourage all members and partners to register ASAP due to limited capacity. Early registrations are also crucial for us to finalize logistics and ensure a seamless experience for all attendees.
-
 
 ## Important Note for Visa Applicants ##
 For participants who require visas to enter Switzerland, we urge you to initiate the visa application process immediately. Securing a visa for first-time visitors involves several steps, including scheduling an appointment at the Swiss consulate or embassy. Starting early ensures you have sufficient time to complete all necessary procedures. Should you require an invitation letter for your visa application, please contact Oana Gherman at <a href="mailto:og64@cornell.edu">og64@cornell.edu</a>.
@@ -65,12 +61,13 @@ Information listed below is subject to change.
 <tr> <td>15:00 - 15:45</td> <td><em>Panel: Research-Based Blockchain Governance Systems for the Future</em> </td> </tr>
 <tr> <td> </td> <td>Moderator: TBD <br>
                     Panelists: TBD</td> </tr>
-<tr> <td>15:45 - 16:30</td> <td><em>Session 4: Blockchains and Machine Learning</em> - Session Chair: TBD</td> </tr>
+<tr> <td>15:45 - 16:35</td> <td><em>Session 4: New Areas for Blockchain Research</em> - Session Chair: TBD</td> </tr>
 <tr> <td> </td> <td>1. Xiaoyuan Liu (UC Berkeley) - Decentralized LLM serving <br>
                     2. Roi Bar Zur (Technion) - Deep Bribe: Predicting the Rise of Bribery in Blockchain Mining with Deep RL <br>
                     3. Arthus Gervais (UCL) - (Pre)training and applying LLMs to Blockchain Transactions <br>
-                    4. Vero Estrada (EPFL) - A decent framework proposal for society-computer interactions</td> </tr>
-<tr> <td>16:30 - 19:00</td> <td><em>Networking/Sightseeing</em> </td> </tr>
+	            4. Vero Estrada (EPFL) - A decent framework proposal for society-computer interactions
+                    5. Ben Livshits (ZKSync/Imperial College London) - Open Problems in Rollup Design</td> </tr>
+<tr> <td>16:35 - 19:00</td> <td><em>Networking/Sightseeing</em> </td> </tr>
 <tr> <td>19:00 - onwards</td> <td><em>Dinner</em> </td> </tr>
 <tr> <td><strong>Wednesday</strong> </td> <td> </td> </tr>
 <tr> <td>08:00 - 08:45</td> <td><em>Breakfast</em> </td> </tr>  
