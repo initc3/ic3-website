@@ -65,8 +65,8 @@ Information listed below is subject to change.
 <tr> <td> </td> <td>1. Xiaoyuan Liu (UC Berkeley) - Decentralized LLM serving <br>
                     2. Roi Bar Zur (Technion) - Deep Bribe: Predicting the Rise of Bribery in Blockchain Mining with Deep RL <br>
                     3. Arthus Gervais (UCL) - (Pre)training and applying LLMs to Blockchain Transactions <br>
-	            4. Vero Estrada (EPFL) - A decent framework proposal for society-computer interactions
-                    5. Ben Livshits (ZKSync/Imperial College London) - Open Problems in Rollup Design</td> </tr>
+	            4. Vero Estrada (EPFL) - A decent framework proposal for society-computer interactions <br>
+                    5. Ben Livshits (Matter Labs/Imperial College London) - Open Problems in Rollup Design</td> </tr>
 <tr> <td>16:35 - 19:00</td> <td><em>Networking/Sightseeing</em> </td> </tr>
 <tr> <td>19:00 - onwards</td> <td><em>Dinner</em> </td> </tr>
 <tr> <td><strong>Wednesday</strong> </td> <td> </td> </tr>
