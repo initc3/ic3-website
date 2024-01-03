@@ -37,11 +37,11 @@ Information listed below is subject to change.
 <tr> <td> </td> <td>1. Shailesh Mishra (EPFL) - Social Key Recovery <br>
                     2. Gregory Neven (Chainlink Labs) - vetKeys: How a Blockchain Can Keep Many Secrets <br>
                     3. Marwa Mouallem (Technion) - Asynchronous Authentication <br>
-                    4. Mariarosaria Barbaraci (Univ. of Bern) - Threshold Cryptography and Blockchain: A Perfect Match <br>
+                    4. Mariarosaria Barbaraci (University of Bern) - Threshold Cryptography and Blockchain: A Perfect Match <br>
                     5. Andrew Miller (UIUC) - SUAVE Sirrah: Speedrunning a TEE coprocessor</td> </tr> 
 <tr> <td>10:00 - 10:20</td> <td><em>Break</em> - 20 minutes</td> </tr>
 <tr> <td>10:20 - 11:10</td> <td><em>Session 2: Cryptography Pt 2 and Distributed Systems</em> - Session Chair: TBD</td> </tr>
-<tr> <td> </td> <td>1. Antonio Sanso (Ethereum Foundation) - BLS over BLS at Ethereum <br>
+<tr> <td> </td> <td>1. Antonio Sanso (Ethereum Foundation) - Random Beacons and the future of VDF at Ethereum <br>
                     2. Amit Agarwal (UIUC) - Blackbox verifiable outsourcing <br>
                     3. Nerla Jean-Louis (UIUC) - TBD <br>
                     4. Valeriy Zamaraiev (1kx) - Accounting and Settlement in Distributed Systems <br>
@@ -52,7 +52,7 @@ Information listed below is subject to change.
                     Participants: TBD</td> </tr>
 <tr> <td>12:00 - 13:30</td> <td><em>Lunch</em> </td> </tr>
 <tr> <td>13:30 - 14:30</td> <td><em>Session 3: Governance</em> - Session Chair: TBD</td> </tr>
-<tr> <td> </td> <td>1. Christian Cachin (Univ. of Bern) - Flexible and asymmetric distributed trust <br>
+<tr> <td> </td> <td>1. Christian Cachin (University of Bern) - Flexible and asymmetric distributed trust <br>
                     2. Jonas Seiferth (Optimism Foundation) - TBD <br>
                     3. James Austgen (Cornell Tech) and Sarah Allen (IC3) - DAO Decentralization: Voting-Bloc Entropy, Bribery, and Dark DAOs <br>
                     4. Johnnatan Messias (Matter Labs) - Airdrops: Giving Money Away Is Harder Than It Seems <br>
@@ -74,7 +74,7 @@ Information listed below is subject to change.
 <tr> <td>08:45 - 13:00</td> <td><em>Local Activities</em> </td> </tr> 
 <tr> <td>13:00 - 14:00</td> <td><em>Lunch</em> </td> </tr> 
 <tr> <td>14:00 - 15:00</td> <td><em>Session 5: Consensus </em> - Session Chair: TBD</td> </tr>
-<tr> <td> </td> <td>1. Philipp Schneider (Univ. of Bern) - Analysis of Snow consensus protocols <br>
+<tr> <td> </td> <td>1. Philipp Schneider (University of Bern) - Analysis of Snow consensus protocols <br>
                     2. Stephen Buttolph (Ava Labs) - Generalizing Snow* Consensus Finalization <br>
                     3. Ignacio Amores Sesar (Univ. of Bern) - Scalability of consensus protocols <br>
                     4. Kushal Babel (Cornell Tech) - Mysticeti: Low-Latency DAG Consensus with Fast Commit Path <br>
