@@ -59,8 +59,8 @@ Information listed below is subject to change.
                     5. Martin Eckardt (Ava Labs) - Learnings from Building Avalanche Academy</td> </tr>
 <tr> <td>14:30 - 15:00</td> <td><em>Break</em> - 30 minutes</td> </tr>
 <tr> <td>15:00 - 15:45</td> <td><em>Panel: Research-Based Blockchain Governance Systems for the Future</em> </td> </tr>
-<tr> <td> </td> <td>Moderator: TBD <br>
-                    Panelists: TBD</td> </tr>
+<tr> <td> </td> <td>Moderator: Sarah Allen <br>
+                    Panelists: Lioba Hiembach, Justine Humenansky and James Austgen </td> </tr>
 <tr> <td>15:45 - 16:35</td> <td><em>Session 4: New Areas for Blockchain Research</em> - Session Chair: TBD</td> </tr>
 <tr> <td> </td> <td>1. Xiaoyuan Liu (UC Berkeley) - Decentralized LLM serving <br>
                     2. Roi Bar Zur (Technion) - Deep Bribe: Predicting the Rise of Bribery in Blockchain Mining with Deep RL <br>
@@ -89,9 +89,8 @@ Information listed below is subject to change.
 	            5. Benjamin Chan (Cornell Tech) - The Costs of Swapping on the Uniswap Protocol <br>
                     6. Julian Ma (Ethereum Foundation) - An Economic Framework to Evaluate AMM Designs</td> </tr>
 <tr> <td>16:30 - 16:55</td> <td><em>Break</em> - 25 minutes</td> </tr>
-<tr> <td>16:55 - 17:40</td> <td><em>Panel: Next Steps for the Industry-Academic Blockchain Research Interface</em> </td> </tr>
-<tr> <td> </td> <td>Moderator: TBD <br>
-                    Panelists: TBD</td> </tr>
+<tr> <td>16:55 - 17:40</td> <td><em>Town Hall Session: Next Steps for the Industry-Academic Blockchain Research Interface</em> </td> </tr>
+<tr> <td> </td> <td>Moderator: Andrew Miller </td> </tr>
 <tr> <td>17:40 - 17:55</td> <td><em>Closing Remarks</em> - Jim Ballingall</td> </tr>
 <tr> <td>19:00 - onwards</td> <td><em>Chalet Dinner!</em> </td> </tr>
 <tr> <td><strong>Thursday</strong> </td> <td> </td> </tr>
