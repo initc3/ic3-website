@@ -43,7 +43,7 @@ Information listed below is subject to change.
 <tr> <td>10:20 - 11:10</td> <td><em>Session 2: Cryptography Pt 2 and Distributed Systems</em> - Session Chair: TBD</td> </tr>
 <tr> <td> </td> <td>1. Antonio Sanso (Ethereum Foundation) - Random Beacons and the future of VDF at Ethereum <br>
                     2. Amit Agarwal (UIUC) - Blackbox verifiable outsourcing <br>
-                    3. Nerla Jean-Louis (UIUC) - TBD <br>
+                    3. Nerla Jean-Louis (UIUC) - TEE Rollups: Fixing Access Patterns in TEE-based Smart Contracts with Off-chain Computing <br>
                     4. Valeriy Zamaraiev (1kx) - Accounting and Settlement in Distributed Systems <br>
 	            5. Patrick O'Grady (Ava Labs) - Coaxium: Utilizing Filtered Pre-Consensus Commitments, Temporal Account Partitioning, and Account Fraud Proofs to Provide Consensus-Agnostic* Blockchain Scaling <br>  
                     6. Hongbo Zhang (Cornell University) - TBD</td> </tr>
