@@ -13,9 +13,6 @@ summary: We are thrilled to announce that the IC3 2024 Winter Retreat will once 
 Join us for the IC3 2024 Winter Retreat which will return once more to <a href="https://www.eurotel-victoria.ch/en">Eurotel Victoria</a> in Les Diablerets, Switzerland! Our technical committee of Surya Bakshi, Lorenz Breidenbach, Patrick McCorry, and Haaroon Yousaf is preparing another immersive blockchain learning experience. 
 
 
-## Important Note for Visa Applicants ##
-For participants who require visas to enter Switzerland, we urge you to initiate the visa application process immediately. Securing a visa for first-time visitors involves several steps, including scheduling an appointment at the Swiss consulate or embassy. Starting early ensures you have sufficient time to complete all necessary procedures. Should you require an invitation letter for your visa application, please contact Oana Gherman at <a href="mailto:og64@cornell.edu">og64@cornell.edu</a>.
-
 ## What to Expect ##
 • <strong>Engaging Discussions:</strong> Dive into insightful discussions on the latest advancements and trends in blockchain. <br>
 • <strong>Social Opportunities:</strong> Connect with fellow researchers, industry experts, and IC3 partners, fostering collaborations and friendships through networking and group activities. <br>
@@ -53,7 +50,7 @@ Information listed below is subject to change.
 <tr> <td>12:00 - 13:30</td> <td><em>Lunch</em> </td> </tr>
 <tr> <td>13:30 - 14:30</td> <td><em>Session 3: Governance</em> - Session Chair: TBD</td> </tr>
 <tr> <td> </td> <td>1. Christian Cachin (University of Bern) - Flexible and asymmetric distributed trust <br>
-                    2. Jonas Seiferth (Optimism Foundation) - TBD <br>
+                    2. Justine Humenansky (Optimism Foundation) - TBD <br>
                     3. James Austgen (Cornell Tech) and Sarah Allen (IC3) - DAO Decentralization: Voting-Bloc Entropy, Bribery, and Dark DAOs <br>
                     4. Johnnatan Messias (Matter Labs) - Airdrops: Giving Money Away Is Harder Than It Seems <br>
                     5. Martin Eckardt (Ava Labs) - Learnings from Building Avalanche Academy</td> </tr>
