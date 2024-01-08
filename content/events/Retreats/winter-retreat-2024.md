@@ -50,7 +50,7 @@ Information listed below is subject to change.
 <tr> <td>12:00 - 13:30</td> <td><em>Lunch</em> </td> </tr>
 <tr> <td>13:30 - 14:30</td> <td><em>Session 3: Governance</em> - Session Chair: TBD</td> </tr>
 <tr> <td> </td> <td>1. Christian Cachin (University of Bern) - Flexible and asymmetric distributed trust <br>
-                    2. Justine Humenansky (Optimism Foundation) - TBD <br>
+                    2. Justine Humenansky (Optimism Foundation) - Optimism Governance: An Iterative Experiment in Bi-Cameral Governance Design <br>
                     3. James Austgen (Cornell Tech) and Sarah Allen (IC3) - DAO Decentralization: Voting-Bloc Entropy, Bribery, and Dark DAOs <br>
                     4. Johnnatan Messias (Matter Labs) - Airdrops: Giving Money Away Is Harder Than It Seems <br>
                     5. Martin Eckardt (Ava Labs) - Learnings from Building Avalanche Academy</td> </tr>
@@ -58,13 +58,14 @@ Information listed below is subject to change.
 <tr> <td>15:00 - 15:45</td> <td><em>Panel: Research-Based Blockchain Governance Systems for the Future</em> </td> </tr>
 <tr> <td> </td> <td>Moderator: Sarah Allen <br>
                     Panelists: Lioba Hiembach, Justine Humenansky and James Austgen </td> </tr>
-<tr> <td>15:45 - 16:35</td> <td><em>Session 4: New Areas for Blockchain Research</em> - Session Chair: TBD</td> </tr>
+<tr> <td>15:45 - 16:45</td> <td><em>Session 4: New Areas for Blockchain Research</em> - Session Chair: TBD</td> </tr>
 <tr> <td> </td> <td>1. Xiaoyuan Liu (UC Berkeley) - Decentralized LLM serving <br>
                     2. Roi Bar Zur (Technion) - Deep Bribe: Predicting the Rise of Bribery in Blockchain Mining with Deep RL <br>
                     3. Arthus Gervais (UCL) - (Pre)training and applying LLMs to Blockchain Transactions <br>
 	            4. Vero Estrada (EPFL) - A decent framework proposal for society-computer interactions <br>
-                    5. Ben Livshits (Matter Labs/Imperial College London) - Open Problems in Rollup Design</td> </tr>
-<tr> <td>16:35 - 19:00</td> <td><em>Networking/Sightseeing</em> </td> </tr>
+	            5. Ben Livshits (Matter Labs/Imperial College London) - Open Problems in Rollup Design <br>
+                    6. Krzysztof Gogol (University of Zurich) - Cross-border CBDCs exchange using Layer-2 blockchain</td> </tr>
+<tr> <td>16:45 - 19:00</td> <td><em>Networking/Sightseeing</em> </td> </tr>
 <tr> <td>19:00 - onwards</td> <td><em>Dinner</em> </td> </tr>
 <tr> <td><strong>Wednesday</strong> </td> <td> </td> </tr>
 <tr> <td>08:00 - 08:45</td> <td><em>Breakfast</em> </td> </tr>  
@@ -73,7 +74,7 @@ Information listed below is subject to change.
 <tr> <td>14:00 - 15:00</td> <td><em>Session 5: Consensus </em> - Session Chair: TBD</td> </tr>
 <tr> <td> </td> <td>1. Philipp Schneider (University of Bern) - Analysis of Snow consensus protocols <br>
                     2. Stephen Buttolph (Ava Labs) - Generalizing Snow* Consensus Finalization <br>
-                    3. Ignacio Amores Sesar (Univ. of Bern) - Scalability of consensus protocols <br>
+                    3. Ignacio Amores Sesar (University of Bern) - Scalability of consensus protocols <br>
                     4. Kushal Babel (Cornell Tech) - Mysticeti: Low-Latency DAG Consensus with Fast Commit Path <br>
 		    5. Benjamin Chan (Cornell Tech) - Simplex Consensus, A Simple and Fast Consensus Protocol <br>
                     6. Pasindu Tennage (EPFL) - QuePaxa: Escaping the tyranny of timeout problem in consensus</td> </tr>
