@@ -26,7 +26,7 @@ Information listed below is subject to change.
 <tbody>
 <tr> <td><strong>Monday</strong> </td> <td> </td> </tr> 
 <tr> <td>15:00 - 18:00</td> <td><em>Arrival</em> </td> </tr>
-<tr> <td>18:00 - onwards</td> <td><em>Welcome Reception and Dinner</em> </td> </tr>
+<tr> <td>18:30 - onwards</td> <td><em>Welcome Reception and Dinner</em> </td> </tr>
 <tr> <td><strong>Tuesday</strong> </td> <td> </td> </tr>
 <tr> <td>08:00 - 08:45</td> <td><em>Breakfast and Event Check-in</em> </td> </tr>
 <tr> <td>08:45 - 09:00</td> <td><em>Welcome</em> - Jim Ballingall</td> </tr>
