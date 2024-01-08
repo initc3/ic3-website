@@ -43,7 +43,7 @@ Information listed below is subject to change.
                     3. Nerla Jean-Louis (UIUC) - TEE Rollups: Fixing Access Patterns in TEE-based Smart Contracts with Off-chain Computing <br>
                     4. Valeriy Zamaraiev (1kx) - Accounting and Settlement in Distributed Systems <br>
 	            5. Patrick O'Grady (Ava Labs) - Coaxium: Utilizing Filtered Pre-Consensus Commitments, Temporal Account Partitioning, and Account Fraud Proofs to Provide Consensus-Agnostic* Blockchain Scaling <br>  
-                    6. Hongbo Zhang (Cornell University) - TBD</td> </tr>
+                    6. Hongbo Zhang (Cornell University) - FicusDB: Scalable Blockchain Storage</td> </tr>
 <tr> <td>11:10 - 12:00</td> <td><em>Birds of a Feather Session</em> </td> </tr>
 <tr> <td> </td> <td>Moderator: TBD <br>
                     Participants: TBD</td> </tr>
