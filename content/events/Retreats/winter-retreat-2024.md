@@ -86,9 +86,9 @@ Information listed below is subject to change.
 	            4. Benjamin Chan (Cornell Tech) - The Costs of Swapping on the Uniswap Protocol <br>
                     5. Julian Ma (Ethereum Foundation) - An Economic Framework to Evaluate AMM Designs</td> </tr>
 <tr> <td>16:20 - 16:45</td> <td><em>Break</em> - 25 minutes</td> </tr>
-<tr> <td>16:45 - 17:45</td> <td><em>Town Hall Session: Next Steps for the Industry-Academic Blockchain Research Interface</em> </td> </tr>
+<tr> <td>16:45 - 17:30</td> <td><em>Town Hall Session: Next Steps for the Industry-Academic Blockchain Research Interface</em> </td> </tr>
 <tr> <td> </td> <td>Moderator: Andrew Miller </td> </tr>
-<tr> <td>17:45 - 18:00</td> <td><em>Closing Remarks</em> - Jim Ballingall</td> </tr>
+<tr> <td>17:30 - 17:45</td> <td><em>Closing Remarks</em> - Jim Ballingall</td> </tr>
 <tr> <td>19:00 - onwards</td> <td><em>Chalet Dinner!</em> </td> </tr>
 <tr> <td><strong>Thursday</strong> </td> <td> </td> </tr>
 <tr> <td>08:00 - 08:45</td> <td><em>Breakfast</em> </td> </tr>
