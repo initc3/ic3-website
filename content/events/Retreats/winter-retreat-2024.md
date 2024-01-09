@@ -45,8 +45,7 @@ Information listed below is subject to change.
 	            5. Patrick O'Grady (Ava Labs) - Coaxium: Utilizing Filtered Pre-Consensus Commitments, Temporal Account Partitioning, and Account Fraud Proofs to Provide Consensus-Agnostic* Blockchain Scaling <br>  
                     6. Hongbo Zhang (Cornell University) - FicusDB: Scalable Blockchain Storage</td> </tr>
 <tr> <td>11:10 - 12:00</td> <td><em>Birds of a Feather Session</em> </td> </tr>
-<tr> <td> </td> <td>Moderator: TBD <br>
-                    Topics: TBD</td> </tr>
+<tr> <td> </td> <td>Topics: Cryptography (light blue), Distributed Systems (dark blue), Governance (purple), New Areas of Blockchain Research (green), Consensus (pink), and MEV (yellow)</td> </tr>
 <tr> <td>12:00 - 13:30</td> <td><em>Lunch</em> </td> </tr>
 <tr> <td>13:30 - 14:30</td> <td><em>Session 3: Governance</em> - Session Chair: Surya Bakshi</td> </tr>
 <tr> <td> </td> <td>1. Christian Cachin (University of Bern) - Flexible and asymmetric distributed trust <br>
