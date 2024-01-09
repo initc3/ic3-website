@@ -42,7 +42,7 @@ Information listed below is subject to change.
                     2. Amit Agarwal (UIUC) - Blackbox verifiable outsourcing <br>
                     3. Nerla Jean-Louis (UIUC) - TEE Rollups: Fixing Access Patterns in TEE-based Smart Contracts with Off-chain Computing <br>
                     4. Valeriy Zamaraiev (1kx) - Accounting and Settlement in Distributed Systems <br>
-	            5. Patrick O'Grady (Ava Labs) - Coaxium: Utilizing Filtered Pre-Consensus Commitments, Temporal Account Partitioning, and Account Fraud Proofs to Provide Consensus-Agnostic* Blockchain Scaling <br>  
+	            5. Patrick O'Grady (Ava Labs) - Vryx: Fortifying Decoupled State Machine Replication <br>  
                     6. Hongbo Zhang (Cornell University) - FicusDB: Scalable Blockchain Storage</td> </tr>
 <tr> <td>11:10 - 12:00</td> <td><em>Birds of a Feather Session</em> </td> </tr>
 <tr> <td> </td> <td>Topics: Cryptography (light blue), Distributed Systems (dark blue), Governance (purple), New Areas of Blockchain Research (green), Consensus (pink), and MEV (yellow)</td> </tr>
@@ -78,7 +78,7 @@ Information listed below is subject to change.
 		    5. Benjamin Chan (Cornell Tech) - Simplex Consensus, A Simple and Fast Consensus Protocol <br>
                     6. Pasindu Tennage (EPFL) - QuePaxa: Escaping the tyranny of timeout problem in consensus</td> </tr>
 <tr> <td>15:00 - 15:30</td> <td><em>Break</em> - 30 minutes</td> </tr>
-<tr> <td>15:30 - 16:20</td> <td><em>Session 6: MEV</em> - Session Chair: TBD</td> </tr>
+<tr> <td>15:30 - 16:20</td> <td><em>Session 6: MEV</em> - Session Chair: Lorenz Breidenbach</td> </tr>
 <tr> <td> </td> <td>1. Akaki Mamageishvili (Offchain Labs) - Buying Time: Latency Racing vs. Bidding for Transaction Ordering <br>
                     2. Lioba Heimbach (ETH Zurich) - The Potential of Self-Regulation for Front-Running Prevention on DEXes <br>
                     3. Lucianna Kiffer (ETH Zurich) - Measuring the initial adoption of PBS <br>
