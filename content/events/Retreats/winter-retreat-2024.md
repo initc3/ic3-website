@@ -70,7 +70,7 @@ Information listed below is subject to change.
 <tr> <td>08:00 - 08:45</td> <td><em>Breakfast</em> </td> </tr>  
 <tr> <td>08:45 - 13:00</td> <td><em>Local Activities</em> </td> </tr> 
 <tr> <td>13:00 - 14:00</td> <td><em>Lunch</em> </td> </tr> 
-<tr> <td>14:00 - 15:00</td> <td><em>Session 5: Consensus </em> - Session Chair: TBD</td> </tr>
+<tr> <td>14:00 - 15:00</td> <td><em>Session 5: Consensus </em> - Session Chair: Christian Cachin</td> </tr>
 <tr> <td> </td> <td>1. Philipp Schneider (University of Bern) - Analysis of Snow consensus protocols <br>
                     2. Stephen Buttolph (Ava Labs) - Generalizing Snow* Consensus Finalization <br>
                     3. Ignacio Amores Sesar (University of Bern) - Scalability of consensus protocols <br>
