@@ -30,14 +30,14 @@ Information listed below is subject to change.
 <tr> <td><strong>Tuesday</strong> </td> <td> </td> </tr>
 <tr> <td>08:00 - 08:45</td> <td><em>Breakfast and Event Check-in</em> </td> </tr>
 <tr> <td>08:45 - 09:00</td> <td><em>Welcome</em> - Jim Ballingall</td> </tr>
-<tr> <td>09:00 - 10:00</td> <td><em>Session 1: Cryptography</em> - Session Chair: TBD</td> </tr>
+<tr> <td>09:00 - 10:00</td> <td><em>Session 1: Cryptography</em> - Session Chair: Andrew Miller</td> </tr>
 <tr> <td> </td> <td>1. Shailesh Mishra (EPFL) - Social Key Recovery <br>
                     2. Gregory Neven (Chainlink Labs) - vetKeys: How a Blockchain Can Keep Many Secrets <br>
                     3. Marwa Mouallem (Technion) - Asynchronous Authentication <br>
                     4. Mariarosaria Barbaraci (University of Bern) - Threshold Cryptography and Blockchain: A Perfect Match <br>
                     5. Andrew Miller (UIUC) - SUAVE Sirrah: Speedrunning a TEE coprocessor</td> </tr> 
 <tr> <td>10:00 - 10:20</td> <td><em>Break</em> - 20 minutes</td> </tr>
-<tr> <td>10:20 - 11:10</td> <td><em>Session 2: Cryptography Pt 2 and Distributed Systems</em> - Session Chair: TBD</td> </tr>
+<tr> <td>10:20 - 11:10</td> <td><em>Session 2: Cryptography Pt 2 and Distributed Systems</em> - Session Chair: Lorenz Breidenbach</td> </tr>
 <tr> <td> </td> <td>1. Antonio Sanso (Ethereum Foundation) - Random Beacons and the future of VDF at Ethereum <br>
                     2. Amit Agarwal (UIUC) - Blackbox verifiable outsourcing <br>
                     3. Nerla Jean-Louis (UIUC) - TEE Rollups: Fixing Access Patterns in TEE-based Smart Contracts with Off-chain Computing <br>
@@ -46,9 +46,9 @@ Information listed below is subject to change.
                     6. Hongbo Zhang (Cornell University) - FicusDB: Scalable Blockchain Storage</td> </tr>
 <tr> <td>11:10 - 12:00</td> <td><em>Birds of a Feather Session</em> </td> </tr>
 <tr> <td> </td> <td>Moderator: TBD <br>
-                    Participants: TBD</td> </tr>
+                    Topics: TBD</td> </tr>
 <tr> <td>12:00 - 13:30</td> <td><em>Lunch</em> </td> </tr>
-<tr> <td>13:30 - 14:30</td> <td><em>Session 3: Governance</em> - Session Chair: TBD</td> </tr>
+<tr> <td>13:30 - 14:30</td> <td><em>Session 3: Governance</em> - Session Chair: Surya Bakshi</td> </tr>
 <tr> <td> </td> <td>1. Christian Cachin (University of Bern) - Flexible and asymmetric distributed trust <br>
                     2. Justine Humenansky (Optimism Foundation) - Optimism Governance: An Iterative Experiment in Bi-Cameral Governance Design <br>
                     3. James Austgen (Cornell Tech) and Sarah Allen (IC3) - DAO Decentralization: Voting-Bloc Entropy, Bribery, and Dark DAOs <br>
@@ -58,7 +58,7 @@ Information listed below is subject to change.
 <tr> <td>15:00 - 15:45</td> <td><em>Panel: Research-Based Blockchain Governance Systems for the Future</em> </td> </tr>
 <tr> <td> </td> <td>Moderator: Sarah Allen <br>
                     Panelists: Lioba Hiembach, Justine Humenansky and James Austgen </td> </tr>
-<tr> <td>15:45 - 16:45</td> <td><em>Session 4: New Areas for Blockchain Research</em> - Session Chair: TBD</td> </tr>
+<tr> <td>15:45 - 16:45</td> <td><em>Session 4: New Areas for Blockchain Research</em> - Session Chair: Haaroon Yousaf</td> </tr>
 <tr> <td> </td> <td>1. Xiaoyuan Liu (UC Berkeley) - Decentralized LLM serving <br>
                     2. Roi Bar Zur (Technion) - Deep Bribe: Predicting the Rise of Bribery in Blockchain Mining with Deep RL <br>
                     3. Arthus Gervais (UCL) - (Pre)training and applying LLMs to Blockchain Transactions <br>
@@ -79,17 +79,16 @@ Information listed below is subject to change.
 		    5. Benjamin Chan (Cornell Tech) - Simplex Consensus, A Simple and Fast Consensus Protocol <br>
                     6. Pasindu Tennage (EPFL) - QuePaxa: Escaping the tyranny of timeout problem in consensus</td> </tr>
 <tr> <td>15:00 - 15:30</td> <td><em>Break</em> - 30 minutes</td> </tr>
-<tr> <td>15:30 - 16:30</td> <td><em>Session 6: MEV</em> - Session Chair: TBD</td> </tr>
-<tr> <td> </td> <td>1. Hongyin Chen (PKU & Technion) - Overcoming the Smart Contact Processing Bottleneck with Mechanism Design <br>
-                    2. Akaki Mamageishvili (Offchain Labs) - Buying Time: Latency Racing vs. Bidding for Transaction Ordering <br>
-                    3. Lioba Heimbach (ETH Zurich) - The Potential of Self-Regulation for Front-Running Prevention on DEXes <br>
-                    4. Lucianna Kiffer (ETH Zurich) - Measuring the initial adoption of PBS <br>
-	            5. Benjamin Chan (Cornell Tech) - The Costs of Swapping on the Uniswap Protocol <br>
-                    6. Julian Ma (Ethereum Foundation) - An Economic Framework to Evaluate AMM Designs</td> </tr>
-<tr> <td>16:30 - 16:55</td> <td><em>Break</em> - 25 minutes</td> </tr>
-<tr> <td>16:55 - 17:40</td> <td><em>Town Hall Session: Next Steps for the Industry-Academic Blockchain Research Interface</em> </td> </tr>
+<tr> <td>15:30 - 16:20</td> <td><em>Session 6: MEV</em> - Session Chair: TBD</td> </tr>
+<tr> <td> </td> <td>1. Akaki Mamageishvili (Offchain Labs) - Buying Time: Latency Racing vs. Bidding for Transaction Ordering <br>
+                    2. Lioba Heimbach (ETH Zurich) - The Potential of Self-Regulation for Front-Running Prevention on DEXes <br>
+                    3. Lucianna Kiffer (ETH Zurich) - Measuring the initial adoption of PBS <br>
+	            4. Benjamin Chan (Cornell Tech) - The Costs of Swapping on the Uniswap Protocol <br>
+                    5. Julian Ma (Ethereum Foundation) - An Economic Framework to Evaluate AMM Designs</td> </tr>
+<tr> <td>16:20 - 16:45</td> <td><em>Break</em> - 25 minutes</td> </tr>
+<tr> <td>16:45 - 17:45</td> <td><em>Town Hall Session: Next Steps for the Industry-Academic Blockchain Research Interface</em> </td> </tr>
 <tr> <td> </td> <td>Moderator: Andrew Miller </td> </tr>
-<tr> <td>17:40 - 17:55</td> <td><em>Closing Remarks</em> - Jim Ballingall</td> </tr>
+<tr> <td>17:45 - 18:00</td> <td><em>Closing Remarks</em> - Jim Ballingall</td> </tr>
 <tr> <td>19:00 - onwards</td> <td><em>Chalet Dinner!</em> </td> </tr>
 <tr> <td><strong>Thursday</strong> </td> <td> </td> </tr>
 <tr> <td>08:00 - 08:45</td> <td><em>Breakfast</em> </td> </tr>
