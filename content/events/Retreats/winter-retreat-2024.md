@@ -18,9 +18,7 @@ Join us for the IC3 2024 Winter Retreat which will return once more to <a href="
 • <strong>Social Opportunities:</strong> Connect with fellow researchers, industry experts, and IC3 partners, fostering collaborations and friendships through networking and group activities. <br>
 • <strong>Breathtaking Scenery:</strong> Immerse yourself in the stunning natural beauty of Les Diablerets. </br>
 
-## Event Agenda##
-
-Information listed below is subject to change. 
+## Event Agenda ## 
 
 <table class="ui celled unstackable table">
 <tbody>
