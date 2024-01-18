@@ -11,7 +11,6 @@ We acknowledge RetroPGF2 for support of IC3 from the Optimism Foundation.
 	<img class="ui image sponsor logo" id="fidelity fcat" src="images/partners/FCAT logo.png">
 	<img class="ui image sponsor logo" id="jpm" src="images/partners/jpm.png">
 	<img class="ui image sponsor logo" id="protocollabs" src="images/partners/protocol-labs.png">
-	<img class="ui image sponsor logo" id="cog" src="images/partners/COG.png">
 	<img class="ui image sponsor logo" id="avalabs" src="images/partners/Avalanche.png">
 	<img class="ui image sponsor logo" id="optimism" src="images/partners/Optimism.jpg">
 </div>
