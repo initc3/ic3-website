@@ -129,7 +129,7 @@ The IC3 2024 Winter Retreat was an enriching educational experience, featuring 1
 </tbody>
 </table><br>
 
-Our participants also enjoyed a fun excursion to the Peak Walk by the Tissot Suspension Bridge and a Glacier Walk surrounded by the breathtaking view of the Swiss Alps.
+Our participants also enjoyed a fun excursion to the Glacier 3000 Peak Walk by the Tissot Suspension Bridge and a Glacier Walk surrounded by the breathtaking view of the Swiss Alps.
 
 <div class="ui piled segment">
   <img class="ui centered image" src="../images/events/WinterRetreat2024/Group2.jpg" alt="" />
