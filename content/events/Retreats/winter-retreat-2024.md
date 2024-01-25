@@ -3,22 +3,46 @@ name: 'IC3 Winter Retreat 2024'
 location: Eurotel Victoria - Les Diablerets, Switzerland
 start: 2024-01-08
 end: 2024-01-11
-summary: We are thrilled to announce that the IC3 2024 Winter Retreat will once again take place in the picturesque surroundings of Les Diablerets, Switzerland! After the tremendous success of our previous retreats, we are excited to continue this tradition in the Swiss Alps. See IC3 2023 Winter Retreat <a href="https://www.initc3.org/events/2023-01-15-ic3-winter-retreat-2023">here</a>.
+summary: Thank you to all who joined us for the 2024 IC3 Winter Retreat at the <a href="https://www.eurotel-victoria.ch/en">Eurotel Victoria</a> in Les Diablerets, Switzerland!
 ---
 
+
+A heartfelt thanks to all who joined us for the 2024 IC3 Winter Retreat at the <a href="https://www.eurotel-victoria.ch/en">Eurotel Victoria</a> in Les Diablerets, Switzerland! Our technical committee of Surya Bakshi, Lorenz Breidenbach, Patrick McCorry, and Haaroon Yousaf organized an engaging blockchain experience for all participants. 
+
+
 <div class="ui piled segment">
-  <img class="ui centered image" src="../images/events/WinterRetreat2024/ic3 logo new.png" alt="" />
+  <img class="ui centered image" src="../images/events/WinterRetreat2024/Group1.jpg" alt="" />
+  <div class="ui bottom attached message">
+  <strong> Our group picture from the 2024 IC3 Winter Retreat 
+</strong><br>
+  </div>
 </div>
 
-Join us for the IC3 2024 Winter Retreat which will return once more to <a href="https://www.eurotel-victoria.ch/en">Eurotel Victoria</a> in Les Diablerets, Switzerland! Our technical committee of Surya Bakshi, Lorenz Breidenbach, Patrick McCorry, and Haaroon Yousaf is preparing another immersive blockchain learning experience. 
+# IC3 Industry Partners
 
+<div class="ui center aligned basic segment">
+    <div class="ui small images">
+	<img class="ui image" id="chainlink" src="../images/events/WinterRetreat2024/chainlink.png" />
+	<img class="ui image" id="ethereum" src="../images/events/WinterRetreat2024/ethereum.png" />
+	<img class="ui image" id="fidelity fcat" src="../images/events/WinterRetreat2024/FCAT logo.png" />
+ 	<img class="ui image" id="jpm" src="../images/events/WinterRetreat2024/jpm.png" />
+	<img class="ui image" id="protocollabs" src="../images/events/WinterRetreat2024/protocol-labs.png" />
+        <img class="ui image" id="Avalanche" src="../images/events/WinterRetreat2024/Avalanche.png" /> 
+	<img class="ui image" id="Optimism" src="../images/events/WinterRetreat2024/Optimism.jpg" /> 
+    </div>
+</div>
 
-## What to Expect ##
-• <strong>Engaging Discussions:</strong> Dive into insightful discussions on the latest advancements and trends in blockchain. <br>
-• <strong>Social Opportunities:</strong> Connect with fellow researchers, industry experts, and IC3 partners, fostering collaborations and friendships through networking and group activities. <br>
-• <strong>Breathtaking Scenery:</strong> Immerse yourself in the stunning natural beauty of Les Diablerets. </br>
+The success of the retreat was made possible through the generous sponsorship and participation of our IC3 Industry Partners. We also thank Matter Labs, Reclaim Protocol and 1kx for their financial contributions towards the Retreat.
 
-## Event Agenda  
+<div class="ui center aligned basic segment">
+    <div class="ui small images">
+	<img class="ui image" id="Matter Labs" src="../images/events/WinterRetreat2024/Matter Labs.jpg" />  
+	<img class="ui image" id="Reclaim Protocol" src="../images/events/WinterRetreat2024/Reclaim.png" />
+	<img class="ui image" id="1kx" src="../images/events/WinterRetreat2024/1kx.png" />
+    </div>
+</div>
+
+## Retreat Agenda and Activities  
 
 <table class="ui celled unstackable table">
 <tbody>
@@ -67,25 +91,24 @@ Join us for the IC3 2024 Winter Retreat which will return once more to <a href="
 <tr> <td><strong>Wednesday</strong> </td> <td> </td> </tr>
 <tr> <td>08:00 - 08:45</td> <td><em>Breakfast</em> </td> </tr>  
 <tr> <td>08:45 - 13:00</td> <td><em>Local Activities</em> </td> </tr> 
-<tr> <td>13:00 - 14:00</td> <td><em>Lunch</em> </td> </tr> 
-<tr> <td>14:00 - 15:00</td> <td><em>Session 5: Consensus </em> - Session Chair: Christian Cachin</td> </tr>
+<tr> <td>13:00 - 14:30</td> <td><em>Lunch</em> </td> </tr> 
+<tr> <td>14:30 - 15:30</td> <td><em>Session 5: Consensus </em> - Session Chair: Christian Cachin</td> </tr>
 <tr> <td> </td> <td>1. Philipp Schneider (University of Bern) - Analysis of Snow consensus protocols <br>
                     2. Stephen Buttolph (Ava Labs) - Generalizing Snow* Consensus Finalization <br>
                     3. Ignacio Amores Sesar (University of Bern) - Scalability of consensus protocols <br>
                     4. Kushal Babel (Cornell Tech) - Mysticeti: Low-Latency DAG Consensus with Fast Commit Path <br>
 		    5. Benjamin Chan (Cornell Tech) - Simplex Consensus, A Simple and Fast Consensus Protocol <br>
                     6. Pasindu Tennage (EPFL) - QuePaxa: Escaping the tyranny of timeout problem in consensus</td> </tr>
-<tr> <td>15:00 - 15:30</td> <td><em>Break</em> - 30 minutes</td> </tr>
-<tr> <td>15:30 - 16:20</td> <td><em>Session 6: MEV</em> - Session Chair: Lorenz Breidenbach</td> </tr>
+<tr> <td>15:30 - 16:00</td> <td><em>Break</em> - 30 minutes</td> </tr>
+<tr> <td>16:00 - 16:50</td> <td><em>Session 6: MEV</em> - Session Chair: Lorenz Breidenbach</td> </tr>
 <tr> <td> </td> <td>1. Akaki Mamageishvili (Offchain Labs) - Buying Time: Latency Racing vs. Bidding for Transaction Ordering <br>
                     2. Lioba Heimbach (ETH Zurich) - The Potential of Self-Regulation for Front-Running Prevention on DEXes <br>
                     3. Lucianna Kiffer (ETH Zurich) - Measuring the initial adoption of PBS <br>
 	            4. Benjamin Chan (Cornell Tech) - The Costs of Swapping on the Uniswap Protocol <br>
                     5. Julian Ma (Ethereum Foundation) - An Economic Framework to Evaluate AMM Designs</td> </tr>
-<tr> <td>16:20 - 16:45</td> <td><em>Break</em> - 25 minutes</td> </tr>
-<tr> <td>16:45 - 17:30</td> <td><em>Town Hall Session: Next Steps for the Industry-Academic Blockchain Research Interface</em> </td> </tr>
+<tr> <td>16:50 - 17:35</td> <td><em>Town Hall Session: Next Steps for the Industry-Academic Blockchain Research Interface</em> </td> </tr>
 <tr> <td> </td> <td>Moderator: Andrew Miller </td> </tr>
-<tr> <td>17:30 - 17:45</td> <td><em>Closing Remarks</em> - Jim Ballingall</td> </tr>
+<tr> <td>17:35 - 17:50</td> <td><em>Closing Remarks</em> - Jim Ballingall</td> </tr>
 <tr> <td>19:00 - onwards</td> <td><em>Chalet Dinner!</em> </td> </tr>
 <tr> <td><strong>Thursday</strong> </td> <td> </td> </tr>
 <tr> <td>08:00 - 08:45</td> <td><em>Breakfast</em> </td> </tr>
@@ -109,10 +132,11 @@ Join us for the IC3 2024 Winter Retreat which will return once more to <a href="
     <img class="ui image" src="../images/events/WinterRetreat2024/haaroon.jpg" alt="" width="170"/>
   </div>
   <div class="ui bottom attached message">
-    <strong>Surya Bakshi, Lorenz Breidenbach, Patrick McCorry, and Haaroon Yousaf<br> 
-	    2024 Winter Retreat - Technical Committee</strong><br>
+    <strong>Thanks to our 2024 Winter Retreat - Technical Committee<br>
+	    Surya Bakshi, Lorenz Breidenbach, Patrick McCorry, and Haaroon Yousaf<br> 
+	    for their work toward the retreat!</strong><br>
   </div>
 </div>  
 
 
-<strong>Looking forward to seeing you there!</strong>
+<strong>We hope to see you next year!</strong>
