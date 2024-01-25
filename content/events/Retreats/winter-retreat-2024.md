@@ -1,13 +1,13 @@
 ---
-name: 'IC3 Winter Retreat 2024'
+name: 'IC3 2024 Winter Retreat'
 location: Eurotel Victoria - Les Diablerets, Switzerland
 start: 2024-01-08
 end: 2024-01-11
-summary: Thank you to all who joined us for the 2024 IC3 Winter Retreat at the <a href="https://www.eurotel-victoria.ch/en">Eurotel Victoria</a> in Les Diablerets, Switzerland!
+summary: Thank you to all who joined us for the IC3 2024 Winter Retreat at the <a href="https://www.eurotel-victoria.ch/en">Eurotel Victoria</a> in Les Diablerets, Switzerland!
 ---
 
 
-A heartfelt thanks to all who joined us for the 2024 IC3 Winter Retreat at the <a href="https://www.eurotel-victoria.ch/en">Eurotel Victoria</a> in Les Diablerets, Switzerland! Our technical committee of Surya Bakshi, Lorenz Breidenbach, Patrick McCorry, and Haaroon Yousaf organized an engaging blockchain experience for all participants. 
+A heartfelt thanks to all who joined us for the IC3 2024 Winter Retreat at the <a href="https://www.eurotel-victoria.ch/en">Eurotel Victoria</a> in Les Diablerets, Switzerland! Our technical committee of Surya Bakshi, Lorenz Breidenbach, Patrick McCorry, and Haaroon Yousaf organized an engaging blockchain experience for all participants. 
 
 
 <div class="ui piled segment">
@@ -43,6 +43,18 @@ The success of the retreat was made possible through the generous sponsorship an
 </div>
 
 ## Retreat Agenda and Activities  
+
+The IC3 2024 Winter Retreat was an enriching educational experience, featuring 10-minute talks on a variety of blockchain-related topics. Key areas of discussion included Cryptography, Distributed Systems, and Governance, as well as adding depth with the Birds of a Feather Session which allowed attendees to engage in focused discussions on areas like New Blockchain Research, Consensus, and MEV, according to their interests. The Town Hall session particularly delved into the future of the industry-academic blockchain research Interface, encouraging collaborative dialogue on the next steps in the field. See the full agenda below.
+
+<div class="ui piled segment">
+  <img class="ui centered image" src="../images/events/WinterRetreat2024/Talk.jpg" alt="" />
+  <div class="ui bottom centered attached message">
+    <strong> Prof. Andrew Miller, UIUC and IC3 Faculty Director, presented his research using trusted execution environments for privacy and security in decentralized finance marketplaces. 
+</strong><br>
+  </div>
+</div><br>
+
+***Event Agenda***
 
 <table class="ui celled unstackable table">
 <tbody>
@@ -117,6 +129,23 @@ The success of the retreat was made possible through the generous sponsorship an
 </tbody>
 </table><br>
 
+Our participants also enjoyed a fun excursion to the Peak Walk by the Tissot Suspension Bridge and a Glacier Walk surrounded by the breathtaking view of the Swiss Alps.
+
+<div class="ui piled segment">
+  <img class="ui centered image" src="../images/events/WinterRetreat2024/Group2.jpg" alt="" />
+  <div class="ui bottom centered attached message">
+    <strong> Our Glacier 3000 excursion group.
+</strong><br>
+  </div>
+</div><br>
+
+<div class="ui piled segment">
+  <img class="ui centered image" src="../images/events/WinterRetreat2024/Chalet.jpg" alt="" />
+  <div class="ui bottom centered attached message">
+    <strong> Our winter retreat ended with a chalet dinner, where the traditional Swiss fondue added a delightful touch of alpine charm.
+</strong><br>
+  </div>
+</div><br>
 
 <div class="ui center aligned basic segment">
   <div class="ui centered image">
