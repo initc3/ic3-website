@@ -32,13 +32,13 @@ A heartfelt thanks to all who joined us for the IC3 2024 Winter Retreat at the <
     </div>
 </div>
 
-The success of the retreat was made possible through the generous sponsorship and participation of our IC3 Industry Partners. We also thank Matter Labs, Reclaim Protocol and 1kx for their financial contributions towards the Retreat.
+The success of the retreat was made possible through the generous sponsorship and participation of our IC3 Industry Partners. We also thank Matter Labs, 1kx and Reclaim Protocol for their financial contributions towards the Retreat.
 
 <div class="ui center aligned basic segment">
     <div class="ui small images">
-	<img class="ui image" id="Matter Labs" src="../images/events/WinterRetreat2024/Matter Labs.jpg" />  
+	<img class="ui image" id="Matter Labs" src="../images/events/WinterRetreat2024/Matter Labs.jpg" /> 
+	<img class="ui image" id="1kx" src="../images/events/WinterRetreat2024/1kx.png" alt="" width="100" />    
 	<img class="ui image" id="Reclaim Protocol" src="../images/events/WinterRetreat2024/Reclaim.png" />
-	<img class="ui image" id="1kx" src="../images/events/WinterRetreat2024/1kx.png" />
     </div>
 </div>
 
