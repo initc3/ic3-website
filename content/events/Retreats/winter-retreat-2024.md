@@ -37,7 +37,7 @@ The success of the retreat was made possible through the generous sponsorship an
 <div class="ui center aligned basic segment">
     <div class="ui small images">
 	<img class="ui image" id="Matter Labs" src="../images/events/WinterRetreat2024/Matter Labs.jpg" /> 
-	<img class="ui image" id="1kx" src="../images/events/WinterRetreat2024/1kx.png" alt="" width="100" />    
+	<img class="ui image" id="1kx" src="../images/events/WinterRetreat2024/1kx.png" alt="" width="50" />    
 	<img class="ui image" id="Reclaim Protocol" src="../images/events/WinterRetreat2024/Reclaim.png" />
     </div>
 </div>
