@@ -56,6 +56,7 @@
 - M. Zhou, L. Zeng, Y. Han, P. Li, F. Long, D. Zhou, I. Beschastnikh, and M. Wu. [Mercury: Fast Transaction Broadcast in High Performance Blockchain Systems](https://ieeexplore.ieee.org/abstract/document/10228972). IEEE INFOCOM, 2023.
 - C. Parlour. [An Introduction to Web3 with Implications for Financial Services](https://www.atlantafed.org/-/media/documents/research/publications/policy-hub/2023/05/15/03--introduction-to-web3-with-implilcations-for-financial-services.pdf). Federal Reserve Bank of Atlanta's Policy Hub, 2023. 
 - N. Neamtu, H. Ni, and L. Alvisi. [Trees and Turtles: Modular Abstractions for State Machine Replication Protocols](https://arxiv.org/pdf/2304.07850.pdf). PaPoC, 2023.
+- H. Zhang, M. BAstankhah, L-H. Merino, V. Estrada-Galiñanes, and B. Ford. [Breaking Blockchain Rationality with Out-of-Band Collusion](https://link.springer.com/chapter/10.1007/978-3-031-48806-1_31). FC-International Workshops, 2023.
 - T. Kell, H. Yousaf, S. Allen, S. Meiklejohn, and A. Juels. [Forsage: Anatomy of a Smart-Contract Pyramid Scheme](https://www.arijuels.com/wp-content/uploads/2021/07/Forsage.pdf). FC, 2023.
 - S. Cohen, G. Goren, L. Kokoris-Kogias, A. Sonnino, and A. Spiegelman. [Proof of Availability & Retrieval in a Modular Blockchain Architecture](https://fc23.ifca.ai/preproceedings/150.pdf). FC, 2023.
 - K. Qin, J. Ernstberger, L. Zhou, P. Jovanovic, and A. Gervais. [Mitigating Decentralized Finance Liquidations with Reversible Call Options](https://fc23.ifca.ai/preproceedings/168.pdf). FC, 2023.
