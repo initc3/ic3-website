@@ -15,6 +15,7 @@
 - D. Zagieboylo, C. Sherk, A. Myers, and G.E. Suh. [SpecVerilog: Adapting Information Flow Control for Secure Speculation](https://www.cs.cornell.edu/andru/papers/specverilog/specverilog.pdf). ACM CCS, 2023.
 - N. Tyagi, A. Arun, C. Freitag, R. Wahby, J. Bonneau, and D. Mazières. [Riggs: Decentralized Sealed-Bid Auctions](https://eprint.iacr.org/2023/1336). ACM CCS, 2023.
 - W. Wang, Y. Lu, C. Papamanthou, and F. Zhang. [The Locality of Memory Checking](https://eprint.iacr.org/2023/1358). ACM CCS, 2023.
+- R. Mukta, S. Pal, S. Mishra, H.Y. Paik, S.S. Kanhere, and M. Hitchens. [A Blockchain-Based Interoperable Architecture for IoT with Selective Disclosure of Information](https://ieeexplore.ieee.org/abstract/document/10356491). PRDC, 2023.
 - V. Nair, D. Song, and G. Munilla-Garrido. [Going Incognito in the Metaverse: Achieving Theoretically Optimal Privacy-Usability Tradeoffs in VR](https://arxiv.org/abs/2208.05604). UIST, 2023 (Best Paper Award).
 - P. Tennage, C. Basescu, L. Kokoris-Kogias, E. Syta, P. Jovanovic, V. Estrada-Galiñanes, and B. Ford. [QuePaxa: Escaping the tyranny of timeouts in consensus](https://bford.info/pub/os/quepaxa/quepaxa.pdf). SOSP, 2023.
 - H. Zhang, L-H. Merino, V. Estrada-Galinanes, and B. Ford. [F3B: A Low-Overhead Blockchain Architecture with Per-Transaction Front-Running Protection](https://arxiv.org/pdf/2205.08529.pdf). AFT, 2023.
