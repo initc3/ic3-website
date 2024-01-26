@@ -2,8 +2,7 @@
 
 Want to join the ranks of the talented and driven students producing world-class research and systems in IC3?
 
-IC3 faculty at all of our academic institutions (UIUC, the Technion, UC
-Berkeley, Cornell, and Cornell Tech) have open positions in 2017-2018 for PhD
+IC3 faculty at all of our academic institutions (Carnegie Mellon University, Cornell University, Cornell Tech, EPFL, ETH Zurich, University of Bern, UC Berkeley, University College London, UIUC, SMU, and the Technion) have open positions for PhD
 students, undergraduates, interns, and postdocs who wish to work with us. If you
 are already enrolled at one of these institutions and wish to work with IC3,
 please feel free to contact a faculty member at your institution directly. We're
