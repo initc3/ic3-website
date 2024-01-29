@@ -6,6 +6,10 @@
 - T. Liu, T. Xie, J. Zhang, D. Song, and Y. Zhang. [Pianist: Scalable zkRollups via Fully Distributed Zero-Knowledge Proofs](https://eprint.iacr.org/2023/1271). IEEE S&P, 2024. (to appear)
 - M. Zhou, A. Park, E. Shi, and W. Zheng. [Piano: Extremely Simple, Single-Server PIR with Sublinear Server Computation](https://eprint.iacr.org/2023/452). IEEE S&P, 2024. (to appear)
 - F-X. Wicht, Z. Wang, D.V. Le, and C. Cachin. [A Transaction-Level Model for Blockchain Privacy](https://eprint.iacr.org/2023/1902). FC, 2024. (to appear)
+- F. Baldimtsi, K. Chalkias, P. Chatzigiannis, and M. Kelkar. [Truncator: Time-space Tradeoff of Cryptographic Primitives](https://fc24.ifca.ai/preproceedings/205.pdf). FC, 2024. (to appear)
+- D. Maram, M. Kelkar, I. Bentov, and A. Juels. [GoAT: File Geolocation via Anchor Timestamping](https://fc24.ifca.ai/preproceedings/189.pdf). FC, 2024. (to appear)
+- A. Adams, B.Y. Chan, S. Markovich, and X. Wan. [The Costs of Swapping on Decentralized Exchanges](https://fc24.ifca.ai/preproceedings/206.pdf). FC, 2024. (to appear)
+- I. Tsabary, A. Manuskin, R. Bar-Zur, and I. Eyal. [LedgerHedger: Gas Reservation for Smart Contract Security](https://fc24.ifca.ai/preproceedings/53.pdf). FC, 2024. (to appear)
   
 ## 2023 ##
 
