@@ -18,7 +18,7 @@
 - O. Alpos, M. Barbaraci, C. Cachin, N. Schmid, and M. Senn. [Thetacrypt: A Distributed Service for Threshold Cryptography On-Demand: Demo Abstract](https://dl.acm.org/doi/abs/10.1145/3626564.3629100). Middleware, 2023.
 - K. Babel, M. Javaheripi, M. Kelkar, Y. Ji, F. Koushanfar, and A. Juels. [Lanturn: Measuring Economic Security of Smart Contracts Through Adaptive Learning](https://eprint.iacr.org/2023/1338.pdf). ACM CCS, 2023.
 - M. Kelkar, S. Deb, S. Long, A. Juels, and S. Kannan. [Themis: Fast, Strong Order-Fairness in Byzantine Consensus](https://eprint.iacr.org/2021/1465.pdf). ACM CCS, 2023. 
-- D. Zagieboylo, C. Sherk, A. Myers, and G.E. Suh. [SpecVerilog: Adapting Information Flow Control for Secure Speculation](https://www.cs.cornell.edu/andru/papers/specverilog/specverilog.pdf). ACM CCS, 2023.
+- D. Zagieboylo, C. Sherk, A. Myers, and G.E. Suh. [SpecVerilog: Adapting Information Flow Control for Secure Speculation](https://www.cs.cornell.edu/andru/papers/specverilog/specverilog.pdf). ACM CCS, 2023. (Distinguished Award Paper)
 - N. Tyagi, A. Arun, C. Freitag, R. Wahby, J. Bonneau, and D. Mazières. [Riggs: Decentralized Sealed-Bid Auctions](https://eprint.iacr.org/2023/1336). ACM CCS, 2023.
 - W. Wang, Y. Lu, C. Papamanthou, and F. Zhang. [The Locality of Memory Checking](https://eprint.iacr.org/2023/1358). ACM CCS, 2023.
 - R. Mukta, S. Pal, S. Mishra, H.Y. Paik, S.S. Kanhere, and M. Hitchens. [A Blockchain-Based Interoperable Architecture for IoT with Selective Disclosure of Information](https://ieeexplore.ieee.org/abstract/document/10356491). PRDC, 2023.
