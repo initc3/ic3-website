@@ -1177,4 +1177,12 @@ alumni_students:
     email: me@raymondcheng.net
     weburl: 'https://raymondcheng.net/about/'
     bio: "Raymond Cheng is a research scientist, entrepreneur, open source software developer, and adjunct professor, who is passionate about building technology that improves the lives and freedoms of internet users. He has made contributions in a wide range of areas in distributed systems and security, including data privacy, secure computing, blockchains, and scalable network systems.\n"
-  
+
+  -
+    name: 'Tiancheng Xie'
+    pic: Tiancheng.png
+    title:
+    email: wjxtcsgx@hotmail.com
+    weburl:
+    bio: I earned my Ph.D. from the UC Berkeley security group, under the guidance of Dawn Song. My BEng in Computer Science was obtained from the ACM Class at Shanghai Jiao Tong University. My research primarily revolves around cryptography and algorithms.
+    
