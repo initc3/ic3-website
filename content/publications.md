@@ -7,11 +7,11 @@
 - M. Zhou, A. Park, E. Shi, and W. Zheng. [Piano: Extremely Simple, Single-Server PIR with Sublinear Server Computation](https://eprint.iacr.org/2023/452). IEEE S&P, 2024. (to appear)
 - Y. Hu, F. Wu, Q. Li, Y. Long, g. Garrido, C. Ge, B. Ding, D. Forsyth, B. Li, and D. Song. [SoK: Privacy-Preserving Data Synthesis](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a002/1RjE9GWpTGw). IEEE S&P, 2024. (to appear)
 - Z. Ye, U. Misra, J. Cheng, W. Zhou, and D. Song. [Specular: Towards Secure, Trust-minimized Optimistic Blockchain Execution](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a172/1Ub24OriqE8). IEEE S&P, 2024. (to appear)
-- F-X. Wicht, Z. Wang, D.V. Le, and C. Cachin. [A Transaction-Level Model for Blockchain Privacy](https://eprint.iacr.org/2023/1902). FC, 2024. (to appear)
-- F. Baldimtsi, K. Chalkias, P. Chatzigiannis, and M. Kelkar. [Truncator: Time-space Tradeoff of Cryptographic Primitives](https://fc24.ifca.ai/preproceedings/205.pdf). FC, 2024. (to appear)
-- D. Maram, M. Kelkar, I. Bentov, and A. Juels. [GoAT: File Geolocation via Anchor Timestamping](https://fc24.ifca.ai/preproceedings/189.pdf). FC, 2024. (to appear)
-- A. Adams, B.Y. Chan, S. Markovich, and X. Wan. [The Costs of Swapping on Decentralized Exchanges](https://fc24.ifca.ai/preproceedings/206.pdf). FC, 2024. (to appear)
-- I. Tsabary, A. Manuskin, R. Bar-Zur, and I. Eyal. [LedgerHedger: Gas Reservation for Smart Contract Security](https://fc24.ifca.ai/preproceedings/53.pdf). FC, 2024. (to appear)
+- F-X. Wicht, Z. Wang, D.V. Le, and C. Cachin. [A Transaction-Level Model for Blockchain Privacy](https://eprint.iacr.org/2023/1902). FC, 2024.
+- F. Baldimtsi, K. Chalkias, P. Chatzigiannis, and M. Kelkar. [Truncator: Time-space Tradeoff of Cryptographic Primitives](https://fc24.ifca.ai/preproceedings/205.pdf). FC, 2024.
+- D. Maram, M. Kelkar, I. Bentov, and A. Juels. [GoAT: File Geolocation via Anchor Timestamping](https://fc24.ifca.ai/preproceedings/189.pdf). FC, 2024.
+- A. Adams, B.Y. Chan, S. Markovich, and X. Wan. [The Costs of Swapping on Decentralized Exchanges](https://fc24.ifca.ai/preproceedings/206.pdf). FC, 2024.
+- I. Tsabary, A. Manuskin, R. Bar-Zur, and I. Eyal. [LedgerHedger: Gas Reservation for Smart Contract Security](https://fc24.ifca.ai/preproceedings/53.pdf). FC, 2024.
   
 ## 2023 ##
 
