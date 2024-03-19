@@ -64,7 +64,7 @@ IC3 has created for program chairs and other interested colleagues the following
 For inquiries, please email Bria Han, IC3 Community Manager at
     <a href="mailto:jh2584@cornell.edu">jh2584@cornell.edu</a>.
     
-Join our mailing list to stay up to date on all things IC3! Sign up <a href="https://forms.gle/T1Ejcf5DPJ28erYe6">here</a>.
+Join our mailing list to stay up to date on all things IC3! Sign up <strong><a href="https://forms.gle/T1Ejcf5DPJ28erYe6">here</a></strong>.
 
 IC3 Bitcoin address: 1C3rocKSh6sPPibn2jbMFBzcdvfGZySY6t
 
