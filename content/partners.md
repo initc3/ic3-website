@@ -10,6 +10,7 @@ Foundation to advance the science and technology of blockchains. <br>
 	<img class="ui image sponsor logo" id="protocollabs" src="images/partners/protocol-labs.png">
 	<img class="ui image sponsor logo" id="avalabs" src="images/partners/Avalanche.png">
 	<img class="ui image sponsor logo" id="optimism" src="images/partners/Optimism.jpg">
+	<img class="ui image sponsor logo" id="Arbitrum Foundation" src="images/partners/Arbitrum Foundation.png">
 </div>
 
 
