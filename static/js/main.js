@@ -28,6 +28,7 @@
    'ethereum': 'http://ethereum.org',
    'cog': 'https://www.cogsnetwork.com',
    'avalabs': 'https://www.avalabs.org',
+   'Arbitrum Foundation': 'https://arbitrum.foundation/',
  };
 
 $(document).ready(function() {
