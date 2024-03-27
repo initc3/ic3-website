@@ -1,13 +1,13 @@
 ---
-name: 'IC3 2024 Winter Retreat'
+name: 'IC3 Winter Retreat 2024'
 location: Eurotel Victoria - Les Diablerets, Switzerland
 start: 2024-01-08
 end: 2024-01-11
-summary: Thank you to all who joined us for the IC3 2024 Winter Retreat at the <a href="https://www.eurotel-victoria.ch/en">Eurotel Victoria</a> in Les Diablerets, Switzerland!
+summary: Thank you to all who joined us for the IC3 Winter Retreat 2024 at the <a href="https://www.eurotel-victoria.ch/en">Eurotel Victoria</a> in Les Diablerets, Switzerland!
 ---
 
 
-A heartfelt thanks to all who joined us for the IC3 2024 Winter Retreat at the <a href="https://www.eurotel-victoria.ch/en">Eurotel Victoria</a> in Les Diablerets, Switzerland! Our technical committee of Surya Bakshi, Lorenz Breidenbach, Patrick McCorry, and Haaroon Yousaf organized an engaging blockchain experience for all participants. 
+A heartfelt thanks to all who joined us for the IC3 Winter Retreat 2024 at the <a href="https://www.eurotel-victoria.ch/en">Eurotel Victoria</a> in Les Diablerets, Switzerland! Our technical committee of Surya Bakshi, Lorenz Breidenbach, Patrick McCorry, and Haaroon Yousaf organized an engaging blockchain experience for all participants. 
 
 
 <div class="ui piled segment">
@@ -44,7 +44,7 @@ The success of the retreat was made possible through the generous sponsorship an
 
 ## Retreat Agenda and Activities  
 
-The IC3 2024 Winter Retreat was an enriching educational experience, featuring 10-minute talks on a variety of blockchain-related topics. Key areas of discussion included Cryptography, Distributed Systems, and Governance, as well as adding depth with the Birds of a Feather Session which allowed attendees to engage in focused discussions on areas like New Blockchain Research, Consensus, and MEV, according to their interests. The Town Hall session particularly delved into the future of the industry-academic blockchain research Interface, encouraging collaborative dialogue on the next steps in the field. See the full agenda below.
+The IC3 Winter Retreat 2024 was an enriching educational experience, featuring 10-minute talks on a variety of blockchain-related topics. Key areas of discussion included Cryptography, Distributed Systems, and Governance, as well as adding depth with the Birds of a Feather Session which allowed attendees to engage in focused discussions on areas like New Blockchain Research, Consensus, and MEV, according to their interests. The Town Hall session particularly delved into the future of the industry-academic blockchain research Interface, encouraging collaborative dialogue on the next steps in the field. See the full agenda below.
 
 <div class="ui piled segment">
   <img class="ui centered image" src="../images/events/WinterRetreat2024/Talk.jpg" alt="" />
