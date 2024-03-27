@@ -13,7 +13,7 @@ A heartfelt thanks to all who joined us for the IC3 Winter Retreat 2024 at the <
 <div class="ui piled segment">
   <img class="ui centered image" src="../images/events/WinterRetreat2024/Group1.jpg" alt="" />
   <div class="ui bottom attached message">
-  <strong> Our group picture from the 2024 IC3 Winter Retreat 
+  <strong> Our group picture from the IC3 Winter Retreat 2024
 </strong><br>
   </div>
 </div>
