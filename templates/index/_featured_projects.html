@@ -8,36 +8,36 @@
 </h2>
 <div class="">
     <p>
-      Enhancing privacy on smart contract-enabled blockchains has garnered much attention in recent research. Zero-knowledge proofs (ZKPs) is one of the most popular approaches, however, they fail to provide full expressiveness and fine-grained privacy. To illustrate this, we underscore an underexplored type of Miner Extractable Value (MEV), called Residual Bids Extractable Value (RBEV). Residual bids highlight the vulnerability where unfulfilled bids inadvertently reveal traders’ unmet demands and prospective trading strategies, thus exposing them to exploitation. ZKP-based approaches failed to address RBEV as they cannot provide post-execution privacy without some level of information disclosure. Other MEV mitigations like fair-ordering protocols also failed to address RBEV. We introduce Ratel, an innovative framework bridging a multi-party computation (MPC) prototyping framework (MP-SPDZ) and a smart contract language (Solidity), harmonizing the privacy with full expressiveness of MPC with Solidity’s on-chain programmability. This synergy empowers developers to effortlessly craft privacy-preserving decentralized applications (DApps). We demonstrate Ratel’s efficacy through two distinguished decentralized finance (DeFi) applications - a decentralized exchange and a collateral auction, effectively mitigating the potential RBEV issue. Furthermore, Ratel is equipped with a lightweight crash-reset mechanism, enabling the seamless recovery of transiently benign faulty nodes. To prevent the crash-reset mechanism abused by malicious entities and ward off DoS attacks, we incorporate a cost-utility analysis anchored in the Bayesian approach. Our performance evaluation of the applications developed under the Ratel framework underscores their competency in managing real-world peak-time workloads.
+      Auctions, a long-standing method of trading goods and services, are a promising use case for decentralized finance. However, due to the inherent transparency property of blockchains, current sealed-bid auction implementations on smart contracts requires a bidder to send at least two transactions to the underlying blockchain - a bidder must first commit their bid in the first transaction during the bidding period and reveal their bid in the second transaction once the revealing period starts. In addition, the smart contract often requires a deposit to incentivize bidders to reveal their bids, rendering unnecessary financial burdens and risks to bidders. We address these drawbacks by enforcing delayed execution in the blockchain execution layer to all transactions. In short, the blockchain only accepts encrypted transactions, and when the blockchain has finalized an encrypted transaction, the consensus group decrypts and executes it. This architecture enables ZeroAuction, a sealed-bid auction smart contract with zero deposit requirement. ZeroAuction relies on the blockchain enhanced with delayed execution to hide and bind the bids within the encrypted transactions and, after a delay period, reveals them automatically by decrypting and executing the transactions. Because a bidder only needs to interact with the blockchain once instead of two times to participate in the auction, ZeroAuction significantly reduces the latency overhead along with eliminating the deposit requirement.
       For further details, please check out our <a href="https://www.initc3.org/projects.html">Projects Page</a>.
     </p>
     Keywords:
     <span class="ui small labels">
         <div class="ui basic label">
-          MEV 
+          Transparency 
         </div>
         <div class="ui basic label">
-          Smart Contracts 
+          Smart contracts 
         </div>
         <div class="ui basic label">
-          ZKP
+          Encrypted transactions
         </div>
         <div class="ui basic label">
-          DeFi
+          Blockchains
         </div>
     </span>
 </div>
 <h2 class="ui header">More projects:</h2>
 <ul>
     <li>
-        <strong>DAO Decentralization</strong>: Voting-Bloc Entropy, Bribery, and Dark DAOs
+        <strong>TFM</strong>: Collusion-Resilience in Transaction Fee Mechanism Design
     <li>
-        <strong>FinTech</strong>: Advances in Blockchain and Crypto Economics
+        <strong>Secure Distributed Systems</strong>: Secure Synthesis of Distributed Cryptographic Applications
     <li>
-        <strong>Quick Order Fairness</strong>: Implementation and Evaluation
+        <strong>Analysis</strong>: An Analysis of Avalanche Consensus
     <li>
-        <strong>Credentials</strong>: Asynchronous Authentication
+        <strong>ZKP</strong>: Proof of Compliance for Anonymous, Unlinkable Messages
     <li>
-        <strong>Motorway</strong>: Seamless high speed BFT
+        <strong>DeFi</strong>: Uniswap Daily Transaction Indices by Network
 </ul>
 <i class="arrow circle right icon"></i><a href="{{ SITE_ROOT }}/projects.html">Even more projects...</a>
