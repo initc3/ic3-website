@@ -48,11 +48,11 @@ We will offer two overlapping tracks: a coding track and a presentation track.
 
 <strong>Option 1 (Coding):</strong> The coding track includes all presentations, social activities, and participation in a weeklong coding project on a 5-10 person team. In the coding track, you can expect to engage with leaders in the blockchain community - faculty, architects, developers, students.
 
-<strong>Option 2 <Presentation):</strong> The presentation track will be open to those who want to participate in the camp events without joining a coding team.
+<strong>Option 2 (Presentation):</strong> The presentation track will be open to those who want to participate in the camp events without joining a coding team.
 
 Both tracks require pre-registration. Please use the <strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSc8PlAwTPSK3a1vfe89jR2SFvoMkpoIZW0ZnwCTJDotsK1Wcg/viewform?usp=sharing">registration form</a></strong>. Those who register will receive additional details by email before the event.
 
-For examples of what to expect please see the summary of previous camp editions: <a href="https://www.initc3.org/events/2023-06-12-ic3-blockchain-camp-2023">2023</a>, <a href="https://www.initc3.org/events/2022-08-01-ic3-blockchain-camp-2022">2022</a>, <a href="https://www.initc3.org/events/2021-07-25-ic3-blockchain-summer-camp">2021</a>.
+Please check previous camp editions for details, <a href="https://www.initc3.org/events/2023-06-12-ic3-blockchain-camp-2023">2023</a>, <a href="https://www.initc3.org/events/2022-08-01-ic3-blockchain-camp-2022">2022</a>, <a href="https://www.initc3.org/events/2021-07-25-ic3-blockchain-summer-camp">2021</a>.
 
 
 ### ACCOMMODATIONS
