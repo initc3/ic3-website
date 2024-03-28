@@ -17,7 +17,9 @@ In addition to tech talks, panels and projects, we are planning social activitie
 
 ### REGISTRATION & SPONSORSHIP
 
-[<img src="../images/events/blockchain-camp-2024/Register.jpeg" width="200"/>](https://docs.google.com/forms/d/e/1FAIpQLSc8PlAwTPSK3a1vfe89jR2SFvoMkpoIZW0ZnwCTJDotsK1Wcg/viewform)
+<p align="center">
+	[<img src="../images/events/blockchain-camp-2024/Register.jpeg" width="200"/>](https://docs.google.com/forms/d/e/1FAIpQLSc8PlAwTPSK3a1vfe89jR2SFvoMkpoIZW0ZnwCTJDotsK1Wcg/viewform)
+</p>
 
 **Students:** We are offering free access to a limited number of well-qualified full-time students enrolled at the IC3 campuses (Carnegie Mellon University, Cornell University, Cornell Tech, EPFL, ETH Zurich, University of Bern, UC Berkeley, University College London, UIUC, SMU, and the Technion). 
 
