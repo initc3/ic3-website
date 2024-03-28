@@ -59,7 +59,7 @@ Please check previous camp editions for details <a href="https://www.initc3.org/
 
 ### ACCOMMODATIONS
 
-IC3 has a room block and recommends reserving at the <strong><a href="https://graduatehotels.com/new-york/">Graduate Hotel</a></strong> located on the Cornell Tech campus on Roosevelt Island due to its proximity to the event location. Oana Gherman, IC3 Sr. Administrative Assistant (<a href="mailto:og64@cornell.edu">oana.gherman@cornell.edu</a>) will centrally book rooms for anyone who chooses to be part of the room block. If you say yes to being included, please do not book a room for yourself. (You will then have two rooms.) Reach out to her if you have questions or need more information.
+IC3 will organize a negociated room block at a hotel in the proximity of the Cornell Tech campus and Oana Gherman, IC3 Sr. Administrative Assistant (<a href="mailto:og64@cornell.edu">oana.gherman@cornell.edu</a>) will centrally book rooms for anyone who chooses to be part of the room block. If you say yes to being included, please do not book a room for yourself. (You will then have two rooms.) Reach out to her if you have questions or need more information.
 
 > **Important Note:** <br>
 > Students are expected to share accommodations with other students attending the Camp. If you need assistance finding other students who are attending, please don't hesitate to reach out to Oana or mention it when submitting your registration.
