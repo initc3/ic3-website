@@ -12,12 +12,7 @@ summary: Join us for the 9th Annual IC3 Blockchain Camp! This 7-day experience w
 
 Join us for the 9th Annual IC3 Blockchain Camp! This 7-day experience will be hosted once again at the Cornell Tech Campus on Roosevelt Island, New York City. Our camp technical committee of Surya Bakshi, Haaroon Yousaf, Lorenz Breidenbach, and Patrick McCorry is preparing another immersive coding and learning experience.
 
-In addition to tech talks, panels and projects, we are planning social activities, games, birds-of-a-feather discussions, and much more. Topics will include DeFi, DAOs, cryptography, Metaverse, AI and more!
-
-
-### CAMP SCHEDULE
-
-Coming soon!
+In addition to tech talks, panels and projects, we are planning social activities, games, birds-of-a-feather discussions, and much more. Topics will include DeFi, DAOs, cryptography, consensus, AI and more!
 
 
 ### REGISTRATION & SPONSORSHIP
@@ -60,6 +55,12 @@ Please check previous camp editions for details <a href="https://www.initc3.org/
 IC3 has a room block and recommends reserving at the <strong><a href="https://graduatehotels.com/new-york/">Graduate Hotel</a></strong> located on the Cornell Tech campus on Roosevelt Island due to its proximity to the event location. Oana Gherman, IC3 Sr. Administrative Assistant (<a href="mailto:og64@cornell.edu">oana.gherman@cornell.edu</a>) will centrally book rooms for anyone who chooses to be part of the room block. If you say yes to being included, please do not book a room for yourself. (You will then have two rooms.) Reach out to her if you have questions or need more information.
 
 ***Important Note:*** Students are expected to share accommodations with other students attending the Camp. If you need assistance finding other students who are attending, please don't hesitate to reach out to Oana or mention it when submitting your registration.
+
+
+### CAMP SCHEDULE
+
+Coming soon!
+
 
 <div class="ui center aligned basic segment">
   <div class="ui centered image">
