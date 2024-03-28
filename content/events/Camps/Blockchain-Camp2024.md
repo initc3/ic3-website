@@ -52,7 +52,7 @@ We will offer two overlapping tracks: a coding track and a presentation track.
 
 Both tracks require pre-registration. Please use the <strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSc8PlAwTPSK3a1vfe89jR2SFvoMkpoIZW0ZnwCTJDotsK1Wcg/viewform?usp=sharing">registration form</a></strong>. Those who register will receive additional details by email before the event.
 
-Please check previous camp editions for details, <a href="https://www.initc3.org/events/2023-06-12-ic3-blockchain-camp-2023">2023</a>, <a href="https://www.initc3.org/events/2022-08-01-ic3-blockchain-camp-2022">2022</a>, <a href="https://www.initc3.org/events/2021-07-25-ic3-blockchain-summer-camp">2021</a>.
+Please check previous camp editions for details <a href="https://www.initc3.org/events/2023-06-12-ic3-blockchain-camp-2023">2023</a>, <a href="https://www.initc3.org/events/2022-08-01-ic3-blockchain-camp-2022">2022</a>, <a href="https://www.initc3.org/events/2021-07-25-ic3-blockchain-summer-camp">2021</a>.
 
 
 ### ACCOMMODATIONS
