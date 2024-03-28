@@ -77,7 +77,7 @@ IC3 has a room block and recommends reserving at the <strong><a href="https://gr
   <div class="ui bottom attached message">
     <strong>2024 Blockchain Camp - Technical Committee<br>
 	    Surya Bakshi, Lorenz Breidenbach, Patrick McCorry, and Haaroon Yousaf<br> 
-	    for their work toward the retreat!</strong><br>
+    </strong>
   </div>
 </div>  
 
