@@ -17,6 +17,10 @@ In addition to tech talks, panels and projects, we are planning social activitie
 
 ### REGISTRATION & SPONSORSHIP
 
+<div class="text-center">
+        <strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSc8PlAwTPSK3a1vfe89jR2SFvoMkpoIZW0ZnwCTJDotsK1Wcg/viewform?usp=sharing">Register</a></strong>
+</div>
+
 **Students:** We are offering free access to a limited number of well-qualified full-time students enrolled at the IC3 campuses (Carnegie Mellon University, Cornell University, Cornell Tech, EPFL, ETH Zurich, University of Bern, UC Berkeley, University College London, UIUC, SMU, and the Technion). Please apply <strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSc8PlAwTPSK3a1vfe89jR2SFvoMkpoIZW0ZnwCTJDotsK1Wcg/viewform?usp=sharing">here</a></strong>.
 
 **Industry/Professional Participants:** All must be affiliated with an IC3 Member or a Blockchain Camp Sponsor (see details below).
@@ -32,8 +36,8 @@ Up to two employees of IC3 Partner Members (see current list of partners <strong
 - Participation for one person for the full week of hacking and learning, plus meals, excursions, and the Camp closing party. <br>
 
 
-[!NOTE] 
-Exceptions will be made on a case-by-case basis to allow additional community members to participate in the camp without sponsorship. Please email IC3 Community Manager, Bria Han (<a href="mailto:jh2584@cornell.edu">jh2584@cornell.edu</a>) if you would like to apply for non-donor participation. Please indicate in the application form below if you would like to apply for camp sponsorship or for participation without a sponsor. 
+> **Note:** <br>
+> Exceptions will be made on a case-by-case basis to allow additional community members to participate in the camp without sponsorship. Please email IC3 Community Manager, Bria Han (<a href="mailto:jh2584@cornell.edu">jh2584@cornell.edu</a>) if you would like to apply for non-donor participation. Please indicate in the application form below if you would like to apply for camp sponsorship or for participation without a sponsor. 
 
 All Industry/Professional participants, please apply <strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSc8PlAwTPSK3a1vfe89jR2SFvoMkpoIZW0ZnwCTJDotsK1Wcg/viewform?usp=sharing">here</a></strong>.
 
@@ -55,7 +59,8 @@ Please check previous camp editions for details <a href="https://www.initc3.org/
 
 IC3 has a room block and recommends reserving at the <strong><a href="https://graduatehotels.com/new-york/">Graduate Hotel</a></strong> located on the Cornell Tech campus on Roosevelt Island due to its proximity to the event location. Oana Gherman, IC3 Sr. Administrative Assistant (<a href="mailto:og64@cornell.edu">oana.gherman@cornell.edu</a>) will centrally book rooms for anyone who chooses to be part of the room block. If you say yes to being included, please do not book a room for yourself. (You will then have two rooms.) Reach out to her if you have questions or need more information.
 
-***Important Note:*** Students are expected to share accommodations with other students attending the Camp. If you need assistance finding other students who are attending, please don't hesitate to reach out to Oana or mention it when submitting your registration.
+> **Important Note:** <br>
+> Students are expected to share accommodations with other students attending the Camp. If you need assistance finding other students who are attending, please don't hesitate to reach out to Oana or mention it when submitting your registration.
 
 
 ### CAMP SCHEDULE
