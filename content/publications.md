@@ -2,6 +2,7 @@
 
 ## 2024 ##
 
+- D. Coppola, G. Camurati, C. Anliker, X. Hofmeier, P. Shaller, D. Basin, and S. Capkun. [PURE: Payments with UWB RElay-protection](https://www.research-collection.ethz.ch/handle/20.500.11850/662474). USENIX, 2024 (to appear)
 - K. Sowon, E. Luhanga, L.F. Cranor, G. Fanti, C. Tucker, and A. Gueye. [The Role of User-Agent Interactions on Mobile Money Practices in Kenya and Tanzania](https://arxiv.org/pdf/2309.00226.pdf). IEEE S&P, 2024. (to appear)
 - T. Liu, T. Xie, J. Zhang, D. Song, and Y. Zhang. [Pianist: Scalable zkRollups via Fully Distributed Zero-Knowledge Proofs](https://eprint.iacr.org/2023/1271). IEEE S&P, 2024. (to appear)
 - M. Zhou, A. Park, E. Shi, and W. Zheng. [Piano: Extremely Simple, Single-Server PIR with Sublinear Server Computation](https://eprint.iacr.org/2023/452). IEEE S&P, 2024. (to appear)
