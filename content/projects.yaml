@@ -30,6 +30,18 @@ challenges:
 
 projects:
 
+  - 
+     name: '“I Can’t Believe It’s Not Custodial!” Usable Trustless Decentralized Key Management'
+     authors: Tanusree Sharma, Vivek C. Nair, Henry Wang, Yang Wang, and Dawn Song 
+     challenges: [*correctness, *compliance]
+     description: Key management has long remained a difficult unsolved problem in the field of usable security. While password-based key derivation functions (PBKDFs) are widely used to solve this problem in centralized applications, their low entropy and lack of a recovery mechanism make them unsuitable for use in decentralized contexts. The multi-factor key derivation function (MFKDF) is a recently proposed cryptographic primitive that aims to address these deficiencies by incorporating commonly used authentication factors into the key derivation process. In this paper, we implement an MFKDF-based Ethereum wallet and perform a user study with 27 participants to directly compare its usability against traditional cryptocurrency wallet architectures. Our results show that MFKDF-based applications outperform conventional key management approaches on both subjective and objective metrics, with a 37% higher average SUS score (p < 0.0001) and 71% faster task completion times (p < 0.0001) for the MFKDF-based wallet. For more information, see out <a href="https://www.ideals.illinois.edu/items/129480">work</a>.
+     
+  - 
+     name: '51% Attack via Difficulty Increase with a Small Quantum Miner'
+     authors: Bolton Bailey and Or Sattath
+     challenges: [*correctness]
+     description: We present a strategy for a single quantum miner with relatively low hashing power, with the same ramifications as a 51% attack. Bitcoin nodes consider the chain with the highest cumulative proof-of-work to be the valid chain. A quantum miner can manipulate the block timestamps to multiply the difficulty by c. The fork-choice rule counts every block with increased difficulty with weight c. By using Grover’s algorithm, it is only O(√c) harder for the quantum miner to mine such blocks. By picking a high enough c, the single quantum miner can create a competing chain with fewer blocks, but more cumulative proof-of-work. The time required is O(1/r2 ) epochs, where r is the fraction of the block rewards that the quantum miner would have received if they mined honestly. Most proof-of-work cryptocurrencies, including Bitcoin, are vulnerable to our attack. However, it will likely be impossible to execute in forthcoming years, as it requires an extremely fast and fault-tolerant quantum computer. For details, see our <a href="https://arxiv.org/abs/2403.08023">paper</a>.
+     
   -
      name: 'Atomic and Fair Data Exchange via Blockchain'
      authors: Ertem Nusret Tas, István András Seres, Yinou Zhang, Márk Melczer, Mahimna Kelkar, Joseph Bonneau, and Valeria Nikolaenko
