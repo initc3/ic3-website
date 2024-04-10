@@ -277,22 +277,6 @@ students:
     weburl: 'https://www.jturcotti.com/'
     bio: "Joshua Turcotti is a PhD student at Cornell University working with Andrew Myers to develop novel program analyses for safe and secure systems. His work has targeted safe concurrency, nullability analysis at scale, and optimized deployment of runtime assertions.\n"
     
-  - 
-    name: 'Jovana Mićić'
-    pic: Jovana.jpg
-    title:
-    email: jovana.micic@unibe.ch
-    weburl: 'https://crypto.unibe.ch/jm/'
-    bio: "Jovana is a Ph.D. student at the University of Bern, supervised by Professor Christian Cachin. Her research interests are consensus protocols and the security of distributed systems.\n"
-
-  -
-    name: 'Ignacio Amores-Sesar'
-    pic: Ignacio.jpg
-    title:
-    email: ignacio.amores@unibe.ch
-    weburl: 'https://crypto.unibe.ch/ias/'
-    bio: "Ignacio is a Ph.D. candidate at the University of Bern under the supervision of Christian Cachin. His research interests lie in the study of different consensus mechanisms with a special interest in their security.\n"
-
   -
     name: 'François-Xavier Wicht'
     pic: François.jpg
@@ -1185,4 +1169,20 @@ alumni_students:
     email: wjxtcsgx@hotmail.com
     weburl:
     bio: I earned my Ph.D. from the UC Berkeley security group, under the guidance of Dawn Song. My BEng in Computer Science was obtained from the ACM Class at Shanghai Jiao Tong University. My research primarily revolves around cryptography and algorithms.
-    
+
+  - 
+    name: 'Jovana (Mićić) Milojević'
+    pic: Jovana.jpg
+    title:
+    email: jovana.micic@unibe.ch
+    weburl: 'https://crypto.unibe.ch/jm/'
+    bio: "Jovana completed her Ph.D. at the University of Bern, supervised by Professor Christian Cachin. Her research interests are consensus protocols and the security of distributed systems.\n"  
+
+  -
+    name: 'Ignacio Amores-Sesar'
+    pic: Ignacio.jpg
+    title:
+    email: ignacio.amores@unibe.ch
+    weburl: 'https://crypto.unibe.ch/ias/'
+    bio: "Ignacio completed his Ph.D. at the University of Bern under the supervision of Christian Cachin. His research interests lie in the study of different consensus mechanisms with a special interest in their security.\n"
+
