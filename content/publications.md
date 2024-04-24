@@ -9,6 +9,7 @@
 - Y. Hu, F. Wu, Q. Li, Y. Long, g. Garrido, C. Ge, B. Ding, D. Forsyth, B. Li, and D. Song. [SoK: Privacy-Preserving Data Synthesis](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a002/1RjE9GWpTGw). IEEE S&P, 2024. (to appear)
 - Z. Ye, U. Misra, J. Cheng, W. Zhou, and D. Song. [Specular: Towards Secure, Trust-minimized Optimistic Blockchain Execution](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a172/1Ub24OriqE8). IEEE S&P, 2024. (to appear)
 - K. Lee, A.F. Cooper, and J. Grimmelmann. [Talkin' 'Bout AI Generation: Copyright and the Generative-AI Supply Chain](https://dl.acm.org/doi/abs/10.1145/3614407.3643696). CSLAW, 2024.
+- M. Rosenberg, J. White, C. Garman, and I. Miers. [zk-creds: Flexible Anonymous Credentials from zkSNARKs and Existing Identity Infrastructure](https://eprint.iacr.org/2022/878.pdf). RWC, 2024.
 - F-X. Wicht, Z. Wang, D.V. Le, and C. Cachin. [A Transaction-Level Model for Blockchain Privacy](https://eprint.iacr.org/2023/1902). FC, 2024.
 - F. Baldimtsi, K. Chalkias, P. Chatzigiannis, and M. Kelkar. [Truncator: Time-space Tradeoff of Cryptographic Primitives](https://fc24.ifca.ai/preproceedings/205.pdf). FC, 2024.
 - D. Maram, M. Kelkar, I. Bentov, and A. Juels. [GoAT: File Geolocation via Anchor Timestamping](https://fc24.ifca.ai/preproceedings/189.pdf). FC, 2024.

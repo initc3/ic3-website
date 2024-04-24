@@ -590,14 +590,6 @@ students:
     bio: "Yunhao Zhang is a Computer Science graduate student at Cornell University. His research interest spans distributed systems, game theory, and mechanism design. He is a recipient of the Jay Lepreau Best Paper Award at OSDI'20 and the 2021 Facebook Fellowship."
 
   -
-    name: 'Matthew Burke'
-    pic: MattBurke.jpg
-    title:
-    email: mlb452@cornell.edu
-    weburl: "https://www.cs.cornell.edu/~matthelb/"
-    bio: "Matt is a PhD student in the Theory Meets Practice group at Cornell. He works with Lorenzo Alvisi on designing reliable and efficient globally distributed systems."
-
-  -
     name: 'Vivek Nair'
     pic: vivek.jpg
     title:
@@ -911,7 +903,7 @@ alumni_students:
     pic: bakshi.png
     title:
     email: sbakshi3@illinois.edu
-    weburl: 'http://sbaks0820.github.io'
+    weburl:
     bio: "Surya completed his Ph.D. program at the University of Illinois Urbana-Champaign working with Andrew Miller in the Decentralized Systems Lab. Currently, he joined Offchain Labs.\n"
     
   -
@@ -1063,7 +1055,7 @@ alumni_students:
     pic: longsishan.jpg
     title:
     email: sl3275@cornell.edu
-    weburl: 'https://longsishan.com'
+    weburl:
     bio: "Sishan Long completed her program at Cornell University advised by prof. Ari Juels, and has joined Espresso Systems. She is interested in blockchain technologies.\n"
     
   -
@@ -1186,3 +1178,10 @@ alumni_students:
     weburl: 'https://crypto.unibe.ch/ias/'
     bio: "Ignacio completed his Ph.D. at the University of Bern under the supervision of Christian Cachin. His research interests lie in the study of different consensus mechanisms with a special interest in their security.\n"
 
+  -
+    name: 'Matthew Burke'
+    pic: MattBurke.jpg
+    title:
+    email: mlb452@cornell.edu
+    weburl: "https://www.cs.cornell.edu/~matthelb/"
+    bio: "Matt completed his PhD at Cornell University under the supervision of prof. Lorenzo Alvisi. He has joined Datablocks as a Software Engineer working on the Caching Team.\n"
