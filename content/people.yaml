@@ -1055,7 +1055,7 @@ alumni_students:
     pic: longsishan.jpg
     title:
     email: sl3275@cornell.edu
-    weburl: 'https://longsishan.com'
+    weburl:
     bio: "Sishan Long completed her program at Cornell University advised by prof. Ari Juels, and has joined Espresso Systems. She is interested in blockchain technologies.\n"
     
   -
