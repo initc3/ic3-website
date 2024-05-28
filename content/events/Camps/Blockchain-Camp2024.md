@@ -23,7 +23,7 @@ In addition to tech talks, panels and projects, we are planning social activitie
 	</a>	
 </p>
 
-**Important:** Registration closes on June 3, 2024. 
+**Important:** Registration deadline is ***June 3, 2024***. 
 
 **Students:** We are offering free access to a limited number of well-qualified full-time students enrolled at the IC3 campuses (Carnegie Mellon University, Cornell University, Cornell Tech, EPFL, ETH Zurich, University of Bern, UC Berkeley, University College London, UIUC, SMU, and the Technion). 
 
