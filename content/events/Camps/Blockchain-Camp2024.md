@@ -23,6 +23,8 @@ In addition to tech talks, panels and projects, we are planning social activitie
 	</a>	
 </p>
 
+**Important:** Registration closes on June 3, 2024. 
+
 **Students:** We are offering free access to a limited number of well-qualified full-time students enrolled at the IC3 campuses (Carnegie Mellon University, Cornell University, Cornell Tech, EPFL, ETH Zurich, University of Bern, UC Berkeley, University College London, UIUC, SMU, and the Technion). 
 
 **Industry/Professional Participants:** All must be affiliated with an IC3 Member or a Blockchain Camp Sponsor (see details below).
@@ -44,6 +46,11 @@ Up to two employees of IC3 Partner Members (see current list of partners <strong
 All Industry/Professional participants, please apply <strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSc8PlAwTPSK3a1vfe89jR2SFvoMkpoIZW0ZnwCTJDotsK1Wcg/viewform">here</a></strong>.
 
 
+### DRAFT CAMP SCHEDULE
+
+The details below are subject to change!
+
+<iframe height="1115" width="1115" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSkApkNuu6pRNbqmZvsqc6Xtw4mCqIet4YhWdnEfk6eG_yVRDRArsnZkOXLhsnW-8AT2lj7QbEh90O7/pubhtml?widget=true&amp;headers=false"></iframe>
 ### PROGRAM
 
 We will offer two overlapping tracks: a coding track and a presentation track.
@@ -55,19 +62,6 @@ We will offer two overlapping tracks: a coding track and a presentation track.
 Both tracks require pre-registration. Please use the <strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSc8PlAwTPSK3a1vfe89jR2SFvoMkpoIZW0ZnwCTJDotsK1Wcg/viewform">registration form</a></strong>. Those who register will receive additional details by email before the event.
 
 Please check previous camp editions for details <a href="https://www.initc3.org/events/2023-06-12-ic3-blockchain-camp-2023">2023</a>, <a href="https://www.initc3.org/events/2022-08-01-ic3-blockchain-camp-2022">2022</a>, <a href="https://www.initc3.org/events/2021-07-25-ic3-blockchain-summer-camp">2021</a>.
-
-
-### ACCOMMODATIONS
-
-IC3 will organize a negociated room block at a hotel in the proximity of the Cornell Tech campus and Oana Gherman, IC3 Sr. Administrative Assistant (<a href="mailto:og64@cornell.edu">oana.gherman@cornell.edu</a>) will centrally book rooms for anyone who chooses to be part of the room block. If you say yes to being included, please do not book a room for yourself. (You will then have two rooms.) Reach out to her if you have questions or need more information. The hotel reservation within the room block deadline is <strong>May 10, 2024</strong>.
-
-> **Important Note:** <br>
-> Students are expected to share accommodations with other students attending the Camp. If you need assistance finding other students who are attending, please don't hesitate to reach out to Oana or mention it when submitting your registration.
-
-
-### CAMP SCHEDULE
-
-Coming soon!
 
 
 <div class="ui center aligned basic segment">
