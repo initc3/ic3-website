@@ -1,43 +1,43 @@
 <!-- projects -->
 <h1 class="ui header"><i class="lightbulb icon"></i> <div class="content ic3-color">Featured Projects</div>
 </h1>
-<h2 class="ui header">ZeroAuction: Zero-Deposit Sealed-bid Auction via Delayed Execution
+<h2 class="ui header">E-Vote Your Conscience: Perceptions of Coercion and Vote Buying, and the Usability of Fake Credentials in Online Voting
   <div class="sub header">
 
   </div>
 </h2>
 <div class="">
     <p>
-      Auctions, a long-standing method of trading goods and services, are a promising use case for decentralized finance. However, due to the inherent transparency property of blockchains, current sealed-bid auction implementations on smart contracts requires a bidder to send at least two transactions to the underlying blockchain - a bidder must first commit their bid in the first transaction during the bidding period and reveal their bid in the second transaction once the revealing period starts. In addition, the smart contract often requires a deposit to incentivize bidders to reveal their bids, rendering unnecessary financial burdens and risks to bidders. We address these drawbacks by enforcing delayed execution in the blockchain execution layer to all transactions. In short, the blockchain only accepts encrypted transactions, and when the blockchain has finalized an encrypted transaction, the consensus group decrypts and executes it. This architecture enables ZeroAuction, a sealed-bid auction smart contract with zero deposit requirement. ZeroAuction relies on the blockchain enhanced with delayed execution to hide and bind the bids within the encrypted transactions and, after a delay period, reveals them automatically by decrypting and executing the transactions. Because a bidder only needs to interact with the blockchain once instead of two times to participate in the auction, ZeroAuction significantly reduces the latency overhead along with eliminating the deposit requirement.
-      For further details, please check out our <a href="https://www.initc3.org/projects.html">Projects Page</a>.
+          Online voting is attractive for convenience and accessibility, but is more susceptible to voter coercion and vote buying than in-person voting. One mitigation is to give voters fake voting credentials that they can yield to a coercer. Fake credentials appear identical to real ones, but cast votes that are silently omitted from the final tally. An important unanswered question is how ordinary voters perceive such a mitigation - whether they could understand and use fake credentials, and whether the coercion risks justify the costs of mitigation. We present the first systematic study of these questions, involving 150 diverse individuals in Boston, Massachusetts. All participants “registered” and “voted” in a mock election - 120 were exposed to coercion resistance via fake credentials, the rest forming a control group. Of the 120 participants exposed to fake credentials, 96% understood their use. 53% reported that they would create fake credentials in a real-world voting scenario, given the opportunity. 10% mistakenly voted with a fake credential, however. 22% reported either personal experience with or direct knowledge of coercion or vote-buying incidents. These latter participants rated the coercion-resistant system essentially as trustworthy as in-person voting via hand-marked paper ballots. Of the 150 total participants to use the system, 87% successfully created their credentials without assistance, 83% both successfully created and properly used their credentials. Participants give a System Usability Scale score of 70.4, which is slightly above the industry’s average score of 68. Our findings appear to support the importance of the coercion problem in general, and the promise of fake credentials as a possible mitigation, but user error rates remain an important usability challenge for future work.
+          For further details, please check out our <a href="https://www.initc3.org/projects.html">Projects Page</a>.
     </p>
     Keywords:
     <span class="ui small labels">
         <div class="ui basic label">
-          Transparency 
+          Voter coercion 
         </div>
         <div class="ui basic label">
-          Smart contracts 
+          Fake credentials 
         </div>
         <div class="ui basic label">
-          Encrypted transactions
+          Remote systems
         </div>
         <div class="ui basic label">
-          Blockchains
+          Trustworthy
         </div>
     </span>
 </div>
 <h2 class="ui header">More projects:</h2>
 <ul>
     <li>
-        <strong>TFM</strong>: Collusion-Resilience in Transaction Fee Mechanism Design
+        <strong>CFGs</strong>: Practical Proofs of Parsing for Context-free Grammars
     <li>
-        <strong>Secure Distributed Systems</strong>: Secure Synthesis of Distributed Cryptographic Applications
+        <strong>PURE</strong>: Payments with UWB
     <li>
-        <strong>Analysis</strong>: An Analysis of Avalanche Consensus
+        <strong>"The DAO"</strong>: The Contractarian Joint Venture
     <li>
-        <strong>ZKP</strong>: Proof of Compliance for Anonymous, Unlinkable Messages
+        <strong>LLMs</strong>: Evolving AI Collectives to Enhance Human Diversity and Enable Self-Regulation
     <li>
-        <strong>DeFi</strong>: Uniswap Daily Transaction Indices by Network
-</ul>
+        <strong>LPs</strong>: Fragmentation and optimal liquidity supply on decentralized exchanges
+</ul>      
 <i class="arrow circle right icon"></i><a href="{{ SITE_ROOT }}/projects.html">Even more projects...</a>
