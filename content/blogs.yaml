@@ -306,3 +306,10 @@
  title: "Eating Sandwiches: Modular and Lightweight Elimination of Transaction Reordering Attacks"
  authors: Orestis Alpos (University of Bern), Ignacio Amores-Sesar (University of Bern, IC3), Christian Cachin (University of Bern, IC3), Michelle Yeo (National University of Singapore)
  summary: The problems of maximal-extractable value (MEV) and front-running attacks have plagued decentralized finance (DeFi) in the recent years. We tackle the problem of sandwich attacks in general and introduce a protocol to transform any blockchain consensus algorithm into a new one that has the same security, but in which sandwich attacks are no longer profitable. Our protocol is fully decentralized with no trusted third parties or heavy cryptographic primitives. It makes existing blockchains resilient to such attacks in exchange for increased latency until consensus becomes final and by adding a small computational overhead.
+
+-
+ date: 2024-05-17
+ url: https://initc3org.medium.com/avalanche-consensus-does-it-perform-as-promised-549b1e58568e
+ title: "Avalanche Consensus — Does it Perform as Promised?"
+ authors: Philipp Schneider (University of Bern, IC3) with contributions by Ignacio Amores-Sesar (University of Bern, IC3), and Christian Cachin (University of Bern, IC3)
+ summary: In a three part series, we look at the “Snow” protocols that address the fundamental consensus problem and were introduced in a whitepaper by a group associated with AvaLabs that pioneered the Avalanche blockchain infrastructure. This is a post that consists of three parts. Part 1 appears here, <a href="https://cryptobern.github.io/snow_part2/">part 2</a> and <a href="https://cryptobern.github.io/snow_part3/">part 3</a> appear on the <a href="https://cryptobern.github.io/">Crypto@Bern blog</a>. This first part gives an overview of these Snow protocols and a summary of our findings. 
