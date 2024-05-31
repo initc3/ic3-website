@@ -4,6 +4,7 @@
 
 - D. Coppola, G. Camurati, C. Anliker, X. Hofmeier, P. Shaller, D. Basin, and S. Capkun. [PURE: Payments with UWB RElay-protection](https://www.research-collection.ethz.ch/handle/20.500.11850/662474). USENIX, 2024 (to appear)
 - B. Bailey and A. Miller. [Formalizing Soundness Proofs of Linear PCP SNARKs](https://www.usenix.org/conference/usenixsecurity24/presentation/bailey). USENIX, 2024. (to appear)
+- C. Freitag, O. Paneth, and R. Pass. [Public-Coin, Complexity-Preserving, Succinct Arguments of Knowledge for NP from Collision-Resistance](https://link.springer.com/chapter/10.1007/978-3-031-58737-5_5). Eurocrypt, 2024.
 - K. Sowon, E. Luhanga, L.F. Cranor, G. Fanti, C. Tucker, and A. Gueye. [The Role of User-Agent Interactions on Mobile Money Practices in Kenya and Tanzania](https://arxiv.org/pdf/2309.00226.pdf). IEEE S&P, 2024.
 - T. Liu, T. Xie, J. Zhang, D. Song, and Y. Zhang. [Pianist: Scalable zkRollups via Fully Distributed Zero-Knowledge Proofs](https://eprint.iacr.org/2023/1271). IEEE S&P, 2024.
 - M. Zhou, A. Park, E. Shi, and W. Zheng. [Piano: Extremely Simple, Single-Server PIR with Sublinear Server Computation](https://eprint.iacr.org/2023/452). IEEE S&P, 2024.
@@ -51,8 +52,8 @@
 - V. Nair and D. Song. [Multi-Factor Key Derivation Function (MFKDF) for Fast, Flexible, Secure, & Practical Key Management](https://arxiv.org/abs/2208.05586). USENIX, 2023.
 - K. Qin, S. Chaliasos, L. Zhou, B. Livshits, D. Song, and A. Gervais. [The Blockchain Imitation Game](https://www.usenix.org/system/files/sec23fall-prepub-331-qin.pdf). USENIX, 2023.
 - I. Sheff, X. Wang, K. Babel, H. Ni, R. van Renesse, and A. Myers. [Charlotte: Reformulating Blockchains into a Web of Composable Attested Data Structures for Cross-Domain Applications](https://dl.acm.org/doi/abs/10.1145/3607534). TOCS, 2023.
-- J. Ernstberger, J. Lauinger, F. Elsheimy, L. Zhou, S. Steinhorst, R. Canetti, A. Miller, A. Gervais, and D. Song. [SoK: Data Sovereignty](https://eprint.iacr.org/2023/967). EuroS&P, 2023.
-- V. Nair and D. Song. [Multi-Factor Credential Hashing for Asymmetric Brute-Force Attack Resistance](https://arxiv.org/abs/2306.08169). EuroS&P, 2023.
+- J. Ernstberger, J. Lauinger, F. Elsheimy, L. Zhou, S. Steinhorst, R. Canetti, A. Miller, A. Gervais, and D. Song. [SoK: Data Sovereignty](https://eprint.iacr.org/2023/967). Euro S&P, 2023.
+- V. Nair and D. Song. [Multi-Factor Credential Hashing for Asymmetric Brute-Force Attack Resistance](https://arxiv.org/abs/2306.08169). Euro S&P, 2023.
 - Z. Li, A. Sonnino, and P. Jovanovic. [Performance of EdDSA and BLS Signatures in Committee-Based Consensus](https://dl.acm.org/doi/abs/10.1145/3584684.3597265). ApPLIED, 2023.
 - X. Wang and R. van Renesse. [Disaggregating Applications Using Uniservices](https://dl.acm.org/doi/pdf/10.1145/3584684.3597271). ApPLIED, 2023.
 - N. Giridharan, F. Suri-Payer, M. Ding, H. Howard, I. Abraham, and N. Crooks. [BeeGees: Stayin’ Alive in Chained BFT](https://dl.acm.org/doi/pdf/10.1145/3583668.3594572). PODC, 2023.
