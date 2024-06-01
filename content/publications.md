@@ -2,6 +2,7 @@
 
 ## 2024 ##
 
+- G. Giuliari, A. Sonnino, M.Frei, F. Streun, L. Kokoris-Kogias, and A. Perrig. [An Empirical Study of Consensus Protocols’ DoS Resilience](https://netsec.ethz.ch/publications/papers/Consensus_DDoS_AsiaCCS_24.pdf). ASIA CCS, 2024. (to appear)
 - D. Coppola, G. Camurati, C. Anliker, X. Hofmeier, P. Shaller, D. Basin, and S. Capkun. [PURE: Payments with UWB RElay-protection](https://www.research-collection.ethz.ch/handle/20.500.11850/662474). USENIX, 2024 (to appear)
 - B. Bailey and A. Miller. [Formalizing Soundness Proofs of Linear PCP SNARKs](https://www.usenix.org/conference/usenixsecurity24/presentation/bailey). USENIX, 2024. (to appear)
 - C. Freitag, O. Paneth, and R. Pass. [Public-Coin, Complexity-Preserving, Succinct Arguments of Knowledge for NP from Collision-Resistance](https://link.springer.com/chapter/10.1007/978-3-031-58737-5_5). Eurocrypt, 2024.
