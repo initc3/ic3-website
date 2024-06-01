@@ -14,6 +14,7 @@
 - T. Sharma, V. C. Nair, H. Wang, Y. Wang, and D. Song. [“I Can’t Believe It’s Not Custodial!”: Usable Trustless Decentralized Key Management](https://dl.acm.org/doi/full/10.1145/3613904.3642464). CHI, 2024.
 - K. Lee, A.F. Cooper, and J. Grimmelmann. [Talkin' 'Bout AI Generation: Copyright and the Generative-AI Supply Chain](https://dl.acm.org/doi/abs/10.1145/3614407.3643696). CSLAW, 2024.
 - M. Rosenberg, J. White, C. Garman, and I. Miers. [zk-creds: Flexible Anonymous Credentials from zkSNARKs and Existing Identity Infrastructure](https://eprint.iacr.org/2022/878.pdf). RWC, 2024.
+- Y. Ji and J. Grimmelmann. [Regulatory Implications of MEV Mitigations](https://james.grimmelmann.net/files/articles/mev-mitigations.pdf). FC, 2024 International Workshop.
 - F-X. Wicht, Z. Wang, D.V. Le, and C. Cachin. [A Transaction-Level Model for Blockchain Privacy](https://eprint.iacr.org/2023/1902). FC, 2024.
 - F. Baldimtsi, K. Chalkias, P. Chatzigiannis, and M. Kelkar. [Truncator: Time-space Tradeoff of Cryptographic Primitives](https://fc24.ifca.ai/preproceedings/205.pdf). FC, 2024.
 - D. Maram, M. Kelkar, I. Bentov, and A. Juels. [GoAT: File Geolocation via Anchor Timestamping](https://fc24.ifca.ai/preproceedings/189.pdf). FC, 2024.
