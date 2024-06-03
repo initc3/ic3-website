@@ -952,7 +952,7 @@ alumni_students:
     title:
     email: alex@manuskin.org
     weburl: 'https://github.com/amanusk'
-    bio: "Alex is a researcher working on ZenGo-X. He is interested in distributed systems, scaling cryptocurrencies and security.\n"
+    bio: "Alex is a researcher working at StarkWare. He is interested in distributed systems, scaling cryptocurrencies and security.\n"
 
   -
     name: 'Sarah Azouvi'
@@ -968,7 +968,7 @@ alumni_students:
     title:
     email: odednaor@gmail.com
     weburl: 
-    bio: "Oded obtained his Masters under the supervision of prof. Ittay Eyal and is a PhD candidate at the Technion. His research interests include blockchains, security, and distributed systems in general.\n"
+    bio: "Oded obtained his Masters under the supervision of prof. Ittay Eyal. He has joined StarkWare working as a Product Manager & Blockchain Researcher. His research interests include blockchains, security, and distributed systems in general.\n"
 
   -
     name: 'Lorenz Breidenbach'
