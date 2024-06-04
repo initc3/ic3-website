@@ -29,7 +29,37 @@ challenges:
     color: 'red'
 
 projects:
+ 
+  -
+     name: 'Asymmetric distributed trust'
+     authors: Orestis Alpos, Christian Cachin, Björn Tackmann, and Luca Zanolini 
+     challenges: [*correctness, *confidentiality]
+     description: Quorum systems are a key abstraction in distributed fault-tolerant computing for capturing trust assumptions. They can be found at the core of many algorithms for implementing reliable broadcasts, shared memory, consensus and other problems. This paper introduces asymmetric Byzantine quorum systems that model subjective trust. Every process is free to choose which combinations of other processes it trusts and which ones it considers faulty. Asymmetric quorum systems strictly generalize standard Byzantine quorum systems, which have only one global trust assumption for all processes. This work also presents protocols that implement abstractions of shared memory, broadcast primitives, and a consensus protocol among processes prone to Byzantine faults and asymmetric trust. The model and protocols pave the way for realizing more elaborate algorithms with asymmetric trust. For more details, see our <a href="https://link.springer.com/article/10.1007/s00446-024-00469-1">work</a>.
 
+  -
+     name: 'A simple model of a central bank digital currency'
+     authors: Bineet Mishra and Eswar Prasad
+     challenges: [*correctness, *compliance]
+     description: We develop a general equilibrium model that highlights the trade-offs between physical and digital forms of retail central bank money. The key differences between cash and central bank digital currency (CBDC) include transaction efficiency, possibilities for tax evasion, and, potentially, nominal rates of return. We establish conditions under which cash and CBDC can co-exist and show how government policies can influence relative holdings of cash, CBDC, and other assets. We illustrate how a CBDC can facilitate negative nominal interest rates and helicopter drops, and also how a CBDC can be structured to prevent capital flight from other assets. For more information, see our <a href="https://www.sciencedirect.com/science/article/abs/pii/S1572308924000676">paper</a>.
+     
+  -
+     name: 'Opportunities and challenges associated with the development of FinTech and Central Bank Digital Currency'
+     authors: Stijn Claessens, Lin William Cong, Kose John, Fariborz Moshirian, and Cyn-Young Park
+     challenges: [*compliance, *confidentiality]
+     description: Central banks around the world are exploring the possibility of Central Bank Digital Currencies (CBDCs) for retail and wholesale use. While no major economy is yet to fully introduced a CBDC, some countries have begun pilot programs. The purpose of this paper is to highlight the potential benefits and risks associated with CBDCs, including challenges and opportunities associated with proposed CBDC regulation in the United States and the European Union. The paper also discusses the CBDC landscape in Asia. It highlights some of the key findings of the research presented in this special issue on FinTech and CBDCs. Lastly, the paper offers thoughts for potential future research in areas such as the actual designs of CBDCs and their uses, ‘DeFi’ versus ‘CeFi’, their interoperability and stability, and concerns over cybercrime. For more details, see our <a href="https://www.sciencedirect.com/science/article/abs/pii/S1572308924000652">work</a>.
+     
+  -
+     name: 'A Note on Zero-Knowledge for NP and One-Way Functions'
+     authors: Yanyi Liu, Noam Mazor, and Rafael Pass
+     challenges: [*correctness]
+     description: We present a simple alternative exposition of the the recent result of Hirahara and Nanashima (STOC’24) showing that one-way functions exist if (1) every language in NP has a zero-knowledge proof/argument (i.e., NP  ⊆ ZKA) and (2) ZKA contains non-trivial languages (i.e., ZKA  ̸⊆ ioP/poly). Our presentation does not rely on meta-complexity and we hope it may be useful for didactic purposes. For more information, please see our <a href="https://eprint.iacr.org/2024/800.pdf">paper</a>.
+     
+  -
+     name: 'Regulatory Implications of MEV Mitigations'
+     authors: Yan Ji and James Grimmelmann
+     challenges: [*correctness, *compliance]
+     description: This paper examines the legal ramifications of Miner / Maximal Extractable Value (MEV), a phenomenon in which some entities (e.g., miners or validators) leverage their positional advantages to generate extra profits on blockchains. In previous work, Barczentewicz et al. argued that some MEV extraction techniques could constitute illegal market manipulation under United States securities law, depending on the publicness of the victim transactions. While their analysis applies to typical Ethereum and Flashbots implementations, we contend that the rapidly evolving blockchain ecosystem and the emergence of new MEV mitigation measures necessitate a revised test for market-manipulation liability. Our proposal focuses on the principle of respecting the initiating user’s intent, rather than simply the network status of the transactions. We also identify new enforcement challenges that arise from the decentralization nature of blockchains. By offering a nuanced understanding of the MEV landscape and exploring the legal implications for manipulation liability, this paper contributes to the ongoing discussion on MEV regulation in blockchain ecosystems. For more details, see our <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4831566">paper</a>.
+     
   -
      name: 'Give and Take: An End-To-End Investigation of Giveaway Scam Conversion Rates'
      authors: Enze Liu, George Kappos, Eric Mugnier, Luca Invernizzi, Stefan Savage, David Tao, Kurt Thomas, Geoffrey M. Voelker, and Sarah Meiklejohn
