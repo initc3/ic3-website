@@ -22,7 +22,7 @@ The details below are subject to change!
 <iframe height="1115" width="1115" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSkApkNuu6pRNbqmZvsqc6Xtw4mCqIet4YhWdnEfk6eG_yVRDRArsnZkOXLhsnW-8AT2lj7QbEh90O7/pubhtml?widget=true&amp;headers=false"></iframe>
 --->
 
-<iframe style="border: 0; width: 100%; height: 100% overflow: auto" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRH1GmTz76Hw9IhGZBL7yV7DhTyEH4oM5sO4BnH8VmogYaY07H8yK49yWimPT6oFBvr6GEm8NP-3gPH/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe height="1115" width="1130" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRH1GmTz76Hw9IhGZBL7yV7DhTyEH4oM5sO4BnH8VmogYaY07H8yK49yWimPT6oFBvr6GEm8NP-3gPH/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 
 ### REGISTRATION & SPONSORSHIP
