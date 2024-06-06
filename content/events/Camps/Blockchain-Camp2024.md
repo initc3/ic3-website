@@ -15,7 +15,7 @@ Join us for the 9th Annual IC3 Blockchain Camp! This 7-day experience will be ho
 In addition to tech talks, panels and projects, we are planning social activities, games, birds-of-a-feather discussions, and much more. Topics will include DeFi, DAOs, cryptography, consensus, AI and more!
 
 
-### DRAFT CAMP SCHEDULE
+### CAMP SCHEDULE
 
 The details below are subject to change!
 <!---
@@ -55,6 +55,7 @@ Up to two employees of IC3 Partner Members (see current list of partners <strong
 
 All Industry/Professional participants, please apply <strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSc8PlAwTPSK3a1vfe89jR2SFvoMkpoIZW0ZnwCTJDotsK1Wcg/viewform">here</a></strong>.
 
+<!---
 
 ### PROGRAM
 
@@ -67,6 +68,8 @@ We will offer two overlapping tracks: a coding track and a presentation track.
 Both tracks require pre-registration. Please use the <strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSc8PlAwTPSK3a1vfe89jR2SFvoMkpoIZW0ZnwCTJDotsK1Wcg/viewform">registration form</a></strong>. Those who register will receive additional details by email before the event.
 
 Please check previous camp editions for details <a href="https://www.initc3.org/events/2023-06-12-ic3-blockchain-camp-2023">2023</a>, <a href="https://www.initc3.org/events/2022-08-01-ic3-blockchain-camp-2022">2022</a>, <a href="https://www.initc3.org/events/2021-07-25-ic3-blockchain-summer-camp">2021</a>.
+
+--->
 
 
 <div class="ui center aligned basic segment">
