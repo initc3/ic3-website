@@ -19,11 +19,14 @@ In addition to tech talks, panels and projects, we are planning social activitie
 
 The details below are subject to change!
 <!---
+
 <iframe height="1115" width="1115" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSkApkNuu6pRNbqmZvsqc6Xtw4mCqIet4YhWdnEfk6eG_yVRDRArsnZkOXLhsnW-8AT2lj7QbEh90O7/pubhtml?widget=true&amp;headers=false"></iframe>
+
 --->
 
 <iframe height="1115" width="1130" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRH1GmTz76Hw9IhGZBL7yV7DhTyEH4oM5sO4BnH8VmogYaY07H8yK49yWimPT6oFBvr6GEm8NP-3gPH/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
+<!---
 
 ### REGISTRATION & SPONSORSHIP
 
@@ -54,6 +57,8 @@ Up to two employees of IC3 Partner Members (see current list of partners <strong
 > Exceptions will be made on a case-by-case basis to allow additional community members to participate in the camp without sponsorship. Please email IC3 Community Manager, Bria Han (<a href="mailto:jh2584@cornell.edu">jh2584@cornell.edu</a>) if you would like to apply for non-donor participation. Please indicate in the application form below if you would like to apply for camp sponsorship or for participation without a sponsor. 
 
 All Industry/Professional participants, please apply <strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSc8PlAwTPSK3a1vfe89jR2SFvoMkpoIZW0ZnwCTJDotsK1Wcg/viewform">here</a></strong>.
+
+--->
 
 <!---
 
