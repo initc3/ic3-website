@@ -15,6 +15,16 @@ Join us for the 9th Annual IC3 Blockchain Camp! This 7-day experience will be ho
 In addition to tech talks, panels and projects, we are planning social activities, games, birds-of-a-feather discussions, and much more. Topics will include DeFi, DAOs, cryptography, consensus, AI and more!
 
 
+### DRAFT CAMP SCHEDULE
+
+The details below are subject to change!
+<!---
+<iframe height="1115" width="1115" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSkApkNuu6pRNbqmZvsqc6Xtw4mCqIet4YhWdnEfk6eG_yVRDRArsnZkOXLhsnW-8AT2lj7QbEh90O7/pubhtml?widget=true&amp;headers=false"></iframe>
+--->
+
+<iframe height="1115" width="1115" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRH1GmTz76Hw9IhGZBL7yV7DhTyEH4oM5sO4BnH8VmogYaY07H8yK49yWimPT6oFBvr6GEm8NP-3gPH/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
+
 ### REGISTRATION & SPONSORSHIP
 
 <p align="center">
@@ -46,11 +56,6 @@ Up to two employees of IC3 Partner Members (see current list of partners <strong
 All Industry/Professional participants, please apply <strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSc8PlAwTPSK3a1vfe89jR2SFvoMkpoIZW0ZnwCTJDotsK1Wcg/viewform">here</a></strong>.
 
 
-### DRAFT CAMP SCHEDULE
-
-The details below are subject to change!
-
-<iframe height="1115" width="1115" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSkApkNuu6pRNbqmZvsqc6Xtw4mCqIet4YhWdnEfk6eG_yVRDRArsnZkOXLhsnW-8AT2lj7QbEh90O7/pubhtml?widget=true&amp;headers=false"></iframe>
 ### PROGRAM
 
 We will offer two overlapping tracks: a coding track and a presentation track.
