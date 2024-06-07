@@ -24,7 +24,6 @@ The details below are subject to change!
 
 <iframe height="1115" width="1130" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRH1GmTz76Hw9IhGZBL7yV7DhTyEH4oM5sO4BnH8VmogYaY07H8yK49yWimPT6oFBvr6GEm8NP-3gPH/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
-<!---
 
 ### REGISTRATION & SPONSORSHIP
 
@@ -56,7 +55,6 @@ Up to two employees of IC3 Partner Members (see current list of partners <strong
 
 All Industry/Professional participants, please apply <strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSc8PlAwTPSK3a1vfe89jR2SFvoMkpoIZW0ZnwCTJDotsK1Wcg/viewform">here</a></strong>.
 
---->
 
 <!---
 
