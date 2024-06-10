@@ -32,6 +32,7 @@ The details below are subject to change!
 
 </div>
 
+<!---
 ### REGISTRATION & SPONSORSHIP
 
 <p align="center">
@@ -61,7 +62,7 @@ Up to two employees of IC3 Partner Members (see current list of partners <strong
 > Exceptions will be made on a case-by-case basis to allow additional community members to participate in the camp without sponsorship. Please email IC3 Community Manager, Bria Han (<a href="mailto:jh2584@cornell.edu">jh2584@cornell.edu</a>) if you would like to apply for non-donor participation. Please indicate in the application form below if you would like to apply for camp sponsorship or for participation without a sponsor. 
 
 All Industry/Professional participants, please apply <strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSc8PlAwTPSK3a1vfe89jR2SFvoMkpoIZW0ZnwCTJDotsK1Wcg/viewform">here</a></strong>.
-
+--->
 
 <!---
 
