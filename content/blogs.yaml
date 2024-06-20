@@ -313,3 +313,10 @@
  title: "Avalanche Consensus — Does it Perform as Promised?"
  authors: Philipp Schneider (University of Bern, IC3) with contributions by Ignacio Amores-Sesar (University of Bern, IC3), and Christian Cachin (University of Bern, IC3)
  summary: In a three part series, we look at the “Snow” protocols that address the fundamental consensus problem and were introduced in a whitepaper by a group associated with AvaLabs that pioneered the Avalanche blockchain infrastructure. This is a post that consists of three parts. Part 1 appears here, <a href="https://cryptobern.github.io/snow_part2/">part 2</a> and <a href="https://cryptobern.github.io/snow_part3/">part 3</a> appear on the <a href="https://cryptobern.github.io/">Crypto@Bern blog</a>. This first part gives an overview of these Snow protocols and a summary of our findings. 
+
+-
+ date: 2024-06-20
+ url: https://initc3org.medium.com/meet-the-team-behind-boquila-winning-project-of-the-2024-ic3-blockchain-camp-hackathon-3e988be5bebc
+ title: "Meet the Team Behind Boquila: Winning Project of the 2024 IC3 Blockchain Camp Hackathon"
+ authors: Surya Bakshi (UIUC, IC3, Offchain Labs), Sarah Allen (IC3, Flashbots), Lorenz Breidenbach (IC3, Chainlink Labs), Jim Ballingall (IC3), Haaroon Yousaf (IC3), Patrick McCorry (IC3, Arbitrum Foundation), Giannis Kaklamanis (Yale University), Vivian Jeng (Ethereum Foundation), Jayamine Alupotha (IC3, University of Bern), Mariarosaria Barbaraci (IC3, University of Bern), Abhimanyu Rawat (UPF Barcelona)
+ summary: The team behind Boquila, a proof of concept to obscure identifiable information from third-party websites, took the top spot at this year’s hackathon. We sat down with Mariarosaria Barbaraci and Jayamine Alupotha, two members of the winning team, to talk about what they built and their experience at this year’s IC3 Blockchain Camp.
