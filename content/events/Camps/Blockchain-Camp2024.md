@@ -7,7 +7,7 @@ summary: Thank you to everyone who participated in the 2024 IC3 Blockchain Camp!
 ---
 
 <div class="ui piled segment">
-  <img class="ui centered image" src="../images/events/blockchain-camp-2024/ic3 logo new.png" alt="" />
+  <img class="ui centered image" src="../images/events/blockchain-camp-2024/ic3 logo new.png" alt="" width="500"/>
 </div>
 
 <!---
@@ -44,7 +44,7 @@ See the full agenda below.
 
 </div>
 
-***The Talks:***
+***The Talks***
 
 - Ben Livshits, VP of Research at Matter Labs, discussed long-term ZK innovations. He pointed out that ZK "is not just math", but rather implementation, and addressing bugs and challenges.
 - Alice Han from Greenmantle & London School of Economics spoke about how Chinese regulators view crypto post-2021 crackdown.
@@ -77,6 +77,64 @@ See the full agenda below.
 </div>
 
 In addition to talks and panels, IC3 students presented their recent research on diverse topics like zkBridge, decentralized AI, and smart contract security.
+
+<div class="ui piled segment">
+  <img class="ui centered image" src="../images/events/blockchain-camp-2024/student-talks.jpg" alt="" />
+</div>
+
+
+***The Hackathon***
+
+Teams were assembled on the first day of the Camp after reviewing the project proposals. Everyone researched and programmed throughout the week and presented their projects on the last day of the Camp. Projects were judged by Sarah Allen (IC3, Flashbots), Patrick McCorry (Arbitrum Foundation), Surya Bakshi (Offchain Labs), Haaroon Yousaf (IC3), Lorenz Breidenbach (Chainlink Labs). The judges based their decisions on novelty, practicality, user experience, technical difficulty, and maturity of development within the week.
+
+**Winning Projects:**
+
+<strong>1. First Place - Boquila</strong>
+
+<div class="ui piled segment">
+  <img class="ui centered image" src="../images/events/blockchain-camp-2024/1.jpg" alt="" />
+  <div class="ui bottom attached message">
+  <strong>﻿ Team Members: Giannis Kaklamanis (Yale University), Vivian Jeng (Ethereum Foundation), Jayamine Alupotha (IC3, University of Bern), Mariarosaria Barbaraci (IC3, University of Bern), Abhimanyu Rawat (UPF Barcelona)
+  </strong><br>
+  </div>
+</div>
+
+*Summary:* The team explored protecting user identities from third parties through the use of multiple public keys that validate users. This prevents social media accounts and other websites from tracking online behavior. For more details, read our new <a href="https://initc3org.medium.com/meet-the-team-behind-boquila-winning-project-of-the-2024-ic3-blockchain-camp-hackathon-3e988be5bebc">IC3 blog</a> post.
+
+<strong>2. Second Place - DAO Decentralization</strong>
+
+<div class="ui piled segment">
+  <img class="ui centered image" src="../images/events/blockchain-camp-2024/2.jpg" alt="" />
+  <div class="ui bottom attached message">
+  <strong>﻿ Team Members: Daniel Vilardell (IC3, Cornell Tech), Amy Zhao (IC3), Shashank Motepalli (University of Toronto), Tanusree Sharma (UIUC), Siheng Pan (UIUC)
+  </strong><br>
+  </div>
+</div>
+
+*Summary:* This project applies the Voting-Bloc Entropy metric from the paper <a href="https://arxiv.org/abs/2311.03530">"DAO Decentralization: Voting-Bloc Entropy, Bribery, and Dark DAOs"</a> to real DAO voting data for 27 DAOs. It visualizes changes over time, voter participation, distribution of voting power, voting clusters, and proposal metadata.
+
+<strong>3. Third Place - TEE - IPFS</strong>
+
+<div class="ui piled segment">
+  <img class="ui centered image" src="../images/events/blockchain-camp-2024/3.jpg" alt="" />
+  <div class="ui bottom attached message">
+  <strong>﻿ ﻿Team Members: Marwa Moallem (IC3, Technion), James Austgen (IC3, Cornell Tech), Andrew Miller (IC3, UIUC), Pradyumna Shome (Georgia Tech), Jiasun Li (George Mason University)
+  </strong><br>
+  </div>
+</div>
+
+*Summary:* The team created an HTTPS domain name that can only be served by a gateway verifying the hashes of IPFS files using remote attestation and a trusted execution environment. This ensures users can access IPFS files through their web browsers with confidence in their accuracy.
+
+
+***Group Activity & Closing Party***
+
+Camp attendees also enjoyed a group activity —the MET tour— to experience the rich museum culture NYC has to offer. 
+
+<div class="ui piled segment">
+  <img class="ui centered image" src="../images/events/blockchain-camp-2024/met-tour.jpg" alt="" />
+</div>
+
+The camp concluded with an epic closing party sponsored by <a href="https://chain.link/">Chainlink</a>, held at the historical Sanctuary on Roosevelt Island with live jazz music, delicious food, and a reward ceremony for our hackathon winning teams.
 
 
 
