@@ -7,7 +7,7 @@ summary: Thank you to everyone who participated in the 2024 IC3 Blockchain Camp!
 ---
 
 <div class="ui piled segment">
-  <img class="ui centered image" src="../images/events/blockchain-camp-2024/ic3 logo new.png" alt="" width="500"/>
+  <img class="ui centered image" src="../images/events/blockchain-camp-2024/ic3 logo new.png" alt="alt text" width="300"/>
 </div>
 
 <!---
@@ -94,7 +94,7 @@ Teams were assembled on the first day of the Camp after reviewing the project pr
 <div class="ui piled segment">
   <img class="ui centered image" src="../images/events/blockchain-camp-2024/1.jpg" alt="" />
   <div class="ui bottom attached message">
-  <strong>﻿ Team Members: Giannis Kaklamanis (Yale University), Vivian Jeng (Ethereum Foundation), Jayamine Alupotha (IC3, University of Bern), Mariarosaria Barbaraci (IC3, University of Bern), Abhimanyu Rawat (UPF Barcelona)
+  <strong>﻿Team Members: Giannis Kaklamanis (Yale University), Vivian Jeng (Ethereum Foundation), Jayamine Alupotha (IC3, University of Bern), Mariarosaria Barbaraci (IC3, University of Bern), Abhimanyu Rawat (UPF Barcelona)
   </strong><br>
   </div>
 </div>
@@ -106,7 +106,7 @@ Teams were assembled on the first day of the Camp after reviewing the project pr
 <div class="ui piled segment">
   <img class="ui centered image" src="../images/events/blockchain-camp-2024/2.jpg" alt="" />
   <div class="ui bottom attached message">
-  <strong>﻿ Team Members: Daniel Vilardell (IC3, Cornell Tech), Amy Zhao (IC3), Shashank Motepalli (University of Toronto), Tanusree Sharma (UIUC), Siheng Pan (UIUC)
+  <strong>﻿Team Members: Daniel Vilardell (IC3, Cornell Tech), Amy Zhao (IC3), Shashank Motepalli (University of Toronto), Tanusree Sharma (UIUC), Siheng Pan (UIUC)
   </strong><br>
   </div>
 </div>
@@ -118,7 +118,7 @@ Teams were assembled on the first day of the Camp after reviewing the project pr
 <div class="ui piled segment">
   <img class="ui centered image" src="../images/events/blockchain-camp-2024/3.jpg" alt="" />
   <div class="ui bottom attached message">
-  <strong>﻿ ﻿Team Members: Marwa Moallem (IC3, Technion), James Austgen (IC3, Cornell Tech), Andrew Miller (IC3, UIUC), Pradyumna Shome (Georgia Tech), Jiasun Li (George Mason University)
+  <strong>﻿﻿Team Members: Marwa Moallem (IC3, Technion), James Austgen (IC3, Cornell Tech), Andrew Miller (IC3, UIUC), Pradyumna Shome (Georgia Tech), Jiasun Li (George Mason University)
   </strong><br>
   </div>
 </div>
@@ -136,7 +136,44 @@ Camp attendees also enjoyed a group activity —the MET tour— to experience th
 
 The camp concluded with an epic closing party sponsored by <a href="https://chain.link/">Chainlink</a>, held at the historical Sanctuary on Roosevelt Island with live jazz music, delicious food, and a reward ceremony for our hackathon winning teams.
 
+<div class="ui center aligned basic segment">
+    <div class="ui center image">
+        <img class="ui image" src="../images/events/blockchain-camp-2024/committee.jpg" alt="alt text" width="500"/>
+    </div>
+    <div class="ui center image">
+        <img class="ui image" src="../images/events/blockchain-camp-2024/chainlink.jpg" alt="alt text" width="500"/>
+    </div>
+    <div class="ui clearing horizontal divider">
+        <i class="certificate icon"></i>
+    </div>
+    <div class="ui center image">
+        <img class="ui image" src="../images/events/blockchain-camp-2024/band.jpg" alt="" width="500"/>
+    </div>
+    <div class="ui center image">
+        <img class="ui image" src="../images/events/blockchain-camp-2024/party.jpg" alt="" width="500"/>
+    </div>    
+</div>
 
+A special shoutout to our technical committee for putting on such a stellar event: Sarah Allen, Surya Bakshi, Lorenz Breidenbach, Patrick McCorry, and Haaroon Yousaf. We also thank IC3 partners and sponsors for their generous support:
+
+<div class="ui center aligned basic segment">
+    <div class="ui small images">
+	<img class="ui image sponsor logo" id="chainlink" src="images/events/blockchain-camp-2024/Chainlink-New.png">
+	<img class="ui image sponsor logo" id="ethereum" src="images/events/blockchain-camp-2024/EF 2024.jpeg">
+	<img class="ui image sponsor logo" id="fidelity fcat" src="images/events/blockchain-camp-2024/FCAT logo.png">
+	<img class="ui image sponsor logo" id="Arbitrum Foundation" src="images/events/blockchain-camp-2024/AF navy.png">    
+	<img class="ui image sponsor logo" id="protocollabs" src="images/events/blockchain-camp-2024/protocol-labs.png">
+	<img class="ui image sponsor logo" id="optimism" src="images/events/blockchain-camp-2024/Optimism.jpg">    
+	<img class="ui image sponsor logo" id="avalabs" src="images/events/blockchain-camp-2024/Avalanche.png">
+    </div>
+</div>
+
+<div class="ui piled segment">
+  <img class="ui centered image" src="../images/events/blockchain-camp-2024/group.jpeg" alt="" />
+  <div class="ui bottom attached message">
+  <strong>Thank you again to everyone who participated in this year’s event! ﻿﻿We hope to see you at the IC3 Blockchain Camp 2024 in NYC!</strong><br>
+  </div>
+</div>
 
 <!---
 ### REGISTRATION & SPONSORSHIP
@@ -205,5 +242,3 @@ Please check previous camp editions for details <a href="https://www.initc3.org/
   </div>
 </div>  
 --->
-
-<strong>We hope to see you at the IC3 Blockchain Camp 2024 in NYC!</strong>
