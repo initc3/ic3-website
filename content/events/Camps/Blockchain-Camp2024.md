@@ -25,7 +25,7 @@ We were back at Cornell Tech's campus on Roosevelt Island for a week of learning
 This year’s Camp included research talks about TradFi, regulation, cryptography, infrastructure, scalability, L2s, DAOs, and more. Not to mention our seven-day hackathon. 
 
 <div class="ui piled segment">
-  <img class="ui centered image" src="../images/events/blockchain-camp-2024/intro.jpeg" alt="" width="1000"/>
+  <img class="ui centered image" src="../images/events/blockchain-camp-2024/intro.jpeg" alt="" width="800"/>
   <div class="ui bottom attached message">
   <strong> Opening address given by IC3 Associate Director Prof. Andrew Miller (UIUC), who acknowledged the initiative's contributions, naming several well-known projects and companies that originated from IC3.
 </strong><br>
@@ -55,25 +55,25 @@ See the full agenda below.
 - Emin Gün Sirer, founder of AvaLabs and former IC3 Co-Director, shared his journey building the pioneering Avalanche protocol, the challenges of transitioning from academia to industry, and new developments his team is working on which involves GenAI.
 
 <div class="ui piled segment">
-  <img class="ui centered image" src="../images/events/blockchain-camp-2024/gun.jpeg" alt="" width="1000"/>
+  <img class="ui centered image" src="../images/events/blockchain-camp-2024/gun.jpeg" alt="" width="800"/>
 </div>
 
 - Prof. Dahlia Malkhi (UCSB) explained the need for Byzantine View Synchronization, why it was previously overlooked before linear view-change (Hotstuff), and how to solve it with amortized linear communication and optimal leniency.
 
 <div class="ui piled segment">
-  <img class="ui centered image" src="../images/events/blockchain-camp-2024/dahlia.jpeg" alt="" width="1000"/>
+  <img class="ui centered image" src="../images/events/blockchain-camp-2024/dahlia.jpeg" alt="" width="800"/>
 </div>
 
 - Steven Goldfeder (CEO at Offchain Labs & IC3 alumni) and Harry Kalodner (CTO at Offchain Labs) shared stories from the early days of building Arbitrum. Fast-forward to today, Arbitrum is the leading L2 with <a href="https://l2beat.com/scaling/summary">nearly $18B in TVL</a>.
-
+  
 <div class="ui piled segment">
-  <img class="ui centered image" src="../images/events/blockchain-camp-2024/fireside-chat.jpeg" alt="" width="1000"/>
+  <img class="ui centered image" src="../images/events/blockchain-camp-2024/fireside-chat.jpeg" alt="" width="800"/>
 </div>
 
 - 21Shares, Grayscale Investments, and Fidelity Digital Assets discussed investor appetite post-FTX and the explosion of interest from retail in relation to spot ETFs.
 
 <div class="ui piled segment">
-  <img class="ui centered image" src="../images/events/blockchain-camp-2024/panel.jpeg" alt="" width="1000"/>
+  <img class="ui centered image" src="../images/events/blockchain-camp-2024/panel.jpeg" alt="" width="800"/>
 </div>
 
 In addition to talks and panels, IC3 students presented their recent research on diverse topics like zkBridge, decentralized AI, and smart contract security.
@@ -92,7 +92,7 @@ Teams were assembled on the first day of the Camp after reviewing the project pr
 <strong>1. First Place - Boquila</strong>
 
 <div class="ui piled segment">
-  <img class="ui centered image" src="../images/events/blockchain-camp-2024/1.jpg" alt="" width="1000"/>
+  <img class="ui centered image" src="../images/events/blockchain-camp-2024/1.jpg" alt="" width="800"/>
   <div class="ui bottom attached message">
   <strong>﻿Team Members: Giannis Kaklamanis (Yale University), Vivian Jeng (Ethereum Foundation), Jayamine Alupotha (IC3, University of Bern), Mariarosaria Barbaraci (IC3, University of Bern), Abhimanyu Rawat (UPF Barcelona)
   </strong><br>
@@ -104,7 +104,7 @@ Teams were assembled on the first day of the Camp after reviewing the project pr
 <strong>2. Second Place - DAO Decentralization</strong>
 
 <div class="ui piled segment">
-  <img class="ui centered image" src="../images/events/blockchain-camp-2024/2.jpg" alt="" width="1000"/>
+  <img class="ui centered image" src="../images/events/blockchain-camp-2024/2.jpg" alt="" width="800"/>
   <div class="ui bottom attached message">
   <strong>﻿Team Members: Daniel Vilardell (IC3, Cornell Tech), Amy Zhao (IC3), Shashank Motepalli (University of Toronto), Tanusree Sharma (UIUC), Siheng Pan (UIUC)
   </strong><br>
@@ -116,7 +116,7 @@ Teams were assembled on the first day of the Camp after reviewing the project pr
 <strong>3. Third Place - TEE - IPFS</strong>
 
 <div class="ui piled segment">
-  <img class="ui centered image" src="../images/events/blockchain-camp-2024/3.jpg" alt="" width="1000"/>
+  <img class="ui centered image" src="../images/events/blockchain-camp-2024/3.jpg" alt="" width="800"/>
   <div class="ui bottom attached message">
   <strong>﻿﻿Team Members: Marwa Moallem (IC3, Technion), James Austgen (IC3, Cornell Tech), Andrew Miller (IC3, UIUC), Pradyumna Shome (Georgia Tech), Jiasun Li (George Mason University)
   </strong><br>
@@ -131,7 +131,7 @@ Teams were assembled on the first day of the Camp after reviewing the project pr
 Camp attendees also enjoyed a group activity —the MET tour— to experience the rich museum culture NYC has to offer. 
 
 <div class="ui piled segment">
-  <img class="ui centered image" src="../images/events/blockchain-camp-2024/met-tour.jpg" alt="" width="1000"/>
+  <img class="ui centered image" src="../images/events/blockchain-camp-2024/met-tour.jpg" alt="" width="800"/>
 </div>
 
 The camp concluded with an epic closing party sponsored by <a href="https://chain.link/">Chainlink</a>, held at the historical Sanctuary on Roosevelt Island with live jazz music, delicious food, and a reward ceremony for our hackathon winning teams.
@@ -141,13 +141,13 @@ The camp concluded with an epic closing party sponsored by <a href="https://chai
         <img class="ui image" src="../images/events/blockchain-camp-2024/chainlink.jpg" alt="" width="500"/>
     </div>
     <div class="ui center image">
-        <img class="ui image" src="../images/events/blockchain-camp-2024/band.jpg" alt="" width="500"/>
+        <img class="ui image" src="../images/events/blockchain-camp-2024/band.jpg" alt="" width="490"/>
     </div>
     <div class="ui clearing horizontal divider">
         <i class="certificate icon"></i>
     </div>
     <div class="ui center image">
-        <img class="ui image" src="../images/events/blockchain-camp-2024/committee.jpg" alt="" width="500"/>
+        <img class="ui image" src="../images/events/blockchain-camp-2024/committee.jpg" alt="" width="495"/>
     </div>
     <div class="ui center image">
         <img class="ui image" src="../images/events/blockchain-camp-2024/party.jpg" alt="" width="500"/>
@@ -158,13 +158,13 @@ A special shoutout to our technical committee for putting on such a stellar even
 
 <div class="ui center aligned basic segment">
     <div class="ui small images">
-	<img class="ui image sponsor logo" id="chainlink" src="images/partners/Chainlink-New.png">
-	<img class="ui image sponsor logo" id="ethereum" src="images/partners/EF 2024.jpeg">
-	<img class="ui image sponsor logo" id="fidelity fcat" src="images/partners/FCAT logo.png">
-	<img class="ui image sponsor logo" id="Arbitrum Foundation" src="images/partners/AF navy.png">    
-	<img class="ui image sponsor logo" id="protocollabs" src="images/partners/protocol-labs.png">
-	<img class="ui image sponsor logo" id="optimism" src="images/partners/Optimism.jpg">    
-	<img class="ui image sponsor logo" id="avalabs" src="images/partners/Avalanche.png">
+	<img class="ui image" id="chainlink" src="../images/events/blockchain-camp-2024/Chainlink-New.png" />
+	<img class="ui image" id="ethereum" src="../images/events/blockchain-camp-2024/EF 2024.jpeg" />
+	<img class="ui image" id="fidelity fcat" src="../images/events/blockchain-camp-2024/FCAT logo.png" />
+ 	<img class="ui image" id="Arbitrum Foundation" src="../images/events/blockchain-camp-2024/AF navy.png" />
+	<img class="ui image" id="protocollabs" src="../images/events/blockchain-camp-2024/protocol-labs.png" />
+	<img class="ui image" id="optimism" src="../images/events/blockchain-camp-2024/Optimism.jpg" />
+        <img class-"ui image" id="avalanche" src="../images/events/blockchain-camp-2024/avalanche.png" /> 
     </div>
 </div>
 
