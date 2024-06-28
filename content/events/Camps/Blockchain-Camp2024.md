@@ -7,7 +7,7 @@ summary: Thank you to everyone who participated in the 2024 IC3 Blockchain Camp!
 ---
 
 <div class="ui piled segment">
-  <img class="ui centered image" src="../images/events/blockchain-camp-2024/ic3 logo new.png" alt="alt text" width="300"/>
+  <img class="ui centered image" src="../images/events/blockchain-camp-2024/ic3 logo new.png" alt="" />
 </div>
 
 <!---
@@ -25,7 +25,7 @@ We were back at Cornell Tech's campus on Roosevelt Island for a week of learning
 This year’s Camp included research talks about TradFi, regulation, cryptography, infrastructure, scalability, L2s, DAOs, and more. Not to mention our seven-day hackathon. 
 
 <div class="ui piled segment">
-  <img class="ui centered image" src="../images/events/blockchain-camp-2024/intro.jpeg" alt="" />
+  <img class="ui centered image" src="../images/events/blockchain-camp-2024/intro.jpeg" alt="" width="750"/>
   <div class="ui bottom attached message">
   <strong> Opening address given by IC3 Associate Director Prof. Andrew Miller (UIUC), who acknowledged the initiative's contributions, naming several well-known projects and companies that originated from IC3.
 </strong><br>
@@ -138,10 +138,10 @@ The camp concluded with an epic closing party sponsored by <a href="https://chai
 
 <div class="ui center aligned basic segment">
     <div class="ui center image">
-        <img class="ui image" src="../images/events/blockchain-camp-2024/committee.jpg" alt="alt text" width="500"/>
+        <img class="ui image" src="../images/events/blockchain-camp-2024/committee.jpg" alt="" width="500"/>
     </div>
     <div class="ui center image">
-        <img class="ui image" src="../images/events/blockchain-camp-2024/chainlink.jpg" alt="alt text" width="500"/>
+        <img class="ui image" src="../images/events/blockchain-camp-2024/chainlink.jpg" alt="" width="500"/>
     </div>
     <div class="ui clearing horizontal divider">
         <i class="certificate icon"></i>
