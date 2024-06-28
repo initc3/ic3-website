@@ -3,24 +3,36 @@ name: 'IC3 Blockchain Camp 2024'
 location: Cornell Tech (Roosevelt Island) New York, NY
 start: 2024-06-10
 end: 2024-06-16
-summary: Join us for the 9th Annual IC3 Blockchain Camp! This 7-day experience will be hosted once again at the Cornell Tech Campus on Roosevelt Island, New York City. Our camp technical committee of Surya Bakshi, Haaroon Yousaf, Lorenz Breidenbach, and Patrick McCorry is preparing another immersive coding and learning experience!
+summary: Thank you to everyone who participated in the 2024 IC3 Blockchain Camp! 
 ---
 
 <div class="ui piled segment">
   <img class="ui centered image" src="../images/events/blockchain-camp-2024/ic3 logo new.png" alt="" />
 </div>
 
+<!---
 Join us for the 9th Annual IC3 Blockchain Camp! This 7-day experience will be hosted once again at the Cornell Tech Campus on Roosevelt Island, New York City. Our camp technical committee of Surya Bakshi, Haaroon Yousaf, Lorenz Breidenbach, and Patrick McCorry is preparing another immersive coding and learning experience.
 
 In addition to tech talks, panels and projects, we are planning social activities, games, birds-of-a-feather discussions, and much more. Topics will include DeFi, DAOs, cryptography, consensus, AI and more!
-
-
-### CAMP SCHEDULE
-
-The details below are subject to change!
-<!---
-<iframe height="1115" width="1115" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSkApkNuu6pRNbqmZvsqc6Xtw4mCqIet4YhWdnEfk6eG_yVRDRArsnZkOXLhsnW-8AT2lj7QbEh90O7/pubhtml?widget=true&amp;headers=false"></iframe>
 --->
+
+Thank you to everyone who participated in the 2024 IC3 Blockchain Camp! 
+
+We were back at Cornell Tech's campus on Roosevelt Island for a week of learning, networking, and hacking.
+
+### CAMP HIGHLIGHTS
+
+This year’s Camp included research talks about TradFi, regulation, cryptography, infrastructure, scalability, L2s, DAOs, and more. Not to mention our seven-day hackathon. 
+
+<div class="ui piled segment">
+  <img class="ui centered image" src="../images/events/blockchain-camp-2024/intro.jpeg" alt="" />
+  <div class="ui bottom attached message">
+  <strong> Opening address given by IC3 Associate Director Prof. Andrew Miller (UIUC), who acknowledged the initiative's contributions, naming several well-known projects and companies that originated from IC3.
+</strong><br>
+  </div>
+</div>
+
+See the full agenda below.
 
 <div style="margin-left:75px;width:auto">
 
@@ -32,10 +44,46 @@ The details below are subject to change!
 
 </div>
 
+***The Talks:***
+
+- Ben Livshits, VP of Research at Matter Labs, discussed long-term ZK innovations. He pointed out that ZK "is not just math", but rather implementation, and addressing bugs and challenges.
+- Alice Han from Greenmantle & London School of Economics spoke about how Chinese regulators view crypto post-2021 crackdown.
+- Prof. James Grimmelmann (Cornell, IC3) discussed what classifies as blockchain property. He explored a taxonomy of how the legal system could treat blockchains. Here’s a <a href="https://james.grimmelmann.net/talks/2024-06-10-what-even-is-blockchain-property.pdf">link</a> to his presentation.
+- Michael Neuder, researcher at Ethereum Foundation, broke down the concepts of staking, restaking, and liquid staking in his presentation. Check out <a href="https://ethresear.ch/t/the-risks-of-lrts/18799">his research</a> that inspired his talk.
+- Jeremy Pollack from Onyx by J.P. Morgan spoke about what attracted one of the world's largest banks to crypto: "The fact that crypto is 24/7, allows for cross-border money transfers, and programmability through the use of smart contracts."
+- ﻿IC3 PhD student Kushal Babel introduced <a href="https://initc3org.medium.com/prof-fair-transaction-ordering-in-a-profit-seeking-world-b6dadd71f086">his research</a> "PROF: Fair Transaction-Ordering in a Profit-Seeking World" — a strategy to fairly sequence transactions utilizing Trusted Execution Environments (TEEs), which helps mitigate the negative effects of MEV.
+- Emin Gün Sirer, founder of AvaLabs and former IC3 Co-Director, shared his journey building the pioneering Avalanche protocol, the challenges of transitioning from academia to industry, and new developments his team is working on which involves GenAI.
+
+<div class="ui piled segment">
+  <img class="ui centered image" src="../images/events/blockchain-camp-2024/gun.jpeg" alt="" />
+</div>
+
+- Prof. Dahlia Malkhi (UCSB) explained the need for Byzantine View Synchronization, why it was previously overlooked before linear view-change (Hotstuff), and how to solve it with amortized linear communication and optimal leniency.
+
+<div class="ui piled segment">
+  <img class="ui centered image" src="../images/events/blockchain-camp-2024/dahlia.jpeg" alt="" />
+</div>
+
+- Steven Goldfeder (CEO at Offchain Labs & IC3 alumni) and Harry Kalodner (CTO at Offchain Labs) shared stories from the early days of building Arbitrum. Fast-forward to today, Arbitrum is the leading L2 with <a href="https://l2beat.com/scaling/summary">nearly $18B in TVL</a>.
+
+<div class="ui piled segment">
+  <img class="ui centered image" src="../images/events/blockchain-camp-2024/fireside-chat.jpeg" alt="" />
+</div>
+
+- 21Shares, Grayscale Investments, and Fidelity Digital Assets discussed investor appetite post-FTX and the explosion of interest from retail in relation to spot ETFs.
+
+<div class="ui piled segment">
+  <img class="ui centered image" src="../images/events/blockchain-camp-2024/panel.jpeg" alt="" />
+</div>
+
+In addition to talks and panels, IC3 students presented their recent research on diverse topics like zkBridge, decentralized AI, and smart contract security.
+
+
+
 <!---
 ### REGISTRATION & SPONSORSHIP
 
-<p align="center">
+<p align="center">fireside
 	<a href="https://docs.google.com/forms/d/e/1FAIpQLSc8PlAwTPSK3a1vfe89jR2SFvoMkpoIZW0ZnwCTJDotsK1Wcg/viewform"> 
 	   <img src="../images/events/blockchain-camp-2024/Register.jpeg" width="200" />	
 	</a>	
@@ -65,7 +113,6 @@ All Industry/Professional participants, please apply <strong><a href="https://do
 --->
 
 <!---
-
 ### PROGRAM
 
 We will offer two overlapping tracks: a coding track and a presentation track.
@@ -77,10 +124,9 @@ We will offer two overlapping tracks: a coding track and a presentation track.
 Both tracks require pre-registration. Please use the <strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSc8PlAwTPSK3a1vfe89jR2SFvoMkpoIZW0ZnwCTJDotsK1Wcg/viewform">registration form</a></strong>. Those who register will receive additional details by email before the event.
 
 Please check previous camp editions for details <a href="https://www.initc3.org/events/2023-06-12-ic3-blockchain-camp-2023">2023</a>, <a href="https://www.initc3.org/events/2022-08-01-ic3-blockchain-camp-2022">2022</a>, <a href="https://www.initc3.org/events/2021-07-25-ic3-blockchain-summer-camp">2021</a>.
-
 --->
 
-
+<!---
 <div class="ui center aligned basic segment">
   <div class="ui centered image">
     <img class="ui image" src="../images/events/blockchain-camp-2024/bakshi.png" alt="" width="200"/>
@@ -100,5 +146,6 @@ Please check previous camp editions for details <a href="https://www.initc3.org/
     </strong>
   </div>
 </div>  
+--->
 
 <strong>We hope to see you at the IC3 Blockchain Camp 2024 in NYC!</strong>
