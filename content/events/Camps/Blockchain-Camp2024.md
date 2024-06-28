@@ -163,9 +163,13 @@ A special shoutout to our technical committee for putting on such a stellar even
 <div class="ui piled segment">
   <img class="ui centered image" src="../images/events/blockchain-camp-2024/group.jpg" alt="" width="800"/>
   <div class="ui bottom attached message">
-  <strong>Thank you again to everyone who participated in this year’s event! ﻿﻿We hope to see you at the IC3 Blockchain Camp 2024 in NYC!</strong><br>
+  <strong>Thank you again to everyone who participated in this year’s event! ﻿﻿We hope to see you again next year!</strong><br>
   </div>
 </div>
+
+***Important Note***
+
+Last but not the least, registration for the Science of Blockchain Conference 2024 (SBC'24) will close this Friday, June 28! Join us at Columbia University from Aug 7-9 for this year's conference, hosted by IC3 and co-organized by Stanford CBR and Berkeley RDI. Register <a href="https://docs.google.com/forms/d/e/1FAIpQLScdvdn5d_7Ql9WLGLPkraawE9QfPDcp4xe9CviOSdelCoS6qg/viewform">here</a> today! 
 
 <!---
 ### REGISTRATION & SPONSORSHIP
