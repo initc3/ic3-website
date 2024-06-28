@@ -75,6 +75,14 @@ staff:
     weburl:
     bio: "Oana Gherman is the IC3 Senior Administrative Assistant, responsible for supporting the IC3 directors, faculty, and students, and for planning and coordinating IC3 events."
 
+  -
+    name: 'Amy Zhao'
+    pic: Amy.png
+    title: 'IC3 Data Scientist'
+    email: alz38@cornell.edu
+    weburl:
+    bio: "Amy is a data scientist at IC3, and her role involves applying research topics on real world blockchain data. She received her Master's degree in Computer Science from Cornell Tech in 2024 and works as a solutions engineer at Ava Labs. Amy is interested in the practical implementation of blockchain technology in industry."
+
 chiefscientist:
   - 
     name: 'Elaine Shi'
