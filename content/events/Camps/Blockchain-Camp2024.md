@@ -169,7 +169,7 @@ A special shoutout to our technical committee for putting on such a stellar even
 
 ***Important Note***
 
-Last but not the least, registration for the Science of Blockchain Conference 2024 (SBC'24) will close this Friday, June 28! Join us at Columbia University from Aug 7-9 for this year's conference, hosted by IC3 and co-organized by Stanford CBR and Berkeley RDI. Register <a href="https://docs.google.com/forms/d/e/1FAIpQLScdvdn5d_7Ql9WLGLPkraawE9QfPDcp4xe9CviOSdelCoS6qg/viewform">here</a> today! 
+Last but not the least, registration for the Science of Blockchain Conference 2024 (SBC'24) will close this Friday, June 28! Join us at Columbia University from Aug 7-9 for this year's conference, hosted by IC3 and co-organized by Stanford CBR and Berkeley RDI. Register <strong><a href="https://docs.google.com/forms/d/e/1FAIpQLScdvdn5d_7Ql9WLGLPkraawE9QfPDcp4xe9CviOSdelCoS6qg/viewform">here</a></strong> today! 
 
 <!---
 ### REGISTRATION & SPONSORSHIP
