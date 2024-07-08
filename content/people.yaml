@@ -26,14 +26,14 @@ associate_directors:
     bio: 'Andrew Miller is a professor at the University of Illinois at Urbana-Champaign. His research interests include all facets of cryptocurrency science, from measurement and simulation to theory and formal modelling. His lectures can be found in the first cryptocurrency textbook and MOOC.'
 
   -
-    name: 'Sarah Meiklejohn'
-    pic: smeiklejohn.jpg
+    name: 'Giulia Fanti'
+    pic: giulia.jpeg
     title: 'IC3 Associate Director'
-    email: s.meiklejohn@ucl.ac.uk
-    weburl: 'http://www0.cs.ucl.ac.uk/staff/S.Meiklejohn/'
-    bio: "Sarah Meiklejohn is a Reader (Associate Professor) in Cryptography and Security at University College London.  She has broad research interests in computer security and cryptography, and works on topics such as anonymity and criminal abuses in cryptocurrencies and privacy-enhancing technologies.\n"
+    email: gfanti@andrew.cmu.edu
+    weburl: 'https://www.andrew.cmu.edu/user/gfanti/'
+    bio: "Giulia Fanti is the Angel Jordan Associate Professor of Electrical and Computer Engineering at Carnegie Mellon University. Her research interests span the security, privacy, and efficiency of distributed systems. She is a two-time fellow of the World Economic Forum’s Global Future Council on Cybersecurity and a member of NIST’s Information Security and Privacy Advisory Board. Her work has been recognized with several awards, including best paper awards, a Sloan Fellowship, an Intel Rising Star Faculty Award, and an ACM SIGMETRICS Rising Star Award. She obtained her Ph.D. in EECS from U.C. Berkeley and her B.S. in ECE from Olin College of Engineering.\n"
 
-
+  
 staff:
   -
     name: 'Jim Ballingall'
@@ -94,6 +94,15 @@ chiefscientist:
 
 
 faculty:
+
+  -
+    name: 'Sarah Meiklejohn'
+    pic: smeiklejohn.jpg
+    title:
+    email: s.meiklejohn@ucl.ac.uk
+    weburl: 'http://www0.cs.ucl.ac.uk/staff/S.Meiklejohn/'
+    bio: "Sarah Meiklejohn is a Reader (Associate Professor) in Cryptography and Security at University College London.  She has broad research interests in computer security and cryptography, and works on topics such as anonymity and criminal abuses in cryptocurrencies and privacy-enhancing technologies.\n"
+
   -
     name: 'Lorenzo Alvisi'
     pic: lorenzo.jpg
@@ -166,14 +175,6 @@ faculty:
     weburl: 'https://bford.info/?msclkid=5e274dc0d0a311ec8d8ef2687437bd14'
     bio: "Prof. Bryan Ford leads the Decentralized/Distributed Systems (DEDIS) lab at the Swiss Federal Institute of Technology in Lausanne (EPFL). Ford focuses broadly on building secure decentralized systems, touching on topics including private and anonymous communication technologies, Internet architecture, and secure operating systems.\n"
   
-  -
-    name: 'Giulia Fanti'
-    pic: giulia.jpeg
-    title:
-    email: gfanti@andrew.cmu.edu
-    weburl: 'https://www.andrew.cmu.edu/user/gfanti/'
-    bio: "Giulia Fanti is an Assistant Professor of Electrical and Computer Engineering at Carnegie Mellon University. Her research interests span the algorithmic foundations of blockchains, distributed systems, privacy-preserving technologies, and machine learning. She is a fellow for the World Economic Forum's Global Future Council on Cybersecurity, and has received a best paper award at ACM Sigmetrics and an NSF Graduate Research Fellowship. She obtained her Ph.D. in EECS from U.C. Berkeley and her B.S. in ECE from Olin College of Engineering.\n"
-
   -
     name: 'Dawn Song'
     pic: dawn.jpg
