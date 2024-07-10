@@ -5,7 +5,7 @@
 - D. Coppola, G. Camurati, C. Anliker, X. Hofmeier, P. Shaller, D. Basin, and S. Capkun. [PURE: Payments with UWB RElay-protection](https://www.research-collection.ethz.ch/handle/20.500.11850/662474). USENIX, 2024 (to appear)
 - B. Bailey and A. Miller. [Formalizing Soundness Proofs of Linear PCP SNARKs](https://www.usenix.org/conference/usenixsecurity24/presentation/bailey). USENIX, 2024. (to appear)
 - F. Baldimtsi, K.K. Chalkias, Y. Ji, J. Lindstrom, D. Maram, B. Riva, A. Roy, M. Sedaghat, and J. Wang. [zkLogin: Privacy-Preserving Blockchain Authentication with Existing Credentials](https://arxiv.org/abs/2401.11735). SBC, 2024. (to appear)
-- M. Kelkar, K. Babel, P. Daian, J. Austgen, V.Buterin, and A. Juels. [Complete Knowledge: Preventing Encumbrance of Cryptographic Secrets](https://eprint.iacr.org/2023/044). SBC, 2024. (to appear)
+- M. Kelkar, K. Babel, P. Daian, J. Austgen, V. Buterin, and A. Juels. [Complete Knowledge: Preventing Encumbrance of Cryptographic Secrets](https://eprint.iacr.org/2023/044). SBC, 2024. (to appear)
 - E.N. Tas, I. András Seres, Y. Zhang, M. Melczer, M. Kelkar, J. Bonneau, and V. Nikolaenko. [Atomic and Fair Data Exchange via Blockchain](https://eprint.iacr.org/2024/418). SBC, 2024. (to appear)
 - H. Chung, E. Masserova, E. Shi, and S.A. Thyagarajan. [Rapidash: Foundations of Side-Contract-Resilient Fair Exchange (https://eprint.iacr.org/2022/1063). SBC, 2024. (to appear)
 - K. Babel, et al. [WIP: PROF: Protected Order Flow in a Profit-Seeking World](https://www.youtube.com/watch?v=v1TkocRScJg). SBC, 2024. (to appear)
