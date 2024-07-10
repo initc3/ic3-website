@@ -4,13 +4,24 @@
 
 - D. Coppola, G. Camurati, C. Anliker, X. Hofmeier, P. Shaller, D. Basin, and S. Capkun. [PURE: Payments with UWB RElay-protection](https://www.research-collection.ethz.ch/handle/20.500.11850/662474). USENIX, 2024 (to appear)
 - B. Bailey and A. Miller. [Formalizing Soundness Proofs of Linear PCP SNARKs](https://www.usenix.org/conference/usenixsecurity24/presentation/bailey). USENIX, 2024. (to appear)
+- F. Baldimtsi, K.K. Chalkias, Y. Ji, J. Lindstrom, D. Maram, B. Riva, A. Roy, M. Sedaghat, and J. Wang. [zkLogin: Privacy-Preserving Blockchain Authentication with Existing Credentials](https://arxiv.org/abs/2401.11735). SBC, 2024. (to appear)
+- M. Kelkar, K. Babel, P. Daian, J. Austgen, V.Buterin, and A. Juels. [Complete Knowledge: Preventing Encumbrance of Cryptographic Secrets](https://eprint.iacr.org/2023/044). SBC, 2024. (to appear)
+- E.N. Tas, I. András Seres, Y. Zhang, M. Melczer, M. Kelkar, J. Bonneau, and V. Nikolaenko. [Atomic and Fair Data Exchange via Blockchain](https://eprint.iacr.org/2024/418). SBC, 2024. (to appear)
+- H. Chung, E. Masserova, E. Shi, and S.A. Thyagarajan. [Rapidash: Foundations of Side-Contract-Resilient Fair Exchange (https://eprint.iacr.org/2022/1063). SBC, 2024. (to appear)
+- K. Babel, et al. [WIP: PROF: Protected Order Flow in a Profit-Seeking World](https://www.youtube.com/watch?v=v1TkocRScJg). SBC, 2024. (to appear)
+- G Munilla Garrido, V. Nair, and D. Song. [SoK: Data Privacy in Virtual Reality](https://petsymposium.org/popets/2024/popets-2024-0003.php). PoPETS, 2024.
+- N. Jean-Louis, Y. Li, Y. Ji, H. Malvai, T. Yurek, S. Bellemare, and A. Miller. [SGXonerated:Finding (and Partially Fixing) Privacy Flaws in TEE-based Smart Contract Platforms Without Breaking the TEE](https://www.petsymposium.org/popets/2024/popets-2024-0035.php). PoPETS, 2024.
+- P. Huang, T. Hoang, Y. Li, E. Shi, and G.E. Suh. [Efficient Privacy-Preserving Machine Learning with Lightweight Trusted Hardware](https://www.petsymposium.org/popets/2024/popets-2024-0119.php). PoPETS, 2024.
+- A. Agarwal, S. Peceny, M. Raykova, P. Schoppmann, and K. Seth. [Communication-Efficient Secure Logistic Regression](https://eprint.iacr.org/2022/866.pdf). EuroS&P, 2024.
+- A. Kavousi, Z. Wang, and P. Jovanovic. [SoK: Public Randomness](https://eprint.iacr.org/2023/1121.pdf). EuroS&P, 2024.
+- H. Chung, T. Roughgarden, and E. Shi. [Collusion-Resilience in Transaction Fee Mechanism Design](https://eprint.iacr.org/2024/237.pdf). EC, 2024.
+- G. Giuliari, A. Sonnino, M.Frei, F. Streun, L. Kokoris-Kogias, and A. Perrig. [An Empirical Study of Consensus Protocols’ DoS Resilience](https://netsec.ethz.ch/publications/papers/Consensus_DDoS_AsiaCCS_24.p.df). ASIA CCS, 2024.
+- Y. Li, K. Soska, Z. Huang, S. Bellemare, M. Quintyne-Collins, L. Wang, X. Liu, D. Song, and A. Miller. [Ratel: MPC-extensions for Smart Contracts](https://dl.acm.org/doi/10.1145/3634737.3661142). ASIA CCS, 2024.
 - K. Sowon, E. Luhanga, L.F. Cranor, G. Fanti, C. Tucker, and A. Gueye. [The Role of User-Agent Interactions on Mobile Money Practices in Kenya and Tanzania](https://arxiv.org/pdf/2309.00226.pdf). IEEE S&P, 2024.
 - T. Liu, T. Xie, J. Zhang, D. Song, and Y. Zhang. [Pianist: Scalable zkRollups via Fully Distributed Zero-Knowledge Proofs](https://eprint.iacr.org/2023/1271). IEEE S&P, 2024.
 - M. Zhou, A. Park, E. Shi, and W. Zheng. [Piano: Extremely Simple, Single-Server PIR with Sublinear Server Computation](https://eprint.iacr.org/2023/452). IEEE S&P, 2024.
 - Y. Hu, F. Wu, Q. Li, Y. Long, g. Garrido, C. Ge, B. Ding, D. Forsyth, B. Li, and D. Song. [SoK: Privacy-Preserving Data Synthesis](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a002/1RjE9GWpTGw). IEEE S&P, 2024.
 - Z. Ye, U. Misra, J. Cheng, W. Zhou, and D. Song. [Specular: Towards Secure, Trust-minimized Optimistic Blockchain Execution](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a172/1Ub24OriqE8). IEEE S&P, 2024.
-- H. Chung, T. Roughgarden, and E. Shi. [Collusion-Resilience in Transaction Fee Mechanism Design](https://eprint.iacr.org/2024/237.pdf). EC, 2024.
-- G. Giuliari, A. Sonnino, M.Frei, F. Streun, L. Kokoris-Kogias, and A. Perrig. [An Empirical Study of Consensus Protocols’ DoS Resilience](https://netsec.ethz.ch/publications/papers/Consensus_DDoS_AsiaCCS_24.pdf). ASIA CCS, 2024.
 - C. Freitag, O. Paneth, and R. Pass. [Public-Coin, Complexity-Preserving, Succinct Arguments of Knowledge for NP from Collision-Resistance](https://link.springer.com/chapter/10.1007/978-3-031-58737-5_5). Eurocrypt, 2024.
 - T. Sharma, V. C. Nair, H. Wang, Y. Wang, and D. Song. [“I Can’t Believe It’s Not Custodial!”: Usable Trustless Decentralized Key Management](https://dl.acm.org/doi/full/10.1145/3613904.3642464). CHI, 2024.
 - K. Lee, A.F. Cooper, and J. Grimmelmann. [Talkin' 'Bout AI Generation: Copyright and the Generative-AI Supply Chain](https://dl.acm.org/doi/abs/10.1145/3614407.3643696). CSLAW, 2024.
