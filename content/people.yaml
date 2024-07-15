@@ -288,6 +288,14 @@ postdocs:
 students:
 
   -
+    name: 'Hongyin Chen'
+    pic: Hongyin.jpg
+    title: 
+    email: chenhongyin@pku.edu.cn
+    weburl: 'https://chenhongyin.com/'
+    bio: "Hongyin Chen is currently a Ph.D. student at Peking University, advised by Xiaotie Deng. He is currently a visiting Ph.D. student in Ittay Eyal’s group at Technion. His research interests include mechanism design and game theory in blockchain.\n"
+    
+  -
     name: 'Tianneng Shi'
     pic: Tianneng.jpg
     title:
