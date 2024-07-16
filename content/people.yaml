@@ -293,7 +293,7 @@ students:
     title:
     email: dv296@cornell.edu
     weburl:
-    bio: "Dani is a Computer Science Ph.D. student at Cornell University working with prof. Ari Juels. Before joining Cornell University, he spent a year as a visiting researcher at UC Berkeley working with prof. Dawn Song on Zero Knowledge proofs. His interests include cryptography, zero knowledge proofs, blockchain and privacy.\"
+    bio: "Dani is a Computer Science Ph.D. student at Cornell University working with prof. Ari Juels. Before joining Cornell University, he spent a year as a visiting researcher at UC Berkeley working with prof. Dawn Song on Zero Knowledge proofs. His interests include cryptography, zero knowledge proofs, blockchain and privacy.\n"
 
   -
     name: 'Samuel Breckenridge'
@@ -301,7 +301,7 @@ students:
     title:
     email: samuelbreckenridge0@gmail.com
     weburl:
-    bio: "I am a PhD student in Computer Science at Cornell University interested in security, privacy and cryptography.\"
+    bio: "I am a PhD student in Computer Science at Cornell University interested in security, privacy and cryptography.\n"
     
   -
     name: 'Hongyin Chen'
