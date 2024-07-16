@@ -288,6 +288,22 @@ postdocs:
 students:
 
   -
+    name: 'Daniel Vilardell'
+    pic: Dani.jpg
+    title:
+    email: dv296@cornell.edu
+    weburl:
+    bio: "Dani is a Computer Science Ph.D. student at Cornell University working with prof. Ari Juels. Before joining Cornell University, he spent a year as a visiting researcher at UC Berkeley working with prof. Dawn Song on Zero Knowledge proofs. His interests include cryptography, zero knowledge proofs, blockchain and privacy.\"
+
+  -
+    name: 'Samuel Breckenridge'
+    pic: Sam.jpeg
+    title:
+    email: samuelbreckenridge0@gmail.com
+    weburl:
+    bio: "I am a PhD student in Computer Science at Cornell University interested in security, privacy and cryptography.\"
+    
+  -
     name: 'Hongyin Chen'
     pic: Hongyin.jpg
     title: 
