@@ -29,6 +29,7 @@
    'cog': 'https://www.cogsnetwork.com',
    'avalabs': 'https://www.avalabs.org',
    'Arbitrum Foundation': 'https://arbitrum.foundation/',
+   'Anoma Foundation': 'https://anoma.foundation/',
  };
 
 $(document).ready(function() {
