@@ -2,13 +2,15 @@
 
 ## 2024 ##
 
-- D. Coppola, G. Camurati, C. Anliker, X. Hofmeier, P. Shaller, D. Basin, and S. Capkun. [PURE: Payments with UWB RElay-protection](https://www.research-collection.ethz.ch/handle/20.500.11850/662474). USENIX, 2024 (to appear)
-- B. Bailey and A. Miller. [Formalizing Soundness Proofs of Linear PCP SNARKs](https://www.usenix.org/conference/usenixsecurity24/presentation/bailey). USENIX, 2024. (to appear)
-- F. Baldimtsi, K.K. Chalkias, Y. Ji, J. Lindstrom, D. Maram, B. Riva, A. Roy, M. Sedaghat, and J. Wang. [zkLogin: Privacy-Preserving Blockchain Authentication with Existing Credentials](https://arxiv.org/abs/2401.11735). SBC, 2024. (to appear)
-- M. Kelkar, K. Babel, P. Daian, J. Austgen, V. Buterin, and A. Juels. [Complete Knowledge: Preventing Encumbrance of Cryptographic Secrets](https://eprint.iacr.org/2023/044). SBC, 2024. (to appear)
-- E.N. Tas, I. András Seres, Y. Zhang, M. Melczer, M. Kelkar, J. Bonneau, and V. Nikolaenko. [Atomic and Fair Data Exchange via Blockchain](https://eprint.iacr.org/2024/418). SBC, 2024. (to appear)
-- H. Chung, E. Masserova, E. Shi, and S.A. Thyagarajan. [Rapidash: Foundations of Side-Contract-Resilient Fair Exchange](https://eprint.iacr.org/2022/1063). SBC, 2024. (to appear)
-- K. Babel, et al. [WIP: PROF: Protected Order Flow in a Profit-Seeking World](https://www.youtube.com/watch?v=v1TkocRScJg). SBC, 2024. (to appear)
+- W. Tang, P. Sheng, R. Ni, P. Roy, X. Wang, G. Fanti, and P. Viswanath. [CFT-Forensics: High-Performance Byzantine Accountability for Crash Fault Tolerant Protocols](https://arxiv.org/pdf/2305.09123v3). AFT, 2024. (to appear)
+- L. Zhou, Z. Liu, F. Zhang, and M.K. Reiter. [CrudiTEE: A Stick-and-Carrot Approach to Building Trustworthy Cryptocurrency Wallets with TEEs](https://arxiv.org/pdf/2407.16473v1). AFT, 2024. (to appear)
+- D. Coppola, G. Camurati, C. Anliker, X. Hofmeier, P. Shaller, D. Basin, and S. Capkun. [PURE: Payments with UWB RElay-protection](https://www.research-collection.ethz.ch/handle/20.500.11850/662474). USENIX, 2024
+- B. Bailey and A. Miller. [Formalizing Soundness Proofs of Linear PCP SNARKs](https://www.usenix.org/conference/usenixsecurity24/presentation/bailey). USENIX, 2024.
+- F. Baldimtsi, K.K. Chalkias, Y. Ji, J. Lindstrom, D. Maram, B. Riva, A. Roy, M. Sedaghat, and J. Wang. [zkLogin: Privacy-Preserving Blockchain Authentication with Existing Credentials](https://arxiv.org/abs/2401.11735). SBC, 2024.
+- M. Kelkar, K. Babel, P. Daian, J. Austgen, V. Buterin, and A. Juels. [Complete Knowledge: Preventing Encumbrance of Cryptographic Secrets](https://eprint.iacr.org/2023/044). SBC, 2024.
+- E.N. Tas, I. András Seres, Y. Zhang, M. Melczer, M. Kelkar, J. Bonneau, and V. Nikolaenko. [Atomic and Fair Data Exchange via Blockchain](https://eprint.iacr.org/2024/418). SBC, 2024.
+- H. Chung, E. Masserova, E. Shi, and S.A. Thyagarajan. [Rapidash: Foundations of Side-Contract-Resilient Fair Exchange](https://eprint.iacr.org/2022/1063). SBC, 2024.
+- K. Babel, et al. [PROF: Protected Order Flow in a Profit-Seeking World](https://arxiv.org/pdf/2408.02303). SBC, 2024.
 - G Munilla Garrido, V. Nair, and D. Song. [SoK: Data Privacy in Virtual Reality](https://petsymposium.org/popets/2024/popets-2024-0003.php). PoPETS, 2024.
 - N. Jean-Louis, Y. Li, Y. Ji, H. Malvai, T. Yurek, S. Bellemare, and A. Miller. [SGXonerated:Finding (and Partially Fixing) Privacy Flaws in TEE-based Smart Contract Platforms Without Breaking the TEE](https://www.petsymposium.org/popets/2024/popets-2024-0035.php). PoPETS, 2024.
 - P. Huang, T. Hoang, Y. Li, E. Shi, and G.E. Suh. [Efficient Privacy-Preserving Machine Learning with Lightweight Trusted Hardware](https://www.petsymposium.org/popets/2024/popets-2024-0119.php). PoPETS, 2024.
