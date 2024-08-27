@@ -624,14 +624,6 @@ students:
     bio: "Nerla is a Ph.D. student at University of Illinois Champaign Urbana. She received her undergraduate degree at Cornell University in 2017 in computer science and biological engineering. She then worked at IBM Research for two years until starting her Ph.D. She is interested in distributed systems and security research."
 
   -
-    name: 'Siqiu Yao'
-    pic: siqiu.png
-    title:
-    email: sy657@cornell.edu
-    weburl: "https://www.cs.cornell.edu/~yaosiqiu/"
-    bio: "Siqiu Yao is a graduate student at Cornell University. He is interested in building blockchain systems and smart contract languages with better security."
-
-  -
     name: 'Haoqian Zhang'
     pic: haoqian.png
     title:
@@ -994,7 +986,7 @@ alumni_students:
     title:
     email: mail@srgi.me
     weburl: 'http://srgi.me'
-    bio: "Sergi is the CEO of Talaia Labs. He is currently building The Eye of Satoshi. His research interest lies on Bitcoin, networks, and privacy.\n"
+    bio: "Sergi is a Bitcoin dev and researcher at Chaincode Labs. Also, he's the lead developer and maintainer of The Eye of Satoshi. My research interest lies on Bitcoin, networks and privacy.\n"
   
   -
     name: 'Ayush Dubey'
@@ -1219,3 +1211,11 @@ alumni_students:
     email: kb742@cornell.edu
     weburl: "http://cs.cornell.edu/~babel/"
     bio: "Kushal Babel has completed his PhD at Cornell University under the supervision of prof. Ari Juels. He aims to leverage his experience with programming languages, systems research and traditional finance to build better security protocols and exciting blockchain applications."
+
+  -
+    name: 'Siqiu Yao'
+    pic: siqiu.png
+    title:
+    email: sy657@cornell.edu
+    weburl: "https://www.cs.cornell.edu/~yaosiqiu/"
+    bio: "Siqiu Yao has completed his PhD at Cornell University under the supervision of prof. Andrew Myers. He is interested in building blockchain systems and smart contract languages with better security."
