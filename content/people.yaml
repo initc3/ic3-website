@@ -109,7 +109,7 @@ faculty:
     title:
     email: lorenzo@cs.cornell.edu
     weburl: 'http://www.cs.cornell.edu/lorenzo/'
-    bio: "Lorenzo Alvisi holds an Endowed Professorship in Computer Science at Cornell University. His research interests are in the theory and practice of distributed computing, with a particular focus on dependability. He is a Fellow of the ACM, IEEE, and Alfred P. Sloan Foundation, and the recipient of a Humboldt Research Award. He serves on the editorial boards of ACM Transactions on Computer Systems and Springer’s Distributed Computing, and on the council of CRA’s Computing Community Consortium.\n"
+    bio: "Lorenzo Alvisi is the Tisch University Professor Computer Science at Cornell University, where he also serves as Department Chair. His research interests are in the theory and practice of distributed computing, with a particular focus on dependability. He is a Fellow of the ACM, IEEE, and Alfred P. Sloan Foundation, and the recipient of a Humboldt Research Award. He serves on the editorial boards of ACM Transactions on Computer Systems and Springer’s Distributed Computing.\n"
 
   -
     name: 'Christian Cachin'
@@ -552,14 +552,6 @@ students:
     bio: "Charlie is a PhD student at CMU advised by Giulia Fanti. He is interested in robustness of data-driven systems."
 
   -
-    name: 'Kushal Babel'
-    pic: kushal-babel.png
-    title:
-    email: kb742@cornell.edu
-    weburl: "http://cs.cornell.edu/~babel/"
-    bio: "Kushal Babel is a Computer Science graduate student at Cornell University. He aims to leverage his experience with programming languages, systems research and traditional finance to build better security protocols and exciting blockchain applications."
-
-  -
     name: 'Youer Pu'
     pic: youerpu.jpg
     title:
@@ -616,14 +608,6 @@ students:
     bio: "Florian is a CS PhD student at Cornell University where he is advised by Lorenzo Alvisi. His primary research interest centers around Distributed Systems, in particular Byzantine Fault Tolerance and Databases. Other research interests broadly include Systems related ML."
 
   -
-    name: 'Yunhao Zhang'
-    pic: yunhao.jpeg
-    title:
-    email: yz2327@cornell.edu
-    weburl: "https://dolobyte.net/"
-    bio: "Yunhao Zhang is a Computer Science graduate student at Cornell University. His research interest spans distributed systems, game theory, and mechanism design. He is a recipient of the Jay Lepreau Best Paper Award at OSDI'20 and the 2021 Facebook Fellowship."
-
-  -
     name: 'Vivek Nair'
     pic: vivek.jpg
     title:
@@ -638,14 +622,6 @@ students:
     email: nerlaj2@illinois.edu
     weburl: "https://www.ner.la"
     bio: "Nerla is a Ph.D. student at University of Illinois Champaign Urbana. She received her undergraduate degree at Cornell University in 2017 in computer science and biological engineering. She then worked at IBM Research for two years until starting her Ph.D. She is interested in distributed systems and security research."
-
-  -
-    name: 'Siqiu Yao'
-    pic: siqiu.png
-    title:
-    email: sy657@cornell.edu
-    weburl: "https://www.cs.cornell.edu/~yaosiqiu/"
-    bio: "Siqiu Yao is a graduate student at Cornell University. He is interested in building blockchain systems and smart contract languages with better security."
 
   -
     name: 'Haoqian Zhang'
@@ -1010,7 +986,7 @@ alumni_students:
     title:
     email: mail@srgi.me
     weburl: 'http://srgi.me'
-    bio: "Sergi is the CEO of Talaia Labs. He is currently building The Eye of Satoshi. His research interest lies on Bitcoin, networks, and privacy.\n"
+    bio: "Sergi is a Bitcoin dev and researcher at Chaincode Labs. Also, he's the lead developer and maintainer of The Eye of Satoshi. My research interest lies on Bitcoin, networks and privacy.\n"
   
   -
     name: 'Ayush Dubey'
@@ -1219,4 +1195,27 @@ alumni_students:
     email:
     weburl:
     bio: "Yan Ji completed her PhD under the supervision of prof. Ari Juels at Cornell Tech. She is interested in blockchain technologies and other areas intersecting security, applied cryptography and distributed systems."
-  
+
+  -
+    name: 'Yunhao Zhang'
+    pic: yunhao.jpeg
+    title:
+    email: yz2327@cornell.edu
+    weburl: "https://dolobyte.net/"
+    bio: "Yunhao Zhang completed his PhD at Cornell University under the supervision of prof. Lorenzo Alvisi. His research interest spans distributed systems, game theory, and mechanism design. He is a recipient of the Jay Lepreau Best Paper Award at OSDI'20 and the 2021 Facebook Fellowship."
+
+  -
+    name: 'Kushal Babel'
+    pic: kushal-babel.png
+    title:
+    email: kb742@cornell.edu
+    weburl: "http://cs.cornell.edu/~babel/"
+    bio: "Kushal Babel has completed his PhD at Cornell University under the supervision of prof. Ari Juels. He aims to leverage his experience with programming languages, systems research and traditional finance to build better security protocols and exciting blockchain applications."
+
+  -
+    name: 'Siqiu Yao'
+    pic: siqiu.png
+    title:
+    email: sy657@cornell.edu
+    weburl: "https://www.cs.cornell.edu/~yaosiqiu/"
+    bio: "Siqiu Yao has completed his PhD at Cornell University under the supervision of prof. Andrew Myers. He is interested in building blockchain systems and smart contract languages with better security."
