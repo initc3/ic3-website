@@ -105,11 +105,11 @@ faculty:
 
   -
     name: 'Lorenzo Alvisi'
-    pic: lorenzo.jpg
+    pic: Lorenzo1.jpeg
     title:
     email: lorenzo@cs.cornell.edu
     weburl: 'http://www.cs.cornell.edu/lorenzo/'
-    bio: "Lorenzo Alvisi is the Tisch University Professor Computer Science at Cornell University, where he also serves as Department Chair. His research interests are in the theory and practice of distributed computing, with a particular focus on dependability. He is a Fellow of the ACM, IEEE, and Alfred P. Sloan Foundation, and the recipient of a Humboldt Research Award. He serves on the editorial boards of ACM Transactions on Computer Systems and Springer’s Distributed Computing.\n"
+    bio: "Lorenzo Alvisi is the Tisch University Professor of Computer Science at Cornell University, where he also serves as Department Chair. His research interests are in the theory and practice of distributed computing, with a particular focus on dependability. He is a Fellow of the ACM, IEEE, and Alfred P. Sloan Foundation, and the recipient of a Humboldt Research Award. He serves on the editorial boards of ACM Transactions on Computer Systems and Springer’s Distributed Computing.\n"
 
   -
     name: 'Christian Cachin'
