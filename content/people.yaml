@@ -1210,7 +1210,7 @@ alumni_students:
     title:
     email: kb742@cornell.edu
     weburl: "http://cs.cornell.edu/~babel/"
-    bio: "Kushal Babel has completed his PhD at Cornell University under the supervision of prof. Ari Juels. He aims to leverage his experience with programming languages, systems research and traditional finance to build better security protocols and exciting blockchain applications."
+    bio: "Kushal Babel obtained his PhD from Cornell Tech, where he was advised by Ari Juels. He is currently working as a senior researcher at Monad Labs. Kushal has broad research interests and experience, ranging from Cryptoeconomics (MEV) and Consensus to smart contract security and cryptography. He is building novel financial instruments and highly performant and robust blockchain systems and applications."
 
   -
     name: 'Siqiu Yao'
