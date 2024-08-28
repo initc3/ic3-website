@@ -288,6 +288,22 @@ postdocs:
 students:
 
   -
+    name: Zhiheng He
+    pic: Zhiheng.jpg
+    title:
+    email: hezh19@mails.tsinghua.edu.cn
+    weburl: 'www.zhihenghe.com'
+    bio: "Zhiheng He is a PhD student at Tsinghua University advised by Prof. Ke Tang, and a visiting graduate researcher and member of the DEFT Lab at Cornell University under Prof. Will Cong. His research interests include blockchain-based ecosystems, fintech innovation, and digital assets.\n"
+
+  -
+    name: Qihong Ruan
+    pic: Qihong.jpeg
+    title:
+    email: qr33@cornell.edu
+    weburl:
+    bio: "Qihong Ruan is an Economics PhD student at Cornell University working on crypto, DeFi, and FinTech, advised by Prof. Maureen O'Hara and Lin William Cong. His research covers cryptocurrencies market microstructure, crypto derivatives trading, cryptocurrency investment of households, and DeFi trading platforms. Qihong is particularly excited about the intersection of AI and blockchain, the economic incentives in blockchain systems, and business applications of blockchains and Web3. His work has been presented at high-profile conferences such as the University Blockchain Research Initiative (UBRI) Connect Conference, FinTech, AI, and Big Data conference, the Northern Finance Association (NFA) Annual Meeting, and Tokenomics. Qihong's research aims to deepen understanding of cutting-edge blockchain technologies and their practical implementation in the financial sector.\n"
+    
+  -
     name: 'Daniel Vilardell'
     pic: Dani.jpg
     title:
