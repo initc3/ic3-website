@@ -225,32 +225,6 @@ seniorfellows:
     weburl: 'https://www.fbe.hku.hk/people/roni-michaely/'
     bio: "Roni Michaely is a professor of Finance and Entrepreneurialship at The University of Hong Kong. Before that he spent a significant portion of his career as The Rudd Family professor of Finance at Cornell University and Cornell Tech. His primary research interests are in the areas of empirical corporate finance, corporate governance, entrepreneurial finance, and FinTech. His current research focuses on how frictions in capital markets affect managers' corporate decisions and new product developments; with a particular focus on corporate payout policy, the effect of competition in firms' behavior, and on the impact of Fintech on capital market efficiency.\n"
 
-visitors:
-
-  -
-    name: 'Steven Goldfeder'
-    pic: stevengoldfeder.jpg
-    title:
-    email: goldfeder@cornell.edu
-    weburl: 'http://stevengoldfeder.com'
-    bio: "Steven Goldfeder is a scientist and co-founder of Offchain Labs. He holds a PhD from Princeton University and is a co-author of the leading textbook on cryptocurrencies."
-
-  -
-    name: 'Hongyin Chen'
-    pic: Hongyin.jpg
-    title: 
-    email: chenhongyin@pku.edu.cn
-    weburl: 'https://chenhongyin.com/'
-    bio: "Hongyin Chen is currently a Ph.D. student at Peking University, advised by Xiaotie Deng. He is currently a visiting Ph.D. student in Ittay Eyal’s group at Technion. His research interests include mechanism design and game theory in blockchain.\n"
-
-  -
-    name: Zhiheng He
-    pic: Zhiheng.jpg
-    title:
-    email: hezh19@mails.tsinghua.edu.cn
-    weburl: 'www.zhihenghe.com'
-    bio: "Zhiheng He is a PhD student at Tsinghua University advised by Prof. Ke Tang, and a visiting graduate researcher and member of the DEFT Lab at Cornell University under Prof. Will Cong. His research interests include blockchain-based ecosystems, fintech innovation, and digital assets.\n"
-
 researchers:
 
   -
@@ -688,6 +662,32 @@ students:
     email: wtang2@andrew.cmu.edu
     weburl:
     bio: "Weizhao received his Master's degree (2021) from Carnegie Mellon University. He is a Ph.D. student at Carnegie Mellon University supervised by Dr. Giulia Fanti. His research interests are privacy and security of distributed systems, particularly cryptocurrency systems based on blockchain."
+
+visitors:
+
+  -
+    name: 'Steven Goldfeder'
+    pic: stevengoldfeder.jpg
+    title:
+    email: goldfeder@cornell.edu
+    weburl: 'http://stevengoldfeder.com'
+    bio: "Steven Goldfeder is a scientist and co-founder of Offchain Labs. He holds a PhD from Princeton University and is a co-author of the leading textbook on cryptocurrencies."
+
+  -
+    name: 'Hongyin Chen'
+    pic: Hongyin.jpg
+    title: 
+    email: chenhongyin@pku.edu.cn
+    weburl: 'https://chenhongyin.com/'
+    bio: "Hongyin Chen is currently a Ph.D. student at Peking University, advised by Xiaotie Deng. He is currently a visiting Ph.D. student in Ittay Eyal’s group at Technion. His research interests include mechanism design and game theory in blockchain.\n"
+
+  -
+    name: Zhiheng He
+    pic: Zhiheng.jpg
+    title:
+    email: hezh19@mails.tsinghua.edu.cn
+    weburl: 'www.zhihenghe.com'
+    bio: "Zhiheng He is a PhD student at Tsinghua University advised by Prof. Ke Tang, and a visiting graduate researcher and member of the DEFT Lab at Cornell University under Prof. Will Cong. His research interests include blockchain-based ecosystems, fintech innovation, and digital assets.\n"
     
 fellows:
 
