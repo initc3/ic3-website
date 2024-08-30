@@ -24,6 +24,7 @@
 - M. Zhou, A. Park, E. Shi, and W. Zheng. [Piano: Extremely Simple, Single-Server PIR with Sublinear Server Computation](https://eprint.iacr.org/2023/452). IEEE S&P, 2024.
 - Y. Hu, F. Wu, Q. Li, Y. Long, g. Garrido, C. Ge, B. Ding, D. Forsyth, B. Li, and D. Song. [SoK: Privacy-Preserving Data Synthesis](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a002/1RjE9GWpTGw). IEEE S&P, 2024.
 - Z. Ye, U. Misra, J. Cheng, W. Zhou, and D. Song. [Specular: Towards Secure, Trust-minimized Optimistic Blockchain Execution](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a172/1Ub24OriqE8). IEEE S&P, 2024.
+- Y. Potter, K. Pongmala, K. Qin, A. Klages-Mundt, P. Jovanovic, C. Parlour, A. Gervais, and Dawn Song. [What Drives the (In)stability of a Stablecoin?](https://ieeexplore.ieee.org/abstract/document/10634419). ICBC, 2024.
 - C. Freitag, O. Paneth, and R. Pass. [Public-Coin, Complexity-Preserving, Succinct Arguments of Knowledge for NP from Collision-Resistance](https://link.springer.com/chapter/10.1007/978-3-031-58737-5_5). Eurocrypt, 2024.
 - T. Sharma, V. C. Nair, H. Wang, Y. Wang, and D. Song. [“I Can’t Believe It’s Not Custodial!”: Usable Trustless Decentralized Key Management](https://dl.acm.org/doi/full/10.1145/3613904.3642464). CHI, 2024.
 - K. Lee, A.F. Cooper, and J. Grimmelmann. [Talkin' 'Bout AI Generation: Copyright and the Generative-AI Supply Chain](https://dl.acm.org/doi/abs/10.1145/3614407.3643696). CSLAW, 2024.
