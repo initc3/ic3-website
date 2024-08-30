@@ -225,6 +225,17 @@ seniorfellows:
     weburl: 'https://www.fbe.hku.hk/people/roni-michaely/'
     bio: "Roni Michaely is a professor of Finance and Entrepreneurialship at The University of Hong Kong. Before that he spent a significant portion of his career as The Rudd Family professor of Finance at Cornell University and Cornell Tech. His primary research interests are in the areas of empirical corporate finance, corporate governance, entrepreneurial finance, and FinTech. His current research focuses on how frictions in capital markets affect managers' corporate decisions and new product developments; with a particular focus on corporate payout policy, the effect of competition in firms' behavior, and on the impact of Fintech on capital market efficiency.\n"
 
+visitors:
+
+  -
+    name: 'Kushal Babel'
+    pic: kushal-babel.png
+    title:
+    email: kb742@cornell.edu
+    weburl: "http://cs.cornell.edu/~babel/"
+    bio: "Kushal Babel obtained his PhD from Cornell Tech, where he was advised by Ari Juels. He is currently working as a senior researcher at Monad Labs. Kushal has broad research interests and experience, ranging from Cryptoeconomics (MEV) and Consensus to smart contract security and cryptography. He is building novel financial instruments and highly performant and robust blockchain systems and applications."
+
+
 researchers:
 
   -
@@ -879,6 +890,7 @@ alumni_postdocs:
     email: crf87@cornell.edu
     weburl: 'http://www.cs.cornell.edu/~cfreitag/'
     bio: "I just received my PhD in computer science at Cornell University (although technically at the Cornell Tech campus), advised by Rafael Pass. I am a postdoctoral researcher at Northeastern University with Daniel Wichs and Boston University with Ran Canetti, where I will be fortunately funded by a Khoury College Distinguished Postdoctoral Fellowship. My research primarily focuses on the theoretical foundations of cryptography. In particular, I'm interested in cryptographic proof systems and their applications in the decentralized setting of blockchains. I've also been interested in non-uniform models of security and differential privacy. \n"
+
 
 alumni_students:
 
