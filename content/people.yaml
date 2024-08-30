@@ -687,16 +687,6 @@ students:
     weburl:
     bio: "Weizhao received his Master's degree (2021) from Carnegie Mellon University. He is a Ph.D. student at Carnegie Mellon University supervised by Dr. Giulia Fanti. His research interests are privacy and security of distributed systems, particularly cryptocurrency systems based on blockchain."
     
-engineers:
-
-  -
-    name: 'Pierluca Borsò'
-    pic: Pierluca.jpeg
-    title:
-    email: pierluca.borso@epfl.ch
-    weburl:
-    bio: "Pierluca Borsò is an engineer, an entrepreneur and a lecturer in Decentralized Systems Engineering at the Swiss Federal Institute of Technology in Lausanne (EPFL), where he also heads the engineering team at the Decentralized/Distributed Systems lab. As an entrepreneur, he leads the Anansi Solutions consulting firm, which acts as a strategic partner to a diverse array of clients across multiple industries." 
-
 fellows:
 
   -
