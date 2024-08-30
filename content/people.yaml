@@ -225,7 +225,7 @@ seniorfellows:
     weburl: 'https://www.fbe.hku.hk/people/roni-michaely/'
     bio: "Roni Michaely is a professor of Finance and Entrepreneurialship at The University of Hong Kong. Before that he spent a significant portion of his career as The Rudd Family professor of Finance at Cornell University and Cornell Tech. His primary research interests are in the areas of empirical corporate finance, corporate governance, entrepreneurial finance, and FinTech. His current research focuses on how frictions in capital markets affect managers' corporate decisions and new product developments; with a particular focus on corporate payout policy, the effect of competition in firms' behavior, and on the impact of Fintech on capital market efficiency.\n"
 
-visitor scientists / students:
+visitors:
 
   -
     name: 'Steven Goldfeder'
@@ -242,6 +242,14 @@ visitor scientists / students:
     email: chenhongyin@pku.edu.cn
     weburl: 'https://chenhongyin.com/'
     bio: "Hongyin Chen is currently a Ph.D. student at Peking University, advised by Xiaotie Deng. He is currently a visiting Ph.D. student in Ittay Eyal’s group at Technion. His research interests include mechanism design and game theory in blockchain.\n"
+
+  -
+    name: Zhiheng He
+    pic: Zhiheng.jpg
+    title:
+    email: hezh19@mails.tsinghua.edu.cn
+    weburl: 'www.zhihenghe.com'
+    bio: "Zhiheng He is a PhD student at Tsinghua University advised by Prof. Ke Tang, and a visiting graduate researcher and member of the DEFT Lab at Cornell University under Prof. Will Cong. His research interests include blockchain-based ecosystems, fintech innovation, and digital assets.\n"
 
 researchers:
 
@@ -296,14 +304,6 @@ postdocs:
     bio: "I am an early cryptocurrency enthusiast that got my start by studying Silk Road and the darknet marketplace ecosystem in late 2013 during my PhD at Carnegie Mellon University and since then have been working on applications and privacy of decentralized ledger technologies in a Postdoc at UIUC. More recently I have focused my attention on cryptocurrency finance, both centralized (BitMEX, Binance, etc.) and decentralized with particular interest on the economics and incentives of DeFi primitives such as staking, farming, play2earn, algo stablecoins and more.\n"
 
 students:
-
-  -
-    name: Zhiheng He
-    pic: Zhiheng.jpg
-    title:
-    email: hezh19@mails.tsinghua.edu.cn
-    weburl: 'www.zhihenghe.com'
-    bio: "Zhiheng He is a PhD student at Tsinghua University advised by Prof. Ke Tang, and a visiting graduate researcher and member of the DEFT Lab at Cornell University under Prof. Will Cong. His research interests include blockchain-based ecosystems, fintech innovation, and digital assets.\n"
 
   -
     name: Qihong Ruan
