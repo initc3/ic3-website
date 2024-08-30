@@ -225,16 +225,23 @@ seniorfellows:
     weburl: 'https://www.fbe.hku.hk/people/roni-michaely/'
     bio: "Roni Michaely is a professor of Finance and Entrepreneurialship at The University of Hong Kong. Before that he spent a significant portion of his career as The Rudd Family professor of Finance at Cornell University and Cornell Tech. His primary research interests are in the areas of empirical corporate finance, corporate governance, entrepreneurial finance, and FinTech. His current research focuses on how frictions in capital markets affect managers' corporate decisions and new product developments; with a particular focus on corporate payout policy, the effect of competition in firms' behavior, and on the impact of Fintech on capital market efficiency.\n"
 
-visitors:
+visitor scientists / students:
 
   -
-    name: 'Kushal Babel'
-    pic: kushal-babel.png
+    name: 'Steven Goldfeder'
+    pic: stevengoldfeder.jpg
     title:
-    email: kb742@cornell.edu
-    weburl: "http://cs.cornell.edu/~babel/"
-    bio: "Kushal Babel obtained his PhD from Cornell Tech, where he was advised by Ari Juels. He is currently working as a senior researcher at Monad Labs. Kushal has broad research interests and experience, ranging from Cryptoeconomics (MEV) and Consensus to smart contract security and cryptography. He is building novel financial instruments and highly performant and robust blockchain systems and applications."
+    email: goldfeder@cornell.edu
+    weburl: 'http://stevengoldfeder.com'
+    bio: "Steven Goldfeder is a scientist and co-founder of Offchain Labs. He holds a PhD from Princeton University and is a co-author of the leading textbook on cryptocurrencies."
 
+  -
+    name: 'Hongyin Chen'
+    pic: Hongyin.jpg
+    title: 
+    email: chenhongyin@pku.edu.cn
+    weburl: 'https://chenhongyin.com/'
+    bio: "Hongyin Chen is currently a Ph.D. student at Peking University, advised by Xiaotie Deng. He is currently a visiting Ph.D. student in Ittay Eyal’s group at Technion. His research interests include mechanism design and game theory in blockchain.\n"
 
 researchers:
 
@@ -288,14 +295,6 @@ postdocs:
     weburl:
     bio: "I am an early cryptocurrency enthusiast that got my start by studying Silk Road and the darknet marketplace ecosystem in late 2013 during my PhD at Carnegie Mellon University and since then have been working on applications and privacy of decentralized ledger technologies in a Postdoc at UIUC. More recently I have focused my attention on cryptocurrency finance, both centralized (BitMEX, Binance, etc.) and decentralized with particular interest on the economics and incentives of DeFi primitives such as staking, farming, play2earn, algo stablecoins and more.\n"
 
-  -
-    name: 'Steven Goldfeder'
-    pic: stevengoldfeder.jpg
-    title:
-    email: goldfeder@cornell.edu
-    weburl: 'http://stevengoldfeder.com'
-    bio: "Steven Goldfeder is an IC3 postdoc at Cornell Tech where he works at the intersection of crypto(graphy) and crypto(currencies). He holds a PhD from Princeton University and is a co-author of the leading textbook on cryptocurrencies."
-
 students:
 
   -
@@ -329,14 +328,6 @@ students:
     email: samuelbreckenridge0@gmail.com
     weburl:
     bio: "I am a PhD student in Computer Science at Cornell University interested in security, privacy and cryptography.\n"
-    
-  -
-    name: 'Hongyin Chen'
-    pic: Hongyin.jpg
-    title: 
-    email: chenhongyin@pku.edu.cn
-    weburl: 'https://chenhongyin.com/'
-    bio: "Hongyin Chen is currently a Ph.D. student at Peking University, advised by Xiaotie Deng. He is currently a visiting Ph.D. student in Ittay Eyal’s group at Technion. His research interests include mechanism design and game theory in blockchain.\n"
     
   -
     name: 'Tianneng Shi'
