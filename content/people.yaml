@@ -225,24 +225,6 @@ seniorfellows:
     weburl: 'https://www.fbe.hku.hk/people/roni-michaely/'
     bio: "Roni Michaely is a professor of Finance and Entrepreneurialship at The University of Hong Kong. Before that he spent a significant portion of his career as The Rudd Family professor of Finance at Cornell University and Cornell Tech. His primary research interests are in the areas of empirical corporate finance, corporate governance, entrepreneurial finance, and FinTech. His current research focuses on how frictions in capital markets affect managers' corporate decisions and new product developments; with a particular focus on corporate payout policy, the effect of competition in firms' behavior, and on the impact of Fintech on capital market efficiency.\n"
 
-researchers:
-
-  -
-    name: 'Dr. Kari Kostiainen'
-    pic: kari.jpg
-    title:
-    email: kari.kostiainen@inf.ethz.ch
-    weburl: 'https://syssec.ethz.ch/people/kkari.html'
-    bio: "Kari Kostiainen is Senior Scientist at ETH Zurich and Coordinator of Zurich Information Security Center (ZISC). Before joining ETH, Kari was a researcher at Nokia. He has a PhD in computer science from Aalto. Kari's research focuses on system security. Recent topics include smartphone security, trusted computing, secure user interaction, and blockchain security."
-
-  -
-    name: 'Dr. Vero Estrada-Galinanes'
-    pic: vero.jpg
-    title:
-    email: 
-    weburl: 'https://ch.linkedin.com/in/veronicaestrada'
-    bio: "Vero Estrada-Galinanes is a well-established researcher scientist member of DEDIS lab at EPFL. She was formerly an Associate Professor and research deputy leader at the Resilient Systems lab at University of Stavanger, Norway. She gained international experience acquired in academic environments, in the industry, as well as, in the public sector. She got a PhD thesis from University of Neuchatel, Switzerland, and has been with the Storage Systems Research Center at UCSC, USA. She was the recipient of SNSF, MEXT (Monbukagakusho), and CONICET grants. Her research areas of interest are decentralized p2p systems, complex systems, distributed data structures, cryptoeconomics, and their cross-disciplinary applications to empower individuals, communities and societies."
-
 postdocs:
 
   -
@@ -688,6 +670,24 @@ visitors:
     email: hezh19@mails.tsinghua.edu.cn
     weburl: 'www.zhihenghe.com'
     bio: "Zhiheng He is a PhD student at Tsinghua University advised by Prof. Ke Tang, and a visiting graduate researcher and member of the DEFT Lab at Cornell University under Prof. Will Cong. His research interests include blockchain-based ecosystems, fintech innovation, and digital assets.\n"
+
+scientists:
+
+  -
+    name: 'Dr. Kari Kostiainen'
+    pic: kari.jpg
+    title:
+    email: kari.kostiainen@inf.ethz.ch
+    weburl: 'https://syssec.ethz.ch/people/kkari.html'
+    bio: "Kari Kostiainen is Senior Scientist at ETH Zurich and Coordinator of Zurich Information Security Center (ZISC). Before joining ETH, Kari was a researcher at Nokia. He has a PhD in computer science from Aalto. Kari's research focuses on system security. Recent topics include smartphone security, trusted computing, secure user interaction, and blockchain security."
+
+  -
+    name: 'Dr. Vero Estrada-Galinanes'
+    pic: vero.jpg
+    title:
+    email: 
+    weburl: 'https://ch.linkedin.com/in/veronicaestrada'
+    bio: "Vero Estrada-Galinanes is a well-established researcher scientist member of DEDIS lab at EPFL. She was formerly an Associate Professor and research deputy leader at the Resilient Systems lab at University of Stavanger, Norway. She gained international experience acquired in academic environments, in the industry, as well as, in the public sector. She got a PhD thesis from University of Neuchatel, Switzerland, and has been with the Storage Systems Research Center at UCSC, USA. She was the recipient of SNSF, MEXT (Monbukagakusho), and CONICET grants. Her research areas of interest are decentralized p2p systems, complex systems, distributed data structures, cryptoeconomics, and their cross-disciplinary applications to empower individuals, communities and societies."
     
 fellows:
 
