@@ -11,6 +11,7 @@
 - E.N. Tas, I. András Seres, Y. Zhang, M. Melczer, M. Kelkar, J. Bonneau, and V. Nikolaenko. [Atomic and Fair Data Exchange via Blockchain](https://eprint.iacr.org/2024/418). SBC, 2024.
 - H. Chung, E. Masserova, E. Shi, and S.A. Thyagarajan. [Rapidash: Foundations of Side-Contract-Resilient Fair Exchange](https://eprint.iacr.org/2022/1063). SBC, 2024.
 - K. Babel, et al. [PROF: Protected Order Flow in a Profit-Seeking World](https://arxiv.org/pdf/2408.02303). SBC, 2024.
+- G. Tsimos, A. Kichidis, A. Sonnino, and L. Kokoris-Kogias. [HammerHead: Leader Reputation for Dynamic Scheduling](https://ieeexplore.ieee.org/abstract/document/10630917). ICDCS, 2024.
 - G Munilla Garrido, V. Nair, and D. Song. [SoK: Data Privacy in Virtual Reality](https://petsymposium.org/popets/2024/popets-2024-0003.php). PoPETS, 2024.
 - N. Jean-Louis, Y. Li, Y. Ji, H. Malvai, T. Yurek, S. Bellemare, and A. Miller. [SGXonerated:Finding (and Partially Fixing) Privacy Flaws in TEE-based Smart Contract Platforms Without Breaking the TEE](https://www.petsymposium.org/popets/2024/popets-2024-0035.php). PoPETS, 2024.
 - P. Huang, T. Hoang, Y. Li, E. Shi, and G.E. Suh. [Efficient Privacy-Preserving Machine Learning with Lightweight Trusted Hardware](https://www.petsymposium.org/popets/2024/popets-2024-0119.php). PoPETS, 2024.
