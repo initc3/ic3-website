@@ -21,6 +21,7 @@
 - Y. Li, K. Soska, Z. Huang, S. Bellemare, M. Quintyne-Collins, L. Wang, X. Liu, D. Song, and A. Miller. [Ratel: MPC-extensions for Smart Contracts](https://dl.acm.org/doi/10.1145/3634737.3661142). ASIA CCS, 2024.
 - Y. Potter, K. Pongmala, K. Qin, A. Klages-Mundt, P. Jovanovic, C. Parlour, A. Gervais, and Dawn Song. [What Drives the (In)stability of a Stablecoin?](https://ieeexplore.ieee.org/abstract/document/10634419). ICBC, 2024.
 - T. Sharma, Y. Potter, K. Pongmala, H. Wang, A. Miller, D. Song, and Y. Wang. [Unpacking How Decentralized Autonomous Organizations (DAOs) Work in Practice](https://ieeexplore.ieee.org/abstract/document/10634404). ICBC, 2024.
+- V.H. Lakhani, A. Babaei, L. Jehl, G. Ishmaev, and V. Estrada-Galiñanes. [Altruism, reciprocity, and tokens to reward forwarding data: Is that fair?](https://infoscience.epfl.ch/entities/publication/fd94526f-b960-4a5c-96c5-4821dcae0650). ICBC, 2024.
 - K. Sowon, E. Luhanga, L.F. Cranor, G. Fanti, C. Tucker, and A. Gueye. [The Role of User-Agent Interactions on Mobile Money Practices in Kenya and Tanzania](https://arxiv.org/pdf/2309.00226.pdf). IEEE S&P, 2024.
 - T. Liu, T. Xie, J. Zhang, D. Song, and Y. Zhang. [Pianist: Scalable zkRollups via Fully Distributed Zero-Knowledge Proofs](https://eprint.iacr.org/2023/1271). IEEE S&P, 2024.
 - M. Zhou, A. Park, E. Shi, and W. Zheng. [Piano: Extremely Simple, Single-Server PIR with Sublinear Server Computation](https://eprint.iacr.org/2023/452). IEEE S&P, 2024.
