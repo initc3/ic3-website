@@ -2,6 +2,7 @@
 
 ## 2024 ##
 
+- N. Giridharan, F. Suri-Payer, I. Abraham, L. Alvisi, and N. Crooks. [Motorway: Seamless high speed BFT](https://arxiv.org/pdf/2401.10369). SOSP, 2024. (to appear)
 - W. Tang, P. Sheng, R. Ni, P. Roy, X. Wang, G. Fanti, and P. Viswanath. [CFT-Forensics: High-Performance Byzantine Accountability for Crash Fault Tolerant Protocols](https://arxiv.org/pdf/2305.09123v3). AFT, 2024. (to appear)
 - L. Zhou, Z. Liu, F. Zhang, and M.K. Reiter. [CrudiTEE: A Stick-and-Carrot Approach to Building Trustworthy Cryptocurrency Wallets with TEEs](https://arxiv.org/pdf/2407.16473v1). AFT, 2024. (to appear)
 - D. Coppola, G. Camurati, C. Anliker, X. Hofmeier, P. Shaller, D. Basin, and S. Capkun. [PURE: Payments with UWB RElay-protection](https://www.research-collection.ethz.ch/handle/20.500.11850/662474). USENIX, 2024
