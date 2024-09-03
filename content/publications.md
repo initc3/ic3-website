@@ -19,7 +19,7 @@
 - A. Agarwal, S. Peceny, M. Raykova, P. Schoppmann, and K. Seth. [Communication-Efficient Secure Logistic Regression](https://eprint.iacr.org/2022/866.pdf). EuroS&P, 2024.
 - A. Kavousi, Z. Wang, and P. Jovanovic. [SoK: Public Randomness](https://eprint.iacr.org/2023/1121.pdf). EuroS&P, 2024.
 - H. Chung, T. Roughgarden, and E. Shi. [Collusion-Resilience in Transaction Fee Mechanism Design](https://eprint.iacr.org/2024/237.pdf). EC, 2024.
-- G. Giuliari, A. Sonnino, M.Frei, F. Streun, L. Kokoris-Kogias, and A. Perrig. [An Empirical Study of Consensus Protocols’ DoS Resilience](https://netsec.ethz.ch/publications/papers/Consensus_DDoS_AsiaCCS_24.p.df). ASIA CCS, 2024.
+- G. Giuliari, A. Sonnino, M.Frei, F. Streun, L. Kokoris-Kogias, and A. Perrig. [An Empirical Study of Consensus Protocols’ DoS Resilience](https://dl.acm.org/doi/10.1145/3634737.3656997). ASIA CCS, 2024.
 - Y. Li, K. Soska, Z. Huang, S. Bellemare, M. Quintyne-Collins, L. Wang, X. Liu, D. Song, and A. Miller. [Ratel: MPC-extensions for Smart Contracts](https://dl.acm.org/doi/10.1145/3634737.3661142). ASIA CCS, 2024.
 - Y. Potter, K. Pongmala, K. Qin, A. Klages-Mundt, P. Jovanovic, C. Parlour, A. Gervais, and Dawn Song. [What Drives the (In)stability of a Stablecoin?](https://ieeexplore.ieee.org/abstract/document/10634419). ICBC, 2024.
 - T. Sharma, Y. Potter, K. Pongmala, H. Wang, A. Miller, D. Song, and Y. Wang. [Unpacking How Decentralized Autonomous Organizations (DAOs) Work in Practice](https://ieeexplore.ieee.org/abstract/document/10634404). ICBC, 2024.
