@@ -3,8 +3,13 @@
 ## 2024 ##
 
 - N. Giridharan, F. Suri-Payer, I. Abraham, L. Alvisi, and N. Crooks. [Autobahn: Seamless high speed BFT](https://arxiv.org/pdf/2401.10369). SOSP, 2024. (to appear)
+- N Mohnblatt, A. Sonnino, K. Gurkan, and P. Jovanovic. [Arke: Scalable and Byzantine Fault Tolerant Privacy-Preserving Contact Discovery](https://eprint.iacr.org/2023/1218). ACM CCS, 2024. (to appear)
+- S. Blackshear, A. Chursin, G. Danezis, A. Kichidis, L. Kokoris-Kogias, X. Li, M. Logan, A. Menon, T. Nowacki, A. Sonnino, B. Williams, and L. Zhang. [Sui Lutris: A Blockchain Combining Broadcast and Consensus](https://arxiv.org/abs/2310.18042). ACM CCS, 2024. (to appear)
+- M. Mouallem and I. Eyal. [Asynchronous Authentication](https://arxiv.org/pdf/2312.13967). ACM CCS, 2024. (to appear)
+- S. Wadhwa, L. Zanolini, F. D'Amato, A. Asgaonkar, C. Fang, F. Zhang, and K. Nayak. [Data Independent Order Policy Enforcement: Limitations and Solutions](https://eprint.iacr.org/2023/868). ACM CCS, 2024. (to appear)
 - W. Tang, P. Sheng, R. Ni, P. Roy, X. Wang, G. Fanti, and P. Viswanath. [CFT-Forensics: High-Performance Byzantine Accountability for Crash Fault Tolerant Protocols](https://arxiv.org/pdf/2305.09123v3). AFT, 2024. (to appear)
 - L. Zhou, Z. Liu, F. Zhang, and M.K. Reiter. [CrudiTEE: A Stick-and-Carrot Approach to Building Trustworthy Cryptocurrency Wallets with TEEs](https://arxiv.org/pdf/2407.16473v1). AFT, 2024. (to appear)
+- M.M. Alvarez, H. Arneson, B. Berger, L. Bousfield, C. Buckland, Y. Edelman, E. Felten, D Goldman, R. Jordan, M. Kelkar, A. Mamageishvili, H. Ng, A. Sanghi, V. Shoup, and T. Tsao [BoLD: Fast and Cheap Dispute Resol.ution](https://arxiv.org/abs/2404.10491). AFT, 2024.
 - D. Coppola, G. Camurati, C. Anliker, X. Hofmeier, P. Shaller, D. Basin, and S. Capkun. [PURE: Payments with UWB RElay-protection](https://www.research-collection.ethz.ch/handle/20.500.11850/662474). USENIX, 2024
 - B. Bailey and A. Miller. [Formalizing Soundness Proofs of Linear PCP SNARKs](https://www.usenix.org/conference/usenixsecurity24/presentation/bailey). USENIX, 2024.
 - F. Baldimtsi, K.K. Chalkias, Y. Ji, J. Lindstrom, D. Maram, B. Riva, A. Roy, M. Sedaghat, and J. Wang. [zkLogin: Privacy-Preserving Blockchain Authentication with Existing Credentials](https://arxiv.org/abs/2401.11735). SBC, 2024.
