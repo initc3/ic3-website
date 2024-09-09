@@ -262,6 +262,14 @@ postdocs:
 students:
 
   -
+    name: Artem Streltsov
+    pic: Artem.jpg
+    title:
+    email: as3923@cornell.edu
+    weburl:
+    bio: "Artem is a Finance PhD student with a minor in Computer Science at the Johnson Graduate School of Management, Cornell University and member of the DEFT Lab at Cornell University under the supervision of Prof. Will Cong. Before coming to Cornell, he studied economics and mathematics at Duke University. Artem’s research focuses on FinTech and applications of machine learning in finance and economics.\n"
+    
+  -
     name: Qihong Ruan
     pic: Qihong.jpeg
     title:
@@ -669,7 +677,7 @@ visitors:
     title:
     email: hezh19@mails.tsinghua.edu.cn
     weburl: 'www.zhihenghe.com'
-    bio: "Zhiheng He is a PhD student at Tsinghua University advised by Prof. Ke Tang, and a visiting graduate researcher and member of the DEFT Lab at Cornell University under Prof. Will Cong. His research interests include blockchain-based ecosystems, fintech innovation, and digital assets.\n"
+    bio: "Zhiheng He is a PhD student at Tsinghua University advised by Prof. Ke Tang, and a visiting graduate researcher and member of the DEFT Lab at Cornell University under the supervision of Prof. Will Cong. His research interests include blockchain-based ecosystems, fintech innovation, and digital assets.\n"
 
 scientists:
 
