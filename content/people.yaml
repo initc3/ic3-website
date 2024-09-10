@@ -262,6 +262,14 @@ postdocs:
 students:
 
   -
+    name: 'Yu Wang'
+    pic: Yu.jpeg
+    title:
+    email: yw2322@cornell.edu
+    weburl:
+    bio: "Yu Wang is a PhD student in the Economics department at Cornell University and an affiliate of the DEFT Lab. He studies macroeconomics and finance, with a focus on firm investment behavior and the non-fungible token market.\n"
+    
+  -
     name: Artem Streltsov
     pic: Artem.jpg
     title:
