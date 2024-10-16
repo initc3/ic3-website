@@ -699,6 +699,15 @@ scientists:
 
 research_fellows:
 
+  -
+    name: 'Jay Yu'
+    pic: 
+    title:
+    email: jyu01@stanford.edu
+    weburl:
+    bio: 
+    
+
 fellows:
 
   -
