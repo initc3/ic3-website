@@ -704,7 +704,9 @@ scientists:
     email: 
     weburl: 'https://ch.linkedin.com/in/veronicaestrada'
     bio: "Vero Estrada-Galinanes is a well-established researcher scientist member of DEDIS lab at EPFL. She was formerly an Associate Professor and research deputy leader at the Resilient Systems lab at University of Stavanger, Norway. She gained international experience acquired in academic environments, in the industry, as well as, in the public sector. She got a PhD thesis from University of Neuchatel, Switzerland, and has been with the Storage Systems Research Center at UCSC, USA. She was the recipient of SNSF, MEXT (Monbukagakusho), and CONICET grants. Her research areas of interest are decentralized p2p systems, complex systems, distributed data structures, cryptoeconomics, and their cross-disciplinary applications to empower individuals, communities and societies."
-    
+
+research_fellows:
+
 fellows:
 
   -
