@@ -534,14 +534,6 @@ students:
     bio: "Roi Bar Zur is a graduate student at the Technion. He is interested in cryptocurrencies, game theory, and reinforcement learning."
   
   -
-    name: 'Charlie Hou'
-    pic: charlie-hou.jpg
-    title:
-    email: charlieh@andrew.cmu.edu
-    weburl:
-    bio: "Charlie is a PhD student at CMU advised by Giulia Fanti. He is interested in robustness of data-driven systems."
-
-  -
     name: 'Youer Pu'
     pic: youerpu.jpg
     title:
@@ -1246,3 +1238,11 @@ alumni_students:
     email: sy657@cornell.edu
     weburl: "https://www.cs.cornell.edu/~yaosiqiu/"
     bio: "Siqiu Yao has completed his PhD at Cornell University under the supervision of prof. Andrew Myers. He is interested in building blockchain systems and smart contract languages with better security."
+
+  -
+    name: 'Charlie Hou'
+    pic: charlie-hou.jpg
+    title:
+    email: charlieh@andrew.cmu.edu
+    weburl:
+    bio: "Charlie completed his Ph.D. at CMU advised by Giulia Fanti. He is a research scientist at Meta interested in robustness of data-driven systems."
