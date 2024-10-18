@@ -22,17 +22,17 @@ We strongly encourage all members and partners to <strong><a href="https://docs.
 
 Upon registering, you can expect to receive a confirmation email from us. Please be on the lookout for more updates in the coming weeks.
 
-# Important Reminders:
+## Important Reminders
 
 <strong>IC3 Partners:</strong> Each partner company is permitted to send up to <strong>5 employees</strong> to attend the Winter Retreat. Unfortunately, we can’t accommodate any more than that due to capacity constraints.
 
 <strong>Swiss Visa Applicants:</strong> For participants who require visas to enter Switzerland, we urge you to initiate the visa application process immediately. Securing a visa for a first-time visitor involves several steps, including scheduling an appointment at your Swiss consulate or embassy. Should you require an invitation letter for your visa application, please contact Oana Gherman at <a href="mailto:og64@cornell.edu">og64@cornell.edu</a>.
 
-# IC3 2024 Winter Retreat:
+## IC3 2024 Winter Retreat
 
 Curious to know more about the 2024 Winter Retreat? <a href="https://www.initc3.org/events/2024-01-08-ic3-winter-retreat-2024">Go here</a> to access highlights and the agenda from last year’s event. 
 
-# Want to become an IC3 Sponsor?
+## Want to become an IC3 Sponsor?
 
 We’re committed to pushing the boundaries when it comes to blockchain research, but couldn’t do it without the help of our amazing <a href="https://www.initc3.org/partners">sponsors and partners</a>.    
 
