@@ -689,7 +689,7 @@ scientists:
     weburl: 'https://ch.linkedin.com/in/veronicaestrada'
     bio: "Vero Estrada-Galinanes is a well-established researcher scientist member of DEDIS lab at EPFL. She was formerly an Associate Professor and research deputy leader at the Resilient Systems lab at University of Stavanger, Norway. She gained international experience acquired in academic environments, in the industry, as well as, in the public sector. She got a PhD thesis from University of Neuchatel, Switzerland, and has been with the Storage Systems Research Center at UCSC, USA. She was the recipient of SNSF, MEXT (Monbukagakusho), and CONICET grants. Her research areas of interest are decentralized p2p systems, complex systems, distributed data structures, cryptoeconomics, and their cross-disciplinary applications to empower individuals, communities and societies."
 
-research_fellows:
+advisors:
 
   -
     name: 'Jay Yu'
@@ -697,8 +697,31 @@ research_fellows:
     title:
     email: jyu01@stanford.edu
     weburl:
-    bio: 
+    bio: "Jay Yu is a IC3 Research Advisor, where his research interests center around Decentralized Autonomous Organizations (DAOs) and programmable cryptography. Jay studied Philosophy and Computer Science at Stanford University. As President of Stanford Blockchain Club, he served as a Uniswap DAO delegate and a Teaching Assistant for "CS 352B/LAW 1078: Blockchain Governance". He also works on research and investments at Pantera Capital.\n"
+
+  -
+    name: 'Lorenz Breidenbach'
+    pic: lorenz.jpg
+    title:
+    email:
+    weburl: 'http://github.com/lorenzb'
+    bio: "Lorenz is the Head of R&D at Chainlink Labs.\n"
+
+  -
+    name: 'Surya Bakshi'
+    pic: bakshi.png
+    title:
+    email: sbakshi3@illinois.edu
+    weburl:
+    bio: "Surya completed his Ph.D. program at the University of Illinois Urbana-Champaign working with Andrew Miller in the Decentralized Systems Lab. Currently, he joined Offchain Labs.\n"
     
+  -
+    name: 'Haaroon Yousaf'
+    pic: haaroon.jpg
+    title:
+    email: h.yousaf@ucl.ac.uk
+    weburl: 'http://www.haaroonyousaf.com/'
+    bio: "Haaroon received his Ph.D. in Computer Science from the Information Security Group at University College London (UCL) under the supervision of Professor Sarah Meiklejohn and Professor Jens Groth. Currently, he works in research at Pometry, a start-up he co-founded in 2021 with his colleague Ben Steer from Queen Mary. They focus on building a platform for distributed temporal graph analytics.\n"
 
 fellows:
 
@@ -921,14 +944,6 @@ alumni_students:
     bio: "Yue Guo completed her PhD program at Cornell University, Computer Science Department under the supervision of prof. Elaine Shi. Currently, she works at JP Morgan Research. She is interested in cryptography and system security.\n"
       
   -
-    name: 'Surya Bakshi'
-    pic: bakshi.png
-    title:
-    email: sbakshi3@illinois.edu
-    weburl:
-    bio: "Surya completed his Ph.D. program at the University of Illinois Urbana-Champaign working with Andrew Miller in the Decentralized Systems Lab. Currently, he joined Offchain Labs.\n"
-    
-  -
     name: 'Burcu Canakci'
     pic: raptor2.jpg
     title: 
@@ -991,14 +1006,6 @@ alumni_students:
     email: odednaor@gmail.com
     weburl: 
     bio: "Oded obtained his Masters under the supervision of prof. Ittay Eyal. He has joined StarkWare working as a Product Manager & Blockchain Researcher. His research interests include blockchains, security, and distributed systems in general.\n"
-
-  -
-    name: 'Lorenz Breidenbach'
-    pic: lorenz.jpg
-    title:
-    email:
-    weburl: 'http://github.com/lorenzb'
-    bio: "Lorenz is the Head of R&D at Chainlink Labs.\n"
  
   -
     name: 'Sergi Delgado Segura'
@@ -1016,14 +1023,6 @@ alumni_students:
     weburl: 'http://ayushdubey.com/'
     bio: "Ayush Dubey is a Software Engineer with TensorFlow, focusing on distributed runtime and performance. He completed his PhD in Computer Science in 2017 at  Cornell University.\n"
   
-  -
-    name: 'Haaroon Yousaf'
-    pic: haaroon.jpg
-    title:
-    email: h.yousaf@ucl.ac.uk
-    weburl: 'http://www.haaroonyousaf.com/'
-    bio: "Haaroon received his Ph.D. in Computer Science from the Information Security Group at University College London (UCL) under the supervision of Professor Sarah Meiklejohn and Professor Jens Groth. Currently, he works in research at Pometry, a start-up he co-founded in 2021 with his colleague Ben Steer from Queen Mary. They focus on building a platform for distributed temporal graph analytics.\n"
-
   -
     name: 'Sinisa Matetic'
     pic: smatetic.png
