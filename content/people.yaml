@@ -723,6 +723,14 @@ advisors:
     weburl: 'http://www.haaroonyousaf.com/'
     bio: "Haaroon received his Ph.D. in Computer Science from the Information Security Group at University College London (UCL) under the supervision of Professor Sarah Meiklejohn and Professor Jens Groth. Currently, he works in research at Pometry, a start-up he co-founded in 2021 with his colleague Ben Steer from Queen Mary. They focus on building a platform for distributed temporal graph analytics.\n"
 
+  -
+    name: 'Patrick McCorry'
+    pic: paddy.jpg
+    title:
+    email: stonecoldpat@gmail.com
+    weburl: 'http://stonecoldpat.github.io'
+    bio: "Patrick McCorry is the CEO of PISA Research. He was an Assistant Professor at King's College London in Cryptocurrencies and Security Engineering. As well, he was a researcher at University College London, University of Illinois at Urbana-Champaign and Newcastle University. Many moons ago, he also worked at IBM UK on the CICS Portfolio which is used by most banks in the world. His research focuses on cryptocurrencies, smart contracts, applied cryptography, and decentralized systems.\n"
+
 fellows:
 
   -
@@ -830,14 +838,6 @@ alumni_faculty:
     email: el33th4x0r@gmail.com
     weburl: 'http://www.cs.cornell.edu/people/egs/'
     bio: 'Emin Gün Sirer is the CEO and co-founder of Ava Labs. His research interests span distributed systems, cryptocurrencies, and software infrastructure for large scale services.'
-
-  -
-    name: 'Patrick McCorry'
-    pic: paddy.jpg
-    title:
-    email: stonecoldpat@gmail.com
-    weburl: 'http://stonecoldpat.github.io'
-    bio: "Patrick McCorry is the CEO of PISA Research. He was an Assistant Professor at King's College London in Cryptocurrencies and Security Engineering. As well, he was a researcher at University College London, University of Illinois at Urbana-Champaign and Newcastle University. Many moons ago, he also worked at IBM UK on the CICS Portfolio which is used by most banks in the world. His research focuses on cryptocurrencies, smart contracts, applied cryptography, and decentralized systems.\n"
 
 alumni_researchers:
 
