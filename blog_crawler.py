@@ -33,11 +33,13 @@ def fetchall(num_recent_blogs=4):
                     "http://hackingdistributed.com/2013/06/20/virtual-notary-intro/",
                     }
 
-    target = [
-        "http://hackingdistributed.com/tag/bitcoin/",
-        "http://hackingdistributed.com/tag/ethereum/",
-        "http://hackingdistributed.com/tag/decentralization/",
-    ]
+    # target = [
+    #     "http://hackingdistributed.com/tag/bitcoin/",
+    #     "http://hackingdistributed.com/tag/ethereum/",
+    #     "http://hackingdistributed.com/tag/decentralization/",
+    # ]
+
+    target = []
 
     results = []
 
