@@ -14,7 +14,10 @@ from pyquery import PyQuery as pq
 
 logger = logging.getLogger('blog_crawler')
 
+def fetchall(num_recent_blogs=4):
+    pass
 
+'''
 def fetchall(num_recent_blogs=4):
     # Fetch from Hacking Distributed
     exclude_urls = {"http://hackingdistributed.com/2015/08/17/coin-needs-a-board/",
@@ -120,3 +123,4 @@ def fetchall(num_recent_blogs=4):
         recent.append(dict(date=date, url=url, title=title, authors=authors, imgsrc=imgsrc, summary=summary))
 
     return recent, posts
+'''
