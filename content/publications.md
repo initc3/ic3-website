@@ -10,7 +10,7 @@
 - S. Wadhwa, L. Zanolini, F. D'Amato, A. Asgaonkar, C. Fang, F. Zhang, and K. Nayak. [Data Independent Order Policy Enforcement: Limitations and Solutions](https://eprint.iacr.org/2023/868). ACM CCS, 2024.
 - D. Maram, M. Kelkar, and I. Eyal. [Interactive Authentication](https://eprint.iacr.org/2022/1682). ACM CCS, 2024.
 - E.N. Tas, I.A. Seres, Y. Zhang, M. Melczer, M. Kelkar, J. Bonneau, and V. Nikolaenko. [Atomic and Fair Data Exchange via Blockchain](https://eprint.iacr.org/2024/418). ACM CCS, 2024.
-- P. Soni, S.A.K. Thyagarajan, and  N. Vanjani. [Functional Adaptor Signatures: Beyond All-or-Nothing Blockchain-based Payments]. ACM CCS, 2024.
+- P. Soni, S.A.K. Thyagarajan, and  N. Vanjani. [Functional Adaptor Signatures: Beyond All-or-Nothing Blockchain-based Payments](https://eprint.iacr.org/2024/1523). ACM CCS, 2024.
 - M. Zhou, E. Shi, and G. Fanti. [Conan: Distributed Proofs of Compliance for Anonymous Data Collection](https://eprint.iacr.org/2023/1900). ACM CCS, 2024.
 - M. Kelkar, K. Babel, P. Daian, J. Austgen, V. Buterin, and A. Juels. [Complete Knowledge: Preventing Encumbrance of Cryptographic Secrets](https://eprint.iacr.org/2023/044). ACM CCS, 2024.
 - M. Rosenberg, T. Mopuri, H. Hafezi, I. Miers, and P. Mishra. [Hekaton: Horizontally-Scalable zkSNARKs via Proof Aggregation](https://eprint.iacr.org/2024/1208). ACM CCS, 2024.
