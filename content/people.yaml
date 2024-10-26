@@ -492,15 +492,7 @@ students:
     email: pasindu.tennage@epfl.ch
     weburl:
     bio: "Pasindu is a PhD student at Swiss Federal Institute of Technology in Lausanne (EPFL), Switzerland, under the supervision of Prof. Bryan Ford. Pasindu enjoys designing and building new distributed algorithms and performance tuning. Pasindu's research interests include consensus algorithms, resilient systems and performance optimization.\n"
-    
-  -
-    name: 'Kasra EdalatNejad'
-    pic: kedalat.jpg
-    title:
-    email: kasra.edalat@epfl.ch
-    weburl: 'https://kasra.edalat.dev/'
-    bio: "Kasra EdalatNejad is a Ph.D. student at EPFL. His research interests span the areas of privacy and security.\n"
-  
+      
   -
     name: 'Michael Mirkin'
     pic: mirkin.jpg
@@ -786,8 +778,8 @@ fellows:
     pic: ethan.png
     title:
     email:
-    weburl: 'https://ethan.umiacs.io/'
-    bio: "Ethan Cecchetti is a Post-Doc Associate in the Maryland Cybersecurity Center at the University of Maryland. He will be joining the University of Wisconsin - Madison as an Assistant Professor of Computer Sciences starting Fall 2023. He is interested in a wide range of research related to security and cryptography.\n"
+    weburl: 'https://cecchetti.sites.cs.wisc.edu/'
+    bio: "Ethan Cecchetti is an Assistant Professor in the Department of Computer Sciences at the University of Wisconsin–Madison, and a member of the MadS&P and madPL groups. Previously, he was a Post-Doc Associate in the Maryland Cybersecurity Center at the University of Maryland. My research uses programming languages and applied cryptographic techniques to design secure systems and build tools to ease their development and analysis.\n"
   
   -
     name: 'Philipp Jovanovic'
@@ -828,7 +820,15 @@ fellows:
     email: kew2@andrew.cmu.edu
     weburl: 'https://kewucs.com/'
     bio: "Ke Wu is an assistant professor in the Theory of Computation Lab of the EECS Department at the University of Michigan. She obtained her PhD at Carnegie Mellon University, advised by Elaine Shi. She is interested in the intersection of cryptography and game theory, as well as coding theory and related areas in theoretical computer science."
-  
+
+  -
+    name: 'Kasra EdalatNejad'
+    pic: kedalat.jpg
+    title:
+    email: kasra.edalat@epfl.ch
+    weburl: 'https://kasra.edalat.dev/'
+    bio: "Kasra is a post-doctoral researcher at the ENCRYPTO lab where he is working alongside Prof. Dr. Thomas Schneider. He earned my Ph.D. in the SPRING lab at École Polytechnique Fédérale de Lausanne (EPFL), advised by Prof. Carmela Troncoso. His research interests span the areas of privacy and security.\n"
+
 alumni_faculty:
 
   -
