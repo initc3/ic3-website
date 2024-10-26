@@ -444,15 +444,7 @@ students:
     email: mahimna@cs.cornell.edu
     weburl: 'https://www.cs.cornell.edu/~mahimna/'
     bio: "Mahimna is a Ph.D. student in Computer Science at Cornell University where he is advised by Ari Juels. He is broadly interested in cryptography and security with some emphasis on blockchain protocols and applications." 
-    
-  - 
-    name: 'Haobin Ni'
-    pic: Haobin.jpeg
-    title:
-    email: haobin@cs.cornell.edu
-    weburl: 'http://haobin.cx/'
-    bio: "Haobin is a fifth-year Ph.D. student at Cornell University in the Department of Computer Science, co-advised by Greg Morrisett and Robbert van Renesse. His research focuses on the formal verification of distributed systems. He is also involved in the SCIF project, a reentrancy-secure programming language for smart contracts based on information flow control."
-    
+     
   - 
     name: 'Hongbo Zhang'
     pic: Hongbo.png
@@ -821,14 +813,6 @@ fellows:
     weburl: 'https://kewucs.com/'
     bio: "Ke Wu is an assistant professor in the Theory of Computation Lab of the EECS Department at the University of Michigan. She obtained her PhD at Carnegie Mellon University, advised by Elaine Shi. She is interested in the intersection of cryptography and game theory, as well as coding theory and related areas in theoretical computer science."
 
-  -
-    name: 'Kasra EdalatNejad'
-    pic: kedalat.jpg
-    title:
-    email: kasra.edalat@epfl.ch
-    weburl: 'https://kasra.edalat.dev/'
-    bio: "Kasra is a post-doctoral researcher at the ENCRYPTO lab where he is working alongside Prof. Dr. Thomas Schneider. He earned my Ph.D. in the SPRING lab at École Polytechnique Fédérale de Lausanne (EPFL), advised by Prof. Carmela Troncoso. His research interests span the areas of privacy and security.\n"
-
 alumni_faculty:
 
   -
@@ -861,6 +845,14 @@ alumni_researchers:
 alumni_postdocs:
 
   -
+    name: 'Kasra Edalatnejad'
+    pic: kedalat.jpg
+    title:
+    email: kasra.edalat@epfl.ch
+    weburl: 'https://kasra.edalat.dev/'
+    bio: "Kasra is a post-doctoral researcher at the ENCRYPTO lab where he is working alongside Prof. Dr. Thomas Schneider. He earned my Ph.D. in the SPRING lab at École Polytechnique Fédérale de Lausanne (EPFL), advised by Prof. Carmela Troncoso. His research interests span the areas of privacy and security.\n"
+
+  -
     name: 'Iddo Bentov'
     pic: iddobentov.jpg
     title:
@@ -890,7 +882,7 @@ alumni_postdocs:
     title:
     email: kirill@cornell.edu
     weburl: 'https://nikirill.com/'
-    bio: "Kirill Nikitin is a Post-Doc researcher at Cornell Tech working with Prof. Vitaly Shmatikov. Previously, he completed his Ph.D. in Computer Science at École Polytechnique Fédérale de Lausanne (EPFL). His research interests revolve around the topics in system security, network security, and distributed systems. His current focus is on building secure and privacy-preserving decentralized systems.\n"
+    bio: "Kirill Nikitin is a postdoctoral researcher at Columbia University and the New York Genome Center working with Prof. Gamze Gürsoy on building solutions for privacy-preserving sharing and analysis of genomics data. Previously, I completed my PhD in Computer Science at EPFL, where I was advised by Prof. Bryan Ford, and worked as a postdoc with Prof. Vitaly Shmatikov at Cornell Tech. My research interests revolve around topics in Privacy, Genomics, Anonymity, and Computer and Network Security. My past projects include work on reducing metadata leakage in network communication and encrypted data, building robust systems for private information retrieval, improving the security of software-update systems, and scaling and securing smart contracts. \n"
   
   -
     name: 'Isaac Sheff'
@@ -916,6 +908,14 @@ alumni_postdocs:
     weburl: 'http://www.cs.cornell.edu/~cfreitag/'
     bio: "I just received my PhD in computer science at Cornell University (although technically at the Cornell Tech campus), advised by Rafael Pass. I am a postdoctoral researcher at Northeastern University with Daniel Wichs and Boston University with Ran Canetti, where I will be fortunately funded by a Khoury College Distinguished Postdoctoral Fellowship. My research primarily focuses on the theoretical foundations of cryptography. In particular, I'm interested in cryptographic proof systems and their applications in the decentralized setting of blockchains. I've also been interested in non-uniform models of security and differential privacy. \n"
 
+  - 
+    name: 'Haobin Ni'
+    pic: Haobin.jpeg
+    title:
+    email: haobin@cs.cornell.edu
+    weburl: 'http://haobin.cx/'
+    bio: "Haobin is a postdoctoral scholar at the University of Washington Programming Language and Software Engineering (PLSE) group, advised by Zachary Tatlock. At PLSE, I actively work on language design, program analysis, and compiler optimization, among other PL and system research directions. I’m also leading the PLSE PL Reading Group (PLRG) this year (2024-2025). He earned my Ph.D. degree in May 2024 from Cornell University, co-advised by Greg Morrisett and Robbert van Renesse. His research focuses on the formal verification of distributed systems. \n"
+   
 
 alumni_students:
 
