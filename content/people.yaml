@@ -262,6 +262,14 @@ postdocs:
 students:
 
   -
+    name: 'Annalisa Cimatti'
+    pic: Annalisa.jpeg
+    title:
+    email: annalisa.cimatti@unibe.ch
+    weburl:
+    bio: "Annalisa is a PhD student at the University of Bern, supervised by Professor Christian Cachin. Her research focuses on distributed cryptography. She is also interested in elliptic curves cryptosystems.\n"
+    
+  -
     name: 'Yu Wang'
     pic: Yu.jpg
     title:
