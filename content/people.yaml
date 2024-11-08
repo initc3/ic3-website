@@ -262,6 +262,14 @@ postdocs:
 students:
 
   -
+    name: 'Vivien Bammert'
+    pic: Vivien.jpeg
+    title:
+    email: vivien.bammert@unibe.ch
+    weburl:
+    bio: "Vivien is a Ph.D. student at the University of Bern under the supervision of Professor Christian Cachin. She is mainly interested in distributed cryptography, security, coding theory and code-based cryptography.\n"
+    
+  -
     name: 'Annalisa Cimatti'
     pic: Annalisa.jpeg
     title:
