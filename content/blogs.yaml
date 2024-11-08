@@ -320,3 +320,10 @@
  title: "Meet the Team Behind Boquila: Winning Project of the 2024 IC3 Blockchain Camp Hackathon"
  authors: Surya Bakshi (UIUC, IC3, Offchain Labs), Sarah Allen (IC3, Flashbots), Lorenz Breidenbach (IC3, Chainlink Labs), Jim Ballingall (IC3), Haaroon Yousaf (IC3), Patrick McCorry (IC3, Arbitrum Foundation), Giannis Kaklamanis (Yale University), Vivian Jeng (Ethereum Foundation), Jayamine Alupotha (IC3, University of Bern), Mariarosaria Barbaraci (IC3, University of Bern), Abhimanyu Rawat (UPF Barcelona)
  summary: The team behind Boquila, a proof of concept to obscure identifiable information from third-party websites, took the top spot at this year’s hackathon. We sat down with Mariarosaria Barbaraci and Jayamine Alupotha, two members of the winning team, to talk about what they built and their experience at this year’s IC3 Blockchain Camp.
+
+-
+ date: 2024-08-09
+ url: https://decentralizedthoughts.github.io/2024-08-09-sap/
+ title: "The SAP theorem for storing secret keys"
+ authors: Marwa Mouallem, Ittay Eyal, and Ittai Abraham
+ summary: Public key cryptography (PKC) is a fundamental technology that is a key enabler to the Internet and the whole client-server paradigm. Without public key cryptography there would be no cryptocurrencies, no online bank accounts, no online retail, etc.
