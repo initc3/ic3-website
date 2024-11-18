@@ -262,6 +262,14 @@ postdocs:
 students:
 
   -
+    name: 'Aditya Saraf'
+    pic: Aditya.jpeg
+    title:
+    email: as2777@cornell.edu
+    weburl:
+    bio: "Aditya is a Computer Science Ph.D. student at Cornell Tech, where he is advised by Rafael Pass and Joe Halpern. His research interests are in the intersection of economics and computer science, especially in relation to cryptocurrencies.\n"
+    
+  -
     name: 'Vivien Bammert'
     pic: Vivien.jpeg
     title:
