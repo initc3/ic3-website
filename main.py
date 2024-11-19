@@ -111,6 +111,20 @@ def about():
         breadcrumb=breadcrumb),
                        output)
 
+def accelerator():
+    output = join(OUTPUT_DIR, 'accelerator.html')
+    temp = e.env.get_template('page.html')
+
+    with codecs.open('content/accelerator.md', 'r', encoding='utf-8') as f:
+        content = f.read()
+        content = markdown.markdown(content)
+
+    breadcrumb = [{'name': 'Accelerator', 'url': 'accelerator.html'}]
+    e.render_and_write(temp, dict(
+        title='IC3 - Accelerator',
+        content=content,
+        breadcrumb=breadcrumb),
+                       output)
 
 def people():
     output = os.path.join(OUTPUT_DIR, 'people.html')
@@ -324,6 +338,7 @@ def compress_image(dir='images/hotlinks', size=(80, 80)):
 if __name__ == '__main__':
     index()
     about()
+    accelerator()
     people()
     partners()
     projects()
