@@ -327,3 +327,10 @@
  title: "The SAP theorem for storing secret keys"
  authors: Marwa Mouallem, Ittay Eyal, and Ittai Abraham
  summary: Public key cryptography (PKC) is a fundamental technology that is a key enabler to the Internet and the whole client-server paradigm. Without public key cryptography there would be no cryptocurrencies, no online bank accounts, no online retail, etc.
+
+-
+ date: 2024-11-06
+ url: https://initc3org.medium.com/improving-digital-asset-security-6bbe30d113c6
+ title: "Improving Digital Asset Security"
+ authors: Deepak Maram (Mysten Labs, IC3 Alum), Mahimna Kelkar (Cornell Tech, IC3), and Ittay Eyal (Technion, IC3)
+ summary: The authors examine interactive authentication mechanisms that could enhance wallet security, helping crypto users transact more safely.
