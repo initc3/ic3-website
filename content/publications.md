@@ -3,7 +3,8 @@
 ## 2024 ##
 
 - A. Kavousi, A. Abadi, and P. Jovanovic. [Timed Secret Sharing](https://eprint.iacr.org/2023/1024). Asiacrypt, 2024. (to appear)
-- N. Giridharan, F. Suri-Payer, I. Abraham, L. Alvisi, and N. Crooks. [Autobahn: Seamless high speed BFT](https://arxiv.org/pdf/2401.10369). SOSP, 2024. (to appear)
+- N. Giridharan, F. Suri-Payer, I. Abraham, L. Alvisi, and N. Crooks. [Autobahn: Seamless high speed BFT](https://arxiv.org/pdf/2401.10369). SOSP, 2024.
+- E. Liu, G. Kappos, E. Mugnier, L. Invernizzi, S. Savage, D. Tao, K. Thomas, G.M. Voelker, and S. Meiklejohn. [Give and Take: An End-To-End Investigation of Giveaway Scam Conversion Rates](https://dl.acm.org/doi/abs/10.1145/3646547.3689005). ACM IMC, 2024.
 - N Mohnblatt, A. Sonnino, K. Gurkan, and P. Jovanovic. [Arke: Scalable and Byzantine Fault Tolerant Privacy-Preserving Contact Discovery](https://eprint.iacr.org/2023/1218). ACM CCS, 2024.
 - S. Blackshear, A. Chursin, G. Danezis, A. Kichidis, L. Kokoris-Kogias, X. Li, M. Logan, A. Menon, T. Nowacki, A. Sonnino, B. Williams, and L. Zhang. [Sui Lutris: A Blockchain Combining Broadcast and Consensus](https://arxiv.org/abs/2310.18042). ACM CCS, 2024.
 - M. Mouallem and I. Eyal. [Asynchronous Authentication](https://arxiv.org/pdf/2312.13967). ACM CCS, 2024.
