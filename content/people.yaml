@@ -7,7 +7,6 @@ directors:
     weburl: 'http://www.arijuels.com'
     bio: 'Ari Juels is the Weill Family Foundation and Joan and Sanford I. Weill Professor in the Jacobs Technion-Cornell Institute at Cornell Tech and the Technion and a Computer Science faculty member at Cornell University. He is also Chief Scientist at <a href="https://chain.link/">Chainlink</a>. He was formerly the Chief Scientist of RSA, Director of RSA Laboratories, and a Distiguished Engineer at EMC (now Dell EMC), where he worked until 2013. His reseach areas of interest include blockchains, cryptocurrency, and smart contracts, as well as applied cryptography, cloud security, user authentication, and privacy. (Photo by Patricia Kuharic)'
 
-
 associate_directors:
   -
     name: 'Ittay Eyal'
@@ -33,7 +32,6 @@ associate_directors:
     weburl: 'https://www.andrew.cmu.edu/user/gfanti/'
     bio: "Giulia Fanti is the Angel Jordan Associate Professor of Electrical and Computer Engineering at Carnegie Mellon University. Her research interests span the security, privacy, and efficiency of distributed systems. She is a two-time fellow of the World Economic Forum’s Global Future Council on Cybersecurity and a member of NIST’s Information Security and Privacy Advisory Board. Her work has been recognized with several awards, including best paper awards, a Sloan Fellowship, an Intel Rising Star Faculty Award, and an ACM SIGMETRICS Rising Star Award. She obtained her Ph.D. in EECS from U.C. Berkeley and her B.S. in ECE from Olin College of Engineering.\n"
 
-  
 staff:
   -
     name: 'Jim Ballingall'
@@ -103,7 +101,6 @@ chiefscientist:
 
 
 faculty:
-
   -
     name: 'Sarah Meiklejohn'
     pic: smeiklejohn.jpg
@@ -217,7 +214,6 @@ faculty:
     bio: "Eswar Prasad is the Tolani Senior Professor of Trade Policy and professor of economics at Cornell University. He is also a senior fellow at the Brookings Institution, where he holds the New Century Chair in International Trade Economics, and a research associate at the National Bureau of Economic Research. He is a former head of the IMF's China Division. Prasad is the author of The Future of Money: How the Digital Revolution is Transforming Currencies and Finance (Harvard University Press, 2021), Gaining Currency: The Rise of the Renminbi (Oxford, 2016), and The Dollar Trap: How the U.S. Dollar Tightened Its Grip on Global Finance (Princeton, 2014).\n"
    
 seniorfellows:
- 
   -
     name: 'Maureen O''Hara'
     pic: mohara.jpg
@@ -235,7 +231,6 @@ seniorfellows:
     bio: "Roni Michaely is a professor of Finance and Entrepreneurialship at The University of Hong Kong. Before that he spent a significant portion of his career as The Rudd Family professor of Finance at Cornell University and Cornell Tech. His primary research interests are in the areas of empirical corporate finance, corporate governance, entrepreneurial finance, and FinTech. His current research focuses on how frictions in capital markets affect managers' corporate decisions and new product developments; with a particular focus on corporate payout policy, the effect of competition in firms' behavior, and on the impact of Fintech on capital market efficiency.\n"
 
 postdocs:
-
   -
     name: 'Yujin (Kwon) Potter'
     pic: yujin.jpg
@@ -269,7 +264,6 @@ postdocs:
     bio: "I am an early cryptocurrency enthusiast that got my start by studying Silk Road and the darknet marketplace ecosystem in late 2013 during my PhD at Carnegie Mellon University and since then have been working on applications and privacy of decentralized ledger technologies in a Postdoc at UIUC. More recently I have focused my attention on cryptocurrency finance, both centralized (BitMEX, Binance, etc.) and decentralized with particular interest on the economics and incentives of DeFi primitives such as staking, farming, play2earn, algo stablecoins and more.\n"
 
 students:
-
   -
     name: 'Aditya Saraf'
     pic: Aditya.jpg
@@ -663,7 +657,6 @@ students:
     bio: "Benjamin is a graduate student at Cornell University. His research interests span theoretical cryptography and the design of distributed protocols. Previously, he was an engineer at Algorand working on consensus."
     
 visitors:
-
   -
     name: 'Steven Goldfeder'
     pic: stevengoldfeder.jpg
@@ -689,7 +682,6 @@ visitors:
     bio: "Zhiheng He is a PhD student at Tsinghua University advised by Prof. Ke Tang, and a visiting graduate researcher and member of the DEFT Lab at Cornell University under the supervision of Prof. Will Cong. His research interests include blockchain-based ecosystems, fintech innovation, and digital assets.\n"
 
 scientists:
-
   -
     name: 'Dr. Kari Kostiainen'
     pic: kari.jpg
@@ -707,7 +699,6 @@ scientists:
     bio: "Vero Estrada-Galinanes is a well-established researcher scientist member of DEDIS lab at EPFL. She was formerly an Associate Professor and research deputy leader at the Resilient Systems lab at University of Stavanger, Norway. She gained international experience acquired in academic environments, in the industry, as well as, in the public sector. She got a PhD thesis from University of Neuchatel, Switzerland, and has been with the Storage Systems Research Center at UCSC, USA. She was the recipient of SNSF, MEXT (Monbukagakusho), and CONICET grants. Her research areas of interest are decentralized p2p systems, complex systems, distributed data structures, cryptoeconomics, and their cross-disciplinary applications to empower individuals, communities and societies."
 
 advisors:
-
   -
     name: 'Jay Yu'
     pic: Jay.png
@@ -749,7 +740,6 @@ advisors:
     bio: "Patrick McCorry is the CEO of PISA Research. He was an Assistant Professor at King's College London in Cryptocurrencies and Security Engineering. As well, he was a researcher at University College London, University of Illinois at Urbana-Champaign and Newcastle University. Many moons ago, he also worked at IBM UK on the CICS Portfolio which is used by most banks in the world. His research focuses on cryptocurrencies, smart contracts, applied cryptography, and decentralized systems.\n"
 
 fellows:
-
   -
     name: 'Ian Miers'
     pic: imiers.jpg
@@ -847,7 +837,6 @@ fellows:
     bio: "Ke Wu is an assistant professor in the Theory of Computation Lab of the EECS Department at the University of Michigan. She obtained her PhD at Carnegie Mellon University, advised by Elaine Shi. She is interested in the intersection of cryptography and game theory, as well as coding theory and related areas in theoretical computer science."
 
 alumni_faculty:
-
   -
     name: 'Emin Gün Sirer'
     pic: gun.jpg
@@ -857,7 +846,6 @@ alumni_faculty:
     bio: 'Emin Gün Sirer is the CEO and co-founder of Ava Labs. His research interests span distributed systems, cryptocurrencies, and software infrastructure for large scale services.'
 
 alumni_researchers:
-
   -
     name: 'Linus Gasser'
     pic: lgasser.jpg
@@ -874,9 +862,7 @@ alumni_researchers:
     weburl:
     bio: 'Tyler Kell has joined Upshot One where he will be focusing on smart contracts related to NFT analytics and appraisal. In a previous life, Tyler was a penetration tester, and enjoys an extensive history of breaking security assumptions.'
 
-
 alumni_postdocs:
-
   -
     name: 'Kasra Edalatnejad'
     pic: kedalat.jpg
@@ -949,9 +935,7 @@ alumni_postdocs:
     weburl: 'http://haobin.cx/'
     bio: "Haobin is a postdoctoral scholar at the University of Washington Programming Language and Software Engineering (PLSE) group, advised by Zachary Tatlock. At PLSE, I actively work on language design, program analysis, and compiler optimization, among other PL and system research directions. I’m also leading the PLSE PL Reading Group (PLRG) this year (2024-2025). He earned my Ph.D. degree in May 2024 from Cornell University, co-advised by Greg Morrisett and Robbert van Renesse. His research focuses on the formal verification of distributed systems. \n"
    
-
 alumni_students:
-
   -
     name: 'Enis Ceyhun Alp'
     pic: eceyhun.jpg
