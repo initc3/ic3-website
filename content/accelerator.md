@@ -36,7 +36,7 @@ Applications are now open for the first cohort of the <strong>IC3-Cornell Blockc
 
 **<a href="https://www.linkedin.com/in/oanagherman/">Oana Gherman</a>** - Program Manager
 <div class="item">
-	<img class="left floated small ui image" src="images/accelerator/Oana.jpg"> 
+	<img class="left floated small ui image" src="images/accelerator/oana.jpg"> 
 </div>
 	
 <div class="description">
