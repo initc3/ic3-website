@@ -51,6 +51,10 @@ Applications are now open for the first cohort of the <strong>IC3-Cornell Blockc
           </p>
 </div> <br>
 
+<div class="item">
+	<img class="left floated small ui image" src="images/accelerator/oana.jpg" alt="" width="100" height="100" /> 
+</div> <br>
+
 **<a href="https://twitter.com/_ericyhu">Eric Hu</a>** - Accelerator Lead
 
 <div class="description">
