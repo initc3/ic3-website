@@ -47,29 +47,45 @@ Applications are now open for the first cohort of the <strong>IC3-Cornell Blockc
           </p>
 </div>
 
+
 **<a href="https://twitter.com/_ericyhu">Eric Hu</a>** - Accelerator Lead
 
-Eric is an investor at Thoma Bravo, a technology private equity firm, where he leads deals and helps operate companies across the supply chain, cybersecurity, and GRC space. He co-founded Cornell Blockchain in 2017, and currently serves as a board member, supporting the organization across initiatives such as their education courses and the annual Cornell Blockchain Conference. Previously, Eric was an investment banker at Evercore, where he assisted companies across Communications and Digital Infrastructure with M&A, Capital Raises, and Strategic Alternatives.  
+<div class="description">
+          <button class="ui compact basic icon mini showmore button">
+              Read On<i class="double angle down icon"></i>
+          </button>
+          <p class="more"> Eric is an investor at Thoma Bravo, a technology private equity firm, where he leads deals and helps operate companies across the supply chain, cybersecurity, and GRC space. He co-founded Cornell Blockchain in 2017, and currently serves as a board member, supporting the organization across initiatives such as their education courses and the annual Cornell Blockchain Conference. Previously, Eric was an investment banker at Evercore, where he assisted companies across Communications and Digital Infrastructure with M&A, Capital Raises, and Strategic Alternatives.  
+	  <button class="ui compact basic mini showless icon button">
+                  Show Less<i class="double angle up icon"></i>
+              </button>
+          </p>
+</div>
+
 
 **<a href="https://twitter.com/reva_jariwala?lang=en">Reva Jariwala</a>** - Student Accelerator Lead
 
 Reva Jariwala is a senior at Cornell University, majoring in Information Science, who began exploring blockchain in high school, starting with onramps, and has never looked back. As Vice President of the Cornell Blockchain club, she helps lead this student-led org and has worked across the space, primarily through a TradFi lens, from researching protocols at Mark Cuban Companies to trading infrastructure at Citadel. Currently, she’s contributing part-time to the research team at Coinbase, focusing on Base. 
 
+
 **<a href="https://twitter.com/linfluence?lang=en">Alex Lin</a>** - Accelerator Lead
 
 Alexander is the Co-founder and General Partner at Reforge, a blockchain and frontier tech investment firm. Previously, he was the Head of Research and first investment team hire at Shima Capital, joining the firm while he was completing his technical MBA with a concentration in distributed systems and cryptography at Cornell Tech and the Cornell SC Johnson Graduate School of Management. Prior to his investing career, Alexander was an engineer and led product for two successful web2 exits (Teads 2017, Concertiv 2020), and founded a digital healthcare company. He has been in crypto since 2012.
+
 
 **<a href="https://www.linkedin.com/in/daniellejnicholson/">Danielle Nicholson</a>** - Accelerator Lead
 
 Danielle is an attorney, serial entrepreneur and Cornell alum who currently serves as CEO of Mira Intel. She previously founded BuilderBloc, a legal and business advisory firm that supports and scales early stage startups innovating at the intersection of blockchain and artificial intelligence. Her prior experience also includes working with the United Nations and Techstars. She holds active roles with the Global Blockchain Business Council and The Knowledge House, a non-profit dedicated to diversifying the tech talent pipeline.
 
+
 **<a href="https://twitter.com/yousufqaum">Yousuf Qaum</a>** - Student Accelerator Lead
 
 Yousuf Qaum, a senior at Cornell University majoring in statistics, is a dedicated blockchain enthusiast. He has led initiatives such as the Cornell Blockchain Accelerator, interned as a Product Manager at Fidelity, and conducted research on how blockchain technology enhances the efficiency of humanitarian aid distribution. 
 
+
 **<a href="https://twitter.com/gilswrld">Gil Rosen</a>** - Accelerator Lead
 
 President of the Stanford Blockchain Accelerator, managing partner of Blockchain Builders fund, co-lead of BASS Conference, and co-teacher of Stanford MS&E 447 Blockchain entrepreneurship, Gil has supported over 80 blockchain startups from validated ideas to launch; raising $500M in aggregate. A 2x exited founder, Gil’s companies built distributed computing platforms for the IRS, London stock exchange, BP, Rolls Royce, and more.
+
 
 **<a href="https://twitter.com/0xfishylosopher?lang=en">Jay Yu</a>** - Accelerator Lead
 
@@ -84,43 +100,43 @@ Steven Willinger - Ex-Coinbase Ventures, GP @ Blockchain Builders
 
 ## FAQs
 
-*Who can apply for the IC3-Cornell Accelerator Program?* <br>
+**Who can apply for the IC3-Cornell Accelerator Program?** <br>
     The team must have at least one member affiliated with IC3 or Cornell (i.e. students, alums, etc) and at least one technical member. The project should be pre-product market fit. 
 
-*What will make our project stand out and be considered for the program?* <br>
+**What will make our project stand out and be considered for the program?** <br>
     Our accelerator leads will be looking for projects that have more than one member, demonstrate technical innovation, and meet an industry need. Projects considered will help drive blockchain adoption and enable new use cases.
 
-*How long is the IC3-Cornell Accelerator Program?* <br>
+**How long is the IC3-Cornell Accelerator Program?** <br>
     The program will be 14 weeks.
 
-*Who reviews the applications?* <br>
+**Who reviews the applications?** <br>
     The accelerator leads. 
 
-*Can I apply as an individual or do I need to be part of a team?* <br>
+**Can I apply as an individual or do I need to be part of a team?** <br>
     You can apply as an individual as long as you have a technical background. At least one member of a team, or the individual applying, needs to have technical expertise. 
 
-*When will I find out if my project has been accepted?* <br>
+**When will I find out if my project has been accepted?** <br>
     We will notify all teams within two weeks after the application deadline
 
-*What does the accelerator program entail?* <br>
+**What does the accelerator program entail?** <br>
     This pilot version of the IC3-Cornell Blockchain Accelerator will be 14-weeks long. There will be bi-weekly meetings with accelerator leads, one-on-one mentor sessions, educational bi-weekly webinars with industry professionals that accelerator participants can attend, in-person networking events, a demo day during the Cornell Blockchain Conference, and more.
 
-*How much of a time commitment is required?* <br>
+**How much of a time commitment is required?** <br>
     It will depend on the needs of the selected teams, but given the activities scheduled throughout the duration of the program, it will require a minimum of 1-hour per week.
 
-*Does the program offer mentorship?* <br>
+**Does the program offer mentorship?** <br>
     Yes, the teams will be introduced to our mentors, and they will decide who to work with based on their needs.
 
-*Can I still work on my academic research while participating in the accelerator program?* <br>
+**Can I still work on my academic research while participating in the accelerator program?** <br>
     Yes, the program activities shouldn’t interfere with your academic work.
 
-*Is the program offered to those outside of IC3 or Cornell?* <br>
+**Is the program offered to those outside of IC3 or Cornell?** <br>
     Not at the moment.
 
-*Does your accelerator program take equity from startups?* <br>
+**Does your accelerator program take equity from startups?** <br>
     We do not take equity.
 
-*What are the next steps after I submit my application?* <br>
+**What are the next steps after I submit my application?** <br>
     A committee will review the applications on a rolling basis. After the application period ends, you will be contacted by a member of the leading team with the decision. If you are selected, an interview will be scheduled for the week of January 20-26, 2025. The final decisions will be announced on January 27, 2025. If you are selected for the accelerator, the program will run from February 3 to May 11, 2025.
 
 ## Stay Informed
