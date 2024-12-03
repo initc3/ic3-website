@@ -89,7 +89,7 @@ executive:
     email: og64@cornell.edu 
     weburl:
     bio: "Oana Gherman is the IC3 Senior Administrative Assistant, responsible for supporting the IC3 directors, faculty, and students, and for planning and coordinating IC3 events."
-
+<!---
   -
     name: 'Neil DeSilva'
     pic: Neil.jpg
@@ -97,7 +97,7 @@ executive:
     email: neil.desilva@gmail.com
     weburl:
     bio: "Neil DeSilva is a global innovator in the digital asset industry, having built two multi-billion dollar crypto businesses as CFO of PayPal Digital Currencies & Remittances and as Trading Unit CFO at Galaxy (TSX GLXY), a leading financial services platform in the blockchain sector. At PayPal (NASDAQ PYPL), Neil was a co-creator of PayPal’s stablecoin, PayPal USD, and scaled it to being available to 700 million users worldwide. Neil has played a key role in several of the industry’s leaps forward over the past half decade, and has facilitated investments into dozens of Web3 startups.\"
-    
+--->    
 chiefscientist:
   - 
     name: 'Elaine Shi'
