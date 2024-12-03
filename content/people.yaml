@@ -84,14 +84,13 @@ staff:
     bio: "Amy is a data scientist at IC3, and her role involves applying research topics on real world blockchain data. She received her Master's degree in Computer Science from Cornell Tech in 2024 and works as a solutions engineer at Ava Labs. Amy is interested in the practical implementation of blockchain technology in industry."
 
 executive:
-
   -
     name: 'Neil DeSilva'
     pic: Neil.jpg
     title: 'IC3 Executive-in-Residence'
     email: neil.desilva@gmail.com
     weburl:
-    bio: "Neil DeSilva is a global innovator in the digital asset industry, having built two multi-billion dollar crypto businesses as CFO of PayPal Digital Currencies & Remittances and as Trading Unit CFO at Galaxy (TSX - GLXY), a leading financial services platform in the blockchain sector. At PayPal (NASDAQ - PYPL), Neil was a co-creator of PayPal’s stablecoin, PayPal USD, and scaled it to being available to 700 million users worldwide.  Neil has played a key role in several of the industry’s leaps forward over the past half decade, and has facilitated investments into dozens of Web3 startups.\"
+    bio: "Neil DeSilva is a global innovator in the digital asset industry, having built two multi-billion dollar crypto businesses as CFO of PayPal Digital Currencies & Remittances and as Trading Unit CFO at Galaxy (TSX GLXY), a leading financial services platform in the blockchain sector. At PayPal (NASDAQ PYPL), Neil was a co-creator of PayPal’s stablecoin, PayPal USD, and scaled it to being available to 700 million users worldwide.  Neil has played a key role in several of the industry’s leaps forward over the past half decade, and has facilitated investments into dozens of Web3 startups.\"
     
 chiefscientist:
   - 
