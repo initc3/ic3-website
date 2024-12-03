@@ -45,8 +45,7 @@ Applications are now open for the first cohort of the <strong>IC3-Cornell Blockc
                   Show Less<i class="double angle up icon"></i>
               </button>
           </p>
-</div>
-
+</div> <br>
 
 **<a href="https://twitter.com/_ericyhu">Eric Hu</a>** - Accelerator Lead
 
@@ -59,13 +58,20 @@ Applications are now open for the first cohort of the <strong>IC3-Cornell Blockc
                   Show Less<i class="double angle up icon"></i>
               </button>
           </p>
-</div>
-
+</div> <br>
 
 **<a href="https://twitter.com/reva_jariwala?lang=en">Reva Jariwala</a>** - Student Accelerator Lead
 
-Reva Jariwala is a senior at Cornell University, majoring in Information Science, who began exploring blockchain in high school, starting with onramps, and has never looked back. As Vice President of the Cornell Blockchain club, she helps lead this student-led org and has worked across the space, primarily through a TradFi lens, from researching protocols at Mark Cuban Companies to trading infrastructure at Citadel. Currently, she’s contributing part-time to the research team at Coinbase, focusing on Base. 
-
+<div class="description">
+          <button class="ui compact basic icon mini showmore button">
+              Read On<i class="double angle down icon"></i>
+          </button>
+          <p class="more"> Reva Jariwala is a senior at Cornell University, majoring in Information Science, who began exploring blockchain in high school, starting with onramps, and has never looked back. As Vice President of the Cornell Blockchain club, she helps lead this student-led org and has worked across the space, primarily through a TradFi lens, from researching protocols at Mark Cuban Companies to trading infrastructure at Citadel. Currently, she’s contributing part-time to the research team at Coinbase, focusing on Base. 
+	  <button class="ui compact basic mini showless icon button">
+                  Show Less<i class="double angle up icon"></i>
+              </button>
+          </p>
+</div> <br>
 
 **<a href="https://twitter.com/linfluence?lang=en">Alex Lin</a>** - Accelerator Lead
 
