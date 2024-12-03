@@ -30,6 +30,7 @@
    'avalabs': 'https://www.avalabs.org',
    'Arbitrum Foundation': 'https://arbitrum.foundation/',
    'Anoma Foundation': 'https://anoma.foundation/',
+   'Zero Gravity Labs': 'https://0g.ai/',
  };
 
 $(document).ready(function() {
