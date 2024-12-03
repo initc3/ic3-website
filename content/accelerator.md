@@ -35,8 +35,8 @@ Applications are now open for the first cohort of the <strong>IC3-Cornell Blockc
 ## Accelerator Leads
 
 <div class="item">
-	<img class="left floated small ui image" src="images/accelerator/oana.jpg" alt="" width="100" /> 
-</div>
+	<img class="left floated small ui image" src="images/accelerator/oana.jpg" alt="" width="100" height="100" /> 
+</div> <br>
 
 **<a href="https://www.linkedin.com/in/oanagherman/">Oana Gherman</a>** - Program Manager
 
