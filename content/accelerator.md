@@ -1,3 +1,6 @@
-# Accelerator @Cornell
+# IC3-Cornell Blockchain Accelerator
 
-Page under construction.
+<div class="ui piled segment">
+  <img class="ui centered image" src="../images/accelerator/ad for website.png" alt="" />
+</div>
+
