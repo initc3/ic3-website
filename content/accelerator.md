@@ -69,8 +69,8 @@ Applications are now open for the first cohort of the <strong>IC3-Cornell Blockc
 
 <div class="item">
     <div class="content">
-        <img class="left floated small ui image" src="../images/people/Alex.jpg" alt="" width="100" />
-        <div class="header"><strong><a href="https://twitter.com/linfluence?lang=en">Alex Lin</a></strong></div>
+        <img class="left floated small ui image" src="../images/people/Alex.jpg" alt="" width="125" />
+        <div class="header"><strong><a href="https://twitter.com/linfluence?lang=en">Alexander Lin</a></strong></div>
         <div class="header"><i>Accelerator Lead</i></div>  
         <div class="description"><p>Alexander is the Co-founder and General Partner at Reforge, a blockchain and frontier tech investment firm. Previously, he was the Head of Research and first investment team hire at Shima Capital, joining the firm while he was completing his technical MBA with a concentration in distributed systems and cryptography at Cornell Tech and the Cornell SC Johnson Graduate School of Management. Prior to his investing career, Alexander was an engineer and led product for two successful web2 exits (Teads 2017, Concertiv 2020), and founded a digital healthcare company. He has been in crypto since 2012.</p>
         </div>
@@ -137,39 +137,51 @@ Steven Willinger - Ex-Coinbase Ventures, GP @ Blockchain Builders
 	
 <strong>Who can apply for the IC3-Cornell Accelerator Program?</strong> <br>
     The team must have at least one member affiliated with IC3 or Cornell (i.e. students, alums, etc) and at least one technical member. The project should be pre-product market fit. <br>
+<br>
 
 <strong>What will make our project stand out and be considered for the program?</strong> <br>
     Our accelerator leads will be looking for projects that have more than one member, demonstrate technical innovation, and meet an industry need. Projects considered will help drive blockchain adoption and enable new use cases. <br>
+<br>
 
 <strong>How long is the IC3-Cornell Accelerator Program?</strong> <br>
     The program will be 14 weeks. <br>
+<br>
 
 <strong>Who reviews the applications?</strong> <br>
     The accelerator leads. <br>
+<br>
 
 <strong>Can I apply as an individual or do I need to be part of a team?</strong> <br>
     You can apply as an individual as long as you have a technical background. At least one member of a team, or the individual applying, needs to have technical expertise. <br>
+<br>
 
 <strong>When will I find out if my project has been accepted?</strong> <br>
     We will notify all teams within two weeks after the application deadline. <br>
+<br>
 
 <strong>What does the accelerator program entail?</strong> <br>
     This pilot version of the IC3-Cornell Blockchain Accelerator will be 14-weeks long. There will be bi-weekly meetings with accelerator leads, one-on-one mentor sessions, educational bi-weekly webinars with industry professionals that accelerator participants can attend, in-person networking events, a demo day during the Cornell Blockchain Conference, and more. <br>
+<br>
 
 <strong>How much of a time commitment is required?</strong> <br>
     It will depend on the needs of the selected teams, but given the activities scheduled throughout the duration of the program, it will require a minimum of 1-hour per week. <br>
+<br>
 
 <strong>Does the program offer mentorship?</strong> <br>
     Yes, the teams will be introduced to our mentors, and they will decide who to work with based on their needs. <br>
+<br>
 
 <strong>Can I still work on my academic research while participating in the accelerator program?</strong> <br>
     Yes, the program activities shouldn’t interfere with your academic work. <br>
+<br>
 
 <strong>Is the program offered to those outside of IC3 or Cornell?</strong> <br>
     Not at the moment. <br>
+<br>
 
 <strong>Does your accelerator program take equity from startups?</strong> <br>
     We do not take equity. <br>
+<br>
 
 <strong>What are the next steps after I submit my application?</strong> <br>
     A committee will review the applications on a rolling basis. After the application period ends, you will be contacted by a member of the leading team with the decision. If you are selected, an interview will be scheduled for the week of January 20-26, 2025. The 
