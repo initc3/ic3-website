@@ -33,15 +33,20 @@ Participants in the IC3-Cornell Blockchain Accelerator will benefit from:
 Applications are now open for the first cohort of the <strong>IC3-Cornell Blockchain Accelerator</strong>. Apply <strong><a href="https://docs.google.com/forms/d/1Rd791Gl6Iv_ZQ5Kg_aD2xAmyPw2C4exiAnOkRpbHEzE/edit">here</a></strong>. The deadline is <strong>January 15, 2025</strong>.
 
 ## Accelerator Leads
-<!---
-<div class="item">
-	<img class="left floated small ui image" src="images/accelerator/oana.jpg" alt="" width="100" height="100" /> 
-</div> <br>
---->
 
-<div class="ui left align small image">
-    <img class="ui image" src="../images/accelerator/oana.jpg" alt="" width="100" />
-</div> <br>
+<div class="item">
+    <div class="content">
+        <img class="left floated small ui image" src="../images/accelerator/oana.jpg" alt="" width="100" />
+        <div class="header">Oana Gherman</div>
+        <div class="meta">
+            <span>Program Manager</span>
+        </div>
+        <div class="description"><p>Oana is the IC3 liaison and she is overseeing and coordinating multiple facets within IC3 to ensure they align with the initiative's goals and are executed efficiently. Her key responsibilities include planning and defining the program scope, coordinating projects to work together effectively, managing resources to optimize performance, identifying and mitigating potential risks, and maintaining clear communication with stakeholders to keep them informed and engaged throughout the program.</p>
+	</div>
+        <div class="extra">
+        </div>
+    </div>
+</div>
 
 **<a href="https://www.linkedin.com/in/oanagherman/">Oana Gherman</a>** - Program Manager
 
@@ -54,16 +59,6 @@ Applications are now open for the first cohort of the <strong>IC3-Cornell Blockc
                   Show Less<i class="double angle up icon"></i>
               </button>
           </p>
-</div> <br>
-
-<!---
-<div class="item">
-	<img class="left floated small ui image" src="images/accelerator/oana.jpg" alt="" width="100" height="100" /> 
-</div> <br>
---->
-
-<div class="ui left align small image">
-    <img class="ui image" src="../images/accelerator/oana.jpg" alt="" width="100" />
 </div> <br>
 
 **<a href="https://twitter.com/_ericyhu">Eric Hu</a>** - Accelerator Lead
