@@ -44,6 +44,7 @@ Applications are now open for the first cohort of the <strong>IC3-Cornell Blockc
 	</div>
     </div>
 </div> <br>
+<br>
 
 <div class="item">
     <div class="content">
