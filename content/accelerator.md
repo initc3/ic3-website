@@ -34,11 +34,37 @@ Applications are now open for the first cohort of the <strong>IC3-Cornell Blockc
 
 ## Accelerator Leads
 
-**<a href="https://www.linkedin.com/in/oanagherman/">Oana Gherman</a>** - Program Manager
 <div class="item">
-	<img class="left floated small ui image" src="images/accelerator/oana.jpg"> 
+    <div class="content">
+        <img class="left floated small ui image" src="../images/accelerator/oana.jpg" alt="" width="100" />
+        <div class="header"><strong><a href="https://www.linkedin.com/in/oanagherman/">Oana Gherman</a></strong></div>
+        <div class="meta">
+            <span>Program Manager</span>
+        </div>
+        <div class="description"><p>Oana is the IC3 liaison and she is overseeing and coordinating multiple facets within IC3 to ensure they align with the initiative's goals and are executed efficiently. Her key responsibilities include planning and defining the program scope, coordinating projects to work together effectively, managing resources to optimize performance, identifying and mitigating potential risks, and maintaining clear communication with stakeholders to keep them informed and engaged throughout the program.</p>
+	</div>
+        <div class="extra">
+        </div>
+    </div>
 </div>
-	
+
+<div class="item">
+    <div class="content">
+        <img class="left floated small ui image" src="../images/accelerator/oana.jpg" alt="" width="100" />
+        <div class="header"><strong><a href="https://www.linkedin.com/in/oanagherman/">Oana Gherman</a></strong></div>
+        <div class="meta">
+            <span>Program Manager</span>
+        </div>
+        <div class="description"><p>Oana is the IC3 liaison and she is overseeing and coordinating multiple facets within IC3 to ensure they align with the initiative's goals and are executed efficiently. Her key responsibilities include planning and defining the program scope, coordinating projects to work together effectively, managing resources to optimize performance, identifying and mitigating potential risks, and maintaining clear communication with stakeholders to keep them informed and engaged throughout the program.</p>
+	</div>
+        <div class="extra">
+        </div>
+    </div>
+</div>
+
+<!---
+**<a href="https://www.linkedin.com/in/oanagherman/">Oana Gherman</a>** - Program Manager
+
 <div class="description">
           <button class="ui compact basic icon mini showmore button">
               Read On<i class="double angle down icon"></i>
@@ -49,6 +75,7 @@ Applications are now open for the first cohort of the <strong>IC3-Cornell Blockc
               </button>
           </p>
 </div> <br>
+--->
 
 **<a href="https://twitter.com/_ericyhu">Eric Hu</a>** - Accelerator Lead
 
@@ -78,27 +105,68 @@ Applications are now open for the first cohort of the <strong>IC3-Cornell Blockc
 
 **<a href="https://twitter.com/linfluence?lang=en">Alex Lin</a>** - Accelerator Lead
 
-Alexander is the Co-founder and General Partner at Reforge, a blockchain and frontier tech investment firm. Previously, he was the Head of Research and first investment team hire at Shima Capital, joining the firm while he was completing his technical MBA with a concentration in distributed systems and cryptography at Cornell Tech and the Cornell SC Johnson Graduate School of Management. Prior to his investing career, Alexander was an engineer and led product for two successful web2 exits (Teads 2017, Concertiv 2020), and founded a digital healthcare company. He has been in crypto since 2012.
-
+<div class="description">
+          <button class="ui compact basic icon mini showmore button">
+              Read On<i class="double angle down icon"></i>
+          </button>
+          <p class="more"> Alexander is the Co-founder and General Partner at Reforge, a blockchain and frontier tech investment firm. Previously, he was the Head of Research and first investment team hire at Shima Capital, joining the firm while he was completing his technical MBA with a concentration in distributed systems and cryptography at Cornell Tech and the Cornell SC Johnson Graduate School of Management. Prior to his investing career, Alexander was an engineer and led product for two successful web2 exits (Teads 2017, Concertiv 2020), and founded a digital healthcare company. He has been in crypto since 2012.
+	  <button class="ui compact basic mini showless icon button">
+                  Show Less<i class="double angle up icon"></i>
+              </button>
+          </p>
+</div> <br>
 
 **<a href="https://www.linkedin.com/in/daniellejnicholson/">Danielle Nicholson</a>** - Accelerator Lead
 
-Danielle is an attorney, serial entrepreneur and Cornell alum who currently serves as CEO of Mira Intel. She previously founded BuilderBloc, a legal and business advisory firm that supports and scales early stage startups innovating at the intersection of blockchain and artificial intelligence. Her prior experience also includes working with the United Nations and Techstars. She holds active roles with the Global Blockchain Business Council and The Knowledge House, a non-profit dedicated to diversifying the tech talent pipeline.
-
+<div class="description">
+          <button class="ui compact basic icon mini showmore button">
+              Read On<i class="double angle down icon"></i>
+          </button>
+          <p class="more"> Danielle is an attorney, serial entrepreneur and Cornell alum who currently serves as CEO of Mira Intel. She previously founded BuilderBloc, a legal and business advisory firm that supports and scales early stage startups innovating at the intersection of blockchain and artificial intelligence. Her prior experience also includes working with the United Nations and Techstars. She holds active roles with the Global Blockchain Business Council and The Knowledge House, a non-profit dedicated to diversifying the tech talent pipeline.
+	  <button class="ui compact basic mini showless icon button">
+                  Show Less<i class="double angle up icon"></i>
+              </button>
+          </p>
+</div> <br>
 
 **<a href="https://twitter.com/yousufqaum">Yousuf Qaum</a>** - Student Accelerator Lead
 
-Yousuf Qaum, a senior at Cornell University majoring in statistics, is a dedicated blockchain enthusiast. He has led initiatives such as the Cornell Blockchain Accelerator, interned as a Product Manager at Fidelity, and conducted research on how blockchain technology enhances the efficiency of humanitarian aid distribution. 
-
+<div class="description">
+          <button class="ui compact basic icon mini showmore button">
+              Read On<i class="double angle down icon"></i>
+          </button>
+          <p class="more"> Yousuf Qaum, a senior at Cornell University majoring in statistics, is a dedicated blockchain enthusiast. He has led initiatives such as the Cornell Blockchain Accelerator, interned as a Product Manager at Fidelity, and conducted research on how blockchain technology enhances the efficiency of humanitarian aid distribution. 
+	  <button class="ui compact basic mini showless icon button">
+                  Show Less<i class="double angle up icon"></i>
+              </button>
+          </p>
+</div> <br>
 
 **<a href="https://twitter.com/gilswrld">Gil Rosen</a>** - Accelerator Lead
 
-President of the Stanford Blockchain Accelerator, managing partner of Blockchain Builders fund, co-lead of BASS Conference, and co-teacher of Stanford MS&E 447 Blockchain entrepreneurship, Gil has supported over 80 blockchain startups from validated ideas to launch; raising $500M in aggregate. A 2x exited founder, Gil’s companies built distributed computing platforms for the IRS, London stock exchange, BP, Rolls Royce, and more.
-
+<div class="description">
+          <button class="ui compact basic icon mini showmore button">
+              Read On<i class="double angle down icon"></i>
+          </button>
+          <p class="more"> President of the Stanford Blockchain Accelerator, managing partner of Blockchain Builders fund, co-lead of BASS Conference, and co-teacher of Stanford MS&E 447 Blockchain entrepreneurship, Gil has supported over 80 blockchain startups from validated ideas to launch; raising $500M in aggregate. A 2x exited founder, Gil’s companies built distributed computing platforms for the IRS, London stock exchange, BP, Rolls Royce, and more.
+          <button class="ui compact basic mini showless icon button">
+                  Show Less<i class="double angle up icon"></i>
+              </button>
+          </p>
+</div> <br>
 
 **<a href="https://twitter.com/0xfishylosopher?lang=en">Jay Yu</a>** - Accelerator Lead
 
-Jay Yu is an IC3 Research Advisor, where his research interests center around Decentralized Autonomous Organizations (DAOs) and programmable cryptography. Jay studied Philosophy and Computer Science at Stanford University. As President of Stanford Blockchain Club, he served as a Uniswap DAO delegate and a Teaching Assistant for CS 352B/LAW 1078 - Blockchain Governance. He also works on research and investments at Pantera Capital.
+<div class="description">
+          <button class="ui compact basic icon mini showmore button">
+              Read On<i class="double angle down icon"></i>
+          </button>
+          <p class="more"> Jay Yu is an IC3 Research Advisor, where his research interests center around Decentralized Autonomous Organizations (DAOs) and programmable cryptography. Jay studied Philosophy and Computer Science at Stanford University. As President of Stanford Blockchain Club, he served as a Uniswap DAO delegate and a Teaching Assistant for CS 352B/LAW 1078 - Blockchain Governance. He also works on research and investments at Pantera Capital.
+          <button class="ui compact basic mini showless icon button">
+                  Show Less<i class="double angle up icon"></i>
+              </button>
+          </p>
+</div> <br>
 	
 ## Accelerator Mentors
 
