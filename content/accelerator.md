@@ -45,6 +45,7 @@ Applications are now open for the first cohort of the <strong>IC3-Cornell Blockc
 	</div>
     </div>
 </div> <br>
+<br>
 
 <div class="item">
     <div class="content">
@@ -95,6 +96,7 @@ Applications are now open for the first cohort of the <strong>IC3-Cornell Blockc
         </div>
     </div>
 </div> <br>
+<br>
 
 <div class="item">
     <div class="content">
@@ -129,49 +131,49 @@ Steven Willinger - Ex-Coinbase Ventures, GP @ Blockchain Builders
 
 <details>	
 	
-<summary>Expand for details</summary>
+<summary>Expand for details</summary> <br>
 
 <span>
 	
 <strong>Who can apply for the IC3-Cornell Accelerator Program?</strong> <br>
-    The team must have at least one member affiliated with IC3 or Cornell (i.e. students, alums, etc) and at least one technical member. The project should be pre-product market fit. 
+    The team must have at least one member affiliated with IC3 or Cornell (i.e. students, alums, etc) and at least one technical member. The project should be pre-product market fit. <br>
 
 <strong>What will make our project stand out and be considered for the program?</strong> <br>
-    Our accelerator leads will be looking for projects that have more than one member, demonstrate technical innovation, and meet an industry need. Projects considered will help drive blockchain adoption and enable new use cases.
+    Our accelerator leads will be looking for projects that have more than one member, demonstrate technical innovation, and meet an industry need. Projects considered will help drive blockchain adoption and enable new use cases. <br>
 
-**How long is the IC3-Cornell Accelerator Program?** <br>
-    The program will be 14 weeks.
+<strong>How long is the IC3-Cornell Accelerator Program?</strong> <br>
+    The program will be 14 weeks. <br>
 
-**Who reviews the applications?** <br>
-    The accelerator leads. 
+<strong>Who reviews the applications?</strong> <br>
+    The accelerator leads. <br>
 
-**Can I apply as an individual or do I need to be part of a team?** <br>
-    You can apply as an individual as long as you have a technical background. At least one member of a team, or the individual applying, needs to have technical expertise. 
+<strong>Can I apply as an individual or do I need to be part of a team?</strong> <br>
+    You can apply as an individual as long as you have a technical background. At least one member of a team, or the individual applying, needs to have technical expertise. <br>
 
-**When will I find out if my project has been accepted?** <br>
-    We will notify all teams within two weeks after the application deadline
+<strong>When will I find out if my project has been accepted?</strong> <br>
+    We will notify all teams within two weeks after the application deadline. <br>
 
-**What does the accelerator program entail?** <br>
-    This pilot version of the IC3-Cornell Blockchain Accelerator will be 14-weeks long. There will be bi-weekly meetings with accelerator leads, one-on-one mentor sessions, educational bi-weekly webinars with industry professionals that accelerator participants can attend, in-person networking events, a demo day during the Cornell Blockchain Conference, and more.
+<strong>What does the accelerator program entail?</strong> <br>
+    This pilot version of the IC3-Cornell Blockchain Accelerator will be 14-weeks long. There will be bi-weekly meetings with accelerator leads, one-on-one mentor sessions, educational bi-weekly webinars with industry professionals that accelerator participants can attend, in-person networking events, a demo day during the Cornell Blockchain Conference, and more. <br>
 
-**How much of a time commitment is required?** <br>
-    It will depend on the needs of the selected teams, but given the activities scheduled throughout the duration of the program, it will require a minimum of 1-hour per week.
+<strong>How much of a time commitment is required?</strong> <br>
+    It will depend on the needs of the selected teams, but given the activities scheduled throughout the duration of the program, it will require a minimum of 1-hour per week. <br>
 
-**Does the program offer mentorship?** <br>
-    Yes, the teams will be introduced to our mentors, and they will decide who to work with based on their needs.
+<strong>Does the program offer mentorship?</strong> <br>
+    Yes, the teams will be introduced to our mentors, and they will decide who to work with based on their needs. <br>
 
-**Can I still work on my academic research while participating in the accelerator program?** <br>
-    Yes, the program activities shouldn’t interfere with your academic work.
+<strong>Can I still work on my academic research while participating in the accelerator program?</strong> <br>
+    Yes, the program activities shouldn’t interfere with your academic work. <br>
 
-**Is the program offered to those outside of IC3 or Cornell?** <br>
-    Not at the moment.
+<strong>Is the program offered to those outside of IC3 or Cornell?</strong> <br>
+    Not at the moment. <br>
 
-**Does your accelerator program take equity from startups?** <br>
-    We do not take equity.
+<strong>Does your accelerator program take equity from startups?</strong> <br>
+    We do not take equity. <br>
 
-**What are the next steps after I submit my application?** <br>
+<strong>What are the next steps after I submit my application?</strong> <br>
     A committee will review the applications on a rolling basis. After the application period ends, you will be contacted by a member of the leading team with the decision. If you are selected, an interview will be scheduled for the week of January 20-26, 2025. The 
-final decisions will be announced on January 27, 2025. If you are selected for the accelerator, the program will run from February 3 to May 11, 2025.
+final decisions will be announced on January 27, 2025. If you are selected for the accelerator, the program will run from February 3 to May 11, 2025. <br>
 </span>
 
 </details>
