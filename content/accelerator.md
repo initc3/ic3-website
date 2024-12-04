@@ -32,11 +32,11 @@ Participants in the IC3-Cornell Blockchain Accelerator will benefit from:
 
 Applications are now open for the first cohort of the <strong>IC3-Cornell Blockchain Accelerator</strong>. Apply <strong><a href="https://docs.google.com/forms/d/1Rd791Gl6Iv_ZQ5Kg_aD2xAmyPw2C4exiAnOkRpbHEzE/edit">here</a></strong>. The deadline is <strong>January 15, 2025</strong>.
 
-## Accelerator Leads
+## Accelerator Team
 
 <div class="item">
     <div class="content">
-        <img class="left floated small ui image" src="../images/accelerator/oana.jpg" alt="" width="100" />
+        <img class="left floated small ui image" src="../images/people/oana.jpg" alt="" width="100" />
         <div class="header"><strong><a href="https://www.linkedin.com/in/oanagherman/">Oana Gherman</a></strong></div>
         <div class="meta">
             <span>Program Manager</span>
@@ -89,7 +89,7 @@ Applications are now open for the first cohort of the <strong>IC3-Cornell Blockc
 
 <div class="item">
     <div class="content">
-        <img class="left floated small ui image" src="../images/accelerator/Danielle.jpg" alt="" width="100" />
+        <img class="left floated small ui image" src="../images/people/Danielle.jpg" alt="" width="100" />
         <div class="header"><strong><a href="https://www.linkedin.com/in/daniellejnicholson/">Danielle Nicholson</a></strong></div>
         <div class="meta">
             <span>Accelerator Lead</span>
