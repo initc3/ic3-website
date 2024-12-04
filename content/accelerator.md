@@ -14,16 +14,16 @@ The <strong>IC3-Cornell Blockchain Accelerator</strong> is geared towards <stron
 
 IC3 and Cornell have a proud history of fostering some of the blockchain industry's most influential projects. Alumni and research from our ecosystem have led to the creation of companies like <strong>Chainlink Labs, Ava Labs, Offchain Labs, Flashbots, Gyroscope, Oasis Labs</strong>, and many others.
 
-Our commitment to advancing blockchain R&D is stronger than ever. This inaugural year of the <strong>IC3-Cornell Blockchain Accelerator</strong> will be led by a dedicated team of IC3 members, Cornell students, and alumni, continuing our tradition of innovation and excellence. We are grateful for Stanford Blockchain Accelerator’s support in helping us launch this initiative. 
+Our commitment to advancing blockchain R&D is stronger than ever. This inaugural year of the <strong>IC3-Cornell Blockchain Accelerator</strong> will be led by a dedicated team of IC3 members, Cornell students, and alumni, continuing our tradition of innovation and excellence. We are grateful for <a href="https://sba.sites.stanford.edu/">Stanford Blockchain Accelerator’s</a> support in helping us launch this initiative. 
 
 ## Program Incentives
 Participants in the IC3-Cornell Blockchain Accelerator will benefit from:
 
 - $10,000 in seed funding for up to two projects that meet specific criteria
-- Mentorship from IC3’s extensive network of faculty, PhD students, and industry leaders from Ava labs, Chainlink, Paypal, Coinbase, and many more
+- Mentorship from IC3’s extensive network of faculty, PhD students, and industry leaders from Ava labs, Chainlink Labs, Paypal, Coinbase, and many others
 - Research support to help navigate complex challenges and accelerate project development
 - Access to a global network of blockchain builders and innovators
-- Exposure to the industry's top investors such as Pantera, Dragonfly, and a16z, who are actively supporting early-stage projects
+- Exposure to the industry's top investors such as Pantera Capital, Dragonfly Capital, and a16z, who are actively supporting early-stage projects
 - Recruitment assistance to support job placement post-accelerator
 
 ## Be Part of the First Cohort
@@ -49,7 +49,7 @@ Applications are now open for the first cohort of the <strong>IC3-Cornell Blockc
 
 <div class="item">
     <div class="content">
-        <img class="left floated small ui image" src="../images/people/Eric.jpeg" alt="" width="100" />
+        <img class="left floated small ui image" src="../images/people/Eric.jpeg">
         <div class="header"><strong><a href="https://twitter.com/_ericyhu">Eric Hu</a></strong></div>
 	<div class="header">Accelerator Lead</div> <br>    
         <div class="description"><p>Eric is an investor at Thoma Bravo, a technology private equity firm, where he leads deals and helps operate companies across the supply chain, cybersecurity, and GRC space. He co-founded Cornell Blockchain in 2017, and currently serves as a board member, supporting the organization across initiatives such as their education courses and the annual Cornell Blockchain Conference. Previously, Eric was an investment banker at Evercore, where he assisted companies across Communications and Digital Infrastructure with M&A, Capital Raises, and Strategic Alternatives.</p>
@@ -122,7 +122,7 @@ Applications are now open for the first cohort of the <strong>IC3-Cornell Blockc
 ## Accelerator Mentors
 
 John Wu - President @ Ava Labs <br>
-Gengmo Qi - Partner @ DragonFly, IC3 & Cornell alum <br>
+Gengmo Qi - Partner @ Dragonfly Capital, IC3 & Cornell alum <br>
 Alex Lin - Cofounder and Managing Partner @ Reforge, Ex-Shima Capital <br>
 Steven Willinger - Ex-Coinbase Ventures, GP @ Blockchain Builders 
 
