@@ -163,3 +163,7 @@ Steven Willinger - Ex-Coinbase Ventures, GP @ Blockchain Builders
 
 **What are the next steps after I submit my application?** <br>
     A committee will review the applications on a rolling basis. After the application period ends, you will be contacted by a member of the leading team with the decision. If you are selected, an interview will be scheduled for the week of January 20-26, 2025. The final decisions will be announced on January 27, 2025. If you are selected for the accelerator, the program will run from February 3 to May 11, 2025.
+
+## Stay Informed
+
+Follow us on <strong><a href="https://www.linkedin.com/in/oanagherman/">X</a></strong>, <strong><a href="https://www.linkedin.com/company/the-initiative-for-cryptocurrencies-contracts-ic3/posts/?feedView=all">LinkedIn</a></strong> and <strong><a href="https://www.youtube.com/channel/UCz-eTbD4kHkYxGhUfXawHow">YouTube</a></strong>, and subscribe to our newsletter where we will send out pertinent information related to the IC3-Cornell Blockchain Accelerator Program.
