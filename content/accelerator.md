@@ -30,8 +30,9 @@ Participants in the IC3-Cornell Blockchain Accelerator will benefit from:
 
 Applications are now open for the first cohort of the <strong>IC3-Cornell Blockchain Accelerator</strong>. Apply <strong><a href="https://docs.google.com/forms/d/1Rd791Gl6Iv_ZQ5Kg_aD2xAmyPw2C4exiAnOkRpbHEzE/edit">here</a></strong>. The deadline is <strong>January 15, 2025</strong>.
 
-## Accelerator Team
-
+## Leadership
+<details>	
+<summary>Team Members</summary>
 <div class="item">
     <div class="content">
         <img class="left floated small ui image" src="../images/people/oana.jpg" alt="" width="100" />
@@ -111,7 +112,8 @@ Applications are now open for the first cohort of the <strong>IC3-Cornell Blockc
         </div>
     </div>
 </div> <br>
-	
+</details>
+
 ## Accelerator Mentors
 
 John Wu - President @ Ava Labs <br>
