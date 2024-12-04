@@ -20,7 +20,7 @@ Our commitment to advancing blockchain R&D is stronger than ever. This inaugural
 Participants in the IC3-Cornell Blockchain Accelerator will benefit from:
 
 - $10,000 in seed funding for up to two projects that meet specific criteria
-- Mentorship from IC3’s extensive network of faculty, PhD students, and industry leaders industry leaders hailing from Ava labs, Chainlink, Paypal, Coinbase, and many more
+- Mentorship from IC3’s extensive network of faculty, PhD students, and industry leaders from Ava labs, Chainlink, Paypal, Coinbase, and many more
 - Research support to help navigate complex challenges and accelerate project development
 - Access to a global network of blockchain builders and innovators
 - Exposure to the industry's top investors such as Pantera, Dragonfly, and a16z, who are actively supporting early-stage projects
@@ -31,8 +31,10 @@ Participants in the IC3-Cornell Blockchain Accelerator will benefit from:
 Applications are now open for the first cohort of the <strong>IC3-Cornell Blockchain Accelerator</strong>. Apply <strong><a href="https://docs.google.com/forms/d/1Rd791Gl6Iv_ZQ5Kg_aD2xAmyPw2C4exiAnOkRpbHEzE/edit">here</a></strong>. The deadline is <strong>January 15, 2025</strong>.
 
 ## Leadership
+
 <details>	
 <summary>Team Members</summary>
+	
 <div class="item">
     <div class="content">
         <img class="left floated small ui image" src="../images/people/oana.jpg" alt="" width="100" />
