@@ -34,13 +34,11 @@ Applications are now open for the first cohort of the <strong>IC3-Cornell Blockc
 
 <div class="item">
     <div class="content">
-        <img class="left small ui image" src="../images/people/oana.jpg" alt="" width="100" />
-        <div class="header"><strong><a href="https://www.linkedin.com/in/oanagherman/">Oana Gherman</a></strong></div>
+        <img class="left floated small ui image" src="../images/people/oana.jpg" alt="" width="100" />
+        <div class="header"><strong><a href="https://www.linkedin.com/in/oanagherman/">Oana Gherman</a></strong></div> <br>
         <div class="header">Program Manager</div>
         <div class="description"><p>Oana is the IC3 liaison and she is overseeing and coordinating multiple facets within IC3 to ensure they align with the initiative's goals and are executed efficiently.</p>
 	</div>
-        <div class="extra">
-        </div>
     </div>
 </div> <br>
 
@@ -48,9 +46,6 @@ Applications are now open for the first cohort of the <strong>IC3-Cornell Blockc
     <div class="content">
         <img class="left floated small ui image" src="../images/people/Eric.jpeg" alt="" width="100" />
         <div class="header"><strong><a href="https://twitter.com/_ericyhu">Eric Hu</a></strong></div>
-        <div class="meta">
-            <span>Accelerator Lead</span>
-        </div>
         <div class="description"><p>Eric is an investor at Thoma Bravo, a technology private equity firm, where he leads deals and helps operate companies across the supply chain, cybersecurity, and GRC space. He co-founded Cornell Blockchain in 2017, and currently serves as a board member, supporting the organization across initiatives such as their education courses and the annual Cornell Blockchain Conference. Previously, Eric was an investment banker at Evercore, where he assisted companies across Communications and Digital Infrastructure with M&A, Capital Raises, and Strategic Alternatives.</p>
 	</div>
         <div class="extra">
