@@ -34,7 +34,7 @@ Applications are now open for the first cohort of the <strong>IC3-Cornell Blockc
 
 <div class="item">
     <div class="content">
-        <img class="left floated small ui image" src="../images/people/oana.jpg" alt="" width="100" />
+        <img class="left small ui image" src="../images/people/oana.jpg" alt="" width="100" />
         <div class="header"><strong><a href="https://www.linkedin.com/in/oanagherman/">Oana Gherman</a></strong></div>
         <div class="header">Program Manager</div>
         <div class="description"><p>Oana is the IC3 liaison and she is overseeing and coordinating multiple facets within IC3 to ensure they align with the initiative's goals and are executed efficiently.</p>
