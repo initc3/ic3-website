@@ -52,7 +52,7 @@ Applications are now open for the first cohort of the <strong>IC3-Cornell Blockc
         <img class="left floated small ui image" src="../images/people/Eric.jpeg" alt="" width="100" />
         <div class="header"><strong><a href="https://twitter.com/_ericyhu">Eric Hu</a></strong></div>
 	<div class="header"><i>Accelerator Lead</i></div>    
-        <div class="description"><p>Eric is an investor at Thoma Bravo, a technology private equity firm, where he leads deals and helps operate companies across the supply chain, cybersecurity, and GRC space. He co-founded Cornell Blockchain in 2017, and currently serves as a board member, supporting the organization across initiatives such as their education courses and the annual Cornell Blockchain Conference. Previously, Eric was an investment banker at Evercore, where he assisted companies across Communications and Digital Infrastructure with M&A, Capital Raises, and Strategic Alternatives.</p>
+        <div class="description"><p>Eric is an investor at Thoma Bravo, a technology private equity firm, where he leads deals and helps operate companies across the supply chain, cybersecurity, and GRC space. He co-founded Cornell Blockchain in 2017, and serves as a board member, supporting the organization across initiatives such as their education courses and the annual Cornell Blockchain Conference. Previously, Eric was an investment banker at Evercore, where he assisted companies across Communications and Digital Infrastructure with M&A, Capital Raises, and Strategic Alternatives.</p>
 	</div>
     </div>
 </div> <br>
@@ -69,10 +69,10 @@ Applications are now open for the first cohort of the <strong>IC3-Cornell Blockc
 
 <div class="item">
     <div class="content">
-        <img class="left floated small ui image" src="../images/people/Alex.jpg" alt="" width="125" />
+        <img class="left floated small ui image" src="../images/people/Alex.jpg" alt="" width="100" />
         <div class="header"><strong><a href="https://twitter.com/linfluence?lang=en">Alexander Lin</a></strong></div>
         <div class="header"><i>Accelerator Lead</i></div>  
-        <div class="description"><p>Alexander is the Co-founder and General Partner at Reforge, a blockchain and frontier tech investment firm. Previously, he was the Head of Research and first investment team hire at Shima Capital, joining the firm while he was completing his technical MBA with a concentration in distributed systems and cryptography at Cornell Tech and the Cornell SC Johnson Graduate School of Management. Prior to his investing career, Alexander was an engineer and led product for two successful web2 exits (Teads 2017, Concertiv 2020), and founded a digital healthcare company. He has been in crypto since 2012.</p>
+        <div class="description"><p>Alexander is the Co-founder and General Partner at Reforge, a blockchain and frontier tech investment firm. Previously, he was the Head of Research and first investment team hire at Shima Capital, joining the firm while he was completing his technical MBA in distributed systems and cryptography at Cornell Tech and the Cornell SC Johnson Graduate School of Management. Prior to his investing career, Alexander was an engineer and led product for two successful web2 exits (Teads 2017, Concertiv 2020), and founded a digital healthcare company. He has been in crypto since 2012.</p>
         </div>
     </div>
 </div> <br>
