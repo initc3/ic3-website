@@ -14,7 +14,7 @@ The <strong>IC3-Cornell Blockchain Accelerator</strong> is geared towards <stron
 
 IC3 and Cornell have a proud history of fostering some of the blockchain industry's most influential projects. Alumni and research from our ecosystem have led to the creation of companies like <strong>Chainlink Labs, Ava Labs, Offchain Labs, Flashbots, Gyroscope, Oasis Labs</strong>, and many others.
 
-Our commitment to advancing blockchain R&D is stronger than ever. This inaugural year of the <strong>IC3-Cornell Blockchain Accelerator</strong> will be led by a dedicated team of IC3 members, Cornell students, and alumni, continuing our tradition of innovation and excellence. We are grateful for the <a href="https://sba.sites.stanford.edu/"Stanford Blockchain Accelerator’s</a> support in helping us launch this initiative. 
+Our commitment to advancing blockchain R&D is stronger than ever. This inaugural year of the <strong>IC3-Cornell Blockchain Accelerator</strong> will be led by a dedicated team of IC3 members, Cornell students, and alumni, continuing our tradition of innovation and excellence. We are grateful for Stanford Blockchain Accelerator’s support in helping us launch this initiative. 
 
 ## Program Incentives
 Participants in the IC3-Cornell Blockchain Accelerator will benefit from:
@@ -36,10 +36,8 @@ Applications are now open for the first cohort of the <strong>IC3-Cornell Blockc
     <div class="content">
         <img class="left floated small ui image" src="../images/people/oana.jpg" alt="" width="100" />
         <div class="header"><strong><a href="https://www.linkedin.com/in/oanagherman/">Oana Gherman</a></strong></div>
-        <div class="meta">
-            <span>Program Manager</span>
-        </div>
-        <div class="description"><p>Oana is the IC3 liaison and she is overseeing and coordinating multiple facets within IC3 to ensure they align with the initiative's goals and are executed efficiently. Her key responsibilities include planning and defining the program scope, coordinating projects to work together effectively, managing resources to optimize performance, identifying and mitigating potential risks, and maintaining clear communication with stakeholders to keep them informed and engaged throughout the program.</p>
+        <div class="header">Program Manager</div>
+        <div class="description"><p>Oana is the IC3 liaison and she is overseeing and coordinating multiple facets within IC3 to ensure they align with the initiative's goals and are executed efficiently.</p>
 	</div>
         <div class="extra">
         </div>
