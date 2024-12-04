@@ -46,36 +46,7 @@ Applications are now open for the first cohort of the <strong>IC3-Cornell Blockc
         <div class="extra">
         </div>
     </div>
-</div>
-
-<div class="item">
-    <div class="content">
-        <img class="left floated small ui image" src="../images/accelerator/oana.jpg" alt="" width="100" />
-        <div class="header"><strong><a href="https://www.linkedin.com/in/oanagherman/">Oana Gherman</a></strong></div>
-        <div class="meta">
-            <span>Program Manager</span>
-        </div>
-        <div class="description"><p>Oana is the IC3 liaison and she is overseeing and coordinating multiple facets within IC3 to ensure they align with the initiative's goals and are executed efficiently. Her key responsibilities include planning and defining the program scope, coordinating projects to work together effectively, managing resources to optimize performance, identifying and mitigating potential risks, and maintaining clear communication with stakeholders to keep them informed and engaged throughout the program.</p>
-	</div>
-        <div class="extra">
-        </div>
-    </div>
-</div>
-
-<!---
-**<a href="https://www.linkedin.com/in/oanagherman/">Oana Gherman</a>** - Program Manager
-
-<div class="description">
-          <button class="ui compact basic icon mini showmore button">
-              Read On<i class="double angle down icon"></i>
-          </button>
-          <p class="more"> Oana is the IC3 liaison and she is overseeing and coordinating multiple facets within IC3 to ensure they align with the initiative's goals and are executed efficiently. Her key responsibilities include planning and defining the program scope, coordinating projects to work together effectively, managing resources to optimize performance, identifying and mitigating potential risks, and maintaining clear communication with stakeholders to keep them informed and engaged throughout the program.
-              <button class="ui compact basic mini showless icon button">
-                  Show Less<i class="double angle up icon"></i>
-              </button>
-          </p>
 </div> <br>
---->
 
 **<a href="https://twitter.com/_ericyhu">Eric Hu</a>** - Accelerator Lead
 
@@ -116,17 +87,18 @@ Applications are now open for the first cohort of the <strong>IC3-Cornell Blockc
           </p>
 </div> <br>
 
-**<a href="https://www.linkedin.com/in/daniellejnicholson/">Danielle Nicholson</a>** - Accelerator Lead
-
-<div class="description">
-          <button class="ui compact basic icon mini showmore button">
-              Read On<i class="double angle down icon"></i>
-          </button>
-          <p class="more"> Danielle is an attorney, serial entrepreneur and Cornell alum who currently serves as CEO of Mira Intel. She previously founded BuilderBloc, a legal and business advisory firm that supports and scales early stage startups innovating at the intersection of blockchain and artificial intelligence. Her prior experience also includes working with the United Nations and Techstars. She holds active roles with the Global Blockchain Business Council and The Knowledge House, a non-profit dedicated to diversifying the tech talent pipeline.
-	  <button class="ui compact basic mini showless icon button">
-                  Show Less<i class="double angle up icon"></i>
-              </button>
-          </p>
+<div class="item">
+    <div class="content">
+        <img class="left floated small ui image" src="../images/accelerator/Danielle.jpg" alt="" width="100" />
+        <div class="header"><strong><a href="https://www.linkedin.com/in/daniellejnicholson/">Danielle Nicholson</a></strong></div>
+        <div class="meta">
+            <span>Accelerator Lead</span>
+        </div>
+        <div class="description"><p>Danielle is an attorney, serial entrepreneur and Cornell alum who currently serves as CEO of Mira Intel. She previously founded BuilderBloc, a legal and business advisory firm that supports and scales early stage startups innovating at the intersection of blockchain and artificial intelligence. Her prior experience also includes working with the United Nations and Techstars. She holds active roles with the Global Blockchain Business Council and The Knowledge House, a non-profit dedicated to diversifying the tech talent pipeline.</p>
+	</div>
+        <div class="extra">
+        </div>
+    </div>
 </div> <br>
 
 **<a href="https://twitter.com/yousufqaum">Yousuf Qaum</a>** - Student Accelerator Lead
