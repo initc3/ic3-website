@@ -44,8 +44,7 @@ Applications are now open for the first cohort of the <strong>IC3-Cornell Blockc
         <div class="description"><p>Oana is the IC3 liaison and she is overseeing and coordinating multiple facets within IC3 to ensure they align with the initiative's goals and are executed efficiently. Her role is essential for ensuring the smooth operation of IC3's activities and supporting its leadership in advancing blockchain research and applications.</p>
 	</div>
     </div>
-</div> <br>
-<br>
+</div>
 
 <div class="item">
     <div class="content">
@@ -55,7 +54,7 @@ Applications are now open for the first cohort of the <strong>IC3-Cornell Blockc
         <div class="description"><p>Eric is an investor at Thoma Bravo, a technology private equity firm, where he leads deals and helps operate companies across the supply chain, cybersecurity, and GRC space. He co-founded Cornell Blockchain in 2017, and currently serves as a board member, supporting the organization across initiatives such as their education courses and the annual Cornell Blockchain Conference. Previously, Eric was an investment banker at Evercore, where he assisted companies across Communications and Digital Infrastructure with M&A, Capital Raises, and Strategic Alternatives.</p>
 	</div>
     </div>
-</div> <br>
+</div>
 
 <div class="item">
     <div class="content">
@@ -65,7 +64,7 @@ Applications are now open for the first cohort of the <strong>IC3-Cornell Blockc
         <div class="description"><p>Reva Jariwala is a senior at Cornell University, majoring in Information Science, who began exploring blockchain in high school, starting with onramps, and has never looked back. As Vice President of the Cornell Blockchain club, she helps lead this student-led org and has worked across the space, primarily through a TradFi lens, from researching protocols at Mark Cuban Companies to trading infrastructure at Citadel. Currently, she’s contributing part-time to the research team at Coinbase, focusing on Base.</p>
         </div>
     </div>
-</div> <br>
+</div>
 
 <div class="item">
     <div class="content">
@@ -75,7 +74,7 @@ Applications are now open for the first cohort of the <strong>IC3-Cornell Blockc
         <div class="description"><p>Alexander is the Co-founder and General Partner at Reforge, a blockchain and frontier tech investment firm. Previously, he was the Head of Research and first investment team hire at Shima Capital, joining the firm while he was completing his technical MBA with a concentration in distributed systems and cryptography at Cornell Tech and the Cornell SC Johnson Graduate School of Management. Prior to his investing career, Alexander was an engineer and led product for two successful web2 exits (Teads 2017, Concertiv 2020), and founded a digital healthcare company. He has been in crypto since 2012.</p>
         </div>
     </div>
-</div> <br>
+</div>
 
 <div class="item">
     <div class="content">
@@ -85,7 +84,7 @@ Applications are now open for the first cohort of the <strong>IC3-Cornell Blockc
         <div class="description"><p>Danielle is an attorney, serial entrepreneur and Cornell alum who currently serves as CEO of Mira Intel. She previously founded BuilderBloc, a legal and business advisory firm that supports and scales early stage startups innovating at the intersection of blockchain and artificial intelligence. Her prior experience also includes working with the United Nations and Techstars. She holds active roles with the Global Blockchain Business Council and The Knowledge House, a non-profit dedicated to diversifying the tech talent pipeline.</p>
         </div>
     </div>
-</div> <br>
+</div>
 
 <div class="item">
     <div class="content">
@@ -95,7 +94,7 @@ Applications are now open for the first cohort of the <strong>IC3-Cornell Blockc
         <div class="description"><p>Yousuf Qaum, a senior at Cornell University majoring in statistics, is a dedicated blockchain enthusiast. He has led initiatives such as the Cornell Blockchain Accelerator, interned as a Product Manager at Fidelity, and conducted research on how blockchain technology enhances the efficiency of humanitarian aid distribution.</p>
         </div>
     </div>
-</div> <br>
+</div>
 
 <div class="item">
     <div class="content">
@@ -105,7 +104,7 @@ Applications are now open for the first cohort of the <strong>IC3-Cornell Blockc
         <div class="description"><p>President of the Stanford Blockchain Accelerator, managing partner of Blockchain Builders fund, co-lead of BASS Conference, and co-teacher of Stanford MS&E 447 Blockchain entrepreneurship, Gil has supported over 80 blockchain startups from validated ideas to launch; raising $500M in aggregate. A 2x exited founder, Gil’s companies built distributed computing platforms for the IRS, London stock exchange, BP, Rolls Royce, and more.</p>
         </div>
     </div>
-</div> <br>
+</div>
 
 <div class="item">
     <div class="content">
@@ -115,7 +114,7 @@ Applications are now open for the first cohort of the <strong>IC3-Cornell Blockc
         <div class="description"><p>Jay Yu is an IC3 Research Advisor, where his research interests center around Decentralized Autonomous Organizations (DAOs) and programmable cryptography. Jay studied Philosophy and Computer Science at Stanford University. As President of Stanford Blockchain Club, he served as a Uniswap DAO delegate and a Teaching Assistant for CS 352B/LAW 1078 - Blockchain Governance. He also works on research and investments at Pantera Capital.</p>
         </div>
     </div>
-</div> <br>
+</div>
 
 </details>
 
@@ -134,7 +133,7 @@ Steven Willinger - Ex-Coinbase Ventures, GP @ Blockchain Builders
 
 <span>
 	
-**Who can apply for the IC3-Cornell Accelerator Program?** <br>
+<strong>Who can apply for the IC3-Cornell Accelerator Program?</strong> <br>
     The team must have at least one member affiliated with IC3 or Cornell (i.e. students, alums, etc) and at least one technical member. The project should be pre-product market fit. 
 
 **What will make our project stand out and be considered for the program?** <br>
