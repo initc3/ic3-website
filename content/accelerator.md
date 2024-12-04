@@ -33,6 +33,7 @@ Applications are now open for the first cohort of the <strong>IC3-Cornell Blockc
 ## Leadership
 
 <details>	
+
 <summary>Team Members</summary>
 	
 <div class="item">
@@ -115,6 +116,7 @@ Applications are now open for the first cohort of the <strong>IC3-Cornell Blockc
         </div>
     </div>
 </div> <br>
+
 </details>
 
 ## Accelerator Mentors
@@ -127,6 +129,7 @@ Steven Willinger - Ex-Coinbase Ventures, GP @ Blockchain Builders
 ## FAQs
 
 <details>	
+	
 <summary>Expand for details</summary>
 
 **Who can apply for the IC3-Cornell Accelerator Program?** <br>
@@ -168,6 +171,7 @@ Steven Willinger - Ex-Coinbase Ventures, GP @ Blockchain Builders
 **What are the next steps after I submit my application?** <br>
     A committee will review the applications on a rolling basis. After the application period ends, you will be contacted by a member of the leading team with the decision. If you are selected, an interview will be scheduled for the week of January 20-26, 2025. The 
 final decisions will be announced on January 27, 2025. If you are selected for the accelerator, the program will run from February 3 to May 11, 2025.
+
 </details>
 
 ## Stay Informed
