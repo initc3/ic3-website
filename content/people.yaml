@@ -81,6 +81,14 @@ staff:
     weburl:
     bio: "Amy is a data scientist at IC3, and her role involves applying research topics on real world blockchain data. She received her Master's degree in Computer Science from Cornell Tech in 2024 and works as a solutions engineer at Ava Labs. Amy is interested in the practical implementation of blockchain technology in industry."
 
+  -
+    name: 'Ashley Stanhope'
+    pic: Ashley.jpg
+    title: 'IC3 Communications & Media Relations'
+    email: ashley@hardfork.media
+    weburl: 'https://www.hardfork.media/'
+    bio: "Ashley is a former breaking news journalist and media relations expert. She has worked with several clients ranging from liquid staking protocols, academic researchers, and cryptocurrency exchanges. Before moving to New York, she was the director of communications for Ether Capital, the largest staking company in the capital markets. Ashley has a proven track record of building company brands and regularly secures earned media coverage for her clients by top-tier news organizations including Bloomberg and CNBC."
+    
 executive:
   -
     name: 'Neil DeSilva'
