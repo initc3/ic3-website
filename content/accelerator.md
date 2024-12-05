@@ -125,7 +125,8 @@ Applications are now open for the first cohort of the <strong>IC3-Cornell Blockc
 John Wu - President @ Ava Labs, Cornell alum <br>
 Gengmo Qi - Partner @ Dragonfly Capital, IC3 & Cornell alum <br>
 Alex Lin - Co-founder and Managing Partner @ Reforge, Ex-Shima Capital <br>
-Steven Willinger - Ex-Coinbase Ventures, GP @ Blockchain Builders 
+Steven Willinger - Ex-Coinbase Ventures, GP @ Blockchain Builders <br>
+Kun Peng - Stanford Blockchain Accelerator, BASS
 
 ## FAQs
 
