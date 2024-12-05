@@ -193,4 +193,4 @@ final decisions will be announced on January 27, 2025. If you are selected for t
 
 ## Stay Informed
 
-Follow us on <strong><a href="https://www.linkedin.com/in/oanagherman/">X</a></strong>, <strong><a href="https://www.linkedin.com/company/the-initiative-for-cryptocurrencies-contracts-ic3/posts/?feedView=all">LinkedIn</a></strong> and <strong><a href="https://www.youtube.com/channel/UCz-eTbD4kHkYxGhUfXawHow">YouTube</a></strong>, and subscribe to our newsletter where we will send out pertinent information related to the <strong>IC3-Cornell Blockchain Accelerator</strong>.
+Follow us on <strong><a href="https://x.com/initc3org">X</a></strong>, <strong><a href="https://www.linkedin.com/company/the-initiative-for-cryptocurrencies-contracts-ic3/posts/?feedView=all">LinkedIn</a></strong> and <strong><a href="https://www.youtube.com/channel/UCz-eTbD4kHkYxGhUfXawHow">YouTube</a></strong>, and subscribe to our newsletter where we will send out pertinent information related to the <strong>IC3-Cornell Blockchain Accelerator</strong>.
