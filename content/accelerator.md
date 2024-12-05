@@ -124,7 +124,7 @@ Applications are now open for the first cohort of the <strong>IC3-Cornell Blockc
 
 John Wu - President @ Ava Labs, Cornell alum <br>
 Gengmo Qi - Partner @ Dragonfly Capital, IC3 & Cornell alum <br>
-Alex Lin - Cofounder and Managing Partner @ Reforge, Ex-Shima Capital <br>
+Alex Lin - Co-founder and Managing Partner @ Reforge, Ex-Shima Capital <br>
 Steven Willinger - Ex-Coinbase Ventures, GP @ Blockchain Builders 
 
 ## FAQs
@@ -135,7 +135,7 @@ Steven Willinger - Ex-Coinbase Ventures, GP @ Blockchain Builders
 
 <span>
 	
-<strong>Who can apply for the IC3-Cornell Accelerator Program?</strong> <br>
+<strong>Who can apply for the IC3-Cornell Blockhain Accelerator program?</strong> <br>
     The team must have at least one member affiliated with IC3 or Cornell (i.e. students, alums, etc) and at least one technical member. The project should be pre-product market fit. <br>
 <br>
 
@@ -143,7 +143,7 @@ Steven Willinger - Ex-Coinbase Ventures, GP @ Blockchain Builders
     Our accelerator leads will be looking for projects that have more than one member, demonstrate technical innovation, and meet an industry need. Projects considered will help drive blockchain adoption and enable new use cases. <br>
 <br>
 
-<strong>How long is the IC3-Cornell Accelerator Program?</strong> <br>
+<strong>How long is the IC3-Cornell Blockchain Accelerator program?</strong> <br>
     The program will be 14 weeks. <br>
 <br>
 
@@ -192,4 +192,4 @@ final decisions will be announced on January 27, 2025. If you are selected for t
 
 ## Stay Informed
 
-Follow us on <strong><a href="https://www.linkedin.com/in/oanagherman/">X</a></strong>, <strong><a href="https://www.linkedin.com/company/the-initiative-for-cryptocurrencies-contracts-ic3/posts/?feedView=all">LinkedIn</a></strong> and <strong><a href="https://www.youtube.com/channel/UCz-eTbD4kHkYxGhUfXawHow">YouTube</a></strong>, and subscribe to our newsletter where we will send out pertinent information related to the IC3-Cornell Blockchain Accelerator Program.
+Follow us on <strong><a href="https://www.linkedin.com/in/oanagherman/">X</a></strong>, <strong><a href="https://www.linkedin.com/company/the-initiative-for-cryptocurrencies-contracts-ic3/posts/?feedView=all">LinkedIn</a></strong> and <strong><a href="https://www.youtube.com/channel/UCz-eTbD4kHkYxGhUfXawHow">YouTube</a></strong>, and subscribe to our newsletter where we will send out pertinent information related to the <strong>IC3-Cornell Blockchain Accelerator</strong>.
