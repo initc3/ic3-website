@@ -1,4 +1,4 @@
-# IC3 Partners & Sponsors
+# IC3 Partners
 
 IC3 acknowledges and appreciates a generous gift from the VMware
 Foundation to advance the science and technology of blockchains. <br>
