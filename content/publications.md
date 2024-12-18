@@ -2,7 +2,7 @@
 
 ## 2024 ##
 
-- A. Kavousi, A. Abadi, and P. Jovanovic. [Timed Secret Sharing](https://eprint.iacr.org/2023/1024). Asiacrypt, 2024. (to appear)
+- A. Kavousi, A. Abadi, and P. Jovanovic. [Timed Secret Sharing](https://eprint.iacr.org/2023/1024). Asiacrypt, 2024.
 - N. Giridharan, F. Suri-Payer, I. Abraham, L. Alvisi, and N. Crooks. [Autobahn: Seamless high speed BFT](https://arxiv.org/pdf/2401.10369). SOSP, 2024.
 - E. Liu, G. Kappos, E. Mugnier, L. Invernizzi, S. Savage, D. Tao, K. Thomas, G.M. Voelker, and S. Meiklejohn. [Give and Take: An End-To-End Investigation of Giveaway Scam Conversion Rates](https://dl.acm.org/doi/abs/10.1145/3646547.3689005). ACM IMC, 2024.
 - N Mohnblatt, A. Sonnino, K. Gurkan, and P. Jovanovic. [Arke: Scalable and Byzantine Fault Tolerant Privacy-Preserving Contact Discovery](https://eprint.iacr.org/2023/1218). ACM CCS, 2024.
@@ -52,6 +52,7 @@
 - F. Baldimtsi, K. Chalkias, P. Chatzigiannis, and M. Kelkar. [Truncator: Time-space Tradeoff of Cryptographic Primitives](https://fc24.ifca.ai/preproceedings/205.pdf). FC, 2024.
 - D. Maram, M. Kelkar, I. Bentov, and A. Juels. [GoAT: File Geolocation via Anchor Timestamping](https://fc24.ifca.ai/preproceedings/189.pdf). FC, 2024.
 - A. Adams, B.Y. Chan, S. Markovich, and X. Wan. [The Costs of Swapping on Decentralized Exchanges](https://fc24.ifca.ai/preproceedings/206.pdf). FC, 2024.
+- H. Zhang, M. Yeo, V. Estrada-Galiñanes, and B. Ford. [ZeroAuction: Zero-Deposit Sealed-Bid Auction via Delayed Execution](https://link.springer.com/chapter/10.1007/978-3-031-69231-4_12). FC, 2024.
 - I. Tsabary, A. Manuskin, R. Bar-Zur, and I. Eyal. [LedgerHedger: Gas Reservation for Smart Contract Security](https://fc24.ifca.ai/preproceedings/53.pdf). FC, 2024.
   
 ## 2023 ##
