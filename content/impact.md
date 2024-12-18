@@ -71,5 +71,5 @@ In addition to our scholarship, IC3 has been extremely active in the open source
 ## Press Coverage / Coverage Metrics
 
 - 1,856 articles in the press.
-- 234,960 Google Scholar citations.
+- 280,215 Google Scholar citations.
 - Widely quoted in The New York Times, The Wall Street Journal, BBC, Wired, Forbes, The Washington Post, MIT Technology Review, New Scientist, and other major publications overseas.
