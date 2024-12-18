@@ -591,14 +591,6 @@ students:
     weburl: "https://amitagarwal.gitbook.io/profile/"
     bio: "Amit is a PhD student under Professor Andrew Miller at UIUC currently doing research in theoretical and applied cryptography. His other research interests include consensus algorithms, quantum computation, and algorithm design."
 
-  -
-    name: 'Bolton Bailey'
-    pic: boltonbailey.jpg
-    title:
-    email: boltonb2@illinois. edu
-    weburl: "https://boltonb2.web.engr.illinois.edu/"
-    bio: "Bolton is a PhD Student at UIUC. His research interests are in Formal Methods, SNARKs, and Cryptographic Protocols."
-
   - 
     name: 'Florian Suri-Payer'
     pic: florian.JPG
@@ -1278,3 +1270,11 @@ alumni_students:
     email: wtang2@andrew.cmu.edu
     weburl:
     bio: "Weizhao completed his PhD at Carnegie Mellon University supervised by Dr. Giulia Fanti. Prior to this he received his Master's degree (2021) from Carnegie Mellon University. He is a Research Scientist at Meta. His research interests are privacy and security of distributed systems, particularly cryptocurrency systems based on blockchain."
+
+  -
+    name: 'Bolton Bailey'
+    pic: boltonbailey.jpg
+    title:
+    email: boltonb2@illinois. edu
+    weburl: "https://boltonb2.web.engr.illinois.edu/"
+    bio: "Bolton joined Pi Squared as a Proof Engineer after completing his PhD program at UIUC under the supervision of prof. Andrew Miller. His research interests are in Formal Methods, SNARKs, and Cryptographic Protocols."
