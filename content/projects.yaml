@@ -30,12 +30,18 @@ challenges:
 
 projects:
 
-<details>	
+  -
+     name: 'Liquefaction: Privately Liquefying Blockchain Assets'
+     authors: James Austgen, Andres Fabrega, Mahimna Kelkar, Dani Vilardell, Sarah Allen, Kushal Babel, Jay Yu, and Ari Juels
+     challenges: [*correctness, *confidentiality, *compliance]
+     description: Inherent in the world of cryptocurrency systems and their security models is the notion that private keys—and thus assets—are controlled by individuals or individual entities. We present Liquefaction, a wallet platform that demonstrates the dangerous fragility of this foundational assumption by systemically breaking it. Liquefaction uses trusted execution environments (TEEs) to encumber private keys, i.e., attach rich, multi-user policies to their use. In this way, it enables the cryptocurrency credentials and assets of a single end-user address to be freely rented, shared, or pooled. It accomplishes these things privately, with no direct on-chain traces. Liquefaction demonstrates the sweeping consequences of TEE-based key encumbrance for the cryptocurrency landscape. Liquefaction can undermine the security and economic models of many applications and resources, such as locked tokens, DAO voting, airdrops, loyalty points, soulbound tokens, and quadratic voting. It can do so with no on-chain and minimal off-chain visibility. Conversely, we also discuss beneficial applications of Liquefaction, such as privacy-preserving, cost-efficient DAOs and a countermeasure to dusting attacks. Importantly, we describe an existing TEE-based tool that applications can use as a countermeasure to Liquefaction. Our work prompts a wholesale rethinking of existing models and enforcement of key and asset ownership in the cryptocurrency ecosystem. For more information, see our <a href="https://arxiv.org/pdf/2412.02634">work</a>.
 
-<summary>2024</summary> <br>
-
-<span>
-
+  -   
+     name: 'The Rise of E-Wallet Super-Apps and Buy-Now-Pay-Later'
+     authors: Wenlong Bian, Lin William Cong, and Yang Ji
+     challenges: [*correctness]
+     description: The rise of super-app digital wallets provides not only a conduit to banks but also internal payment options, including Buy-Now-Pay-Later (BNPL). We examine, for the first time, transactions matched with merchant and consumer information, from a leading e-wallet super-app, and complement the analyses with a randomized experiment. We document that BNPL serves as a dominant form of “digital cash” and expands payment and credit access to underserved consumers without increasing indebtedness or delinquencies despite their spending more. The findings crucially depend on the cross-sale capacity and inherent disciplinary incentives of super-app ecosystems. Our findings underscore the synergy between credit and payments and provide novel insights for economies transitioning to cashless via super-app-driven platforms, where FinTech credit sees the greatest potential. For more details, see our <a href="https://www.nber.org/papers/w33178">paper</a>.
+  
   -
      name: 'Leveraging Bitcoin Mining Machines in Demand-Response Mechanisms to Mitigate Ramping-Induced Transients'
      authors: Elinor Ginzburg-Ganz, Ittay Eyal, Ram Machlev, Dmitry Baimel, Leena Santosh, Juri Belikov, and Yoash Levron
@@ -431,10 +437,6 @@ projects:
      authors: Coşku Acay, Joshua Gancher, Rolph Recto, and Andrew Myers
      challenges: [*confidentiality, *correctness]
      description: Developing secure distributed systems is difficult, and even harder when advanced cryptography must be used to achieve security goals. Following prior work, we advocate using secure program partitioning to synthesize cryptographic applications - instead of implementing a system of communicating processes, the programmer implements a centralized, sequential program, which is automatically compiled into a secure distributed version that uses cryptography. While this approach is promising, formal results for the security of such compilers are limited in scope. In particular, no security proof yet simultaneously addresses subtleties essential for robust, efficient applications - multiple cryptographic mechanisms, malicious corruption, and asynchronous communication. In this work, we develop a compiler security proof that handles these subtleties. Our proof relies on a novel unification of simulation-based security, information-flow control, choreographic programming, and sequentialization techniques for concurrent programs. While our proof targets hybrid protocols, which abstract cryptographic mechanisms as idealized functionalities, our approach offers a clear path toward leveraging Universal Composability to obtain end-to-end, modular security results with fully instantiated cryptographic mechanisms. Finally, following prior observations about simulation-based security, we prove that our result guarantees robust hyperproperty preservation, an important criterion for compiler correctness that preserves all source-level security properties in target programs. For details, see our <a href="https://arxiv.org/abs/2401.04131">paper</a>.
-
-</span>
-
-</details>
 
   -
      name: 'An Analysis of Avalanche Consensus'
