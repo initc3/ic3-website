@@ -30,6 +30,10 @@ challenges:
 
 projects:
 
+<details>	
+
+<summary>2024</summary> <br>
+
   -
      name: 'Leveraging Bitcoin Mining Machines in Demand-Response Mechanisms to Mitigate Ramping-Induced Transients'
      authors: Elinor Ginzburg-Ganz, Ittay Eyal, Ram Machlev, Dmitry Baimel, Leena Santosh, Juri Belikov, and Yoash Levron
@@ -425,7 +429,9 @@ projects:
      authors: Coşku Acay, Joshua Gancher, Rolph Recto, and Andrew Myers
      challenges: [*confidentiality, *correctness]
      description: Developing secure distributed systems is difficult, and even harder when advanced cryptography must be used to achieve security goals. Following prior work, we advocate using secure program partitioning to synthesize cryptographic applications - instead of implementing a system of communicating processes, the programmer implements a centralized, sequential program, which is automatically compiled into a secure distributed version that uses cryptography. While this approach is promising, formal results for the security of such compilers are limited in scope. In particular, no security proof yet simultaneously addresses subtleties essential for robust, efficient applications - multiple cryptographic mechanisms, malicious corruption, and asynchronous communication. In this work, we develop a compiler security proof that handles these subtleties. Our proof relies on a novel unification of simulation-based security, information-flow control, choreographic programming, and sequentialization techniques for concurrent programs. While our proof targets hybrid protocols, which abstract cryptographic mechanisms as idealized functionalities, our approach offers a clear path toward leveraging Universal Composability to obtain end-to-end, modular security results with fully instantiated cryptographic mechanisms. Finally, following prior observations about simulation-based security, we prove that our result guarantees robust hyperproperty preservation, an important criterion for compiler correctness that preserves all source-level security properties in target programs. For details, see our <a href="https://arxiv.org/abs/2401.04131">paper</a>.
-     
+
+</details>
+
   -
      name: 'An Analysis of Avalanche Consensus'
      authors: Ignacio Amores-Sesar, Christian Cachin, and Philipp Schneider
