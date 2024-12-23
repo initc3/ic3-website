@@ -29,7 +29,7 @@ Upon registering, you can expect to receive a confirmation email from us. Please
 See a full and daily agenda below.
 <div style="margin-left:75px;width:auto">
   
-    <iframe height="600" width="1130" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS_0qhCBN9dKzYgQy60OujcZL1BJ-fUIQigZ-MvFRXZqJtLzvziO57jem3w7GxH_w/pubhtml?widget=true&amp;headers=false"></iframe>
+    <iframe height="800" width="1130" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS_0qhCBN9dKzYgQy60OujcZL1BJ-fUIQigZ-MvFRXZqJtLzvziO57jem3w7GxH_w/pubhtml?widget=true&amp;headers=false"></iframe>
 
 </div>
 
