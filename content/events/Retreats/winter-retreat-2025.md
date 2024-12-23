@@ -18,9 +18,20 @@ IC3’s Technical Committee — <a href="https://x.com/suryabakshi?s=21">Surya B
   <img class="ui centered image" src="../images/events/WinterRetreat2025/Group1.jpg" alt="" />
 </div>
 
+<!---
 We strongly encourage all members and partners to <strong><a href="https://docs.google.com/forms/d/1GdjFqLCYvux5Nl-U4Kn8SnIeNzd_IbrAcfEnjSOwrUA/edit">register ASAP</a></strong> due to limited capacity. Early registrations are crucial for us to finalize logistics and ensure the best possible experience for everyone. 
 
 Upon registering, you can expect to receive a confirmation email from us. Please be on the lookout for more updates in the coming weeks.
+--->
+
+## Draft Agenda
+
+See a full and daily agenda below.
+<div style="margin-left:75px;width:auto">
+  
+    <iframe height="600" width="1130" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS_0qhCBN9dKzYgQy60OujcZL1BJ-fUIQigZ-MvFRXZqJtLzvziO57jem3w7GxH_w/pubhtml?widget=true&amp;headers=false"></iframe>
+
+</div>
 
 ## Important Reminders
 
@@ -36,7 +47,7 @@ Curious to know more about the 2024 Winter Retreat? <a href="https://www.initc3.
 
 We’re committed to pushing the boundaries when it comes to blockchain research, but couldn’t do it without the help of our amazing <a href="https://www.initc3.org/partners">sponsors and partners</a>.    
 
-If you’re looking for more information on how to get involved, please reach out to Bria Han, IC3 Community Manager at <a href="mailto:jh2584@cornell.edu">jh2584@cornell.edu</a>. 
+If you’re looking for more information on how to get involved, please reach out to Oana Gherman, IC3 Sr. Administrative Assistant at <a href="mailto:og64@cornell.edu">oana.gherman@cornell.edu</a>. 
 
 We hope to see you in Switzerland!
 
