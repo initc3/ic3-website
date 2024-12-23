@@ -33,11 +33,13 @@ See a full and daily agenda below.
 
 </div>
 
+<!---
 ## Important Reminders
 
 <strong>IC3 Partners:</strong> Each partner company is permitted to send up to <strong>5 employees</strong> to attend the Winter Retreat. Unfortunately, we can’t accommodate any more than that due to capacity constraints.
 
-<strong>Swiss Visa Applicants:</strong> For participants who require visas to enter Switzerland, we urge you to initiate the visa application process immediately. Securing a visa for a first-time visitor involves several steps, including scheduling an appointment at your Swiss consulate or embassy. Should you require an invitation letter for your visa application, please contact Oana Gherman at <a href="mailto:og64@cornell.edu">og64@cornell.edu</a>.
+<strong>Swiss Visa Applicants:</strong> For participants who require visas to enter Switzerland, we urge you to initiate the visa application process immediately. Securing a visa for a first-time visitor involves several steps, including scheduling an appointment at your Swiss consulate or embassy. Should you require an invitation letter for your visa application, please contact Oana Gherman at <a href="mailto:og64@cornell.edu">oana.gherman@cornell.edu</a>.
+--->
 
 ## IC3 2024 Winter Retreat
 
