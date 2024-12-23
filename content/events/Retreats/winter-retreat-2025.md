@@ -8,7 +8,7 @@ summary: The Swiss Alps are calling!
 
 In January 2025, we’ll be heading to <strong>Engelberg, Switzerland</strong>, for the annual <strong>IC3 Winter Retreat</strong>. Our members and partners will have an opportunity to participate in research-focused discussions, workshops, and outdoor group activities. 
 
-IC3’s Technical Committee — <a href="https://x.com/suryabakshi?s=21">Surya Bakshi</a>, <a href="https://x.com/sarahalle_?s=21">Sarah Allen</a>, <a href="https://x.com/ethlorenz?s=21">Lorenz Breidenbach</a>, <a href="https://x.com/stonecoldpat0?s=21">Patrick McCorry</a>, and <a href="https://x.com/haaroony?s=21">Haaroon Yousaf</a> — is putting together the agenda which we will post in the coming weeks. For now, please RSVP using <strong><a href="https://docs.google.com/forms/d/1GdjFqLCYvux5Nl-U4Kn8SnIeNzd_IbrAcfEnjSOwrUA/edit">this form</a></strong> and save the dates.
+IC3’s Technical Committee — <a href="https://x.com/suryabakshi?s=21">Surya Bakshi</a>, <a href="https://x.com/sarahalle_?s=21">Sarah Allen</a>, <a href="https://x.com/ethlorenz?s=21">Lorenz Breidenbach</a>, <a href="https://x.com/stonecoldpat0?s=21">Patrick McCorry</a>, and <a href="https://x.com/haaroony?s=21">Haaroon Yousaf</a> — once again put together an agenda that will offer a great learning experience to all of our attendees. 
 
 <strong>Date:</strong> January 5-9, 2025 (including travel days) <br>
 <strong>Location:</strong> <strong><a href="https://www.titlis.ch/de/unterkuenfte/hotel-terrace">Hotel Terrace</a></strong>, Engelberg, Switzerland <br>
@@ -29,7 +29,7 @@ Upon registering, you can expect to receive a confirmation email from us. Please
 See a full and daily agenda below.
 <div style="margin-left:75px;width:auto">
   
-    <iframe height="725" width="1130" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS_0qhCBN9dKzYgQy60OujcZL1BJ-fUIQigZ-MvFRXZqJtLzvziO57jem3w7GxH_w/pubhtml?widget=true&amp;headers=false"></iframe>
+    <iframe height="750" width="1130" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS_0qhCBN9dKzYgQy60OujcZL1BJ-fUIQigZ-MvFRXZqJtLzvziO57jem3w7GxH_w/pubhtml?widget=true&amp;headers=false"></iframe>
 
 </div>
 
