@@ -42,12 +42,6 @@
 {% for p in people.staff %}
   {{ ppl_item(p) }}
 {% endfor %}
-
-<h1>Executive-in-Residence</h1>
-    
-{% for p in people.executive %}
-  {{ ppl_item(p) }}
-{% endfor %}
     
 <h1>Chief Scientist</h1>
 
@@ -58,6 +52,12 @@
 <h1>Faculty / Scientists</h1>
 
 {% for p in people.faculty %}
+  {{ ppl_item(p) }}
+{% endfor %}
+
+<h1>Executive-in-Residence</h1>
+    
+{% for p in people.executive %}
   {{ ppl_item(p) }}
 {% endfor %}
     

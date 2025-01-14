@@ -24,7 +24,7 @@ We strongly encourage all members and partners to <strong><a href="https://docs.
 Upon registering, you can expect to receive a confirmation email from us. Please be on the lookout for more updates in the coming weeks.
 --->
 
-## Draft Agenda
+## Event Agenda
 
 See a full and daily agenda below.
 <div style="margin-left:75px;width:auto">
