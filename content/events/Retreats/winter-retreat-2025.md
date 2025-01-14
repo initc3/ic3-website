@@ -15,7 +15,7 @@ IC3’s Technical Committee — <a href="https://x.com/suryabakshi?s=21">Surya B
 We enjoyed three days in the Swiss mountains connecting, sharing research, and learning from each other. There were 30+ talks touching on a wide-range of topics including Trusted Execution Environments (TEEs), governance, digital privacy, consensus mechanisms, cryptography, AI, and more.
 
 <div class="ui piled segment">
-  <img class="ui centered image" src="../images/events/WinterRetreat2025/Group.jpg" alt="" />
+  <img class="ui centered image" src="../images/events/WinterRetreat2025/Group.jpg" alt="" width="750" />
 </div>
 
 ## The Talks
@@ -90,7 +90,7 @@ We did our best to cover each talk on <a href="https://x.com/initc3org/status/18
         <img class="ui image" src="../images/events/WinterRetreat2025/Dinner 1.jpg" alt="" width="500"/>
     </div>
     <div class="ui center image">
-        <img class="ui image" src="../images/events/WinterRetreat2025/Dinner 2.jpg" alt="" width="500"/>
+        <img class="ui image" src="../images/events/WinterRetreat2025/Dinner 2.jpg" alt="" width="475"/>
     </div>
     <div class="ui bottom attached message">
         <strong>We hosted a welcome reception on the Sunday before the retreat kicked off as well as a closing dinner on the final day of the retreat (Jan 8th). The closing dinner took place in the mountains at the <a href="https://winter.alpstubli-truebsee.ch/">Alpstubli at Trübsee</a>. Dinner guests took in amazing views (and worked up an appetite) hiking to the restaurant.
