@@ -50,22 +50,6 @@ staff:
     bio: 'Sarah Allen is the IC3 Research Program Manager, supporting interactions among faculty, students, industry partners, and broader blockchain community. She works to promote collaborative, multidisciplinary blockchain research.'
 
   -
-    name: Jia (Bria) Han
-    pic: Bria.jpg
-    title: 'IC3 Community Manager'
-    email: jh2584@cornell.edu
-    weburl:
-    bio: 'Bria Han is the IC3 Community Manager, supporting IC3 faculty, students, industry partners and broader blockchain community by promoting collaborative interactions. She graduated from Harvard University and has multidisciplinary interests in enterprise blockchain, blockchain law and policy.'
-    
-  -
-    name: 'Sylvain Bellemare'
-    pic: sylvain.jpg
-    title: 'IC3 Research Engineer'
-    email: sbellemare@cornell.edu
-    weburl:
-    bio: "Sylvain is a research engineer at IC3. His role at IC3 involves helping with implementing and testing software prototypes, meanwhile applying software engineering best practices. His interest is in distributed systems and cryptographic protocols."
-
-  -
     name: 'Oana Gherman'
     pic: oana.jpg
     title: 'IC3 Sr. Administrative Assistant'
@@ -89,15 +73,6 @@ staff:
     weburl: 'https://www.hardfork.media/'
     bio: "Ashley is a former breaking news journalist and media relations expert. She has worked with several clients ranging from liquid staking protocols, academic researchers, and cryptocurrency exchanges. Before moving to New York, she was the director of communications for Ether Capital, the largest staking company in the capital markets. Ashley has a proven track record of building company brands and regularly secures earned media coverage for her clients by top-tier news organizations including Bloomberg and CNBC."
     
-executive:
-  -
-    name: 'Neil DeSilva'
-    pic: Neil.jpg
-    title: 'IC3 Executive-in-Residence'
-    email: neil.desilva@gmail.com 
-    weburl:
-    bio: "Neil DeSilva is a global innovator in the digital asset industry, having built two multi-billion-dollar crypto businesses as CFO of PayPal Digital Currencies & Remittances and as Trading Unit CFO at Galaxy (TSX GLXY), a leading financial services platform in the blockchain sector. At PayPal (NASDAQ PYPL), Neil was a co-creator of PayPal’s stablecoin, PayPal USD, and scaled it to being available to 700 million users worldwide. Neil has played a key role in several of the industry’s leaps forward over the past half decade and has facilitated investments into dozens of Web3 startups."
- 
 chiefscientist:
   - 
     name: 'Elaine Shi'
@@ -219,7 +194,16 @@ faculty:
     email: eswar.prasad@cornell.edu
     weburl: 'http://prasad.dyson.cornell.edu/'
     bio: "Eswar Prasad is the Tolani Senior Professor of Trade Policy and professor of economics at Cornell University. He is also a senior fellow at the Brookings Institution, where he holds the New Century Chair in International Trade Economics, and a research associate at the National Bureau of Economic Research. He is a former head of the IMF's China Division. Prasad is the author of The Future of Money: How the Digital Revolution is Transforming Currencies and Finance (Harvard University Press, 2021), Gaining Currency: The Rise of the Renminbi (Oxford, 2016), and The Dollar Trap: How the U.S. Dollar Tightened Its Grip on Global Finance (Princeton, 2014).\n"
-   
+
+executive:
+  -
+    name: 'Neil DeSilva'
+    pic: Neil.jpg
+    title: 'IC3 Executive-in-Residence'
+    email: neil.desilva@gmail.com 
+    weburl:
+    bio: "Neil DeSilva is a global innovator in the digital asset industry, having built two multi-billion-dollar crypto businesses as CFO of PayPal Digital Currencies & Remittances and as Trading Unit CFO at Galaxy (TSX GLXY), a leading financial services platform in the blockchain sector. At PayPal (NASDAQ PYPL), Neil was a co-creator of PayPal’s stablecoin, PayPal USD, and scaled it to being available to 700 million users worldwide. Neil has played a key role in several of the industry’s leaps forward over the past half decade and has facilitated investments into dozens of Web3 startups."
+    
 seniorfellows:
   -
     name: 'Maureen O''Hara'
@@ -853,14 +837,6 @@ alumni_researchers:
     weburl:
     bio: "Linus is working with his team of engineers to interface between PhD-students from Bryan Ford’s lab and industry partners. He likes to work with semester students, too, and help them to understand the implication of decentralised, distributed systems, and how ECC fits into that picture. His long-term goal is to build software for scalable, self-organizing communities. The current effort is at <a href=\"https://github.com/dedis/cothority\">Cothority</a>.\n"
  
-  -
-    name: 'Tyler Kell'
-    pic: tylerkell.jpg
-    title:
-    email: sk3259@cornell.edu
-    weburl:
-    bio: 'Tyler Kell has joined Upshot One where he will be focusing on smart contracts related to NFT analytics and appraisal. In a previous life, Tyler was a penetration tester, and enjoys an extensive history of breaking security assumptions.'
-
 alumni_postdocs:
   -
     name: 'Kasra Edalatnejad'
