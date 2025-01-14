@@ -14,6 +14,10 @@ IC3’s Technical Committee — <a href="https://x.com/suryabakshi?s=21">Surya B
 
 We enjoyed three days in the Swiss mountains connecting, sharing research, and learning from each other. There were 30+ talks touching on a wide-range of topics including Trusted Execution Environments (TEEs), governance, digital privacy, consensus mechanisms, cryptography, AI, and more.
 
+<div class="ui piled segment">
+  <img class="ui centered image" src="../images/events/WinterRetreat2025/Group.jpg" alt="" />
+</div>
+
 ## The Talks
 
 We did our best to cover each talk on <a href="https://x.com/initc3org/status/1878917045024440522">X</a>, but here’s a recap of six of the presentations and tutorial that took place at this year's retreat:
@@ -21,7 +25,7 @@ We did our best to cover each talk on <a href="https://x.com/initc3org/status/18
 **1. Florian Tramer's "Stealing Gen AI's Secrets"**
 
 <div class="ui piled segment">
-  <img class="ui centered image" src="../images/events/WinterRetreat2025/Florian.jpg" alt="" width="500"/>
+  <img class="ui centered image" src="../images/events/WinterRetreat2025/Florian.jpg" alt="" width="600"/>
 </div>
 
 - Our second day keynote talk came from ETH Zürich Assistant Prof. Florian Tramer who explained how vulnerabilities in machine learning interfaces (LLMs like ChatGPT) can lead to leaks of critical information, including details about your model, training data, and application secrets. To mitigate these risks, Florian says we should avoid deployment on highly transparent platforms such as blockchains.
@@ -29,7 +33,7 @@ We did our best to cover each talk on <a href="https://x.com/initc3org/status/18
 **2. Luca Zanolini's "Towards a Faster Finality Protocol for Ethereum"**
 
 <div class="ui piled segment">
-  <img class="ui centered image" src="../images/events/WinterRetreat2025/Luca.jpg" alt="" width="500"/>
+  <img class="ui centered image" src="../images/events/WinterRetreat2025/Luca.jpg" alt="" width="600"/>
 </div>
 
 - Luca Zanolini from Ethereum Foundation spoke about a protocol for efficiently finalizing Ethereum blocks. The method he describes finalizes blocks proposed by an honest proposer within three slots, even if other proposers are dishonest, using only one voting phase per slot. Luca says this approach reduces overhead and ensures faster and more predictable block finalization.
@@ -43,7 +47,7 @@ We did our best to cover each talk on <a href="https://x.com/initc3org/status/18
 **4. Jason Ward's “TradFi Assets”**
 
 <div class="ui piled segment">
-  <img class="ui centered image" src="../images/events/WinterRetreat2025/Jason.jpg" alt="" width="500"/>
+  <img class="ui centered image" src="../images/events/WinterRetreat2025/Jason.jpg" alt="" width="600"/>
 </div>
 
 - Jason Ward from the Fidelity Center for Applied Technology (FCAT) spoke about lessons that industry has learned from the 2008 financial crisis and some of the applications of blockchains that have the potential to improve efficiency in financial markets.
@@ -51,7 +55,7 @@ We did our best to cover each talk on <a href="https://x.com/initc3org/status/18
 **5. Lioba Heimbach's “Attacks on DAOs”**
 
 <div class="ui piled segment">
-  <img class="ui centered image" src="../images/events/WinterRetreat2025/Lioba.jpg" alt="" width="500"/>
+  <img class="ui centered image" src="../images/events/WinterRetreat2025/Lioba.jpg" alt="" width="600"/>
 </div>
 
 - Lioba Heimbach from ETH Zürich presented on various types of DAO governance attacks including protocol vulnerabilities, bribery, and coalition. She shared some example attacks and provided an empirical analysis to characterize the vulnerability of a set of DAOs to multiple different types of attacks. Here's a <a href="https://arxiv.org/pdf/2406.15071">link</a> to Lioba's research on the subject.
@@ -59,7 +63,7 @@ We did our best to cover each talk on <a href="https://x.com/initc3org/status/18
 **6. Andrew Miller's Tutorial on TEEs**
 
 <div class="ui piled segment">
-  <img class="ui centered image" src="../images/events/WinterRetreat2025/Andrew.jpg" alt="" width="500"/>
+  <img class="ui centered image" src="../images/events/WinterRetreat2025/Andrew.jpg" alt="" width="600"/>
 </div>
 
 - Following Andrew Miller’s (Flashbots) presentation on Teleport and TEEs for user-activated interoperability on web2, Andrew showed participants the tutorial for the <a href="https://docs.phala.network/overview/phala-network/dstack">Dstack project</a> jointly produced by Flashbots and Phala network that does confidential virtual machines inside TEEs. He answered several audience questions about the Dstack project and went through some of the tutorial information.
@@ -83,7 +87,7 @@ We did our best to cover each talk on <a href="https://x.com/initc3org/status/18
 
 <div class="ui center aligned basic segment">
     <div class="ui center image">
-        <img class="ui image" src="../images/events/WinterRetreat2025/Dinner 1.jpg" alt="" width="400"/>
+        <img class="ui image" src="../images/events/WinterRetreat2025/Dinner 1.jpg" alt="" width="500"/>
     </div>
     <div class="ui center image">
         <img class="ui image" src="../images/events/WinterRetreat2025/Dinner 2.jpg" alt="" width="500"/>
