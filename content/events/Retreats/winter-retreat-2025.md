@@ -3,7 +3,7 @@ name: 'IC3 Winter Retreat 2025'
 location: Hotel Terrace - Engelberg, Switzerland
 start: 2025-01-05
 end: 2025-01-09
-summary: The Swiss Alps are calling!
+summary: Thank you to all who joined us for the IC3 Winter Retreat 2025 at the <a href="https://www.titlis.ch/de/unterkuenfte/hotel-terrace">Hotel Terrace</a> in Engelberg, Switzerland!
 ---
 
 <!---
@@ -19,7 +19,7 @@ We did our best to cover each talk on <a href="https://x.com/initc3org/status/18
 **Florian Tramer's "Stealing Gen AI's Secrets"**
 
 <div class="ui piled segment">
-  <img class="ui centered image" src="../images/events/winter-retreat-2025/Florian.jpg" alt="" width="750"/>
+  <img class="ui centered image" src="../images/events/WinterRetreat2025/Florian.jpg" alt="" width="750"/>
 </div>
 
 - Our second day keynote talk came from ETH Zürich Assistant Prof. Florian Tramer who explained how vulnerabilities in machine learning interfaces (LLMs like ChatGPT) can lead to leaks of critical information, including details about your model, training data, and application secrets. To mitigate these risks, Florian says we should avoid deployment on highly transparent platforms such as blockchains.
@@ -27,7 +27,7 @@ We did our best to cover each talk on <a href="https://x.com/initc3org/status/18
 **Luca Zanolini's "Towards a Faster Finality Protocol for Ethereum"**
 
 <div class="ui piled segment">
-  <img class="ui centered image" src="../images/events/winter-retreat-2025/Luca.jpg" alt="" width="750"/>
+  <img class="ui centered image" src="../images/events/WinterRetreat2025/Luca.jpg" alt="" width="750"/>
 </div>
 
 - Luca Zanolini from Ethereum Foundation spoke about a protocol for efficiently finalizing Ethereum blocks. The method he describes finalizes blocks proposed by an honest proposer within three slots, even if other proposers are dishonest, using only one voting phase per slot. Luca says this approach reduces overhead and ensures faster and more predictable block finalization.
@@ -41,7 +41,7 @@ This breaks industry notions about exclusive private key use by an individual or
 **Jason Ward's “TradFi Assets”**
 
 <div class="ui piled segment">
-  <img class="ui centered image" src="../images/events/winter-retreat-2025/Jason.jpg" alt="" width="750"/>
+  <img class="ui centered image" src="../images/events/WinterRetreat2025/Jason.jpg" alt="" width="750"/>
 </div>
 
 - Jason Ward from the Fidelity Center for Applied Technology (FCAT) spoke about lessons that industry has learned from the 2008 financial crisis and some of the applications of blockchains that have the potential to improve efficiency in financial markets.
@@ -49,7 +49,7 @@ This breaks industry notions about exclusive private key use by an individual or
 **Lioba Heimbach's “Attacks on DAOs”**
 
 <div class="ui piled segment">
-  <img class="ui centered image" src="../images/events/winter-retreat-2025/Lioba.jpg" alt="" width="750"/>
+  <img class="ui centered image" src="../images/events/WinterRetreat2025/Lioba.jpg" alt="" width="750"/>
 </div>
 
 - Lioba Heimbach from ETH Zürich presented on various types of DAO governance attacks including protocol vulnerabilities, bribery, and coalition. She shared some example attacks and provided an empirical analysis to characterize the vulnerability of a set of DAOs to multiple different types of attacks. Here's a <a href="https://arxiv.org/pdf/2406.15071">link</a> to Lioba's research on the subject.
@@ -57,7 +57,7 @@ This breaks industry notions about exclusive private key use by an individual or
 **Andrew Miller's Tutorial on TEEs**
 
 <div class="ui piled segment">
-  <img class="ui centered image" src="../images/events/winter-retreat-2025/Andrew.jpg" alt="" width="750"/>
+  <img class="ui centered image" src="../images/events/WinterRetreat2025/Andrew.jpg" alt="" width="750"/>
 </div>
 
 - Following Andrew Miller’s (Flashbots) presentation on Teleport and TEEs for user-activated interoperability on web2, Andrew showed participants the tutorial for the <a href="https://docs.phala.network/overview/phala-network/dstack">Dstack project</a> jointly produced by Flashbots and Phala network that does confidential virtual machines inside TEEs. He answered several audience questions about the Dstack project and went through some of the tutorial information.
@@ -66,10 +66,10 @@ This breaks industry notions about exclusive private key use by an individual or
 
 <div class="ui center aligned basic segment">
     <div class="ui center image">
-        <img class="ui image" src="../images/events/winter-retreat-2025/Titlis 1.jpg" alt="" width="500"/>
+        <img class="ui image" src="../images/events/WinterRetreat2025/Titlis 1.jpg" alt="" width="500"/>
     </div>
     <div class="ui center image">
-        <img class="ui image" src="../images/events/winter-retreat-2025/Titlis 2.jpg" alt="" width="500"/>
+        <img class="ui image" src="../images/events/WinterRetreat2025/Titlis 2.jpg" alt="" width="500"/>
     </div>
     <div class="ui bottom attached message">
         <strong>Research is important, but so is touching grass (or snow)! That’s why every year we try to do an outdoor activity. This year’s group event was a Cliff Walk and Glacier Cave visit on the <a href="https://www.titlis.ch/en/destinations/titlis">Titlis</a> featuring stunning views of the Swiss Alps.
@@ -81,10 +81,10 @@ This breaks industry notions about exclusive private key use by an individual or
 
 <div class="ui center aligned basic segment">
     <div class="ui center image">
-        <img class="ui image" src="../images/events/winter-retreat-2025/Dinner 1.jpg" alt="" width="500"/>
+        <img class="ui image" src="../images/events/WinterRetreat2025/Dinner 1.jpg" alt="" width="500"/>
     </div>
     <div class="ui center image">
-        <img class="ui image" src="../images/events/winter-retreat-2025/Dinner 2.jpg" alt="" width="500"/>
+        <img class="ui image" src="../images/events/WinterRetreat2025/Dinner 2.jpg" alt="" width="500"/>
     </div>
     <div class="ui bottom attached message">
         <strong>We hosted a welcome reception on the Sunday before the retreat kicked off as well as a closing dinner on the final day of the retreat (Jan 8th). The closing dinner took place in the mountains at the <a href="https://winter.alpstubli-truebsee.ch/">Alpstubli at Trübsee</a>. Dinner guests took in amazing views (and worked up an appetite) hiking to the restaurant.
