@@ -21,7 +21,7 @@ We did our best to cover each talk on <a href="https://x.com/initc3org/status/18
 **1. Florian Tramer's "Stealing Gen AI's Secrets"**
 
 <div class="ui piled segment">
-  <img class="ui centered image" src="../images/events/WinterRetreat2025/Florian.jpg" alt="" width="750"/>
+  <img class="ui centered image" src="../images/events/WinterRetreat2025/Florian.jpg" alt="" width="500"/>
 </div>
 
 - Our second day keynote talk came from ETH Zürich Assistant Prof. Florian Tramer who explained how vulnerabilities in machine learning interfaces (LLMs like ChatGPT) can lead to leaks of critical information, including details about your model, training data, and application secrets. To mitigate these risks, Florian says we should avoid deployment on highly transparent platforms such as blockchains.
@@ -29,7 +29,7 @@ We did our best to cover each talk on <a href="https://x.com/initc3org/status/18
 **2. Luca Zanolini's "Towards a Faster Finality Protocol for Ethereum"**
 
 <div class="ui piled segment">
-  <img class="ui centered image" src="../images/events/WinterRetreat2025/Luca.jpg" alt="" width="750"/>
+  <img class="ui centered image" src="../images/events/WinterRetreat2025/Luca.jpg" alt="" width="500"/>
 </div>
 
 - Luca Zanolini from Ethereum Foundation spoke about a protocol for efficiently finalizing Ethereum blocks. The method he describes finalizes blocks proposed by an honest proposer within three slots, even if other proposers are dishonest, using only one voting phase per slot. Luca says this approach reduces overhead and ensures faster and more predictable block finalization.
@@ -38,12 +38,12 @@ We did our best to cover each talk on <a href="https://x.com/initc3org/status/18
 
 - James Austgen, PhD student at Cornell Tech, presented his latest research, <a href="https://arxiv.org/pdf/2412.02634">Liquefaction</a> — a wallet platform that shows how cryptocurrency credentials and assets of a single end-user address can be freely rented, shared, or pooled. Private keys are encumbered in TEEs, which can attach rich, multi-user policies to their use.
 
-This breaks industry notions about exclusive private key use by an individual or individual entity, which has the potential to undermine the security and economic models of many different applications (e.g. locked tokens, DAO voting, airdrops, soulbound tokens, and more).
+- This breaks industry notions about exclusive private key use by an individual or individual entity, which has the potential to undermine the security and economic models of many different applications (e.g. locked tokens, DAO voting, airdrops, soulbound tokens, and more).
 
 **4. Jason Ward's “TradFi Assets”**
 
 <div class="ui piled segment">
-  <img class="ui centered image" src="../images/events/WinterRetreat2025/Jason.jpg" alt="" width="750"/>
+  <img class="ui centered image" src="../images/events/WinterRetreat2025/Jason.jpg" alt="" width="500"/>
 </div>
 
 - Jason Ward from the Fidelity Center for Applied Technology (FCAT) spoke about lessons that industry has learned from the 2008 financial crisis and some of the applications of blockchains that have the potential to improve efficiency in financial markets.
@@ -51,7 +51,7 @@ This breaks industry notions about exclusive private key use by an individual or
 **5. Lioba Heimbach's “Attacks on DAOs”**
 
 <div class="ui piled segment">
-  <img class="ui centered image" src="../images/events/WinterRetreat2025/Lioba.jpg" alt="" width="750"/>
+  <img class="ui centered image" src="../images/events/WinterRetreat2025/Lioba.jpg" alt="" width="500"/>
 </div>
 
 - Lioba Heimbach from ETH Zürich presented on various types of DAO governance attacks including protocol vulnerabilities, bribery, and coalition. She shared some example attacks and provided an empirical analysis to characterize the vulnerability of a set of DAOs to multiple different types of attacks. Here's a <a href="https://arxiv.org/pdf/2406.15071">link</a> to Lioba's research on the subject.
@@ -59,7 +59,7 @@ This breaks industry notions about exclusive private key use by an individual or
 **6. Andrew Miller's Tutorial on TEEs**
 
 <div class="ui piled segment">
-  <img class="ui centered image" src="../images/events/WinterRetreat2025/Andrew.jpg" alt="" width="750"/>
+  <img class="ui centered image" src="../images/events/WinterRetreat2025/Andrew.jpg" alt="" width="500"/>
 </div>
 
 - Following Andrew Miller’s (Flashbots) presentation on Teleport and TEEs for user-activated interoperability on web2, Andrew showed participants the tutorial for the <a href="https://docs.phala.network/overview/phala-network/dstack">Dstack project</a> jointly produced by Flashbots and Phala network that does confidential virtual machines inside TEEs. He answered several audience questions about the Dstack project and went through some of the tutorial information.
@@ -83,7 +83,7 @@ This breaks industry notions about exclusive private key use by an individual or
 
 <div class="ui center aligned basic segment">
     <div class="ui center image">
-        <img class="ui image" src="../images/events/WinterRetreat2025/Dinner 1.jpg" alt="" width="500"/>
+        <img class="ui image" src="../images/events/WinterRetreat2025/Dinner 1.jpg" alt="" width="400"/>
     </div>
     <div class="ui center image">
         <img class="ui image" src="../images/events/WinterRetreat2025/Dinner 2.jpg" alt="" width="500"/>
@@ -110,7 +110,7 @@ Upon registering, you can expect to receive a confirmation email from us. Please
 
 ## Event Agenda
 
-See a full and daily agenda below.
+See the full and daily agenda below.
 <div style="margin-left:75px;width:auto">
   
     <iframe height="600" width="1025" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS_0qhCBN9dKzYgQy60OujcZL1BJ-fUIQigZ-MvFRXZqJtLzvziO57jem3w7GxH_w/pubhtml?widget=true&amp;headers=false"></iframe>
