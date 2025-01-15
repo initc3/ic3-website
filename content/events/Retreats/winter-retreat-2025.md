@@ -42,8 +42,6 @@ We did our best to cover each talk on <a href="https://x.com/initc3org/status/18
 
 - James Austgen, PhD student at Cornell Tech, presented his latest research, <a href="https://arxiv.org/pdf/2412.02634">Liquefaction</a> — a wallet platform that shows how cryptocurrency credentials and assets of a single end-user address can be freely rented, shared, or pooled. Private keys are encumbered in TEEs, which can attach rich, multi-user policies to their use.
 
-- This breaks industry notions about exclusive private key use by an individual or individual entity, which has the potential to undermine the security and economic models of many different applications (e.g. locked tokens, DAO voting, airdrops, soulbound tokens, and more).
-
 **4. Jason Ward's “TradFi Assets”**
 
 <div class="ui piled segment">
