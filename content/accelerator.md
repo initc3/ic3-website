@@ -28,7 +28,12 @@ Participants in the IC3-Cornell Blockchain Accelerator will benefit from:
 
 ## Be Part of the First Cohort
 
+Applications are now closed for the first cohort of the <strong>IC3-Cornell Blockchain Accelerator</strong>.
+
+<!---
 Applications are now open for the first cohort of the <strong>IC3-Cornell Blockchain Accelerator</strong>. Apply <strong><a href="https://docs.google.com/forms/d/1Rd791Gl6Iv_ZQ5Kg_aD2xAmyPw2C4exiAnOkRpbHEzE/edit">here</a></strong>. The deadline is <strong>January 15, 2025</strong>.
+
+--->
 
 ## Leadership
 
