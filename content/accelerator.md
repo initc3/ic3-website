@@ -120,14 +120,18 @@ Applications are now open for the first cohort of the <strong>IC3-Cornell Blockc
 
 </details>
 
-## Accelerator Mentors
+## Mentors
 
 John Wu - President @ Ava Labs, Cornell alum <br>
 Gengmo Qi - Partner @ Dragonfly Capital, IC3 & Cornell alum <br>
 Alex Lin - Co-founder and Managing Partner @ Reforge, Ex-Shima Capital <br>
 Steven Willinger - Ex-Coinbase Ventures, GP @ Blockchain Builders <br>
 Kun Peng - Founder @ Stanford Blockchain Accelerator, BASS <br>
-Jesper Kristensen - Founder @ Psi Finance
+Jesper Kristensen - Founder @ Psi Finance <br>
+
+## Faculty Advisor
+
+<a href="https://www.arijuels.com/">prof. Ari Juels</a> - Weill Family Foundation and Joan and Sanford I. Weill Professor @ Cornell Tech, Co-founder and Co-director of the Initiative for CryptoCurrencies and Contracts (IC3), Chief Scientist @ Chainlink Labs
 
 ## FAQs
 
