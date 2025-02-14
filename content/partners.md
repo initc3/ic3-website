@@ -25,9 +25,9 @@ Foundation to advance the science and technology of blockchains. <br>
     <img class="ui image sponsor logo" id="Arbitrum Foundation" src="../images/partners/AF navy.png" />
     <img class="ui image sponsor logo" id="avalabs" src="../images/partners/Avalanche.png" />
     <img class="ui image sponsor logo" id="chainlink" src="../images/partners/Chainlink.png" />  
+    <img class="ui image sponsor logo" id="ethereum" src="../images/partners/EF.jpeg" />	  
   </div>
   <div class="ui small images">
-    <img class="ui image sponsor logo" id="ethereum" src="../images/partners/EF.jpeg" />
     <img class="ui image sponsor logo" id="fidelity fcat" src="../images/partners/FCAT logo.png" />
     <img class="ui image sponsor logo" id="Optimism" src="../images/partners/Optimism.jpg" />	  
     <img class="ui image sponsor logo" id="protocollabs" src="../images/partners/protocol-labs.png" />
