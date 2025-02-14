@@ -3,6 +3,7 @@
 IC3 acknowledges and appreciates a generous gift from the VMware
 Foundation to advance the science and technology of blockchains. <br>
 
+<!---
 <div class="ui center aligned basic segment">
     <div class="ui small images">     
 	<img class="ui image sponsor logo" id="Anoma Foundation" src="images/partners/Anoma.png">
@@ -16,7 +17,25 @@ Foundation to advance the science and technology of blockchains. <br>
 	<img class="ui image sponsor logo" id="Zero Gravity Labs" src="images/partners/0G.png">    
     </div>
 </div>
+--->
 
+<div class="ui center aligned basic segment">
+  <div class="ui small images">
+    <img class="ui image" id="Anoma Foundation" src="../images/partners/Anoma.png" />
+    <img class="ui image" id="Arbitrum Foundation" src="../images/partners/AF navy.png" />
+    <img class="ui image" id="avalabs" src="../images/partners/Avalanche.png" />
+  </div>
+  <div class="ui small images">
+    <img class="ui image" id="chainlink" src="../images/partners/Chainlink-New.png" />
+    <img class="ui image" id="ethereum" src="../images/partners/EF 2024.jpeg" />
+    <img class="ui image" id="fidelity fcat" src="../images/partners/FCAT logo.png" />
+  </div>
+  <div class="ui small images">
+    <img class="ui image" id="Optimism" src="../images/partners/Optimism.jpg" />
+    <img class="ui image" id="protocollabs" src="../images/partners/protocol-labs.png" />
+    <img class="ui image" id="Zero Gravity Labs" src="../images/partners/0G.png" />
+  </div>
+</div>
 
 # Contact
 
