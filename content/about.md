@@ -62,7 +62,7 @@ IC3 has created for program chairs and other interested colleagues the following
 ## Contact
 
 For inquiries, please email Oana Gherman, IC3 Senior Administrative Assistant at
-    <a href="mailto:og64@cornell.edu">oanagherman@cornell.edu</a>.
+    <a href="mailto:og64@cornell.edu">oana.gherman@cornell.edu</a>.
     
 Sign up <strong><a href="https://forms.gle/T1Ejcf5DPJ28erYe6">here</a></strong> to join our mailing list and stay up to date on all things IC3! 
 
