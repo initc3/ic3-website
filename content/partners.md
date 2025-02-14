@@ -21,7 +21,7 @@ Foundation to advance the science and technology of blockchains. <br>
 
 <div class="ui center aligned basic segment">
   <div class="ui small images">
-    <img class="ui image" id="Anoma Foundation" src="../images/partners/Anoma.png" />
+    <img class="ui image sponsor logo" id="Anoma Foundation" src="../images/partners/Anoma.png" />
     <img class="ui image" id="Arbitrum Foundation" src="../images/partners/AF navy.png" />
     <img class="ui image" id="avalabs" src="../images/partners/Avalanche.png" />
     <img class="ui image" id="chainlink" src="../images/partners/Chainlink.png" />  
