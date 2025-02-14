@@ -30,6 +30,7 @@
    'avalabs': 'https://www.avalabs.org',
    'Arbitrum Foundation': 'https://arbitrum.foundation/',
    'Anoma Foundation': 'https://anoma.foundation/',
+   'Optimism': 'https://www.optimism.io/',
    'Zero Gravity Labs': 'https://0g.ai/',
  };
 
