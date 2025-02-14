@@ -29,8 +29,8 @@ Foundation to advance the science and technology of blockchains. <br>
   <div class="ui small images">
     <img class="ui image" id="ethereum" src="../images/partners/EF.jpeg" />
     <img class="ui image" id="fidelity fcat" src="../images/partners/FCAT logo.png" />
+    <img class="ui image" id="Optimism" src="../images/partners/Optimism.jpg" />	  
     <img class="ui image" id="protocollabs" src="../images/partners/protocol-labs.png" />
-    <img class="ui image" id="Optimism" src="../images/partners/Optimism.jpg" />
     <img class="ui image" id="Zero Gravity Labs" src="../images/partners/0G.png" /> 
   </div>
 </div>
