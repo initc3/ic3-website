@@ -35,6 +35,10 @@ Foundation to advance the science and technology of blockchains. <br>
   </div>
 </div>
 
+<div class="ui piled segment">
+  <img class="ui centered image" src="../images/partners/Partners.jpg" alt="" width="750" />
+</div>
+
 # Contact
 
 For more information, please contact: [sarahallen@cornell.edu](mailto:sarahallen@cornell.edu).
