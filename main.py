@@ -156,9 +156,9 @@ def partners():
         content = f.read()
         content = markdown.markdown(content)
 
-    breadcrumb = [{'name': 'Partners & Sponsors', 'url': 'partners.html'}]
+    breadcrumb = [{'name': 'Partners', 'url': 'partners.html'}]
     e.render_and_write(temp,
-                       dict(title='IC3 - Partners & Sponsors',
+                       dict(title='IC3 - Partners',
                             content=content,
                             breadcrumb=breadcrumb),
                        output)
