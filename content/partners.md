@@ -19,22 +19,6 @@ Foundation to advance the science and technology of blockchains. <br>
 </div>
 --->
 
-<div class="ui center aligned basic segment">
-  <div class="ui small images">
-    <img class="ui image" id="Anoma Foundation" src="../images/partners/Anoma.png" />
-    <img class="ui image" id="Arbitrum Foundation" src="../images/partners/AF navy.png" />
-    <img class="ui image" id="avalabs" src="../images/partners/Avalanche.png" />
-    <img class="ui image" id="chainlink" src="../images/partners/Chainlink.png" />  
-  </div>
-  <div class="ui small images">
-    <img class="ui image" id="ethereum" src="../images/partners/EF.jpeg" />	  
-    <img class="ui image" id="fidelity fcat" src="../images/partners/FCAT.png" />
-    <img class="ui image" id="Optimism" src="../images/partners/Optimism.jpg" />	  
-    <img class="ui image" id="protocollabs" src="../images/partners/protocol.png" />
-    <img class="ui image" id="Zero Gravity Labs" src="../images/partners/0G.png" /> 
-  </div>
-</div>
-
 <div class="ui piled segment">
   <img class="ui centered image" src="../images/partners/Partners.jpg" alt="" width="750" />
 </div>
