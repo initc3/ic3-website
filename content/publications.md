@@ -1,5 +1,16 @@
 # Published Papers
 
+## 2025 ##
+
+- J. Ernstberger, C. Zhang, L. Ciprian, P. Jovanovic, and S. Steinhorst. [Zero-Knowledge Location Privacy via Accurate Floating-Point SNARKs](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a057/21B7R3HsGK4). IEEE S&P, 2025. (to appear)
+- B. Arun, Z. Li, F. Suri-Payer, S. Das, and A. Spiegelman. [Bolt: High Throughput DAG BFT Can Be Fast and Robust!](https://arxiv.org/abs/2405.20488). USENIX, 2025. (to appear)
+- W. Wang, L. Zhou, A. Yaish, F. Zhang, B. Fisch, and B. Livshits. [Prooφ: A ZKP Market Mechanism](https://arxiv.org/abs/2404.06495). FC, 2025. (to appear)
+- H. Chung, E. Masserova, E. Shi, and S.A. Thyagarajan. [Rapidash: Foundations of Side-Contract-Resilient Fair Exchange](https://eprint.iacr.org/2022/1063.pdf). FC, 2025. (to appear)
+- Q. Kniep, L. Kokoris-Kogias, A. Sonnino, I. Zablotchi, and N. Zhang. [Pilotfish: Distributed Execution for Scalable Blockchains](https://arxiv.org/abs/2401.16292). FC, 2025. (to appear)
+- R. Neiheiser and E. Kokoris-Kogias. [Anthemius: Efficient & Modular Block Assembly for Concurrent Execution](https://arxiv.org/abs/2502.10074). FC, 2025. (to appear)
+- B. Riva, A. Sonnino, and L. Kokoris-Kogias. [Seahorse: Efficiently Mixing Encrypted and Normal Transactions](https://sonnino.com/papers/seahorse.pdf). FC, 2025. (to appear)
+- F. Baldimtsi, K.K. Chalkias, Y. Ji, J. Lindstrom, D. Maram, B. Riva, A. Roy, M. Sedaghat, and J. Wang. [zkLogin: Privacy-Preserving Blockchain Authentication with Existing Credentials](https://arxiv.org/abs/2401.11735). RWC, 2025. (to appear)
+
 ## 2024 ##
 
 - A. Kavousi, A. Abadi, and P. Jovanovic. [Timed Secret Sharing](https://eprint.iacr.org/2023/1024). Asiacrypt, 2024.
