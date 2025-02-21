@@ -725,7 +725,7 @@ advisors:
 fellows:
   -
     name: 'Ian Miers'
-    pic: imiers.jpg
+    pic: ian.png
     title:
     email: imiers@umd.edu
     weburl: 'https://www.cs.umd.edu/~imiers/'
@@ -805,7 +805,7 @@ fellows:
 
   -
     name: 'Naomi (Ephraim) Sirkin'
-    pic: naomi.jpg
+    pic: naomi.png
     title:
     email: nephraim@cs.cornell.edu
     weburl:
