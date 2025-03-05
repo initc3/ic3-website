@@ -28,7 +28,7 @@ Participants in the IC3-Cornell Blockchain Accelerator will benefit from:
 
 ## Benefit Sponsors
 
-<a href="https://www.base.org/"Base</a> - Check <a href="https://docs.google.com/document/d/1Jkb7X239thI7u-Ps8aB4581oRk9yfvEU_FUINGUvG0Y/edit?tab=t.0">here</a> for details on what the benefit package includes.
+<strong><a href="https://www.base.org/">Base</a></strong> - Check <a href="https://docs.google.com/document/d/1Jkb7X239thI7u-Ps8aB4581oRk9yfvEU_FUINGUvG0Y/edit?tab=t.0">here</a> for details on what the benefit package includes.
 
 ## Be Part of the First Cohort
 
@@ -140,7 +140,7 @@ Jesper Kristensen - Founder @ Psi Finance <br>
 
 ## Faculty Advisor
 
-<a href="https://www.arijuels.com/">prof. Ari Juels</a> - Weill Family Foundation and Joan and Sanford I. Weill Professor @ Cornell Tech, Co-founder and Co-director of the Initiative for CryptoCurrencies and Contracts (IC3), Chief Scientist @ Chainlink Labs
+<strong><a href="https://www.arijuels.com/">prof. Ari Juels</a></strong> - Weill Family Foundation and Joan and Sanford I. Weill Professor @ Cornell Tech, Co-founder and Co-director of the Initiative for CryptoCurrencies and Contracts (IC3), Chief Scientist @ Chainlink Labs
 
 ## FAQs
 
