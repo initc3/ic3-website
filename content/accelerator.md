@@ -26,6 +26,10 @@ Participants in the IC3-Cornell Blockchain Accelerator will benefit from:
 - Exposure to the industry's top investors such as Pantera Capital, Dragonfly Capital, and a16z, who are actively supporting early-stage projects
 - Recruitment assistance to support job placement post-accelerator
 
+## Benefit Sponsors
+
+<a href="https://www.base.org/"Base</a> - Check <a href="https://docs.google.com/document/d/1Jkb7X239thI7u-Ps8aB4581oRk9yfvEU_FUINGUvG0Y/edit?tab=t.0">here</a> for details on what the benefit package includes.
+
 ## Be Part of the First Cohort
 
 Applications are now closed for the first cohort of the <strong>IC3-Cornell Blockchain Accelerator</strong>.
