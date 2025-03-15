@@ -552,14 +552,6 @@ students:
     bio: "Nikhil Vanjani is a Ph.D. student at Carnegie Mellon University, where he is advised by prof. Elaine Shi. His research interests include cryptography and blockchains."
   
   -
-    name: 'Yunqi Li'
-    pic: yunqi-li.jpg
-    title:
-    email: yungil3@illinois.edu
-    weburl:
-    bio: "Yunqi Li is a PhD student at UIUC working with Andrew Miller. She is interested in system security, P2P network, and blockchain technology."
-
-  -
     name: 'Roi Bar-Zur'
     pic: roi.jpg
     title:
@@ -1286,3 +1278,11 @@ alumni_students:
     email: boltonb2@illinois. edu
     weburl: "https://boltonb2.web.engr.illinois.edu/"
     bio: "Bolton joined Pi Squared as a Proof Engineer after completing his PhD program at UIUC under the supervision of prof. Andrew Miller. His research interests are in Formal Methods, SNARKs, and Cryptographic Protocols."
+
+  -
+    name: 'Yunqi Li'
+    pic: yunqi-li.jpg
+    title:
+    email: yungil3@illinois.edu
+    weburl:
+    bio: "Yunqi Li completed her PhD program at UIUC working with Andrew Miller. She is a Research Scientist at Meta interested in system security, P2P network, and blockchain technology."
