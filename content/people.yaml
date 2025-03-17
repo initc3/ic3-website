@@ -288,6 +288,14 @@ postdocs:
 
 students:
   -
+    name: 'Yunhao Wang'
+    pic: YunhaoW.jpeg
+    title:
+    email: yunhao.wang@yale.edu
+    weburl:
+    bio: "Yunhao Wang is a Ph.D. student in Computer Science at Yale University, advised by Prof. Fan Zhang. Her research focuses on applied lattice-based cryptography, advanced encryptions, and mechanism enhancing the security of blockchain applications.\n"
+
+  -
     name: 'Giannis Kaklamanis'
     pic: Giannis.jpeg
     title:
