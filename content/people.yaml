@@ -84,6 +84,14 @@ chiefscientist:
 
 faculty:
   -
+    name: 'Matt Weinberg'
+    pic: Matt.jpg
+    title:
+    email: smweinberg@princeton.edu
+    weburl: 'https://www.cs.princeton.edu/~smattw/'
+    bio: "My primary research interest is in Algorithmic Mechanism Design - algorithm design in settings where users have their own incentives. Some examples of my Algorithmic Mechanism Design research pertaining to blockchains include strategic manipulation of consensus protocols, transaction fee mechanism design, and understanding the economic impact of decentralization on users.\n"
+    
+  -
     name: 'Fan Zhang'
     pic: Fan.jpg
     title:
@@ -230,6 +238,14 @@ seniorfellows:
     bio: "Roni Michaely is a professor of Finance and Entrepreneurialship at The University of Hong Kong. Before that he spent a significant portion of his career as The Rudd Family professor of Finance at Cornell University and Cornell Tech. His primary research interests are in the areas of empirical corporate finance, corporate governance, entrepreneurial finance, and FinTech. His current research focuses on how frictions in capital markets affect managers' corporate decisions and new product developments; with a particular focus on corporate payout policy, the effect of competition in firms' behavior, and on the impact of Fintech on capital market efficiency.\n"
 
 postdocs:
+  - 
+    name: 'Mengqian Zhang'
+    pic: Mengqian.jpg
+    title:
+    email: mengqian.zhang@yale.edu
+    weburl:
+    bio: "Mengqian Zhang is currently a Postdoctoral Associate at Yale University, working with Prof. Fan Zhang. Her research mainly focuses on blockchain, algorithmic game theory, and decentralized finance.\n"
+    
   -
     name: 'Aviv Yaish'
     pic: Aviv.jpg
@@ -271,6 +287,14 @@ postdocs:
     bio: "I am an early cryptocurrency enthusiast that got my start by studying Silk Road and the darknet marketplace ecosystem in late 2013 during my PhD at Carnegie Mellon University and since then have been working on applications and privacy of decentralized ledger technologies in a Postdoc at UIUC. More recently I have focused my attention on cryptocurrency finance, both centralized (BitMEX, Binance, etc.) and decentralized with particular interest on the economics and incentives of DeFi primitives such as staking, farming, play2earn, algo stablecoins and more.\n"
 
 students:
+  -
+    name: 'Giannis Kaklamanis'
+    pic: Giannis.jpeg
+    title:
+    email: giannis.kaklamanis@yale.edu
+    weburl:
+    bio: "Giannis is a Ph.D. student in Computer Science at Yale University, advised by Prof. Fan Zhang. His research focuses on cryptography for decentralized systems with privacy and transparency guarantees.\n"
+    
   -
     name: 'Wenhao Wang'
     pic: Wenhao.jpg
