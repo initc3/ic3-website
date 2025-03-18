@@ -27,11 +27,11 @@ This year is extra special because it’s **IC3’s 10th Anniversary**! Stay tun
 
 **Industry/Professional Participants:** All must be affiliated with an IC3 Member or a Blockchain Camp Sponsor (see details below).
 
-***IC3 Members***
+***1. IC3 Members***
 
-Up to two employees of IC3 Partner Members (see current list of partners **<a href="https://www.initc3.org/partners">here</a>**) may participate free of charge.
+Up to five employees of IC3 Partner Members (see current list of partners **<a href="https://www.initc3.org/partners">here</a>**) may participate free of charge.
 
-***Blockchain Camp Sponsorship - $15k includes:***
+***2. Blockchain Camp Sponsorship - $15k includes:***
 
 - Support for the Camp, including scholarships for students attending for free, and ongoing IC3 research. <br>
 - Sponsor brand logo displayed on the Camp page, and social media outreach. <br>
