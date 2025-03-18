@@ -29,7 +29,7 @@ This year is extra special because it’s **IC3’s 10th Anniversary**! Stay tun
 
 ***1. IC3 Members***
 
-Up to five employees of IC3 Partner Members (see current list of partners **<a href="https://www.initc3.org/partners">here</a>**) may participate free of charge.
+Up to two employees of IC3 Partner Members (see current list of partners **<a href="https://www.initc3.org/partners">here</a>**) may participate free of charge.
 
 ***2. Blockchain Camp Sponsorship - $15k includes:***
 
