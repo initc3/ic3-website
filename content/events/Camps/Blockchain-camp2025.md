@@ -1,8 +1,8 @@
 ---
-name: 'IC3 2025 Blockchain Camp'
+name: 'IC3 Blockchain Camp 2025'
 location: Cornell Tech (Roosevelt Island) New York, NY
-start: 2024-06-09
-end: 2024-06-15
+start: 2025-06-09
+end: 2025-06-15
 summary: Join us for the 10th Annual IC3 Blockchain Camp! This 7-day experience will be hosted once again at the Cornell Tech Campus on Roosevelt Island, New York City. Our camp technical committee of Sarah Allen, Surya Bakshi, Lorenz Breidenbach, Patrick McCorry, and Haaroon Yousaf is preparing another immersive coding and learning experience!
 ---
 
@@ -69,4 +69,4 @@ IC3 has a room block and recommends reserving at the <strong><a href="https://ww
 
 Coming soon!
 
-<strong>We hope to see you at the IC3 2025 Blockchain Camp in NYC!</strong>
+<strong>We hope to see you at the IC3 Blockchain Camp 2025 in NYC!</strong>
