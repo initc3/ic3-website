@@ -14,7 +14,8 @@ Foundation to advance the science and technology of blockchains. <br>
 	<img class="ui image sponsor logo" id="fidelity fcat" src="images/partners/FCAT.png">
 	<img class="ui image sponsor logo" id="Optimism" src="images/partners/Optimism.jpg">    
 	<img class="ui image sponsor logo" id="protocollabs" src="images/partners/protocol.png">
-	<img class="ui image sponsor logo" id="Zero Gravity Labs" src="images/partners/0G.png">    
+	<img class="ui image sponsor logo" id="Zero Gravity Labs" src="images/partners/0G.png">
+        <img class="ui image sponsor logo" id="Category Labs" src="images/partners/Category Labs.png">
     </div>
 </div>
 --->
