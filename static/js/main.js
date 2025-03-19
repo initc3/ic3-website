@@ -32,6 +32,7 @@
    'Anoma Foundation': 'https://anoma.foundation/',
    'Optimism': 'https://www.optimism.io/',
    'Zero Gravity Labs': 'https://0g.ai/',
+   'Category Labs': 'https://www.category.xyz/',
  };
 
 $(document).ready(function() {
