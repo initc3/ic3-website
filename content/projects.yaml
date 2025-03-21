@@ -31,6 +31,24 @@ challenges:
 projects:
 
   -
+     name: 'Elastic Restaking Networks'
+     authors: Roi Bar-Zur and Ittay Eyal
+     challenges: [*correctness, *adf]
+     description: Decentralized services for blockchains often require their validators (operators) to deposit stake (collateral), which is forfeited (slashed) if they misbehave. Restaking networks let validators secure multiple services by reusing stake, giving rise to a strategic game - Validators can coordinate to misbehave across multiple services, extracting digital assets while forfeiting their stake only once. Previous work focused either on preventing coordinated misbehavior or on protecting services if all other services are Byzantine and might unjustly cause slashing due to bugs or malice. The first model overlooks how a single Byzantine service can collapse the network, while the second ignores shared-stake benefits. To bridge the gap, we model the strategic game of coordinated misbehavior when a given fraction of services are Byzantine. We introduce elastic restaking networks, where validators can allocate portions of their stake that may cumulatively exceed their total stake, and when allocations are lost, the remaining stake stretches to cover remaining allocations. We show that elastic networks exhibit superior robustness compared to previous approaches, and demonstrate a synergistic effect where an elastic restaking network enhances its blockchain’s security, contrary to community concerns of an opposite effect in existing networks. We then design incentives for tuning validators’ allocations. Our elastic restaking system and incentive design have immediate practical implications for deployed restaking networks, which have billions of dollars in stake. For more details, see our <a href="https://arxiv.org/pdf/2503.00170">work</a>.
+
+  -
+     name: 'Market Power and the Bitcoin Protocol'
+     authors: Alfred Lehar and Christine Parlour
+     challenges: [*correctness]
+     description: We document that blocks on the blockchain are rarely filled to capacity, even though there is excess demand for block space by fee-paying users who want their transactions to be recorded. In spite of this, higher fee orders are not always prioritized. We show these patterns are consistent with miners exercising market power. If users believe that only high fee transactions will be executed expeditiously we show how strategic capacity management can be used to extract higher fee revenue. Using a novel data set, we provide evidence consistent with this market power, and estimate that mining pools have extracted least 300 million USD a year in excess fees by making processing capacity artificially scarce. For more information, see our <a href="http://ewfs.org/wp-content/uploads/2025/03/tx_fees-18.pdf">work</a>.
+
+  -
+     name: 'Ready Layer One: Functional Regulation for Blockchain Infrastructure'
+     authors: Carla Reyes and Joseph Cutler
+     challenges: [*correctness, *confidentiality, *compliance]
+     description: A software developer quietly builds a protocol that connects people with project ideas directly to those interested in financially contributing—on a peer-to-peer basis. Unlike traditional crowdfunding platforms like Kickstarter, this software eliminates intermediaries, enabling decentralized and disintermediated transactions. However, before the developer could publish the software, the Department of Justice charged two other developers with felonies for unlicensed money transmission, even though they never had custody of funds. Fearing prosecution, the decentralized crowdfunding developer sued the DOJ, seeking a declaration that writing and publishing code that builds tools for others is not illegal. The lawsuit highlights a broader issue - targeting open-source developers limits access to digital public infrastructure and discourages innovation. These legal battles represent more than isolated cases—they challenge individual rights, autonomy, and national economic and innovation policy. For more details, see our <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5145302">work</a>.
+
+  -
      name: 'Anthemius: Efficient & Modular Block Assembly for Concurrent Execution'
      authors: Ray Neiheiser and Eleftherios Kokoris-Kogias
      challenges: [*scaling, *correctness]
