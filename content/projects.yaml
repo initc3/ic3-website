@@ -409,6 +409,12 @@ projects:
      description: In this work-in-progress, we present a series of protocols to efficiently prove statements about strings in context-free grammars (CFGs). Our main protocol for proving proofs of correct parsing for strings in a CFG flexibly accommodates different instantiations of zero-knowledge proof systems as well as accumulation schemes. While improvements in the modular cryptographic primitives can be carried over for improvements in our protocols, even simpler proof systems, which do not support state-of-the-art techniques such as permutation checks [4, 18] can generate proofs of correct parsing of a string of size 𝑛 by proving the correctness of a circuit of size O (𝑐𝑛), where 𝑐 is the cost of verifying a set membership proof in the chosen accumulation scheme. For more information, see our <a href="https://eprint.iacr.org/2024/562.pdf">work</a>.
 
   -
+     name: 'Prooφ: A ZKP Market Mechanism'
+     authors: Wenhao Wang, Lulu Zhou, Aviv Yaish, Fan Zhang, Ben Fisch, and Benjamin Livshits
+     challenges: [*correctness, *confidentiality]
+     description: Zero-knowledge proofs (ZKPs) are computationally demanding to generate. Their importance for applications like ZK-Rollups has prompted some to outsource ZKP generation to a market of specialized provers. However, existing market designs either do not fit the ZKP setting or lack formal description and analysis. In this work, we propose a formal ZKP market model that captures the interactions between users submitting ZKP tasks and provers competing to generate proofs. Building on this model, we introduce Prooφ, an auction-based ZKP market mechanism. We prove that Prooφ is incentive compatible for users and provers, and budget balanced. We augment Prooφ with system-level designs to address the practical challenges of our setting, such as Sybil attacks, misreporting of prover capacity, and collusion. We analyze our system-level designs and show how they can mitigate the various security concerns. For more details, see our <a href="https://arxiv.org/pdf/2404.06495">paper</a>.
+
+  -
      name: 'RACS and SADL: Towards Robust SMR in the Wide-Area Network'
      authors: Pasindu Tennage, Antoine Desjardins, and Lefteris Kokoris-Kogias
      challenges: [*correctness, *confidentiality]
