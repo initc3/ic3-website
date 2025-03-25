@@ -3,6 +3,7 @@
 IC3 acknowledges and appreciates a generous gift from the VMware
 Foundation to advance the science and technology of blockchains. <br>
 
+<!---
 <div class="ui center aligned basic segment">
     <div class="ui small images">     
 	<img class="ui image sponsor logo" id="Anoma Foundation" src="images/partners/Anoma.png">
@@ -17,12 +18,11 @@ Foundation to advance the science and technology of blockchains. <br>
 	<img class="ui image sponsor logo" id="Zero Gravity Labs" src="images/partners/0G.png">
     </div>
 </div>
+--->
 
-<!---
 <div class="ui piled segment">
   <img class="ui centered image" src="../images/partners/Partners.jpg" alt="" width="750" />
 </div>
---->
 
 # Contact
 
