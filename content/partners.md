@@ -21,7 +21,7 @@ Foundation to advance the science and technology of blockchains. <br>
 --->
 
 <div class="ui piled segment">
-  <img class="ui centered image" src="../images/partners/Partners.jpg" alt="" width="750" />
+  <img class="ui centered image" src="../images/partners/partners.jpg" alt="" width="750" />
 </div>
 
 # Contact
