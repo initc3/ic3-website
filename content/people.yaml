@@ -288,6 +288,14 @@ postdocs:
 
 students:
   -
+    name: 'Aadityan Ganesh'
+    pic: Aadityan.png
+    title:
+    email: gaatidyan@gmail.com
+    weburl:
+    bio: "I am a PhD student in computer science at Princeton University, advised by Prof. Matt Weinberg. My research focuses on mechanism design and algorithmic game theory, with applications in blockchain, including transaction fee mechanism design and the economic impact of decentralization.\n"
+    
+  -
     name: 'Yunhao Wang'
     pic: YunhaoW.jpeg
     title:
