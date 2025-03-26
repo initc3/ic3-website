@@ -1,7 +1,7 @@
 directors:
   -
     name: 'Ari Juels'
-    pic: ari.png
+    pic: Ari.png
     title: 'IC3 Co-Director'
     email: juels@cornell.edu
     weburl: 'http://www.arijuels.com'
@@ -10,7 +10,7 @@ directors:
 associate_directors:
   -
     name: 'Ittay Eyal'
-    pic: ittay.jpg
+    pic: Ittay.jpg
     title: 'IC3 Associate Director'
     email: ittay@technion.ac.il
     weburl: 'http://webee.technion.ac.il/people/ittay/'
@@ -18,7 +18,7 @@ associate_directors:
   
   -
     name: 'Andrew Miller'
-    pic: miller.jpg
+    pic: Andrew.jpg
     title: 'IC3 Associate Director'
     email: soc1024@illinois.edu
     weburl: 'http://cs.umd.edu/~amiller'
@@ -26,7 +26,7 @@ associate_directors:
 
   -
     name: 'Giulia Fanti'
-    pic: giulia.jpeg
+    pic: Giulia.jpeg
     title: 'IC3 Associate Director'
     email: gfanti@andrew.cmu.edu
     weburl: 'https://www.andrew.cmu.edu/user/gfanti/'
@@ -35,7 +35,7 @@ associate_directors:
 staff:
   -
     name: 'Jim Ballingall'
-    pic: jim.png
+    pic: Jim.png
     title: 'IC3 Executive Director'
     email: jim.ballingall@gmail.com
     weburl:
@@ -43,7 +43,7 @@ staff:
 
   -
     name: 'Sarah Allen'
-    pic: sarah-allen.jpg
+    pic: Sarah.jpg
     title: 'IC3 Research Program Manager'
     email: sarahallen@cornell.edu
     weburl:
@@ -51,7 +51,7 @@ staff:
 
   -
     name: 'Oana Gherman'
-    pic: oana.jpg
+    pic: Oana.jpg
     title: 'IC3 Sr. Administrative Assistant'
     email: og64@cornell.edu 
     weburl:
@@ -76,7 +76,7 @@ staff:
 chiefscientist:
   - 
     name: 'Elaine Shi'
-    pic: elaine2.jpg
+    pic: Elaine.jpg
     title: 'IC3 Chief Scientist'
     email: runting@gmail.com
     weburl: 'http://elaineshi.com'
@@ -101,7 +101,7 @@ faculty:
   
   -
     name: 'Sarah Meiklejohn'
-    pic: smeiklejohn.jpg
+    pic: SarahM.jpg
     title:
     email: s.meiklejohn@ucl.ac.uk
     weburl: 'http://www0.cs.ucl.ac.uk/staff/S.Meiklejohn/'
@@ -109,7 +109,7 @@ faculty:
 
   -
     name: 'Lorenzo Alvisi'
-    pic: Lorenzo1.jpg
+    pic: Lorenzo.jpg
     title:
     email: lorenzo@cs.cornell.edu
     weburl: 'http://www.cs.cornell.edu/lorenzo/'
@@ -125,7 +125,7 @@ faculty:
     
   -
     name: 'James Grimmelmann'
-    pic: james.jpg
+    pic: James.jpg
     title:
     email: james.grimmelmann@cornell.edu
     weburl: 'http://james.grimmelmann.net/'
@@ -141,7 +141,7 @@ faculty:
     
   -
     name: 'Andrew Myers'
-    pic: myers.jpg
+    pic: AndrewM.jpg
     title:
     email: andru@cs.cornell.edu
     weburl: 'http://www.cs.cornell.edu/andru/'
@@ -149,7 +149,7 @@ faculty:
   
   -
     name: 'Rafael Pass'
-    pic: rafael.jpg
+    pic: Rafael.jpg
     title:
     email: pass@cs.cornell.edu
     weburl: 'http://www.cs.cornell.edu/~rafael'
@@ -157,7 +157,7 @@ faculty:
   
   -
     name: 'Robbert van Renesse'
-    pic: rvr.jpg
+    pic: RVR.jpg
     title:
     email: rvr@cs.cornell.edu
     weburl: 'http://www.cs.cornell.edu/home/rvr'
@@ -165,7 +165,7 @@ faculty:
   
   -
     name: 'Srdjan Capkun'
-    pic: scapkun.jpg
+    pic: Srdjan.jpg
     title:
     email: srdjan.capkun@inf.ethz.ch
     weburl: 'https://syssec.ethz.ch/people/capkun.html?msclkid=d0ece2d7d0a311ec87f1e5e30ac45cc2'
@@ -173,7 +173,7 @@ faculty:
   
   -
     name: 'Bryan Ford'
-    pic: bford.jpg
+    pic: Bryan.jpg
     title:
     email: bryan.ford@epfl.ch
     weburl: 'https://bford.info/?msclkid=5e274dc0d0a311ec8d8ef2687437bd14'
@@ -181,7 +181,7 @@ faculty:
   
   -
     name: 'Dawn Song'
-    pic: dawn.jpg
+    pic: Dawn.jpg
     title:
     email:
     weburl: 'http://www.cs.berkeley.edu/~dawnsong/'
@@ -205,7 +205,7 @@ faculty:
     
   -
     name: 'Eswar Prasad'
-    pic: eswar.jpg
+    pic: Eswar.jpg
     title:
     email: eswar.prasad@cornell.edu
     weburl: 'http://prasad.dyson.cornell.edu/'
@@ -223,7 +223,7 @@ executive:
 seniorfellows:
   -
     name: 'Maureen O''Hara'
-    pic: mohara.jpg
+    pic: Maureen.jpg
     title:
     email: maureen.ohara@cornell.edu
     weburl:
@@ -231,7 +231,7 @@ seniorfellows:
   
   -
     name: 'Roni Michaely'
-    pic: roni.jpg
+    pic: Roni.jpg
     title:
     email: ronim@hku.hk
     weburl: 'https://www.fbe.hku.hk/people/roni-michaely/'
@@ -256,7 +256,7 @@ postdocs:
     
   -
     name: 'Yujin (Kwon) Potter'
-    pic: yujin.jpg
+    pic: Yujin.jpg
     title:
     email: yujinyujin9393@gmail.com
     weburl:
@@ -360,7 +360,7 @@ students:
     bio: "Yu Wang is a PhD student in the Economics department at Cornell University and an affiliate of the DEFT Lab. He studies macroeconomics and finance, with a focus on firm investment behavior and the non-fungible token market.\n"
     
   -
-    name: Artem Streltsov
+    name: 'Artem Streltsov'
     pic: Artem.jpg
     title:
     email: as3923@cornell.edu
@@ -368,7 +368,7 @@ students:
     bio: "Artem is a Finance PhD student with a minor in Computer Science at the Johnson Graduate School of Management, Cornell University and member of the DEFT Lab at Cornell University under the supervision of Prof. Will Cong. Before coming to Cornell, he studied economics and mathematics at Duke University. Artem’s research focuses on FinTech and applications of machine learning in finance and economics.\n"
     
   -
-    name: Qihong Ruan
+    name: 'Qihong Ruan'
     pic: Qihong.jpeg
     title:
     email: qr33@cornell.edu
@@ -529,7 +529,7 @@ students:
     
   - 
     name: 'Mahimna Kelkar'
-    pic: mahimna.jpg
+    pic: Mahimna.jpg
     title:
     email: mahimna@cs.cornell.edu
     weburl: 'https://www.cs.cornell.edu/~mahimna/'
@@ -561,7 +561,7 @@ students:
     
   -
     name: 'Simone Colombo'
-    pic: Raptor.jpg
+    pic: Raptor1.jpg
     title:
     email: simone.colombo@epfl.ch
     weburl:
@@ -577,7 +577,7 @@ students:
       
   -
     name: 'Michael Mirkin'
-    pic: mirkin.jpg
+    pic: MichaelM.jpg
     title:
     email: smirkin@campus.technion.ac.il
     weburl:
@@ -585,7 +585,7 @@ students:
 
   -
     name: 'Nikhil Vanjani'
-    pic: Nikhil Vanjani.png
+    pic: Nikhil.png
     title:
     email: nikhilvanjani61@gmail.com
     weburl: 'https://nikhilvanjani.github.io/'
@@ -593,7 +593,7 @@ students:
   
   -
     name: 'Roi Bar-Zur'
-    pic: roi.jpg
+    pic: Roi.jpg
     title:
     email: roi.bar-zur@cs.technion.ac.il
     weburl:
@@ -601,7 +601,7 @@ students:
   
   -
     name: 'Youer Pu'
-    pic: youerpu.jpg
+    pic: Youer.jpg
     title:
     email: yp348@cornell.edu
     weburl:
@@ -609,7 +609,7 @@ students:
  
   -
     name: 'Friederike Groschupp'
-    pic: Groschupp.jpg
+    pic: Friederike.jpg
     title:
     email: friederike@groschupp.eu
     weburl:
@@ -617,7 +617,7 @@ students:
 
   -
     name: 'Jun-You Liu'
-    pic: jun-you.jpg
+    pic: Jun-You.jpg
     title:
     email: jl3956@cornell.edu
     weburl:
@@ -625,7 +625,7 @@ students:
 
   -
     name: 'Harjasleen Malvai'
-    pic: jasleen.jpg
+    pic: Jasleen.jpg
     title:
     email: harjasleenmalvai@gmail.com
     weburl: "https://jasleenmalvai.com/"
@@ -633,7 +633,7 @@ students:
 
   -
     name: 'Amit Agarwal'
-    pic: amit.jpg
+    pic: Amit.jpg
     title:
     email: amita2@illinois.edu
     weburl: "https://amitagarwal.gitbook.io/profile/"
@@ -641,7 +641,7 @@ students:
 
   - 
     name: 'Florian Suri-Payer'
-    pic: florian.JPG
+    pic: Florian.JPG
     title:
     email: fsp@cs.cornell.edu
     weburl: "https://www.cs.cornell.edu/~fsp/"
@@ -649,7 +649,7 @@ students:
 
   -
     name: 'Vivek Nair'
-    pic: vivek.jpg
+    pic: Vivek.jpg
     title:
     email: vcn@berkeley.edu
     weburl: "https://nair.me"
@@ -657,7 +657,7 @@ students:
 
   -
     name: 'Nerla Jean-Louis'
-    pic: nerla.jpg
+    pic: Nerla.jpg
     title:
     email: nerlaj2@illinois.edu
     weburl: "https://www.ner.la"
@@ -665,7 +665,7 @@ students:
 
   -
     name: 'Haoqian Zhang'
-    pic: haoqian.png
+    pic: Haoqian.png
     title:
     email: haoqian.zhang@epfl.ch
     weburl: 
@@ -673,7 +673,7 @@ students:
 
   -
     name: 'Yanyi Liu'
-    pic: yanyi.jpg
+    pic: Yanyi.jpg
     title:
     email: yl2866@cornell.edu
     weburl:
@@ -681,7 +681,7 @@ students:
     
   -
     name: 'Mingxun Zhou'
-    pic: mingxun.jpg
+    pic: Mingxun.jpg
     title:
     email: mingxunz@andrew.cmu.edu
     weburl: "https://cs.cmu.edu/~mingxunz"
@@ -689,7 +689,7 @@ students:
 
   - 
     name: 'Hao Chung' 
-    pic: hao.png
+    pic: Hao.png
     title:
     email: haochung@andrew.cmu.edu
     weburl: "https://chunghao.github.io/"
@@ -714,7 +714,7 @@ visitors:
     
   -
     name: 'Steven Goldfeder'
-    pic: stevengoldfeder.jpg
+    pic: Steven.jpg
     title:
     email: goldfeder@cornell.edu
     weburl: 'http://stevengoldfeder.com'
@@ -739,7 +739,7 @@ visitors:
 scientists:
   -
     name: 'Dr. Kari Kostiainen'
-    pic: kari.jpg
+    pic: Kari.jpg
     title:
     email: kari.kostiainen@inf.ethz.ch
     weburl: 'https://syssec.ethz.ch/people/kkari.html'
@@ -747,7 +747,7 @@ scientists:
 
   -
     name: 'Dr. Vero Estrada-Galinanes'
-    pic: vero.jpg
+    pic: Vero.jpg
     title:
     email: 
     weburl: 'https://ch.linkedin.com/in/veronicaestrada'
@@ -764,7 +764,7 @@ advisors:
 
   -
     name: 'Lorenz Breidenbach'
-    pic: lorenz.jpg
+    pic: Lorenz.jpg
     title:
     email:
     weburl: 'http://github.com/lorenzb'
@@ -772,7 +772,7 @@ advisors:
 
   -
     name: 'Surya Bakshi'
-    pic: bakshi.png
+    pic: Surya.png
     title:
     email: sbakshi3@illinois.edu
     weburl:
@@ -780,7 +780,7 @@ advisors:
     
   -
     name: 'Haaroon Yousaf'
-    pic: haaroon.jpg
+    pic: Haaroon.jpg
     title:
     email: h.yousaf@ucl.ac.uk
     weburl: 'http://www.haaroonyousaf.com/'
@@ -788,7 +788,7 @@ advisors:
 
   -
     name: 'Patrick McCorry'
-    pic: paddy.jpg
+    pic: Paddy.jpg
     title:
     email: stonecoldpat@gmail.com
     weburl: 'http://stonecoldpat.github.io'
@@ -797,7 +797,7 @@ advisors:
 fellows:
   -
     name: 'Ian Miers'
-    pic: ian.png
+    pic: Ian.png
     title:
     email: imiers@umd.edu
     weburl: 'https://www.cs.umd.edu/~imiers/'
@@ -805,7 +805,7 @@ fellows:
   
   -
     name: 'Ahmed Kosba'
-    pic: ahmed.png
+    pic: Ahmed.png
     title:
     email:
     weburl: 'http://akosba.github.io'
@@ -813,7 +813,7 @@ fellows:
   
   -
     name: 'Ekaterina Volkova'
-    pic: ekaterina.jpg
+    pic: Ekaterina.jpg
     title:
     email: ekaterina.volkova@unimelb.edu.au
     weburl: 'https://sites.google.com/view/evolkova'
@@ -821,7 +821,7 @@ fellows:
     
   -
     name: 'Charles Chao Kang'
-    pic: kang.jpg
+    pic: Charles.jpg
     title:
     email: chaokang123@gmail.com
     weburl:
@@ -829,7 +829,7 @@ fellows:
 
   - 
     name: 'Ni Trieu'
-    pic: NiTrieu.jpg
+    pic: Ni.jpg
     title:
     email: nitrieu@asu.edu
     weburl: 'https://nitrieu.github.io/'
@@ -837,7 +837,7 @@ fellows:
 
   -
     name: 'Ethan Cecchetti'
-    pic: ethan.png
+    pic: Ethan.png
     title:
     email:
     weburl: 'https://cecchetti.sites.cs.wisc.edu/'
@@ -845,7 +845,7 @@ fellows:
   
   -
     name: 'Philipp Jovanovic'
-    pic: philipp-jovanovic.jpg
+    pic: PhilippJ.jpg
     title:
     email: p.jovanovic@ucl.ac.uk
     weburl:
@@ -853,7 +853,7 @@ fellows:
 
   -
     name: 'Jiaheng Zhang'
-    pic: jiaheng.jpg
+    pic: Jiaheng.jpg
     title:
     email: jiaheng_zhang@berkeley.edu
     weburl:
@@ -869,7 +869,7 @@ fellows:
 
   -
     name: 'Naomi (Ephraim) Sirkin'
-    pic: naomi.png
+    pic: Naomi.png
     title:
     email: nephraim@cs.cornell.edu
     weburl:
@@ -886,7 +886,7 @@ fellows:
 alumni_faculty:
   -
     name: 'Emin Gün Sirer'
-    pic: gun.jpg
+    pic: Gun.jpg
     title: 'Former IC3 Co-Director'
     email: el33th4x0r@gmail.com
     weburl: 'http://www.cs.cornell.edu/people/egs/'
@@ -895,7 +895,7 @@ alumni_faculty:
 alumni_researchers:
   -
     name: 'Linus Gasser'
-    pic: lgasser.jpg
+    pic: Linus.jpg
     title:
     email: linus.gasser@epfl.ch
     weburl:
@@ -904,7 +904,7 @@ alumni_researchers:
 alumni_postdocs:
   -
     name: 'Kasra Edalatnejad'
-    pic: kedalat.jpg
+    pic: Kasra.jpg
     title:
     email: kasra.edalat@epfl.ch
     weburl: 'https://kasra.edalat.dev/'
@@ -912,7 +912,7 @@ alumni_postdocs:
 
   -
     name: 'Iddo Bentov'
-    pic: iddobentov.jpg
+    pic: Iddo.jpg
     title:
     email:
     weburl:
@@ -920,7 +920,7 @@ alumni_postdocs:
 
   -
     name: 'Joshua Gancher'
-    pic: josh.png
+    pic: Joshua.png
     title:
     email: jgancher@andrew.cmu.edu
     weburl: 'https://gancher.dev/'
@@ -928,7 +928,7 @@ alumni_postdocs:
    
   -
     name: 'Kai Mast'
-    pic: kai.png
+    pic: Kai.png
     title:
     email: kaimast@cs.wisc.edu
     weburl: 'http://kai-mast.de/'
@@ -936,7 +936,7 @@ alumni_postdocs:
  
   -
     name: 'Kirill Nikitin'
-    pic: knikitin.jpg
+    pic: Kirill.jpg
     title:
     email: kirill@cornell.edu
     weburl: 'https://nikirill.com/'
@@ -944,7 +944,7 @@ alumni_postdocs:
   
   -
     name: 'Isaac Sheff'
-    pic: isaac.jpg
+    pic: Isaac.jpg
     title:
     email: isaac@heliax.dev
     weburl: 'https://isaacsheff.com'
@@ -952,7 +952,7 @@ alumni_postdocs:
 
   -
     name: 'Sandra Siby'
-    pic: ssiby.jpg
+    pic: Sandra.jpg
     title:
     email: sandra.siby@epfl.ch
     weburl:
@@ -960,7 +960,7 @@ alumni_postdocs:
   
   -
     name: 'Cody Freitag'
-    pic: cfreitag.jpg
+    pic: Cody.jpg
     title:
     email: crf87@cornell.edu
     weburl: 'http://www.cs.cornell.edu/~cfreitag/'
@@ -977,7 +977,7 @@ alumni_postdocs:
 alumni_students:
   -
     name: 'Enis Ceyhun Alp'
-    pic: eceyhun.jpg
+    pic: Ceyhun.jpg
     title:
     email: enis.alp@epfl.ch
     weburl:
@@ -985,7 +985,7 @@ alumni_students:
     
   -
     name: 'Soumya Basu'
-    pic: soumya.jpg
+    pic: Soumya.jpg
     title:
     email: soumya@cs.cornell.edu
     weburl: 'http://www.soumyabasu.com'
@@ -993,7 +993,7 @@ alumni_students:
 
   -
     name: 'Yue Guo'
-    pic: yguo.jpg
+    pic: Yue.jpg
     title:
     email:
     weburl:
@@ -1001,7 +1001,7 @@ alumni_students:
       
   -
     name: 'Burcu Canakci'
-    pic: raptor2.jpg
+    pic: Raptor2.jpg
     title: 
     email: bc633@cornell.edu
     weburl:
@@ -1009,7 +1009,7 @@ alumni_students:
   
   -
     name: 'Lun Wang'
-    pic: lunwang.png
+    pic: Lun.png
     title:
     email: wanglun@berkeley.edu
     weburl: 
@@ -1017,7 +1017,7 @@ alumni_students:
 
   -
     name: 'Karl W&uuml;st'
-    pic: kwuest.jpg
+    pic: Karl.jpg
     title:
     email: wuest@cispa.de
     weburl: 'https://cispa.de/de/people/c01kawu'
@@ -1025,7 +1025,7 @@ alumni_students:
 
   -
     name: 'Itay Tsabary'
-    pic: itay.jpg
+    pic: Itay.jpg
     title:
     email:
     weburl:
@@ -1033,7 +1033,7 @@ alumni_students:
   
   -
     name: 'Shehar Bano'
-    pic: sbano.jpg
+    pic: Shehar.jpg
     title:
     email: bano@fb.com
     weburl:
@@ -1041,7 +1041,7 @@ alumni_students:
 
   -
     name: 'Alex Manuskin'
-    pic: manuskin.jpg
+    pic: AlexM.jpg
     title:
     email: alex@manuskin.org
     weburl: 'https://github.com/amanusk'
@@ -1049,7 +1049,7 @@ alumni_students:
 
   -
     name: 'Sarah Azouvi'
-    pic: sazouvi.jpg
+    pic: SarahA.jpg
     title:
     email: sarah.azouvi@protocol.ai
     weburl: 'http://www0.cs.ucl.ac.uk/staff/S.Azouvi/'
@@ -1057,7 +1057,7 @@ alumni_students:
   
   -
     name: 'Oded Naor'
-    pic: oded.jpg
+    pic: Oded.jpg
     title:
     email: odednaor@gmail.com
     weburl: 
@@ -1065,7 +1065,7 @@ alumni_students:
  
   -
     name: 'Sergi Delgado Segura'
-    pic: sdelgado.jpg
+    pic: Sergi.jpg
     title:
     email: mail@srgi.me
     weburl: 'http://srgi.me'
@@ -1073,7 +1073,7 @@ alumni_students:
   
   -
     name: 'Ayush Dubey'
-    pic: ayush.jpg
+    pic: Ayush.jpg
     title:
     email: ayush@ayushdubey.com
     weburl: 'http://ayushdubey.com/'
@@ -1081,7 +1081,7 @@ alumni_students:
   
   -
     name: 'Sinisa Matetic'
-    pic: smatetic.png
+    pic: Sinisa.png
     title:
     email: sinisa.matetic@inf.ethz.ch
     weburl: 
@@ -1089,7 +1089,7 @@ alumni_students:
   
   -
     name: 'Amani Moin'
-    pic: amoin.jpg
+    pic: Amani.jpg
     title:
     email: aum4@cornell.edu
     weburl: 'https://amanium.github.io/'
@@ -1097,7 +1097,7 @@ alumni_students:
 
   -
     name: 'Adem Efe Gencer'
-    pic: efe.jpg
+    pic: Efe.jpg
     title:
     email: agencer@linkedin.com
     weburl: 'http://www.cs.cornell.edu/~gencer/'
@@ -1105,7 +1105,7 @@ alumni_students:
 
   -
     name: 'Mustafa Al-Bassam'
-    pic: mabassam.jpg
+    pic: Mustafa.jpg
     title:
     email: mustafa.al-bassam.16@ucl.ac.uk
     weburl: 'http://www0.cs.ucl.ac.uk/staff/M.AlBassam/'
@@ -1113,7 +1113,7 @@ alumni_students:
 
   -
     name: 'Yael Doweck'
-    pic: doweck.jpg
+    pic: Yael.jpg
     title:
     email:
     weburl:
@@ -1121,7 +1121,7 @@ alumni_students:
 
   -
     name: 'Kevin Sekniqi'
-    pic: kevinsekniqi.jpg
+    pic: Kevin.jpg
     title:
     email: kevin@sekniqi.com
     weburl: 'https://sekniqi.com/'
@@ -1129,7 +1129,7 @@ alumni_students:
 
   -
     name: 'Sishan Long'
-    pic: longsishan.jpg
+    pic: Sishan.jpg
     title:
     email: sl3275@cornell.edu
     weburl:
@@ -1137,7 +1137,7 @@ alumni_students:
     
   -
     name: 'Maofan (Ted) Yin'
-    pic: tedyin.jpg
+    pic: Ted.jpg
     title:
     email: tederminant@gmail.com
     weburl: 'https://www.cs.cornell.edu/~tedyin/'
@@ -1145,7 +1145,7 @@ alumni_students:
   
   - 
     name: 'George Kappos'
-    pic: kappos.jpg
+    pic: George.jpg
     title:
     email: g.kappos@ucl.ac.uk
     weburl: "https://georgekap.github.io/"
@@ -1153,7 +1153,7 @@ alumni_students:
 
   -
     name: 'Nicolas Gailly'
-    pic: ngailly.jpg
+    pic: Nicolas.jpg
     title:
     email: nicolas.gailly@epfl.ch
     weburl:
@@ -1161,7 +1161,7 @@ alumni_students:
   
   -
     name: 'Philip Daian'
-    pic: phil.jpg
+    pic: Phil.jpg
     title:
     email:
     weburl: 'https://pdaian.com/'
@@ -1169,7 +1169,7 @@ alumni_students:
 
   -
     name: 'Krishna Deepak Maram'
-    pic: deepak.jpg
+    pic: Deepak.jpg
     title:
     email: sm2686@cornell.edu
     weburl: 'https://sites.google.com/view/deepak-maram/home'
@@ -1177,7 +1177,7 @@ alumni_students:
     
   -
     name: 'Tom Yurek'
-    pic: tyurek.jpg
+    pic: Tom.jpg
     title:
     email: yurek2@illinois.edu
     weburl:
@@ -1185,7 +1185,7 @@ alumni_students:
   
   -
     name: 'Matan Yechieli'
-    pic: raptor3.jpg
+    pic: Raptor3.jpg
     title:
     email: matany@campus.technion.ac.il
     weburl:
@@ -1193,7 +1193,7 @@ alumni_students:
 
   - 
     name: 'Cristina Basescu'
-    pic: raptor2.jpg
+    pic: Raptor2.jpg
     title:
     email: cristina.basescu@epfl.ch
     weburl:
@@ -1201,7 +1201,7 @@ alumni_students:
 
   -
     name: 'Ariah Klages-Mundt'
-    pic: ariah.png
+    pic: Ariah.png
     title:
     email: aak228@cornell.edu
     weburl:
@@ -1209,7 +1209,7 @@ alumni_students:
 
   - 
     name: 'Bineet Mishra'
-    pic: bineet.jpg
+    pic: Bineet.jpg
     title:
     email: bm596@cornell.edu
     weburl: 'https://economics.cornell.edu/bineet-mishra'
@@ -1217,7 +1217,7 @@ alumni_students:
 
   -
     name: 'Gengmo Qi'
-    pic: gengmo.png
+    pic: Gengmo.png
     title:
     email: gq35@cornell.edu
     weburl: "https://gengmoqi.github.io/"
@@ -1225,7 +1225,7 @@ alumni_students:
  
   -
     name: 'Raymond Cheng'
-    pic: rcheng.jpg
+    pic: Raymond.jpg
     title:
     email: me@raymondcheng.net
     weburl: 'https://raymondcheng.net/about/'
@@ -1257,7 +1257,7 @@ alumni_students:
 
   -
     name: 'Matthew Burke'
-    pic: MattBurke.jpg
+    pic: MattB.jpg
     title:
     email: mlb452@cornell.edu
     weburl: "https://www.cs.cornell.edu/~matthelb/"
@@ -1265,7 +1265,7 @@ alumni_students:
 
   -
     name: 'Yan Ji'
-    pic: yanji.jpg
+    pic: Yan.jpg
     title:
     email:
     weburl:
@@ -1273,7 +1273,7 @@ alumni_students:
 
   -
     name: 'Yunhao Zhang'
-    pic: yunhao.jpeg
+    pic: Yunhao.jpeg
     title:
     email: yz2327@cornell.edu
     weburl: "https://dolobyte.net/"
@@ -1281,7 +1281,7 @@ alumni_students:
 
   -
     name: 'Kushal Babel'
-    pic: kushal-babel.png
+    pic: Kushal.png
     title:
     email: kb742@cornell.edu
     weburl: "http://cs.cornell.edu/~babel/"
@@ -1289,7 +1289,7 @@ alumni_students:
 
   -
     name: 'Siqiu Yao'
-    pic: siqiu.png
+    pic: Siqiu.png
     title:
     email: sy657@cornell.edu
     weburl: "https://www.cs.cornell.edu/~yaosiqiu/"
@@ -1297,7 +1297,7 @@ alumni_students:
 
   -
     name: 'Charlie Hou'
-    pic: charlie-hou.jpg
+    pic: Charlie.jpg
     title:
     email: charlieh@andrew.cmu.edu
     weburl:
@@ -1313,7 +1313,7 @@ alumni_students:
 
   -
     name: 'Bolton Bailey'
-    pic: boltonbailey.jpg
+    pic: Bolton.jpg
     title:
     email: boltonb2@illinois. edu
     weburl: "https://boltonb2.web.engr.illinois.edu/"
@@ -1321,7 +1321,7 @@ alumni_students:
 
   -
     name: 'Yunqi Li'
-    pic: yunqi-li.jpg
+    pic: Yunqi.jpg
     title:
     email: yungil3@illinois.edu
     weburl:
