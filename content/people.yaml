@@ -288,6 +288,14 @@ postdocs:
 
 students:
   -
+    name: 'Kaya Ito Alpturer'
+    pic: Kaya.jpeg
+    title:
+    email: kalpturer@princeton.edu
+    weburl:
+    bio: "I'm a PhD student at Princeton University advised by Prof. Matt Weinberg. My research interests are blockchains, algorithmic game theory, and consensus.\n"
+    
+  -
     name: 'Aadityan Ganesh'
     pic: Aadityan.jpg
     title:
