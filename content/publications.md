@@ -2,6 +2,7 @@
 
 ## 2025 ##
 
+- W. Tang, R. El-Azouzi, C.H. Lee, E. Chan, and G. Fanti. [Game Theoretic Liquidity Provisioning in Concentrated Liquidity Market Makers](https://dl.acm.org/doi/abs/10.1145/3711700). SIGMETRICS, 2025. (to appear)
 - M. Rosenberg, M. Shih, Z. Zhao, R. Wang, I. Miers, and F. Zhang. [ZIPNet: Low-bandwidth anonymous broadcast from (dis)Trusted Execution Environments](https://petsymposium.org/popets/2025/popets-2025-0058.php). PoPETS, 2025 (to appear)
 - J. Ernstberger, C. Zhang, L. Ciprian, P. Jovanovic, and S. Steinhorst. [Zero-Knowledge Location Privacy via Accurate Floating-Point SNARKs](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a057/21B7R3HsGK4). IEEE S&P, 2025. (to appear)
 - B. Arun, Z. Li, F. Suri-Payer, S. Das, and A. Spiegelman. [Bolt: High Throughput DAG BFT Can Be Fast and Robust!](https://arxiv.org/abs/2405.20488). NSDI, 2025. (to appear)
@@ -10,7 +11,7 @@
 - Q. Kniep, L. Kokoris-Kogias, A. Sonnino, I. Zablotchi, and N. Zhang. [Pilotfish: Distributed Execution for Scalable Blockchains](https://arxiv.org/abs/2401.16292). FC, 2025. (to appear)
 - R. Neiheiser and E. Kokoris-Kogias. [Anthemius: Efficient & Modular Block Assembly for Concurrent Execution](https://arxiv.org/abs/2502.10074). FC, 2025. (to appear)
 - B. Riva, A. Sonnino, and L. Kokoris-Kogias. [Seahorse: Efficiently Mixing Encrypted and Normal Transactions](https://sonnino.com/papers/seahorse.pdf). FC, 2025. (to appear)
-- F. Baldimtsi, K.K. Chalkias, Y. Ji, J. Lindstrom, D. Maram, B. Riva, A. Roy, M. Sedaghat, and J. Wang. [zkLogin: Privacy-Preserving Blockchain Authentication with Existing Credentials](https://arxiv.org/abs/2401.11735). RWC, 2025. (to appear)
+- F. Baldimtsi, K.K. Chalkias, Y. Ji, J. Lindstrom, D. Maram, B. Riva, A. Roy, M. Sedaghat, and J. Wang. [zkLogin: Privacy-Preserving Blockchain Authentication with Existing Credentials](https://arxiv.org/abs/2401.11735). RWC, 2025.
 - W. Tang, R. El-Azouzi, C.H. Lee, E. Chen, and G. Fanti. [Game Theoretic Liquidity Provisioning in Concentrated Liquidity Market Makers](https://dl.acm.org/doi/abs/10.1145/3711700). PoMACS, 2025.
 
 ## 2024 ##
