@@ -6,9 +6,23 @@
 
 The <strong>IC3-Cornell Blockchain Accelerator</strong> is an initiative designed to transform bold ideas into real-world applications. In a space that moves quickly, we aim to bring “proof of research” and rigorous discipline to the next wave of companies in the space.
 
+## Meet the Inaugural Cohort
+
+1. ***<a href="https://www.spacecomputer.io/">SpaceComputer</a>*** is a satellite-based consensus system for secure computation. It builds on top of Cryptosat, providing TEE-like functionality with physically tamper-proof satellite nodes.
+
+2. ***<a href="https://www.sparsity.xyz/">Sparsity</a>*** is described as the first universal acceleration layer, enabling dApps from any blockchain run in real-time with unlimited throughput (no migration needed).
+
+3. ***<a href="https://www.bitgpt.xyz/">BitGPT</a>*** is an AI agent network built to onboard the next billion web3 users. The founders were also the driving force behind web3 startups <a href="https://decentraland.org/">Decentraland</a> and <a href="https://singularitynet.io/">SingularyNET</a>.
+
+4. ***<a href="https://agentball.ai/">AgentBall</a>*** is building infrastructure for an onchain economy of autonomous AI agents. The team was awarded the Most Innovative Use of CDP SDK from <a href="https://www.coinbase.com/developer-platform">CoinbaseDev</a> at <a href="https://ethglobal.com/">ETHGlobal</a> Bangkok. 
+
+5. ***<a href="https://prinx.io/">Prinx</a>*** is an exchange for tokenized pre-IPO shares. It buys shares from secondary markets, tokenizes the rights, and pools them <a href="https://app.uniswap.org/">Uniswap</a>.
+
+ <!---
 ## Program Eligibility 
 
 The <strong>IC3-Cornell Blockchain Accelerator</strong> is geared towards <strong>early-stage projects</strong> that are pre-product market fit. Teams should at minimum have a validated idea (through interviews and deep market research), or have significant progress in their academic research. At least one member with a technical background and an affiliation to IC3 or Cornell is required to be eligible and participate. 
+--->
 
 ## A Legacy of Innovation & Research
 
@@ -30,13 +44,12 @@ Participants in the IC3-Cornell Blockchain Accelerator will benefit from:
 
 <strong><a href="https://www.base.org/">Base</a></strong> - Check <a href="https://docs.google.com/document/d/1Jkb7X239thI7u-Ps8aB4581oRk9yfvEU_FUINGUvG0Y/edit?tab=t.0">here</a> for details on what the benefit package includes.
 
+<!---
 ## Be Part of the First Cohort
 
 Applications are now closed for the first cohort of the <strong>IC3-Cornell Blockchain Accelerator</strong>.
 
-<!---
 Applications are now open for the first cohort of the <strong>IC3-Cornell Blockchain Accelerator</strong>. Apply <strong><a href="https://docs.google.com/forms/d/1Rd791Gl6Iv_ZQ5Kg_aD2xAmyPw2C4exiAnOkRpbHEzE/edit">here</a></strong>. The deadline is <strong>January 15, 2025</strong>.
-
 --->
 
 ## Leadership
