@@ -995,8 +995,8 @@ alumni_postdocs:
     name: 'Ignacio Amores-Sesar'
     pic: Ignacio.jpg
     title:
-    email: 	amores-sesar@proton.me
-    weburl: '	https://iamores.github.io/'
+    email: amores-sesar@proton.me
+    weburl: 'https://iamores.github.io/'
     bio: "I consider myself to be a scholar with focus in interested in the overlap of cryptography and distributed systems. I am currently being hosted at Aarhus University by Jesper B. Nielsen. I first got interested in cryptography during my bachelor at the University of Oviedo, Spain. It was in Oviedo where I got started in research, in particular in experimental particle physics with the detector CMS. My interest in cryptography broadened during my master at the University of Copenhagen, Denmark. After that, I completed my PhD in distributed systems under the supervision of Christian Cachin at the University of Bern, Switzerland. During my PhD, I had the opportunity to to do an internship at Google Cambridge, USA, with abhi shelat.\n"
    
 alumni_students:
