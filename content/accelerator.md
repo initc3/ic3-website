@@ -14,9 +14,9 @@ The <strong>IC3-Cornell Blockchain Accelerator</strong> is an initiative designe
 
 3. ***<a href="https://www.bitgpt.xyz/">BitGPT</a>*** is an AI agent network built to onboard the next billion web3 users. The founders were also the driving force behind web3 startups <a href="https://decentraland.org/">Decentraland</a> and <a href="https://singularitynet.io/">SingularyNET</a>.
 
-4. ***<a href="https://agentball.ai/">AgentBall</a>*** is building infrastructure for an onchain economy of autonomous AI agents. The team was awarded the Most Innovative Use of CDP SDK from <a href="https://www.coinbase.com/developer-platform">CoinbaseDev</a> at <a href="https://ethglobal.com/">ETHGlobal</a> Bangkok. 
+4. ***<a href="https://agentball.ai/">AgentBall</a>*** is building infrastructure for an onchain economy of autonomous AI agents. The team was awarded the **"Most Innovative Use of CDP SDK"** from **<a href="https://www.coinbase.com/developer-platform">CoinbaseDev</a>** at ETHGlobal Bangkok. 
 
-5. ***<a href="https://prinx.io/">Prinx</a>*** is an exchange for tokenized pre-IPO shares. It buys shares from secondary markets, tokenizes the rights, and pools them <a href="https://app.uniswap.org/">Uniswap</a>.
+5. ***<a href="https://prinx.io/">Prinx</a>*** is an exchange for tokenized pre-IPO shares. It buys shares from secondary markets, tokenizes the rights, and pools them on <a href="https://app.uniswap.org/">Uniswap</a>.
 
  <!---
 ## Program Eligibility 
