@@ -282,11 +282,19 @@ postdocs:
     name: 'Kyle Soska'
     pic: Kyle.jpg
     title:
-    email: soska2@illinois.edu
+    email: 
     weburl:
     bio: "I am an early cryptocurrency enthusiast that got my start by studying Silk Road and the darknet marketplace ecosystem in late 2013 during my PhD at Carnegie Mellon University and since then have been working on applications and privacy of decentralized ledger technologies in a Postdoc at UIUC. More recently I have focused my attention on cryptocurrency finance, both centralized (BitMEX, Binance, etc.) and decentralized with particular interest on the economics and incentives of DeFi primitives such as staking, farming, play2earn, algo stablecoins and more.\n"
 
 students:
+  - 
+    name: 'Dor Malka'
+    pic: Dor.jpeg
+    title:
+    email: dm29@campus.technion.ac.il
+    weburl:
+    bio: "My name is Dor, and I'm a graduate student at the Technion, working with Professor Ittay Eyal. My interests include authentication, cryptography, and game theory.\n"
+
   -
     name: 'Kaya Ito Alpturer'
     pic: Kaya.jpeg
@@ -782,7 +790,7 @@ advisors:
     name: 'Surya Bakshi'
     pic: Surya.png
     title:
-    email: sbakshi3@illinois.edu
+    email: bakshitstack@gmail.com
     weburl:
     bio: "Surya completed his Ph.D. program at the University of Illinois Urbana-Champaign working with Andrew Miller in the Decentralized Systems Lab. Currently, he joined Offchain Labs.\n"
     
@@ -863,17 +871,9 @@ fellows:
     name: 'Jiaheng Zhang'
     pic: Jiaheng.jpg
     title:
-    email: jiaheng_zhang@berkeley.edu
+    email: zhangjh@comp.nus.edu.sg
     weburl:
     bio: "Jiaheng obtained his Ph.D. in Computer Science at UC Berkeley, where he was advised by prof. Dawn Song. He has joined the School of Computing at National University of Singapore (NUS) as an Assistant Professor in Fall 2023. He is broadly interested in computer security and cryptography, especially zero-knowledge proofs and applications on blockchain and machine learning models. Before coming to Berkeley, he received his B.Eng. degree in Computer Science from ACM Honors Class at Shanghai Jiao Tong University. He was also an intern at Cornell, advised by Prof. Elaine Shi."
-
-  -
-    name: 'Lefteris Kokoris-Kogias'
-    pic: Lefteris.jpg
-    title:
-    email: ekokoris@ist.ac.net
-    weburl: 'https://ist.ac.at/en/research/kokoris-group/'
-    bio: "Lefteris is an Assistant Professor at IST Austria, before that he worked on the design of the Diem blockchains as part of Novi Facebook and got his PhD for EPFL. He is interested in increasing the digital trust of online information and processes, especially those that impact the physical world. He focuses on scalability of blockchains, being the first to introduce quorum-based permissionless blockchains (Byzcoin) and permissionless sharding protocols (OmniLedger) as well as structured Mempools (Narwhal). His work is the first to break the 1,000, 10,000 and 100,000 transactions per second barriers. He is also interested in how to produce secure distributed randomness and setup private vaults that enable private data exchange over blockchains. For his work he has been awarded the IBM PhD Fellowship for 2018 and 2019, and the EPFL Thesis Distinction 2020."
 
   -
     name: 'Naomi (Ephraim) Sirkin'
@@ -887,9 +887,42 @@ fellows:
     name: 'Ke Wu'
     pic: Ke.jpg
     title:
-    email: kew2@andrew.cmu.edu
+    email: kewucse@umich.edu
     weburl: 'https://kewucs.com/'
     bio: "Ke Wu is an assistant professor in the Theory of Computation Lab of the EECS Department at the University of Michigan. She obtained her PhD at Carnegie Mellon University, advised by Elaine Shi. She is interested in the intersection of cryptography and game theory, as well as coding theory and related areas in theoretical computer science."
+
+  -
+    name: 'Joshua Gancher'
+    pic: Joshua.png
+    title:
+    email: j.gancher@northeastern.edu
+    weburl: 'https://gancher.dev/'
+    bio: "Joshua Gancher has joined Northeastern University as an Assistant Professor after completing his post-doc at Carnegie Mellon University. His research is about using techniques from formal methods and program verification to certify cryptographic implementations and proofs.\n"
+
+  -
+    name: 'Kai Mast'
+    pic: Kai.png
+    title:
+    email: kai.mast@sjsu.edu
+    weburl: 'https://kaimast.com/'
+    bio: "I am a Assistant Professor of Computer Science at San José State University. Before that I was a postdoc the University of Wisconsin in Madison working with with Andrea and Remzi Arpaci-Dusseau. I received my Ph.D. from Cornell University under the supervision of Gün Sirer. Even longer ago I was an undergraduate at University of Bamberg working with Udo Krieger.\n"
+
+  - 
+    name: 'Jovana (Mićić) Milojević'
+    pic: Jovana.jpg
+    title:
+    email: jovana.milojevic@hslu.ch
+    weburl:
+    bio: "I acquired a PhD in blockchain and consensus protocols, with a strong background in software engineering. My research journey started with a comprehensive security analysis of the Ripple consensus protocol and evolved into a deep dive into decentralized finance, with a specific focus on mitigating front-running attacks. The result of my dedicated work is the development and design of a new fairness protocol, complemented by a fully functional prototype implemented in the Go language.\n"  
+
+  -
+    name: 'Sandra Siby'
+    pic: Sandra.jpg
+    title:
+    email: sandra.siby@nyu.edu
+    weburl: 'https://sandrasiby.github.io/'
+    bio: "Sandra Siby is an Assistant Professor of Computer Engineering at New York University Abu Dhabi, where she leads the Haven Lab. Her research goal is to provide individuals with better control over their privacy and protection from digital threats. She wants to work towards a future where digital services are inherently designed with user privacy and security at the forefront. Her current areas of focus are security and privacy mechanisms for the web/IoT/other emerging technologies, and deployment of trusted and private machine learning on edge devices. Sandra obtained her Ph.D. (Computer Science) from EPFL, her M.S. (Electrical Engineering) from ETH Zurich, and her B.Eng (Electrical Engineering) from the National University of Singapore. Prior to NYUAD, she was a postdoctoral research associate at Imperial College London. She also spent a few years as a research engineer at the Singapore University of Technology and Design, and as a technology analyst at J.P. Morgan.\n"
+  
 
 alumni_faculty:
   -
@@ -914,7 +947,7 @@ alumni_postdocs:
     name: 'Kasra Edalatnejad'
     pic: Kasra.jpg
     title:
-    email: kasra.edalat@epfl.ch
+    email: kasra.edalat@gmail.com
     weburl: 'https://kasra.edalat.dev/'
     bio: "Kasra is a post-doctoral researcher at the ENCRYPTO lab where he is working alongside Prof. Dr. Thomas Schneider. He earned my Ph.D. in the SPRING lab at École Polytechnique Fédérale de Lausanne (EPFL), advised by Prof. Carmela Troncoso. His research interests span the areas of privacy and security.\n"
 
@@ -926,22 +959,6 @@ alumni_postdocs:
     weburl:
     bio: "Iddo Bentov is a postdoc at Cornell University, and author of a number of academic papers on cryptography and cryptocurrency. He has been involved in the Bitcoin space since mid-2011, and also works on succinct zero-knowledge proofs at SCIPR Lab.\n"
 
-  -
-    name: 'Joshua Gancher'
-    pic: Joshua.png
-    title:
-    email: jgancher@andrew.cmu.edu
-    weburl: 'https://gancher.dev/'
-    bio: "Joshua Gancher is a post-doc at Carnegie Mellon University. His research is about using techniques from formal methods and program verification to certify cryptographic implementations and proofs.\n"
-   
-  -
-    name: 'Kai Mast'
-    pic: Kai.png
-    title:
-    email: kaimast@cs.wisc.edu
-    weburl: 'http://kai-mast.de/'
-    bio: "Kai Mast is postdoctoral scholar in Computer Science at the University of Wisconsin in Madison. His research focuses on Byzantine fault-tolerant systems and databases.\n"
- 
   -
     name: 'Kirill Nikitin'
     pic: Kirill.jpg
@@ -959,14 +976,6 @@ alumni_postdocs:
     bio: "Isaac Sheff is a Computer Science Post-Doc at MPI-SWS. His research is primarily in distributed systems, with emphasis on security and heterogeneous trust.\n"
 
   -
-    name: 'Sandra Siby'
-    pic: Sandra.jpg
-    title:
-    email: sandra.siby@epfl.ch
-    weburl:
-    bio: "Sandra completed her Ph.D. at EPFL and has joined Imperial College London as a Postdoctoral Research Associate. She is interested in network security, web security, and privacy.\n"
-  
-  -
     name: 'Cody Freitag'
     pic: Cody.jpg
     title:
@@ -981,13 +990,21 @@ alumni_postdocs:
     email: haobin@cs.cornell.edu
     weburl: 'http://haobin.cx/'
     bio: "Haobin is a postdoctoral scholar at the University of Washington Programming Language and Software Engineering (PLSE) group, advised by Zachary Tatlock. At PLSE, I actively work on language design, program analysis, and compiler optimization, among other PL and system research directions. I’m also leading the PLSE PL Reading Group (PLRG) this year (2024-2025). He earned my Ph.D. degree in May 2024 from Cornell University, co-advised by Greg Morrisett and Robbert van Renesse. His research focuses on the formal verification of distributed systems. \n"
+
+  -
+    name: 'Ignacio Amores-Sesar'
+    pic: Ignacio.jpg
+    title:
+    email: 	amores-sesar@proton.me
+    weburl: '	https://iamores.github.io/'
+    bio: "I consider myself to be a scholar with focus in interested in the overlap of cryptography and distributed systems. I am currently being hosted at Aarhus University by Jesper B. Nielsen. I first got interested in cryptography during my bachelor at the University of Oviedo, Spain. It was in Oviedo where I got started in research, in particular in experimental particle physics with the detector CMS. My interest in cryptography broadened during my master at the University of Copenhagen, Denmark. After that, I completed my PhD in distributed systems under the supervision of Christian Cachin at the University of Bern, Switzerland. During my PhD, I had the opportunity to to do an internship at Google Cambridge, USA, with abhi shelat.\n"
    
 alumni_students:
   -
     name: 'Enis Ceyhun Alp'
     pic: Ceyhun.jpg
     title:
-    email: enis.alp@epfl.ch
+    email:
     weburl:
     bio: "Ceyhun completed his PhD program at the Swiss Federal Institute of Technology (EPFL) in Lausanne, Switzerland under the supervision of Prof. Bryan Ford. His research interests are in distributed systems, smart contracts, and security.\n"
     
@@ -1059,8 +1076,8 @@ alumni_students:
     name: 'Sarah Azouvi'
     pic: SarahA.jpg
     title:
-    email: sarah.azouvi@protocol.ai
-    weburl: 'http://www0.cs.ucl.ac.uk/staff/S.Azouvi/'
+    email: s.azouvi@gmail.com
+    weburl: 
     bio: "Sarah is a research scientist at Protocol Labs, working in ConsensusLabs. Her interests lie at the intersection of Applied Cryptography, Distributed Systems, and Game Theory. During her Ph.D., she mostly worked on descentralized consensus protocols but also looked at other aspects of descentralized systems such as their governance.\n"
   
   -
@@ -1115,8 +1132,8 @@ alumni_students:
     name: 'Mustafa Al-Bassam'
     pic: Mustafa.jpg
     title:
-    email: mustafa.al-bassam.16@ucl.ac.uk
-    weburl: 'http://www0.cs.ucl.ac.uk/staff/M.AlBassam/'
+    email: mustafa@lazyledger.io
+    weburl:
     bio: "Mustafa completed his Ph.D. at the Information Security Research Group of the Department of Computer Science at University College London. He is CEO of Celestia Labs and Co-founder of Chainspace (acquired by Facebook). His research interests include the intersections of peer-to-peer systems, distributed ledgers and information security.\n"
 
   -
@@ -1163,7 +1180,7 @@ alumni_students:
     name: 'Nicolas Gailly'
     pic: Nicolas.jpg
     title:
-    email: nicolas.gailly@epfl.ch
+    email: 
     weburl:
     bio: "Nicolas was a software engineer before enrolling as a doctoral student at EPFL working in the decentralized systems group DEDIS. Upon completion of his Ph.D. program he has joined Protocol Labs as a Research Engineer. His research interests are decentralized systems & applied cryptography.\n"
   
@@ -1187,7 +1204,7 @@ alumni_students:
     name: 'Tom Yurek'
     pic: Tom.jpg
     title:
-    email: yurek2@illinois.edu
+    email:
     weburl:
     bio: "Tom Yurek completed his Ph.D. at UIUC working with Andrew Miller. He is interested in Privacy and Applied Cryptography."
   
@@ -1203,7 +1220,7 @@ alumni_students:
     name: 'Cristina Basescu'
     pic: Raptor2.jpg
     title:
-    email: cristina.basescu@epfl.ch
+    email: 
     weburl:
     bio: "Cristina completed her Ph.D. at the Swiss Federal Institute of Technology (EPFL) in Lausanne, Switzerland, under the supervision of Prof. Bryan Ford. She enjoys designing and building fast, reliable systems. Her research interests include fault tolerance and scalability in distributed systems, network security, and consensus protocols."  
 
@@ -1246,22 +1263,6 @@ alumni_students:
     email: wjxtcsgx@hotmail.com
     weburl:
     bio: I earned my Ph.D. from the UC Berkeley security group, under the guidance of Dawn Song. My BEng in Computer Science was obtained from the ACM Class at Shanghai Jiao Tong University. My research primarily revolves around cryptography and algorithms.
-
-  - 
-    name: 'Jovana (Mićić) Milojević'
-    pic: Jovana.jpg
-    title:
-    email: jovana.micic@unibe.ch
-    weburl: 'https://crypto.unibe.ch/jm/'
-    bio: "Jovana completed her Ph.D. at the University of Bern, supervised by Professor Christian Cachin. Her research interests are consensus protocols and the security of distributed systems.\n"  
-
-  -
-    name: 'Ignacio Amores-Sesar'
-    pic: Ignacio.jpg
-    title:
-    email: ignacio.amores@unibe.ch
-    weburl: 'https://crypto.unibe.ch/ias/'
-    bio: "Ignacio completed his Ph.D. at the University of Bern under the supervision of Christian Cachin. His research interests lie in the study of different consensus mechanisms with a special interest in their security.\n"
 
   -
     name: 'Matthew Burke'
@@ -1307,7 +1308,7 @@ alumni_students:
     name: 'Charlie Hou'
     pic: Charlie.jpg
     title:
-    email: charlieh@andrew.cmu.edu
+    email: 
     weburl:
     bio: "Charlie completed his Ph.D. at CMU advised by Giulia Fanti. He is a research scientist at Meta interested in robustness of data-driven systems."
 
@@ -1334,3 +1335,12 @@ alumni_students:
     email: yungil3@illinois.edu
     weburl:
     bio: "Yunqi Li completed her PhD program at UIUC working with Andrew Miller. She is a Research Scientist at Meta interested in system security, P2P network, and blockchain technology."
+
+  -
+    name: 'Lefteris Kokoris-Kogias'
+    pic: Lefteris.jpg
+    title:
+    email: lefteris@mystenlabs.com
+    weburl:
+    bio: "I am a Research Scientist at Mysten Labs working on Blockchains, Applied Cryptography and Distributed Computing. Before that I was a Research Scientist at Facebook and an Assistant Professor at IST Austria. I received my Ph.D. in Computer Science from EPFL, and my MEng in Electrical and Computer Engineering from the National Technical University of Athens.\n"
+
