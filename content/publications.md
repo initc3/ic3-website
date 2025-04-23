@@ -5,7 +5,8 @@
 - W. Tang, R. El-Azouzi, C.H. Lee, E. Chan, and G. Fanti. [Game Theoretic Liquidity Provisioning in Concentrated Liquidity Market Makers](https://dl.acm.org/doi/abs/10.1145/3711700). SIGMETRICS, 2025. (to appear)
 - M. Rosenberg, M. Shih, Z. Zhao, R. Wang, I. Miers, and F. Zhang. [ZIPNet: Low-bandwidth anonymous broadcast from (dis)Trusted Execution Environments](https://petsymposium.org/popets/2025/popets-2025-0058.php). PoPETS, 2025 (to appear)
 - J. Ernstberger, C. Zhang, L. Ciprian, P. Jovanovic, and S. Steinhorst. [Zero-Knowledge Location Privacy via Accurate Floating-Point SNARKs](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a057/21B7R3HsGK4). IEEE S&P, 2025. (to appear)
-- B. Arun, Z. Li, F. Suri-Payer, S. Das, and A. Spiegelman. [Bolt: High Throughput DAG BFT Can Be Fast and Robust!](https://arxiv.org/abs/2405.20488). NSDI, 2025. (to appear)
+- B. Arun, Z. Li, F. Suri-Payer, S. Das, and A. Spiegelman. [Bolt: High Throughput DAG BFT Can Be Fast and Robust!](https://arxiv.org/abs/2405.20488). NSDI, 2025.
+- M. Senn and C. Cachin. [Asymmetric Failure Assumptions for Reliable Distributed Systems](https://dl.acm.org/doi/pdf/10.1145/3721473.3722143). PaPoC, 2025.
 - W. Wang, L. Zhou, A. Yaish, F. Zhang, B. Fisch, and B. Livshits. [Prooφ: A ZKP Market Mechanism](https://arxiv.org/abs/2404.06495). FC, 2025. 
 - H. Chung, E. Masserova, E. Shi, and S.A. Thyagarajan. [Rapidash: Foundations of Side-Contract-Resilient Fair Exchange](https://eprint.iacr.org/2022/1063.pdf). FC, 2025.
 - Q. Kniep, L. Kokoris-Kogias, A. Sonnino, I. Zablotchi, and N. Zhang. [Pilotfish: Distributed Execution for Scalable Blockchains](https://arxiv.org/abs/2401.16292). FC, 2025.
