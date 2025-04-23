@@ -584,14 +584,6 @@ students:
     bio: "Simone is a PhD student at Swiss Federal Institute of Technology in Lausanne (EPFL), Switzerland, under the supervision of Prof. Bryan Ford. His research focuses on cryptography, security and privacy.\n"
     
   -
-    name: 'Pasindu Tennage'
-    pic: Pasindu.jpg
-    title:
-    email: pasindu.tennage@epfl.ch
-    weburl:
-    bio: "Pasindu is a PhD student at Swiss Federal Institute of Technology in Lausanne (EPFL), Switzerland, under the supervision of Prof. Bryan Ford. Pasindu enjoys designing and building new distributed algorithms and performance tuning. Pasindu's research interests include consensus algorithms, resilient systems and performance optimization.\n"
-      
-  -
     name: 'Michael Mirkin'
     pic: MichaelM.jpg
     title:
@@ -1344,3 +1336,11 @@ alumni_students:
     weburl:
     bio: "I am a Research Scientist at Mysten Labs working on Blockchains, Applied Cryptography and Distributed Computing. Before that I was a Research Scientist at Facebook and an Assistant Professor at IST Austria. I received my Ph.D. in Computer Science from EPFL, and my MEng in Electrical and Computer Engineering from the National Technical University of Athens.\n"
 
+  -
+    name: 'Pasindu Tennage'
+    pic: Pasindu.jpg
+    title:
+    email: pasindu.tennage@epfl.ch
+    weburl:
+    bio: "Pasindu completed his PhD at Swiss Federal Institute of Technology in Lausanne (EPFL), Switzerland, under the supervision of Prof. Bryan Ford. Pasindu enjoys designing and building new distributed algorithms and performance tuning. Pasindu's research interests include consensus algorithms, resilient systems and performance optimization.\n"
+      
