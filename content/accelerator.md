@@ -18,6 +18,8 @@ The <strong>IC3-Cornell Blockchain Accelerator</strong> is an initiative designe
 
 5. ***<a href="https://prinx.io/">Prinx</a>*** is an exchange for tokenized pre-IPO shares. It buys shares from secondary markets, tokenizes the rights, and pools them on <a href="https://app.uniswap.org/">Uniswap</a>.
 
+If you want to get in touch with the teams, please fill out this short **<a href="https://docs.google.com/forms/d/1xPvsatKUwlEM2SaGJmgpavYH8ckmZbvyRLxI46QHWds/viewform?edit_requested=true">form</a>**!
+
  <!---
 ## Program Eligibility 
 
