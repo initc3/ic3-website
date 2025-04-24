@@ -7,14 +7,15 @@
 - C. Zhang, X. Yang, D. Oswald, M. Ryan, and P. Jovanovic. [Eva: Efficient Privacy-Preserving Proof of Authenticity for Lossily Encoded Videos](https://research.birmingham.ac.uk/en/publications/eva-efficient-privacy-preserving-proof-of-authenticity-for-lossil). IEEE S&P, 2025. (to appear)
 - J. Ernstberger, C. Zhang, L. Ciprian, P. Jovanovic, and S. Steinhorst. [Zero-Knowledge Location Privacy via Accurate Floating-Point SNARKs](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a057/21B7R3HsGK4). IEEE S&P, 2025. (to appear)
 - B. Arun, Z. Li, F. Suri-Payer, S. Das, and A. Spiegelman. [Bolt: High Throughput DAG BFT Can Be Fast and Robust!](https://arxiv.org/abs/2405.20488). NSDI, 2025.
-- M. Senn and C. Cachin. [Asymmetric Failure Assumptions for Reliable Distributed Systems](https://dl.acm.org/doi/pdf/10.1145/3721473.3722143). PaPoC, 2025.
 - W. Wang, L. Zhou, A. Yaish, F. Zhang, B. Fisch, and B. Livshits. [Prooφ: A ZKP Market Mechanism](https://arxiv.org/abs/2404.06495). FC, 2025. 
 - H. Chung, E. Masserova, E. Shi, and S.A. Thyagarajan. [Rapidash: Foundations of Side-Contract-Resilient Fair Exchange](https://eprint.iacr.org/2022/1063.pdf). FC, 2025.
 - Q. Kniep, L. Kokoris-Kogias, A. Sonnino, I. Zablotchi, and N. Zhang. [Pilotfish: Distributed Execution for Scalable Blockchains](https://arxiv.org/abs/2401.16292). FC, 2025.
 - R. Neiheiser and E. Kokoris-Kogias. [Anthemius: Efficient & Modular Block Assembly for Concurrent Execution](https://arxiv.org/abs/2502.10074). FC, 2025.
 - B. Riva, A. Sonnino, and L. Kokoris-Kogias. [Seahorse: Efficiently Mixing Encrypted and Normal Transactions](https://sonnino.com/papers/seahorse.pdf). FC, 2025.
+- M. Senn and C. Cachin. [Asymmetric Failure Assumptions for Reliable Distributed Systems](https://dl.acm.org/doi/pdf/10.1145/3721473.3722143). PaPoC, 2025.
 - T. Lu, Y. Chen, Z. Wang, X. Wang, W. Chen, and J. Zhang. [BatchZK: A Fully Pipelined GPU-Accelerated System for Batch Generation of Zero-Knowledge Proofs](https://dl.acm.org/doi/abs/10.1145/3669940.3707270). ASPLOS, 2025.
 - F. Baldimtsi, K.K. Chalkias, Y. Ji, J. Lindstrom, D. Maram, B. Riva, A. Roy, M. Sedaghat, and J. Wang. [zkLogin: Privacy-Preserving Blockchain Authentication with Existing Credentials](https://arxiv.org/abs/2401.11735). RWC, 2025.
+- K. Babel, A. Chursin, G. Danezis, A. Kichidis, L. Kokoris-Kogias, A. Koshy, A. Sonnino, and M. Tian. [Mysticeti: Reaching the Latency Limits with Uncertified DAGs](https://www.ndss-symposium.org/ndss-paper/mysticeti-reaching-the-latency-limits-with-uncertified-dags/). NDSS, 2025.
 - W. Tang, R. El-Azouzi, C.H. Lee, E. Chen, and G. Fanti. [Game Theoretic Liquidity Provisioning in Concentrated Liquidity Market Makers](https://dl.acm.org/doi/abs/10.1145/3711700). PoMACS, 2025.
 
 ## 2024 ##
