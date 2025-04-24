@@ -13,6 +13,7 @@
 - Q. Kniep, L. Kokoris-Kogias, A. Sonnino, I. Zablotchi, and N. Zhang. [Pilotfish: Distributed Execution for Scalable Blockchains](https://arxiv.org/abs/2401.16292). FC, 2025.
 - R. Neiheiser and E. Kokoris-Kogias. [Anthemius: Efficient & Modular Block Assembly for Concurrent Execution](https://arxiv.org/abs/2502.10074). FC, 2025.
 - B. Riva, A. Sonnino, and L. Kokoris-Kogias. [Seahorse: Efficiently Mixing Encrypted and Normal Transactions](https://sonnino.com/papers/seahorse.pdf). FC, 2025.
+- T. Lu, Y. Chen, Z. Wang, X. Wang, W. Chen, and J. Zhang. [BatchZK: A Fully Pipelined GPU-Accelerated System for Batch Generation of Zero-Knowledge Proofs](https://dl.acm.org/doi/abs/10.1145/3669940.3707270). ASPLOS, 2025.
 - F. Baldimtsi, K.K. Chalkias, Y. Ji, J. Lindstrom, D. Maram, B. Riva, A. Roy, M. Sedaghat, and J. Wang. [zkLogin: Privacy-Preserving Blockchain Authentication with Existing Credentials](https://arxiv.org/abs/2401.11735). RWC, 2025.
 - W. Tang, R. El-Azouzi, C.H. Lee, E. Chen, and G. Fanti. [Game Theoretic Liquidity Provisioning in Concentrated Liquidity Market Makers](https://dl.acm.org/doi/abs/10.1145/3711700). PoMACS, 2025.
 
