@@ -608,14 +608,6 @@ students:
     bio: "Roi Bar Zur is a graduate student at the Technion. He is interested in cryptocurrencies, game theory, and reinforcement learning."
   
   -
-    name: 'Youer Pu'
-    pic: Youer.jpg
-    title:
-    email: yp348@cornell.edu
-    weburl:
-    bio: "Youer is pursuing a Ph.D. degree at Cornell University under the supervision of prof. Lorenzo Alvisi.\n"
- 
-  -
     name: 'Friederike Groschupp'
     pic: Friederike.jpg
     title:
@@ -1343,4 +1335,12 @@ alumni_students:
     email: pasindu.tennage@epfl.ch
     weburl:
     bio: "Pasindu completed his PhD at Swiss Federal Institute of Technology in Lausanne (EPFL), Switzerland, under the supervision of Prof. Bryan Ford. Pasindu enjoys designing and building new distributed algorithms and performance tuning. Pasindu's research interests include consensus algorithms, resilient systems and performance optimization.\n"
-      
+
+  -
+    name: 'Youer Pu'
+    pic: Youer.jpg
+    title:
+    email: yp348@cornell.edu
+    weburl:
+    bio: "Youer completed her Ph.D. degree at Cornell University under the supervision of prof. Lorenzo Alvisi.\n"
+     
