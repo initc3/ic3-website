@@ -663,7 +663,7 @@ students:
     weburl: "https://www.ner.la"
     bio: "Nerla is a Ph.D. student at University of Illinois Champaign Urbana. She received her undergraduate degree at Cornell University in 2017 in computer science and biological engineering. She then worked at IBM Research for two years until starting her Ph.D. She is interested in distributed systems and security research."
 
-<!---
+<!--
   -
     name: 'Haoqian Zhang'
     pic: Haoqian.png
@@ -671,7 +671,7 @@ students:
     email: haoqian.zhang@epfl.ch
     weburl: 
     bio: "Haoqian is a Ph.D. candidate at the Swiss Federal Institute of Technology in Lausanne (EPFL). His research interests lie in the general area of decentralized systems, particularly in blockchain, as well as their applications in cryptocurrency and smart contracts."
---->
+-->
 
   -
     name: 'Yanyi Liu'
