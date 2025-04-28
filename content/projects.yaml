@@ -39,20 +39,32 @@ projects:
   -
      name: 'Practical Secure Aggregation by Combining Cryptography and Trusted Execution Environments'
      authors: Romain de Laage, Peterson Yuhala, François-Xavier Wicht, Pascal Felber, Christian Cachin, and Valerio Schiavoni
-     challenges: [*]
+     challenges: [*scaling, *correctness, *confidentiality]
      description: Secure aggregation enables a group of mutually distrustful parties, each holding private inputs, to collaboratively compute an aggregate value while preserving the privacy of their individual inputs. However, a major challenge in adopting secure aggregation approaches for practical applications is the significant computational overhead of the underlying cryptographic protocols, e.g., fully homomorphic encryption. This overhead makes secure aggregation protocols impractical, especially for large datasets. In contrast, hardware-based security techniques such as trusted execution environments (TEEs) enable computation at near-native speeds, making them a promising alternative for reducing the computational burden typically associated with purely cryptographic techniques. Yet, in many scenarios, parties may opt for either cryptographic or hardware-based security mechanisms, highlighting the need for hybrid approaches. In this work, we introduce several secure aggregation architectures that integrate both cryptographic and TEE-based techniques, analyzing the tradeoffs between security and performance. For more details, see our <a href="https://arxiv.org/pdf/2504.08325">paper</a>.
+
+  -
+     name: 'The tokenomics of staking'
+     authors: Lin William Cong, Zhiheng He, and Ke Tang
+     challenges: [*correctness, *compliance]
+     description: Tokens offer convenience in digital networks and earn rewards when staked for consensus generation or economic activities. In our continuous-time model, agents dynamically allocate wealth over on-platform transactions and staking. Aggregate staking ratio crucially shapes platform productivity, grows userbase, and links staking to endogenous reward rates and price dynamics. Transaction fees, token issuance, and user heterogeneity all affect platform lifecycle. Empirical findings support the theoretical predictions - (i) correlation between staking ratio and reward rate is cross-sectionally positive, but time-series-wise negative, (ii) staking ratios positively predict excess returns, (iii) the convenience wedge generates UIP violations and significant crypto carry premia. For more information, see our <a href="https://www.nber.org/system/files/working_papers/w33640/w33640.pdf">work</a>.  
 
   -
      name: 'Strategic Digitization in Currency and Payment Competition'
      authors: Lin William Cong and Simon Mayer
-     challenges: []
+     challenges: [*correctness, *compliance]
      description: We model the competition between digital forms of fiat money and private digital money (PDM). Countries strategically digitize their fiat money — upgrading existing or launching new payment systems (including CBDCs) — to enhance adoption and counter PDM competition. A pecking order emerges - less dominant currencies digitize earlier, reflecting a first-mover advantage, dominant currencies delay digitization until they face competition, the weakest currencies forgo digitization. Delayed digitization allows PDM to gain dominance, eventually weakening fiat money’s role. We also highlight how geopolitical considerations, stablecoins, and interoperability between fiat and private digital money shape the digitization of money and monetary competition. For more information, see our <a href="https://www.nber.org/system/files/working_papers/w33593/w33593.pdf">work</a>.  
 
   -
      name: 'Anonymous Self-Credentials and their Application to Single-Sign-On'
      authors: Jayamine Alupotha, Mariarosaria Barbaraci, Ioannis Kaklamanis, Abhimanyu Rawat, Christian Cachin, and Fan Zhang
-     challenges: []
+     challenges: [*correctness, *confidentiality, *compliance]
      description: Modern life makes having a digital identity no longer optional, whether one needs to manage a bank account or subscribe to a newspaper. As the number of online services increases, it is fundamental to safeguard user privacy and equip service providers (SP) with mechanisms enforcing Sybil resistance, i.e., preventing a single entity from showing as many. Current approaches, such as anonymous credentials and self-sovereign identities, typically rely on identity providers or identity registries trusted not to track users’ activities. However, this assumption of trust is no longer appropriate in a world where user data is considered a valuable asset. To address this challenge, we introduce a new cryptographic notion, Anonymous Self-Credentials (ASC) along with two implementations. This approach enables users to maintain their privacy within an anonymity set while allowing SPs to obtain Sybil resistance. Then, we present a User-issued Unlinkable Single Sign-On (U2SSO) implemented from ASC that solely relies on an identity registry to immutably store identities. A U2SSO solution allows users to generate unlinkable child credentials for each SP using only one set of master credentials. We demonstrate the practicality and efficiency of our U2SSO solution by providing a complete proof-of-concept. For more details, see our <a href="https://eprint.iacr.org/2025/618.pdf">paper</a>.
+
+  -
+     name: 'Centralized Governance in Decentralized Organizations'
+     authors: Lin William Cong, Daniel Rabetti, Charles C.Y. Wang, and Yu Ya
+     challenges: [*correctness, *compliance]
+     description: 	We systematically document governance centralization in decentralized autonomous organizations (DAOs) and study its drivers and economic implications. Using multiple data sources and granular on-chain transactional data, we compare our findings to those in corporate finance (and venture startup) settings, to derive several key insights. Unlike traditional firms, DAOs, including most Decentralized Finance (DeFi) projects, have lower participation rates and more concentrated voting power. Moreover, these governance features result in blockvoters controlling 76.2% of the voting power in decisions. Examining the economic implications of centralization, we observe significant abnormal trading activity around governance proposals. Analyzing trading behavior, we show that while blockvoters focus on influencing governance outcomes, proposal managers engage in insider trading---yielding an average market-adjusted return of 9.5%. The combination of concentrated voting power and insider trading can be value-destroying in the long run, particularly during times of crisis when governance becomes central to the survival of business organizations. For more details, see our <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5168660">paper</a>.
  
   -
      name: 'Elastic Restaking Networks'
