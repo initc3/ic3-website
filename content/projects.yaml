@@ -30,7 +30,6 @@ challenges:
 
 projects:
 
-<!---
   -
      name: 'Financial and Informational Integration Through Oracle Networks'
      authors: Lin William Cong, Eswar Prasad, and Daniel Rabetti
@@ -54,7 +53,7 @@ projects:
      authors: Jayamine Alupotha, Mariarosaria Barbaraci, Ioannis Kaklamanis, Abhimanyu Rawat, Christian Cachin, and Fan Zhang
      challenges: []
      description: Modern life makes having a digital identity no longer optional, whether one needs to manage a bank account or subscribe to a newspaper. As the number of online services increases, it is fundamental to safeguard user privacy and equip service providers (SP) with mechanisms enforcing Sybil resistance, i.e., preventing a single entity from showing as many. Current approaches, such as anonymous credentials and self-sovereign identities, typically rely on identity providers or identity registries trusted not to track users’ activities. However, this assumption of trust is no longer appropriate in a world where user data is considered a valuable asset. To address this challenge, we introduce a new cryptographic notion, Anonymous Self-Credentials (ASC) along with two implementations. This approach enables users to maintain their privacy within an anonymity set while allowing SPs to obtain Sybil resistance. Then, we present a User-issued Unlinkable Single Sign-On (U2SSO) implemented from ASC that solely relies on an identity registry to immutably store identities. A U2SSO solution allows users to generate unlinkable child credentials for each SP using only one set of master credentials. We demonstrate the practicality and efficiency of our U2SSO solution by providing a complete proof-of-concept. For more details, see our <a href="https://eprint.iacr.org/2025/618.pdf">paper</a>.
- --->    
+ 
   -
      name: 'Elastic Restaking Networks'
      authors: Roi Bar-Zur and Ittay Eyal
