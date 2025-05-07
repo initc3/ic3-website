@@ -44,6 +44,17 @@ Up to two employees of IC3 Partner Members (see current list of partners **<a hr
 All Industry/Professional participants, please apply **<a href="https://docs.google.com/forms/d/e/1FAIpQLSfQ0fRt83xgZRvkz3x6sdWFVlxWk_l8Q__lXqQ5nT5Y2riIhg/viewform">here</a>**.
 
 
+### DRAFT CAMP SCHEDULE
+
+See a draft full and day-by-day agenda below. Keep in mind that it is still being finalized.
+
+<div style="margin-left:75px;width:auto">
+
+<iframe height="600" width="1130" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTwKQKfbKQMJtmgOjJAEtRww5JEh7d6FJuPqkErYU0qyCLfJlIrMIILTrgz8NqnrrJOgMZYMHftQPE2/pubhtml?widget=true&amp;headers=false"></iframe>
+
+</div>
+
+
 ### PROGRAM
 
 We will offer two overlapping tracks: a coding track and a presentation track.
@@ -56,16 +67,6 @@ Both tracks require pre-registration. Please use the **<a href="https://docs.goo
 
 Please check previous camp editions for details <a href="https://www.initc3.org/events/2024-06-10-ic3-blockchain-camp-2024">2024</a>, <a href="https://www.initc3.org/events/2023-06-12-ic3-blockchain-camp-2023">2023</a>, <a href="https://www.initc3.org/events/2022-08-01-ic3-blockchain-camp-2022">2022</a>.
 
-
-### DRAFT CAMP SCHEDULE
-
-See a draft full and day-by-day agenda below. Keep in mind that it is still being finalized.
-
-<div style="margin-left:75px;width:auto">
-
-<iframe height="600" width="1130" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTwKQKfbKQMJtmgOjJAEtRww5JEh7d6FJuPqkErYU0qyCLfJlIrMIILTrgz8NqnrrJOgMZYMHftQPE2/pubhtml?widget=true&amp;headers=false"></iframe>
-
-</div>
 
 <!---
 ### ACCOMMODATIONS
