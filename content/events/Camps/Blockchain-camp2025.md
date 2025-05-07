@@ -67,12 +67,13 @@ See a draft full and day-by-day agenda below. Keep in mind that it is still bein
 
 </div>
 
-
+<!---
 ### ACCOMMODATIONS
 
 IC3 has a room block and recommends reserving at the **<a href="https://www.hilton.com/en/hotels/nycgngu-graduate-new-york/">Graduate Hotel</a>** located on the Cornell Tech campus on Roosevelt Island due to its proximity to the event location. Oana Gherman, IC3 Sr. Administrative Assistant (<a href="mailto:og64@cornell.edu">oana.gherman@cornell.edu</a>) will centrally book rooms for anyone who chooses to be part of the room block. If you say yes to being included, please do not book a room for yourself. (You will then have two rooms.) Reach out to her if you have questions or need more information. Block reservation deadline **May 6, 2025.**
 
 > **Important Note:** <br>
 > Students are expected to share accommodations with other students attending the Camp. If you need assistance finding other students who are attending, please don't hesitate to reach out to Oana or mention it when submitting your registration.
+--->
 
 **We hope to see you at the IC3 Blockchain Camp 2025 in NYC!**
