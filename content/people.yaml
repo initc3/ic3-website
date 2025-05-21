@@ -706,14 +706,6 @@ visitors:
     bio: "Kaihua Qin is a researcher affiliated with Yale University, working with Prof. Fan Zhang and Prof. Zhong Shao. He earned his PhD from Imperial College London, advised by Prof. Arthur Gervais. Kaihua is also a co-founder of D23E. His research interests include blockchain security, DeFi, and AI.\n"
     
   -
-    name: 'Steven Goldfeder'
-    pic: Steven.jpg
-    title:
-    email: goldfeder@cornell.edu
-    weburl: 'http://stevengoldfeder.com'
-    bio: "Steven Goldfeder is a scientist and co-founder of Offchain Labs. He holds a PhD from Princeton University and is a co-author of the leading textbook on cryptocurrencies."
-
-  -
     name: 'Hongyin Chen'
     pic: Hongyin.jpg
     title: 
@@ -983,6 +975,14 @@ alumni_postdocs:
     email: 
     weburl:
     bio: "I am an early cryptocurrency enthusiast that got my start by studying Silk Road and the darknet marketplace ecosystem in late 2013 during my PhD at Carnegie Mellon University and since then have been working on applications and privacy of decentralized ledger technologies in a Postdoc at UIUC. More recently I have focused my attention on cryptocurrency finance, both centralized (BitMEX, Binance, etc.) and decentralized with particular interest on the economics and incentives of DeFi primitives such as staking, farming, play2earn, algo stablecoins and more.\n"
+
+  -
+    name: 'Steven Goldfeder'
+    pic: Steven.jpg
+    title:
+    email: goldfeder@cornell.edu
+    weburl: 'http://stevengoldfeder.com'
+    bio: "Steven Goldfeder is a scientist and co-founder of Offchain Labs. He holds a PhD from Princeton University and is a co-author of the leading textbook on cryptocurrencies."
    
 alumni_students:
   -
