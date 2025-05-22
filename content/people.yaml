@@ -280,6 +280,14 @@ postdocs:
 
   
 students:
+  -
+    name: 'Austin Li'
+    pic: Austin.jpeg
+    title:
+    email: atl63@cornell.edu
+    weburl:
+    bio: "Austin Li is a PhD student working with Lorenzo Alvisi. His research interests broadly include distributed systems, Byzantine Fault Tolerance, cloud computing, and the challenges in creating efficient, durable, consistent, and fault tolerant systems.\n"
+  
   - 
     name: 'Dor Malka'
     pic: Dor.jpeg
