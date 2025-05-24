@@ -2,7 +2,10 @@
 
 ## 2025 ##
 
-- USENIX, 2025. (to appear)
+- A. Fabrega, A. Zhao, J. Yu, J. Austgen, S. Allen, K. Babel, M. Kelkar, and A. Juels. [Voting-Bloc Entropy: A New Metric for DAO Decentralization](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-1205-fabrega.pdf). USENIX, 2025. (to appear)
+- T. Gu, Y. Wang, A. Tinoco, B. Chen, K. Yi, and E. Shi. [Flexway O-Sort: Enclave-Friendly and Optimal Oblivious Sorting](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://eprint.iacr.org/2023/1258.pdf). USENIX, 2025. (to appear)
+- M. Shih, H. Kailad, M. Rosenberg, and I. Miers. [zk-promises: Anonymous Moderation, Reputation, and Blocking from Anonymous Credentials with Callbacks](https://eprint.iacr.org/2024/1260). USENIX, 2025. (to appear)
+- Y. Wang and F. Zhang. [Qelect: Lattice-based Single Secret Leader Election Made Practical](https://eprint.iacr.org/2025/122). USENIX, 2025. (to appear)
 - W. Tang, R. El-Azouzi, C.H. Lee, E. Chan, and G. Fanti. [Game Theoretic Liquidity Provisioning in Concentrated Liquidity Market Makers](https://dl.acm.org/doi/abs/10.1145/3711700). SIGMETRICS, 2025. (to appear)
 - M. Rosenberg, M. Shih, Z. Zhao, R. Wang, I. Miers, and F. Zhang. [ZIPNet: Low-bandwidth anonymous broadcast from (dis)Trusted Execution Environments](https://petsymposium.org/popets/2025/popets-2025-0058.php). PoPETS, 2025 (to appear)
 - I. Amores-Sesar, C. Cachin, J. Villacis, and L. Zanolini. DAG-based Consensus with Asymmetric Trust. PODC, 2025. (to appear)
