@@ -5,7 +5,7 @@
 - USENIX, 2025. (to appear)
 - W. Tang, R. El-Azouzi, C.H. Lee, E. Chan, and G. Fanti. [Game Theoretic Liquidity Provisioning in Concentrated Liquidity Market Makers](https://dl.acm.org/doi/abs/10.1145/3711700). SIGMETRICS, 2025. (to appear)
 - M. Rosenberg, M. Shih, Z. Zhao, R. Wang, I. Miers, and F. Zhang. [ZIPNet: Low-bandwidth anonymous broadcast from (dis)Trusted Execution Environments](https://petsymposium.org/popets/2025/popets-2025-0058.php). PoPETS, 2025 (to appear)
-- I. Amores-Sesar, C. Cachin, J. Villacis, and L. Zanolini. [DAG-based Consensus with Asymmetric Trust]. PODC, 2025. (to appear)
+- I. Amores-Sesar, C. Cachin, J. Villacis, and L. Zanolini. DAG-based Consensus with Asymmetric Trust. PODC, 2025. (to appear)
 - J. Austgen, M. Kelkar, A. Fábrega, D. Vilardell1, S. Allen, K. Babel, J. Yu, and Ari Juels. [Liquefaction: Privately Liquefying Blockchain Assets](https://arxiv.org/abs/2412.02634). IEEE S&P, 2025.
 - S. Yang, K. Nayak, and F. Zhang. [Decentralization of Ethereum's Builder Market](https://arxiv.org/abs/2405.01329). IEEE S&P, 2025.
 - C. Zhang, X. Yang, D. Oswald, M. Ryan, and P. Jovanovic. [Eva: Efficient Privacy-Preserving Proof of Authenticity for Lossily Encoded Videos](https://research.birmingham.ac.uk/en/publications/eva-efficient-privacy-preserving-proof-of-authenticity-for-lossil). IEEE S&P, 2025.
