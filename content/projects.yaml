@@ -31,6 +31,18 @@ challenges:
 projects:
 
   -
+     name: 'An Algebraic Approach to Asymmetric Delegation and Polymorphic Label Inference'
+     authors: Silei Ren, Coşku Acay, and Andrew C. Myers
+     challenges: [*correctness, *migration]
+     description: Language-based information flow control (IFC) enables reasoning about and enforcing security policies in decentralized applications. While information flow properties are relatively extensional and compositional, designing expressive systems that enforce such properties remains challenging. In particular, it can be difficult to use IFC labels to model certain security assumptions, such as semi-honest agents. Motivated by these modeling limitations, we study the algebraic semantics of lattice-based IFC label models, and propose a semantic framework that allows formalizing asymmetric delegation, which is partial delegation of confidentiality or integrity. Our framework supports downgrading of information and ensures their safety through nonmalleable information flow (NMIF). To demonstrate the practicality of our framework, we design and implement a novel algorithm that statically checks NMIF and a label inference procedure that efficiently supports bounded label polymorphism, allowing users to write code generic with respect to labels. For more details, please see <a href="https://arxiv.org/abs/2504.20432">work</a>.
+     
+  -
+     name: 'A Primer on Oracle Economics'
+     authors: Lin William Cong, Liam Fox, Siguang Li, and Luofeng Zhou
+     challenges: [*scaling, *correctness, *confidentiality, *compliance]
+     description: Oracle nodes enable smart contracts to access off-chain and cross-chain data, thus bridging information among digital networks and with the real economy. However, reliance on external input creates security and reliability risks in information aggregation and transfer. We describe the general oracle problem, introduce the oracle trilemma highlighting the trade-offs between scalability, decentralization, and truthfulness, and discuss relevant economic issues concerning the role of oracles in applications such as DeFi, gaming, prediction markets, and supply chain management. In particular, we survey off-chain reporting, off-equilibrium alerting, and dynamic incentive design as promising approaches to resolving the trilemma. We further list oracle vulnerabilities and evaluate its sustainability through staking and tokenomics programs. Finally, we highlight empirical studies on how oracle integration affects DeFi adoption, token valuation, liquidity, and system risks. We conclude by presenting emerging trends and suggesting open research questions. For more information, please see <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5208421">paper</a>.
+     
+  -
      name: 'Arbigraph: Verifiable Turing-Complete Execution Delegation'
      authors: Michael Mirkin, Hongyin Chen, Ohad Eitan, Gal Granot, and Ittay Eyal
      challenges: [*correctness, *confidentiality, *compliance]
