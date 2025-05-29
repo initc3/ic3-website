@@ -281,6 +281,14 @@ postdocs:
   
 students:
   -
+    name: 'Muhammad Ahmed'
+    pic: Muhammad.jpg
+    title:
+    email: ma2386@cornell.edu
+    weburl:
+    bio: "Muhammad Ahmed is a first-year PhD student working with Lorenzo Alvisi. His research interests lie in distributed systems, with particular attention to designing efficient, scalable, and secure systems that address the varying constraints and tradeoffs across diverse application domains.\n"
+    
+  -
     name: 'Austin Li'
     pic: Austin.jpeg
     title:
