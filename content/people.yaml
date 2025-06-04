@@ -408,14 +408,6 @@ students:
     bio: "Tianneng Shi is a Ph.D. student in Computer Science at UC Berkeley advised by Prof. Dawn Song. He is broadly interested in computer systems, security, and decentralization.\n"
     
   -
-    name: 'Julia Turcotti'
-    pic: Julia.jpg
-    title:
-    email: jturcotti@cs.cornell.edu
-    weburl: 'https://www.jturcotti.com/'
-    bio: "Julia is a PhD student at Cornell University working with Andrew Myers to develop novel program analyses for safe and secure systems. Her work has targeted safe concurrency, nullability analysis at scale, and optimized deployment of runtime assertions.\n"
-    
-  -
     name: 'François-Xavier Wicht'
     pic: François.jpg
     title:
