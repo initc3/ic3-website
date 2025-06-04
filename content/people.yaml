@@ -261,23 +261,6 @@ postdocs:
     email: yujinyujin9393@gmail.com
     weburl:
     bio: "I'm a postdoc at UC Berkeley. I received BS and PhD from KAIST in 2016 and 2021, respectively. My research is involved in DeFi, blockchains, privacy, game theory, economics, and data analysis." 
-
-  -
-    name: 'Philipp Schneider'
-    pic: PhilippS.jpg
-    title:
-    email: philipp.schneider2@unibe.ch
-    weburl: 'https://crypto.unibe.ch/ps/'
-    bio: "Philipp Schneider is a Postdoctoral Researcher at the University of Bern, within the CRYPTO group led by Professor Christian Cachin. His research interests revolve around computational and security aspects of distributed systems.\n"
-
-  - 
-    name: 'Jayamine Alupotha'
-    pic: Jayamine.jpg
-    title:
-    email: jayamine.alupotha@gmail.com
-    weburl: 'https://crypto.unibe.ch/ja/'
-    bio: "Jayamine Alupotha is a Postdoctoral Researcher in the University of Bern's CRYPTO group led by Professor Christian Cachin. She is mainly into privacy-preserving cryptographic protocols.\n"
-
   
 students:
   -
@@ -688,14 +671,6 @@ students:
     weburl:
     bio: "Yanyi is a Computer Science Ph.D. student at Cornell Tech. His interests are in cryptography and theoretical computer science in general, and recently his research focuses on Kolmogorov complexity and one-way functions. He is co-advised by Rafael Pass and Elaine Shi. He obtained his bachelor's degree in computer science at Tsinghua University."
     
-  -
-    name: 'Mingxun Zhou'
-    pic: Mingxun.jpg
-    title:
-    email: mingxunz@andrew.cmu.edu
-    weburl: "https://cs.cmu.edu/~mingxunz"
-    bio: "Mingxun Zhou is a Ph.D. student in the Computer Science Department at Carnegie Mellon University. His research interests include privacy-preserving algorithm design and the algorithmic foundation of blockchain. He is currently co-advised by Elaine Shi and Giulia Fanti. Before joining CMU, he received his bachelor's degree from Peking University."
-
   - 
     name: 'Hao Chung' 
     pic: Hao.png
@@ -999,6 +974,22 @@ alumni_postdocs:
     email: goldfeder@cornell.edu
     weburl: 'http://stevengoldfeder.com'
     bio: "Steven Goldfeder is a scientist and co-founder of Offchain Labs. He holds a PhD from Princeton University and is a co-author of the leading textbook on cryptocurrencies."
+
+  -
+    name: 'Philipp Schneider'
+    pic: PhilippS.jpg
+    title:
+    email: philipp.schneider@cispa.de
+    weburl: 
+    bio: "Philipp Schneider is a Postdoctoral Researcher at CISPA Helmholtz Center for Information Security. Prior to this he was a postdoc at the University of Bern, within the CRYPTO group led by Professor Christian Cachin. His research interests revolve around computational and security aspects of distributed systems.\n"
+
+  - 
+    name: 'Jayamine Alupotha'
+    pic: Jayamine.jpg
+    title:
+    email: jayamine.alupotha@gmail.com
+    weburl:
+    bio: "Jayamine Alupotha was a Postdoctoral Researcher in the University of Bern's CRYPTO group led by Professor Christian Cachin. She is mainly into privacy-preserving cryptographic protocols.\n"
    
 alumni_students:
   -
@@ -1360,4 +1351,13 @@ alumni_students:
     email: yp348@cornell.edu
     weburl:
     bio: "Youer completed her Ph.D. degree at Cornell University under the supervision of prof. Lorenzo Alvisi.\n"
-     
+
+  -
+    name: 'Mingxun Zhou'
+    pic: Mingxun.jpg
+    title:
+    email: mingxunz@andrew.cmu.edu
+    weburl: "https://cs.cmu.edu/~mingxunz"
+    bio: "Mingxun Zhou completed his Ph.D. in the Computer Science Department at Carnegie Mellon University under the supervision of prof. Giulia Fanti and prof. Elaine Shi. His research interests include privacy-preserving algorithm design and the algorithmic foundation of blockchain. Before joining CMU, he received his bachelor's degree from Peking University.\n"
+
+
