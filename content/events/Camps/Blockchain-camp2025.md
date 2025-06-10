@@ -14,7 +14,7 @@ We’re pleased to announce that the annual **IC3 Blockchain Camp** is back at *
 
 This year is extra special because it’s **IC3’s 10th Anniversary**! Stay tuned for related events led by IC3’s Technical Committee and staff as we celebrate a decade of groundbreaking research.
 
-
+<!---
 ### REGISTRATION & SPONSORSHIP
 
 <p align="center">
@@ -42,9 +42,9 @@ Up to two employees of IC3 Partner Members (see current list of partners **<a hr
 > Exceptions will be made on a case-by-case basis to allow additional community members to participate in the camp without sponsorship. Please email Ashley Stanhope (<a href="mailto:ashley@hardfork.media">ashley@hardfork.media</a>) if you would like to apply for non-donor participation. Please indicate in the application form below if you would like to apply for camp sponsorship or for participation without a sponsor. 
 
 All Industry/Professional participants, please apply **<a href="https://docs.google.com/forms/d/e/1FAIpQLSfQ0fRt83xgZRvkz3x6sdWFVlxWk_l8Q__lXqQ5nT5Y2riIhg/viewform">here</a>**.
+--->
 
-
-### DRAFT CAMP SCHEDULE
+### CAMP SCHEDULE
 
 See a draft full and day-by-day agenda below. Keep in mind that it is still being finalized.
 
