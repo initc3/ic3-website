@@ -46,7 +46,7 @@ All Industry/Professional participants, please apply **<a href="https://docs.goo
 
 ### CAMP SCHEDULE
 
-See a draft full and day-by-day agenda below. Keep in mind that it is still being finalized.
+See a full and day-by-day agenda below. 
 
 <div style="margin-left:75px;width:auto">
 
