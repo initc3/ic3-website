@@ -264,6 +264,14 @@ postdocs:
   
 students:
   -
+    name: 'Daniel Lee'
+    pic: Daniel.jpg
+    title:
+    email: dhl93@cornell.edu
+    weburl:
+    bio: "Daniel Lee is a researcher and systems enthusiast with a deep passion for distributed systems. His work explores how to design and reason about fault-tolerant protocols, especially under adversarial and asynchronous conditions. Through his research—including ongoing work with Professor Lorenzo Alvisi—he aims to better understand the theoretical and practical foundations of distributed computing. He’s particularly drawn to the challenges of building systems that are robust, efficient, and correct, even in the face of failure.\n"
+    
+  -
     name: 'Muhammad Ahmed'
     pic: Muhammad.jpg
     title:
