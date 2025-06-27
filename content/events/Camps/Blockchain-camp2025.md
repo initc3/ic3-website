@@ -77,7 +77,7 @@ They proved they can run a Luanti server (an open-source, Minecraft-like game en
 
 ### CAMP HIGHLIGHTS
 
-Our agenda covered a wide range of research topics including consensus, privacy, security, crypto AI, DAOs, and traditional finance. Here are highlights from this year’s Camp:
+Our agenda covered a wide range of research topics including consensus, privacy, security, crypto AI, DAOs, and traditional finance.
 
 **MonadBFT: Fast, Responsive, Fork-Resistant Streamlined Consensus**
 
