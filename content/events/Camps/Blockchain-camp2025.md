@@ -21,11 +21,11 @@ Here are some highlights from the Camp, plus an <a href="https://www.coindesk.co
 
 We want to start off by congratulating our Camp hackathon winners!
 
+**1st place - Risk-Aware Restaking**
+
 <div class="ui piled segment">
   <img class="ui centered image" src="../images/events/blockchain-camp-2025/1.jpg" alt="" width="700"/>
 </div>
-
-**1st place - Risk-Aware Restaking**
 
 Restaking networks let validators reuse their staked assets to secure multiple blockchain services simultaneously. Roi Bar-Zur (Technion, IC3) and his team analyzed scenarios where services implement risk-aware caps to limit excessive restaking participation. 
 
@@ -35,11 +35,11 @@ To learn more about Risk-Aware Restaking, <a href="https://initc3org.medium.com/
 
 *Team members: Roi Bar-Zur (Technion, IC3), Mateo Bastidas (Yale University), Hongyin Chen (Peking University, Technion, IC3), Dor Malka (Technion, IC3), Daniel Lee (Cornell University, IC3), Austin Li (Cornell University, IC3), Max Tang (Cornell University), and Sarisht Wadhwa (Duke University)*
 
+**2nd place - DAO Buddy**
+
 <div class="ui piled segment">
   <img class="ui centered image" src="../images/events/blockchain-camp-2025/2.jpg" alt="" width="700"/>
 </div>
-
-**2nd place - DAO Buddy**
 
 <a href="https://x.com/sh1sh1nk/status/1936203170264273156">DAO Buddy</a> is an AI-powered governance companion designed to simplify DAO participation. Built on IC3’s <a href="https://public.tableau.com/app/profile/daovbe/viz/DAOoVBEDashboard/Voting-BlocEntropyOverview">VBE dashboard</a>, its goal is to reduce information overload and combat voter fatigue. The prototype pulls data from Tally, Tableau, Snapshot, LobbyFi, and the Arbitrum DAO forum to help Arbitrum DAO participants with tasks such as:
 
@@ -50,11 +50,11 @@ To learn more about Risk-Aware Restaking, <a href="https://initc3org.medium.com/
 
 *Team members: Shashank Motepalli﻿ (University of Toronto), Sam Breckenridge (Cornell University, IC3), Anika Lakhani (Harvard University), Haaroon Yousaf (IC3), and Amy Zhao (Ava Labs, IC3)*
 
+**3rd place - DeadDrop**
+
 <div class="ui piled segment">
   <img class="ui centered image" src="../images/events/blockchain-camp-2025/3.jpg" alt="" width="700"/>
 </div>
-
-**3rd place - DeadDrop**
 
 Prof. Fan Zhang (Yale University, IC3) and the team behind DeadDrop built a system for bug hunters to responsibly disclose smart contract bugs to deployers with confidentiality and spam prevention.
 
@@ -62,11 +62,11 @@ While existing BlockChat systems can be used to reach smart contract deployers, 
 
 *Team members: Fan Zhang (Yale University, IC3), Jasleen Malvai (UIUC, IC3), Silei Ren (Cornell University, IC3), Stephanie Ma (Cornell University), Yavor Litchev (Stanford University), Mariarosaria Barbaraci (University of Bern, IC3), Jonas Chen (UCSB), Marwa Mouallem (Technion, IC3), and Cynthia Wang (Stanford University)*
 
+**Honorable mention - T-E-Esports**
+
 <div class="ui piled segment">
   <img class="ui centered image" src="../images/events/blockchain-camp-2025/4.jpg" alt="" width="700"/>
 </div>
-
-**Honorable mention - T-E-Esports**
 
 The T-E-Esports team led by Andrew Miller (Teleport, Flashbots, IC3) identified how TEEs can reduce the reliance on trusted server operators in online games and enable blockchain interfaces with them.
 
@@ -79,11 +79,11 @@ They proved they can run a Luanti server (an open-source, Minecraft-like game en
 
 Our agenda covered a wide range of research topics including consensus, privacy, security, crypto AI, DAOs, and traditional finance. Here are highlights from this year’s Camp:
 
+**MonadBFT: Fast, Responsive, Fork-Resistant Streamlined Consensus**
+
 <div class="ui piled segment">
   <img class="ui centered image" src="../images/events/blockchain-camp-2025/Kushal.jpg" alt="" width="700"/>
 </div>
-
-**MonadBFT: Fast, Responsive, Fork-Resistant Streamlined Consensus**
 
 Kushal Babel (Researcher at Category Labs & IC3 alum) broke down Monad’s consensus protocol, <a href="https://arxiv.org/abs/2502.20692">MonadBFT</a>, a pipelined BFT protocol designed for high-throughput L1 blockchains. MonadBFT draws inspiration from the HotStuff family of protocols, known for their linear communication complexity and responsiveness.
 
@@ -93,52 +93,52 @@ According to Kushal, some key features include:
 - Prevents tail forking, resisting MEV time-bandit attacks
 - Maintains core guarantees: optimistic responsiveness and linear message complexity on the happy path (when the network is synchronous and behavior is honest)
 
+**Functional Regulation for Layer One Infrastructure** 
+
 <div class="ui piled segment">
   <img class="ui centered image" src="../images/events/blockchain-camp-2025/Carla.jpg" alt="" width="700"/>
 </div>
-
-**Functional Regulation for Layer One Infrastructure**
 
 "When a reckless driver causes a collision on a highway, authorities charge the driver, not those who constructed the highway. The same principle should apply to the blockchain space," was the message Prof. Carla Reyes (SMU Dedman School of Law, IC3) wanted to drive home during her presentation <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5145302">Functional Regulation for Layer One Infrastructure</a>.
 
 Carla's research argues that a functional approach to regulating distributed ledger technology leads to a conclusion that open-source L1 & L2 smart contract protocols are public digital infrastructure. Therefore, the law should ensure open access to such protocols and focus on regulating individuals or businesses conducting actionable activities via the infrastructure, rather than targeting the infrastructure itself or its developers.
 
+**Alpenglow: Solana's New Consensus Protocol**
+
 <div class="ui piled segment">
   <img class="ui centered image" src="../images/events/blockchain-camp-2025/Roger.jpg" alt="" width="700"/>
 </div>
-
-**Alpenglow: Solana's New Consensus Protocol**
 
 Leading expert in distributed systems Prof. Roger Wattenhofer (Head of Research, Anza) joined the Camp to talk about Solana's new consensus protocol, <a href="https://www.anza.xyz/blog/alpenglow-a-new-consensus-for-solana">Alpenglow</a>, that is set to be implemented later this year.
 
 Alpenglow is designed to replace several legacy components of Solana's consensus stack (namely TowerBFT and Proof-of-History) with two new components: Votor and Rotor, which together optimize for performance and speed.
 
+**Fraud Proof Protocols: BoLD, Dave, and other alternatives** 
+
 <div class="ui piled segment">
   <img class="ui centered image" src="../images/events/blockchain-camp-2025/Victor.jpg" alt="" width="700"/>
 </div>
-
-**Fraud Proof Protocols: BoLD, Dave, and other alternatives**
 
 Victor Shoup (Principal Research Scientist, Offchain Labs) examined two different fraud proof protocols (BoLD vs. Dave) during his Camp presentation. He noted while each has their own approach to bisection and multiple vs. single rounds of proving, there are trade-offs in terms of delay, resources required, and cost. You can access his research on the topic <a href="https://research.arbitrum.io/t/fraud-proof-protocols-bold-dave-and-other-alternatives/9748">here</a>.
 
 
 ### Anniversary Day Recap
 
+**Selfish Mining** 
+
 <div class="ui piled segment">
   <img class="ui centered image" src="../images/events/blockchain-camp-2025/Ittay.jpg" alt="" width="700"/>
 </div>
-
-**Selfish Mining**
 
 ﻿Prof. Ittay Eyal (Technion, IC3) shared his landmark 2014 research with Emin Gün Sirer (Founder & CEO of Ava Labs, former IC3 Co-director) <a href="https://arxiv.org/abs/1311.0243">Majority is not Enough: Bitcoin Mining is Vulnerable</a>.
 
 They uncovered Selfish Mining, a strategy where miners can deviate from honest behavior and secretly mine blocks to game the system and earn outsized rewards.
 
+**DECO: Oracles, zkTLS, and Data Liberation**
+
 <div class="ui piled segment">
   <img class="ui centered image" src="../images/events/blockchain-camp-2025/Fan.jpg" alt="" width="700"/>
 </div>
-
-**DECO: Oracles, zkTLS, and Data Liberation**
 
 <a href="https://eprint.iacr.org/2016/168">Town Crier</a> and <a href="https://arxiv.org/abs/1909.00938">DECO</a> are two oracle protocols developed by IC3 researchers to securely bridge data from the web to smart contracts, but they differ significantly in trust assumptions, cryptographic techniques, and privacy guarantees.
 
@@ -154,11 +154,11 @@ By combining heuristics, clustering techniques, and layered data collection, her
 
 The takeaway? It is nearly impossible to remain anonymous on Bitcoin.
 
+**Fireside Chat: Scaling Ethereum**
+
 <div class="ui piled segment">
   <img class="ui centered image" src="../images/events/blockchain-camp-2025/Chat.jpg" alt="" width="700"/>
 </div>
-
-**Fireside Chat: Scaling Ethereum**
 
 Steven Goldfeder (Co-founder & CEO of Offchain Labs, IC3 alum) and Prof. Ari Juels (IC3 Co-director, Chainlink Labs) <a href="https://x.com/initc3org/status/1933261808258986242">reflected on the early days</a> of building Arbitrum, when Steven was a postdoctoral researcher at Cornell Tech under Ari's guidance.
 
@@ -168,11 +168,11 @@ Steven's advice for new founders?
 
 "Fight for your ideas. If you believe in what you're building and you're right, people will eventually come around," said Steven. Today, Arbitrum is the largest L2 in the blockchain ecosystem, securing <a href="https://l2beat.com/scaling/summary">more than $13B</a> in value.
 
+**Panel: The DAO Hack & Ethereum Hard Fork** 
+
 <div class="ui piled segment">
   <img class="ui centered image" src="../images/events/blockchain-camp-2025/Panel.jpg" alt="" width="700"/>
 </div>
-
-**Panel: The DAO Hack & Ethereum Hard Fork**
 
 The DAO hack and Ethereum hard fork of 2016 remains one of the most important yet controversial events in blockchain history.
 
@@ -190,7 +190,7 @@ We’d like to thank our partners and sponsors for their continued support in fu
 
 <div class="ui piled segment">
   <img class="ui centered image" src="../images/events/blockchain-camp-2025/Group.jpg" alt="" width="800"/>
-  <div class="ui bottom attached message">
+  <div class="ui bottom center attached message">
   <strong>Thank you again to everyone who participated in this year’s event! ﻿﻿We hope to see you again next year!</strong><br>
   </div>
 </div>
