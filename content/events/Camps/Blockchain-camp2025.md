@@ -17,7 +17,7 @@ We produced ample research over the past decade, but it's just the beginning. As
 Here are some highlights from the Camp, plus an <a href="https://www.coindesk.com/opinion/2025/06/02/we-cant-regulate-our-way-to-crypto-leadership-we-still-need-science">open letter</a> by 10 leading U.S. academics about protecting the future of blockchain research, and upcoming events you don’t want to miss:
 
 
-### Hackathon Winners
+### HACKATHON WINNERS
 
 We want to start off by congratulating our Camp hackathon winners!
 
@@ -75,7 +75,7 @@ They proved they can run a Luanti server (an open-source, Minecraft-like game en
 *Team members: Andrew Miller (Teleport, Flashbots, IC3), Hang Yin (Phala Network), James Austgen (Cornell Tech, IC3), Jiasun Li (George MAson University), and Nerla Jean-Louis (UIUC, IC3)*
 
 
-### Camp Highlights
+### CAMP HIGHLIGHTS
 
 Our agenda covered a wide range of research topics including consensus, privacy, security, crypto AI, DAOs, and traditional finance. Here are highlights from this year’s Camp:
 
@@ -122,7 +122,7 @@ Alpenglow is designed to replace several legacy components of Solana's consensus
 Victor Shoup (Principal Research Scientist, Offchain Labs) examined two different fraud proof protocols (BoLD vs. Dave) during his Camp presentation. He noted while each has their own approach to bisection and multiple vs. single rounds of proving, there are trade-offs in terms of delay, resources required, and cost. You can access his research on the topic <a href="https://research.arbitrum.io/t/fraud-proof-protocols-bold-dave-and-other-alternatives/9748">here</a>.
 
 
-### Anniversary Day Recap
+### ANNIVERSARY DAY RECAP
 
 **Selfish Mining** 
 
@@ -182,7 +182,7 @@ IC3 played a notable role in the events leading up to the hard fork. Its researc
 
 Looking for more 2025 Camp Highlights? Check out our <a href="https://x.com/initc3org">X</a> and <a href="https://www.linkedin.com/company/the-initiative-for-cryptocurrencies-contracts-ic3/posts/?feedView=all">LinkedIn</a> pages where we shared photos and recaps of the talks and presentations.
 
-### Our Sponsors & Partners
+### OUR PARTENRS & SPONSORS
 
 We’d like to thank our partners and sponsors for their continued support in funding IC3’s research and events throughout the year.
 
