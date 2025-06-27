@@ -14,7 +14,7 @@ Months of planning, organizing, and scheduling finally came to fruition during t
 
 We produced ample research over the past decade, but it's just the beginning. As Phil Daian (IC3 alum & co-founder of Flashbots) <a href="https://x.com/initc3org/status/1933150796994195543">said during his Camp presentation</a> on MEV, the next five years are crucial in terms of research.
 
-Here are some highlights from the Camp, plus an <a href="https://www.coindesk.com/opinion/2025/06/02/we-cant-regulate-our-way-to-crypto-leadership-we-still-need-science">open letter</a> by 10 leading U.S. academics about protecting the future of blockchain research, and upcoming events you don’t want to miss:
+Here are some highlights from the Camp:
 
 
 ### HACKATHON WINNERS
