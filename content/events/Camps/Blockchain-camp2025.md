@@ -22,7 +22,7 @@ Here are some highlights from the Camp, plus an <a href="https://www.coindesk.co
 We want to start off by congratulating our Camp hackathon winners!
 
 <div class="ui piled segment">
-  <img class="ui centered image" src="../images/events/blockchain-camp-2025/#1.jpg" alt="" width="700"/>
+  <img class="ui centered image" src="../images/events/blockchain-camp-2025/1.jpg" alt="" width="700"/>
 </div>
 
 **1st place - Risk-Aware Restaking**
@@ -36,7 +36,7 @@ To learn more about Risk-Aware Restaking, <a href="https://initc3org.medium.com/
 *Team members: Roi Bar-Zur (Technion, IC3), Mateo Bastidas (Yale University), Hongyin Chen (Peking University, Technion, IC3), Dor Malka (Technion, IC3), Daniel Lee (Cornell University, IC3), Austin Li (Cornell University, IC3), Max Tang (Cornell University), and Sarisht Wadhwa (Duke University)*
 
 <div class="ui piled segment">
-  <img class="ui centered image" src="../images/events/blockchain-camp-2025/#2.jpg" alt="" width="700"/>
+  <img class="ui centered image" src="../images/events/blockchain-camp-2025/2.jpg" alt="" width="700"/>
 </div>
 
 **2nd place - DAO Buddy**
@@ -51,7 +51,7 @@ To learn more about Risk-Aware Restaking, <a href="https://initc3org.medium.com/
 *Team members: Shashank Motepalli﻿ (University of Toronto), Sam Breckenridge (Cornell University, IC3), Anika Lakhani (Harvard University), Haaroon Yousaf (IC3), and Amy Zhao (Ava Labs, IC3)*
 
 <div class="ui piled segment">
-  <img class="ui centered image" src="../images/events/blockchain-camp-2025/#3.jpg" alt="" width="700"/>
+  <img class="ui centered image" src="../images/events/blockchain-camp-2025/3.jpg" alt="" width="700"/>
 </div>
 
 **3rd place - DeadDrop**
@@ -63,7 +63,7 @@ While existing BlockChat systems can be used to reach smart contract deployers, 
 *Team members: Fan Zhang (Yale University, IC3), Jasleen Malvai (UIUC, IC3), Silei Ren (Cornell University, IC3), Stephanie Ma (Cornell University), Yavor Litchev (Stanford University), Mariarosaria Barbaraci (University of Bern, IC3), Jonas Chen (UCSB), Marwa Mouallem (Technion, IC3), and Cynthia Wang (Stanford University)*
 
 <div class="ui piled segment">
-  <img class="ui centered image" src="../images/events/blockchain-camp-2025/#4.jpg" alt="" width="700"/>
+  <img class="ui centered image" src="../images/events/blockchain-camp-2025/4.jpg" alt="" width="700"/>
 </div>
 
 **Honorable mention - T-E-Esports**
