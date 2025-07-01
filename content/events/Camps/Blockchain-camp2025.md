@@ -19,7 +19,7 @@ Here are some highlights from the Camp:
 
 ### HACKATHON WINNERS
 
-We want to start off by congratulating our Camp hackathon winners!
+We want to start off by congratulating our Camp hackathon winners! We extend our heartfelt gratitude to our hackathon judges: Michael Chen (Category Labs), Steve Ellis (Chainlink Labs), Tyler Kell (Offchain Labs), and Gil Rosen (Blockchain Builders Fund, SBA). Their evaluations were grounded in five key criteria: novelty, practicality, user experience, technical difficulty, and the maturity of development achieved within the week. 
 
 **1st place - Risk-Aware Restaking**
 
