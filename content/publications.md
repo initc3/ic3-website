@@ -2,13 +2,22 @@
 
 ## 2025 ##
 
+- H. Chung, K. Wu, and E. Shi. [Foundations of Platform-Assisted Auctions](https://arxiv.org/pdf/2501.03141). CRYPTO, 2025. (to appear)
+- A. Agarwal, R. Fernando, and B. Pinkas. [Efficiently-Thresholdizable Batched Identity Based Encryption, with Applications](https://eprint.iacr.org/2024/1575). CRYPTO, 2025. (to appear)
 - A. Fabrega, A. Zhao, J. Yu, J. Austgen, S. Allen, K. Babel, M. Kelkar, and A. Juels. [Voting-Bloc Entropy: A New Metric for DAO Decentralization](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-1205-fabrega.pdf). USENIX, 2025. (to appear)
 - T. Gu, Y. Wang, A. Tinoco, B. Chen, K. Yi, and E. Shi. [Flexway O-Sort: Enclave-Friendly and Optimal Oblivious Sorting](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://eprint.iacr.org/2023/1258.pdf). USENIX, 2025. (to appear)
 - M. Shih, H. Kailad, M. Rosenberg, and I. Miers. [zk-promises: Anonymous Moderation, Reputation, and Blocking from Anonymous Credentials with Callbacks](https://eprint.iacr.org/2024/1260). USENIX, 2025. (to appear)
 - Y. Wang and F. Zhang. [Qelect: Lattice-based Single Secret Leader Election Made Practical](https://eprint.iacr.org/2025/122). USENIX, 2025. (to appear)
-- W. Tang, R. El-Azouzi, C.H. Lee, E. Chan, and G. Fanti. [Game Theoretic Liquidity Provisioning in Concentrated Liquidity Market Makers](https://dl.acm.org/doi/abs/10.1145/3711700). SIGMETRICS, 2025. (to appear)
+- L. Heimbach, Y. Vonlanthen, J. Villacis, L. Kiffer, and R. Wattenhofer. [Deanonymizing Ethereum Validators: The P2P Network Has a Privacy Issue](https://arxiv.org/abs/2409.04366). SBC, 2025. (to appear)
+- K. Babel, A. Chursin, G. Danezis, A. Kichidi, L. Kokoris-Kogias, A. Koshy, A. Sonnino, and M. Tian. [Mysticeti: Reaching the Latency Limits with Uncertified DAGs](Mysticeti: Reaching the Latency Limits with Uncertified DAGs). SBC, 2025. (to appear)
+- A. Fabrega, A. Zhao, J. Yu, J. Austgen, S. Allen, K. Babel, M. Kelkar, and A. Juels. [Voting-Bloc Entropy: A New Metric for DAO Decentralization](https://arxiv.org/abs/2311.03530). SBC, 2025. (to appear)
+- D. Maram, M. Kelkar, and I. Eyal. [Interactive Multi-Credential Authentication](https://eprint.iacr.org/2022/1682.pdf). SBC, 2025. (to appear)
+- J. Austgen, A. Fábrega, M. Kelkar, D. Vilardell, S. Allen, K. Babel, J. Yu, and A. Juels. [Liquefaction: Privately Liquefying Blockchain Assets](https://arxiv.org/abs/2412.02634). SBc, 2025. (to appear) 
 - M. Rosenberg, M. Shih, Z. Zhao, R. Wang, I. Miers, and F. Zhang. [ZIPNet: Low-bandwidth anonymous broadcast from (dis)Trusted Execution Environments](https://petsymposium.org/popets/2025/popets-2025-0058.php). PoPETS, 2025. (to appear)
-- I. Amores-Sesar, C. Cachin, J. Villacis, and L. Zanolini. DAG-based Consensus with Asymmetric Trust. PODC, 2025. (to appear)
+- A. Ganesh and Q. Zhang. [Truthful, Credible, and Optimal Auctions for Matroids via Blockchains and Commitments]. EC, 2025. (to appear)
+- M. Zhang, Y. Li, X. Sun, E. Chen, and X. Chen. [Computation of MEV in Decentralized Exchanges](https://mengqianzhang.me/papers/batch.pdf). EC, 2025. (to appear)
+- I. Amores-Sesar, C. Cachin, J. Villacis, and L. Zanolini. DAG-based Consensus with Asymmetric Trust. PODC, 2025.
+- W. Tang, R. El-Azouzi, C.H. Lee, E. Chan, and G. Fanti. [Game Theoretic Liquidity Provisioning in Concentrated Liquidity Market Makers](https://dl.acm.org/doi/abs/10.1145/3711700). SIGMETRICS, 2025.
 - J. Austgen, M. Kelkar, A. Fábrega, D. Vilardell1, S. Allen, K. Babel, J. Yu, and Ari Juels. [Liquefaction: Privately Liquefying Blockchain Assets](https://arxiv.org/abs/2412.02634). IEEE S&P, 2025.
 - S. Yang, K. Nayak, and F. Zhang. [Decentralization of Ethereum's Builder Market](https://arxiv.org/abs/2405.01329). IEEE S&P, 2025.
 - C. Zhang, X. Yang, D. Oswald, M. Ryan, and P. Jovanovic. [Eva: Efficient Privacy-Preserving Proof of Authenticity for Lossily Encoded Videos](https://research.birmingham.ac.uk/en/publications/eva-efficient-privacy-preserving-proof-of-authenticity-for-lossil). IEEE S&P, 2025.
