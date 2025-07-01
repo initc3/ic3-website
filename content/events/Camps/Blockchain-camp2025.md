@@ -72,7 +72,7 @@ The T-E-Esports team led by Andrew Miller (Teleport, Flashbots, IC3) identified 
 
 They proved they can run a Luanti server (an open-source, Minecraft-like game engine) inside a TEE container which reads game settings from a smart contract, begins a 1v1 battle game, and finally reports the outcome of the battle to the smart contract.
 
-*Team members: Andrew Miller (Teleport, Flashbots, IC3), Hang Yin (Phala Network), James Austgen (Cornell Tech, IC3), Jiasun Li (George MAson University), and Nerla Jean-Louis (UIUC, IC3)*
+*Team members: Andrew Miller (Teleport, Flashbots, IC3), Hang Yin (Phala Network), James Austgen (Cornell Tech, IC3), Jiasun Li (George Mason University), and Nerla Jean-Louis (UIUC, IC3)*
 
 
 ### CAMP HIGHLIGHTS
