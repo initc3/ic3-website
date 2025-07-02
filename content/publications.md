@@ -2,6 +2,7 @@
 
 ## 2025 ##
 
+- L.W. Cong, L. Fox, S. Li, and L. Zhou. [A primer on oracle economics](https://www.sciencedirect.com/science/article/abs/pii/S0929119925000689). Journal of Corporate Finance, 2025. (to appear)
 - H. Chung, K. Wu, and E. Shi. [Foundations of Platform-Assisted Auctions](https://arxiv.org/pdf/2501.03141). CRYPTO, 2025. (to appear)
 - A. Agarwal, R. Fernando, and B. Pinkas. [Efficiently-Thresholdizable Batched Identity Based Encryption, with Applications](https://eprint.iacr.org/2024/1575). CRYPTO, 2025. (to appear)
 - A. Fabrega, A. Zhao, J. Yu, J. Austgen, S. Allen, K. Babel, M. Kelkar, and A. Juels. [Voting-Bloc Entropy: A New Metric for DAO Decentralization](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-1205-fabrega.pdf). USENIX, 2025. (to appear)
