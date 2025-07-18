@@ -13,7 +13,8 @@
 - K. Babel, A. Chursin, G. Danezis, A. Kichidi, L. Kokoris-Kogias, A. Koshy, A. Sonnino, and M. Tian. [Mysticeti: Reaching the Latency Limits with Uncertified DAGs](Mysticeti: Reaching the Latency Limits with Uncertified DAGs). SBC, 2025. (to appear)
 - A. Fabrega, A. Zhao, J. Yu, J. Austgen, S. Allen, K. Babel, M. Kelkar, and A. Juels. [Voting-Bloc Entropy: A New Metric for DAO Decentralization](https://arxiv.org/abs/2311.03530). SBC, 2025. (to appear)
 - D. Maram, M. Kelkar, and I. Eyal. [Interactive Multi-Credential Authentication](https://eprint.iacr.org/2022/1682.pdf). SBC, 2025. (to appear)
-- J. Austgen, A. Fábrega, M. Kelkar, D. Vilardell, S. Allen, K. Babel, J. Yu, and A. Juels. [Liquefaction: Privately Liquefying Blockchain Assets](https://arxiv.org/abs/2412.02634). SBC, 2025. (to appear) 
+- J. Austgen, A. Fábrega, M. Kelkar, D. Vilardell, S. Allen, K. Babel, J. Yu, and A. Juels. [Liquefaction: Privately Liquefying Blockchain Assets](https://arxiv.org/abs/2412.02634). SBC, 2025. (to appear)
+- A. Goldberg, G. Fanti, N. Shah, and S. Wu. [Benchmarking Fraud Detectors on Private Graph Data](https://akgoldberg.github.io/files/private_fraud_benchmarking.pdf). KDD, 2025. (to appear)
 - M. Rosenberg, M. Shih, Z. Zhao, R. Wang, I. Miers, and F. Zhang. [ZIPNet: Low-bandwidth anonymous broadcast from (dis)Trusted Execution Environments](https://petsymposium.org/popets/2025/popets-2025-0058.php). PoPETS, 2025.
 - A. Ganesh and Q. Zhang. Truthful, Credible, and Optimal Auctions for Matroids via Blockchains and Commitments. EC, 2025.
 - M. Zhang, Y. Li, X. Sun, E. Chen, and X. Chen. [Computation of MEV in Decentralized Exchanges](https://mengqianzhang.me/papers/batch.pdf). EC, 2025.
