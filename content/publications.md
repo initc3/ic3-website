@@ -16,7 +16,7 @@
 - J. Austgen, A. Fábrega, M. Kelkar, D. Vilardell, S. Allen, K. Babel, J. Yu, and A. Juels. [Liquefaction: Privately Liquefying Blockchain Assets](https://arxiv.org/abs/2412.02634). SBC, 2025. (to appear)
 - A. Goldberg, G. Fanti, N. Shah, and S. Wu. [Benchmarking Fraud Detectors on Private Graph Data](https://akgoldberg.github.io/files/private_fraud_benchmarking.pdf). KDD, 2025. (to appear)
 - M. Rosenberg, M. Shih, Z. Zhao, R. Wang, I. Miers, and F. Zhang. [ZIPNet: Low-bandwidth anonymous broadcast from (dis)Trusted Execution Environments](https://petsymposium.org/popets/2025/popets-2025-0058.php). PoPETS, 2025.
-- A. Ganesh and Q. Zhang. Truthful, Credible, and Optimal Auctions for Matroids via Blockchains and Commitments. EC, 2025.
+- A. Ganesh and Q. Zhang. [Truthful, Credible, and Optimal Auctions for Matroids via Blockchains and Commitments](https://dl.acm.org/doi/pdf/10.1145/3736252.3742652). EC, 2025.
 - M. Zhang, Y. Li, X. Sun, E. Chen, and X. Chen. [Computation of MEV in Decentralized Exchanges](https://mengqianzhang.me/papers/batch.pdf). EC, 2025.
 - I. Amores-Sesar, C. Cachin, J. Villacis, and L. Zanolini. [DAG-based Consensus with Asymmetric Trust](https://dl.acm.org/doi/abs/10.1145/3732772.3733527). PODC, 2025.
 - R. de Laage, P. Yuhala, F.X. Wicht, P. Felber, C. Cachin, and V. Schiavoni. [Practical Secure Aggregation by Combining Cryptography and Trusted Execution Environments](https://dl.acm.org/doi/full/10.1145/3701717.3730543). DEBS, 2025.
