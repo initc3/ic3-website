@@ -31,6 +31,24 @@ challenges:
 projects:
 
   -
+     name: 'Blockchains for Environmental Monitoring: Theory and Empirical Evidence from China'
+     authors: Lin William Cong, Yuanyu Qu, and Guojun Wang
+     challenges: [*good]
+     description: We explore the effects of a blockchain-based environmental monitoring technology on emissions. Our model of firm competition in the presence of regional regulators reveals that blockchain adoption reduces industrial pollution but triggers business relocation, creating trade-offs between local emission reduction and economic contraction. When pollution-induced social losses are highly dispersed across cities, a partial-adoption equilibrium fails to mitigate aggregate emissions because of the pollution leakage. We further present the first piece of empirical evidence corroborating model predictions, by taking advantage of a recent regulation change in China. The concentrations of SO2, NO2, and CO in blockchain-adopting cities are on average 16.6%, 7.9% and 4.6%, respectively, lower than other cities. However, blockchain-based monitoring disproportionately hurts the industrial sector, and the average economic activities is reduced by 1.8%-2.6%. Firms in adopting cities open more non-local plants to avoid regulation. For more details, see our <a href="https://academic.oup.com/rof/advance-article-abstract/doi/10.1093/rof/rfaf033/8198063">work</a>.
+
+  -
+     name: 'Giving AI Agents Access to Cryptocurrency and Smart Contracts Creates New Vectors of AI Harm'
+     authors: Bill Marino and Ari Juels
+     challenges: [*correctness, *confidentiality, *compliance]
+     description: There is growing interest in giving AI agents access to cryptocurrencies as well as to the smart contracts that transact them. But doing so, this position paper argues, could lead to formidable new vectors of AI harm. To support this argument, we first examine the unique properties of cryptocurrencies and smart contracts that could lead to these new vectors of harm. Next, we describe each of these new vectors of harm in detail. Finally, we conclude with a call for more technical research aimed at preventing and mitigating these harms and, thereby making it safer to endow AI agents with cryptocurrencies and smart contracts. For more information, see our <a href="https://arxiv.org/pdf/2507.08249">paper</a>.
+
+  -
+     name: 'Truthful, Credible, and Optimal Auctions for Matroids via Blockchains and Commitments'
+     authors: Aadityan Ganesh and Qianfan Zhang
+     challenges: [*correctness]
+     description: We consider a revenue-optimizing auctioneer in single-dimensional environments with matroid feasibility constraints. Akbarpour and Li [2020] argue that any revenue-optimal, truthful, and credible mechanism requires unbounded communication. Recent works [Chitra et al., 2023, Essaidi et al., 2022, Ferreira and Weinberg, 2020] circumvent their impossibility for single-items setting through the use of cryptographic commitments and blockchains. We extend their results to matroid feasibility constraints. At a high level, the two-round Deferred-Revelation Auction (DRA) discussed by Ferreira and Weinberg [2020] and Chitra et al. [2023] requires each bidder to submit a deposit, which is slashed upon presenting verifiable evidence indicating a deviation from the behaviour prescribed by the mechanism. We prove that the DRA satisfies truthfulness, credibility and revenue-optimality for all matroid environments when bidders’ values are drawn from 𝛼-strongly regular distributions for 𝛼 > 0. Further, we argue that the DRA is not credible for any feasibility constraint beyond matroids and for any smaller deposits than suggested by previous literature even in single-item environments. Finally, we modify the Ascending Deferred-Revelation Auction (ADRA) for single-item settings proposed by Essaidi et al. [2022] for arbitrary bidder value distributions. We implement a Deferred-Revelation variant of the deferred-acceptance auction for matroids due to Bikhchandani et al. [2011], which requires the same bounded communication as the ADRA. For more details, see our <a href="https://dl.acm.org/doi/pdf/10.1145/3736252.3742652">work</a>.
+     
+  -
      name: 'Decompiling Smart Contracts with a Large Language Model'
      authors: Isaac David, Liyi Zhou, Dawn Song, Arthur Gervais, and Kaihua Qin
      challenges: [*correctness, *confidentiality, *compliance]
