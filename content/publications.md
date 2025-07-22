@@ -25,7 +25,7 @@
 - S. Yang, K. Nayak, and F. Zhang. [Decentralization of Ethereum's Builder Market](https://arxiv.org/abs/2405.01329). IEEE S&P, 2025.
 - C. Zhang, X. Yang, D. Oswald, M. Ryan, and P. Jovanovic. [Eva: Efficient Privacy-Preserving Proof of Authenticity for Lossily Encoded Videos](https://research.birmingham.ac.uk/en/publications/eva-efficient-privacy-preserving-proof-of-authenticity-for-lossil). IEEE S&P, 2025.
 - J. Ernstberger, C. Zhang, L. Ciprian, P. Jovanovic, and S. Steinhorst. [Zero-Knowledge Location Privacy via Accurate Floating-Point SNARKs](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a057/21B7R3HsGK4). IEEE S&P, 2025.
-- W. Tang, R. El-Azouzi, C.H. Lee, E. Chan, and G. Fanti[Game Theoretic Liquidity Provisioning in Concentrated Liquidity Market Makers](https://dl.acm.org/doi/abs/10.1145/3711700). SIGMETRICS, 2025. (Best Paper Award Runner-Up)
+- W. Tang, R. El-Azouzi, C.H. Lee, E. Chan, and G. Fanti. [Game Theoretic Liquidity Provisioning in Concentrated Liquidity Market Makers](https://dl.acm.org/doi/abs/10.1145/3711700). SIGMETRICS, 2025. (Best Paper Award Runner-Up)
 - T. Gong, A. Kate, H.K. Maji, and H.H. Nguyen. [Disincentivize Collusion in Verifiable Secret Sharing](https://link.springer.com/chapter/10.1007/978-3-031-91092-0_2). EUROCRYPT, 2025.
 - B. Arun, Z. Li, F. Suri-Payer, S. Das, and A. Spiegelman. [Bolt: High Throughput DAG BFT Can Be Fast and Robust!](https://arxiv.org/abs/2405.20488). NSDI, 2025.
 - W. Wang, L. Zhou, A. Yaish, F. Zhang, B. Fisch, and B. Livshits. [Prooφ: A ZKP Market Mechanism](https://arxiv.org/abs/2404.06495). FC, 2025. 
