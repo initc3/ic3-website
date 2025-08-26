@@ -3,18 +3,19 @@
 ## 2025 ##
 
 - L.W. Cong, L. Fox, S. Li, and L. Zhou. [A primer on oracle economics](https://www.sciencedirect.com/science/article/abs/pii/S0929119925000689). Journal of Corporate Finance, 2025. (to appear)
-- H. Chung, K. Wu, and E. Shi. [Foundations of Platform-Assisted Auctions](https://arxiv.org/pdf/2501.03141). CRYPTO, 2025. (to appear)
-- A. Agarwal, R. Fernando, and B. Pinkas. [Efficiently-Thresholdizable Batched Identity Based Encryption, with Applications](https://eprint.iacr.org/2024/1575). CRYPTO, 2025. (to appear)
-- A. Fabrega, A. Zhao, J. Yu, J. Austgen, S. Allen, K. Babel, M. Kelkar, and A. Juels. [Voting-Bloc Entropy: A New Metric for DAO Decentralization](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-1205-fabrega.pdf). USENIX, 2025. (to appear)
-- T. Gu, Y. Wang, A. Tinoco, B. Chen, K. Yi, and E. Shi. [Flexway O-Sort: Enclave-Friendly and Optimal Oblivious Sorting](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://eprint.iacr.org/2023/1258.pdf). USENIX, 2025. (to appear)
-- M. Shih, H. Kailad, M. Rosenberg, and I. Miers. [zk-promises: Anonymous Moderation, Reputation, and Blocking from Anonymous Credentials with Callbacks](https://eprint.iacr.org/2024/1260). USENIX, 2025. (to appear)
-- Y. Wang and F. Zhang. [Qelect: Lattice-based Single Secret Leader Election Made Practical](https://eprint.iacr.org/2025/122). USENIX, 2025. (to appear)
-- L. Heimbach, Y. Vonlanthen, J. Villacis, L. Kiffer, and R. Wattenhofer. [Deanonymizing Ethereum Validators: The P2P Network Has a Privacy Issue](https://arxiv.org/abs/2409.04366). SBC, 2025. (to appear)
-- K. Babel, A. Chursin, G. Danezis, A. Kichidi, L. Kokoris-Kogias, A. Koshy, A. Sonnino, and M. Tian. [Mysticeti: Reaching the Latency Limits with Uncertified DAGs](Mysticeti: Reaching the Latency Limits with Uncertified DAGs). SBC, 2025. (to appear)
-- A. Fabrega, A. Zhao, J. Yu, J. Austgen, S. Allen, K. Babel, M. Kelkar, and A. Juels. [Voting-Bloc Entropy: A New Metric for DAO Decentralization](https://arxiv.org/abs/2311.03530). SBC, 2025. (to appear)
-- D. Maram, M. Kelkar, and I. Eyal. [Interactive Multi-Credential Authentication](https://eprint.iacr.org/2022/1682.pdf). SBC, 2025. (to appear)
-- J. Austgen, A. Fábrega, M. Kelkar, D. Vilardell, S. Allen, K. Babel, J. Yu, and A. Juels. [Liquefaction: Privately Liquefying Blockchain Assets](https://arxiv.org/abs/2412.02634). SBC, 2025. (to appear)
-- A. Goldberg, G. Fanti, N. Shah, and S. Wu. [Benchmarking Fraud Detectors on Private Graph Data](https://akgoldberg.github.io/files/private_fraud_benchmarking.pdf). KDD, 2025. (to appear)
+- H. Chung, K. Wu, and E. Shi. [Foundations of Platform-Assisted Auctions](https://arxiv.org/pdf/2501.03141). CRYPTO, 2025.
+- A. Agarwal, R. Fernando, and B. Pinkas. [Efficiently-Thresholdizable Batched Identity Based Encryption, with Applications](https://eprint.iacr.org/2024/1575). CRYPTO, 2025.
+- T. Gu, A. Tinoco, S.H.G. Rajan, and E. Shi. [PicoGRAM: Practical Garbled RAM from Decisional Diffie-Hellman](https://link.springer.com/chapter/10.1007/978-3-032-01913-4_8). CRYPTO, 2025.
+- A. Fabrega, A. Zhao, J. Yu, J. Austgen, S. Allen, K. Babel, M. Kelkar, and A. Juels. [Voting-Bloc Entropy: A New Metric for DAO Decentralization](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-1205-fabrega.pdf). USENIX, 2025.
+- T. Gu, Y. Wang, A. Tinoco, B. Chen, K. Yi, and E. Shi. [Flexway O-Sort: Enclave-Friendly and Optimal Oblivious Sorting](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://eprint.iacr.org/2023/1258.pdf). USENIX, 2025.
+- M. Shih, H. Kailad, M. Rosenberg, and I. Miers. [zk-promises: Anonymous Moderation, Reputation, and Blocking from Anonymous Credentials with Callbacks](https://eprint.iacr.org/2024/1260). USENIX, 2025.
+- Y. Wang and F. Zhang. [Qelect: Lattice-based Single Secret Leader Election Made Practical](https://eprint.iacr.org/2025/122). USENIX, 2025.
+- L. Heimbach, Y. Vonlanthen, J. Villacis, L. Kiffer, and R. Wattenhofer. [Deanonymizing Ethereum Validators: The P2P Network Has a Privacy Issue](https://arxiv.org/abs/2409.04366). SBC, 2025.
+- K. Babel, A. Chursin, G. Danezis, A. Kichidi, L. Kokoris-Kogias, A. Koshy, A. Sonnino, and M. Tian. [Mysticeti: Reaching the Latency Limits with Uncertified DAGs](Mysticeti: Reaching the Latency Limits with Uncertified DAGs). SBC, 2025.
+- A. Fabrega, A. Zhao, J. Yu, J. Austgen, S. Allen, K. Babel, M. Kelkar, and A. Juels. [Voting-Bloc Entropy: A New Metric for DAO Decentralization](https://arxiv.org/abs/2311.03530). SBC, 2025.
+- D. Maram, M. Kelkar, and I. Eyal. [Interactive Multi-Credential Authentication](https://eprint.iacr.org/2022/1682.pdf). SBC, 2025.
+- J. Austgen, A. Fábrega, M. Kelkar, D. Vilardell, S. Allen, K. Babel, J. Yu, and A. Juels. [Liquefaction: Privately Liquefying Blockchain Assets](https://arxiv.org/abs/2412.02634). SBC, 2025.
+- A. Goldberg, G. Fanti, N. Shah, and S. Wu. [Benchmarking Fraud Detectors on Private Graph Data](https://akgoldberg.github.io/files/private_fraud_benchmarking.pdf). KDD, 2025.
 - M. Rosenberg, M. Shih, Z. Zhao, R. Wang, I. Miers, and F. Zhang. [ZIPNet: Low-bandwidth anonymous broadcast from (dis)Trusted Execution Environments](https://petsymposium.org/popets/2025/popets-2025-0058.php). PoPETS, 2025.
 - A. Ganesh and Q. Zhang. [Truthful, Credible, and Optimal Auctions for Matroids via Blockchains and Commitments](https://dl.acm.org/doi/pdf/10.1145/3736252.3742652). EC, 2025.
 - M. Zhang, Y. Li, X. Sun, E. Chen, and X. Chen. [Computation of MEV in Decentralized Exchanges](https://mengqianzhang.me/papers/batch.pdf). EC, 2025.
