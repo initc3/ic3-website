@@ -568,14 +568,6 @@ students:
     bio: "Shailesh is a PhD student at EPFL, where he is supervised by Prof. Bryan Ford. His research focuses on security and privacy.\n"
     
   -
-    name: 'Simone Colombo'
-    pic: Raptor1.jpg
-    title:
-    email: simone.colombo@epfl.ch
-    weburl:
-    bio: "Simone is a PhD student at Swiss Federal Institute of Technology in Lausanne (EPFL), Switzerland, under the supervision of Prof. Bryan Ford. His research focuses on cryptography, security and privacy.\n"
-    
-  -
     name: 'Michael Mirkin'
     pic: MichaelM.jpg
     title:
@@ -721,15 +713,7 @@ scientists:
     weburl: 'https://syssec.ethz.ch/people/kkari.html'
     bio: "Kari Kostiainen is Senior Scientist at ETH Zurich and Coordinator of Zurich Information Security Center (ZISC). Before joining ETH, Kari was a researcher at Nokia. He has a PhD in computer science from Aalto. Kari's research focuses on system security. Recent topics include smartphone security, trusted computing, secure user interaction, and blockchain security."
 
-  -
-    name: 'Dr. Vero Estrada-Galinanes'
-    pic: Vero.jpg
-    title:
-    email: 
-    weburl: 'https://ch.linkedin.com/in/veronicaestrada'
-    bio: "Vero Estrada-Galinanes is a well-established researcher scientist member of DEDIS lab at EPFL. She was formerly an Associate Professor and research deputy leader at the Resilient Systems lab at University of Stavanger, Norway. She gained international experience acquired in academic environments, in the industry, as well as, in the public sector. She got a PhD thesis from University of Neuchatel, Switzerland, and has been with the Storage Systems Research Center at UCSC, USA. She was the recipient of SNSF, MEXT (Monbukagakusho), and CONICET grants. Her research areas of interest are decentralized p2p systems, complex systems, distributed data structures, cryptoeconomics, and their cross-disciplinary applications to empower individuals, communities and societies."
-
-advisors:
+ advisors:
   -
     name: 'Jay Yu'
     pic: Jay.png
@@ -895,6 +879,15 @@ alumni_faculty:
 
 alumni_researchers:
   -
+    name: 'Dr. Vero Estrada-Galinanes'
+    pic: Vero.jpg
+    title:
+    email: 
+    weburl: 'https://ch.linkedin.com/in/veronicaestrada'
+    bio: "Vero Estrada-Galinanes is a well-established researcher scientist and former member of DEDIS lab at EPFL. She was formerly an Associate Professor and research deputy leader at the Resilient Systems lab at University of Stavanger, Norway. She gained international experience acquired in academic environments, in the industry, as well as, in the public sector. She got a PhD thesis from University of Neuchatel, Switzerland, and has been with the Storage Systems Research Center at UCSC, USA. She was the recipient of SNSF, MEXT (Monbukagakusho), and CONICET grants. Her research areas of interest are decentralized p2p systems, complex systems, distributed data structures, cryptoeconomics, and their cross-disciplinary applications to empower individuals, communities and societies."
+
+
+  -
     name: 'Linus Gasser'
     pic: Linus.jpg
     title:
@@ -903,6 +896,14 @@ alumni_researchers:
     bio: "Linus is working with his team of engineers to interface between PhD-students from Bryan Ford’s lab and industry partners. He likes to work with semester students, too, and help them to understand the implication of decentralised, distributed systems, and how ECC fits into that picture. His long-term goal is to build software for scalable, self-organizing communities. The current effort is at <a href=\"https://github.com/dedis/cothority\">Cothority</a>.\n"
  
 alumni_postdocs:
+  -
+    name: 'Simone Colombo'
+    pic: Raptor1.jpg
+    title:
+    email: simone.colombo@epfl.ch
+    weburl:
+    bio: "I am a postdoctoral researcher in the Cybersecurity group at King's College London working on the social foundations of cryptography with Martin R. Albrecht and Ben Dowling. I completed my PhD at EPFL under the supervision of Bryan Ford in the DEDIS group.\n"
+    
   -
     name: 'Kasra Edalatnejad'
     pic: Kasra.jpg
