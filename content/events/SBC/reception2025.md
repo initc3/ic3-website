@@ -8,7 +8,9 @@ summary: Thank you to all who joined us for the IC3 Members & Friends Reception 
 
 IC3 hosted this reception during SBC 2025 to bring together members, collaborators, and conference attendees for an evening of networking and conversation.
 
-The gathering allowed attendees to reflect on the day’s presentations and explore future collaborations. The event celebrated the blockchain community’s vibrancy and sparked new connections between researchers in academia and industry. These interactions support IC3’s mission to accelerate the path from research to real-world adoption.
+The gathering allowed attendees to reflect on the day’s presentations and explore future collaborations. The event celebrated the blockchain community’s vibrancy and sparked new connections between researchers in academia and industry. 
+
+These interactions support IC3’s mission to accelerate the path from research to real-world adoption.
 
 
 <div class="ui center aligned basic segment">
