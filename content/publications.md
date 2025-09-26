@@ -3,6 +3,16 @@
 ## 2025 ##
 
 - L.W. Cong, L. Fox, S. Li, and L. Zhou. [A primer on oracle economics](https://www.sciencedirect.com/science/article/abs/pii/S0929119925000689). Journal of Corporate Finance, 2025. (to appear)
+- J. Groth, H. Malvai, A. Miller, and Y-N. Zhang. [Constraint-Friendly Map-to-Elliptic-Curve-Group Relations and Their Applications](https://eprint.iacr.org/2025/1503). ASIACRYPT, 2025. (to appear)
+- F. Suri-Payer, N. Giridharan, L. Arzola, S. Cohen, L. Alvisi, and N. Crooks. [Pesto: Cooking up High Performance BFT Queries](https://www.cs.cornell.edu/lorenzo/papers/Suri25Pesto). SOSP, 2025. (to appear)
+- L-H. Merino, S. Colombo, R. Reyes, A. Azhir, H. Zhang, J. Allen, B. Tellenbach, V. Estrada-Galiñanes, and B. Ford. [TRIP: Trust-Limited Coercion-Resistant In-Person Voter Registration](https://arxiv.org/abs/2202.06692). SOSP, 2025. (to appear)
+- G. Tan, A. Gascón, S. Meiklejohn, M. Raykova, X. Wang, and N. Luo. [Founding Zero-Knowledge Proofs of Training on Optimum Vicinity](https://eprint.iacr.org/2025/053). ACM CCS, 2025. (to appear)
+- Y. Bar-On, R. Bar-Zur, O. Ben-Porat, N. Cohen, I. Eyal, and M. Sitbon. [Aegis: Tethering a Blockchain with Primary-Chain Stake](https://arxiv.org/abs/2406.05904). ACM CCS, 2025. (to appear)
+- R. Bar-Zur and I. Eyal. [Elastic Restaking Network](https://arxiv.org/abs/2503.00170). ACM CCS, 2025. (to appear)
+- M. Kelkar, A. Ganesh, A. Partap, J. Bonneau, and S.M. Weinberg. [Breaking Omertà: On Threshold Cryptography, Smart Collusion, and Whistleblowing](https://eprint.iacr.org/2025/1582). ACM CCS, 2025. (to appear)
+- T-H. Hubert Chan, K. Wu, and E. Shi. [Mechanism Design for Automated Market Makers](https://arxiv.org/abs/2402.09357). AFT, 2025. (to appear)
+- B. Llacer Trotti, W. Tang, R. El-Azouzi, G. Fanti, and D. Sadoc Menasche. [Strategic Analysis of Just-In-Time Liquidity Provision in Concentrated Liquidity Market Makers](https://arxiv.org/abs/2509.16157). AFT, 2025. (to appear)
+- L.W. Cong, P. Ghosh, J. Li, and Q. Ruan. [Inflation Expectation and Cryptocurrency Investment](https://www.nber.org/papers/w32945). AFT, 2025. (to appear)
 - H. Chung, K. Wu, and E. Shi. [Foundations of Platform-Assisted Auctions](https://arxiv.org/pdf/2501.03141). CRYPTO, 2025.
 - A. Agarwal, R. Fernando, and B. Pinkas. [Efficiently-Thresholdizable Batched Identity Based Encryption, with Applications](https://eprint.iacr.org/2024/1575). CRYPTO, 2025.
 - T. Gu, A. Tinoco, S.H.G. Rajan, and E. Shi. [PicoGRAM: Practical Garbled RAM from Decisional Diffie-Hellman](https://link.springer.com/chapter/10.1007/978-3-032-01913-4_8). CRYPTO, 2025.
