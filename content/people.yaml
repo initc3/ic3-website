@@ -536,14 +536,6 @@ students:
     bio: "Ujval is a PhD student at UC Berkeley working with Dawn Song. His research interests broadly lie in security, privacy and decentralized trust."
     
   - 
-    name: 'Mahimna Kelkar'
-    pic: Mahimna.jpg
-    title:
-    email: mahimna@cs.cornell.edu
-    weburl: 'https://www.cs.cornell.edu/~mahimna/'
-    bio: "Mahimna is a Ph.D. student in Computer Science at Cornell University where he is advised by Ari Juels. He is broadly interested in cryptography and security with some emphasis on blockchain protocols and applications." 
-     
-  - 
     name: 'Hongbo Zhang'
     pic: Hongbo.png
     title:
@@ -991,6 +983,15 @@ alumni_postdocs:
     email: jayamine.alupotha@gmail.com
     weburl:
     bio: "Jayamine Alupotha was a Postdoctoral Researcher in the University of Bern's CRYPTO group led by Professor Christian Cachin. She is mainly into privacy-preserving cryptographic protocols.\n"
+
+  - 
+    name: 'Mahimna Kelkar'
+    pic: Mahimna.jpg
+    title:
+    email: mahimna@cs.cornell.edu
+    weburl: 'https://mahimnakelkar.github.io/'
+    bio: "I am a CS postdoc at Columbia University affiliated with The Columbia-Ethereum Research Center. I recently graduated with a PhD from Cornell where I was advised by Ari Juels. My research focuses broadly on applied cryptography, security, and blockchains. I am also a research scientist at Offchain Labs.\"  
+     
    
 alumni_students:
   -
