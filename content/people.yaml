@@ -396,7 +396,7 @@ students:
     pic: Dani.jpg
     title:
     email: dv296@cornell.edu
-    weburl:
+    weburl: 'https://www.cs.cornell.edu/~dv296/'
     bio: "Dani is a Computer Science Ph.D. student at Cornell University working with prof. Ari Juels. Before joining Cornell University, he spent a year as a visiting researcher at UC Berkeley working with prof. Dawn Song on Zero Knowledge proofs. His interests include cryptography, zero knowledge proofs, blockchain and privacy.\n"
 
   -
