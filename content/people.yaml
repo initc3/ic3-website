@@ -859,7 +859,6 @@ fellows:
     weburl: 'https://sandrasiby.github.io/'
     bio: "Sandra Siby is an Assistant Professor of Computer Engineering at New York University Abu Dhabi, where she leads the Haven Lab. Her research goal is to provide individuals with better control over their privacy and protection from digital threats. She wants to work towards a future where digital services are inherently designed with user privacy and security at the forefront. Her current areas of focus are security and privacy mechanisms for the web/IoT/other emerging technologies, and deployment of trusted and private machine learning on edge devices. Sandra obtained her Ph.D. (Computer Science) from EPFL, her M.S. (Electrical Engineering) from ETH Zurich, and her B.Eng (Electrical Engineering) from the National University of Singapore. Prior to NYUAD, she was a postdoctoral research associate at Imperial College London. She also spent a few years as a research engineer at the Singapore University of Technology and Design, and as a technology analyst at J.P. Morgan.\n"
   
-
 alumni_faculty:
   -
     name: 'Emin Gün Sirer'
@@ -877,7 +876,6 @@ alumni_researchers:
     email: 
     weburl: 'https://ch.linkedin.com/in/veronicaestrada'
     bio: "Vero Estrada-Galinanes is a well-established researcher scientist and former member of DEDIS lab at EPFL. She was formerly an Associate Professor and research deputy leader at the Resilient Systems lab at University of Stavanger, Norway. She gained international experience acquired in academic environments, in the industry, as well as, in the public sector. She got a PhD thesis from University of Neuchatel, Switzerland, and has been with the Storage Systems Research Center at UCSC, USA. She was the recipient of SNSF, MEXT (Monbukagakusho), and CONICET grants. Her research areas of interest are decentralized p2p systems, complex systems, distributed data structures, cryptoeconomics, and their cross-disciplinary applications to empower individuals, communities and societies."
-
 
   -
     name: 'Linus Gasser'
@@ -990,8 +988,7 @@ alumni_postdocs:
     title:
     email: mahimna@cs.cornell.edu
     weburl: 'https://mahimnakelkar.github.io/'
-    bio: "I am a CS postdoc at Columbia University affiliated with The Columbia-Ethereum Research Center. I recently graduated with a PhD from Cornell where I was advised by Ari Juels. My research focuses broadly on applied cryptography, security, and blockchains. I am also a research scientist at Offchain Labs.\"  
-     
+    bio: "I am a CS postdoc at Columbia University affiliated with The Columbia-Ethereum Research Center. I recently graduated with a PhD from Cornell where I was advised by Ari Juels. My research focuses broadly on applied cryptography, security, and blockchains. I am also a research scientist at Offchain Labs.\n"    
    
 alumni_students:
   -
