@@ -366,15 +366,7 @@ students:
     email: annalisa.cimatti@unibe.ch
     weburl:
     bio: "Annalisa is a PhD student at the University of Bern, supervised by Professor Christian Cachin. Her research focuses on distributed cryptography. She is also interested in elliptic curves cryptosystems.\n"
-    
-  -
-    name: 'Yu Wang'
-    pic: Yu.jpg
-    title:
-    email: yw2322@cornell.edu
-    weburl:
-    bio: "Yu Wang is a PhD student in the Economics department at Cornell University and an affiliate of the DEFT Lab. He studies macroeconomics and finance, with a focus on firm investment behavior and the non-fungible token market.\n"
-    
+     
   -
     name: 'Artem Streltsov'
     pic: Artem.jpg
@@ -382,15 +374,7 @@ students:
     email: as3923@cornell.edu
     weburl:
     bio: "Artem is a Finance PhD student with a minor in Computer Science at the Johnson Graduate School of Management, Cornell University and member of the DEFT Lab at Cornell University under the supervision of Prof. Will Cong. Before coming to Cornell, he studied economics and mathematics at Duke University. Artem’s research focuses on FinTech and applications of machine learning in finance and economics.\n"
-    
-  -
-    name: 'Qihong Ruan'
-    pic: Qihong.jpeg
-    title:
-    email: qr33@cornell.edu
-    weburl:
-    bio: "Qihong Ruan is an Economics PhD student at Cornell University working on crypto, DeFi, and FinTech, advised by Prof. Maureen O'Hara and Lin William Cong. His research covers cryptocurrencies market microstructure, crypto derivatives trading, cryptocurrency investment of households, and DeFi trading platforms. Qihong is particularly excited about the intersection of AI and blockchain, the economic incentives in blockchain systems, and business applications of blockchains and Web3. His work has been presented at high-profile conferences such as the University Blockchain Research Initiative (UBRI) Connect Conference, FinTech, AI, and Big Data conference, the Northern Finance Association (NFA) Annual Meeting, and Tokenomics. Qihong's research aims to deepen understanding of cutting-edge blockchain technologies and their practical implementation in the financial sector.\n"
-    
+     
   -
     name: 'Daniel Vilardell'
     pic: Dani.jpg
@@ -1359,4 +1343,19 @@ alumni_students:
     weburl: "https://nair.me"
     bio: "I am passionate about defending our digital world and have spent over a decade researching applied cryptographic techniques to secure critical systems. I previously served as a Technical Lead within elite cyber units of the Department of Defense (DOD) and Central Intelligence Agency (CIA), where I received the directorate's Exceptional Performance Award for advancing the frontiers of US cyber operations. I completed my Ph.D. in Computer Science at UC Berkeley at the age of 22, supported by prestigious fellowships from the National Science Foundation, the National Physical Science Consortium, and the Fannie and John Hertz Foundation."
 
+  -
+    name: 'Qihong Ruan'
+    pic: Qihong.jpeg
+    title:
+    email: qr33@cornell.edu
+    weburl:
+    bio: "Qihong Ruan completed his PhD in Economics at Cornell University working on crypto, DeFi, and FinTech, advised by Prof. Maureen O'Hara and Lin William Cong. His research covers cryptocurrencies market microstructure, crypto derivatives trading, cryptocurrency investment of households, and DeFi trading platforms. Qihong is particularly excited about the intersection of AI and blockchain, the economic incentives in blockchain systems, and business applications of blockchains and Web3. His work has been presented at high-profile conferences such as the University Blockchain Research Initiative (UBRI) Connect Conference, FinTech, AI, and Big Data conference, the Northern Finance Association (NFA) Annual Meeting, and Tokenomics. Qihong's research aims to deepen understanding of cutting-edge blockchain technologies and their practical implementation in the financial sector.\n"
 
+  -
+    name: 'Yu Wang'
+    pic: Yu.jpg
+    title:
+    email: yw2322@cornell.edu
+    weburl:
+    bio: "Yu Wang completed his PhD in the Economics department at Cornell University and an affiliate of the DEFT Lab. He studied macroeconomics and finance, with a focus on firm investment behavior and the non-fungible token market.\n"
+     
