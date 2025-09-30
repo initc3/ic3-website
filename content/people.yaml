@@ -607,14 +607,6 @@ students:
     weburl: "https://jasleenmalvai.com/"
     bio: "Harjasleen Malvai is a Ph.D. student with Prof. Andrew Miller at UIUC with research interests in theoretical and applied cryptography as well as their applications to blockchains, she also maintains an interest in run-on sentences."
 
-  - 
-    name: 'Florian Suri-Payer'
-    pic: Florian.JPG
-    title:
-    email: fsp@cs.cornell.edu
-    weburl: "https://www.cs.cornell.edu/~fsp/"
-    bio: "Florian is a CS PhD student at Cornell University where he is advised by Lorenzo Alvisi. His primary research interest centers around Distributed Systems, in particular Byzantine Fault Tolerance and Databases. Other research interests broadly include Systems related ML."
-
   -
     name: 'Vivek Nair'
     pic: Vivek.jpg
@@ -1359,3 +1351,11 @@ alumni_students:
     weburl: "https://chunghao.github.io/"
     bio: "I recently completed my PhD at Carnegie Mellon University, where I am fortunate to have Elaine Shi as my advisor. My research lies in the intersection between mechanism design and cryptography with a focus on blockchain technologies. Previously, I was a research assistant at Academia Sinica, hosted by Kai-Min Chung. Before that, I was a blockchain researcher at DEXON foundation. I got my master’s degree in electrical engineering from National Taiwan University, and I got my bachelor’s degree from National Taiwan University, where I majored in physics and minored in philosophy."
     
+  - 
+    name: 'Florian Suri-Payer'
+    pic: Florian.JPG
+    title:
+    email: fsp@cs.cornell.edu
+    weburl: "https://www.cs.cornell.edu/~fsp/"
+    bio: "I graduated with a PhD in CS from Cornell University where I was fortunate to be advised by Lorenzo Alvisi and Natacha Crooks(UC Berkeley). Prior to grad school I completed my undergrad in CS at TU Berlin, Germany. Outside research, I am an avid tennis player and member of the Cornell Club Tennis team."
+
