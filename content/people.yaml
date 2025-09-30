@@ -648,14 +648,6 @@ students:
     bio: "Yanyi is a Computer Science Ph.D. student at Cornell Tech. His interests are in cryptography and theoretical computer science in general, and recently his research focuses on Kolmogorov complexity and one-way functions. He is co-advised by Rafael Pass and Elaine Shi. He obtained his bachelor's degree in computer science at Tsinghua University."
     
   - 
-    name: 'Hao Chung' 
-    pic: Hao.png
-    title:
-    email: haochung@andrew.cmu.edu
-    weburl: "https://chunghao.github.io/"
-    bio: "Hao Chung is a Ph.D. student at Carnegie Mellon University, where he is advised by Elaine Shi. He is broadly interested in cryptography, especially in the intersection between crypto and game theory."
-    
-  - 
     name: 'Benjamin Y. Chan'
     pic: Benjamin.png
     title:
@@ -1358,3 +1350,12 @@ alumni_students:
     email: amita2@illinois.edu
     weburl: "https://amitagarwal.gitbook.io/profile/"
     bio: "I am a Senior Research Scientist at Category Labs working in Cryptography. I recently completed my PhD in Computer Science from the University of Illinois, Urbana Champaign (ranked 4 in the world for Computer Science research as per CSRankings website) where I was supervised by Prof. Darshita Khurana and Prof. Andrew Miller. My research includes topics primarily in Cryptography, both theoretical and applied. I also enjoy exploring topics in Consensus, Quantum Computing, Artificial Intelligence, Game theory, Economics and Philosophy. In my free time, I like to cook, ride motorcycle, watch comedy shows and documentaries, play guitar and introspect.\n"
+
+  - 
+    name: 'Hao Chung' 
+    pic: Hao.png
+    title:
+    email: haochung@andrew.cmu.edu
+    weburl: "https://chunghao.github.io/"
+    bio: "I recently completed my PhD at Carnegie Mellon University, where I am fortunate to have Elaine Shi as my advisor. My research lies in the intersection between mechanism design and cryptography with a focus on blockchain technologies. Previously, I was a research assistant at Academia Sinica, hosted by Kai-Min Chung. Before that, I was a blockchain researcher at DEXON foundation. I got my master’s degree in electrical engineering from National Taiwan University, and I got my bachelor’s degree from National Taiwan University, where I majored in physics and minored in philosophy."
+    
