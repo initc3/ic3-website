@@ -607,14 +607,6 @@ students:
     weburl: "https://jasleenmalvai.com/"
     bio: "Harjasleen Malvai is a Ph.D. student with Prof. Andrew Miller at UIUC with research interests in theoretical and applied cryptography as well as their applications to blockchains, she also maintains an interest in run-on sentences."
 
-  -
-    name: 'Amit Agarwal'
-    pic: Amit.jpg
-    title:
-    email: amita2@illinois.edu
-    weburl: "https://amitagarwal.gitbook.io/profile/"
-    bio: "Amit is a PhD student under Professor Andrew Miller at UIUC currently doing research in theoretical and applied cryptography. His other research interests include consensus algorithms, quantum computation, and algorithm design."
-
   - 
     name: 'Florian Suri-Payer'
     pic: Florian.JPG
@@ -1359,4 +1351,11 @@ alumni_students:
     weburl: "https://cs.cmu.edu/~mingxunz"
     bio: "Mingxun Zhou completed his Ph.D. in the Computer Science Department at Carnegie Mellon University under the supervision of prof. Giulia Fanti and prof. Elaine Shi. His research interests include privacy-preserving algorithm design and the algorithmic foundation of blockchain. Before joining CMU, he received his bachelor's degree from Peking University.\n"
 
+  -
+    name: 'Amit Agarwal'
+    pic: Amit.jpg
+    title:
+    email: amita2@illinois.edu
+    weburl: "https://amitagarwal.gitbook.io/profile/"
+    bio: "I am a Senior Research Scientist at Category Labs working in Cryptography. I recently completed my PhD in Computer Science from the University of Illinois, Urbana Champaign (ranked 4 in the world for Computer Science research as per <a href="https://csrankings.org/#/index?all&world">CSRankings</a>) where I was supervised by Prof. <a href="https://www.dakshitakhurana.com/">Dakshita Khurana</a> and Prof. <a href="https://soc1024.ece.illinois.edu/">Andrew Miller</a>. My research includes topics primarily in Cryptography, both theoretical and applied. I also enjoy exploring topics in Consensus, Quantum Computing, Artificial Intelligence, Game theory, Economics and Philosophy. In my free time, I like to cook, ride motorcycle, watch comedy shows and documentaries, play guitar and introspect."
 
