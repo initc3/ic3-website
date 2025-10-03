@@ -341,3 +341,10 @@
  title: "Introducing Risk-Aware Restaking: Winners of the 2025 IC3 Blockchain Camp Hackathon"
  authors: IC3
  summary: Risk-Aware Restaking took first place at this year’s IC3 Blockchain Camp hackathon. We sat down with project lead Roi Bar-Zur (Technion, IC3) to find out what they built, the technical hurdles they overcame during the hackathon, and what’s next for their project.
+
+-
+ date: 2025-09-05
+ url: https://initc3org.medium.com/on-chain-vote-buying-and-the-rise-of-dark-daos-b01f5bd77030
+ title: "On-Chain Vote Buying and the Rise of Dark DAOs"
+ authors: IC3
+ summary: The following blog post was originally published on 2 July 2018, in Hacking, Distributed (HD) — the site (run by Gün Sirer) where IC3 blog posts were originally published. When HD went offline, the post disappeared. We’re reviving it now, seven years later, because its ideas have proven to be so prescient. Its focus was on how trusted execution environments (TEEs) could be used to attack voting systems through private smart-contracts for bribery. For this idea, we coined the term Dark DAOs.

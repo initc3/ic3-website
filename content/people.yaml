@@ -366,15 +366,7 @@ students:
     email: annalisa.cimatti@unibe.ch
     weburl:
     bio: "Annalisa is a PhD student at the University of Bern, supervised by Professor Christian Cachin. Her research focuses on distributed cryptography. She is also interested in elliptic curves cryptosystems.\n"
-    
-  -
-    name: 'Yu Wang'
-    pic: Yu.jpg
-    title:
-    email: yw2322@cornell.edu
-    weburl:
-    bio: "Yu Wang is a PhD student in the Economics department at Cornell University and an affiliate of the DEFT Lab. He studies macroeconomics and finance, with a focus on firm investment behavior and the non-fungible token market.\n"
-    
+     
   -
     name: 'Artem Streltsov'
     pic: Artem.jpg
@@ -382,21 +374,13 @@ students:
     email: as3923@cornell.edu
     weburl:
     bio: "Artem is a Finance PhD student with a minor in Computer Science at the Johnson Graduate School of Management, Cornell University and member of the DEFT Lab at Cornell University under the supervision of Prof. Will Cong. Before coming to Cornell, he studied economics and mathematics at Duke University. Artem’s research focuses on FinTech and applications of machine learning in finance and economics.\n"
-    
-  -
-    name: 'Qihong Ruan'
-    pic: Qihong.jpeg
-    title:
-    email: qr33@cornell.edu
-    weburl:
-    bio: "Qihong Ruan is an Economics PhD student at Cornell University working on crypto, DeFi, and FinTech, advised by Prof. Maureen O'Hara and Lin William Cong. His research covers cryptocurrencies market microstructure, crypto derivatives trading, cryptocurrency investment of households, and DeFi trading platforms. Qihong is particularly excited about the intersection of AI and blockchain, the economic incentives in blockchain systems, and business applications of blockchains and Web3. His work has been presented at high-profile conferences such as the University Blockchain Research Initiative (UBRI) Connect Conference, FinTech, AI, and Big Data conference, the Northern Finance Association (NFA) Annual Meeting, and Tokenomics. Qihong's research aims to deepen understanding of cutting-edge blockchain technologies and their practical implementation in the financial sector.\n"
-    
+     
   -
     name: 'Daniel Vilardell'
     pic: Dani.jpg
     title:
     email: dv296@cornell.edu
-    weburl:
+    weburl: 'https://www.cs.cornell.edu/~dv296/'
     bio: "Dani is a Computer Science Ph.D. student at Cornell University working with prof. Ari Juels. Before joining Cornell University, he spent a year as a visiting researcher at UC Berkeley working with prof. Dawn Song on Zero Knowledge proofs. His interests include cryptography, zero knowledge proofs, blockchain and privacy.\n"
 
   -
@@ -536,14 +520,6 @@ students:
     bio: "Ujval is a PhD student at UC Berkeley working with Dawn Song. His research interests broadly lie in security, privacy and decentralized trust."
     
   - 
-    name: 'Mahimna Kelkar'
-    pic: Mahimna.jpg
-    title:
-    email: mahimna@cs.cornell.edu
-    weburl: 'https://www.cs.cornell.edu/~mahimna/'
-    bio: "Mahimna is a Ph.D. student in Computer Science at Cornell University where he is advised by Ari Juels. He is broadly interested in cryptography and security with some emphasis on blockchain protocols and applications." 
-     
-  - 
     name: 'Hongbo Zhang'
     pic: Hongbo.png
     title:
@@ -616,30 +592,6 @@ students:
     bio: "Harjasleen Malvai is a Ph.D. student with Prof. Andrew Miller at UIUC with research interests in theoretical and applied cryptography as well as their applications to blockchains, she also maintains an interest in run-on sentences."
 
   -
-    name: 'Amit Agarwal'
-    pic: Amit.jpg
-    title:
-    email: amita2@illinois.edu
-    weburl: "https://amitagarwal.gitbook.io/profile/"
-    bio: "Amit is a PhD student under Professor Andrew Miller at UIUC currently doing research in theoretical and applied cryptography. His other research interests include consensus algorithms, quantum computation, and algorithm design."
-
-  - 
-    name: 'Florian Suri-Payer'
-    pic: Florian.JPG
-    title:
-    email: fsp@cs.cornell.edu
-    weburl: "https://www.cs.cornell.edu/~fsp/"
-    bio: "Florian is a CS PhD student at Cornell University where he is advised by Lorenzo Alvisi. His primary research interest centers around Distributed Systems, in particular Byzantine Fault Tolerance and Databases. Other research interests broadly include Systems related ML."
-
-  -
-    name: 'Vivek Nair'
-    pic: Vivek.jpg
-    title:
-    email: vcn@berkeley.edu
-    weburl: "https://nair.me"
-    bio: "Vivek Nair is an NSF CyberCorps Scholar, an NPSC Fellow, and a Ph.D. student at UC Berkeley working with Dawn Song. He was the youngest-ever computer science degree recipient at the University of Illinois. His research interests are in authentication and applied cryptography."
-
-  -
     name: 'Nerla Jean-Louis'
     pic: Nerla.jpg
     title:
@@ -662,14 +614,6 @@ students:
     email: yl2866@cornell.edu
     weburl:
     bio: "Yanyi is a Computer Science Ph.D. student at Cornell Tech. His interests are in cryptography and theoretical computer science in general, and recently his research focuses on Kolmogorov complexity and one-way functions. He is co-advised by Rafael Pass and Elaine Shi. He obtained his bachelor's degree in computer science at Tsinghua University."
-    
-  - 
-    name: 'Hao Chung' 
-    pic: Hao.png
-    title:
-    email: haochung@andrew.cmu.edu
-    weburl: "https://chunghao.github.io/"
-    bio: "Hao Chung is a Ph.D. student at Carnegie Mellon University, where he is advised by Elaine Shi. He is broadly interested in cryptography, especially in the intersection between crypto and game theory."
     
   - 
     name: 'Benjamin Y. Chan'
@@ -867,7 +811,6 @@ fellows:
     weburl: 'https://sandrasiby.github.io/'
     bio: "Sandra Siby is an Assistant Professor of Computer Engineering at New York University Abu Dhabi, where she leads the Haven Lab. Her research goal is to provide individuals with better control over their privacy and protection from digital threats. She wants to work towards a future where digital services are inherently designed with user privacy and security at the forefront. Her current areas of focus are security and privacy mechanisms for the web/IoT/other emerging technologies, and deployment of trusted and private machine learning on edge devices. Sandra obtained her Ph.D. (Computer Science) from EPFL, her M.S. (Electrical Engineering) from ETH Zurich, and her B.Eng (Electrical Engineering) from the National University of Singapore. Prior to NYUAD, she was a postdoctoral research associate at Imperial College London. She also spent a few years as a research engineer at the Singapore University of Technology and Design, and as a technology analyst at J.P. Morgan.\n"
   
-
 alumni_faculty:
   -
     name: 'Emin Gün Sirer'
@@ -885,7 +828,6 @@ alumni_researchers:
     email: 
     weburl: 'https://ch.linkedin.com/in/veronicaestrada'
     bio: "Vero Estrada-Galinanes is a well-established researcher scientist and former member of DEDIS lab at EPFL. She was formerly an Associate Professor and research deputy leader at the Resilient Systems lab at University of Stavanger, Norway. She gained international experience acquired in academic environments, in the industry, as well as, in the public sector. She got a PhD thesis from University of Neuchatel, Switzerland, and has been with the Storage Systems Research Center at UCSC, USA. She was the recipient of SNSF, MEXT (Monbukagakusho), and CONICET grants. Her research areas of interest are decentralized p2p systems, complex systems, distributed data structures, cryptoeconomics, and their cross-disciplinary applications to empower individuals, communities and societies."
-
 
   -
     name: 'Linus Gasser'
@@ -991,6 +933,14 @@ alumni_postdocs:
     email: jayamine.alupotha@gmail.com
     weburl:
     bio: "Jayamine Alupotha was a Postdoctoral Researcher in the University of Bern's CRYPTO group led by Professor Christian Cachin. She is mainly into privacy-preserving cryptographic protocols.\n"
+
+  - 
+    name: 'Mahimna Kelkar'
+    pic: Mahimna.jpg
+    title:
+    email: mahimna@cs.cornell.edu
+    weburl: 'https://mahimnakelkar.github.io/'
+    bio: "I am a CS postdoc at Columbia University affiliated with The Columbia-Ethereum Research Center. I recently graduated with a PhD from Cornell where I was advised by Ari Juels. My research focuses broadly on applied cryptography, security, and blockchains. I am also a research scientist at Offchain Labs.\n"    
    
 alumni_students:
   -
@@ -1361,4 +1311,51 @@ alumni_students:
     weburl: "https://cs.cmu.edu/~mingxunz"
     bio: "Mingxun Zhou completed his Ph.D. in the Computer Science Department at Carnegie Mellon University under the supervision of prof. Giulia Fanti and prof. Elaine Shi. His research interests include privacy-preserving algorithm design and the algorithmic foundation of blockchain. Before joining CMU, he received his bachelor's degree from Peking University.\n"
 
+  -
+    name: 'Amit Agarwal'
+    pic: Amit.jpg
+    title:
+    email: amita2@illinois.edu
+    weburl: "https://amitagarwal.gitbook.io/profile/"
+    bio: "I am a Senior Research Scientist at Category Labs working in Cryptography. I recently completed my PhD in Computer Science from the University of Illinois, Urbana Champaign (ranked 4 in the world for Computer Science research as per CSRankings website) where I was supervised by Prof. Darshita Khurana and Prof. Andrew Miller. My research includes topics primarily in Cryptography, both theoretical and applied. I also enjoy exploring topics in Consensus, Quantum Computing, Artificial Intelligence, Game theory, Economics and Philosophy. In my free time, I like to cook, ride motorcycle, watch comedy shows and documentaries, play guitar and introspect.\n"
 
+  - 
+    name: 'Hao Chung' 
+    pic: Hao.png
+    title:
+    email: haochung@andrew.cmu.edu
+    weburl: "https://chunghao.github.io/"
+    bio: "I recently completed my PhD at Carnegie Mellon University, where I am fortunate to have Elaine Shi as my advisor. My research lies in the intersection between mechanism design and cryptography with a focus on blockchain technologies. Previously, I was a research assistant at Academia Sinica, hosted by Kai-Min Chung. Before that, I was a blockchain researcher at DEXON foundation. I got my master’s degree in electrical engineering from National Taiwan University, and I got my bachelor’s degree from National Taiwan University, where I majored in physics and minored in philosophy."
+    
+  - 
+    name: 'Florian Suri-Payer'
+    pic: Florian.JPG
+    title:
+    email: fsp@cs.cornell.edu
+    weburl: "https://www.cs.cornell.edu/~fsp/"
+    bio: "I graduated with a PhD in CS from Cornell University where I was fortunate to be advised by Lorenzo Alvisi and Natacha Crooks(UC Berkeley). Prior to grad school I completed my undergrad in CS at TU Berlin, Germany. Outside research, I am an avid tennis player and member of the Cornell Club Tennis team."
+
+  -
+    name: 'Vivek Nair'
+    pic: Vivek.jpg
+    title:
+    email: vcn@berkeley.edu
+    weburl: "https://nair.me"
+    bio: "I am passionate about defending our digital world and have spent over a decade researching applied cryptographic techniques to secure critical systems. I previously served as a Technical Lead within elite cyber units of the Department of Defense (DOD) and Central Intelligence Agency (CIA), where I received the directorate's Exceptional Performance Award for advancing the frontiers of US cyber operations. I completed my Ph.D. in Computer Science at UC Berkeley at the age of 22, supported by prestigious fellowships from the National Science Foundation, the National Physical Science Consortium, and the Fannie and John Hertz Foundation."
+
+  -
+    name: 'Qihong Ruan'
+    pic: Qihong.jpeg
+    title:
+    email: qr33@cornell.edu
+    weburl:
+    bio: "Qihong Ruan completed his PhD in Economics at Cornell University working on crypto, DeFi, and FinTech, advised by Prof. Maureen O'Hara and Lin William Cong. His research covers cryptocurrencies market microstructure, crypto derivatives trading, cryptocurrency investment of households, and DeFi trading platforms. Qihong is particularly excited about the intersection of AI and blockchain, the economic incentives in blockchain systems, and business applications of blockchains and Web3. His work has been presented at high-profile conferences such as the University Blockchain Research Initiative (UBRI) Connect Conference, FinTech, AI, and Big Data conference, the Northern Finance Association (NFA) Annual Meeting, and Tokenomics. Qihong's research aims to deepen understanding of cutting-edge blockchain technologies and their practical implementation in the financial sector.\n"
+
+  -
+    name: 'Yu Wang'
+    pic: Yu.jpg
+    title:
+    email: yw2322@cornell.edu
+    weburl:
+    bio: "Yu Wang completed his PhD in the Economics department at Cornell University and an affiliate of the DEFT Lab. He studied macroeconomics and finance, with a focus on firm investment behavior and the non-fungible token market.\n"
+     
