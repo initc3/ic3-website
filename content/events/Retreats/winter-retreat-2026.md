@@ -6,7 +6,7 @@ end: 2026-01-09
 summary: Pack your skis — we’re heading back to the <a href="https://www.titlis.ch/de/unterkuenfte/hotel-terrace">Hotel Terrace</a> in Engelberg, Switzerland, for the 2026 Winter Retreat!
 ---
 
-This annual event features presentations and discussions on the latest IC3 research, networking opportunities, group activities, and more. Registration is now <a href="https://docs.google.com/forms/d/e/1FAIpQLSfge9mr-roh7GgZgNJEjeNrdIMwfPjwgbABLwNhV14GfGe_CQ/viewform">OPEN</a> for our partners and members. Please see below for important details.
+This annual event features presentations and discussions on the latest IC3 research, networking opportunities, group activities, and more. Registration is now open for our partners and members. Please see below for important details.
 
 <div class="ui piled segment">
   <img class="ui centered image" src="../images/events/WinterRetreat2026/Group.jpg" alt="" width="750" />
@@ -26,10 +26,20 @@ We strongly encourage all members and partners to <a href="https://docs.google.c
 
 Upon registering, you can expect to receive a confirmation email from us (check your spam folders).
 
-Go <a href=https://www.initc3.org/events/2025-01-05-ic3-winter-retreat-2025">here</a> to see highlights from the IC3 Winter Retreat 2025.
+<div class="ui center aligned basic segment">
+    <div class="ui center image">
+        <img class="ui image" src="../images/events/WinterRetreat2026/Group.jpg" alt="" width="500"/>
+    </div>
+    <div class="ui bottom attached message">
+        <strong>Go <a href=https://www.initc3.org/events/2025-01-05-ic3-winter-retreat-2025">here</a> to see highlights from the IC3 Winter Retreat 2025.
+    </strong><br>
+    </div>    
+</div>
 
 
 ## Call for Presentations
+
+
 
 New research? We’d love for you to present your work!﻿
 
