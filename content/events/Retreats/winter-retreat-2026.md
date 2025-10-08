@@ -18,7 +18,7 @@ This annual event features presentations and discussions on the latest IC3 resea
 	</a>	
 </p>
 
-**Location:** <a href="https://www.titlis.ch/de/unterkuenfte/hotel-terrace">Hotel Terrace</a>, Engelberg, Switzerkland <br>
+**Location:** <a href="https://www.titlis.ch/de/unterkuenfte/hotel-terrace">Hotel Terrace</a>, Engelberg, Switzerland <br>
 **Date:** January 5-9, 2026 (including travel days) <br>
 **Registration Deadline: November 15, 2025**
 
