@@ -5,3 +5,51 @@ start: 2026-01-05
 end: 2026-01-09
 summary: Pack your skis — we’re heading back to the <a href="https://www.titlis.ch/de/unterkuenfte/hotel-terrace">Hotel Terrace</a> in Engelberg, Switzerland, for the 2026 Winter Retreat!
 ---
+
+This annual event features presentations and discussions on the latest IC3 research, networking opportunities, group activities, and more. Registration is now <a href="https://docs.google.com/forms/d/e/1FAIpQLSfge9mr-roh7GgZgNJEjeNrdIMwfPjwgbABLwNhV14GfGe_CQ/viewform">OPEN</a> for our partners and members. Please see below for important details.
+
+<div class="ui piled segment">
+  <img class="ui centered image" src="../images/events/WinterRetreat2026/Group.jpg" alt="" width="750" />
+</div>
+
+<p align="center">
+	<a href="https://docs.google.com/forms/d/e/1FAIpQLSfge9mr-roh7GgZgNJEjeNrdIMwfPjwgbABLwNhV14GfGe_CQ/viewform"> 
+	   <img src="../images/events/WinterRetreat2026/Register.jpeg" width="200" />	
+	</a>	
+</p>
+
+**Location:** <a href="https://www.titlis.ch/de/unterkuenfte/hotel-terrace">Hotel Terrace</a>, Engelberg, Switzerkland <br>
+**Date:** January 5-9, 2026 (including travel days) <br>
+**Registration Deadline: November 15, 2025**
+
+We strongly encourage all members and partners to <a href="https://docs.google.com/forms/d/e/1FAIpQLSfge9mr-roh7GgZgNJEjeNrdIMwfPjwgbABLwNhV14GfGe_CQ/viewform">register ASAP</a> due to limited capacity. Early registrations help us finalize logistics and ensure the best possible experience for everyone. 
+
+Upon registering, you can expect to receive a confirmation email from us (check your spam folders).
+
+Go <a href=https://www.initc3.org/events/2025-01-05-ic3-winter-retreat-2025">here</a> to see highlights from the IC3 Winter Retreat 2025.
+
+
+## Call for Presentations
+
+New research? We’d love for you to present your work!﻿
+
+If you’re interested in giving a talk at this year’s retreat, please indicate this in the registration form. We’ll share the agenda and talk lengths in the coming weeks. For now, RSVP and save the dates.
+
+
+## Accommodations
+
+We reserved a block of rooms at the Terrace Hotel, which will serve as both the lodging and session venue for the retreat. Oana Gherman will book rooms for anyone who wishes to be part of the hotel block. If you choose to be included, please refrain from booking a separate room, as this would result in having two reservations. 
+
+For any inquiries related to accommodations, please reach out to Oana.
+
+**Sharing Rooms:** Students are expected to share accommodations with other students attending the retreat. If you need assistance finding other students who are attending, please let us know.
+
+
+## Important Reminders
+
+IC3 Partners: Each partner company is permitted to send up to 5 employees to attend the Winter Retreat. Unfortunately, we can’t accommodate any more than that due to capacity limitations.
+
+Swiss Visa Applicants: For participants who require visas to enter Switzerland, we encourage you to initiate the visa application process immediately. Securing a visa for a first-time visitor involves several steps, including scheduling an appointment at your Swiss consulate or embassy. Should you require an invitation letter for your visa application, please contact Oana directly.
+
+
+Be on the lookout for additional updates in the coming weeks. We hope to see you in Switzerland!
