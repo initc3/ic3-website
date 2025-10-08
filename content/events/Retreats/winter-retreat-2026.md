@@ -9,7 +9,7 @@ summary: Pack your skis — we’re heading back to the <a href="https://www.tit
 This annual event features presentations and discussions on the latest IC3 research, networking opportunities, group activities, and more. Registration is now open for our partners and members. Please see below for important details.
 
 <div class="ui piled segment">
-  <img class="ui centered image" src="../images/events/WinterRetreat2026/Engelberg.jpg" alt="" width="750" />
+  <img class="ui centered image" src="../images/events/WinterRetreat2026/Engelberg.jpg" alt="" width="750"/>
 </div>
 
 <p align="center">
@@ -28,7 +28,7 @@ Upon registering, you can expect to receive a confirmation email from us (check 
 
 <div class="ui center aligned basic segment">
     <div class="ui center image">
-        <img class="ui image" src="../images/events/WinterRetreat2026/Group.jpg" alt=""/>
+        <img class="ui image" src="../images/events/WinterRetreat2026/Group.jpg" alt="" width="750"/>
     </div>
     <div class="ui bottom attached message">
         <strong>Go <a href=https://www.initc3.org/events/2025-01-05-ic3-winter-retreat-2025">here</a> to see highlights from the IC3 Winter Retreat 2025.
@@ -41,7 +41,7 @@ Upon registering, you can expect to receive a confirmation email from us (check 
 
 <div class="ui center aligned basic segment">
     <div class="ui center image">
-        <img class="ui image" src="../images/events/WinterRetreat2026/seminar.jpg" alt=""/>
+        <img class="ui image" src="../images/events/WinterRetreat2026/seminar.jpg" alt="" width="750"/>
     </div>
 </div>
 
@@ -54,7 +54,7 @@ If you’re interested in giving a talk at this year’s retreat, please indicat
 
 <div class="ui center aligned basic segment">
     <div class="ui center image">
-        <img class="ui image" src="../images/events/WinterRetreat2026/hotel.jpg" alt=""/>
+        <img class="ui image" src="../images/events/WinterRetreat2026/hotel.jpg" alt="" width="750"/>
     </div>
 </div>
 
@@ -62,14 +62,14 @@ We reserved a block of rooms at the Terrace Hotel, which will serve as both the 
 
 For any inquiries related to accommodations, please reach out to Oana at <a href="mailto:og64@cornell.edu">oana.gherman@cornell.edu</a>.
 
-**Sharing Rooms:** Students are expected to share accommodations with other students attending the retreat. If you need assistance finding other students who are attending, please let us know.
+***Sharing Rooms:*** Students are expected to share accommodations with other students attending the retreat. If you need assistance finding other students who are attending, please let us know.
 
 
 ## Important Reminders
 
-**IC3 Partners:** Each partner company is permitted to send up to 5 employees to attend the Winter Retreat. Unfortunately, we can’t accommodate any more than that due to capacity limitations.
+***IC3 Partners:*** Each partner company is permitted to send up to *5 employees* to attend the Winter Retreat. Unfortunately, we can’t accommodate any more than that due to capacity limitations.
 
-**Swiss Visa Applicants:** For participants who require visas to enter Switzerland, we encourage you to initiate the visa application process immediately. Securing a visa for a first-time visitor involves several steps, including scheduling an appointment at your Swiss consulate or embassy. Should you require an invitation letter for your visa application, please contact <a href="mailto:og64@cornell.edu">Oana</a> directly.
+***Swiss Visa Applicants:*** For participants who require visas to enter Switzerland, we encourage you to initiate the visa application process immediately. Securing a visa for a first-time visitor involves several steps, including scheduling an appointment at your Swiss consulate or embassy. Should you require an invitation letter for your visa application, please contact <a href="mailto:og64@cornell.edu">Oana</a> directly.
 
 
 Be on the lookout for additional updates in the coming weeks. We hope to see you in Switzerland!
