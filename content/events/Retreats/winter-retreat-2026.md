@@ -71,5 +71,7 @@ For any inquiries related to accommodations, please reach out to Oana at <a href
 
 ***Swiss Visa Applicants:*** For participants who require visas to enter Switzerland, we encourage you to initiate the visa application process immediately. Securing a visa for a first-time visitor involves several steps, including scheduling an appointment at your Swiss consulate or embassy. Should you require an invitation letter for your visa application, please contact <a href="mailto:og64@cornell.edu">Oana</a> directly.
 
+***NEW EU Border Requirements:*** As of **October 12, 2025**, the EU has started implementing a new Entry/Exit System (EES) which will potentially affect your travel plans. Please check <a href="https://travel-europe.europa.eu/ees">here</a> for details.
+
 
 Be on the lookout for additional updates in the coming weeks. We hope to see you in Switzerland!
