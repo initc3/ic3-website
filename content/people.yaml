@@ -272,6 +272,14 @@ postdocs:
   
 students:
   -
+    name: 'Takudzwa Tarutira'
+    pic: Takudzwa.jpg
+    title:
+    email: ttarutir@andrew.cmu.edu
+    weburl:
+    bio: "Takudzwa Talent Tarutira is an Information Security master's student at Carnegie Mellon University who also holds a Master's degree in Engineering Artificial Intelligence. His research interests lie at the intersection of machine learning and cybersecurity, focusing on adversarial machine learning, security and privacy in machine learning, and the applications of AI in security. Outside of academia, he loves traveling and photography.\n"
+    
+  -
     name: 'Daniel Lee'
     pic: Daniel.jpg
     title:
