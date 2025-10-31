@@ -272,6 +272,22 @@ postdocs:
   
 students:
   -
+    name: 'Widad Boulos'
+    pic: Widad.jpg
+    title:
+    email: widadboulos3@gmail.com
+    weburl:
+    bio: "I'm a graduate student at the Technion, supervised by Professor Ittay Eyal. My research centers on authentication, and I’m also interested in cryptography and the security of blockchain systems.\n"
+
+  -
+    name: 'Isabel Agadagba'
+    pic: Isabel.jpg
+    title:
+    email: iagadagb@andrew.cmu.edu
+    weburl:
+    bio: "Isabel Agadagba is a CMU Rales Fellow pursuing an MSIT in Privacy Engineering at Carnegie Mellon University. She holds a B.S. in Computer Science with a double major in Film and Television, Animation from New York University. Her research focuses on usable security and privacy in the financial sector for underrepresented communities.\n"
+    
+  -
     name: 'Takudzwa Tarutira'
     pic: Takudzwa.jpg
     title:
