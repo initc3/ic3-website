@@ -272,6 +272,14 @@ postdocs:
   
 students:
   -
+    name: 'Yehuda Shani'
+    pic: Yehuda.jpg
+    title:
+    email: yehudashani88@gmail.com
+    weburl:
+    bio: "Yehuda has BSc in Computer Science, and is pursuing a MSc in Electrical Engineering at Technion, researching optimal cryptocurrency wallet design.\n"
+    
+  -
     name: 'Widad Boulos'
     pic: Widad.jpg
     title:
