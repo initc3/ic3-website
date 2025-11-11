@@ -1,5 +1,9 @@
 # Published Papers
 
+## 2026 ##
+
+- A. Yaish, N. Chemaya, L.W. Cong, and D. Malkhi [Inequality in the Age of Pseudonymity](https://arxiv.org/abs/2508.04668). AAAI, 2026 (to appear)
+
 ## 2025 ##
 
 - J. Groth, H. Malvai, A. Miller, and Y-N. Zhang. [Constraint-Friendly Map-to-Elliptic-Curve-Group Relations and Their Applications](https://eprint.iacr.org/2025/1503). ASIACRYPT, 2025. (to appear)
