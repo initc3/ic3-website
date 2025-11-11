@@ -2,7 +2,7 @@
 
 ## 2026 ##
 
-- A. Yaish, N. Chemaya, L.W. Cong, and D. Malkhi [Inequality in the Age of Pseudonymity](https://arxiv.org/abs/2508.04668). AAAI, 2026 (to appear)
+- A. Yaish, N. Chemaya, L.W. Cong, and D. Malkhi. [Inequality in the Age of Pseudonymity](https://arxiv.org/abs/2508.04668). AAAI, 2026 (to appear)
 
 ## 2025 ##
 
