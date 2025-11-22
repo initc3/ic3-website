@@ -9,6 +9,7 @@
 - J. Groth, H. Malvai, A. Miller, and Y-N. Zhang. [Constraint-Friendly Map-to-Elliptic-Curve-Group Relations and Their Applications](https://eprint.iacr.org/2025/1503). ASIACRYPT, 2025. (to appear)
 - F. Suri-Payer, N. Giridharan, L. Arzola, S. Cohen, L. Alvisi, and N. Crooks. [Pesto: Cooking up High Performance BFT Queries](https://www.cs.cornell.edu/lorenzo/papers/Suri25Pesto). SOSP, 2025.
 - L-H. Merino, S. Colombo, R. Reyes, A. Azhir, H. Zhang, J. Allen, B. Tellenbach, V. Estrada-Galiñanes, and B. Ford. [TRIP: Trust-Limited Coercion-Resistant In-Person Voter Registration](https://arxiv.org/abs/2202.06692). SOSP, 2025.
+- M. Zhang, S. Yang, and F. Zhang. [RediSwap: MEV Redistribution Mechanism for CFMMs](https://dl.acm.org/doi/full/10.1145/3733815.3764044). ACM CCS-DeFi, 2025.
 - G. Tan, A. Gascón, S. Meiklejohn, M. Raykova, X. Wang, and N. Luo. [Founding Zero-Knowledge Proofs of Training on Optimum Vicinity](https://eprint.iacr.org/2025/053). ACM CCS, 2025.
 - Y. Bar-On, R. Bar-Zur, O. Ben-Porat, N. Cohen, I. Eyal, and M. Sitbon. [Aegis: Tethering a Blockchain with Primary-Chain Stake](https://arxiv.org/abs/2406.05904). ACM CCS, 2025.
 - R. Bar-Zur and I. Eyal. [Elastic Restaking Network](https://arxiv.org/abs/2503.00170). ACM CCS, 2025.
