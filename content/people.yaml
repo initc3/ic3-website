@@ -632,14 +632,6 @@ students:
     bio: "Nerla is a Ph.D. student at University of Illinois Champaign Urbana. She received her undergraduate degree at Cornell University in 2017 in computer science and biological engineering. She then worked at IBM Research for two years until starting her Ph.D. She is interested in distributed systems and security research."
 
   -
-    name: 'Haoqian Zhang'
-    pic: Haoqian.png
-    title:
-    email: haoqian.zhang@epfl.ch
-    weburl: 
-    bio: "Haoqian is a Ph.D. candidate at the Swiss Federal Institute of Technology in Lausanne (EPFL). His research interests lie in the general area of decentralized systems, particularly in blockchain, as well as their applications in cryptocurrency and smart contracts."
-
-  -
     name: 'Yanyi Liu'
     pic: Yanyi.jpg
     title:
@@ -1390,4 +1382,11 @@ alumni_students:
     email: ujval@berkeley.edu
     weburl: 'https://ujval.co/'
     bio: "I study friction between humans and algorithmic systems, broadly. I'm interested in settings that involve forms of cooperation or competition between agents, e.g. social media platforms, conversational AI assistants and decentralized protocols. Some relevant keywords: decision theory, causal reasoning, algorithmic game theory, social choice, ethics, tech law."
-    
+
+  -
+    name: 'Haoqian Zhang'
+    pic: Haoqian.png
+    title:
+    email: haoqian.zhang@epfl.ch
+    weburl: 
+    bio: "Haoqian was a Ph.D. candidate at the Swiss Federal Institute of Technology in Lausanne (EPFL). His research interests lie in the general area of decentralized systems, particularly in blockchain, as well as their applications in cryptocurrency and smart contracts."
