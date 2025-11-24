@@ -31,6 +31,24 @@ challenges:
 projects:
 
   -
+     name: 'zkStruDul: Programming zkSNARKs with Structural Duality'
+     authors: Rahul Krishnan, Ashley Samuelson, Emily Yao, and Ethan Cecchetti
+     challenges: [*correctness, *compliance]
+     description: Non-Interactive Zero Knowledge (NIZK) proofs, such as zkSNARKS, let one prove knowledge of private data without revealing it or interacting with a verifier. While existing tooling focuses on specifying the predicate to be proven, real-world applications optimize predicate definitions to minimize proof generation overhead, but must correspondingly transform predicate inputs. Implementing these two steps separately duplicates logic that must precisely match to avoid catastrophic security flaws. We address this shortcoming with zkStruDul, a language that unifies input transformations and predicate definitions into a single combined abstraction from which a compiler can project both procedures, eliminating duplicate code and problematic mismatches. zkStruDul provides a high-level abstraction to layer on top of existing NIZK technology and supports important features like recursive proofs. We provide a source-level semantics and prove its behavior is identical to the projected semantics, allowing straightforward standard reasoning. For more information, see our <a href="https://arxiv.org/pdf/2511.10565">work</a>.
+
+  -
+     name: 'New Payment Rails: Implications for Banking'
+     authors: Christine Parlour and Uday Rajan
+     challenges: [*correctness, *confidentiality]
+     description: Making payments in an efficient manner is critical to a well-functioning economic system. While the direct effect of reducing the cost of payments is an increase in user welfare, changes in the payment system can have broader economic effects. This is because payment systems are characterized by a multisided network externality, as the willingness of consumers to participate in a payment method depends on the number of merchants on the system and operators of a payment system can glean information from the payment flows. We highlight the role that banks have played in the payment system and show how payment innovation can lead to bank disintermediation both in payment services and in the credit market. We highlight some recent innovations in payments—some of these rely on the banking system and others try to bypass it. There are many interesting open questions for researchers to explore in this field. For more details, see our <a href="https://www.annualreviews.org/content/journals/10.1146/annurev-financial-112823-023134?crawler=true">paper</a>.
+
+  -
+     name: 'Timing Games in Responsive Consensus Protocols'
+     authors: Kaya Alpturer, Kushal Babel, and Aditya Saraf
+     challenges: [*correctness, *confidentiality]
+     description: Optimistic responsiveness—the ability of a consensus protocol to operate at the speed of the network—is widely used in consensus protocol design to optimize latency and throughput. However, blockchain applications incentivize validators to play timing games by strategically delaying their proposals, since increased block time correlates with greater rewards. Consequently, it may appear that responsiveness (even under optimistic conditions) is impossible in blockchain protocols. In this work, we develop a model of timing games in responsive consensus protocols and find a prisoner’s dilemma structure, where cooperation (proposing promptly) is in the validators’ best interest, but individual incentives encourage validators to delay proposals selfishly. To attain desirable equilibria, we introduce dynamic block rewards that decrease with round time to explicitly incentivize faster proposals. Delays are measured through a voting mechanism, where other validators vote on the current leader’s round time. By carefully setting the protocol parameters, the voting mechanism allows validators to coordinate and reach the cooperative equilibrium, benefiting all through a higher rate-of-reward. Thus, instead of responsiveness being an unattainable property due to timing games, we show that responsiveness itself can promote faster block proposals. One consequence of moving from a static to dynamic block reward is that validator utilities become more sensitive to latency, worsening the gap between the best- and worst-connected validators. Our analysis shows, however, that this effect is minor in both theoretical latency models and simulations based on real-world networks. For more information, see our <a href="https://arxiv.org/pdf/2510.25144">paper</a>.
+     
+  -
      name: 'Crypto ATMs: Material Effects of Virtual Currencies'
      authors: Lin William Cong, Tingyu Feng, Yican Liu, and Fangzhou Lu
      challenges: [*compliance]
