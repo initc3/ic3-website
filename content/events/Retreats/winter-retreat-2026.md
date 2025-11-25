@@ -36,7 +36,16 @@ Upon registering, you can expect to receive a confirmation email from us (check 
     </div>    
 </div>
 
+## Event Draft Agenda
 
+See the full and daily agenda below.
+<div style="margin-left:75px;width:auto">
+
+	<iframe height="600" width="1025" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRx981jQDHeUg0z7c1ATVXPZbqiN4RClVJmnRUh1852xMVDsAA4YBz4dpQrRPd4kQ/pubhtml?widget=true&amp;headers=false"></iframe>
+	
+</div>
+
+<!---
 ## Call for Presentations
 
 <div class="ui center aligned basic segment">
@@ -48,7 +57,7 @@ Upon registering, you can expect to receive a confirmation email from us (check 
 New research? We’d love for you to present your work!﻿
 
 If you’re interested in giving a talk at this year’s retreat, please indicate this in the <a href="https://docs.google.com/forms/d/e/1FAIpQLSfge9mr-roh7GgZgNJEjeNrdIMwfPjwgbABLwNhV14GfGe_CQ/viewform">registration form</a>. We’ll share the agenda and talk lengths in the coming weeks. For now, RSVP and save the dates.
-
+--->
 
 ## Accommodations
 
