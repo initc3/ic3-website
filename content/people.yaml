@@ -551,14 +551,6 @@ students:
     weburl: 'https://xiaoyuanliu.cn/'
     bio: "Xiaoyuan Liu is a Ph.D. student in the EECS department at UC Berkeley advised by Professor Dawn Song. Before joining UC Berkeley, he received his Bachelor's degree from ACM Honors Class, Shanghai Jiao Tong University. He is broadly interested in computer security, systems, and machine learning, especially building systems that enable secure and privacy-preserving data processing or solve real-world security problems."
     
-  -
-    name: 'Ujval Misra'
-    pic: Ujval.jpg
-    title:
-    email: ujval@berkeley.edu
-    weburl: 'https://ujval.co/'
-    bio: "Ujval is a PhD student at UC Berkeley working with Dawn Song. His research interests broadly lie in security, privacy and decentralized trust."
-    
   - 
     name: 'Hongbo Zhang'
     pic: Hongbo.png
@@ -638,14 +630,6 @@ students:
     email: nerlaj2@illinois.edu
     weburl: "https://www.ner.la"
     bio: "Nerla is a Ph.D. student at University of Illinois Champaign Urbana. She received her undergraduate degree at Cornell University in 2017 in computer science and biological engineering. She then worked at IBM Research for two years until starting her Ph.D. She is interested in distributed systems and security research."
-
-  -
-    name: 'Haoqian Zhang'
-    pic: Haoqian.png
-    title:
-    email: haoqian.zhang@epfl.ch
-    weburl: 
-    bio: "Haoqian is a Ph.D. candidate at the Swiss Federal Institute of Technology in Lausanne (EPFL). His research interests lie in the general area of decentralized systems, particularly in blockchain, as well as their applications in cryptocurrency and smart contracts."
 
   -
     name: 'Yanyi Liu'
@@ -1390,4 +1374,19 @@ alumni_students:
     email: yw2322@cornell.edu
     weburl:
     bio: "Yu Wang completed his PhD in the Economics department at Cornell University and an affiliate of the DEFT Lab. He studied macroeconomics and finance, with a focus on firm investment behavior and the non-fungible token market.\n"
-     
+
+  -
+    name: 'Ujval Misra'
+    pic: Ujval.jpg
+    title:
+    email: ujval@berkeley.edu
+    weburl: 'https://ujval.co/'
+    bio: "I study friction between humans and algorithmic systems, broadly. I'm interested in settings that involve forms of cooperation or competition between agents, e.g. social media platforms, conversational AI assistants and decentralized protocols. Some relevant keywords: decision theory, causal reasoning, algorithmic game theory, social choice, ethics, tech law."
+
+  -
+    name: 'Haoqian Zhang'
+    pic: Haoqian.png
+    title:
+    email: haoqian.zhang@epfl.ch
+    weburl: 
+    bio: "Haoqian was a Ph.D. candidate at the Swiss Federal Institute of Technology in Lausanne (EPFL). His research interests lie in the general area of decentralized systems, particularly in blockchain, as well as their applications in cryptocurrency and smart contracts."
