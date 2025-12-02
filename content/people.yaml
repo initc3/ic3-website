@@ -273,7 +273,7 @@ postdocs:
 students:
   -
     name: 'Michael Neuder'
-    pic: Mike.jpg
+    pic: Mike.jpeg
     title:
     email: michael.neuder@princeton.edu
     weburl: 'https://michaelneuder.github.io/'
