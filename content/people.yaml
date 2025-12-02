@@ -272,6 +272,14 @@ postdocs:
   
 students:
   -
+    name: 'Michael Neuder'
+    pic: Mike.jpg
+    title:
+    email: michael.neuder@princeton.edu
+    weburl: 'https://michaelneuder.github.io/'
+    bio: "Mike is a PhD student at Princeton studying blockchain incentive design under the supervision of Professor Matt Weinberg. Prior to returning to school, he was a researcher at the Ethereum Foundation working on Proof-of-Stake and MEV protocol design questions.\n"    
+  
+  -
     name: 'Yehuda Shani'
     pic: Yehuda.jpg
     title:
