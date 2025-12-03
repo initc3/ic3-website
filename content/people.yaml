@@ -582,14 +582,6 @@ students:
     email: shailesh.mishra@epfl.ch
     weburl:
     bio: "Shailesh is a PhD student at EPFL, where he is supervised by Prof. Bryan Ford. His research focuses on security and privacy.\n"
-    
-  -
-    name: 'Michael Mirkin'
-    pic: MichaelM.jpg
-    title:
-    email: smirkin@campus.technion.ac.il
-    weburl:
-    bio: "Michael Mirkin is a graduate student at the Technion. He's interested in distributed systems, cryptography, and P2P networks."
 
   -
     name: 'Nikhil Vanjani'
@@ -1398,3 +1390,11 @@ alumni_students:
     email: haoqian.zhang@epfl.ch
     weburl: 
     bio: "Haoqian was a Ph.D. candidate at the Swiss Federal Institute of Technology in Lausanne (EPFL). His research interests lie in the general area of decentralized systems, particularly in blockchain, as well as their applications in cryptocurrency and smart contracts."
+
+  -
+    name: 'Michael Mirkin'
+    pic: MichaelM.jpg
+    title:
+    email: smirkin@campus.technion.ac.il
+    weburl:
+    bio: "Michael Mirkin completed his PhD at the Technion under the supervision of prof. Ittay Eyal. He's interested in distributed systems, cryptography, and P2P networks."
