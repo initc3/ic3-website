@@ -649,6 +649,14 @@ students:
     
 visitors:
   -
+    name: 'Maryam Bahrani'
+    pic: Maryam.jpg
+    title:
+    email: maryam.bahrani.14@gmail.com
+    weburl: 'https://www.mbahrani.net/'
+    bio: "Maryam is a mechanism design researcher at Ritual. She is interested in the economic aspects of blockchain protocols from consensus to applications. Previously, she was a researcher at a16z crypto, a quant trader at Jane Street, a grad student at Columbia working with Tim Roughgarden, and an undergraduate at Princeton working with Matt Weinberg.\n"
+  
+  -
     name: 'Kaihua Qin'
     pic: Kaihua.jpg
     title:
