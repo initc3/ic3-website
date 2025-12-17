@@ -36,7 +36,7 @@ Upon registering, you can expect to receive a confirmation email from us (check 
     </div>    
 </div>
 
-## Event Draft Agenda
+## Event Agenda
 
 See the full and daily agenda below.
 <div style="margin-left:75px;width:auto">
