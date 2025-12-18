@@ -6,7 +6,7 @@
 
 ## 2025 ##
 
-- J. Groth, H. Malvai, A. Miller, and Y-N. Zhang. [Constraint-Friendly Map-to-Elliptic-Curve-Group Relations and Their Applications](https://eprint.iacr.org/2025/1503). ASIACRYPT, 2025. (to appear)
+- J. Groth, H. Malvai, A. Miller, and Y-N. Zhang. [Constraint-Friendly Map-to-Elliptic-Curve-Group Relations and Their Applications](https://eprint.iacr.org/2025/1503). ASIACRYPT, 2025.
 - A. Farahbakhsh, A. Haeberlen, Q. Lu, L. Alvisi, R. van Renesse, and S. Cohen. [Modeling Metastability](https://dl.acm.org/doi/pdf/10.1145/3772356.3772426). HotNets, 2025.
 - F. Suri-Payer, N. Giridharan, L. Arzola, S. Cohen, L. Alvisi, and N. Crooks. [Pesto: Cooking up High Performance BFT Queries](https://www.cs.cornell.edu/lorenzo/papers/Suri25Pesto). SOSP, 2025.
 - L-H. Merino, S. Colombo, R. Reyes, A. Azhir, H. Zhang, J. Allen, B. Tellenbach, V. Estrada-Galiñanes, and B. Ford. [TRIP: Trust-Limited Coercion-Resistant In-Person Voter Registration](https://arxiv.org/abs/2202.06692). SOSP, 2025.
