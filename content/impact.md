@@ -34,13 +34,13 @@ In addition to our scholarship, IC3 has been extremely active in the open source
 - *<a href="http://deco.works/index.html">DECO</a>*: DECO is a novel privacy-preserving oracle protocol. 
 - *<a href="http://drand.love">drand</a>*: drand is a distributed randomness beacon. It offers verifiable, unpredictable and unbiased random numbers as a service. 
 - *Ekiden*: Adopted by Oasis Labs, <a href="https://arxiv.org/abs/1804.05141">Ekiden</a> is a platform for privacy-preserving smart contract execution.
-- *Falcon Network*: Falcon is a high-performance network for quickly disseminating financial data. It is operated pro bono by IC3 to help improve decentralization of BTC and BCH. In 2018, it was licensed to <a href="https://www.coindesk.com/naval-metastable-bloxroute-blockchain-funding">bloXroute</a>.
-- *GasToken*: <a href="https://gastoken.io"> GasToken</a> is a mechanism for arbitraging gas costs and smoothing out gas cost spikes. Used in <a href="https://www.coindesk.com/sharding-already-ushering-radical-new-ethereum-designs">exchange arbitrage</a>.
+- *Falcon Network*: Falcon is a high-performance network for quickly disseminating financial data. It is operated pro bono by IC3 to help improve decentralization of BTC and BCH. In 2018, it was licensed to bloXroute.
+- *GasToken*: GasToken is a mechanism for arbitraging gas costs and smoothing out gas cost spikes. Used in exchange arbitrage.
 - *HoneyBadgerBFT*: <a href="https://github.com/amiller/HoneyBadgerBFT">Honeybadger</a> is an asynchronous consensus protocol.
 - *Teechan and Teechain*: <a href="https://bitcoinmagazine.com/articles/the-teechan-solution-scaling-bitcoin-with-trusted-hardware-1482956340/">Teechan</a> and <a href="https://www.coindesk.com/ic3-debuts-upgraded-off-chain-transaction-protocol-teechain">Teechain</a> are the fastest Layer-2 implementations to date. They achieve three to four orders of magnitude higher throughput than the Lightning Network, and do not necessitate watch towers, custodians, or any kind of blockchain access after the setup phase. 
 - *Tesseract*: Secure, <a href="https://eprint.iacr.org/2017/1153.pdf">decentralized exchange</a>.
 - *Thunderella*: Core technology of <a href="https://venturebeat.com/2017/10/22/the-cryptoeconomics-of-scaling-blockchains/">Thunder Token</a>.
-- *Town Crier*: <a href="https://www.town-crier.org">Town Crier</a> is a <a href="https://www.technologyreview.com/s/612443/blockchain-smart-contracts-can-finally-have-a-real-world-impact/">trustworthy oracle</a> service. In 2018, it was licensed to SmartContract / Chainlink. 
+- *Town Crier*: Town Crier is a <a href="https://www.technologyreview.com/s/612443/blockchain-smart-contracts-can-finally-have-a-real-world-impact/">trustworthy oracle</a> service. In 2018, it was licensed to SmartContract / Chainlink. 
 
 ## Highly Influential Blockchain Publications
 
