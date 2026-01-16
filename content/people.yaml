@@ -243,7 +243,7 @@ postdocs:
     pic: Mengqian.jpg
     title:
     email: mengqian.cs@gmail.com
-    weburl:
+    weburl: 'https://mengqianzhang.me/'
     bio: "I am currently a Postdoctoral Fellow in the Computer Science Department at Carnegie Mellon University, fortunate to be advised by Prof. Elaine Shi. Prior to this, I was a Postdoctoral Associate in the Department of Computer Science at Yale University, hosted by Prof. Fan Zhang. Her research mainly focuses on blockchain, algorithmic game theory, and decentralized finance.\n"
     
   -
@@ -663,15 +663,7 @@ visitors:
     email: maryam.bahrani.14@gmail.com
     weburl: 'https://www.mbahrani.net/'
     bio: "Maryam is a mechanism design researcher at Ritual. She is interested in the economic aspects of blockchain protocols from consensus to applications. Previously, she was a researcher at a16z crypto, a quant trader at Jane Street, a grad student at Columbia working with Tim Roughgarden, and an undergraduate at Princeton working with Matt Weinberg.\n"
-  
-  -
-    name: 'Kaihua Qin'
-    pic: Kaihua.jpg
-    title:
-    email: kaihua@qin.ac
-    weburl:
-    bio: "Kaihua Qin is a researcher affiliated with Yale University, working with Prof. Fan Zhang and Prof. Zhong Shao. He earned his PhD from Imperial College London, advised by Prof. Arthur Gervais. Kaihua is also a co-founder of D23E. His research interests include blockchain security, DeFi, and AI.\n"
-    
+   
   -
     name: Zhiheng He
     pic: Zhiheng.jpg
