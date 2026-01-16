@@ -242,9 +242,9 @@ postdocs:
     name: 'Mengqian Zhang'
     pic: Mengqian.jpg
     title:
-    email: mengqian.zhang@yale.edu
+    email: mengqian.cs@gmail.com
     weburl:
-    bio: "Mengqian Zhang is currently a Postdoctoral Associate at Yale University, working with Prof. Fan Zhang. Her research mainly focuses on blockchain, algorithmic game theory, and decentralized finance.\n"
+    bio: "I am currently a Postdoctoral Fellow in the Computer Science Department at Carnegie Mellon University, fortunate to be advised by Prof. Elaine Shi. Prior to this, I was a Postdoctoral Associate in the Department of Computer Science at Yale University, hosted by Prof. Fan Zhang. Her research mainly focuses on blockchain, algorithmic game theory, and decentralized finance.\n"
     
   -
     name: 'Aviv Yaish'
@@ -269,7 +269,15 @@ postdocs:
     email: chenhongyin@pku.edu.cn
     weburl: 'https://chenhongyin.com/'
     bio: "Hongyin Chen received his Ph.D. from Peking University and is currently a postdoc in Ittay Eyal's group at the Technion. His work centers on mechanism design and game theory in blockchain.\n"
-  
+
+  -
+    name: 'James Hsin-yu Chiang'
+    pic: JamesC.jpg
+    title: 
+    email: james.chiangwu@gmail.com
+    weburl: 'https://jachiang.github.io/'
+    bio: "James Hsin-yu Chiang is a Postdoctoral Researcher in the Systems Security Group at ETH Zurich. His research focuses on applied cryptography and privacy-preserving systems, with an emphasis on blockchain security, digital identity, and artificial intelligence.\n"
+    
 students:
   -
     name: 'Michael Neuder'
