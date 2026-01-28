@@ -3,7 +3,7 @@ name: 'IC3 Winter Retreat 2026'
 location: Hotel Terrace - Engelberg, Switzerland
 start: 2026-01-05
 end: 2026-01-09
-summary: Thank you to all who joined us for the IC3 Winter Retreat 2026 at the Hotel Terrace in Engelberg, Switzerland!
+summary: Thank you to all who joined us for the IC3 Winter Retreat 2026 at the <a href="https://www.titlis.ch/de/unterkuenfte/hotel-terrace">Hotel Terrace</a> in Engelberg, Switzerland!
 ---
 
 This annual event features presentations and discussions on the latest IC3 research, networking opportunities, group activities, and more. Registration is now open for our partners and members. Please see below for important details.
