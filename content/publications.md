@@ -2,7 +2,9 @@
 
 ## 2026 ##
 
-- A. Yaish, N. Chemaya, L.W. Cong, and D. Malkhi. [Inequality in the Age of Pseudonymity](https://arxiv.org/abs/2508.04668). AAAI, 2026 (to appear)
+- Y. Li, E. Shi, and M. Zhang. [A Trilemma in AMM Mechanism Design](https://fc26.ifca.ai/preproceedings/216.pdf). FC, 2026. (to appear)
+- P. Garimidi, M. Neuder, and T. Roughgarden. [Beyond Winner-Take-All Procurement Auctions](https://fc26.ifca.ai/preproceedings/231.pdf). FC, 2026. (to appear)
+- A. Yaish, N. Chemaya, L.W. Cong, and D. Malkhi. [Inequality in the Age of Pseudonymity](https://arxiv.org/abs/2508.04668). AAAI, 2026.
 
 ## 2025 ##
 
