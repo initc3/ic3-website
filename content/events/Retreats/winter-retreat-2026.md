@@ -97,7 +97,7 @@ To close out Day 2, IC3 Associate Director Andrew Miller and Cornell Tech PhD st
 
 <div class="ui center aligned basic segment">
     <div class="ui center image">
-        <img class="ui image" src="../images/events/WinterRetreat2026/Snowshoe 3.jpeg" alt="" width="500"/>
+        <img class="ui image" src="../images/events/WinterRetreat2026/Snowshoe 3.jpeg" alt="" width="450"/>
     </div>
     <div class="ui center image">
         <img class="ui image" src="../images/events/WinterRetreat2026/Closing Dinner 2.jpeg" alt="" width="500"/>
