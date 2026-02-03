@@ -600,14 +600,6 @@ students:
     bio: "Nikhil Vanjani is a Ph.D. student at Carnegie Mellon University, where he is advised by prof. Elaine Shi. His research interests include cryptography and blockchains."
   
   -
-    name: 'Roi Bar-Zur'
-    pic: Roi.jpg
-    title:
-    email: roi.bar-zur@cs.technion.ac.il
-    weburl:
-    bio: "Roi Bar Zur is a graduate student at the Technion. He is interested in cryptocurrencies, game theory, and reinforcement learning."
-  
-  -
     name: 'Friederike Groschupp'
     pic: Friederike.jpg
     title:
@@ -1406,3 +1398,12 @@ alumni_students:
     email: smirkin@campus.technion.ac.il
     weburl:
     bio: "Michael Mirkin completed his PhD at the Technion under the supervision of prof. Ittay Eyal. He's interested in distributed systems, cryptography, and P2P networks."
+
+  -
+    name: 'Roi Bar-Zur'
+    pic: Roi.jpg
+    title:
+    email: roi.barzur@gmail.com
+    weburl: 'https://roibarzur.github.io/'
+    bio: "Roi completed his PhD program under the supervision of prof. Ittay Eyal and prof. Aviv Tamar at the Technion. He is interested in cryptocurrencies, game theory, and reinforcement learning.\n"
+  
