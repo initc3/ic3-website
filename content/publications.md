@@ -116,6 +116,7 @@
 
 - L.W. Cong, X. Hui, C. Tucker, and L. Zhou. [Scaling Smart Contracts via Layer-2 Technologies: Some Empirical Evidence](https://www.nber.org/papers/w30912). Managemnet Science, 2023.
 - O. Alpos, M. Barbaraci, C. Cachin, N. Schmid, and M. Senn. [Thetacrypt: A Distributed Service for Threshold Cryptography On-Demand: Demo Abstract](https://dl.acm.org/doi/abs/10.1145/3626564.3629100). Middleware, 2023.
+- B.Y. Chan and R. Pass. [Simplex Consensus: A Simple and Fast Consensus Protocol](https://link.springer.com/chapter/10.1007/978-3-031-48624-1_17). TCC, 2023.
 - K. Babel, M. Javaheripi, M. Kelkar, Y. Ji, F. Koushanfar, and A. Juels. [Lanturn: Measuring Economic Security of Smart Contracts Through Adaptive Learning](https://eprint.iacr.org/2023/1338.pdf). ACM CCS, 2023.
 - M. Kelkar, S. Deb, S. Long, A. Juels, and S. Kannan. [Themis: Fast, Strong Order-Fairness in Byzantine Consensus](https://eprint.iacr.org/2021/1465.pdf). ACM CCS, 2023. 
 - D. Zagieboylo, C. Sherk, A. Myers, and G.E. Suh. [SpecVerilog: Adapting Information Flow Control for Secure Speculation](https://www.cs.cornell.edu/andru/papers/specverilog/specverilog.pdf). ACM CCS, 2023. (Distinguished Award Paper)
